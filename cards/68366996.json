@@ -28,7 +28,7 @@
     "Base": "1. Even if this card is not destroyed by battle, damage calculation is still conducted.\\n2. If this card would be destroyed as a result of battle you can still activate the effect to Special Summon a Gemini monster.\\n3. You cannot activate the effect to Special Summon if you have no Gemini monsters in your Deck.\\n4. The effect to Special Summon 1 Gemini monster activates at the same time as effects that trigger when damage is dealt, such as \"Airknight Parshath\"."
   },
   "PSCT": {
-    "Edison": "No Edison-Accurate PSCT available for this card.",
+    "Edison": "Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard.\nⓈ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n① Once per turn, this card is not destroyed by battle.\n② After damage calculation, if this card battles: You can Special Summon 1 Level 4 or lower Gemini monster from your Deck, except \"Gemini Soldier\".",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
