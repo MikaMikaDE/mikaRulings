@@ -1,0 +1,40 @@
+{
+  "id": 28596933,
+  "name": "A Wingbeat of Giant Dragon",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "●Monsters that are changed to Dragon by an effect are eligible to be targeted by “A Wingbeat of Giant Dragon.”\n●Fusion monsters returned to the hand by the effect of “A Wingbeat of Giant Dragon” are returned to the Fusion Deck.\n●If the only eligible Dragon monster is removed from the field before “A Wingbeat of Giant Dragon” resolves, the effect of “A Wingbeat of Giant Dragon” disappears.\n●“A Wingbeat of Giant Dragon” targets the monster it returns to the hand. The ‘return one Lv 5 or higher Dragon’ is not a cost of activation. \n●“A Wingbeat of a Giant Dragon” may not be activated while “Lord of D.” is applying on the field.",
+    "HAT": "● You return the monster to the hand when this card resolves.\n● If you can't return a monster to your hand, no Spells/Traps are destroyed.",
+    "Vegas": "● You return the monster to the hand when this card resolves.\n● If you can't return a monster to your hand, no Spells/Traps are destroyed.",
+    "Meadowlands": "● You return the monster to the hand when this card resolves.\n● If you can't return a monster to your hand, no Spells/Traps are destroyed.",
+    "FireWater": "● You return the monster to the hand when this card resolves.\n● If you can't return a monster to your hand, no Spells/Traps are destroyed.",
+    "Cat": "● 'A Wingbeat of Giant Dragon' targets 1 LV 5 or higher Dragon.\n● If you select a LV 5 or higher Dragon-Type Fusion Monster, it is returned to your Extra Deck.\n● If the selected Dragon is flipped face-down, removed from the field, or has its Monster Type changed, 'A Wingbeat of Giant Dragon's' effect disappears.",
+    "TeleDAD": "● 'A Wingbeat of Giant Dragon' targets 1 LV 5 or higher Dragon.\n● If you select a LV 5 or higher Dragon-Type Fusion Monster, it is returned to your Extra Deck.\n● If the selected Dragon is flipped face-down, removed from the field, or has its Monster Type changed, 'A Wingbeat of Giant Dragon's' effect disappears.",
+    "Gladiator": "● 'A Wingbeat of Giant Dragon' targets 1 LV 5 or higher Dragon.\n● If you select a LV 5 or higher Dragon-Type Fusion Monster, it is returned to your Fusion Deck.\n● If the selected Dragon is flipped face-down, removed from the field, or has its Monster Type changed, 'A Wingbeat of Giant Dragon's' effect disappears.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you select a Level 5 or higher Dragon-Type Fusion Monster, it is returned to your Extra Deck."
+  },
+  "PSCT": {
+    "Tengu": "① Return 1 Level 5 or higher Dragon you control to the hand;\ndestroy all Spells/Traps on the field.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Return 1 Level 5 or higher Dragon you control to the hand, and if you do, destroy all Spells/Traps on the field.",
+    "Meadowlands": "① Return 1 Level 5 or higher Dragon you control to the hand, and if you do, destroy all Spells/Traps on the field.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

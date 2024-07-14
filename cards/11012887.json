@@ -1,0 +1,44 @@
+{
+  "id": 11012887,
+  "name": "Jurrac Guaiba",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 400,
+    "level": 4,
+    "race": "Dinosaur",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "This card does not need to remail on the field for its effect to activate.\n● If it battles another monster with 1700 ATK, and both are destroyed, Guaiba's effect sill activates.\n● If it and \"Ryko, Lightsworn Hunter\" destroy each other, Guaiba's effect still activates.",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect to Special Summon activates at the end of the Damage Step.\\n2. If the monster Special Summoned by this effect is flipped face-down and then returns to face-up Attack Position during the same Battle Phase, it can attack this turn."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

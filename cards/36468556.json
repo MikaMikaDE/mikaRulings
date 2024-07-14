@@ -1,0 +1,40 @@
+{
+  "id": 36468556,
+  "name": "Ceasefire",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "“Ceasefire” does not affect face-down Attack Position monsters.\n●If “Ceasefire” is activated in a Chain to the Flip Effect of a Flip Summoned monster, “Ceasefire” will resolve first, but the Flip Effect will resolve successfully.\n●“Ceasefire” can be activated if one of two conditions are met: 1) There is a face-down Defense position monster on the field. 2) There is a face-up Effect monster on the field.\n●Monster Tokens are not considered Effect monsters for the effect of “Ceasefire.”\n●If a face down “Jinzo” is flipped face up by “Ceasefire,” “Ceasefire’s” effect will completely resolve before “Jinzo’s” effect of negating all Traps resolves.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Ceasefire' can be activated if there is at least 1 face-down Defense Position monster and/or at least 1 face-up Effect Monster.\n● Monsters flipped by 'Ceasefire' are not Flip Summoned, so the effect of 'Mysterious Puppeteer' does not activate.\n● If you chain 'Ceasefire' to the Flip Effect of a monster, the Flip Effect isn't negated.\n● If 'Jinzo' is flipped by 'Ceasefire', the damage from 'Ceasefire's' effect is still inflicted.\n● Monster Tokens and monsters being treated as Equip Cards are not counted as Effect Monsters.",
+    "TeleDAD": "● 'Ceasefire' can be activated if there is at least 1 face-down Defense Position monster and/or at least 1 face-up Effect Monster.\n● Monsters flipped by 'Ceasefire' are not Flip Summoned, so the effect of 'Mysterious Puppeteer' does not activate.\n● If you chain 'Ceasefire' to the Flip Effect of a monster, the Flip Effect isn't negated.\n● If 'Jinzo' is flipped by 'Ceasefire', the damage from 'Ceasefire's' effect is still inflicted.\n● Monster Tokens and monsters being treated as Equip Cards are not counted as Effect Monsters.",
+    "Gladiator": "● 'Ceasefire' can be activated if there is at least 1 face-down Defense Position monster and/or at least 1 face-up Effect Monster.\n● Monsters flipped by 'Ceasefire' are not Flip Summoned, so the effect of 'Mysterious Puppeteer' does not activate.\n● If you chain 'Ceasefire' to the Flip Effect of a monster, the Flip Effect isn't negated.\n● If 'Jinzo' is flipped by 'Ceasefire', the damage from 'Ceasefire's' effect is still inflicted.\n● Monster Tokens and monsters being treated as Equip Cards are not counted as Effect Monsters.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Ceasefire\" can be activated if there is at least 1 face-down Defense Position monster and/or at least 1 face-up Effect Monster.\\n2. Monsters flipped by \"Ceasefire\" are not Flip Summoned, so the effect of \"Mysterious Puppeteer\" does not activate.\\n3. If you chain \"Ceasefire\" to the Flip Effect of a monster, the Flip Effect is not negated.\\n4. If \"Jinzo\" is flipped by \"Ceasefire\", the damage from the effect of \"Ceasefire\" is still inflicted.\\n5. Monster Tokens and monsters being treated as Equip Cards are not counted as Effect Monsters."
+  },
+  "PSCT": {
+    "Tengu": "① If a Set monster or Effect Monster is on the field: \nChange all face-down Defense Position monsters on the field to face-up Defense Position, \n(Flip effects aren't activated), also your opponent takes 500 damage for each Effect Monster on the field.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

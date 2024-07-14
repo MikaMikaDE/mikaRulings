@@ -1,0 +1,40 @@
+{
+  "id": 71453557,
+  "name": "Autonomous Action Unit",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "Pay 1500 Life Points. Select 1 Monster Card from your opponent's GY. Special Summon it to your side of the field in Attack Position, and equip it with this card. (1) When this card is removed from the field, destroy the equipped monster.\n●Paying 1500 Life Points is a cost.\n●This effect targets 1 monster in your opponent GY, it is negated by Necrovalley.\n●The (1) Continuous-like Effect does not start a Chain.\n●If this card returns to the hand (by Giant Trunade), destroy the equipped monster immediately.\n●If you use Autonomous Action Unit to Special Summon a monster from your opponent's GY and then activate Dimensionhole, Autonomous Action Unit is destroyed and when the monster returns to the field it returns to the original owner's control.",
+    "Goat": "●When Autonomous Action Unit is returned to the hand (with Giant Trunade, etc.), the equipped monster is destroyed.\n●If you use Autonomous Action Unit to Special Summon a monster from your opponent's GY and then activate Dimensionhole, Autonomous Action Unit is destroyed and when the monster returns to the field it returns to the original owner's control.\n●Q: If an opponent’s monster is Special Summoned to my side of the field by the effect of “Autonomous Action Unit” and then “Interdimensional Matter Transporter” is activated to remove the monster from play, which side of the field will the monster return to during the End Phase? \nA: When you removed the opponent's monster equiped with Autonomous Action Unit from play with the effect of Intedimensional Matter Transporter, the Autonomous Action Unit is sent to the GY. After the monster is returned to your side the field during the End Phase, the monster is returned to its owner's control. If you use Dimensionhole, during the SP when the monster is returned, after placing it back onto your side of the field (onto the zone it has occupied when removed by the effect of Dimensionhole) the monster is returned to its original owner's control.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Autonomous Action Unit' is returned to the hand (with 'Giant Trunade', etc.), the equipped monster is destroyed.\n● If you use 'Autonomous Action Unit' to Special Summon a monster from your opponent's GY and then activate 'Dimensionhole', 'Autonomous Action Unit' is destroyed and when the monster returns to the field it returns to the original owner's control.",
+    "TeleDAD": "● When 'Autonomous Action Unit' is returned to the hand (with 'Giant Trunade', etc.), the equipped monster is destroyed.\n● If you use 'Autonomous Action Unit' to Special Summon a monster from your opponent's GY and then activate 'Dimensionhole', 'Autonomous Action Unit' is destroyed and when the monster returns to the field it returns to the original owner's control.",
+    "Gladiator": "● When 'Autonomous Action Unit' is returned to the hand (with 'Giant Trunade', etc.), the equipped monster is destroyed.\n● If you use 'Autonomous Action Unit' to Special Summon a monster from your opponent's GY and then activate 'Dimensionhole', 'Autonomous Action Unit' is destroyed and when the monster returns to the field it returns to the original owner's control.",
+    "ReturnDAD": "● When 'Autonomous Action Unit' is returned to the hand (with 'Giant Trunade', etc.), the equipped monster is destroyed.\n● If you use 'Autonomous Action Unit' to Special Summon a monster from your opponent's GY and then activate 'Dimensionhole', 'Autonomous Action Unit' is destroyed and when the monster returns to the field it returns to the original owner's control.",
+    "Trooper": "● When 'Autonomous Action Unit' is returned to the hand (with 'Giant Trunade', etc.), the equipped monster is destroyed.\n● If you use 'Autonomous Action Unit' to Special Summon a monster from your opponent's GY and then activate 'Dimensionhole', 'Autonomous Action Unit' is destroyed and when the monster returns to the field it returns to the original owner's control.",
+    "Circle": "● When 'Autonomous Action Unit' is returned to the hand (with 'Giant Trunade', etc.), the equipped monster is destroyed.\n● If you use 'Autonomous Action Unit' to Special Summon a monster from your opponent's GY and then activate 'Dimensionhole', 'Autonomous Action Unit' is destroyed and when the monster returns to the field it returns to the original owner's control.",
+    "Stein": "● When 'Autonomous Action Unit' is returned to the hand (with 'Giant Trunade', etc.), the equipped monster is destroyed.\n● If you use 'Autonomous Action Unit' to Special Summon a monster from your opponent's GY and then activate 'Dimensionhole', 'Autonomous Action Unit' is destroyed and when the monster returns to the field it returns to the original owner's control.",
+    "Base": "1. When \"Autonomous Action Unit\" is returned to the hand (with \"Giant Trunade\", etc.), the equipped monster is destroyed.\\n2. If you use \"Autonomous Action Unit\" to Special Summon a monster from your opponent's GY and then activate \"Dimensionhole\", \"Autonomous Action Unit\" is destroyed and when the monster returns to the field it returns to the original owner's control."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

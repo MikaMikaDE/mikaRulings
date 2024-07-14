@@ -1,0 +1,40 @@
+{
+  "id": 69542930,
+  "name": "Dedication through Light and Darkness",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "\n●Dedication through Light and Darkness does not target.\n●You select the Dark Magician of Chaos you wish to Special Summon when you resolve Dedication through Light and Darkness, not when you activate it.\n●You can Tribute a face-down Dark Magician to activate Dedication through Light and Darkness.",
+    "Goat": "●Dedication through Light and Darkness does not target.\n●You select the Dark Magician of Chaos you wish to Special Summon when you resolve Dedication through Light and Darkness, not when you activate it.\n●You can Tribute a face-down Dark Magician to activate Dedication through Light and Darkness.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Dedication through Light and Darkness' does not target.\n● You select the 'Dark Magician of Chaos' you wish to Special Summon when you resolve 'Dedication through Light and Darkness', not when you activate it.\n● You can Tribute a face-down 'Dark Magician' to activate 'Dedication through Light and Darkness'.",
+    "TeleDAD": "● 'Dedication through Light and Darkness' does not target.\n● You select the 'Dark Magician of Chaos' you wish to Special Summon when you resolve 'Dedication through Light and Darkness', not when you activate it.\n● You can Tribute a face-down 'Dark Magician' to activate 'Dedication through Light and Darkness'.",
+    "Gladiator": "● 'Dedication through Light and Darkness' does not target.\n● You select the 'Dark Magician of Chaos' you wish to Special Summon when you resolve 'Dedication through Light and Darkness', not when you activate it.\n● You can Tribute a face-down 'Dark Magician' to activate 'Dedication through Light and Darkness'.",
+    "ReturnDAD": "● 'Dedication through Light and Darkness' does not target.\n● You select the 'Dark Magician of Chaos' you wish to Special Summon when you resolve 'Dedication through Light and Darkness', not when you activate it.\n● You can Tribute a face-down 'Dark Magician' to activate 'Dedication through Light and Darkness'.",
+    "Trooper": "● 'Dedication through Light and Darkness' does not target.\n● You select the 'Dark Magician of Chaos' you wish to Special Summon when you resolve 'Dedication through Light and Darkness', not when you activate it.\n● You can Tribute a face-down 'Dark Magician' to activate 'Dedication through Light and Darkness'.",
+    "Circle": "● 'Dedication through Light and Darkness' does not target.\n● You select the 'Dark Magician of Chaos' you wish to Special Summon when you resolve 'Dedication through Light and Darkness', not when you activate it.\n● You can Tribute a face-down 'Dark Magician' to activate 'Dedication through Light and Darkness'.",
+    "Stein": "● 'Dedication through Light and Darkness' does not target.\n● You select the 'Dark Magician of Chaos' you wish to Special Summon when you resolve 'Dedication through Light and Darkness', not when you activate it.\n● You can Tribute a face-down 'Dark Magician' to activate 'Dedication through Light and Darkness'.",
+    "Base": "1. \"Dedication through Light and Darkness\" does not target.\\n2. You select the \"Dark Magician of Chaos\" you wish to Special Summon when you resolve \"Dedication through Light and Darkness\", not when you activate it.\\n3. You can Tribute a face-down \"Dark Magician\" to activate \"Dedication through Light and Darkness\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

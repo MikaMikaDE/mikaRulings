@@ -1,0 +1,44 @@
+{
+  "id": 2980764,
+  "name": "Consecrated Light",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● You can Tribute this card to Tribute Summon a DARK monster.\n● You can't use this card as Synchro Material for a DARK monster.\n● While this card is on the field, you can Summon \"Light and Darkness Dragon\", but it can't attack.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can Summon \"Light and Darkness Dragon\" while \"Consecrated Light\" is on the field. Once it is on the field, it will be unable to attack."
+  },
+  "PSCT": {
+    "Tengu": "① Neither player can Normal or Special Summon DARKs.\n② Neither player can attack with DARKs. \n③ Can't be destroyed by battle with a DARK. \n④ If this card battles a DARK, you take no Battle Damage from that Battle.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

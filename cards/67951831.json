@@ -1,0 +1,40 @@
+{
+  "id": 67951831,
+  "name": "Hero Heart",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You only halve the ATK of the selected “Elemental Hero” when “Hero Heart” resolves. If you later equip the monster with “Axe of Despair” it will get the full +1000 ATK.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You only halve the ATK of the selected “Elemental Hero” when “Hero Heart” resolves. If you later equip the monster with “Axe of Despair” it will get the full +1000 ATK.",
+    "TeleDAD": "● You only halve the ATK of the selected “Elemental Hero” when “Hero Heart” resolves. If you later equip the monster with “Axe of Despair” it will get the full +1000 ATK.",
+    "Gladiator": "● You only halve the ATK of the selected “Elemental Hero” when “Hero Heart” resolves. If you later equip the monster with “Axe of Despair” it will get the full +1000 ATK.",
+    "ReturnDAD": "● You only halve the ATK of the selected “Elemental Hero” when “Hero Heart” resolves. If you later equip the monster with “Axe of Despair” it will get the full +1000 ATK.",
+    "Trooper": "● You only halve the ATK of the selected “Elemental Hero” when “Hero Heart” resolves. If you later equip the monster with “Axe of Despair” it will get the full +1000 ATK.",
+    "Circle": "● You only halve the ATK of the selected “Elemental Hero” when “Hero Heart” resolves. If you later equip the monster with “Axe of Despair” it will get the full +1000 ATK.",
+    "Stein": "● You only halve the ATK of the selected “Elemental Hero” when “Hero Heart” resolves. If you later equip the monster with “Axe of Despair” it will get the full +1000 ATK.",
+    "Base": "1. You only halve the ATK of the selected 'Elemental HERO' when \"Hero Heart\" resolves. If you later equip the monster with \"Axe of Despair\" it will get the full +1000 ATK."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

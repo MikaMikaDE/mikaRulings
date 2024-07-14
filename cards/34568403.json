@@ -1,0 +1,44 @@
+{
+  "id": 34568403,
+  "name": "Arcana Force VII - The Chariot",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 1700,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) When this card is Summoned, toss a coin: ● Heads: If this card destroys an opponent's monster by battle, you can Special Summon that monster to your side of the field. ● Tails: Your opponent gains control of this card.\n●The (1) Trigger Effect is mandatory, it activates & resolves on the field.\n●When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by Skill Drain, but this card will not forget which effect is gained while face-up.\n●The (HEADS) Trigger Effect is optional, it activates & resolves on the field.\n●This effect activates in Substep 7 - End of the Damage Step.\n●If The Chariot is destroyed by a monster with equal ATK, its heads effect wont activate.\n●If your Arcana Force VII - The Chariot destroys a Crystal Beast monster by battle and the Crystal Beast monster is placed into the Spell and Trap Card Zone, you cannot Special Summon that Crystal Beast monster.\n●The (TAILS) Continuous Effect applies while this card is face-up on the field.\n●If Reversal of Fate changes Arcana Force VII - The Chariot's effect from heads to tails, control of Arcana Force VII - The Chariot immediately shifts to the opponent. If its effect is changed to heads again after control is shifted to the opponent, it remains under the opponent's control.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Arcana Force VII - The Chariot's' heads effect activates at the end of the Damage Step, when the monster it destroys in battle is sent to the GY or Removed Zone. \n● If 'Reversal of Fate' changes 'Arcana Force VII - The Chariot's' effect from heads to tails, control of 'Arcana Force VII - The Chariot' immediately shifts to the opponent. If its effect is changed to heads again after control is shifted to the opponent, it remains under the opponent's control.\n● If your 'Arcana Force VII - The Chariot' destroys a 'Crystal Beast' monster by battle and the 'Crystal Beast' monster is placed into the Spell/Trap Card Zone, you can't Special Summon that 'Crystal Beast' monster.\n● If The Chariot is destroyed by a monster with equal ATK, its heads effect wont activate.",
+    "TeleDAD": "● 'Arcana Force VII - The Chariot's' heads effect activates at the end of the Damage Step, when the monster it destroys in battle is sent to the GY or Removed Zone. \n● If 'Reversal of Fate' changes 'Arcana Force VII - The Chariot's' effect from heads to tails, control of 'Arcana Force VII - The Chariot' immediately shifts to the opponent. If its effect is changed to heads again after control is shifted to the opponent, it remains under the opponent's control.\n● If your 'Arcana Force VII - The Chariot' destroys a 'Crystal Beast' monster by battle and the 'Crystal Beast' monster is placed into the Spell/Trap Card Zone, you can't Special Summon that 'Crystal Beast' monster.\n● If The Chariot is destroyed by a monster with equal ATK, its heads effect wont activate.",
+    "Gladiator": "● 'Arcana Force VII - The Chariot's' heads effect activates at the end of the Damage Step, when the monster it destroys in battle is sent to the GY or Removed Zone. \n● If 'Reversal of Fate' changes 'Arcana Force VII - The Chariot's' effect from heads to tails, control of 'Arcana Force VII - The Chariot' immediately shifts to the opponent. If its effect is changed to heads again after control is shifted to the opponent, it remains under the opponent's control.\n● If your 'Arcana Force VII - The Chariot' destroys a 'Crystal Beast' monster by battle and the 'Crystal Beast' monster is placed into the Spell/Trap Card Zone, you can't Special Summon that 'Crystal Beast' monster.\n● If The Chariot is destroyed by a monster with equal ATK, its heads effect wont activate.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The heads effect of \"Arcana Force VII - The Chariot\" activates at the end of the Damage Step, when the monster it destroys in battle is sent to the GY or Removed Zone.\\n2. If \"Reversal of Fate\" changes the effect of \"Arcana Force VII - The Chariot\" from heads to tails, control of \"Arcana Force VII - The Chariot\" immediately shifts to the opponent. If its effect is changed to heads again after control is shifted to the opponent, it remains under the opponent's control.\\n3. If your \"Arcana Force VII - The Chariot\" destroys a 'Crystal Beast' monster by battle and the 'Crystal Beast' monster is placed into the Spell and Trap Card Zone, you cannot Special Summon that 'Crystal Beast' monster.\\n4. If The Chariot is destroyed by a monster with equal ATK, its heads effect wont activate."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

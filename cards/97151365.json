@@ -1,0 +1,40 @@
+{
+  "id": 97151365,
+  "name": "Spacegate",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Placing a Gate Counter onto Spacegate does not start a Chain.\n●Sending Spacegate to the GY is a cost to activate its second effect.\n●If Royal Decree is chained to the second effect of Spacegate, Spacegate's effect is negated because the effect activated on the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Placing a 'Gate Counter' onto 'Spacegate' does not start a Chain.\n● Sending 'Spacegate' to the GY is a cost to activate its second effect.\n● If 'Royal Decree' is chained to the second effect of 'Spacegate', 'Spacegate's' effect is negated because the effect activated on the field.",
+    "TeleDAD": "● Placing a 'Gate Counter' onto 'Spacegate' does not start a Chain.\n● Sending 'Spacegate' to the GY is a cost to activate its second effect.\n● If 'Royal Decree' is chained to the second effect of 'Spacegate', 'Spacegate's' effect is negated because the effect activated on the field.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Placing a 'Gate Counter' onto \"Spacegate\" does not start a Chain.\\n2. Sending \"Spacegate\" to the GY is a cost to activate its second effect.\\n3. If \"Royal Decree\" is chained to the second effect of \"Spacegate\", the effect of \"Spacegate\" is negated because the effect activated on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

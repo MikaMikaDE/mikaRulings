@@ -1,0 +1,44 @@
+{
+  "id": 85138716,
+  "name": "Rescue Rabbit",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 100,
+    "level": 4,
+    "race": "Beast",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. [FORUM] As part of the activation requirement of \"Rescue Rabbit\" (text before the semi-colon), you banish the card. This means that as you activate the effect as Chain Link 1, when your opponent has an opportunity to respond with Chain Link 2, \"Rescue Rabbit\" is no longer face-up on the field. This means that the opponent is unable to activate \"Effect Veiler\" as \"Rescue Rabbit\" is not face-up on the field.\\n2. [FORUM] The effect of \"Rescue Rabbit\" Special Summons both monsters simultaneously. Assuming the monsters are 1500 ATK or higher, the opponent will be able to activate \"Bottomless Trap Hole\" in response to the successful Special Summon and both monsters would be banished if \"Bottomless Trap Hole\" successfully resolves.\\n3. [FORUM] \"Rescue Rabbit\" banishes itself from play as part of its cost. \"Skill Drain\" does not keep a player from activating the effect of his/her face-up Monster, it simply negates the effect of that Monster if the Monster is face-up when its effect resolves. So \"Rescue Rabbit\" can be activated and will resolve successfully while \"Skill Drain\" is on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

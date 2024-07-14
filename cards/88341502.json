@@ -1,0 +1,40 @@
+{
+  "id": 88341502,
+  "name": "Ebon Arrow",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If the monster targeted by “Ebon Arrow” destroys a monster with equal ATK (so both are destroyed), the opponent still takes damage based on their destroyed monster’s DEF. “Ebon Arrow” targets the monster you select. If a monster is targeted by 2 “Ebon Arrow” effects, it loses 1000 ATK, and both effects that inflict damage based on DEF will activate (they form a chain). However, the battle damage inflicted to the opponent still only happens once. You can activate “Ebon Arrow” during the Damage Step, or during Main Phase 2. If control of the monster switches to the opponent and it battles, it is your opponent who will take damage from the effect of “Ebon Arrow”. You can target “Elemental Hero Wildheart” but the effects will not be applied.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If the monster targeted by \"Ebon Arrow\" destroys a monster with equal ATK (so both are destroyed), the opponent still takes damage based on their destroyed monster's DEF.\\n2. \"Ebon Arrow\" targets the monster you select.\\n3. If a monster is targeted by 2 \"Ebon Arrow\" effects, it loses 1000 ATK, and both effects that inflict damage based on DEF will activate (they form a chain). However, the battle damage inflicted to the opponent still only happens once.\\n4. You can activate \"Ebon Arrow\" during the Damage Step, or during Main Phase 2.\\n5. If control of the monster switches to the opponent and it battles, it is your opponent who will take damage from the effect of \"Ebon Arrow\".\\n6. You can target \"Elemental HERO Wildheart\" but the effects will not be applied."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

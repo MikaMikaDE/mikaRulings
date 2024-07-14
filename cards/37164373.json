@@ -1,0 +1,44 @@
+{
+  "id": 37164373,
+  "name": "Madolche Queen Tiaramisu",
+  "Stats": {
+    "type": "XYZ Monster",
+    "frameType": "xyz",
+    "atk": 2200,
+    "def": 2100,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If there are no \"Madolche\" cards in your GY, you can't activate this effect.",
+    "Vegas": "● If there are no \"Madolche\" cards in your GY, you can't activate this effect.",
+    "Meadowlands": "● If there are no \"Madolche\" cards in your GY, you can't activate this effect.",
+    "FireWater": "● If there are no \"Madolche\" cards in your GY, you can't activate this effect.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. [FORUM] If \"Madolche Queen Tiaramisu\" is destroyed by your opponent's card effect, such as \"Dark Hole\" or \"Bottomless Trap Hole\", the Xyz Materials will not be shuffled into the Deck. The Xyz materials under Tiaramisu are \"sent to the GY\" because of the game mechanics. But they are not \"destroyed\" and they are not sent to the GY \"by your opponent's card\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "2 Level 4 \"Madolche\" monsters\n① Once per turn: You can detach 1 Material from this card, \nthen target up to 2 \"Madolche\" cards in your GY; shuffle them into the Deck, \nalso, after that, shuffle cards your opponent controls into the Deck, up to the number returned.",
+    "Meadowlands": "2 Level 4 \"Madolche\" monsters\n① Once per turn: You can detach 1 Material from this card, \nthen target up to 2 \"Madolche\" cards in your GY; shuffle them into the Deck, \nalso, after that, shuffle cards your opponent controls into the Deck, up to the number returned.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

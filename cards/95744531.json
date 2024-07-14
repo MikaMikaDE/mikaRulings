@@ -1,0 +1,44 @@
+{
+  "id": 95744531,
+  "name": "Griggle",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 350,
+    "def": 300,
+    "level": 1,
+    "race": "Plant",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card’s effect is not activated when equipped to an opponent’s Relinquished or Thousand-Eyes Restrict.\n●If your opponent uses Change of Heart on a face-down Griggle and Flip Summons it, when it returns to you during the End Phase, its effect activates and your opponent will gain 3000 Life Points.",
+    "Goat": "●This card’s effect is not activated when equipped to an opponent’s Relinquished or Thousand-Eyes Restrict.\n●If your opponent uses Change of Heart on a face-down Griggle and Flip Summons it, when it returns to you during the End Phase, its effect activates and your opponent will gain 3000 LP.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s effect isn't activated when equipped to an opponent’s 'Relinquished' or 'Thousand-Eyes Restrict'.\n● If your opponent uses 'Change of Heart' on a face-down 'Griggle' and Flip Summons it, when it returns to you during the End Phase, its effect activates and your opponent will gain 3000 LP.",
+    "TeleDAD": "● This card’s effect isn't activated when equipped to an opponent’s 'Relinquished' or 'Thousand-Eyes Restrict'.\n● If your opponent uses 'Change of Heart' on a face-down 'Griggle' and Flip Summons it, when it returns to you during the End Phase, its effect activates and your opponent will gain 3000 LP.",
+    "Gladiator": "● This card’s effect isn't activated when equipped to an opponent’s 'Relinquished' or 'Thousand-Eyes Restrict'.\n● If your opponent uses 'Change of Heart' on a face-down 'Griggle' and Flip Summons it, when it returns to you during the End Phase, its effect activates and your opponent will gain 3000 LP.",
+    "ReturnDAD": "● This card’s effect isn't activated when equipped to an opponent’s 'Relinquished' or 'Thousand-Eyes Restrict'.\n● If your opponent uses 'Change of Heart' on a face-down 'Griggle' and Flip Summons it, when it returns to you during the End Phase, its effect activates and your opponent will gain 3000 LP.",
+    "Trooper": "● This card’s effect isn't activated when equipped to an opponent’s 'Relinquished' or 'Thousand-Eyes Restrict'.\n● If your opponent uses 'Change of Heart' on a face-down 'Griggle' and Flip Summons it, when it returns to you during the End Phase, its effect activates and your opponent will gain 3000 LP.",
+    "Circle": "● This card’s effect isn't activated when equipped to an opponent’s 'Relinquished' or 'Thousand-Eyes Restrict'.\n● If your opponent uses 'Change of Heart' on a face-down 'Griggle' and Flip Summons it, when it returns to you during the End Phase, its effect activates and your opponent will gain 3000 LP.",
+    "Stein": "● This card’s effect isn't activated when equipped to an opponent’s 'Relinquished' or 'Thousand-Eyes Restrict'.\n● If your opponent uses 'Change of Heart' on a face-down 'Griggle' and Flip Summons it, when it returns to you during the End Phase, its effect activates and your opponent will gain 3000 LP.",
+    "Base": "1. This card's effect is not activated when equipped to an opponent's \"Relinquished\" or \"Thousand-Eyes Restrict\".\\n2. If your opponent uses \"Change of Heart\" on a face-down \"Griggle\" and Flip Summons it, when it returns to you during the End Phase, its effect activates and your opponent will gain 3000 Life Points."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

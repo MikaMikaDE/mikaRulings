@@ -1,0 +1,40 @@
+{
+  "id": 72575145,
+  "name": "Demotion",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●A monster's Level cannot go below 1. You can equip 2 Demotions to a monster to reduce its Level by 4.",
+    "Goat": "●A monster's Lv cannot go below 1. You can equip 2 Demotions to a monster to reduce its Lv by 4.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● A monster's LV can't go below 1. You can equip 2 'Demotions' to a monster to reduce its LV by 4.",
+    "TeleDAD": "● A monster's LV can't go below 1. You can equip 2 'Demotions' to a monster to reduce its LV by 4.",
+    "Gladiator": "● A monster's LV can't go below 1. You can equip 2 'Demotions' to a monster to reduce its LV by 4.",
+    "ReturnDAD": "● A monster's LV can't go below 1. You can equip 2 'Demotions' to a monster to reduce its LV by 4.",
+    "Trooper": "● A monster's LV can't go below 1. You can equip 2 'Demotions' to a monster to reduce its LV by 4.",
+    "Circle": "● A monster's LV can't go below 1. You can equip 2 'Demotions' to a monster to reduce its LV by 4.",
+    "Stein": "● A monster's LV can't go below 1. You can equip 2 'Demotions' to a monster to reduce its LV by 4.",
+    "Base": "1. A monster's Level cannot go below 1. You can equip 2 copies of \"Demotion\" to a monster to reduce its Level by 4."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

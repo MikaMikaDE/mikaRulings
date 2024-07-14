@@ -1,0 +1,40 @@
+{
+  "id": 1689516,
+  "name": "The Big March of Animals",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "\n●“The Big March of Animals” applies its effect at resolution of the card and does not recalculate during the turn. Its effect lasts as long as the affected monsters remain face-up on the field, or until the End Phase.\n●“The Big March of Animals” does not affect monsters Summoned after it resolves.\n●“The Big March of Animals” does not count or affect face-down monsters.\n●This is not an effect that targets. It is applied to all face-up Beast-Type monsters on your side of the field.",
+    "Goat": "“The Big March of Animals” applies its effect at resolution of the card and does not recalculate during the turn. Its effect lasts as long as the affected monsters remain face-up on the field, or until the End Phase.\n●“The Big March of Animals” does not affect monsters Summoned after it resolves.\n●“The Big March of Animals” does not count or affect face-down monsters.\n●This is not an effect that targets. It is applied to all face-up Beast monsters on your side of the field.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “The Big March of Animals” applies its effect at resolution of the card and does not recalculate during the turn. Its effect lasts as long as the affected monsters remain applying, or until the End Phase.\n● “The Big March of Animals” does not affect monsters Summoned after it resolves.\n● “The Big March of Animals” does not count or affect face-down monsters.\n● This isn't an effect that targets. It is applied to all face-up Beasts on your side of the field.",
+    "TeleDAD": "● “The Big March of Animals” applies its effect at resolution of the card and does not recalculate during the turn. Its effect lasts as long as the affected monsters remain applying, or until the End Phase.\n● “The Big March of Animals” does not affect monsters Summoned after it resolves.\n● “The Big March of Animals” does not count or affect face-down monsters.\n● This isn't an effect that targets. It is applied to all face-up Beasts on your side of the field.",
+    "Gladiator": "● “The Big March of Animals” applies its effect at resolution of the card and does not recalculate during the turn. Its effect lasts as long as the affected monsters remain applying, or until the End Phase.\n● “The Big March of Animals” does not affect monsters Summoned after it resolves.\n● “The Big March of Animals” does not count or affect face-down monsters.\n● This isn't an effect that targets. It is applied to all face-up Beasts on your side of the field.",
+    "ReturnDAD": "● “The Big March of Animals” applies its effect at resolution of the card and does not recalculate during the turn. Its effect lasts as long as the affected monsters remain applying, or until the End Phase.\n● “The Big March of Animals” does not affect monsters Summoned after it resolves.\n● “The Big March of Animals” does not count or affect face-down monsters.\n● This isn't an effect that targets. It is applied to all face-up Beasts on your side of the field.",
+    "Trooper": "● “The Big March of Animals” applies its effect at resolution of the card and does not recalculate during the turn. Its effect lasts as long as the affected monsters remain applying, or until the End Phase.\n● “The Big March of Animals” does not affect monsters Summoned after it resolves.\n● “The Big March of Animals” does not count or affect face-down monsters.\n● This isn't an effect that targets. It is applied to all face-up Beasts on your side of the field.",
+    "Circle": "● “The Big March of Animals” applies its effect at resolution of the card and does not recalculate during the turn. Its effect lasts as long as the affected monsters remain applying, or until the End Phase.\n● “The Big March of Animals” does not affect monsters Summoned after it resolves.\n● “The Big March of Animals” does not count or affect face-down monsters.\n● This isn't an effect that targets. It is applied to all face-up Beasts on your side of the field.",
+    "Stein": "● “The Big March of Animals” applies its effect at resolution of the card and does not recalculate during the turn. Its effect lasts as long as the affected monsters remain applying, or until the End Phase.\n● “The Big March of Animals” does not affect monsters Summoned after it resolves.\n● “The Big March of Animals” does not count or affect face-down monsters.\n● This isn't an effect that targets. It is applied to all face-up Beasts on your side of the field.",
+    "Base": "1. \"The Big March of Animals\" applies its effect at resolution of the card and does not recalculate during the turn. Its effect lasts as long as the affected monsters remain face-up on the field, or until the End Phase.\\n2. \"The Big March of Animals\" does not affect monsters Summoned after it resolves.\\n3. \"The Big March of Animals\" does not count or affect face-down monsters.\\n4. This is not an effect that targets. It is applied to all face-up Beast-Type monsters on your side of the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

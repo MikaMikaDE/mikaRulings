@@ -1,0 +1,44 @@
+{
+  "id": 20663556,
+  "name": "Substitoad",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 2000,
+    "level": 1,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "● Like all ignition effects, this card's effect can be activated whenever you summon a monster. When you summon Substitoad, you can activate its effect using your ignition priority. When the \"frog\" monster is summoned, Substitoad's effect can be activated again, using your ignition priority.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Tributing 1 monster you control is a cost.\n● 'Substitoad's' effect can't be activated if you do not have any eligible 'Frog' monsters remaining in your Deck.",
+    "TeleDAD": "● Tributing 1 monster you control is a cost.\n● 'Substitoad's' effect can't be activated if you do not have any eligible 'Frog' monsters remaining in your Deck.",
+    "Gladiator": "● Tributing 1 monster you control is a cost.\n● 'Substitoad's' effect can't be activated if you do not have any eligible 'Frog' monsters remaining in your Deck.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Tributing 1 monster you control is a cost.\\n2. The effect of \"Substitoad\" cannot be activated if you do not have any eligible 'Frog' monsters remaining in your Deck."
+  },
+  "PSCT": {
+    "Tengu": "① You can tribute 1 monster; Special Summon 1 \"Frog\" monster from your Deck.\n② \"Frog\" monsters can't be destroyed by battle.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

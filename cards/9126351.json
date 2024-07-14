@@ -1,0 +1,44 @@
+{
+  "id": 9126351,
+  "name": "Swap Frog",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 500,
+    "level": 2,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "● Discarding 1 WATER monster for this card’s Ⓢ is a cost. This does not start a chain.\n● Returning a monster to the hand with the ② effect is a cost.\n● You can only use the ② effect once per turn while Swap is face-up. \n(If Swap leaves the field, and is then resummoned that turn, it can be activated again). \n● You can use the ② multiple times per turn. However, even if it resolves more than once, you can't gain more than 1 Additional Normal Summon this way (but the cost of returning a monster is still paid). \nYou may use the additional “frog” Summon before your normal Normal Summon.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● Discarding 1 WATER monster for this card’s Ⓢ is a cost. This does not start a chain.\n● Returning a monster to the hand with the ② effect is a cost.\n● You can only use the ② effect once per turn while Swap is face-up.\n(If Swap leaves the field, and is then resummoned that turn, it can be activated again).\n● After using your Additional Normal Summon, you may still activate this card’s ② effect (however, you may only gain 1 Additional Summon per turn, even if it resolved more than once).\n(You may use the additional “frog” Summon before your normal Normal Summon).",
+    "Vegas": "● Discarding 1 WATER monster for this card’s Ⓢ is a cost. This does not start a chain.\n● Returning a monster to the hand with the ② effect is a cost.\n● You can only use the ② effect once per turn while Swap is face-up.\n(If Swap leaves the field, and is then resummoned that turn, it can be activated again).\n● After using your Additional Normal Summon, you may still activate this card’s ② effect (however, you may only gain 1 Additional Summon per turn, even if it resolved more than once).\n(You may use the additional “frog” Summon before your normal Normal Summon).",
+    "Meadowlands": "● Discarding 1 WATER monster for this card’s Ⓢ is a cost. This does not start a chain.\n● Returning a monster to the hand with the ② effect is a cost.\n● You can only use the ② effect once per turn while Swap is face-up.\n(If Swap leaves the field, and is then resummoned that turn, it can be activated again).\n● After using your Additional Normal Summon, you may still activate this card’s ② effect (however, you may only gain 1 Additional Summon per turn, even if it resolved more than once).\n(You may use the additional “frog” Summon before your normal Normal Summon).",
+    "FireWater": "● Discarding 1 WATER monster for this card’s Ⓢ is a cost. This does not start a chain.\n● Returning a monster to the hand with the ② effect is a cost.\n● You can only use the ② effect once per turn while Swap is face-up.\n(If Swap leaves the field, and is then resummoned that turn, it can be activated again).\n● After using your Additional Normal Summon, you may still activate this card’s ② effect (however, you may only gain 1 Additional Summon per turn, even if it resolved more than once).\n(You may use the additional “frog” Summon before your normal Normal Summon).",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can Normal Summon this monster.\\n2. Discarding 1 WATER monster is a cost.\\n3. Sending a monster from your Deck to the GY does not target.\\n4. Returning a monster you control to your hand is a cost.\\n5. If you activate the effect of more than 1 \"Swap Frog\", you can only Normal Summon 1 time in addition to your regular Normal Summon or Set.\\n6. If the effect of \"Swap Frog\" activates and is resolved, and later during the turn \"Skill Drain\" is activated, you can still Normal Summon a 'Frog' monster in addition to your Normal Summon or Set.\\n7. You do not Normal Summon at the resolution of the effect of \"Swap Frog\". It allows you to Normal Summon a 'Frog' monster at any time you would be able to Normal Summon a monster during that turn."
+  },
+  "PSCT": {
+    "Tengu": "Ⓢ You can Special Summon this card (from your hand) by discarding 1 other WATER. \n① When this card is Summoned: You can send 1 Level 2 or lower WATER Aqua from your Deck or face-up-field to the GY. \n② Once per turn: You can return 1 monster you control to the hand; this turn, you can Normal Summon 1 \"Frog\" monster (except “Swap Frog” or “Frog the Jam”),  in addition to your Normal Summon/Set.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "Ⓢ You can Special Summon this card (from your hand) by discarding 1 other WATER.\n① When this card is Summoned: You can send 1 Level 2 or lower WATER Aqua from your Deck or face-up-field to the GY.\n② Once per turn: You can return 1 monster you control to the hand;\nthis turn, you can Normal Summon 1 \"Frog\" monster (except “Swap Frog” or “Frog the Jam”), \nin addition to your Normal Summon/Set.",
+    "Meadowlands": "Ⓢ You can Special Summon this card (from your hand) by discarding 1 other WATER.\n① When this card is Summoned:You can send 1 Level 2 or lower WATER Aqua from your Deck or face-up-field to the GY.\n② Once per turn: You can return 1 monster you control to the hand;\nthis turn, you can Normal Summon 1 \"Frog\" monster (except “Swap Frog” or “Frog the Jam”), \nin addition to your Normal Summon/Set.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

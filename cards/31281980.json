@@ -1,0 +1,44 @@
+{
+  "id": 31281980,
+  "name": "Healing Wave Generator",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 1600,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●Healing Wave Generator's effect targets 1 other monster you control.\n●If an effect is chained that removes the targeted monster from the field or flips it face-down, Healing Wave Generator's effect disappears.\n●If an effect is chained that shifts control of the targeted monster to your opponent, you will still gain Life Points.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Healing Wave Generator's' effect targets 1 other monster you control.\n● If an effect is chained that removes the targeted monster from the field or flips it face-down, 'Healing Wave Generator's' effect disappears.\n● If an effect is chained that shifts control of the targeted monster to your opponent, you will still gain LP.",
+    "TeleDAD": "● 'Healing Wave Generator's' effect targets 1 other monster you control.\n● If an effect is chained that removes the targeted monster from the field or flips it face-down, 'Healing Wave Generator's' effect disappears.\n● If an effect is chained that shifts control of the targeted monster to your opponent, you will still gain LP.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Healing Wave Generator\" targets 1 other monster you control.\\n2. If an effect is chained that removes the targeted monster from the field or flips it face-down, the effect of \"Healing Wave Generator\" disappears.\\n3. If an effect is chained that shifts control of the targeted monster to your opponent, you will still gain Life Points."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

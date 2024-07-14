@@ -1,0 +1,44 @@
+{
+  "id": 49879995,
+  "name": "Phantom Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2300,
+    "def": 2200,
+    "level": 8,
+    "race": "Dragon",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot Summon Phantom Dragon if you do not have 2 Monster Card Zones that you can make unusable. However, Phantom Dragon can be Set or Special Summoned face-down when you do not have 2 Monster Card Zones to make unusable.\n●You cannot activate Phantom Dragon's effect during the Damage Step.\n●If a face-down Phantom Dragon is flipped face-up, you will select 2 Monster Card Zones to make unusable. If none can be selected, the next 2 Monster Card Zones to become available will be made unusable.\n●Phantom Dragon can be Tribute Summoned if the Tributed monsters will create 2 Monster Card Zones that can be made unusable.\n●2 Phantom Dragons cannot select the same Monster Card Zones to make unusable.\n●Once a Monster Card Zone is chosen, you cannot change your choice to a different Monster Card Zone later in the Duel.\n●If you have 1 face-up Phantom Dragon while Skill Drain is active, when your opponent Special Summons a monster you can Special Summon another Phantom Dragon into one of the Monster Card Zones that was made unusable by the negated Phantom Dragon.\n●If you take control of your opponent's Phantom Dragon, you will select 2 Monster Card Zones on your side of the field to make unusable. If you do not have any available, the next 2 Monster Card Zones to become available will be made unusable.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't Summon 'Phantom Dragon' if you do not have 2 Monster Card Zones that you can make unusable. However, 'Phantom Dragon' can be Set or Special Summoned face-down when you do not have 2 Monster Card Zones to make unusable.\n● You can't activate 'Phantom Dragon's' effect during the Damage Step.\n● If a face-down 'Phantom Dragon' is flipped face-up, you will select 2 Monster Card Zones to make unusable. If none can be selected, the next 2 Monster Card Zones to become available will be made unusable.\n● 'Phantom Dragon' can be Tribute Summoned if the Tributed monsters will create 2 Monster Card Zones that can be made unusable.\n● 2 'Phantom Dragons' can't select the same Monster Card Zones to make unusable.\n● Once a Monster Card Zone is chosen, you can't change your choice to a different Monster Card Zone later in the Duel.\n● If you have 1 face-up 'Phantom Dragon' while 'Skill Drain' is applying, when your opponent Special Summons a monster you can Special Summon another 'Phantom Dragon' into one of the Monster Card Zones that was made unusable by the negated 'Phantom Dragon'.\n● If you take control of your opponent's 'Phantom Dragon', you will select 2 Monster Card Zones on your side of the field to make unusable. If you do not have any available, the next 2 Monster Card Zones to become available will be made unusable.",
+    "TeleDAD": "● You can't Summon 'Phantom Dragon' if you do not have 2 Monster Card Zones that you can make unusable. However, 'Phantom Dragon' can be Set or Special Summoned face-down when you do not have 2 Monster Card Zones to make unusable.\n● You can't activate 'Phantom Dragon's' effect during the Damage Step.\n● If a face-down 'Phantom Dragon' is flipped face-up, you will select 2 Monster Card Zones to make unusable. If none can be selected, the next 2 Monster Card Zones to become available will be made unusable.\n● 'Phantom Dragon' can be Tribute Summoned if the Tributed monsters will create 2 Monster Card Zones that can be made unusable.\n● 2 'Phantom Dragons' can't select the same Monster Card Zones to make unusable.\n● Once a Monster Card Zone is chosen, you can't change your choice to a different Monster Card Zone later in the Duel.\n● If you have 1 face-up 'Phantom Dragon' while 'Skill Drain' is applying, when your opponent Special Summons a monster you can Special Summon another 'Phantom Dragon' into one of the Monster Card Zones that was made unusable by the negated 'Phantom Dragon'.\n● If you take control of your opponent's 'Phantom Dragon', you will select 2 Monster Card Zones on your side of the field to make unusable. If you do not have any available, the next 2 Monster Card Zones to become available will be made unusable.",
+    "Gladiator": "● You can't Summon 'Phantom Dragon' if you do not have 2 Monster Card Zones that you can make unusable. However, 'Phantom Dragon' can be Set or Special Summoned face-down when you do not have 2 Monster Card Zones to make unusable.\n● You can't activate 'Phantom Dragon's' effect during the Damage Step.\n● If a face-down 'Phantom Dragon' is flipped face-up, you will select 2 Monster Card Zones to make unusable. If none can be selected, the next 2 Monster Card Zones to become available will be made unusable.\n● 'Phantom Dragon' can be Tribute Summoned if the Tributed monsters will create 2 Monster Card Zones that can be made unusable.\n● 2 'Phantom Dragons' can't select the same Monster Card Zones to make unusable.\n● Once a Monster Card Zone is chosen, you can't change your choice to a different Monster Card Zone later in the Duel.\n● If you have 1 face-up 'Phantom Dragon' while 'Skill Drain' is applying, when your opponent Special Summons a monster you can Special Summon another 'Phantom Dragon' into one of the Monster Card Zones that was made unusable by the negated 'Phantom Dragon'.\n● If you take control of your opponent's 'Phantom Dragon', you will select 2 Monster Card Zones on your side of the field to make unusable. If you do not have any available, the next 2 Monster Card Zones to become available will be made unusable.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You cannot Summon \"Phantom Dragon\" if you do not have 2 Monster Card Zones that you can make unusable. However, \"Phantom Dragon\" can be Set or Special Summoned face-down when you do not have 2 Monster Card Zones to make unusable.\\n2. You cannot activate the effect of \"Phantom Dragon\" during the Damage Step.\\n3. If a face-down \"Phantom Dragon\" is flipped face-up, you will select 2 Monster Card Zones to make unusable. If none can be selected, the next 2 Monster Card Zones to become available will be made unusable.\\n4. \"Phantom Dragon\" can be Tribute Summoned if the Tributed monsters will create 2 Monster Card Zones that can be made unusable.\\n5. 2 copies of \"Phantom Dragon\" cannot select the same Monster Card Zones to make unusable.\\n6. Once a Monster Card Zone is chosen, you cannot change your choice to a different Monster Card Zone later in the Duel.\\n7. If you have 1 face-up \"Phantom Dragon\" while \"Skill Drain\" is active, when your opponent Special Summons a monster you can Special Summon another \"Phantom Dragon\" into one of the Monster Card Zones that was made unusable by the negated \"Phantom Dragon\".\\n8. If you take control of your opponent's \"Phantom Dragon\", you will select 2 Monster Card Zones on your side of the field to make unusable. If you do not have any available, the next 2 Monster Card Zones to become available will be made unusable."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

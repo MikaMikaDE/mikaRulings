@@ -1,0 +1,44 @@
+{
+  "id": 98777036,
+  "name": "Tragoedia",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 10,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● You can only activate 1 trigger effect in your hand per chain, so you cannot activate this card's ① effect in the same chain as EG \"Gorz the Emissary of Darkness\". \n● This card's ATK is treated as 0 while in your hand/face-down, so it can be destroyed by \"Deck Devastation Virus\" in those locations.\n● If this card's atk \"becomes\" some other value (eg by \"Blackwing - Gale the Whirlwind\" or its ATK \"freezes\"; it won't change if the number of cards in your hand changes.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● You can only activate 1 trigger effect in your hand per chain, so you cannot activate this card's ① effect in the same chain as EG \"Gorz the Emissary of Darkness\".\n● This face-down card will not be destroyed by \"Deck Devastation Virus\", as its ATK is undefined.\n● If this card's atk \"becomes\" some other value (eg by \"Blackwing - Gale the Whirlwind\" or  its ATK \"freezes\"; it won't change if the number of cards in your hand changes.",
+    "Vegas": "● You can only activate 1 trigger effect in your hand per chain, so you cannot activate this card's ① effect in the same chain as EG \"Gorz the Emissary of Darkness\".\n● This face-down card will not be destroyed by \"Deck Devastation Virus\", as its ATK is undefined.\n● If this card's atk \"becomes\" some other value (eg by \"Blackwing - Gale the Whirlwind\" or  its ATK \"freezes\"; it won't change if the number of cards in your hand changes.",
+    "Meadowlands": "● You can only activate 1 trigger effect in your hand per chain, so you cannot activate this card's ① effect in the same chain as EG \"Gorz the Emissary of Darkness\".\n● This face-down card will not be destroyed by \"Deck Devastation Virus\", as its ATK is undefined.\n● If this card's atk \"becomes\" some other value (eg by \"Blackwing - Gale the Whirlwind\" or  its ATK \"freezes\"; it won't change if the number of cards in your hand changes.",
+    "FireWater": "● You can only activate 1 trigger effect in your hand per chain, so you cannot activate this card's ① effect in the same chain as EG \"Gorz the Emissary of Darkness\".\n● This face-down card will not be destroyed by \"Deck Devastation Virus\", as its ATK is undefined.\n● If this card's atk \"becomes\" some other value (eg by \"Blackwing - Gale the Whirlwind\" or  its ATK \"freezes\"; it won't change if the number of cards in your hand changes.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. [FORUM] \"Solemn Warning\" can be activated to negate the Special Summon of \"Tragoedia\" during the Damage Step."
+  },
+  "PSCT": {
+    "Tengu": "① If you take battle damage while this card is in your hand: You can Special Summon it. \n② Gains 600 ATK/DEF for each card in your hand. \n③ Once per turn: You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with the same Level; take control of that face-up monster. \n④ Once per turn: You can target 1 monster in your GY; \nuntil the End Phase, this card's Level becomes that target's.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① If you take battle damage while this card is in your hand: You can Special Summon it.\n② Gains 600 ATK/DEF for each card in your hand.\n③ Once per turn: You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with the same Level; take control of that face-up monster.\n④ Once per turn: You can target 1 monster in your GY;\nuntil the End Phase, this card's Level becomes that target's.",
+    "Meadowlands": "① If you take battle damage while this card is in your hand: You can Special Summon it.\n② Gains 600 ATK/DEF for each card in your hand.\n③ Once per turn: You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with the same Level; take control of that face-up monster.\n④ Once per turn: You can target 1 monster in your GY;\nuntil the End Phase, this card's Level becomes that target's.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

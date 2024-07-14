@@ -1,0 +1,44 @@
+{
+  "id": 69155991,
+  "name": "Scrap Shark",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2100,
+    "def": 0,
+    "level": 4,
+    "race": "Fish",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect to destroy this card does not start a Chain.\\n2. It is not applied when the effect of an already face-up Spell or Trap Card is activated or when the effect of a Spell or Trap Card in the GY is activated. (It applies if a Spell or Trap Card is activated.)\\n3. It is not applied unless \"Scrap Shark\" was face-up at the time the card or Effect Monster's effect was activated.\\n4. It is applied if a monster that is removed from play activates its effect.\\n5. If multiple copies of \"Scrap Shark\" are face-up when a Spell/Trap Card or Effect Monster's effect is activated, both copies of \"Scrap Shark\" are destroyed at the same time.\\n6. If you activate \"Creature Swap\", \"Scrap Shark\" is destroyed after \"Creature Swap\" resolves.\\n7. Even if a card or monster effect is activated during the Damage Step before damage calculation while \"Scrap Shark\" is battling, it is not destroyed until after damage calculation and is considered to be destroyed by its own effect even if it loses the battle.\\n8. The effect to send a 'Scrap' monster to your GY also activates during the Damage Step."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

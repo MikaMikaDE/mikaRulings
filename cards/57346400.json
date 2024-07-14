@@ -1,0 +1,44 @@
+{
+  "id": 57346400,
+  "name": "Guard Dog",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 500,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If your “Guard Dog’s” Flip Effect resolves, and then later “Cyber Jar” is flipped face-up, your opponent will not be able to Special Summon any of the monsters they pick up, and any monsters that would normally be Special Summoned will be destroyed instead.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If your “Guard Dog’s” Flip Effect resolves, and then later “Cyber Jar” is flipped face-up, your opponent will not be able to Special Summon any of the monsters they pick up, and any monsters that would normally be Special Summoned will be destroyed instead.",
+    "TeleDAD": "● If your “Guard Dog’s” Flip Effect resolves, and then later “Cyber Jar” is flipped face-up, your opponent will not be able to Special Summon any of the monsters they pick up, and any monsters that would normally be Special Summoned will be destroyed instead.",
+    "Gladiator": "● If your “Guard Dog’s” Flip Effect resolves, and then later “Cyber Jar” is flipped face-up, your opponent will not be able to Special Summon any of the monsters they pick up, and any monsters that would normally be Special Summoned will be destroyed instead.",
+    "ReturnDAD": "● If your “Guard Dog’s” Flip Effect resolves, and then later “Cyber Jar” is flipped face-up, your opponent will not be able to Special Summon any of the monsters they pick up, and any monsters that would normally be Special Summoned will be destroyed instead.",
+    "Trooper": "● If your “Guard Dog’s” Flip Effect resolves, and then later “Cyber Jar” is flipped face-up, your opponent will not be able to Special Summon any of the monsters they pick up, and any monsters that would normally be Special Summoned will be destroyed instead.",
+    "Circle": "● If your “Guard Dog’s” Flip Effect resolves, and then later “Cyber Jar” is flipped face-up, your opponent will not be able to Special Summon any of the monsters they pick up, and any monsters that would normally be Special Summoned will be destroyed instead.",
+    "Stein": "● If your “Guard Dog’s” Flip Effect resolves, and then later “Cyber Jar” is flipped face-up, your opponent will not be able to Special Summon any of the monsters they pick up, and any monsters that would normally be Special Summoned will be destroyed instead.",
+    "Base": "1. If your Flip Effect of \"Guard Dog\" resolves, and then later \"Cyber Jar\" is flipped face-up, your opponent will not be able to Special Summon any of the monsters they pick up, and any monsters that would normally be Special Summoned will be destroyed instead."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

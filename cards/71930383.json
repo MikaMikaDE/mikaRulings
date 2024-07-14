@@ -1,0 +1,44 @@
+{
+  "id": 71930383,
+  "name": "Patroid",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1200,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Patroid” targets a card.\n●If “Patroid” is flipped face-down or removed from the field, its effect is reset and you can use it again that turn if you can get it face-up on the field again.",
+    "Goat": "●The effect of “Patroid” targets a card.\n●If “Patroid” is Set or removed from the field, its effect is reset and you can use it again that turn if you can get it face-up on the field again.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Patroid” targets a card.\n● If “Patroid” is flipped face-down or removed from the field, its effect is reset and you can use it again that turn if you can get it applying again.",
+    "TeleDAD": "● The effect of “Patroid” targets a card.\n● If “Patroid” is flipped face-down or removed from the field, its effect is reset and you can use it again that turn if you can get it applying again.",
+    "Gladiator": "● The effect of “Patroid” targets a card.\n● If “Patroid” is flipped face-down or removed from the field, its effect is reset and you can use it again that turn if you can get it applying again.",
+    "ReturnDAD": "● The effect of “Patroid” targets a card.\n● If “Patroid” is flipped face-down or removed from the field, its effect is reset and you can use it again that turn if you can get it applying again.",
+    "Trooper": "● The effect of “Patroid” targets a card.\n● If “Patroid” is flipped face-down or removed from the field, its effect is reset and you can use it again that turn if you can get it applying again.",
+    "Circle": "● The effect of “Patroid” targets a card.\n● If “Patroid” is flipped face-down or removed from the field, its effect is reset and you can use it again that turn if you can get it applying again.",
+    "Stein": "● The effect of “Patroid” targets a card.\n● If “Patroid” is flipped face-down or removed from the field, its effect is reset and you can use it again that turn if you can get it applying again.",
+    "Base": "1. The effect of \"Patroid\" targets a card.\\n2. If \"Patroid\" is flipped face-down or removed from the field, its effect is reset and you can use it again that turn if you can get it face-up on the field again."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 79323590,
+  "name": "Chain Energy",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Chain Energy applies only to cards played or Set from your hand, not cards that are activated when already Set on the field, or to cards placed onto the field by effects like Cyber Jar’s Flip Effect.",
+    "Goat": "●Chain Energy applies only to cards played or Set from your hand, not cards that are activated when already Set on the field, or to cards placed onto the field by effects like Cyber Jar’s Flip Effect.\n●“Chain Energy” applies to any cards played after “Chain Energy” resolves. \n●“Chain Energy” creates a condition where you pay an activation cost of 500 LP to play a card. A card is defined as played by either putting it on the field through normal means; for example, a Normal Summon/Set, Activating a Spell Card from the Hand, Setting a Spell/Trap Card, or activating a discarding effect like “Kuriboh” from the hand. \n●Cards Set previous to “Chain Energy” do not trigger the 500 LP cost.\n●Cards brought to the field through another effect, like Special Summoning a monster through “Monster Reborn” do not trigger the 500 LP cost of “Chain Energy”.\n●Q: If I have only 500 LP remaining with “Chain Energy” applying on the field, can I activate “Poison of the Old Man” to increase my LP before losing the 500 points from the effect of “Chain Energy” and losing the Duel? \nA: When you play the Poision of the Old Man Chain Energy will cause you to pay 500 LP, reducing your LP to 0 before Poison of the Old Man can resolve.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Chain Energy' applies only to cards played or Set from your hand, not cards that are activated when already Set on the field, or to cards placed onto the field by effects like 'Cyber Jar'’s Flip Effect.",
+    "TeleDAD": "● 'Chain Energy' applies only to cards played or Set from your hand, not cards that are activated when already Set on the field, or to cards placed onto the field by effects like 'Cyber Jar'’s Flip Effect.",
+    "Gladiator": "● 'Chain Energy' applies only to cards played or Set from your hand, not cards that are activated when already Set on the field, or to cards placed onto the field by effects like 'Cyber Jar'’s Flip Effect.",
+    "ReturnDAD": "● 'Chain Energy' applies only to cards played or Set from your hand, not cards that are activated when already Set on the field, or to cards placed onto the field by effects like 'Cyber Jar'’s Flip Effect.",
+    "Trooper": "● 'Chain Energy' applies only to cards played or Set from your hand, not cards that are activated when already Set on the field, or to cards placed onto the field by effects like 'Cyber Jar'’s Flip Effect.",
+    "Circle": "● 'Chain Energy' applies only to cards played or Set from your hand, not cards that are activated when already Set on the field, or to cards placed onto the field by effects like 'Cyber Jar'’s Flip Effect.",
+    "Stein": "● 'Chain Energy' applies only to cards played or Set from your hand, not cards that are activated when already Set on the field, or to cards placed onto the field by effects like 'Cyber Jar'’s Flip Effect.",
+    "Base": "1. \"Chain Energy\" applies only to cards played or Set from your hand, not cards that are activated when already Set on the field, or to cards placed onto the field by effects like the Flip Effect of \"Cyber Jar\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

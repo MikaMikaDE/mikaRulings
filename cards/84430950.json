@@ -1,0 +1,44 @@
+{
+  "id": 84430950,
+  "name": "Armed Samurai - Ben Kei",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 800,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "(1) In addition to a normal attack, this card can attack during the same Battle Phase as many times as the number of Equip Cards equipped to it.\n●The (1) Continuous Effect applies while this card is face-up on the field, it does not start a Chain.\n●The attacks of “Armed Samurai Ben Kei” do not have to be in a row.\n●If you equip “Twin Swords of Flashing Light – Tryce” to “Armed Samurai Ben Kei”, it can only attack twice, not three times (unless equipped with more cards).\n●Even if “Armed Samurai Ben Kei” is equipped, attacks twice, and you use “Tailor of the Fickle” to move its Equip Card to another monster, and then use “Collected Power” to move it back, “Armed Samurai Ben Kei” has already attacked twice and gets no additional attacks.",
+    "Goat": "●The attacks of “Armed Samurai Ben Kei” do not have to be in a row.\n●If you equip “Twin Swords of Flashing Light – Tryce” to “Armed Samurai Ben Kei”, it can only attack twice, not three times (unless equipped with more cards).\n●Even if “Armed Samurai Ben Kei” is equipped, attacks twice, and you use “Tailor of the Fickle” to move its Equip Card to another monster, and then use “Collected Power” to move it back, “Armed Samurai Ben Kei” has already attacked twice and gets no additional attacks.\n●The effect of “Armed Samurai Ben Kei” is a Continuous Effect that cannot be chained to.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The attacks of “Armed Samurai Ben Kei” do not have to be in a row.\n● If you equip “Twin Swords of Flashing Light – Tryce” to “Armed Samurai Ben Kei”, it can only attack twice, not three times (unless equipped with more cards).\n● Even if “Armed Samurai Ben Kei” is equipped, attacks twice, and you use “Tailor of the Fickle” to move its Equip Card to another monster, and then use “Collected Power” to move it back, “Armed Samurai Ben Kei” has already attacked twice and gets no additional attacks.\n● The effect of “Armed Samurai Ben Kei” is a Continuous Effect that can't be chained to.",
+    "TeleDAD": "● The attacks of “Armed Samurai Ben Kei” do not have to be in a row.\n● If you equip “Twin Swords of Flashing Light – Tryce” to “Armed Samurai Ben Kei”, it can only attack twice, not three times (unless equipped with more cards).\n● Even if “Armed Samurai Ben Kei” is equipped, attacks twice, and you use “Tailor of the Fickle” to move its Equip Card to another monster, and then use “Collected Power” to move it back, “Armed Samurai Ben Kei” has already attacked twice and gets no additional attacks.\n● The effect of “Armed Samurai Ben Kei” is a Continuous Effect that can't be chained to.",
+    "Gladiator": "● The attacks of “Armed Samurai Ben Kei” do not have to be in a row.\n● If you equip “Twin Swords of Flashing Light – Tryce” to “Armed Samurai Ben Kei”, it can only attack twice, not three times (unless equipped with more cards).\n● Even if “Armed Samurai Ben Kei” is equipped, attacks twice, and you use “Tailor of the Fickle” to move its Equip Card to another monster, and then use “Collected Power” to move it back, “Armed Samurai Ben Kei” has already attacked twice and gets no additional attacks.\n● The effect of “Armed Samurai Ben Kei” is a Continuous Effect that can't be chained to.",
+    "ReturnDAD": "● The attacks of “Armed Samurai Ben Kei” do not have to be in a row.\n● If you equip “Twin Swords of Flashing Light – Tryce” to “Armed Samurai Ben Kei”, it can only attack twice, not three times (unless equipped with more cards).\n● Even if “Armed Samurai Ben Kei” is equipped, attacks twice, and you use “Tailor of the Fickle” to move its Equip Card to another monster, and then use “Collected Power” to move it back, “Armed Samurai Ben Kei” has already attacked twice and gets no additional attacks.\n● The effect of “Armed Samurai Ben Kei” is a Continuous Effect that can't be chained to.",
+    "Trooper": "● The attacks of “Armed Samurai Ben Kei” do not have to be in a row.\n● If you equip “Twin Swords of Flashing Light – Tryce” to “Armed Samurai Ben Kei”, it can only attack twice, not three times (unless equipped with more cards).\n● Even if “Armed Samurai Ben Kei” is equipped, attacks twice, and you use “Tailor of the Fickle” to move its Equip Card to another monster, and then use “Collected Power” to move it back, “Armed Samurai Ben Kei” has already attacked twice and gets no additional attacks.\n● The effect of “Armed Samurai Ben Kei” is a Continuous Effect that can't be chained to.",
+    "Circle": "● The attacks of “Armed Samurai Ben Kei” do not have to be in a row.\n● If you equip “Twin Swords of Flashing Light – Tryce” to “Armed Samurai Ben Kei”, it can only attack twice, not three times (unless equipped with more cards).\n● Even if “Armed Samurai Ben Kei” is equipped, attacks twice, and you use “Tailor of the Fickle” to move its Equip Card to another monster, and then use “Collected Power” to move it back, “Armed Samurai Ben Kei” has already attacked twice and gets no additional attacks.\n● The effect of “Armed Samurai Ben Kei” is a Continuous Effect that can't be chained to.",
+    "Stein": "● The attacks of “Armed Samurai Ben Kei” do not have to be in a row.\n● If you equip “Twin Swords of Flashing Light – Tryce” to “Armed Samurai Ben Kei”, it can only attack twice, not three times (unless equipped with more cards).\n● Even if “Armed Samurai Ben Kei” is equipped, attacks twice, and you use “Tailor of the Fickle” to move its Equip Card to another monster, and then use “Collected Power” to move it back, “Armed Samurai Ben Kei” has already attacked twice and gets no additional attacks.\n● The effect of “Armed Samurai Ben Kei” is a Continuous Effect that can't be chained to.",
+    "Base": "1. The attacks of \"Armed Samurai - Ben Kei\" do not have to be in a row.\\n2. If you equip \"Twin Swords of Flashing Light - Tryce\" to \"Armed Samurai - Ben Kei\", it can only attack twice, not three times (unless equipped with more cards).\\n3. Even if \"Armed Samurai - Ben Kei\" is equipped, attacks twice, and you use \"Tailor of the Fickle\" to move its Equip Card to another monster, and then use \"Collected Power\" to move it back, \"Armed Samurai - Ben Kei\" has already attacked twice and gets no additional attacks.\\n4. The effect of \"Armed Samurai - Ben Kei\" is a Continuous Effect that cannot be chained to."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 35011819,
+  "name": "By Order of the Emperor",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of By Order of the Emperor is chained to the effect of the Normal Summoned Effect Monster.\n●The effect of By Order of the Emperor can be chained to negate King Tiger Wanghu's effect.\n●If you have 2 face-up copies of By Order of the Emperor, you can only chain the effect of 1 of them, not both.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of 'By Order of the Emperor' is chained to the effect of the Normal Summoned Effect Monster.\n● The effect of 'By Order of the Emperor' can be chained to negate 'King Tiger Wanghu's' effect.\n● If you have 2 face-up copies of 'By Order of the Emperor', you can only chain the effect of 1 of them, not both.",
+    "TeleDAD": "● The effect of 'By Order of the Emperor' is chained to the effect of the Normal Summoned Effect Monster.\n● The effect of 'By Order of the Emperor' can be chained to negate 'King Tiger Wanghu's' effect.\n● If you have 2 face-up copies of 'By Order of the Emperor', you can only chain the effect of 1 of them, not both.",
+    "Gladiator": "● The effect of 'By Order of the Emperor' is chained to the effect of the Normal Summoned Effect Monster.\n● The effect of 'By Order of the Emperor' can be chained to negate 'King Tiger Wanghu's' effect.\n● If you have 2 face-up copies of 'By Order of the Emperor', you can only chain the effect of 1 of them, not both.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"By Order of the Emperor\" is chained to the effect of the Normal Summoned Effect Monster.\\n2. The effect of \"By Order of the Emperor\" can be chained to negate the effect of \"King Tiger Wanghu\".\\n3. If you have 2 face-up copies of \"By Order of the Emperor\", you can only chain the effect of 1 of them, not both."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

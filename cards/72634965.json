@@ -1,0 +1,44 @@
+{
+  "id": 72634965,
+  "name": "Vanity's Ruler",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2500,
+    "def": 1600,
+    "level": 8,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●Effects that would make both players Special Summon, like “The Shallow Grave”, cannot be activated while “Vanity’s Ruler” is in play. Effects that must activate, like “Spear Cretin”, will still activate, but the effect disappears.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Effects that would make both players Special Summon, like “The Shallow Grave”, can't be activated while “Vanity’s Ruler” is in play. Effects that must activate, like “Spear Cretin”, will still activate, but the effect disappears.",
+    "TeleDAD": "● Effects that would make both players Special Summon, like “The Shallow Grave”, can't be activated while “Vanity’s Ruler” is in play. Effects that must activate, like “Spear Cretin”, will still activate, but the effect disappears.",
+    "Gladiator": "● Effects that would make both players Special Summon, like “The Shallow Grave”, can't be activated while “Vanity’s Ruler” is in play. Effects that must activate, like “Spear Cretin”, will still activate, but the effect disappears.",
+    "ReturnDAD": "● Effects that would make both players Special Summon, like “The Shallow Grave”, can't be activated while “Vanity’s Ruler” is in play. Effects that must activate, like “Spear Cretin”, will still activate, but the effect disappears.",
+    "Trooper": "● Effects that would make both players Special Summon, like “The Shallow Grave”, can't be activated while “Vanity’s Ruler” is in play. Effects that must activate, like “Spear Cretin”, will still activate, but the effect disappears.",
+    "Circle": "● Effects that would make both players Special Summon, like “The Shallow Grave”, can't be activated while “Vanity’s Ruler” is in play. Effects that must activate, like “Spear Cretin”, will still activate, but the effect disappears.",
+    "Stein": "● Effects that would make both players Special Summon, like “The Shallow Grave”, can't be activated while “Vanity’s Ruler” is in play. Effects that must activate, like “Spear Cretin”, will still activate, but the effect disappears.",
+    "Base": "1. Effects that would make both players Special Summon, like \"The Shallow Grave\", cannot be activated while \"Vanity's Ruler\" is in play. Effects that must activate, like \"Spear Cretin\", will still activate, but the effect disappears."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

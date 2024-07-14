@@ -1,0 +1,44 @@
+{
+  "id": 56784842,
+  "name": "Angel O7",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2500,
+    "def": 1500,
+    "level": 7,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "When this card is Tribute Summoned, it gains the following effect: (1)● The effects of Effect Monsters cannot be activated.\n●The (C) Condition is not an effect, it cannot be negated.\n●This card must be Tribute Summoned, not Normal Summoned by Mausoleum of the Emperor.\n●The (1) effect is lost if this card is flipped face-down and later Flip Summoned.\n●The (1) effect stays if this card is flipped face-down and later flipped face-up (by card effect).\n●The (1) effect stays if this card is temporarily banished (by Interdimensional Matter Transporter).\n●The (1) Continuous Effect applies while this Tribute Summoned card is face-up on the field.\n●This effect does not prevent a monster's Continuous Effects from being applied.\n●This effect prevents ALL Monster Card Effects from ACTIVATING in any Zone, even your own.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Angel O7's' effect does not prevent a monster's Continuous Effects from being applied, because Continuous Effects never 'activate'.\n● 'Angel O7' prevents Monster Card Effects from activating in any Zone. Ignition Effects and Quick Effects of Effect Monsters can't be activated. The Trigger Effects of Effect Monsters will not activate. The Flip Effects of flipped monsters will not activate.\n● If you Tribute 'Sangan' when you Tribute Summon 'Angel O7', 'Sangan's' effect does not activate.",
+    "TeleDAD": "● 'Angel O7's' effect does not prevent a monster's Continuous Effects from being applied, because Continuous Effects never 'activate'.\n● 'Angel O7' prevents Monster Card Effects from activating in any Zone. Ignition Effects and Quick Effects of Effect Monsters can't be activated. The Trigger Effects of Effect Monsters will not activate. The Flip Effects of flipped monsters will not activate.\n● If you Tribute 'Sangan' when you Tribute Summon 'Angel O7', 'Sangan's' effect does not activate.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Angel 07\" does not prevent a monster's Continuous Effects from being applied, because Continuous Effects never 'activate'.\\n2. \"Angel 07\" prevents Monster Card Effects from activating in any Zone. Ignition Effects and Quick Effects of Effect Monsters cannot be activated. The Trigger Effects of Effect Monsters will not activate. The Flip Effects of flipped monsters will not activate.\\n3. If you Tribute \"Sangan\" when you Tribute Summon \"Angel 07\", the effect of \"Sangan\" does not activate."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

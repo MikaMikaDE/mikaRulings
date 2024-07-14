@@ -1,0 +1,40 @@
+{
+  "id": 63049052,
+  "name": "Bujin Regalia - The Jewel",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings currently available.",
+    "Vegas": "No rulings currently available.",
+    "Meadowlands": "No rulings currently available.",
+    "FireWater": "No rulings currently available.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Target 1 Rank 4 Xyz Monster you control; equip this card to that target. \n② An Xyz monster equipped by this card gains 300 ATK for each of its Materials. \n③ Once per turn, while this card is equipped to a monster by this effect: \nYou can attach 1 \"Bujin\" monster from your hand to the equipped monster as Material.",
+    "Meadowlands": "① Target 1 Rank 4 Xyz Monster you control; equip this card to that target. \n② An Xyz monster equipped by this card gains 300 ATK for each of its Materials. \n③ Once per turn, while this card is equipped to a monster by this effect: \nYou can attach 1 \"Bujin\" monster from your hand to the equipped monster as Material.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

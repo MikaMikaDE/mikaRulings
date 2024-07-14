@@ -1,0 +1,40 @@
+{
+  "id": 58621589,
+  "name": "Shadow of Eyes",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Shadow of Eyes can be activated when a monster is Special Summoned in face-down Defense Position.\n●Shadow of Eyes can be activated when multiple monsters are Special Summoned in face-down Defense Position by the same effect. In this case, select a monster when you activate Shadow of Eyes.\n●Shadow of Eyes can be activated when Guardian Sphinx is flipped face-down by its effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Shadow of Eyes' can be activated when a monster is Special Summoned in face-down Defense Position.\n● 'Shadow of Eyes' can be activated when multiple monsters are Special Summoned in face-down Defense Position by the same effect. In this case, select a monster when you activate 'Shadow of Eyes'.\n● 'Shadow of Eyes' can be activated when 'Guardian Sphinx' is flipped face-down by its effect.",
+    "TeleDAD": "● 'Shadow of Eyes' can be activated when a monster is Special Summoned in face-down Defense Position.\n● 'Shadow of Eyes' can be activated when multiple monsters are Special Summoned in face-down Defense Position by the same effect. In this case, select a monster when you activate 'Shadow of Eyes'.\n● 'Shadow of Eyes' can be activated when 'Guardian Sphinx' is flipped face-down by its effect.",
+    "Gladiator": "● 'Shadow of Eyes' can be activated when a monster is Special Summoned in face-down Defense Position.\n● 'Shadow of Eyes' can be activated when multiple monsters are Special Summoned in face-down Defense Position by the same effect. In this case, select a monster when you activate 'Shadow of Eyes'.\n● 'Shadow of Eyes' can be activated when 'Guardian Sphinx' is flipped face-down by its effect.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Shadow of Eyes\" can be activated when a monster is Special Summoned in face-down Defense Position.\\n2. \"Shadow of Eyes\" can be activated when multiple monsters are Special Summoned in face-down Defense Position by the same effect. In this case, select a monster when you activate \"Shadow of Eyes\".\\n3. \"Shadow of Eyes\" can be activated when \"Guardian Sphinx\" is flipped face-down by its effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

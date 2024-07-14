@@ -1,0 +1,44 @@
+{
+  "id": 34627841,
+  "name": "Kaibaman",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 200,
+    "def": 700,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●Ignition Effects on monsters cannot be activated while the Effect Monster is face-down. So this face-down monster cannot be Tributed for its own effect.",
+    "Goat": "●Ignition Effects on monsters cannot be activated while the Effect Monster is face-down. So this face-down monster cannot be Tributed for its own effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● ",
+    "TeleDAD": "● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● ",
+    "Gladiator": "● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● ",
+    "ReturnDAD": "● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● ",
+    "Trooper": "● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● ",
+    "Circle": "● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● ",
+    "Stein": "● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● ",
+    "Base": "1. Ignition Effects on monsters cannot be activated while the Effect Monster is face-down. So this face-down monster cannot be Tributed for its own effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

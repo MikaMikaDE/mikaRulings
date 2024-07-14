@@ -1,0 +1,44 @@
+{
+  "id": 1498130,
+  "name": "Kagemusha of the Six Samurai",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 400,
+    "def": 1800,
+    "level": 2,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You cannot activate this effect during the Damage Step.\\n2. You can activate this effect multiple times during the same Chain.\\n3. This effect does not target.\\n4. Exactly 1 face-up 'Six Samurai' monster must be the only target of the effect if you want to switch the target to this card.\\n5. If \"Kagemusha of the Six Samurai\" is an illegal target for the effect you want to switch the target of when that effect is activated, you cannot activate the effect of \"Kagemusha of the Six Samurai\".\\n6. If \"Kagemusha of the Six Samurai\" becomes an illegal target for the effect you're switching the target of when that effect resolves, you do not switch the target.\\n7. If the target 'Six Samurai' monster is an illegal target for the effect you're switching when that effect resolves, the target is still changed to \"Kagemusha of the Six Samurai\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

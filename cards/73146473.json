@@ -1,0 +1,44 @@
+{
+  "id": 73146473,
+  "name": "Cross Porter",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 400,
+    "def": 400,
+    "level": 2,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● If this card is sent to the GY to activate its ① effect, its ② effect will have incorrect timing.\nYou can read more about Timing here:\nhttps://edisonformat.net/rules/compendium/missing-the-timing",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Cross Porter” targets 1 monster you control. Send it to the GY when resolving 'Cross Porter's' effect. \n● If you send 'Cross Porter' to the GY to activate its first effect, you can't activate its second effect.",
+    "TeleDAD": "● “Cross Porter” targets 1 monster you control. Send it to the GY when resolving 'Cross Porter's' effect. \n● If you send 'Cross Porter' to the GY to activate its first effect, you can't activate its second effect.",
+    "Gladiator": "● “Cross Porter” targets 1 monster you control. Send it to the GY when resolving 'Cross Porter's' effect. \n● If you send 'Cross Porter' to the GY to activate its first effect, you can't activate its second effect.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Cross Porter\" targets 1 monster you control. Send it to the GY when resolving the effect of \"Cross Porter\".\\n2. If you send \"Cross Porter\" to the GY to activate its first effect, you cannot activate its second effect."
+  },
+  "PSCT": {
+    "Tengu": "① During your Main Phase: \nYou can target 1 monster you control; \nsend it to the GY, then Special Summon 1 \"Neo-Spacian\" monster from your hand. \n② When this card is sent to the GY: \nYou can add 1 \"Neo-Spacian\" monster from your Deck to your hand.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 71395725,
+  "name": "Man Beast of Ares",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 500,
+    "level": 3,
+    "race": "Beast-Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If “Man Beast of Ares” gains ATK, but then “Skill Drain” is activated, the ATK increase is wiped out. Even if “Skill Drain” is later destroyed, the ATK increase is not restored. (Although new ATK can be gained.)",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “Man Beast of Ares” gains ATK, but then “Skill Drain” is activated, the ATK increase is wiped out. Even if “Skill Drain” is later destroyed, the ATK increase isn't restored. (Although new ATK can be gained.)\n● ",
+    "TeleDAD": "● If “Man Beast of Ares” gains ATK, but then “Skill Drain” is activated, the ATK increase is wiped out. Even if “Skill Drain” is later destroyed, the ATK increase isn't restored. (Although new ATK can be gained.)\n● ",
+    "Gladiator": "● If “Man Beast of Ares” gains ATK, but then “Skill Drain” is activated, the ATK increase is wiped out. Even if “Skill Drain” is later destroyed, the ATK increase isn't restored. (Although new ATK can be gained.)\n● ",
+    "ReturnDAD": "● If “Man Beast of Ares” gains ATK, but then “Skill Drain” is activated, the ATK increase is wiped out. Even if “Skill Drain” is later destroyed, the ATK increase isn't restored. (Although new ATK can be gained.)\n● ",
+    "Trooper": "● If “Man Beast of Ares” gains ATK, but then “Skill Drain” is activated, the ATK increase is wiped out. Even if “Skill Drain” is later destroyed, the ATK increase isn't restored. (Although new ATK can be gained.)\n● ",
+    "Circle": "● If “Man Beast of Ares” gains ATK, but then “Skill Drain” is activated, the ATK increase is wiped out. Even if “Skill Drain” is later destroyed, the ATK increase isn't restored. (Although new ATK can be gained.)\n● ",
+    "Stein": "● If “Man Beast of Ares” gains ATK, but then “Skill Drain” is activated, the ATK increase is wiped out. Even if “Skill Drain” is later destroyed, the ATK increase isn't restored. (Although new ATK can be gained.)\n● ",
+    "Base": "1. If \"Man Beast of Ares\" gains ATK, but then \"Skill Drain\" is activated, the ATK increase is wiped out. Even if \"Skill Drain\" is later destroyed, the ATK increase is not restored. (Although new ATK can be gained.)"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

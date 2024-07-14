@@ -1,0 +1,40 @@
+{
+  "id": 6859683,
+  "name": "Success Probability 0%",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Send 2 random Fusion Monsters from your opponent's Fusion Deck to the GY.\n●If your opponent has no Extra Deck, you cannot activate “Success Probability 0%”.\n●“Success Probability 0%” does not target, because the cards are chosen randomly.\n●When this effect resolves, your opponent seperates their Extra Deck into the Synchro Deck and the Fusion Deck. You then send 2 random cards from the Fusion Deck to the GY.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If your opponent has no Extra Deck, you can't activate “Success Probability 0%”. \n● “Success Probability 0%” does not target, because the cards are chosen randomly.",
+    "TeleDAD": "● If your opponent has no Extra Deck, you can't activate “Success Probability 0%”. \n● “Success Probability 0%” does not target, because the cards are chosen randomly.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If your opponent has no Extra Deck, you cannot activate \"Success Probability 0%\".\\n2. \"Success Probability 0%\" does not target, because the cards are chosen randomly."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 10802915,
+  "name": "Tour Guide From the Underworld",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 600,
+    "level": 3,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "If you activate the effect of a monster summoned this way:\n● Any costs will be paid as usual. \n● However, the effect will resolve negated, as the effect was activated on the field, where its effects were being negated.\nEG: ＂Possessed Dark Soul＂ summoned this way tributes itself. Its effect is negated, since its effect was activated on the field.\n\nIf a monster summoned this way becomes flipped face-down or leaves the field, its effects are no longer negated, starting from the moment it leaves the field.\nEG: ＂Sangan＂ summoned this way is destroyed by battle. Its effect is not negated, since its effect was not activated on the field.\nEG: ＂Night Assailant＂ summoned this way becomes Set by Book of Moon. Its effect when flipped face-up is not negated, since the negation stopped applying once it became Set.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

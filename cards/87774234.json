@@ -1,0 +1,44 @@
+{
+  "id": 87774234,
+  "name": "Watapon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 200,
+    "def": 300,
+    "level": 1,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you draw Watapon by the effect of Graceful Charity you can Special Summon it to the field after you discard the two cards for Graceful Charity.\n●Painful Choice, Graceful Charity, and Witch of the Black Forest are all examples of the types of effects that will activate the effect of Watapon.",
+    "Goat": "●If you draw Watapon by the effect of Graceful Charity you can Special Summon it to the field after you discard the two cards for Graceful Charity.\n●Painful Choice, Graceful Charity, and Witch of the Black Forest are all examples of the types of effects that will activate the effect of Watapon.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you draw 'Watapon' by the effect of 'Graceful Charity' you can Special Summon it to the field after you discard the two cards for 'Graceful Charity'.\n● 'Painful Choice', 'Graceful Charity', and 'Witch of the Black Forest' are all examples of the types of effects that will activate the effect of 'Watapon'.",
+    "TeleDAD": "● If you draw 'Watapon' by the effect of 'Graceful Charity' you can Special Summon it to the field after you discard the two cards for 'Graceful Charity'.\n● 'Painful Choice', 'Graceful Charity', and 'Witch of the Black Forest' are all examples of the types of effects that will activate the effect of 'Watapon'.",
+    "Gladiator": "● If you draw 'Watapon' by the effect of 'Graceful Charity' you can Special Summon it to the field after you discard the two cards for 'Graceful Charity'.\n● 'Painful Choice', 'Graceful Charity', and 'Witch of the Black Forest' are all examples of the types of effects that will activate the effect of 'Watapon'.",
+    "ReturnDAD": "● If you draw 'Watapon' by the effect of 'Graceful Charity' you can Special Summon it to the field after you discard the two cards for 'Graceful Charity'.\n● 'Painful Choice', 'Graceful Charity', and 'Witch of the Black Forest' are all examples of the types of effects that will activate the effect of 'Watapon'.",
+    "Trooper": "● If you draw 'Watapon' by the effect of 'Graceful Charity' you can Special Summon it to the field after you discard the two cards for 'Graceful Charity'.\n● 'Painful Choice', 'Graceful Charity', and 'Witch of the Black Forest' are all examples of the types of effects that will activate the effect of 'Watapon'.",
+    "Circle": "● If you draw 'Watapon' by the effect of 'Graceful Charity' you can Special Summon it to the field after you discard the two cards for 'Graceful Charity'.\n● 'Painful Choice', 'Graceful Charity', and 'Witch of the Black Forest' are all examples of the types of effects that will activate the effect of 'Watapon'.",
+    "Stein": "● If you draw 'Watapon' by the effect of 'Graceful Charity' you can Special Summon it to the field after you discard the two cards for 'Graceful Charity'.\n● 'Painful Choice', 'Graceful Charity', and 'Witch of the Black Forest' are all examples of the types of effects that will activate the effect of 'Watapon'.",
+    "Base": "1. If you draw \"Watapon\" by the effect of \"Graceful Charity\" you can Special Summon it to the field after you discard the two cards for \"Graceful Charity\".\\n2. \"Painful Choice\", \"Graceful Charity\", and \"Witch of the Black Forest\" are all examples of the types of effects that will activate the effect of \"Watapon\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

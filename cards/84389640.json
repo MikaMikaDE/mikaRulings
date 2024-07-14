@@ -1,0 +1,40 @@
+{
+  "id": 84389640,
+  "name": "Attack of the Cornered Rat",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "(1) If a Level 3 or lower Normal Monster you control battles, during the Damage Step you can pay Life Points in multiples of 100. The ATK of the opponent's monster is reduced by the amount of Life Points you paid, until the End Phase. (You cannot pay more Life Points than the ATK of the opponent's monster.)\n●The (1) Quick-like Effect activates & resolves on the field.\n●This effect targets the opponent’s monster.\n●Paying Life Points is a cost.\n●You can activate “Attack of the Cornered Rat” (and/or its effect) during damage calculation, or at any point in the Damage Step prior to damage calculation.\n●You can only activate this effect once during the same Damage Step. You cannot over-pay for “Attack of the Cornered Rat.”\n●You cannot flip “Attack of the Cornered Rat” face-up during the Damage Step unless you would also activate its effect at the same time (by paying Life Points).\n●If “Attack of the Cornered Rat” is removed from the field before the End Phase, the ATK reduction remains until the End Phase, as normal.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Paying Life Points is a cost to activate \"Attack of the Cornered Rat\". It targets the opponent's monster.\\n2. You cannot flip \"Attack of the Cornered Rat\" face-up during the Damage Step unless you would also activate its effect at the same time (by paying Life Points).\\n3. You can activate \"Attack of the Cornered Rat\" (and/or its effect) during damage calculation, or at any point in the Damage Step prior to damage calculation.\\n4. If \"Attack of the Cornered Rat\" is removed from the field before the End Phase, the ATK reduction remains until the End Phase, as normal.\\n5. You can only activate the effect of \"Attack of the Cornered Rat\" once during the same Damage Step.\\n6. You cannot over-pay for \"Attack of the Cornered Rat\". If the opponent's monster has 2000 ATK, you can pay up to 2000 Life Points, but no more."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

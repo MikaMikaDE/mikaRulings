@@ -1,0 +1,40 @@
+{
+  "id": 91623717,
+  "name": "Chain Strike",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "● You can activate 2 \"Chain Strike\" in the same Chain, but not 3.\nThe first time, there is no \"Chain Strike\" in that Chain. \nThe second time, there is only 1 \"Chain Strike\" in that Chain.\nThe third time, there are miltiple cards with the same name in the Chain (also, this card is semi-limited!).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can activate a second “Chain Strike” if 1 “Chain Strike” is already on that chain. However, no further “Chain Strikes” can be activated in that same chain after that.",
+    "TeleDAD": "● You can activate a second “Chain Strike” if 1 “Chain Strike” is already on that chain. However, no further “Chain Strikes” can be activated in that same chain after that.",
+    "Gladiator": "● You can activate a second “Chain Strike” if 1 “Chain Strike” is already on that chain. However, no further “Chain Strikes” can be activated in that same chain after that.",
+    "ReturnDAD": "● You can activate a second “Chain Strike” if 1 “Chain Strike” is already on that chain. However, no further “Chain Strikes” can be activated in that same chain after that.",
+    "Trooper": "● You can activate a second “Chain Strike” if 1 “Chain Strike” is already on that chain. However, no further “Chain Strikes” can be activated in that same chain after that.",
+    "Circle": "● You can activate a second “Chain Strike” if 1 “Chain Strike” is already on that chain. However, no further “Chain Strikes” can be activated in that same chain after that.",
+    "Stein": "● You can activate a second “Chain Strike” if 1 “Chain Strike” is already on that chain. However, no further “Chain Strikes” can be activated in that same chain after that.",
+    "Base": "1. You can activate a second \"Chain Strike\" if 1 \"Chain Strike\" is already on that chain. However, no further copies of \"Chain Strike\" can be activated in that same chain after that.\\n2. [FORUM] If the effect of \"Chain Strike\" reduces a player's Life Points to 0 in the middle of a Chain, the game ends before the rest of the Chain resolves. Example: Player A has 500 Life Points and plays \"Aegis of Gaia\". Player B chains \"Chain Strike\".  After \"Chain Strike\" resolves, the game ends.  \"Aegis of Gaia\" does not resolve and Player A does not gain 3000 Life Points."
+  },
+  "PSCT": {
+    "Tengu": "① Activate only as Chain Link 2 or higher, if multiple cards/effects with the same name are not in that Chain; your opponent takes damage equal to 400 times this card's Chain Link.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 51534754,
+  "name": "Yomi Ship",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 1400,
+    "level": 3,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card does NOT target. So it will destroy a Dragon even if Lord of D. is in play, etc.\n●If destroyed by Dark Ruler Ha Des, etc., the effect of Yomi Ship is negated.",
+    "Goat": "●This card does NOT target. So it will destroy a Dragon even if Lord of D. is in play, etc.\n●If destroyed by Dark Ruler Ha Des, etc., the effect of Yomi Ship is negated. 02/01/04 \n●Q: If “Lord of D.” is out, and so are Dragon type monsters on their side of the field, and they attack a face-down “Yomi Ship,” does “Yomi Ship” still destroy the Dragon? \nA: Yes, “Yomi Ship” does not designate a target. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card does NOT target. So it will destroy a Dragon even if 'Lord of D.' is in play, etc.\n● If destroyed by 'Dark Ruler Ha Des', etc., the effect of 'Yomi Ship' is negated.",
+    "TeleDAD": "● This card does NOT target. So it will destroy a Dragon even if 'Lord of D.' is in play, etc.\n● If destroyed by 'Dark Ruler Ha Des', etc., the effect of 'Yomi Ship' is negated.",
+    "Gladiator": "● This card does NOT target. So it will destroy a Dragon even if 'Lord of D.' is in play, etc.\n● If destroyed by 'Dark Ruler Ha Des', etc., the effect of 'Yomi Ship' is negated.",
+    "ReturnDAD": "● This card does NOT target. So it will destroy a Dragon even if 'Lord of D.' is in play, etc.\n● If destroyed by 'Dark Ruler Ha Des', etc., the effect of 'Yomi Ship' is negated.",
+    "Trooper": "● This card does NOT target. So it will destroy a Dragon even if 'Lord of D.' is in play, etc.\n● If destroyed by 'Dark Ruler Ha Des', etc., the effect of 'Yomi Ship' is negated.",
+    "Circle": "● This card does NOT target. So it will destroy a Dragon even if 'Lord of D.' is in play, etc.\n● If destroyed by 'Dark Ruler Ha Des', etc., the effect of 'Yomi Ship' is negated.",
+    "Stein": "● This card does NOT target. So it will destroy a Dragon even if 'Lord of D.' is in play, etc.\n● If destroyed by 'Dark Ruler Ha Des', etc., the effect of 'Yomi Ship' is negated.",
+    "Base": "1. This card does NOT target. So it will destroy a Dragon even if \"Lord of D.\" is in play, etc.\\n2. If destroyed by \"Dark Ruler Ha Des\", etc., the effect of \"Yomi Ship\" is negated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

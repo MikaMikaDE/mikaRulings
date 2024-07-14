@@ -1,0 +1,44 @@
+{
+  "id": 38975369,
+  "name": "Gundari",
+  "Stats": {
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 200,
+    "level": 4,
+    "race": "Pyro",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect to return “Gundari” and the Synchro Monster activates at the start of the Damage Step.\n●If “Gundari” battles a Synchro Monster while “G.B. Hunter” is on the field, “Gundari” is returned to the hand and the Synchro Monster stays on the field.\n●If “Ally of Justice Catastor” battles “Gundari” both of their effects activate and form a Chain. If “Ally of Justice Catastor” attacks “Gundari,” both monsters are returned to the hand or Extra Deck. If “Gundari” attacks “Ally of Justice Catastor,” then “Gundari” is destroyed and “Ally of Justice Catastor” returns to the Extra Deck.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect to return \"Gundari\" and the Synchro Monster activates at the start of the Damage Step.\\n2. If \"Gundari\" battles a Synchro Monster while \"G.B. Hunter\" is on the field, \"Gundari\" is returned to the hand and the Synchro Monster stays on the field.\\n3. If \"Ally of Justice Catastor\" battles \"Gundari\" both of their effects activate and form a Chain. If \"Ally of Justice Catastor\" attacks \"Gundari\", both monsters are returned to the hand or Extra Deck. If \"Gundari\" attacks \"Ally of Justice Catastor\", then \"Gundari\" is destroyed and \"Ally of Justice Catastor\" returns to the Extra Deck."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1896112,
+  "name": "Dimension Explosion",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "Return 1 face-up Fusion Monster you control to the Fusion Deck. (1) Both players select up to 2 of their monsters that are removed from play, and Special Summon them.\n●Returning 1 face-up Fusion Monster you control to the Extra Deck is a cost.\n●This card targets removed from play monsters for both players.\n●This card CANNOT be activated unless both players have at least 1 removed from play monster.\n●This card CANNOT be activated unless both players have at least 1 open Monster Card Zone.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Dimension Explosion' targets the selected removed from play monsters.\n● 'Dimension Explosion' can't be activated if either player has no monsters in their Removed Zone they can Special Summon.\n● 'Dimension Explosion' can't be activated if either player has no open Monster Card Zones.\n● If either player has only 1 open Monster Card Zone, they can only select 1 monster in their Removed Zone.",
+    "TeleDAD": "● 'Dimension Explosion' targets the selected removed from play monsters.\n● 'Dimension Explosion' can't be activated if either player has no monsters in their Removed Zone they can Special Summon.\n● 'Dimension Explosion' can't be activated if either player has no open Monster Card Zones.\n● If either player has only 1 open Monster Card Zone, they can only select 1 monster in their Removed Zone.",
+    "Gladiator": "● 'Dimension Explosion' targets the selected removed from play monsters.\n● 'Dimension Explosion' can't be activated if either player has no monsters in their Removed Zone they can Special Summon.\n● 'Dimension Explosion' can't be activated if either player has no open Monster Card Zones.\n● If either player has only 1 open Monster Card Zone, they can only select 1 monster in their Removed Zone.",
+    "ReturnDAD": "● 'Dimension Explosion' targets the selected removed from play monsters.\n● 'Dimension Explosion' can't be activated if either player has no monsters in their Removed Zone they can Special Summon.\n● 'Dimension Explosion' can't be activated if either player has no open Monster Card Zones.\n● If either player has only 1 open Monster Card Zone, they can only select 1 monster in their Removed Zone.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Dimension Explosion\" targets the selected removed from play monsters.\\n2. \"Dimension Explosion\" cannot be activated if either player has no monsters in their Removed Zone they can Special Summon.\\n3. \"Dimension Explosion\" cannot be activated if either player has no open Monster Card Zones.\\n4. If either player has only 1 open Monster Card Zone, they can only select 1 monster in their Removed Zone."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

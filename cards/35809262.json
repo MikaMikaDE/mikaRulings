@@ -1,0 +1,44 @@
+{
+  "id": 35809262,
+  "name": "Elemental HERO Flame Wingman",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 2100,
+    "def": 1200,
+    "level": 6,
+    "race": "Warrior",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●The damage inflicted by the effect of “Elemental Hero Flame Wingman” is based on the ATK of the destroyed monster in the GY. So it’s the original ATK of the monster.\n●The effect of “Elemental Hero Flame Wingman” is activated when the monster destroyed in battle by it is sent to the GY. You can chain to this effect.\n●If your “Elemental Hero Flame Wingman” destroys your monster that your opponent controlled, the effect is still activated and you inflict the effect damage to your opponent’s Life Points.\n●If your “Elemental Hero Flame Wingman” destroys a “Fusilier Dragon, the Dual-Mode Beast” that was Summoned without Tribute, inflict 2800 damage to your opponent’s Life Points.",
+    "Goat": "●The damage inflicted by the effect of “Elemental Hero Flame Wingman” is based on the ATK of the destroyed monster in the GY. So it’s the original ATK of the monster.\n●The effect of “Elemental Hero Flame Wingman” is activated when the monster destroyed in battle by it is sent to the GY. You can chain to this effect.\n●If your “Elemental Hero Flame Wingman” destroys your monster that your opponent controlled, the effect is still activated and you inflict the effect damage to your opponent’s LP.\n●If your “Elemental Hero Flame Wingman” destroys a “Fusilier Dragon, the Dual-Mode Beast” that was Summoned without Tribute, inflict 2800 damage to your opponent’s LP.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The damage inflicted by the effect of “Elemental Hero Flame Wingman” is based on the ATK of the destroyed monster in the GY. So it’s the original ATK of the monster.\n● The effect of “Elemental Hero Flame Wingman” is activated when the monster destroyed in battle by it is sent to the GY. You can chain to this effect.\n● If your “Elemental Hero Flame Wingman” destroys your monster that your opponent controlled, the effect is still activated and you inflict the effect damage to your opponent’s LP.\n● If your “Elemental Hero Flame Wingman” destroys a “Fusilier Dragon, the Dual-Mode Beast” that was Summoned without Tribute, inflict 2800 damage to your opponent’s LP.",
+    "TeleDAD": "● The damage inflicted by the effect of “Elemental Hero Flame Wingman” is based on the ATK of the destroyed monster in the GY. So it’s the original ATK of the monster.\n● The effect of “Elemental Hero Flame Wingman” is activated when the monster destroyed in battle by it is sent to the GY. You can chain to this effect.\n● If your “Elemental Hero Flame Wingman” destroys your monster that your opponent controlled, the effect is still activated and you inflict the effect damage to your opponent’s LP.\n● If your “Elemental Hero Flame Wingman” destroys a “Fusilier Dragon, the Dual-Mode Beast” that was Summoned without Tribute, inflict 2800 damage to your opponent’s LP.",
+    "Gladiator": "● The damage inflicted by the effect of “Elemental Hero Flame Wingman” is based on the ATK of the destroyed monster in the GY. So it’s the original ATK of the monster.\n● The effect of “Elemental Hero Flame Wingman” is activated when the monster destroyed in battle by it is sent to the GY. You can chain to this effect.\n● If your “Elemental Hero Flame Wingman” destroys your monster that your opponent controlled, the effect is still activated and you inflict the effect damage to your opponent’s LP.\n● If your “Elemental Hero Flame Wingman” destroys a “Fusilier Dragon, the Dual-Mode Beast” that was Summoned without Tribute, inflict 2800 damage to your opponent’s LP.",
+    "ReturnDAD": "● The damage inflicted by the effect of “Elemental Hero Flame Wingman” is based on the ATK of the destroyed monster in the GY. So it’s the original ATK of the monster.\n● The effect of “Elemental Hero Flame Wingman” is activated when the monster destroyed in battle by it is sent to the GY. You can chain to this effect.\n● If your “Elemental Hero Flame Wingman” destroys your monster that your opponent controlled, the effect is still activated and you inflict the effect damage to your opponent’s LP.\n● If your “Elemental Hero Flame Wingman” destroys a “Fusilier Dragon, the Dual-Mode Beast” that was Summoned without Tribute, inflict 2800 damage to your opponent’s LP.",
+    "Trooper": "● The damage inflicted by the effect of “Elemental Hero Flame Wingman” is based on the ATK of the destroyed monster in the GY. So it’s the original ATK of the monster.\n● The effect of “Elemental Hero Flame Wingman” is activated when the monster destroyed in battle by it is sent to the GY. You can chain to this effect.\n● If your “Elemental Hero Flame Wingman” destroys your monster that your opponent controlled, the effect is still activated and you inflict the effect damage to your opponent’s LP.\n● If your “Elemental Hero Flame Wingman” destroys a “Fusilier Dragon, the Dual-Mode Beast” that was Summoned without Tribute, inflict 2800 damage to your opponent’s LP.",
+    "Circle": "● The damage inflicted by the effect of “Elemental Hero Flame Wingman” is based on the ATK of the destroyed monster in the GY. So it’s the original ATK of the monster.\n● The effect of “Elemental Hero Flame Wingman” is activated when the monster destroyed in battle by it is sent to the GY. You can chain to this effect.\n● If your “Elemental Hero Flame Wingman” destroys your monster that your opponent controlled, the effect is still activated and you inflict the effect damage to your opponent’s LP.\n● If your “Elemental Hero Flame Wingman” destroys a “Fusilier Dragon, the Dual-Mode Beast” that was Summoned without Tribute, inflict 2800 damage to your opponent’s LP.",
+    "Stein": "● The damage inflicted by the effect of “Elemental Hero Flame Wingman” is based on the ATK of the destroyed monster in the GY. So it’s the original ATK of the monster.\n● The effect of “Elemental Hero Flame Wingman” is activated when the monster destroyed in battle by it is sent to the GY. You can chain to this effect.\n● If your “Elemental Hero Flame Wingman” destroys your monster that your opponent controlled, the effect is still activated and you inflict the effect damage to your opponent’s LP.\n● If your “Elemental Hero Flame Wingman” destroys a “Fusilier Dragon, the Dual-Mode Beast” that was Summoned without Tribute, inflict 2800 damage to your opponent’s LP.",
+    "Base": "1. The damage inflicted by the effect of \"Elemental HERO Flame Wingman\" is based on the ATK of the destroyed monster in the GY. So it's the original ATK of the monster.\\n2. The effect of \"Elemental HERO Flame Wingman\" is activated when the monster destroyed in battle by it is sent to the GY. You can chain to this effect.\\n3. If your \"Elemental HERO Flame Wingman\" destroys your monster that your opponent controlled, the effect is still activated and you inflict the effect damage to your opponent's Life Points.\\n4. If your \"Elemental HERO Flame Wingman\" destroys a \"Fusilier Dragon, the Dual-Mode Beast\" that was Summoned without Tribute, inflict 2800 damage to your opponent's Life Points."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

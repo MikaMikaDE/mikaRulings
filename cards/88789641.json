@@ -1,0 +1,40 @@
+{
+  "id": 88789641,
+  "name": "Hallowed Life Barrier",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Hallowed Life Barrier protects your Life Points from Battle Damage and Effect Damage. It doesn’t protect your monsters from being destroyed as a result of battle.",
+    "Goat": "●Hallowed Life Barrier protects your LP from Battle Damage and Effect Damage. It doesn’t protect your monsters from being destroyed by battle.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Hallowed Life Barrier' protects your LP from Battle Damage and Effect Damage. It doesn’t protect your monsters from being destroyed as a result of battle.",
+    "TeleDAD": "● 'Hallowed Life Barrier' protects your LP from Battle Damage and Effect Damage. It doesn’t protect your monsters from being destroyed as a result of battle.",
+    "Gladiator": "● 'Hallowed Life Barrier' protects your LP from Battle Damage and Effect Damage. It doesn’t protect your monsters from being destroyed as a result of battle.",
+    "ReturnDAD": "● 'Hallowed Life Barrier' protects your LP from Battle Damage and Effect Damage. It doesn’t protect your monsters from being destroyed as a result of battle.",
+    "Trooper": "● 'Hallowed Life Barrier' protects your LP from Battle Damage and Effect Damage. It doesn’t protect your monsters from being destroyed as a result of battle.",
+    "Circle": "● 'Hallowed Life Barrier' protects your LP from Battle Damage and Effect Damage. It doesn’t protect your monsters from being destroyed as a result of battle.",
+    "Stein": "● 'Hallowed Life Barrier' protects your LP from Battle Damage and Effect Damage. It doesn’t protect your monsters from being destroyed as a result of battle.",
+    "Base": "1. \"Hallowed Life Barrier\" protects your Life Points from Battle Damage and Effect Damage. It doesn't protect your monsters from being destroyed as a result of battle."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

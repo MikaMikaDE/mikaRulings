@@ -1,0 +1,40 @@
+{
+  "id": 54178050,
+  "name": "Dragon's Rage",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you attack with Spear Dragon or a Dragon-Type monster equipped with Fairy Meteor Crush, the difference between your monster’s ATK and the attacked monster’s DEF will only be inflicted as Battle Damage once. The effect of Dragon’s Rage will not inflict the damage again.",
+    "Goat": "●If you attack with Spear Dragon or a Dragon monster equipped with Fairy Meteor Crush, the difference between your monster’s ATK and the attacked monster’s DEF will only be inflicted as Battle Damage once. The effect of Dragon’s Rage will not inflict the damage again.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you attack with 'Spear Dragon' or a Dragon equipped with 'Fairy Meteor Crush', the difference between your monster’s ATK and the attacked monster’s DEF will only be inflicted as Battle Damage once. The effect of 'Dragon’s Rage' will not inflict the damage again.",
+    "TeleDAD": "● If you attack with 'Spear Dragon' or a Dragon equipped with 'Fairy Meteor Crush', the difference between your monster’s ATK and the attacked monster’s DEF will only be inflicted as Battle Damage once. The effect of 'Dragon’s Rage' will not inflict the damage again.",
+    "Gladiator": "● If you attack with 'Spear Dragon' or a Dragon equipped with 'Fairy Meteor Crush', the difference between your monster’s ATK and the attacked monster’s DEF will only be inflicted as Battle Damage once. The effect of 'Dragon’s Rage' will not inflict the damage again.",
+    "ReturnDAD": "● If you attack with 'Spear Dragon' or a Dragon equipped with 'Fairy Meteor Crush', the difference between your monster’s ATK and the attacked monster’s DEF will only be inflicted as Battle Damage once. The effect of 'Dragon’s Rage' will not inflict the damage again.",
+    "Trooper": "● If you attack with 'Spear Dragon' or a Dragon equipped with 'Fairy Meteor Crush', the difference between your monster’s ATK and the attacked monster’s DEF will only be inflicted as Battle Damage once. The effect of 'Dragon’s Rage' will not inflict the damage again.",
+    "Circle": "● If you attack with 'Spear Dragon' or a Dragon equipped with 'Fairy Meteor Crush', the difference between your monster’s ATK and the attacked monster’s DEF will only be inflicted as Battle Damage once. The effect of 'Dragon’s Rage' will not inflict the damage again.",
+    "Stein": "● If you attack with 'Spear Dragon' or a Dragon equipped with 'Fairy Meteor Crush', the difference between your monster’s ATK and the attacked monster’s DEF will only be inflicted as Battle Damage once. The effect of 'Dragon’s Rage' will not inflict the damage again.",
+    "Base": "1. If you attack with \"Spear Dragon\" or a Dragon-Type monster equipped with \"Fairy Meteor Crush\", the difference between your monster's ATK and the attacked monster's DEF will only be inflicted as Battle Damage once. The effect of \"Dragon's Rage\" will not inflict the damage again."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

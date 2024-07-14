@@ -1,0 +1,40 @@
+{
+  "id": 15305240,
+  "name": "Creature Seizure",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If, due to an effect chained to “Creature Seizure” you control no face-up Normal Monsters when it resolves, no monsters switch control.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If, due to an effect chained to “Creature Seizure” you control no face-up Normal Monsters when it resolves, no monsters switch control.",
+    "TeleDAD": "● If, due to an effect chained to “Creature Seizure” you control no face-up Normal Monsters when it resolves, no monsters switch control.",
+    "Gladiator": "● If, due to an effect chained to “Creature Seizure” you control no face-up Normal Monsters when it resolves, no monsters switch control.",
+    "ReturnDAD": "● If, due to an effect chained to “Creature Seizure” you control no face-up Normal Monsters when it resolves, no monsters switch control.",
+    "Trooper": "● If, due to an effect chained to “Creature Seizure” you control no face-up Normal Monsters when it resolves, no monsters switch control.",
+    "Circle": "● If, due to an effect chained to “Creature Seizure” you control no face-up Normal Monsters when it resolves, no monsters switch control.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If, due to an effect chained to \"Creature Seizure\" you control no face-up Normal Monsters when it resolves, no monsters switch control."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

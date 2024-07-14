@@ -1,0 +1,44 @@
+{
+  "id": 55001420,
+  "name": "Arcane Archer of the Forest",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 900,
+    "def": 1400,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(1) While there is a Plant-Type monster on your side of the field, this card cannot be attacked. (2) By Tributing 1 Plant-Type monster on your side of the field, destroy 1 Spell or Trap Card on the field.\n●The (1) Continuous Effect applies while this card is face-up on the field.\n●If this card, your only monster on the field, is changed to Plant-Type: your opponent can't attack.\n●The (2) Ignition Effect activates & resolves on the field.\n●Tributing 1 Plant-Type monster on your side of the field is a cost. You can Tribute your opponent's face-up Plant-Type monster targeted by Soul Exchange.\n●This effect targets 1 (face-up / face-down) Spell / Trap Card on the field.\n●You can Tribute this card that is treated as a Plant-Type to activate this effect.",
+    "Goat": "●If Arcane Archer of the Forest is your only monster on the field, and you turn it into a Plant monster, your opponent cannot attack, and you can Tribute Arcane Archer of the Forest to activate his own effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Arcane Archer of the Forest' is your only monster on the field, and you turn it into a Plant, your opponent can't attack, and you can Tribute 'Arcane Archer of the Forest' to activate his own effect.",
+    "TeleDAD": "● If 'Arcane Archer of the Forest' is your only monster on the field, and you turn it into a Plant, your opponent can't attack, and you can Tribute 'Arcane Archer of the Forest' to activate his own effect.",
+    "Gladiator": "● If 'Arcane Archer of the Forest' is your only monster on the field, and you turn it into a Plant, your opponent can't attack, and you can Tribute 'Arcane Archer of the Forest' to activate his own effect.",
+    "ReturnDAD": "● If 'Arcane Archer of the Forest' is your only monster on the field, and you turn it into a Plant, your opponent can't attack, and you can Tribute 'Arcane Archer of the Forest' to activate his own effect.",
+    "Trooper": "● If 'Arcane Archer of the Forest' is your only monster on the field, and you turn it into a Plant, your opponent can't attack, and you can Tribute 'Arcane Archer of the Forest' to activate his own effect.",
+    "Circle": "● If 'Arcane Archer of the Forest' is your only monster on the field, and you turn it into a Plant, your opponent can't attack, and you can Tribute 'Arcane Archer of the Forest' to activate his own effect.",
+    "Stein": "● If 'Arcane Archer of the Forest' is your only monster on the field, and you turn it into a Plant, your opponent can't attack, and you can Tribute 'Arcane Archer of the Forest' to activate his own effect.",
+    "Base": "1. If \"Arcane Archer of the Forest\" is your only monster on the field, and you turn it into a Plant-Type monster, your opponent cannot attack, and you can Tribute \"Arcane Archer of the Forest\" to activate his own effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

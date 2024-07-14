@@ -1,0 +1,40 @@
+{
+  "id": 30502181,
+  "name": "Lightsworn Sabre",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Lightsworn Sabre' is sent from your Deck to the GY to pay a cost its effect can't be activated.",
+    "TeleDAD": "● If 'Lightsworn Sabre' is sent from your Deck to the GY to pay a cost its effect can't be activated.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Lightsworn Sabre\" is sent from your Deck to the GY to pay a cost its effect cannot be activated."
+  },
+  "PSCT": {
+    "Tengu": "Ⓒ Equip only to a \"Lightsworn\" monster.\n① A monster equipped with this card gains 700 ATK.\n② When this card is sent from your Deck to the GY: You can target 1 \"Lightsworn\" monster you control;\nequip this card to that target.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

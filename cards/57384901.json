@@ -1,0 +1,40 @@
+{
+  "id": 57384901,
+  "name": "Interdimensional Warp",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Interdimensional Warp” targets the monster you control and your opponent’s monster with A-Counter(s).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Interdimensional Warp” targets the monster you control and your opponent’s monster with A-Counter(s).",
+    "TeleDAD": "● “Interdimensional Warp” targets the monster you control and your opponent’s monster with A-Counter(s).",
+    "Gladiator": "● “Interdimensional Warp” targets the monster you control and your opponent’s monster with A-Counter(s).",
+    "ReturnDAD": "● “Interdimensional Warp” targets the monster you control and your opponent’s monster with A-Counter(s).",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● “Interdimensional Warp” targets the monster you control and your opponent’s monster with A-Counter(s).",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Interdimensional Warp\" targets the monster you control and your opponent's monster with A-Counter(s)."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 45452224,
+  "name": "Kinka-byo",
+  "Stats": {
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "atk": 400,
+    "def": 200,
+    "level": 1,
+    "race": "Beast",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Kinka-Byo's effect targets 1 Level 1 monster in your GY and continues to target it while it is on the field.\n●Removing the Special Summoned monster from play when Kinka-Byo is removed from the field does not start a Chain.\n●When Kinka-Byo is flipped face-down its effect disappears. If it is flipped face-up and Special Summons another Level 1 monster, when it is removed from the field only the newly Special Summoned Level 1 monster is removed from play. The previously Special Summoned Level 1 monster remains on the field.\n●If you Special Summon Arcana Force 0 - The Fool with Kinka-Byo's effect and the coin toss for Arcana Force 0 - The Fool is heads, Kinka-Byo's effect is negated and it is destroyed. Arcana Force 0 - The Fool remains on the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Kinka-Byo's' effect targets 1 LV 1 monster in your GY and continues to target it while it is on the field.\n● Removing the Special Summoned monster from play when 'Kinka-Byo' leaves the field does not start a Chain.\n● When 'Kinka-Byo' is flipped face-down its effect disappears. If it is flipped face-up and Special Summons another LV 1 monster, when it leaves the field only the newly Special Summoned LV 1 monster is removed from play. The previously Special Summoned LV 1 monster remains on the field.\n● If you Special Summon 'Arcana Force 0 - The Fool' with 'Kinka-Byo's' effect and the coin toss for 'Arcana Force 0 - The Fool' is heads, 'Kinka-Byo's' effect is negated and it is destroyed. 'Arcana Force 0 - The Fool' remains on the field.",
+    "TeleDAD": "● 'Kinka-Byo's' effect targets 1 LV 1 monster in your GY and continues to target it while it is on the field.\n● Removing the Special Summoned monster from play when 'Kinka-Byo' leaves the field does not start a Chain.\n● When 'Kinka-Byo' is flipped face-down its effect disappears. If it is flipped face-up and Special Summons another LV 1 monster, when it leaves the field only the newly Special Summoned LV 1 monster is removed from play. The previously Special Summoned LV 1 monster remains on the field.\n● If you Special Summon 'Arcana Force 0 - The Fool' with 'Kinka-Byo's' effect and the coin toss for 'Arcana Force 0 - The Fool' is heads, 'Kinka-Byo's' effect is negated and it is destroyed. 'Arcana Force 0 - The Fool' remains on the field.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Kinka-byo\" targets 1 Level 1 monster in your GY and continues to target it while it is on the field.\\n2. Removing the Special Summoned monster from play when \"Kinka-byo\" is removed from the field does not start a Chain.\\n3. When \"Kinka-byo\" is flipped face-down its effect disappears. If it is flipped face-up and Special Summons another Level 1 monster, when it is removed from the field only the newly Special Summoned Level 1 monster is removed from play. The previously Special Summoned Level 1 monster remains on the field.\\n4. If you Special Summon \"Arcana Force 0 - The Fool\" with the effect of \"Kinka-byo\" and the coin toss for \"Arcana Force 0 - The Fool\" is heads, the effect of \"Kinka-byo\" is negated and it is destroyed. \"Arcana Force 0 - The Fool\" remains on the field.\\n5. The following rules apply to all Spirit Monsters:\\n6. Spirit is not a monster Type; you cannot declare \"Spirit\" for the effect of \"DNA Surgery\".\\n7. Spirit Monsters are still Effect Monsters.\\n8. A Spirit Monster must be face-up on the field during the End Phase for it to return to the owner's hand. If it was destroyed or removed from play, it will not return to the owner's hand.\\n9. A Spirit Monster will return to the owner's hand during the End Phase, even if the opponent played it from their hand (through the effect of \"Exchange\".)"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

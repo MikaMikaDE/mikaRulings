@@ -1,0 +1,40 @@
+{
+  "id": 3682106,
+  "name": "Double Snare",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can destroy Jinzo, Royal Decree, Tyrant Dragon, Sorcerer of Dark Magic, Fiend Skull Dragon, and The Dragon’s Bead with this card’s effect.\n●You cannot destroy Ryu Senshi because of its effect that prevents it from being targeted by a Spell Card.\n●You cannot destroy Reaper of the Cards or Trap Master because they do not negate Trap Cards, they destroy Trap Cards.\n●You can only destroy face-up cards with the effect of Double Snare. The opponent may chain Book of Moon to your Double Snare to flip his / her monster face-down, and it will not be destroyed.",
+    "Goat": "●You can destroy Jinzo, Royal Decree, Tyrant Dragon, Sorcerer of Dark Magic, Fiend Skull Dragon, and The Dragon’s Bead with this card’s effect.\n●You cannot destroy Ryu Senshi because of its effect that prevents it from being targeted by a Spell Card.\n●You cannot destroy Reaper of the Cards or Trap Master because they do not negate Trap Cards, they destroy Trap Cards.\n●You can only destroy face-up cards with the effect of Double Snare. The opponent may chain Book of Moon to your Double Snare to flip his / her monster face-down, and it will not be destroyed.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can destroy 'Jinzo', 'Royal Decree', 'Tyrant Dragon', 'Sorcerer of Dark Magic', 'Fiend Skull Dragon', and 'The Dragon’s Bead' with this card’s effect.\n● You can't destroy 'Ryu Senshi' because of its effect that prevents it from being targeted by a Spell Card.\n● You can't destroy 'Reaper of the Cards' or 'Trap Master' because they do not negate Trap Cards, they destroy Trap Cards.\n● You can only destroy face-up cards with the effect of 'Double Snare'. The opponent may chain 'Book of Moon' to your 'Double Snare' to flip his / her monster face-down, and it will not be destroyed.",
+    "TeleDAD": "● You can destroy 'Jinzo', 'Royal Decree', 'Tyrant Dragon', 'Sorcerer of Dark Magic', 'Fiend Skull Dragon', and 'The Dragon’s Bead' with this card’s effect.\n● You can't destroy 'Ryu Senshi' because of its effect that prevents it from being targeted by a Spell Card.\n● You can't destroy 'Reaper of the Cards' or 'Trap Master' because they do not negate Trap Cards, they destroy Trap Cards.\n● You can only destroy face-up cards with the effect of 'Double Snare'. The opponent may chain 'Book of Moon' to your 'Double Snare' to flip his / her monster face-down, and it will not be destroyed.",
+    "Gladiator": "● You can destroy 'Jinzo', 'Royal Decree', 'Tyrant Dragon', 'Sorcerer of Dark Magic', 'Fiend Skull Dragon', and 'The Dragon’s Bead' with this card’s effect.\n● You can't destroy 'Ryu Senshi' because of its effect that prevents it from being targeted by a Spell Card.\n● You can't destroy 'Reaper of the Cards' or 'Trap Master' because they do not negate Trap Cards, they destroy Trap Cards.\n● You can only destroy face-up cards with the effect of 'Double Snare'. The opponent may chain 'Book of Moon' to your 'Double Snare' to flip his / her monster face-down, and it will not be destroyed.",
+    "ReturnDAD": "● You can destroy 'Jinzo', 'Royal Decree', 'Tyrant Dragon', 'Sorcerer of Dark Magic', 'Fiend Skull Dragon', and 'The Dragon’s Bead' with this card’s effect.\n● You can't destroy 'Ryu Senshi' because of its effect that prevents it from being targeted by a Spell Card.\n● You can't destroy 'Reaper of the Cards' or 'Trap Master' because they do not negate Trap Cards, they destroy Trap Cards.\n● You can only destroy face-up cards with the effect of 'Double Snare'. The opponent may chain 'Book of Moon' to your 'Double Snare' to flip his / her monster face-down, and it will not be destroyed.",
+    "Trooper": "● You can destroy 'Jinzo', 'Royal Decree', 'Tyrant Dragon', 'Sorcerer of Dark Magic', 'Fiend Skull Dragon', and 'The Dragon’s Bead' with this card’s effect.\n● You can't destroy 'Ryu Senshi' because of its effect that prevents it from being targeted by a Spell Card.\n● You can't destroy 'Reaper of the Cards' or 'Trap Master' because they do not negate Trap Cards, they destroy Trap Cards.\n● You can only destroy face-up cards with the effect of 'Double Snare'. The opponent may chain 'Book of Moon' to your 'Double Snare' to flip his / her monster face-down, and it will not be destroyed.",
+    "Circle": "● You can destroy 'Jinzo', 'Royal Decree', 'Tyrant Dragon', 'Sorcerer of Dark Magic', 'Fiend Skull Dragon', and 'The Dragon’s Bead' with this card’s effect.\n● You can't destroy 'Ryu Senshi' because of its effect that prevents it from being targeted by a Spell Card.\n● You can't destroy 'Reaper of the Cards' or 'Trap Master' because they do not negate Trap Cards, they destroy Trap Cards.\n● You can only destroy face-up cards with the effect of 'Double Snare'. The opponent may chain 'Book of Moon' to your 'Double Snare' to flip his / her monster face-down, and it will not be destroyed.",
+    "Stein": "● You can destroy 'Jinzo', 'Royal Decree', 'Tyrant Dragon', 'Sorcerer of Dark Magic', 'Fiend Skull Dragon', and 'The Dragon’s Bead' with this card’s effect.\n● You can't destroy 'Ryu Senshi' because of its effect that prevents it from being targeted by a Spell Card.\n● You can't destroy 'Reaper of the Cards' or 'Trap Master' because they do not negate Trap Cards, they destroy Trap Cards.\n● You can only destroy face-up cards with the effect of 'Double Snare'. The opponent may chain 'Book of Moon' to your 'Double Snare' to flip his / her monster face-down, and it will not be destroyed.",
+    "Base": "1. You can destroy \"Jinzo\", \"Royal Decree\", \"Tyrant Dragon\", \"Sorcerer of Dark Magic\", \"Fiend Skull Dragon\", and \"The Dragon's Bead\" with this card's effect.\\n2. You cannot destroy \"Ryu Senshi\" because of its effect that prevents it from being targeted by a Spell Card.\\n3. You cannot destroy \"Reaper of the Cards\" or \"Trap Master\" because they do not negate Trap Cards, they destroy Trap Cards.\\n4. You can only destroy face-up cards with the effect of \"Double Snare\". The opponent may chain \"Book of Moon\" to your \"Double Snare\" to flip his / her monster face-down, and it will not be destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

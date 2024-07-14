@@ -1,0 +1,44 @@
+{
+  "id": 79109599,
+  "name": "King of the Swamp",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 1100,
+    "level": 3,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "● The ① effect doesn't apply while in the Deck. \nYou can use this card in the Deck as Fusion Material as the WATER for \"Elemental HERO Absolute Zero\",\nbut you can't use this card in the Deck as Fusion Material as the \"Cyber Dragon\" for \"Chimeratech Overdragon\".\n● You can't use the ① effect as a Specific Material for \"Contact Fusion\" like \"Gladiator Beast Gyzarus\".\n● You can onlt use the ① effect for a listed card name, like \"Cyber Dragon\". \nYou can't use it for a generic name, like \"1 \"HERO\" Monster\".",
+    "Goat": "●You can only get 1 copy of Polymerization when you discard King of the Swamp from your hand.\n●You can activate the effect of King of the Swamp even if all 3 of your Polymerization cards are in your GY.\n●If King of the Swamp is selected for the effect of Prohibition, you cannot use either of its effects.\n●Discarding this card is a cost.\n●If you use King of the Swamp as Fusion Material from your hand, you do not get to activate its effect to search your Deck for Polymerization.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can only get 1 copy of 'Polymerization' when you discard 'King of the Swamp' from your hand.\n● You can activate the effect of 'King of the Swamp' even if all 3 of your 'Polymerization' cards are in your GY.\n● If 'King of the Swamp' is selected for the effect of 'Prohibition', you can't use either of its effects.\n● Discarding this card is a cost.\n● If you use 'King of the Swamp' as Fusion Material from your hand, you do not get to activate its effect to search your Deck for 'Polymerization'.",
+    "TeleDAD": "● You can only get 1 copy of 'Polymerization' when you discard 'King of the Swamp' from your hand.\n● You can activate the effect of 'King of the Swamp' even if all 3 of your 'Polymerization' cards are in your GY.\n● If 'King of the Swamp' is selected for the effect of 'Prohibition', you can't use either of its effects.\n● Discarding this card is a cost.\n● If you use 'King of the Swamp' as Fusion Material from your hand, you do not get to activate its effect to search your Deck for 'Polymerization'.",
+    "Gladiator": "● You can only get 1 copy of 'Polymerization' when you discard 'King of the Swamp' from your hand.\n● You can activate the effect of 'King of the Swamp' even if all 3 of your 'Polymerization' cards are in your GY.\n● If 'King of the Swamp' is selected for the effect of 'Prohibition', you can't use either of its effects.\n● Discarding this card is a cost.\n● If you use 'King of the Swamp' as Fusion Material from your hand, you do not get to activate its effect to search your Deck for 'Polymerization'.",
+    "ReturnDAD": "● You can only get 1 copy of 'Polymerization' when you discard 'King of the Swamp' from your hand.\n● You can activate the effect of 'King of the Swamp' even if all 3 of your 'Polymerization' cards are in your GY.\n● If 'King of the Swamp' is selected for the effect of 'Prohibition', you can't use either of its effects.\n● Discarding this card is a cost.\n● If you use 'King of the Swamp' as Fusion Material from your hand, you do not get to activate its effect to search your Deck for 'Polymerization'.",
+    "Trooper": "● You can only get 1 copy of 'Polymerization' when you discard 'King of the Swamp' from your hand.\n● You can activate the effect of 'King of the Swamp' even if all 3 of your 'Polymerization' cards are in your GY.\n● If 'King of the Swamp' is selected for the effect of 'Prohibition', you can't use either of its effects.\n● Discarding this card is a cost.\n● If you use 'King of the Swamp' as Fusion Material from your hand, you do not get to activate its effect to search your Deck for 'Polymerization'.",
+    "Circle": "● You can only get 1 copy of 'Polymerization' when you discard 'King of the Swamp' from your hand.\n● You can activate the effect of 'King of the Swamp' even if all 3 of your 'Polymerization' cards are in your GY.\n● If 'King of the Swamp' is selected for the effect of 'Prohibition', you can't use either of its effects.\n● Discarding this card is a cost.\n● If you use 'King of the Swamp' as Fusion Material from your hand, you do not get to activate its effect to search your Deck for 'Polymerization'.",
+    "Stein": "● You can only get 1 copy of 'Polymerization' when you discard 'King of the Swamp' from your hand.\n● You can activate the effect of 'King of the Swamp' even if all 3 of your 'Polymerization' cards are in your GY.\n● If 'King of the Swamp' is selected for the effect of 'Prohibition', you can't use either of its effects.\n● Discarding this card is a cost.\n● If you use 'King of the Swamp' as Fusion Material from your hand, you do not get to activate its effect to search your Deck for 'Polymerization'.",
+    "Base": "1. You can only get 1 copy of \"Polymerization\" when you discard \"King of the Swamp\" from your hand.\\n2. You can activate the effect of \"King of the Swamp\" even if all 3 of your \"Polymerization\" cards are in your GY.\\n3. If \"King of the Swamp\" is selected for the effect of \"Prohibition\", you cannot use either of its effects.\\n4. Discarding this card is a cost.\\n5. If you use \"King of the Swamp\" as Fusion Material from your hand, you do not get to activate its effect to search your Deck for \"Polymerization\"."
+  },
+  "PSCT": {
+    "Tengu": "① This card can be used as a substitute for any 1 Specifically Listed Fusion Material Monster, \nbut the other Fusion Material(s) must be correct. \n② You can discard this card to the GY; add 1 \"Polymerization\" from your Deck to your hand.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

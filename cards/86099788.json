@@ -1,0 +1,44 @@
+{
+  "id": 86099788,
+  "name": "The Last Warrior from Another Planet",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 2350,
+    "def": 2300,
+    "level": 7,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Monsters may still be Set while this card is on the field.\n●This card may be Tributed to Tribute Summon a Level 5 or higher monster.\n●Neither player can activate Scapegoat, Magical Hats, Monster Reborn, etc.\n●If your Parasite Paracide in your opponent’s Deck is drawn, it is not Special Summoned. It is instead destroyed and sent to your GY, and no damage is dealt.",
+    "Goat": "●Monsters may still be Set while this card is on the field.\n●This card may be Tributed to Tribute Summon a Lv 5 or higher monster.\n●Neither player can activate Scapegoat, Magical Hats, Monster Reborn, etc.\n●If your Parasite Paracide in your opponent’s Deck is drawn, it is not Special Summoned. It is instead destroyed and sent to your GY, and no damage is dealt. As long as “The Last Warrior From Another Planet” is applying, neither player may Special Summon a monster. \n●The effect of “The Last Warrior from Another Planet” only prevents Summons. “The Last Warrior from Another Planet” does not prevent monsters from being Flipped by other means.\n●Q: Can you or your opponent use cards that Special Summon monsters face down like “The Shallow Grave”? \nA: The Shallow Grave is a Special Summon. Neither player can Special Summon any monsters while The Last Warrior from Another Planet is face-up on the field. \n●  \n●Q: Can you perform Fusion Summons or Ritual Summons while “The Last Warrior from Another Planet” is on the field? \nA: Fusion Summons would not be allowed while The Last Warrior from Another Planet is face-up on the field. Ritual Summons would not be allowed while The Last Warrior from Another Planet is face-up on the field. Fusion Summons and Ritual Summons are Special Summons. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Monsters may still be Set while this card is on the field.\n● This card may be Tributed to Tribute Summon a LV 5 or higher monster.\n● Neither player can activate 'Scapegoat', 'Magical Hats', 'Monster Reborn', etc.\n● If your 'Parasite Paracide' in your opponent’s Deck is drawn, it isn't Special Summoned. It is instead destroyed and sent to your GY, and no damage is dealt.",
+    "TeleDAD": "● Monsters may still be Set while this card is on the field.\n● This card may be Tributed to Tribute Summon a LV 5 or higher monster.\n● Neither player can activate 'Scapegoat', 'Magical Hats', 'Monster Reborn', etc.\n● If your 'Parasite Paracide' in your opponent’s Deck is drawn, it isn't Special Summoned. It is instead destroyed and sent to your GY, and no damage is dealt.",
+    "Gladiator": "● Monsters may still be Set while this card is on the field.\n● This card may be Tributed to Tribute Summon a LV 5 or higher monster.\n● Neither player can activate 'Scapegoat', 'Magical Hats', 'Monster Reborn', etc.\n● If your 'Parasite Paracide' in your opponent’s Deck is drawn, it isn't Special Summoned. It is instead destroyed and sent to your GY, and no damage is dealt.",
+    "ReturnDAD": "● Monsters may still be Set while this card is on the field.\n● This card may be Tributed to Tribute Summon a LV 5 or higher monster.\n● Neither player can activate 'Scapegoat', 'Magical Hats', 'Monster Reborn', etc.\n● If your 'Parasite Paracide' in your opponent’s Deck is drawn, it isn't Special Summoned. It is instead destroyed and sent to your GY, and no damage is dealt.",
+    "Trooper": "● Monsters may still be Set while this card is on the field.\n● This card may be Tributed to Tribute Summon a LV 5 or higher monster.\n● Neither player can activate 'Scapegoat', 'Magical Hats', 'Monster Reborn', etc.\n● If your 'Parasite Paracide' in your opponent’s Deck is drawn, it isn't Special Summoned. It is instead destroyed and sent to your GY, and no damage is dealt.",
+    "Circle": "● Monsters may still be Set while this card is on the field.\n● This card may be Tributed to Tribute Summon a LV 5 or higher monster.\n● Neither player can activate 'Scapegoat', 'Magical Hats', 'Monster Reborn', etc.\n● If your 'Parasite Paracide' in your opponent’s Deck is drawn, it isn't Special Summoned. It is instead destroyed and sent to your GY, and no damage is dealt.",
+    "Stein": "● Monsters may still be Set while this card is on the field.\n● This card may be Tributed to Tribute Summon a LV 5 or higher monster.\n● Neither player can activate 'Scapegoat', 'Magical Hats', 'Monster Reborn', etc.\n● If your 'Parasite Paracide' in your opponent’s Deck is drawn, it isn't Special Summoned. It is instead destroyed and sent to your GY, and no damage is dealt.",
+    "Base": "1. Monsters may still be Set while this card is on the field.\\n2. This card may be Tributed to Tribute Summon a Level 5 or higher monster.\\n3. Neither player can activate \"Scapegoat\", \"Magical Hats\", \"Monster Reborn\", etc.\\n4. If your \"Parasite Paracide\" in your opponent's Deck is drawn, it is not Special Summoned. It is instead destroyed and sent to your GY, and no damage is dealt."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 98446407,
+  "name": "Hand of Nephthys",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 600,
+    "def": 600,
+    "level": 2,
+    "race": "Spellcaster",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●Tribute 2 monsters on your side of the field, including this card means that you Tribute Hand of Nephthys plus 1 additional monster.\n●Ignition Effects on monsters cannot be activated while the Effect Monster is face-down. So this face-down monster cannot be Tributed for its own effect.\n●You can chain to the activation of this monster’s effect.\n●Tributing monsters is a cost of this card’s effect.\n●You can Tribute a Monster Token as part of this card’s cost.\n●You can chain to the activation of Hand of Nephthys’ effect with the effect of Royal Oppression to negate the Special Summon of Sacred Phoenix of Nephthys.",
+    "Goat": "●Tribute 2 monsters on your side of the field, including this card means that you Tribute Hand of Nephthys plus 1 additional monster.\n●Ignition Effects on monsters cannot be activated while the Effect Monster is face-down. So this face-down monster cannot be Tributed for its own effect.\n●You can chain to the activation of this monster’s effect.\n●Tributing monsters is a cost of this card’s effect.\n●You can Tribute a Monster Token as part of this card’s cost.\n●You can chain to the activation of Hand of Nephthys’ effect with the effect of Royal Oppression to negate the Special Summon of Sacred Phoenix of Nephthys.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Tribute 2 monsters on your side of the field, including this card' means that you Tribute 'Hand of Nephthys' plus 1 additional monster.\n● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● You can chain to the activation of this monster’s effect.\n● Tributing monsters is a cost of this card’s effect.\n● You can Tribute a Monster Token as part of this card’s cost.\n● You can chain to the activation of 'Hand of Nephthys’' effect with the effect of 'Royal Oppression' to negate the Special Summon of 'Sacred Phoenix of Nephthys'.",
+    "TeleDAD": "● 'Tribute 2 monsters on your side of the field, including this card' means that you Tribute 'Hand of Nephthys' plus 1 additional monster.\n● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● You can chain to the activation of this monster’s effect.\n● Tributing monsters is a cost of this card’s effect.\n● You can Tribute a Monster Token as part of this card’s cost.\n● You can chain to the activation of 'Hand of Nephthys’' effect with the effect of 'Royal Oppression' to negate the Special Summon of 'Sacred Phoenix of Nephthys'.",
+    "Gladiator": "● 'Tribute 2 monsters on your side of the field, including this card' means that you Tribute 'Hand of Nephthys' plus 1 additional monster.\n● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● You can chain to the activation of this monster’s effect.\n● Tributing monsters is a cost of this card’s effect.\n● You can Tribute a Monster Token as part of this card’s cost.\n● You can chain to the activation of 'Hand of Nephthys’' effect with the effect of 'Royal Oppression' to negate the Special Summon of 'Sacred Phoenix of Nephthys'.",
+    "ReturnDAD": "● 'Tribute 2 monsters on your side of the field, including this card' means that you Tribute 'Hand of Nephthys' plus 1 additional monster.\n● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● You can chain to the activation of this monster’s effect.\n● Tributing monsters is a cost of this card’s effect.\n● You can Tribute a Monster Token as part of this card’s cost.\n● You can chain to the activation of 'Hand of Nephthys’' effect with the effect of 'Royal Oppression' to negate the Special Summon of 'Sacred Phoenix of Nephthys'.",
+    "Trooper": "● 'Tribute 2 monsters on your side of the field, including this card' means that you Tribute 'Hand of Nephthys' plus 1 additional monster.\n● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● You can chain to the activation of this monster’s effect.\n● Tributing monsters is a cost of this card’s effect.\n● You can Tribute a Monster Token as part of this card’s cost.\n● You can chain to the activation of 'Hand of Nephthys’' effect with the effect of 'Royal Oppression' to negate the Special Summon of 'Sacred Phoenix of Nephthys'.",
+    "Circle": "● 'Tribute 2 monsters on your side of the field, including this card' means that you Tribute 'Hand of Nephthys' plus 1 additional monster.\n● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● You can chain to the activation of this monster’s effect.\n● Tributing monsters is a cost of this card’s effect.\n● You can Tribute a Monster Token as part of this card’s cost.\n● You can chain to the activation of 'Hand of Nephthys’' effect with the effect of 'Royal Oppression' to negate the Special Summon of 'Sacred Phoenix of Nephthys'.",
+    "Stein": "● 'Tribute 2 monsters on your side of the field, including this card' means that you Tribute 'Hand of Nephthys' plus 1 additional monster.\n● Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect. \n● You can chain to the activation of this monster’s effect.\n● Tributing monsters is a cost of this card’s effect.\n● You can Tribute a Monster Token as part of this card’s cost.\n● You can chain to the activation of 'Hand of Nephthys’' effect with the effect of 'Royal Oppression' to negate the Special Summon of 'Sacred Phoenix of Nephthys'.",
+    "Base": "1. 'Tribute 2 monsters on your side of the field, including this card' means that you Tribute \"Hand of Nephthys\" plus 1 additional monster.\\n2. Ignition Effects on monsters cannot be activated while the Effect Monster is face-down. So this face-down monster cannot be Tributed for its own effect.\\n3. You can chain to the activation of this monster's effect.\\n4. Tributing monsters is a cost of this card's effect.\\n5. You can Tribute a Monster Token as part of this card's cost.\\n6. You can chain to the activation of the effect of \"Hand of Nephthys\" with the effect of \"Royal Oppression\" to negate the Special Summon of \"Sacred Phoenix of Nephthys\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

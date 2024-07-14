@@ -1,0 +1,44 @@
+{
+  "id": 57421866,
+  "name": "Level Eater",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 600,
+    "def": 0,
+    "level": 1,
+    "race": "Insect",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "(1) If this card in in the GY, you can activate its effect by selecting 1 face-up Level 5 or higher monster you control. Reduce that monster’s Level by 1. Special Summon this card from the GY. This can cannot be Tributed except for a Tribute Summon.\n●This (1) Ignition Effect activates & resolves in the GY.\n●This effect targets a Level 5+ monster you control.\n●If the target's Level cannot be reduced, Level Eater remains in the GY.\n●If the target’s Level is <5 when this effect resolves, reduce it’s Level and Summon Level Eater.\n●If Level Eater leaves the GY before this effect resolves, you still reduce the target’s Level.\n●That monster's Level is reduced so long as it remains face-up on the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Special Summoning \"Level Eater\" is an Ignition Effect that activates in the GY. It targets 1 face-up Level 5 or higher monster you control.\\n2. You reduce the target monster's Level when you resolve the effect.\\n3. The Level reduction lasts as long as the targeted monster is face-up on the field.\\n4. If the target monster is no longer on the field when the effect resolves, you do not Special Summon \"Level Eater\".\\n5. If the target monster's Level is less than 5 when the effect of \"Level Eater\" resolves, you still reduce the monster's Level by 1 and Summon \"Level Eater\".\\n6. If this card is no longer in the GY when its effect resolves, you still reduce the monster's Level by 1 but you don't Summon \"Level Eater\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

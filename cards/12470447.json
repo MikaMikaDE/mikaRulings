@@ -1,0 +1,40 @@
+{
+  "id": 12470447,
+  "name": "Curse of Fiend",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Changes the battle positions of all Attack Position monsters on the field to Defense Position and vice-versa. These positions cannot be changed during the turn this card is activated except by the effect of a Spell, Trap or Effect Monster Card. You can activate this card only during your Standby Phase.\n●This card must be Set in order to be activated during your Standby Phase. During your Standby Phase you flip up the face-down Curse of Fiend to activate its effect.\n●Face-down monsters changed to Attack Position will have their Flip Effects (and when this card is flipped face-up Trigger Effects) activated. This is NOT a Flip Summon, and will not cause Swarm of Scarabs to activate its Trigger Effect.\n●VS. Final Attack Order: While Final Attack Orders is active, you can change the Battle Positions of monsters with Curse of Fiend or Little-Winguard, but the Battle Positions are immediately changed back to Attack Position by Final Attack Orders.\n●VS. Destiny Hero Diamond Dude: You cannot activate the effect of Curse of Fiend, because it can only be activated during the Standby Phase.",
+    "Goat": "●Face-down Defense position monsters will be changed to face-up Attack position by the effect of “Curse of Fiend.” Any applicable Flip Effects will activate at that time.\n●Monsters affected by “Curse of Fiend” may have their battle positions changed by effects.\n●Q: Does “Curse of Fiend’s” effect work on Set monsters and would it be considered a Flip Summon? \nA: A Set monster would be changed to face-up attack position. It would not be considered Flip-Summoned, because its position was changed by a card effect, but its Flip-Effect would activate if it had one. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

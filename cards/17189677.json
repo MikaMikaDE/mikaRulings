@@ -1,0 +1,40 @@
+{
+  "id": 17189677,
+  "name": "Snake Rain",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot activate this card if there are less than 4 Reptile-Type monsters in your Deck.\n●If the number of Reptile-Type monsters in your Deck becomes less than 4 due to an effect chained to “Snake Rain”, you cannot send any Reptile-Type monsters from your Deck to the GY when “Snake Rain” resolves.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate this card if there are less than 4 Reptiles in your Deck.\n● If the number of Reptiles in your Deck becomes less than 4 due to an effect chained to “Snake Rain”, you can't send any Reptiles from your Deck to the GY when “Snake Rain” resolves.",
+    "TeleDAD": "● You can't activate this card if there are less than 4 Reptiles in your Deck.\n● If the number of Reptiles in your Deck becomes less than 4 due to an effect chained to “Snake Rain”, you can't send any Reptiles from your Deck to the GY when “Snake Rain” resolves.",
+    "Gladiator": "● You can't activate this card if there are less than 4 Reptiles in your Deck.\n● If the number of Reptiles in your Deck becomes less than 4 due to an effect chained to “Snake Rain”, you can't send any Reptiles from your Deck to the GY when “Snake Rain” resolves.",
+    "ReturnDAD": "● You can't activate this card if there are less than 4 Reptiles in your Deck.\n● If the number of Reptiles in your Deck becomes less than 4 due to an effect chained to “Snake Rain”, you can't send any Reptiles from your Deck to the GY when “Snake Rain” resolves.",
+    "Trooper": "● You can't activate this card if there are less than 4 Reptiles in your Deck.\n● If the number of Reptiles in your Deck becomes less than 4 due to an effect chained to “Snake Rain”, you can't send any Reptiles from your Deck to the GY when “Snake Rain” resolves.",
+    "Circle": "● You can't activate this card if there are less than 4 Reptiles in your Deck.\n● If the number of Reptiles in your Deck becomes less than 4 due to an effect chained to “Snake Rain”, you can't send any Reptiles from your Deck to the GY when “Snake Rain” resolves.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You cannot activate this card if there are less than 4 Reptile-Type monsters in your Deck.\\n2. If the number of Reptile-Type monsters in your Deck becomes less than 4 due to an effect chained to \"Snake Rain\", you cannot send any Reptile-Type monsters from your Deck to the GY when \"Snake Rain\" resolves."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 32723153,
+  "name": "Magical Explosion",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "● Count the number of Spells at this card's resolution.",
+    "Goat": "●Count the number of Spell Cards in the GY at the time “Magical Explosion” resolves.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Count the number of Spell Cards in the GY at the time “Magical Explosion” resolves.",
+    "TeleDAD": "● Count the number of Spell Cards in the GY at the time “Magical Explosion” resolves.",
+    "Gladiator": "● Count the number of Spell Cards in the GY at the time “Magical Explosion” resolves.",
+    "ReturnDAD": "● Count the number of Spell Cards in the GY at the time “Magical Explosion” resolves.",
+    "Trooper": "● Count the number of Spell Cards in the GY at the time “Magical Explosion” resolves.",
+    "Circle": "● Count the number of Spell Cards in the GY at the time “Magical Explosion” resolves.",
+    "Stein": "● Count the number of Spell Cards in the GY at the time “Magical Explosion” resolves.",
+    "Base": "1. Count the number of Spell Cards in the GY at the time \"Magical Explosion\" resolves."
+  },
+  "PSCT": {
+    "Tengu": "① If you have no cards in your hand: Your opponent takes 200 damage for each Spell in your GY.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

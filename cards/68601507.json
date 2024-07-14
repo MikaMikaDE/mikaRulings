@@ -1,0 +1,44 @@
+{
+  "id": 68601507,
+  "name": "Bujingi Crane",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 300,
+    "level": 4,
+    "race": "Winged Beast",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● This effect can be activated During Damage Calculation.",
+    "Vegas": "● This effect can be activated During Damage Calculation.",
+    "Meadowlands": "● This effect can be activated During Damage Calculation.",
+    "FireWater": "● This effect can be activated During Damage Calculation.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① During Damage Calculation, if a Beast-Warrior \"Bujin\" monster you control battles an opponent's monster (Quick): You can send this card from your hand to the GY; \nthe ATK of your monster becomes double its original ATK, during that Damage Calculation only.",
+    "Meadowlands": "① During Damage Calculation, if a Beast-Warrior \"Bujin\" monster you control battles an opponent's monster (Quick): You can send this card from your hand to the GY; \nthe ATK of your monster becomes double its original ATK, during that Damage Calculation only.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

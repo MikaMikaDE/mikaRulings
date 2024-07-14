@@ -1,0 +1,44 @@
+{
+  "id": 83235263,
+  "name": "Tyranno Infinity",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 4,
+    "race": "Dinosaur",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●The ATK of “Tyranno Infinity” changes according to the current number of your Dinosaur removed from play.\n●Remember that monsters removed from play go to the “removed zone” of the owner, even if controlled by the opponent, and even if they will return to the opponent’s side of the field later because of “Interdimensional Matter Transporter” or “Dimensionhole”.\n●If “Tyranno Infinity” is equipped with “Megamorph” and the number of removed from play Dinosaurs changes, first change the original ATK of “Tyranno Infinity”, and then double or halve that value to calculate its current ATK for “Megamorph”.",
+    "Goat": "●The ATK of “Tyranno Infinity” changes according to the current number of your Dinosaur removed from play.\n●Remember that monsters removed from play go to the “removed zone” of the owner, even if controlled by the opponent, and even if they will return to the opponent’s side of the field later because of “Interdimensional Matter Transporter” or “Dimensionhole”.\n●If “Tyranno Infinity” is equipped with “Megamorph” and the number of removed from play Dinosaurs changes, first change the original ATK of “Tyranno Infinity”, and then double or halve for “Megamorph”.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The ATK of “Tyranno Infinity” changes according to the current number of your Dinosaur removed from play.\n● Remember that monsters removed from play go to the “removed zone” of the owner, even if controlled by the opponent, and even if they will return to the opponent’s side of the field later because of “Interdimensional Matter Transporter” or “Dimensionhole”.\n● If “Tyranno Infinity” is equipped with “Megamorph” and the number of removed from play Dinosaurs changes, first change the original ATK of “Tyranno Infinity”, and then double or halve that value to calculate its current ATK for “Megamorph”.",
+    "TeleDAD": "● The ATK of “Tyranno Infinity” changes according to the current number of your Dinosaur removed from play.\n● Remember that monsters removed from play go to the “removed zone” of the owner, even if controlled by the opponent, and even if they will return to the opponent’s side of the field later because of “Interdimensional Matter Transporter” or “Dimensionhole”.\n● If “Tyranno Infinity” is equipped with “Megamorph” and the number of removed from play Dinosaurs changes, first change the original ATK of “Tyranno Infinity”, and then double or halve that value to calculate its current ATK for “Megamorph”.",
+    "Gladiator": "● The ATK of “Tyranno Infinity” changes according to the current number of your Dinosaur removed from play.\n● Remember that monsters removed from play go to the “removed zone” of the owner, even if controlled by the opponent, and even if they will return to the opponent’s side of the field later because of “Interdimensional Matter Transporter” or “Dimensionhole”.\n● If “Tyranno Infinity” is equipped with “Megamorph” and the number of removed from play Dinosaurs changes, first change the original ATK of “Tyranno Infinity”, and then double or halve that value to calculate its current ATK for “Megamorph”.",
+    "ReturnDAD": "● The ATK of “Tyranno Infinity” changes according to the current number of your Dinosaur removed from play.\n● Remember that monsters removed from play go to the “removed zone” of the owner, even if controlled by the opponent, and even if they will return to the opponent’s side of the field later because of “Interdimensional Matter Transporter” or “Dimensionhole”.\n● If “Tyranno Infinity” is equipped with “Megamorph” and the number of removed from play Dinosaurs changes, first change the original ATK of “Tyranno Infinity”, and then double or halve that value to calculate its current ATK for “Megamorph”.",
+    "Trooper": "● The ATK of “Tyranno Infinity” changes according to the current number of your Dinosaur removed from play.\n● Remember that monsters removed from play go to the “removed zone” of the owner, even if controlled by the opponent, and even if they will return to the opponent’s side of the field later because of “Interdimensional Matter Transporter” or “Dimensionhole”.\n● If “Tyranno Infinity” is equipped with “Megamorph” and the number of removed from play Dinosaurs changes, first change the original ATK of “Tyranno Infinity”, and then double or halve for “Megamorph”.",
+    "Circle": "● The ATK of “Tyranno Infinity” changes according to the current number of your Dinosaur removed from play.\n● Remember that monsters removed from play go to the “removed zone” of the owner, even if controlled by the opponent, and even if they will return to the opponent’s side of the field later because of “Interdimensional Matter Transporter” or “Dimensionhole”.\n● If “Tyranno Infinity” is equipped with “Megamorph” and the number of removed from play Dinosaurs changes, first change the original ATK of “Tyranno Infinity”, and then double or halve that value to calculate its current ATK for “Megamorph”.",
+    "Stein": "● The ATK of “Tyranno Infinity” changes according to the current number of your Dinosaur removed from play.\n● Remember that monsters removed from play go to the “removed zone” of the owner, even if controlled by the opponent, and even if they will return to the opponent’s side of the field later because of “Interdimensional Matter Transporter” or “Dimensionhole”.\n● If “Tyranno Infinity” is equipped with “Megamorph” and the number of removed from play Dinosaurs changes, first change the original ATK of “Tyranno Infinity”, and then double or halve for “Megamorph”.",
+    "Base": "1. The ATK of \"Tyranno Infinity\" changes according to the current number of your Dinosaur removed from play.\\n2. Remember that monsters removed from play go to the \"removed zone\" of the owner, even if controlled by the opponent, and even if they will return to the opponent's side of the field later because of \"Interdimensional Matter Transporter\" or \"Dimensionhole\".\\n3. If \"Tyranno Infinity\" is equipped with \"Megamorph\" and the number of removed from play Dinosaurs changes, first change the original ATK of \"Tyranno Infinity\", and then double or halve that value to calculate its current ATK for \"Megamorph\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 82705573,
+  "name": "Backfire",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "When a FIRE monster(s) on your side of the field is destroyed and sent to the GY, inflict 500 points of damage to your opponent's Life Points.\n●If a monster is FIRE because it is equipped with Scroll of Bewitchment, you cannot activate Backfire's effect when it is sent to the GY because it is no longer equipped when it arrives in the GY.\n●When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\n●If you control Backfire and your opponent's FIRE monster, you can activate Backfire's effect when your opponent's monster that you control is destroyed.",
+    "Goat": "●If a monster is FIRE because it is equipped with Scroll of Bewitchment, you cannot activate Backfire's effect when it is sent to the GY because it is no longer equipped when it arrives in the GY.\n●When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\n●If you control Backfire and your opponent's FIRE monster, you can activate Backfire's effect when your opponent's monster that you control is destroyed.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If a monster is FIRE because it is equipped with 'Scroll of Bewitchment', you can't activate 'Backfire''s effect when it is sent to the GY because it is no longer equipped when it arrives in the GY.\n● When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\n● If you control 'Backfire' and your opponent's FIRE monster, you can activate 'Backfire''s effect when your opponent's monster that you control is destroyed.",
+    "TeleDAD": "● If a monster is FIRE because it is equipped with 'Scroll of Bewitchment', you can't activate 'Backfire''s effect when it is sent to the GY because it is no longer equipped when it arrives in the GY.\n● When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\n● If you control 'Backfire' and your opponent's FIRE monster, you can activate 'Backfire''s effect when your opponent's monster that you control is destroyed.",
+    "Gladiator": "● If a monster is FIRE because it is equipped with 'Scroll of Bewitchment', you can't activate 'Backfire''s effect when it is sent to the GY because it is no longer equipped when it arrives in the GY.\n● When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\n● If you control 'Backfire' and your opponent's FIRE monster, you can activate 'Backfire''s effect when your opponent's monster that you control is destroyed.",
+    "ReturnDAD": "● If a monster is FIRE because it is equipped with 'Scroll of Bewitchment', you can't activate 'Backfire''s effect when it is sent to the GY because it is no longer equipped when it arrives in the GY.\n● When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\n● If you control 'Backfire' and your opponent's FIRE monster, you can activate 'Backfire''s effect when your opponent's monster that you control is destroyed.",
+    "Trooper": "● If a monster is FIRE because it is equipped with 'Scroll of Bewitchment', you can't activate 'Backfire''s effect when it is sent to the GY because it is no longer equipped when it arrives in the GY.\n● When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\n● If you control 'Backfire' and your opponent's FIRE monster, you can activate 'Backfire''s effect when your opponent's monster that you control is destroyed.",
+    "Circle": "● If a monster is FIRE because it is equipped with 'Scroll of Bewitchment', you can't activate 'Backfire''s effect when it is sent to the GY because it is no longer equipped when it arrives in the GY.\n● When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\n● If you control 'Backfire' and your opponent's FIRE monster, you can activate 'Backfire''s effect when your opponent's monster that you control is destroyed.",
+    "Stein": "● If a monster is FIRE because it is equipped with 'Scroll of Bewitchment', you can't activate 'Backfire''s effect when it is sent to the GY because it is no longer equipped when it arrives in the GY.\n● When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\n● If you control 'Backfire' and your opponent's FIRE monster, you can activate 'Backfire''s effect when your opponent's monster that you control is destroyed.",
+    "Base": "1. If a monster is FIRE because it is equipped with \"Scroll of Bewitchment\", you cannot activate the effect of \"Backfire\" when it is sent to the GY because it is no longer equipped when it arrives in the GY.\\n2. When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\\n3. If you control \"Backfire\" and your opponent's FIRE monster, you can activate the effect of \"Backfire\" when your opponent's monster that you control is destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

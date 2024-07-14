@@ -1,0 +1,40 @@
+{
+  "id": 54451023,
+  "name": "Plant Food Chain",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If the equipped monster is changed to another Type, this card will be destroyed.\n●This card’s effect targets the Plant-Type monster to be Special Summoned.\n●This card’s effect to Special Summon starts a Chain.\n●If “Plant Food Chain” and the monster it is equipped to are destroyed at the same time, you can activate the effect to Special Summon a monster.\n●If “Plant Food Chain” is equipped to a monster, and is destroyed by an effect that is Chain Link 2 or higher, you can activate “Plant Food Chain’s” effect after that Chain resolves.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If the equipped monster is changed to another Type, this card will be destroyed.\n● This card’s effect targets the Plant to be Special Summoned.\n● This card’s effect to Special Summon starts a Chain.\n● If “Plant Food Chain” and the monster it is equipped to are destroyed at the same time, you can activate the effect to Special Summon a monster.\n● If “Plant Food Chain” is equipped to a monster, and is destroyed by an effect that is Chain Link 2 or higher, you can activate “Plant Food Chain’s” effect after that Chain resolves.",
+    "TeleDAD": "● If the equipped monster is changed to another Type, this card will be destroyed.\n● This card’s effect targets the Plant to be Special Summoned.\n● This card’s effect to Special Summon starts a Chain.\n● If “Plant Food Chain” and the monster it is equipped to are destroyed at the same time, you can activate the effect to Special Summon a monster.\n● If “Plant Food Chain” is equipped to a monster, and is destroyed by an effect that is Chain Link 2 or higher, you can activate “Plant Food Chain’s” effect after that Chain resolves.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If the equipped monster is changed to another Type, this card will be destroyed.\\n2. This card's effect targets the Plant-Type monster to be Special Summoned.\\n3. This card's effect to Special Summon starts a Chain.\\n4. If \"Plant Food Chain\" and the monster it is equipped to are destroyed at the same time, you can activate the effect to Special Summon a monster.\\n5. If \"Plant Food Chain\" is equipped to a monster, and is destroyed by an effect that is Chain Link 2 or higher, you can activate the effect of \"Plant Food Chain\" after that Chain resolves."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

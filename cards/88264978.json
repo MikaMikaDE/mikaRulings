@@ -1,0 +1,44 @@
+{
+  "id": 88264978,
+  "name": "Red-Eyes Darkness Metal Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 2400,
+    "level": 10,
+    "race": "Dragon",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● You can Special Summon multiple copies of this card per turn (this is an erratum).\n● You can activate the effects of multiple copies of this card per turn (this is an erratum).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● You can Special Summon multiple copies of this card per turn (this is an erratum).\n● You can activate the effects of multiple copies of this card per turn (this is an erratum).",
+    "Vegas": "● You can Special Summon multiple copies of this card per turn (this is an erratum).\n● You can activate the effects of multiple copies of this card per turn (this is an erratum).",
+    "Meadowlands": "● You can Special Summon multiple copies of this card per turn (this is an erratum).\n● You can activate the effects of multiple copies of this card per turn (this is an erratum).",
+    "FireWater": "● You can Special Summon multiple copies of this card per turn (this is an erratum).\n● You can activate the effects of multiple copies of this card per turn (this is an erratum).",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "Ⓢ You can Special Summon this card (from your hand) by banishing 1 face-up Dragon you control. \n① Once per turn: \nYou can Special Summon 1 Dragon from your hand/GY (except \"Red-Eyes Darkness Metal Dragon”).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "Ⓢ You can Special Summon this card (from your hand) by banishing 1 face-up Dragon you control.\n① Once per turn:\nYou can Special Summon 1 Dragon from your hand/GY (except \"Red-Eyes Darkness Metal Dragon”).",
+    "Meadowlands": "Ⓢ You can Special Summon this card (from your hand) by banishing 1 face-up Dragon you control.\n① Once per turn:\nYou can Special Summon 1 Dragon from your hand/GY (except \"Red-Eyes Darkness Metal Dragon”).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

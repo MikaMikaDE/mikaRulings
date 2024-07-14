@@ -1,0 +1,44 @@
+{
+  "id": 79856792,
+  "name": "Rainbow Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 4000,
+    "def": 0,
+    "level": 10,
+    "race": "Dragon",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card's effect to increase its ATK can be activated during the Damage Step. The ATK increase is applied as long as Rainbow Dragon remains face-up on the field.\n●Sending the Crystal Beast monsters you control to the GY is a cost for Rainbow Dragon's first effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card's effect to increase its ATK can be activated during the Damage Step. The ATK increase is applied as long as 'Rainbow Dragon' remains applying.\n● Sending the 'Crystal Beast' monsters you control to the GY is a cost for 'Rainbow Dragon's' first effect.",
+    "TeleDAD": "● This card's effect to increase its ATK can be activated during the Damage Step. The ATK increase is applied as long as 'Rainbow Dragon' remains applying.\n● Sending the 'Crystal Beast' monsters you control to the GY is a cost for 'Rainbow Dragon's' first effect.",
+    "Gladiator": "● You can activate this card’s effect first bulleted effect during the Damage Step.\n● The ATK increase is applied as long as “Rainbow Dragon” remains applying.",
+    "ReturnDAD": "● You can activate this card’s effect first bulleted effect during the Damage Step.\n● The ATK increase is applied as long as “Rainbow Dragon” remains applying.",
+    "Trooper": "● You can activate this card’s effect first bulleted effect during the Damage Step.\n● The ATK increase is applied as long as “Rainbow Dragon” remains applying.",
+    "Circle": "● You can activate this card’s effect first bulleted effect during the Damage Step.\n● The ATK increase is applied as long as “Rainbow Dragon” remains applying.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can activate this card's effect first bulleted effect during the Damage Step.\\n2. The ATK increase is applied as long as \"Rainbow Dragon\" remains face-up on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

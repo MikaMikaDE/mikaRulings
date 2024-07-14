@@ -1,0 +1,40 @@
+{
+  "id": 63689843,
+  "name": "Attack and Receive",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "You can only activate this card when you take damage to your Life Points. Inflict 700 points of damage to your opponent's Life Points. Also, inflict 300 points of damage to your opponent's Life Points for each Attack and Receive card in your GY.\n●This card can be activated when the last thing to happen was inflicting Battle / Effect Damage.\n●This can activate in Substep 5 - After Damage Calculation, after adding Trigger Effects to the Chain.\n●This effect resolves simultaneously: Inflict 700 points of damage to your opponent's Life Points and Also, inflict 300 points of damage to your opponent's Life Points for each Attack and Receive card in your GY. are considered to happen at the same time.\n●You cannot activate this card when you pay Life Points as cost.\n●You cannot activate this card when you take effect damage as Chain Link 2(+), or as the first part of an effect that resolves sequentially (like Armored Axon Kicker).",
+    "Goat": "“Attack and Receive” may not be activated in response to payment of a Cost.\n●“Attack and Receive” may not be activated in response to an effect that has the player losing LP, as opposed to taking Damage.\n●“Attack and Receive” may not be activated in response to your own card effect, even if it inflicts damage to you. \n●“Attack and Receive” may be activated in the Damage Step.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Attack and Receive' can be activated when you receive Battle Damage or damage from an effect. You can't activate it when you pay a cost.",
+    "TeleDAD": "● 'Attack and Receive' can be activated when you receive Battle Damage or damage from an effect. You can't activate it when you pay a cost.",
+    "Gladiator": "● 'Attack and Receive' can be activated when you receive Battle Damage or damage from an effect. You can't activate it when you pay a cost.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Attack and Receive\" can be activated when you receive Battle Damage or damage from an effect. You cannot activate it when you pay a cost."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

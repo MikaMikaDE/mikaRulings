@@ -1,0 +1,44 @@
+{
+  "id": 34358408,
+  "name": "Djinn Presider of Rituals",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 1400,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If “Neo-Spacian Dark Panther” copies the name and effect of this card and is used for a Ritual Summon, you will not be able to draw when the Ritual Monster destroys a monster by battle.\n●The effect to draw when the Ritual Monster destroys a monster by battle is applied even if “Skill Drain” is active.\n●If the Ritual Monster Summoned using this card as one of the Tributes battles a monster with the same ATK, you cannot draw with this effect.\n●Even if you remove more than 1 copy of this card for the Ritual Summon of a Ritual Monster you will only draw 1 card each time that Ritual Monster destroys a monster by battle.\n●The effect to draw a card does not start a Chain. It occurs when the monster destroyed by battle is sent to the GY.\n●If the Ritual Monster that was Ritual Summoned using this card is flipped face-down, this card’s effect is no longer applied.\n●If you remove this card from play for the Ritual Summon of “Divine Grace – Northwemko” it counts towards the number of cards you can select for the effect of “Divine Grace – Northwemko.” ",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Neo-Spacian Dark Panther\" copies the name and effect of this card and is used for a Ritual Summon, you will not be able to draw when the Ritual Monster destroys a monster by battle.\\n2. The effect to draw when the Ritual Monster destroys a monster by battle is applied even if \"Skill Drain\" is active.\\n3. If the Ritual Monster Summoned using this card as one of the Tributes battles a monster with the same ATK, you cannot draw with this effect.\\n4. Even if you remove more than 1 copy of this card for the Ritual Summon of a Ritual Monster you will only draw 1 card each time that Ritual Monster destroys a monster by battle.\\n5. The effect to draw a card does not start a Chain. It occurs when the monster destroyed by battle is sent to the GY.\\n6. If the Ritual Monster that was Ritual Summoned using this card is flipped face-down, this card's effect is no longer applied.\\n7. If you remove this card from play for the Ritual Summon of \"Divine Grace - Northwemko\" it counts towards the number of cards you can select for the effect of \"Divine Grace - Northwemko\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

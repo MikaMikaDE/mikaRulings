@@ -1,0 +1,40 @@
+{
+  "id": 30606547,
+  "name": "The Dark Door",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●A single monster may still attack more than once while this card is on the field, such as Hayabusa Knight, Asura Priest, Black Luster Soldier – Envoy of the Beginning, a monster equipped with Twin Swords of Flashing Light – Tryce or a Spellcaster-Type Monster affected by Diffusion Wave-Motion.\n●If the effect of Weather Report is used to gain an additional Battle Phase, one monster may attack once each Battle Phase.",
+    "Goat": "●A single monster may still attack more than once while this card is on the field, such as Hayabusa Knight, Asura Priest, Black Luster Soldier – Envoy of the Beginning, a monster equipped with Twin Swords of Flashing Light – Tryce or a Spellcaster affected by Diffusion Wave-Motion.\n●If the effect of Weather Report is used to gain an additional Battle Phase, one monster may attack once each Battle Phase.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● A single monster may still attack more than once while this card is on the field, such as 'Hayabusa Knight', 'Asura Priest', 'Black Luster Soldier – Envoy of the Beginning', a monster equipped with 'Twin Swords of Flashing Light – Tryce' or a Spellcaster-Type Monster affected by 'Diffusion Wave-Motion'.\n● If the effect of 'Weather Report' is used to gain an additional Battle Phase, one monster may attack once each Battle Phase.",
+    "TeleDAD": "● A single monster may still attack more than once while this card is on the field, such as 'Hayabusa Knight', 'Asura Priest', 'Black Luster Soldier – Envoy of the Beginning', a monster equipped with 'Twin Swords of Flashing Light – Tryce' or a Spellcaster-Type Monster affected by 'Diffusion Wave-Motion'.\n● If the effect of 'Weather Report' is used to gain an additional Battle Phase, one monster may attack once each Battle Phase.",
+    "Gladiator": "● A single monster may still attack more than once while this card is on the field, such as 'Hayabusa Knight', 'Asura Priest', 'Black Luster Soldier – Envoy of the Beginning', a monster equipped with 'Twin Swords of Flashing Light – Tryce' or a Spellcaster-Type Monster affected by 'Diffusion Wave-Motion'.\n● If the effect of 'Weather Report' is used to gain an additional Battle Phase, one monster may attack once each Battle Phase.",
+    "ReturnDAD": "● A single monster may still attack more than once while this card is on the field, such as 'Hayabusa Knight', 'Asura Priest', 'Black Luster Soldier – Envoy of the Beginning', a monster equipped with 'Twin Swords of Flashing Light – Tryce' or a Spellcaster-Type Monster affected by 'Diffusion Wave-Motion'.\n● If the effect of 'Weather Report' is used to gain an additional Battle Phase, one monster may attack once each Battle Phase.",
+    "Trooper": "● A single monster may still attack more than once while this card is on the field, such as 'Hayabusa Knight', 'Asura Priest', 'Black Luster Soldier – Envoy of the Beginning', a monster equipped with 'Twin Swords of Flashing Light – Tryce' or a Spellcaster-Type Monster affected by 'Diffusion Wave-Motion'.\n● If the effect of 'Weather Report' is used to gain an additional Battle Phase, one monster may attack once each Battle Phase.",
+    "Circle": "● A single monster may still attack more than once while this card is on the field, such as 'Hayabusa Knight', 'Asura Priest', 'Black Luster Soldier – Envoy of the Beginning', a monster equipped with 'Twin Swords of Flashing Light – Tryce' or a Spellcaster-Type Monster affected by 'Diffusion Wave-Motion'.\n● If the effect of 'Weather Report' is used to gain an additional Battle Phase, one monster may attack once each Battle Phase.",
+    "Stein": "● A single monster may still attack more than once while this card is on the field, such as 'Hayabusa Knight', 'Asura Priest', 'Black Luster Soldier – Envoy of the Beginning', a monster equipped with 'Twin Swords of Flashing Light – Tryce' or a Spellcaster-Type Monster affected by 'Diffusion Wave-Motion'.\n● If the effect of 'Weather Report' is used to gain an additional Battle Phase, one monster may attack once each Battle Phase.",
+    "Base": "1. A single monster may still attack more than once while this card is on the field, such as \"Hayabusa Knight\", \"Asura Priest\", \"Black Luster Soldier - Envoy of the Beginning\", a monster equipped with \"Twin Swords of Flashing Light - Tryce\" or a Spellcaster-Type Monster affected by \"Diffusion Wave-Motion\".\\n2. If the effect of \"Weather Report\" is used to gain an additional Battle Phase, one monster may attack once each Battle Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

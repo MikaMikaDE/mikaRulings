@@ -1,0 +1,44 @@
+{
+  "id": 19733961,
+  "name": "Batteryman C",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 2,
+    "race": "Thunder",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you have 2 “Batterymen C” on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 “Battermen C” on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\n●A “Batteryman C” equipped to “Relinquished” is not in Attack or Defense Position so it will not be counted for the effect of “Batteryman C”.\n●If “Batteryman C” is changed to Machine-Type, it will itself gain the ATK bonus.",
+    "Goat": "●If you have 2 “Batterymen C” on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 “Battermen C” on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\nA “Batteryman C” equipped to “Relinquished” is not in Attack or Defense Position so it will not be counted for the effect of “Batteryman C”.\n●If “Batteryman C” is changed to Machine, it will itself gain the ATK bonus.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have 2 “Batterymen C” on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 “Battermen C” on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\n● A “Batteryman C” equipped to “Relinquished” isn't in Attack or Defense Position so it will not be counted for the effect of “Batteryman C”.\n● If “Batteryman C” is changed to Machine-Type, it will itself gain the ATK bonus.",
+    "TeleDAD": "● If you have 2 “Batterymen C” on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 “Battermen C” on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\n● A “Batteryman C” equipped to “Relinquished” isn't in Attack or Defense Position so it will not be counted for the effect of “Batteryman C”.\n● If “Batteryman C” is changed to Machine-Type, it will itself gain the ATK bonus.",
+    "Gladiator": "● If you have 2 “Batterymen C” on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 “Battermen C” on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\n● A “Batteryman C” equipped to “Relinquished” isn't in Attack or Defense Position so it will not be counted for the effect of “Batteryman C”.\n● If “Batteryman C” is changed to Machine-Type, it will itself gain the ATK bonus.",
+    "ReturnDAD": "● If you have 2 “Batterymen C” on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 “Battermen C” on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\n● A “Batteryman C” equipped to “Relinquished” isn't in Attack or Defense Position so it will not be counted for the effect of “Batteryman C”.\n● If “Batteryman C” is changed to Machine-Type, it will itself gain the ATK bonus.",
+    "Trooper": "● If you have 2 “Batterymen C” on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 “Battermen C” on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\n● A “Batteryman C” equipped to “Relinquished” isn't in Attack or Defense Position so it will not be counted for the effect of “Batteryman C”.\n● If “Batteryman C” is changed to Machine-Type, it will itself gain the ATK bonus.",
+    "Circle": "● If you have 2 “Batterymen C” on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 “Battermen C” on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\n● A “Batteryman C” equipped to “Relinquished” isn't in Attack or Defense Position so it will not be counted for the effect of “Batteryman C”.\n● If “Batteryman C” is changed to Machine-Type, it will itself gain the ATK bonus.",
+    "Stein": "● If you have 2 “Batterymen C” on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 “Battermen C” on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\n● A “Batteryman C” equipped to “Relinquished” isn't in Attack or Defense Position so it will not be counted for the effect of “Batteryman C”.\n● If “Batteryman C” is changed to Machine-Type, it will itself gain the ATK bonus.",
+    "Base": "1. If you have 2 \"Batterymen C\" on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 \"Battermen C\" on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\\n2. A \"Batteryman C\" equipped to \"Relinquished\" is not in Attack or Defense Position so it will not be counted for the effect of \"Batteryman C\".\\n3. If \"Batteryman C\" is changed to Machine-Type, it will itself gain the ATK bonus."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 63323539,
+  "name": "Trojan Blast",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can activate “Trojan Blast” when a face-down monster shifts, such as with “Creature Swap”. But no damage will be inflicted because it was face-down.\n●You cannot activate “Trojan Blast” when a monster shifts control to become an Equip Card. So you cannot activate “Trojan Blast” when “Relinquished” or “Allure Queen” equips itself with your monster.\n●“Trojan Blast” is not a targeting effect. Select the monster when “Trojan Blast” resolves.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can activate “Trojan Blast” when a face-down monster shifts, such as with “Creature Swap”. But no damage will be inflicted because it was face-down.\n● You can't activate “Trojan Blast” when a monster shifts control to become an Equip Card. So you can't activate “Trojan Blast” when “Relinquished” or “Allure Queen” equips itself with your monster.\n● “Trojan Blast” isn't a targeting effect. Select the monster when “Trojan Blast” resolves.",
+    "TeleDAD": "● You can activate “Trojan Blast” when a face-down monster shifts, such as with “Creature Swap”. But no damage will be inflicted because it was face-down.\n● You can't activate “Trojan Blast” when a monster shifts control to become an Equip Card. So you can't activate “Trojan Blast” when “Relinquished” or “Allure Queen” equips itself with your monster.\n● “Trojan Blast” isn't a targeting effect. Select the monster when “Trojan Blast” resolves.",
+    "Gladiator": "● You can activate “Trojan Blast” when a face-down monster shifts, such as with “Creature Swap”. But no damage will be inflicted because it was face-down.\n● You can't activate “Trojan Blast” when a monster shifts control to become an Equip Card. So you can't activate “Trojan Blast” when “Relinquished” or “Allure Queen” equips itself with your monster.\n● “Trojan Blast” isn't a targeting effect. Select the monster when “Trojan Blast” resolves.",
+    "ReturnDAD": "● You can activate “Trojan Blast” when a face-down monster shifts, such as with “Creature Swap”. But no damage will be inflicted because it was face-down.\n● You can't activate “Trojan Blast” when a monster shifts control to become an Equip Card. So you can't activate “Trojan Blast” when “Relinquished” or “Allure Queen” equips itself with your monster.\n● “Trojan Blast” isn't a targeting effect. Select the monster when “Trojan Blast” resolves.",
+    "Trooper": "● You can activate “Trojan Blast” when a face-down monster shifts, such as with “Creature Swap”. But no damage will be inflicted because it was face-down.\n● You can't activate “Trojan Blast” when a monster shifts control to become an Equip Card. So you can't activate “Trojan Blast” when “Relinquished” or “Allure Queen” equips itself with your monster.\n● “Trojan Blast” isn't a targeting effect. Select the monster when “Trojan Blast” resolves.",
+    "Circle": "● You can activate “Trojan Blast” when a face-down monster shifts, such as with “Creature Swap”. But no damage will be inflicted because it was face-down.\n● You can't activate “Trojan Blast” when a monster shifts control to become an Equip Card. So you can't activate “Trojan Blast” when “Relinquished” or “Allure Queen” equips itself with your monster.\n● “Trojan Blast” isn't a targeting effect. Select the monster when “Trojan Blast” resolves.",
+    "Stein": "● You can activate “Trojan Blast” when a face-down monster shifts, such as with “Creature Swap”. But no damage will be inflicted because it was face-down.\n● You can't activate “Trojan Blast” when a monster shifts control to become an Equip Card. So you can't activate “Trojan Blast” when “Relinquished” or “Allure Queen” equips itself with your monster.\n● “Trojan Blast” isn't a targeting effect. Select the monster when “Trojan Blast” resolves.",
+    "Base": "1. You can activate \"Trojan Blast\" when a face-down monster shifts, such as with \"Creature Swap\". But no damage will be inflicted because it was face-down.\\n2. You cannot activate \"Trojan Blast\" when a monster shifts control to become an Equip Card. So you cannot activate \"Trojan Blast\" when \"Relinquished\" or \"Allure Queen\" equips itself with your monster.\\n3. \"Trojan Blast\" is not a targeting effect. Select the monster when \"Trojan Blast\" resolves."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

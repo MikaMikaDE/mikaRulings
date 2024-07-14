@@ -1,0 +1,40 @@
+{
+  "id": 25573054,
+  "name": "Transcendent Wings",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can send a face-down “Winged Kuriboh” to the GY to activate the effect of “Transcendent Wings”.\n●You can activate “Transcendent Wings” even if there is no “Winged Kuriboh LV10” in your hand or Deck, but you must show your Deck to the opponent if they want to confirm.",
+    "Goat": "●You can send a face-down “Winged Kuriboh” to the GY to activate the effect of “Transcendent Wings”.\n●You can activate “Transcendent Wings” even if there is no “Winged Kuriboh LV10” in your hand or Deck, but you must show your Deck to the opponent if they want to confirm.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can send a face-down “Winged Kuriboh” to the GY to activate the effect of “Transcendent Wings”.\n● You can activate “Transcendent Wings” even if there is no “Winged Kuriboh LV10” in your hand or Deck, but you must show your Deck to the opponent if they want to confirm.",
+    "TeleDAD": "● You can send a face-down “Winged Kuriboh” to the GY to activate the effect of “Transcendent Wings”.\n● You can activate “Transcendent Wings” even if there is no “Winged Kuriboh LV10” in your hand or Deck, but you must show your Deck to the opponent if they want to confirm.",
+    "Gladiator": "● You can send a face-down “Winged Kuriboh” to the GY to activate the effect of “Transcendent Wings”.\n● You can activate “Transcendent Wings” even if there is no “Winged Kuriboh LV10” in your hand or Deck, but you must show your Deck to the opponent if they want to confirm.",
+    "ReturnDAD": "● You can send a face-down “Winged Kuriboh” to the GY to activate the effect of “Transcendent Wings”.\n● You can activate “Transcendent Wings” even if there is no “Winged Kuriboh LV10” in your hand or Deck, but you must show your Deck to the opponent if they want to confirm.",
+    "Trooper": "● You can send a face-down “Winged Kuriboh” to the GY to activate the effect of “Transcendent Wings”.\n● You can activate “Transcendent Wings” even if there is no “Winged Kuriboh LV10” in your hand or Deck, but you must show your Deck to the opponent if they want to confirm.",
+    "Circle": "● You can send a face-down “Winged Kuriboh” to the GY to activate the effect of “Transcendent Wings”.\n● You can activate “Transcendent Wings” even if there is no “Winged Kuriboh LV10” in your hand or Deck, but you must show your Deck to the opponent if they want to confirm.",
+    "Stein": "● You can send a face-down “Winged Kuriboh” to the GY to activate the effect of “Transcendent Wings”.\n● You can activate “Transcendent Wings” even if there is no “Winged Kuriboh LV10” in your hand or Deck, but you must show your Deck to the opponent if they want to confirm.",
+    "Base": "1. You can send a face-down \"Winged Kuriboh\" to the GY to activate the effect of \"Transcendent Wings\".\\n2. You can activate \"Transcendent Wings\" even if there is no \"Winged Kuriboh LV10\" in your hand or Deck, but you must show your Deck to the opponent if they want to confirm."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

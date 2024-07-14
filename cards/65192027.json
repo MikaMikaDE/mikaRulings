@@ -1,0 +1,44 @@
+{
+  "id": 65192027,
+  "name": "Dark Armed Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 1000,
+    "level": 7,
+    "race": "Dragon",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "●The only way you can Special Summon this card is via its own procedure.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Dark Armed Dragon' can still be Special Summoned while there are non-DARK monsters in your GY.\n● 'Dark Armed Dragon's' effect that destroys 1 card is an Ignition Effect. Removing 1 DARK monster from play is a cost.\n● 'Dark Armed Dragon' can't be Special Summoned from the GY, even if it was properly Summoned beforehand.",
+    "TeleDAD": "● 'Dark Armed Dragon' can still be Special Summoned while there are non-DARK monsters in your GY.\n● 'Dark Armed Dragon's' effect that destroys 1 card is an Ignition Effect. Removing 1 DARK monster from play is a cost.\n● 'Dark Armed Dragon' can't be Special Summoned from the GY, even if it was properly Summoned beforehand.",
+    "Gladiator": "● 'Dark Armed Dragon' can still be Special Summoned while there are non-DARK monsters in your GY.\n● 'Dark Armed Dragon's' effect that destroys 1 card is an Ignition Effect. Removing 1 DARK monster from play is a cost.\n● 'Dark Armed Dragon' can't be Special Summoned from the GY, even if it was properly Summoned beforehand.",
+    "ReturnDAD": "● 'Dark Armed Dragon' can still be Special Summoned while there are non-DARK monsters in your GY.\n● 'Dark Armed Dragon's' effect that destroys 1 card is an Ignition Effect. Removing 1 DARK monster from play is a cost.\n● 'Dark Armed Dragon' can't be Special Summoned from the GY, even if it was properly Summoned beforehand.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Dark Armed Dragon\" can still be Special Summoned while there are non-DARK monsters in your GY.\\n2. The effect of \"Dark Armed Dragon\" that destroys 1 card is an Ignition Effect. Removing 1 DARK monster from play is a cost.\\n3. \"Dark Armed Dragon\" cannot be Special Summoned from the GY, even if it was properly Summoned beforehand."
+  },
+  "PSCT": {
+    "Tengu": "Ⓢ Cannot be Normal Summoned/Set.\nⓈ Must be Special Summoned (from your hand) by having 3 DARKs in your GY.\n① You can banish 1 DARK from your GY, then target 1 card on the field;\ndestroy it.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

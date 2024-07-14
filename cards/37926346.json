@@ -1,0 +1,44 @@
+{
+  "id": 37926346,
+  "name": "Steelswarm Roach",
+  "Stats": {
+    "type": "XYZ Monster",
+    "frameType": "xyz",
+    "atk": 1900,
+    "def": 0,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● This can negate a Synchro Summon, Xyz Summon, or the Special Summon of Cyber Dragon by its own procedure.\n● This can't negate a monster being Summoned by a card effect, such as by “Call of the Haunted”.\n● This can't negate the Summon of a monster being Summoned by a lingering effect, like “W Nebula Meteorite\".",
+    "Vegas": "● This can negate a Synchro Summon, Xyz Summon, or the Special Summon of Cyber Dragon by its own procedure.\n● This can't negate a monster being Summoned by a card effect, such as by “Call of the Haunted”.\n● This can't negate the Summon of a monster being Summoned by a lingering effect, like “W Nebula Meteorite\".",
+    "Meadowlands": "● This can negate a Synchro Summon, Xyz Summon, or the Special Summon of Cyber Dragon by its own procedure.\n● This can't negate a monster being Summoned by a card effect, such as by “Call of the Haunted”.\n● This can't negate the Summon of a monster being Summoned by a lingering effect, like “W Nebula Meteorite\".",
+    "FireWater": "● This can negate a Synchro Summon, Xyz Summon, or the Special Summon of Cyber Dragon by its own procedure.\n● This can't negate a monster being Summoned by a card effect, such as by “Call of the Haunted”.\n● This can't negate the Summon of a monster being Summoned by a lingering effect, like “W Nebula Meteorite\".",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "2 Level 4 monsters\n① If a Level 5 or higher monster would be Special Summoned (Quick): You can detach 1 Material from this card; \nnegate the Special Summon, and if you do, destroy it.",
+    "Meadowlands": "2 Level 4 monsters\n① If a Level 5 or higher monster would be Special Summoned (Quick): You can detach 1 Material from this card; \nnegate the Special Summon, and if you do, destroy it.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

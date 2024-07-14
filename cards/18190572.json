@@ -1,0 +1,40 @@
+{
+  "id": 18190572,
+  "name": "Micro Ray",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You select the monster when you activate Micro Ray.\n●If you apply Micro Ray's effect and then a new card increases the DEF, add the new DEF to the zero.\n●You can activate Micro Ray during the Damage Step.",
+    "Goat": "●You select the monster when you activate Micro Ray.\n●If you apply Micro Ray's effect and then a new card increases the DEF, add the new DEF to the zero.\n●You can activate Micro Ray during the Damage Step.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You select the monster when you activate 'Micro Ray'.\n● If you apply 'Micro Ray''s effect and then a new card increases the DEF, add the new DEF to the zero.\n● You can activate 'Micro Ray' during the Damage Step.",
+    "TeleDAD": "● You select the monster when you activate 'Micro Ray'.\n● If you apply 'Micro Ray''s effect and then a new card increases the DEF, add the new DEF to the zero.\n● You can activate 'Micro Ray' during the Damage Step.",
+    "Gladiator": "● You select the monster when you activate 'Micro Ray'.\n● If you apply 'Micro Ray''s effect and then a new card increases the DEF, add the new DEF to the zero.\n● You can activate 'Micro Ray' during the Damage Step.",
+    "ReturnDAD": "● You select the monster when you activate 'Micro Ray'.\n● If you apply 'Micro Ray''s effect and then a new card increases the DEF, add the new DEF to the zero.\n● You can activate 'Micro Ray' during the Damage Step.",
+    "Trooper": "● You select the monster when you activate 'Micro Ray'.\n● If you apply 'Micro Ray''s effect and then a new card increases the DEF, add the new DEF to the zero.\n● You can activate 'Micro Ray' during the Damage Step.",
+    "Circle": "● You select the monster when you activate 'Micro Ray'.\n● If you apply 'Micro Ray''s effect and then a new card increases the DEF, add the new DEF to the zero.\n● You can activate 'Micro Ray' during the Damage Step.",
+    "Stein": "● You select the monster when you activate 'Micro Ray'.\n● If you apply 'Micro Ray''s effect and then a new card increases the DEF, add the new DEF to the zero.\n● You can activate 'Micro Ray' during the Damage Step.",
+    "Base": "1. You select the monster when you activate \"Micro Ray\".\\n2. If you apply the effect of \"Micro Ray\" and then a new card increases the DEF, add the new DEF to the zero.\\n3. You can activate \"Micro Ray\" during the Damage Step."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

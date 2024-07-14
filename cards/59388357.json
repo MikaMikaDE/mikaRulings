@@ -1,0 +1,40 @@
+{
+  "id": 59388357,
+  "name": "Circle of the Fire Kings",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● The destruction and Special Summon is simultaneous. \n● If no monster is destroyed, the target is not Summoned.",
+    "Vegas": "● The destruction and Special Summon is simultaneous. \n● If no monster is destroyed, the target is not Summoned.",
+    "Meadowlands": "● The destruction and Special Summon is simultaneous. \n● If no monster is destroyed, the target is not Summoned.",
+    "FireWater": "● The destruction and Special Summon is simultaneous. \n● If no monster is destroyed, the target is not Summoned.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Target 1 FIRE you control and 1 FIRE in your GY; \nDestroy the first target, and if you do, Special Summon the second. \n(You can only activate 1 \"Circle of the Fire Kings\" per turn).",
+    "Meadowlands": "① Target 1 FIRE you control and 1 FIRE in your GY; \nDestroy the first target, and if you do, Special Summon the second. \n(You can only activate 1 \"Circle of the Fire Kings\" per turn).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

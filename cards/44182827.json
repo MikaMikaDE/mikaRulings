@@ -1,0 +1,40 @@
+{
+  "id": 44182827,
+  "name": "Samsara",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Samsara” does not start a chain. The Tributed monsters will be shuffled into the Deck immediately, instead of being sent to the GY. Then the Ritual Monster is Special Summoned.\n●If “Samsara” and “Banisher of the Light” are both on the field the monsters Tributed for a Ritual Summon will be shuffled back into the Deck.\n●If “Dark Magician of Chaos” is used as a Tribute for a Ritual Summon while “Samsara” is on the field it will be shuffled back into the Deck.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Samsara” does not start a chain. The Tributed monsters will be shuffled into the Deck immediately, instead of being sent to the GY. Then the Ritual Monster is Special Summoned.\n● If “Samsara” and “Banisher of the Light” are both on the field the monsters Tributed for a Ritual Summon will be shuffled back into the Deck.\n● If “Dark Magician of Chaos” is used as a Tribute for a Ritual Summon while “Samsara” is on the field it will be shuffled back into the Deck.",
+    "TeleDAD": "● The effect of “Samsara” does not start a chain. The Tributed monsters will be shuffled into the Deck immediately, instead of being sent to the GY. Then the Ritual Monster is Special Summoned.\n● If “Samsara” and “Banisher of the Light” are both on the field the monsters Tributed for a Ritual Summon will be shuffled back into the Deck.\n● If “Dark Magician of Chaos” is used as a Tribute for a Ritual Summon while “Samsara” is on the field it will be shuffled back into the Deck.",
+    "Gladiator": "● The effect of “Samsara” does not start a chain. The Tributed monsters will be shuffled into the Deck immediately, instead of being sent to the GY. Then the Ritual Monster is Special Summoned.\n● If “Samsara” and “Banisher of the Light” are both on the field the monsters Tributed for a Ritual Summon will be shuffled back into the Deck.\n● If “Dark Magician of Chaos” is used as a Tribute for a Ritual Summon while “Samsara” is on the field it will be shuffled back into the Deck.",
+    "ReturnDAD": "● The effect of “Samsara” does not start a chain. The Tributed monsters will be shuffled into the Deck immediately, instead of being sent to the GY. Then the Ritual Monster is Special Summoned.\n● If “Samsara” and “Banisher of the Light” are both on the field the monsters Tributed for a Ritual Summon will be shuffled back into the Deck.\n● If “Dark Magician of Chaos” is used as a Tribute for a Ritual Summon while “Samsara” is on the field it will be shuffled back into the Deck.",
+    "Trooper": "● The effect of “Samsara” does not start a chain. The Tributed monsters will be shuffled into the Deck immediately, instead of being sent to the GY. Then the Ritual Monster is Special Summoned.\n● If “Samsara” and “Banisher of the Light” are both on the field the monsters Tributed for a Ritual Summon will be shuffled back into the Deck.\n● If “Dark Magician of Chaos” is used as a Tribute for a Ritual Summon while “Samsara” is on the field it will be shuffled back into the Deck.",
+    "Circle": "● The effect of “Samsara” does not start a chain. The Tributed monsters will be shuffled into the Deck immediately, instead of being sent to the GY. Then the Ritual Monster is Special Summoned.\n● If “Samsara” and “Banisher of the Light” are both on the field the monsters Tributed for a Ritual Summon will be shuffled back into the Deck.\n● If “Dark Magician of Chaos” is used as a Tribute for a Ritual Summon while “Samsara” is on the field it will be shuffled back into the Deck.",
+    "Stein": "● The effect of “Samsara” does not start a chain. The Tributed monsters will be shuffled into the Deck immediately, instead of being sent to the GY. Then the Ritual Monster is Special Summoned.\n● If “Samsara” and “Banisher of the Light” are both on the field the monsters Tributed for a Ritual Summon will be shuffled back into the Deck.\n● If “Dark Magician of Chaos” is used as a Tribute for a Ritual Summon while “Samsara” is on the field it will be shuffled back into the Deck.",
+    "Base": "1. The effect of \"Samsara\" does not start a chain. The Tributed monsters will be shuffled into the Deck immediately, instead of being sent to the GY. Then the Ritual Monster is Special Summoned.\\n2. If \"Samsara\" and \"Banisher of the Light\" are both on the field the monsters Tributed for a Ritual Summon will be shuffled back into the Deck.\\n3. If \"Dark Magician of Chaos\" is used as a Tribute for a Ritual Summon while \"Samsara\" is on the field it will be shuffled back into the Deck."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 37742478,
+  "name": "Honest",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1100,
+    "def": 1900,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● This effect can be activated at any point in the Damage Step, even \"During Damage Calculation\".\n● If you say \"Damage Step?\", and activate this effect, you have activated it at the Start of the Damage Step, not During Damage Calculation.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● This effect stops applying during the End Phase (and not for the entire turn) (this is an erratum).\n● This effect can be activated at any point in the Damage Step, even \"During Damage Calculation\".\n● If you say \"Damage Step?\", and activate this effect, you have activated it at the Start of the Damage Step, not During Damage Calculation.",
+    "Vegas": "● This effect stops applying during the End Phase (and not for the entire turn) (this is an erratum).\n● This effect can be activated at any point in the Damage Step, even \"During Damage Calculation\".\n● If you say \"Damage Step?\", and activate this effect, you have activated it at the Start of the Damage Step, not During Damage Calculation.",
+    "Meadowlands": "● This effect stops applying during the End Phase (and not for the entire turn) (this is an erratum).\n● This effect can be activated at any point in the Damage Step, even \"During Damage Calculation\".\n● If you say \"Damage Step?\", and activate this effect, you have activated it at the Start of the Damage Step, not During Damage Calculation.",
+    "FireWater": "● This effect stops applying during the End Phase (and not for the entire turn) (this is an erratum).\n● This effect can be activated at any point in the Damage Step, even \"During Damage Calculation\".\n● If you say \"Damage Step?\", and activate this effect, you have activated it at the Start of the Damage Step, not During Damage Calculation.",
+    "Cat": "● 'Honest's' effect is a Quick Effect.\n● 'Honest's' effect does not target the LIGHT monster.\n● Sending 'Honest' to the GY is a cost to activate its effect.\n● The ATK increase is equal to the ATK of the opponent's monster when 'Honest's' effect resolves.\n● The ATK increases from the effects of multiple 'Honest' are cumulative.\n● If you use 'Honest's' effect to increase the attack of 'Asura Priest' or 'Cyber-Twin Dragon', the ATK increase does not change when you battle a different monster.",
+    "TeleDAD": "● 'Honest's' effect is a Quick Effect.\n● 'Honest's' effect does not target the LIGHT monster.\n● Sending 'Honest' to the GY is a cost to activate its effect.\n● The ATK increase is equal to the ATK of the opponent's monster when 'Honest's' effect resolves.\n● The ATK increases from the effects of multiple 'Honest' are cumulative.\n● If you use 'Honest's' effect to increase the attack of 'Asura Priest' or 'Cyber-Twin Dragon', the ATK increase does not change when you battle a different monster.",
+    "Gladiator": "● 'Honest's' effect is a Multi-Trigger effect.\n● 'Honest's' effect does not target the LIGHT monster.\n● Sending 'Honest' to the GY is a cost to activate its effect.\n● The ATK increase is equal to the ATK of the opponent's monster when 'Honest's' effect resolves.\n● The ATK increases from the effects of multiple 'Honest' are cumulative.\n● If you use 'Honest's' effect to increase the attack of 'Asura Priest' or 'Cyber-Twin Dragon', the ATK increase does not change when you battle a different monster.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Honest\" is a Quick Effect.\\n2. The effect of \"Honest\" does not target the LIGHT monster.\\n3. Sending \"Honest\" to the GY is a cost to activate its effect.\\n4. The ATK increase is equal to the ATK of the opponent's monster when the effect of \"Honest\" resolves.\\n5. The ATK increases from the effects of multiple \"Honest\" are cumulative.\\n6. If you use the effect of \"Honest\" to increase the attack of \"Asura Priest\" or \"Cyber-Twin Dragon\", the ATK increase does not change when you battle a different monster."
+  },
+  "PSCT": {
+    "Tengu": "① During your Main Phase: You can return this card you control to the hand. \n② During the Damage Step, when a LIGHT monster you control battles (Quick): \nYou can send this card from your hand to the GY; \nthat monster gains ATK equal to the ATK of the opponent's monster it is battling, until the End Phase.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① During your Main Phase: You can return this card you control to the hand.\n② During the Damage Step, when a LIGHT monster you control battles (Quick):\nYou can send this card from your hand to the GY;\nthat monster gains ATK equal to the ATK of the opponent's monster it is battling, until the End Phase.",
+    "Meadowlands": "① During your Main Phase: You can return this card you control to the hand.\n② During the Damage Step, when a LIGHT monster you control battles (Quick):\nYou can send this card from your hand to the GY;\nthat monster gains ATK equal to the ATK of the opponent's monster it is battling, until the End Phase.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

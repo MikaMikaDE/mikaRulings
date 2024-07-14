@@ -1,0 +1,40 @@
+{
+  "id": 33950246,
+  "name": "Royal Command",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card can be chained to the activation of a Flip Effect from a Flip Summon to negate the Flip Effect. It cannot be activated during the Damage Step, so if a Flip Effect Monster is flipped face-up when attacked you cannot chain Royal Command to negate its Flip Effect.\n●If Royal Command is active on the field both players may still Flip Summon monsters, but any Flip Effects are negated.",
+    "Goat": "●This card can be chained to the activation of a Flip Effect from a Flip Summon to negate the Flip Effect. It cannot be activated during the Damage Step, so if a Flip Effect Monster is flipped face-up when attacked you cannot chain Royal Command to negate its Flip Effect.\n●If Royal Command is applying on the field both players may still Flip Summon monsters, but any Flip Effects are negated.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card can be chained to the activation of a Flip Effect from a Flip Summon to negate the Flip Effect. It can't be activated during the Damage Step, so if a Flip Effect Monster is flipped face-up when attacked you can't chain 'Royal Command' to negate its Flip Effect.\n● If 'Royal Command' is applying both players may still Flip Summon monsters, but any Flip Effects are negated.",
+    "TeleDAD": "● This card can be chained to the activation of a Flip Effect from a Flip Summon to negate the Flip Effect. It can't be activated during the Damage Step, so if a Flip Effect Monster is flipped face-up when attacked you can't chain 'Royal Command' to negate its Flip Effect.\n● If 'Royal Command' is applying both players may still Flip Summon monsters, but any Flip Effects are negated.",
+    "Gladiator": "● This card can be chained to the activation of a Flip Effect from a Flip Summon to negate the Flip Effect. It can't be activated during the Damage Step, so if a Flip Effect Monster is flipped face-up when attacked you can't chain 'Royal Command' to negate its Flip Effect.\n● If 'Royal Command' is applying both players may still Flip Summon monsters, but any Flip Effects are negated.",
+    "ReturnDAD": "● This card can be chained to the activation of a Flip Effect from a Flip Summon to negate the Flip Effect. It can't be activated during the Damage Step, so if a Flip Effect Monster is flipped face-up when attacked you can't chain 'Royal Command' to negate its Flip Effect.\n● If 'Royal Command' is applying both players may still Flip Summon monsters, but any Flip Effects are negated.",
+    "Trooper": "● This card can be chained to the activation of a Flip Effect from a Flip Summon to negate the Flip Effect. It can't be activated during the Damage Step, so if a Flip Effect Monster is flipped face-up when attacked you can't chain 'Royal Command' to negate its Flip Effect.\n● If 'Royal Command' is applying both players may still Flip Summon monsters, but any Flip Effects are negated.",
+    "Circle": "● This card can be chained to the activation of a Flip Effect from a Flip Summon to negate the Flip Effect. It can't be activated during the Damage Step, so if a Flip Effect Monster is flipped face-up when attacked you can't chain 'Royal Command' to negate its Flip Effect.\n● If 'Royal Command' is applying both players may still Flip Summon monsters, but any Flip Effects are negated.",
+    "Stein": "● This card can be chained to the activation of a Flip Effect from a Flip Summon to negate the Flip Effect. It can't be activated during the Damage Step, so if a Flip Effect Monster is flipped face-up when attacked you can't chain 'Royal Command' to negate its Flip Effect.\n● If 'Royal Command' is applying both players may still Flip Summon monsters, but any Flip Effects are negated.",
+    "Base": "1. This card can be chained to the activation of a Flip Effect from a Flip Summon to negate the Flip Effect. It cannot be activated during the Damage Step, so if a Flip Effect Monster is flipped face-up when attacked you cannot chain \"Royal Command\" to negate its Flip Effect.\\n2. If \"Royal Command\" is active on the field both players may still Flip Summon monsters, but any Flip Effects are negated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 32022366,
+  "name": "Gravity Axe - Grarl",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "● If a player has “Aqua Spirit” on the field and “Gravity Axe – Grarl” equipped to a monster, can the player use the effect of “Aqua Spirit” to change their opponent’s monster from face-up Defense Position to face-up Attack Position? \nA: Gravity Axe - Grarl only prevents the opponent from performing manual changes of their monster's battle positions. Card effects can still be used to change the battle positions of their monsters.   \n●Q: If a player takes control of a monster with “Snatch Steal” that is equipped with a “Gravity Axe – Grarl”, will the player now be allowed to change the Battle Position of their monsters? \nA: You would be able to manually change the battle position of your monsters at that time. Your opponent has to control both the Gravity Axe - Grarl and the monster the “Gravity Axe – Grarl” is equipped to in order to prevent you from being able to perform a manual change of battle position.  ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

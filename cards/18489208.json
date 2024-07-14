@@ -1,0 +1,44 @@
+{
+  "id": 18489208,
+  "name": "Cursed Fig",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 200,
+    "def": 200,
+    "level": 1,
+    "race": "Plant",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● \n● ",
+    "TeleDAD": "● \n● ",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Cursed Fig\" targets 2 Set Spell or Trap Cards.\\n2. If \"The End of Anubis\" is Summoned after the effect of \"Cursed Fig\" has resolved, the effect of \"Cursed Fig\" is still applied.\\n3. If one of the Set Spell or Trap Cards is chained, the effect of \"Cursed Fig\" is still applied to the remaining Set Spell or Trap Card.\\n4. If a Set Spell or Trap Card is affected by the effect of a \"Cursed Fig\", it can be selected as a target by the effect of another \"Cursed Fig\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

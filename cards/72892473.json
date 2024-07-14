@@ -1,0 +1,40 @@
+{
+  "id": 72892473,
+  "name": "Card Destruction",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "You can't activate this card if:\n● Both players have 0 cards in their hands.\n● The number of cards in your Deck is less than the number of cards in your hand (excluding this card).\nYou can activate this card if:\n● Either player has 0 cards in their hand (but not both). \n● The number of cards in your opponent's Deck is less than the number of cards in their hand.",
+    "Goat": "●Discarding your hand is not a cost for either player.\n●You can't activate Dragged Down into the Grave if either you, or your opponent, has no cards in hard other than Dragged Down into the Grave. But you can activate it if a player has no cards left in the Deck.\n●If there are any cards that are not in the owner’s hands, through the effect of “Exchange” or similar, when “Card Destruction” is played, the owners of the respective cards may decide the order that the cards go into the GY.\n●Cards discarded for the purpose of “Card Destruction” are not a cost of activating “Card Destruction.”\n●If “Card Destruction” resolves while an applying “Banisher of the Light” is on the field, each player still draws the same number of cards that were discarded.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Discarding your hand isn't a cost for either player.\n● 'Card Destruction' can be activated if either player has at least 1 card in his/her hand (not including 'Card Destruction'). If your opponent has 1 or more cards in his/her hand and you only have 'Card Destruction' in your hand, you can activate 'Card Destruction'. If your opponent has no cards in his/her hand and you have 'Card Destruction' and 1 other card in your hand, you can activate 'Card Destruction'. If your opponent has no cards in his/her hand and you only have 'Card Destruction' in your hand, you can't activate 'Card Destruction'.",
+    "TeleDAD": "● Discarding your hand isn't a cost for either player.\n● 'Card Destruction' can be activated if either player has at least 1 card in his/her hand (not including 'Card Destruction'). If your opponent has 1 or more cards in his/her hand and you only have 'Card Destruction' in your hand, you can activate 'Card Destruction'. If your opponent has no cards in his/her hand and you have 'Card Destruction' and 1 other card in your hand, you can activate 'Card Destruction'. If your opponent has no cards in his/her hand and you only have 'Card Destruction' in your hand, you can't activate 'Card Destruction'.",
+    "Gladiator": "● Discarding your hand isn't a cost for either player.",
+    "ReturnDAD": "● Discarding your hand isn't a cost for either player.",
+    "Trooper": "● Discarding your hand isn't a cost for either player.",
+    "Circle": "● Discarding your hand isn't a cost for either player.",
+    "Stein": "● Discarding your hand isn't a cost for either player.",
+    "Base": "1. Discarding your hand is not a cost for either player.\\n2. \"Card Destruction\" can be activated if either player has at least 1 card in his/her hand (not including \"Card Destruction\"). If your opponent has 1 or more cards in his/her hand and you only have \"Card Destruction\" in your hand, you can activate \"Card Destruction\". If your opponent has no cards in his/her hand and you have \"Card Destruction\" and 1 other card in your hand, you can activate \"Card Destruction\". If your opponent has no cards in his/her hand and you only have \"Card Destruction\" in your hand, you cannot activate \"Card Destruction\"."
+  },
+  "PSCT": {
+    "Tengu": "① Each player discards as many cards as possible from their hand, then draws the same number of cards.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

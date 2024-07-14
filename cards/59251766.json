@@ -1,0 +1,44 @@
+{
+  "id": 59251766,
+  "name": "Bujingi Hare",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 500,
+    "level": 4,
+    "race": "Beast",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● This effect cannot be activated in the Damage Step.",
+    "Vegas": "● This effect cannot be activated in the Damage Step.",
+    "Meadowlands": "● This effect cannot be activated in the Damage Step.",
+    "FireWater": "● This effect cannot be activated in the Damage Step.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① (Quick): You can banish this card from your GY, then target 1 Beast-Warrior \"Bujin\" monster you control;\nonce this turn, it can't be destroyed by battle/effect. \n(You can only use the effect of \"Bujingi Hare\" once per turn).",
+    "Meadowlands": "① (Quick): You can banish this card from your GY, then target 1 Beast-Warrior \"Bujin\" monster you control;\nonce this turn, it can't be destroyed by battle/effect. \n(You can only use the effect of \"Bujingi Hare\" once per turn).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

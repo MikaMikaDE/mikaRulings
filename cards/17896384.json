@@ -1,0 +1,40 @@
+{
+  "id": 17896384,
+  "name": "Arcane Barrier",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "(1) Each time a Spellcaster-Type monster(s) on the field is destroyed, place 1 Spell Counter on this card (max. 4). (2) You can send this card and 1 face-up Spellcaster-Type monster you control to the GY to draw 1 card for each Spell Counter on this card.\n●The (1) Continuous-like Effect applies while this card is face-up on the field.\n●Placing Spell Counters on “Arcane Barrier” does not start a chain.\n●If 2+ Spellcasters are destroyed at once, you only place 1 Spell Counter on this card.\n●This card does not gain Spell Counters when face-down Spellcasters are destroyed, because a face-down monster is destroyed before you can confirm its Type.\n●Spell Counters can only be placed on cards that have an effect that allows Spell Counters to be placed on them. If that card's effect is negated (by Spell Canceller), Spell Counters cannot be placed on it and any Spell Counters already on it are removed.\n●The (2) Ignition-like Effect activates & resolves on the field.\n●Sending “Arcane Barrier” and a Spellcaster to the GY is a cost. This effect can't activate while Macro Cosmos is active, since you can't pay the cost.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If multiple Spellcasters are destroyed at once, you still only place 1 Spell Counter on \"Arcane Barrier\". Placing Spell Counters on \"Arcane Barrier\" does not start a chain.\\n2. \"Arcane Barrier\" does not gain Spell Counters when face-down Spellcasters are destroyed, because a face-down monster is destroyed before you can confirm its Type.\\n3. Sending \"Arcane Barrier\" and a Spellcaster to the GY is a cost."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 19844995,
+  "name": "Power Filter",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Even if a monster's ATK would become more than 1000 after it is Special Summoned, you cannot Special Summon it while Power Filter is active.\n●Monsters with 1000 or less ATK cannot be Special Summoned face-down with The Shallow Grave, etc.\n●Monsters with ? ATK can be Special Summoned.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Even if a monster's ATK would become more than 1000 after it is Special Summoned, you can't Special Summon it while 'Power Filter' is applying.\n● Monsters with 1000 or less ATK can't be Special Summoned face-down with 'The Shallow Grave', etc.\n● Monsters with '?' ATK can be Special Summoned.",
+    "TeleDAD": "● Even if a monster's ATK would become more than 1000 after it is Special Summoned, you can't Special Summon it while 'Power Filter' is applying.\n● Monsters with 1000 or less ATK can't be Special Summoned face-down with 'The Shallow Grave', etc.\n● Monsters with '?' ATK can be Special Summoned.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Even if a monster's ATK would become more than 1000 after it is Special Summoned, you cannot Special Summon it while \"Power Filter\" is active.\\n2. Monsters with 1000 or less ATK cannot be Special Summoned face-down with \"The Shallow Grave\", etc.\\n3. Monsters with \"?\" ATK can be Special Summoned."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

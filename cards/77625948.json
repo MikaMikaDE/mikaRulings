@@ -1,0 +1,44 @@
+{
+  "id": 77625948,
+  "name": "Cyberdark Edge",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 800,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●The last effect of this card (“…the equipped monster is destroyed instead”) happens at the end of the Damage Step, at the time that this monster would normally be sent to the GY.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The last effect of this card (“…the equipped monster is destroyed instead”) happens at the end of the Damage Step, at the time that this monster would normally be sent to the GY.",
+    "TeleDAD": "● The last effect of this card (“…the equipped monster is destroyed instead”) happens at the end of the Damage Step, at the time that this monster would normally be sent to the GY.",
+    "Gladiator": "● The last effect of this card (“…the equipped monster is destroyed instead”) happens at the end of the Damage Step, at the time that this monster would normally be sent to the GY.",
+    "ReturnDAD": "● The last effect of this card (“…the equipped monster is destroyed instead”) happens at the end of the Damage Step, at the time that this monster would normally be sent to the GY.",
+    "Trooper": "● The last effect of this card (“…the equipped monster is destroyed instead”) happens at the end of the Damage Step, at the time that this monster would normally be sent to the GY.",
+    "Circle": "● The last effect of this card (“…the equipped monster is destroyed instead”) happens at the end of the Damage Step, at the time that this monster would normally be sent to the GY.",
+    "Stein": "● The last effect of this card (“…the equipped monster is destroyed instead”) happens at the end of the Damage Step, at the time that this monster would normally be sent to the GY.",
+    "Base": "1. The last effect of this card (\"…the equipped monster is destroyed instead\") happens at the end of the Damage Step, at the time that this monster would normally be sent to the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

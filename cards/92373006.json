@@ -1,0 +1,44 @@
+{
+  "id": 92373006,
+  "name": "Test Tiger",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 600,
+    "def": 300,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(1) If you control a Gladiator Beast monster, you can Special Summon this card. (2) You can Tribute this card to return 1 Gladiator Beast monster you control to the Deck, and then Special Summon 1 Gladiator Beast from your Deck. The Special Summoned monster is treated as if it was Special Summoned by the effect of a Gladiator Beast monster.\n●The (1) Unclassified Effect Special Summons this card without starting a Chain.\n●This effect does not activate.\n●The (2) Ignition Effect activates & resolves on the field.\n●Tributing this card is a cost.\n●This effect targets 1 face-up Gladiator Beast monster you control. You can even target a Gladiator Beast Fusion Monster, it is returned to the Extra Deck when this effect resolves.\n●If the target is flipped face-down / leaves the field / cannot be returned to the Deck, you do not Special Summon a Gladiator Beast monster from your Deck.\n●You can Special Summon the same Gladiator Beast monster that you returned to your Deck, unless the Gladiator Beast monster has an effect preventing you from doing so, like Gladiator Beast Alexander.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Test Tiger's' effect targets 1 'Gladiator Beast' monster you control.\n● You can Special Summon the same 'Gladiator Beast' monster that you returned to your Deck, unless the 'Gladiator Beast' monster has an effect preventing you from doing so, like 'Gladiator Beast Alexander'.\n● 'Test Tiger' can't target a face-down 'Gladiator Beast' monster.\n● If you target a 'Gladiator Beast' Fusion Monster with 'Test Tiger's' effect, it is placed into the Extra Deck when 'Test Tiger's' effect resolves.",
+    "TeleDAD": "● 'Test Tiger's' effect targets 1 'Gladiator Beast' monster you control.\n● You can Special Summon the same 'Gladiator Beast' monster that you returned to your Deck, unless the 'Gladiator Beast' monster has an effect preventing you from doing so, like 'Gladiator Beast Alexander'.\n● 'Test Tiger' can't target a face-down 'Gladiator Beast' monster.\n● If you target a 'Gladiator Beast' Fusion Monster with 'Test Tiger's' effect, it is placed into the Extra Deck when 'Test Tiger's' effect resolves.",
+    "Gladiator": "● 'Test Tiger's' effect targets 1 'Gladiator Beast' monster you control.\n● You can Special Summon the same 'Gladiator Beast' monster that you returned to your Deck, unless the 'Gladiator Beast' monster has an effect preventing you from doing so, like 'Gladiator Beast Alexander'.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Test Tiger\" targets 1 'Gladiator Beast' monster you control.\\n2. You can Special Summon the same 'Gladiator Beast' monster that you returned to your Deck, unless the 'Gladiator Beast' monster has an effect preventing you from doing so, like \"Gladiator Beast Alexander\".\\n3. \"Test Tiger\" cannot target a face-down 'Gladiator Beast' monster.\\n4. If you target a 'Gladiator Beast' Fusion Monster with the effect of  \"Test Tiger\", it is placed into the Extra Deck when the effect of \"Test Tiger\" resolves."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

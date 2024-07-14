@@ -1,0 +1,44 @@
+{
+  "id": 87148330,
+  "name": "Tethys, Goddess of Light",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 1800,
+    "level": 5,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) When you draw a Fairy-Type monster(s), you can reveal 1 of those monsters to draw 1 more card.\n●This (1) optional Trigger Effect activates & resolves on the field.\n●1 Fairy-Type monster you JUST drew is revealed to your opponent at activation.\n●This effect can be activated during the Damage Step.\n●If you control 2(+) copies of Tethys, their effects can all activate in a single Chain when you draw a single Fairy-Type monster.\n●This effect cannot activate if you drew a Fairy-Type as Chain Link 2(+).\n●This effect cannot activate if you draw a Fairy-Type by Upstart Goblin, which resolves sequentially. The last thing to happen is your opponent gaining 1000 Life Points, not you drawing a Fairy.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This is a Trigger Effect that you can choose to activate. The cost is revealing 1 Fairy you just drew to your opponent.\\n2. If you control multiple copies of \"Tethys, Goddess of Light\", you can chain their effects when you draw a Fairy-Type monster(s). If you control 2 copies of \"Tethys, Goddess of Light\", you would draw 2 cards in that case.\\n3. You can only activate this effect when a Fairy being drawn was the last thing that happened. If you draw a Fairy with \"Jar of Greed\" in the middle of a chain, you cannot activate the effect of \"Tethys, Goddess of Light\". If you draw a Fairy with \"Graceful Charity\", the last thing that happened was that you discarded for \"Graceful Charity\", so you cannot activate \"Tethys, Goddess of Light\".\\n4. You can activate the effect of \"Tethys, Goddess of Light\" if you draw a Fairy during the Damage Step, for example with \"Airknight Parshath\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 30435145,
+  "name": "Ancient Gear Factory",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Select 1 Ancient Gear monster in your hand and show it to your opponent. Remove from play Ancient Gear cards in your GY whose total Levels are equal to double the selected card's. You can Normal Summon the selected card without Tributes this turn.\n●You reveal your chosen “Ancient Gear” monster when the effect of “Ancient Gear Factory” resolves. Not when it is activated.\n●You can activate “Ancient Gear Factory” and then decide not to Summon the revealed monster.\n●You cannot select a monster for “Ancient Gear Factory” that you could not Tribute Summon, such as Level 4 and lower monsters.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You reveal your chosen “Ancient Gear” monster when the effect of “Ancient Gear Factory” resolves. Not when it is activated.\n● You can activate “Ancient Gear Factory” and then decide not to Summon the revealed monster.\n● You can't select a monster for “Ancient Gear Factory” that you could not Tribute Summon, such as LV 4 and lower monsters.",
+    "TeleDAD": "● You reveal your chosen “Ancient Gear” monster when the effect of “Ancient Gear Factory” resolves. Not when it is activated.\n● You can activate “Ancient Gear Factory” and then decide not to Summon the revealed monster.\n● You can't select a monster for “Ancient Gear Factory” that you could not Tribute Summon, such as LV 4 and lower monsters.",
+    "Gladiator": "● You reveal your chosen “Ancient Gear” monster when the effect of “Ancient Gear Factory” resolves. Not when it is activated.\n● You can activate “Ancient Gear Factory” and then decide not to Summon the revealed monster.\n● You can't select a monster for “Ancient Gear Factory” that you could not Tribute Summon, such as LV 4 and lower monsters.",
+    "ReturnDAD": "● You reveal your chosen “Ancient Gear” monster when the effect of “Ancient Gear Factory” resolves. Not when it is activated.\n● You can activate “Ancient Gear Factory” and then decide not to Summon the revealed monster.\n● You can't select a monster for “Ancient Gear Factory” that you could not Tribute Summon, such as LV 4 and lower monsters.",
+    "Trooper": "● You reveal your chosen “Ancient Gear” monster when the effect of “Ancient Gear Factory” resolves. Not when it is activated.\n● You can activate “Ancient Gear Factory” and then decide not to Summon the revealed monster.\n● You can't select a monster for “Ancient Gear Factory” that you could not Tribute Summon, such as LV 4 and lower monsters.",
+    "Circle": "● You reveal your chosen “Ancient Gear” monster when the effect of “Ancient Gear Factory” resolves. Not when it is activated.\n● You can activate “Ancient Gear Factory” and then decide not to Summon the revealed monster.\n● You can't select a monster for “Ancient Gear Factory” that you could not Tribute Summon, such as LV 4 and lower monsters.",
+    "Stein": "● You reveal your chosen “Ancient Gear” monster when the effect of “Ancient Gear Factory” resolves. Not when it is activated.\n● You can activate “Ancient Gear Factory” and then decide not to Summon the revealed monster.\n● You can't select a monster for “Ancient Gear Factory” that you could not Tribute Summon, such as LV 4 and lower monsters.",
+    "Base": "1. You reveal your chosen 'Ancient Gear' monster when the effect of \"Ancient Gear Factory\" resolves. Not when it is activated.\\n2. You can activate \"Ancient Gear Factory\" and then decide not to Summon the revealed monster.\\n3. You cannot select a monster for \"Ancient Gear Factory\" that you could not Tribute Summon, such as Level 4 and lower monsters."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

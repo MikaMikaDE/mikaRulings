@@ -1,0 +1,44 @@
+{
+  "id": 38522377,
+  "name": "Meklord Astro Dragon Asterisk",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 10,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you Special Summon this card correctly, it can later be Special Summoned back from the GY.\\n2. The effect to send monsters to the GY and increase this card's ATK targets the monsters to be sent to the GY.\\n3. You can activate the effect to send monsters to the GY and increase this card's ATK when this card is Special Summoned by another card effect, like \"Monster Reborn\".\\n4. The ATK gained by \"Meklord Astro Dragon Asterisk\" is the total original ATK of the monsters sent to the GY by this effect.\\n5. The effect to inflict damage activates any time a Synchro Monster is Special Summoned, including by the effect of \"Blackwing - Vayu the Emblem of Honor\" or \"Monster Reborn\".\\n6. If both players Summon a Synchro Monster due to the same effect, they both take 1000 damage from this effect.\\n7. If this card is affected by \"Shrink\", its ATK becomes 0 and remains 0 after \"Shrink\" wears off.\\n8. If this card is affected by \"Megamorph\" its ATK becomes 0. If \"Megamorph\" leaves the field, this card regains the ATK it gained from its own effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

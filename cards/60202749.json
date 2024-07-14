@@ -1,0 +1,40 @@
+{
+  "id": 60202749,
+  "name": "Abyss-sphere",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If the effect of \"Royal Decree\" is being applied, this card *will* destroy itself.\n\n● After activation, this card continuously targets the monster that was Special Summoned.\n● \"You can't activate Spell Effects\" includes the effects of Spells already face-up on the field.",
+    "Vegas": "● If the effect of \"Royal Decree\" is being applied, this card *will* destroy itself.\n\n● After activation, this card continuously targets the monster that was Special Summoned.\n● \"You can't activate Spell Effects\" includes the effects of Spells already face-up on the field.",
+    "Meadowlands": "● If the effect of \"Royal Decree\" is being applied, this card won't destroy itself (This is a TCG-US Ruling difference).\n\n● After activation, this card continuously targets the monster that was Special Summoned.\n● \"You can't activate Spell Effects\" includes the effects of Spells already face-up on the field.",
+    "FireWater": "● If the effect of \"Royal Decree\" is being applied, this card *will* destroy itself.\n\n● After activation, this card continuously targets the monster that was Special Summoned.\n● \"You can't activate Spell Effects\" includes the effects of Spells already face-up on the field.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① If this card is activated: Special Summon 1 \"Mermail\" monster from your Deck (negate its effects)\n② If this card leaves the field, destroy that monster. \n③ You can't activate Spell Effects. \n④ Destroy this card during your opponent's next End Phase after activation.",
+    "Meadowlands": "① If this card is activated: Special Summon 1 \"Mermail\" monster from your Deck (negate its effects)\n② If this card leaves the field, destroy that monster. \n③ You can't activate Spell Effects. \n④ Destroy this card during your opponent's next End Phase after activation.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

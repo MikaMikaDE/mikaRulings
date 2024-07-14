@@ -1,0 +1,44 @@
+{
+  "id": 25955164,
+  "name": "Sanga of the Thunder",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2600,
+    "def": 2200,
+    "level": 7,
+    "race": "Thunder",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●A marker may be placed on this card to indicate that its effect has been used. The effect resets if the monster is destroyed or removed from the field.\n●You can use the effect of this card even if it is face-down when it is attacked because its effect is activated during the Damage Step, and it will be face-up at that point.\n●The effect of this card targets.",
+    "Goat": "●A marker may be placed on this card to indicate that its effect has been used. The effect resets if the monster is destroyed or removed from the field.\n●You can use the effect of this card even if it is face-down when it is attacked because its effect is activated during the Damage Step, and it will be face-up at that point.\n●The effect of this card targets.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● A marker may be placed on this card to indicate that its effect has been used.The effect resets if the monster is destroyed or removed from the field.\n● You can use the effect of this card even if it is face-down when it is attacked because its effect is activated during the Damage Step, and it will be face-up at that point. \n● The effect of this card targets.",
+    "TeleDAD": "● A marker may be placed on this card to indicate that its effect has been used.The effect resets if the monster is destroyed or removed from the field.\n● You can use the effect of this card even if it is face-down when it is attacked because its effect is activated during the Damage Step, and it will be face-up at that point. \n● The effect of this card targets.",
+    "Gladiator": "● A marker may be placed on this card to indicate that its effect has been used.The effect resets if the monster is destroyed or removed from the field.\n● You can use the effect of this card even if it is face-down when it is attacked because its effect is activated during the Damage Step, and it will be face-up at that point. \n● The effect of this card targets.",
+    "ReturnDAD": "● A marker may be placed on this card to indicate that its effect has been used.The effect resets if the monster is destroyed or removed from the field.\n● You can use the effect of this card even if it is face-down when it is attacked because its effect is activated during the Damage Step, and it will be face-up at that point. \n● The effect of this card targets.",
+    "Trooper": "● A marker may be placed on this card to indicate that its effect has been used.The effect resets if the monster is destroyed or removed from the field.\n● You can use the effect of this card even if it is face-down when it is attacked because its effect is activated during the Damage Step, and it will be face-up at that point. \n● The effect of this card targets.",
+    "Circle": "● A marker may be placed on this card to indicate that its effect has been used.The effect resets if the monster is destroyed or removed from the field.\n● You can use the effect of this card even if it is face-down when it is attacked because its effect is activated during the Damage Step, and it will be face-up at that point. \n● The effect of this card targets.",
+    "Stein": "● A marker may be placed on this card to indicate that its effect has been used.The effect resets if the monster is destroyed or removed from the field.\n● You can use the effect of this card even if it is face-down when it is attacked because its effect is activated during the Damage Step, and it will be face-up at that point. \n● The effect of this card targets.",
+    "Base": "1. A marker may be placed on this card to indicate that its effect has been used. The effect resets if the monster is destroyed or removed from the field.\\n2. You can use the effect of this card even if it is face-down when it is attacked because its effect is activated during the Damage Step, and it will be face-up at that point.\\n3. The effect of this card targets."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

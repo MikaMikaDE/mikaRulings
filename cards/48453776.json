@@ -1,0 +1,44 @@
+{
+  "id": 48453776,
+  "name": "Sky Scourge Norleras",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 1500,
+    "level": 8,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● The only way you can Special Summon this card is via its own procedure.\nEven if it was initially summoned that way, you still can't summon it with card effects.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Sending all cards on the field and in both players’ hands to the GY and drawing one card are resolved as part of the same Chain Link, and are considered to occur simultaneously (even though the card is drawn after sending cards to the GY). So a card like “Peten the Dark Clown” would not miss the timing even though a card is drawn.",
+    "TeleDAD": "● Sending all cards on the field and in both players’ hands to the GY and drawing one card are resolved as part of the same Chain Link, and are considered to occur simultaneously (even though the card is drawn after sending cards to the GY). So a card like “Peten the Dark Clown” would not miss the timing even though a card is drawn.",
+    "Gladiator": "● Sending all cards on the field and in both players’ hands to the GY and drawing one card are resolved as part of the same Chain Link, and are considered to occur simultaneously (even though the card is drawn after sending cards to the GY). So a card like “Peten the Dark Clown” would not miss the timing even though a card is drawn.",
+    "ReturnDAD": "● Sending all cards on the field and in both players’ hands to the GY and drawing one card are resolved as part of the same Chain Link, and are considered to occur simultaneously (even though the card is drawn after sending cards to the GY). So a card like “Peten the Dark Clown” would not miss the timing even though a card is drawn.",
+    "Trooper": "● Sending all cards on the field and in both players’ hands to the GY and drawing one card are resolved as part of the same Chain Link, and are considered to occur simultaneously (even though the card is drawn after sending cards to the GY). So a card like “Peten the Dark Clown” would not miss the timing even though a card is drawn.",
+    "Circle": "● Sending all cards on the field and in both players’ hands to the GY and drawing one card are resolved as part of the same Chain Link, and are considered to occur simultaneously (even though the card is drawn after sending cards to the GY). So a card like “Peten the Dark Clown” would not miss the timing even though a card is drawn.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Sending all cards on the field and in both players' hands to the GY and drawing one card are resolved as part of the same Chain Link, and are considered to occur simultaneously (even though the card is drawn after sending cards to the GY). So a card like \"Peten the Dark Clown\" would not miss the timing even though a card is drawn."
+  },
+  "PSCT": {
+    "Tengu": "© Can't be Normal Summoned/Set. \n© Must be Special Summoned (from your hand) by banishing 1 LIGHT Fairy and 3 DARK Fiends from your GY.\n① You can pay 1000 LP; send all cards in each player's hand and field to the GY, and if you do, draw 1 card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

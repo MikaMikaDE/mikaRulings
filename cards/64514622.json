@@ -1,0 +1,44 @@
+{
+  "id": 64514622,
+  "name": "Hieratic Seal of the Dragon King",
+  "Stats": {
+    "type": "Gemini Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 6,
+    "race": "Dragon",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If this card's effects are negated, it is treated as an Effect monster, and loses its gained effect.",
+    "Vegas": "● If this card's effects are negated, it is treated as an Effect monster, and loses its gained effect.",
+    "Meadowlands": "● If this card's effects are negated, it is treated as an Effect monster, and loses its gained effect.",
+    "FireWater": "● If this card's effects are negated, it is treated as an Effect monster, and loses its gained effect.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① This card is treated as a Normal Monster while face-up on the field or in the GY. \nⒸ While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● You can Tribute this card; Special Summon 1 \"Hieratic\" monster (except \"Hieratic Seal of the Dragon King\") \nfrom your hand/Deck/GY, in face-up Defense Position.",
+    "Meadowlands": "① This card is treated as a Normal Monster while face-up on the field or in the GY. \nⒸ While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● You can Tribute this card; Special Summon 1 \"Hieratic\" monster (except \"Hieratic Seal of the Dragon King\") \nfrom your hand/Deck/GY, in face-up Defense Position.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 90246973,
+  "name": "Power Pickaxe",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●This effect targets the monster in your opponent’s GY.\n●Removing the monster is an effect, not a cost.\n●If the target monster is not removed from play by this effect, the equipped monster does not gain ATK.\n●If the Level of the equipped monster is lower than the targeted monster when this effect resolves, the targeted monster is not removed from play.\n●Removing the target monster from play and gaining 500 ATK happen at the same time.\n●If “Power Pickaxe” is negated, the equipped monster loses the 500 ATK.\n●It will not regain it even if “Power Pickaxe” stops being negated.\n●If “Power Pickaxe” is destroyed, the previously equipped monster loses the 500 ATK.\n●Monsters removed by this effect remain removed from play even after the End Phase. ",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect targets the monster in your opponent's GY.\\n2. Removing the monster is an effect, not a cost.\\n3. If the target monster is not removed from play by this effect, the equipped monster does not gain ATK.\\n4. If the Level of the equipped monster is lower than the targeted monster when this effect resolves, the targeted monster is not removed from play.\\n5. Removing the target monster from play and gaining 500 ATK happen at the same time.\\n6. If \"Power Pickaxe\" is negated, the equipped monster loses the 500 ATK. It will not regain it even if \"Power Pickaxe\" stops being negated.\\n\\nThis ruling is outdated: (The effect isn’t continually maintained after resolution, so the monster keeps the 500 ATK even if Pickaxe is negated afterward. Source: j-wiki.)\\n7. If \"Power Pickaxe\" is destroyed, the previously equipped monster loses the 500 ATK.\\n\\nThis ruling is oudated: (The effect isn’t continually maintained after resolution, so the monster keeps the 500 ATK even if Pickaxe is destroyed afterward. Source: j-wiki.)\\n\\n\\n8. Monsters removed by this effect remain removed from play even after the End Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

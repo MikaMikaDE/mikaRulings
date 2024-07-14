@@ -1,0 +1,40 @@
+{
+  "id": 8279188,
+  "name": "Depth Amulet",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Discarding a card and negating the attack are considered to happen simultaneously.\n●Discarding 1 card is not a cost. It is part of the resolution of the effect. If your opponent’s 3rd End Phase after the activation of “Depth Amulet” is skipped for whatever reason, “Depth Amulet” will remain face-up on the field. You can only activate the effect of “Depth Amulet” once for each attack that is declared. You can flip “Depth Amulet” at any time.\n●You can only activate its effect when your opponent’s monster declares an attack.\n●You can flip “Depth Amulet” and activate its effect in the same Chain Link.\n●“Depth Amulet” targets the attacking monster.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Discarding a card and negating the attack are considered to happen simultaneously.\\n2. Discarding 1 card is not a cost. It is part of the resolution of the effect.\\n3. If your opponent's 3 End Phase after the activation of \"Depth Amulet\" is skipped for whatever reason, \"Depth Amulet\" will remain face-up on the field.\\n4. You can only activate the effect of \"Depth Amulet\" once for each attack that is declared.\\n5. You can flip \"Depth Amulet\" at any time. You can only activate its effect when your opponent's monster declares an attack. You can flip \"Depth Amulet\" and activate its effect in the same Chain Link.\\n6. \"Depth Amulet\" targets the attacking monster."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

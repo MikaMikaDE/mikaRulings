@@ -1,0 +1,44 @@
+{
+  "id": 71200730,
+  "name": "Despair from the Dark",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 3000,
+    "level": 8,
+    "race": "Zombie",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Despair from the Dark can be Normal Summoned.\n●Only the owner of Despair from the Dark can use its effect, because it has to be sent from your hand to your GY.\n●When you discard Despair from the Dark with Painful Choice, Despair from the Dark's effect does not activate because it was your own card effect that caused it.\n●If Despair from the Dark is sent to the GY during a card effect's resolution, or during a chain, activate Despair from the Dark's effect after the current effect or chain has resolved.\n●If Despair from the Dark is sent to the GY by Last Turn's effect, Despair from the Dark is Special Summoned to the field before the attack of Last Turn happens.",
+    "Goat": "●Despair from the Dark can be Normal Summoned.\n●Only the owner of Despair from the Dark can use its effect, because it has to be sent from your hand to your GY.\n●When you discard Despair from the Dark with Painful Choice, Despair from the Dark's effect does not activate because it was your own card effect that caused it.\n●If Despair from the Dark is sent to the GY during a card effect's resolution, or during a chain, activate Despair from the Dark's effect after the current effect or chain has resolved.\n●If Despair from the Dark is sent to the GY by Last Turn's effect, Despair from the Dark is Special Summoned to the field before the attack of Last Turn happens.\n●Q: If “Despair from the Dark” is sent to the GY through the effect of “Morphing Jar #2”, will its effect be activated? \nA: Yes it would be Special Summoned, but not until after the effect of Morphing Jar #2 has completed resolving.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Despair from the Dark' can be Normal Summoned.\n● Only the owner of 'Despair from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Despair from the Dark' with 'Painful Choice', 'Despair from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Despair from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Despair from the Dark''s effect after the current effect or chain has resolved.\n● If 'Despair from the Dark' is sent to the GY by 'Last Turn''s effect, 'Despair from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "TeleDAD": "● 'Despair from the Dark' can be Normal Summoned.\n● Only the owner of 'Despair from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Despair from the Dark' with 'Painful Choice', 'Despair from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Despair from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Despair from the Dark''s effect after the current effect or chain has resolved.\n● If 'Despair from the Dark' is sent to the GY by 'Last Turn''s effect, 'Despair from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "Gladiator": "● 'Despair from the Dark' can be Normal Summoned.\n● Only the owner of 'Despair from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Despair from the Dark' with 'Painful Choice', 'Despair from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Despair from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Despair from the Dark''s effect after the current effect or chain has resolved.\n● If 'Despair from the Dark' is sent to the GY by 'Last Turn''s effect, 'Despair from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "ReturnDAD": "● 'Despair from the Dark' can be Normal Summoned.\n● Only the owner of 'Despair from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Despair from the Dark' with 'Painful Choice', 'Despair from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Despair from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Despair from the Dark''s effect after the current effect or chain has resolved.\n● If 'Despair from the Dark' is sent to the GY by 'Last Turn''s effect, 'Despair from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "Trooper": "● 'Despair from the Dark' can be Normal Summoned.\n● Only the owner of 'Despair from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Despair from the Dark' with 'Painful Choice', 'Despair from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Despair from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Despair from the Dark''s effect after the current effect or chain has resolved.\n● If 'Despair from the Dark' is sent to the GY by 'Last Turn''s effect, 'Despair from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "Circle": "● 'Despair from the Dark' can be Normal Summoned.\n● Only the owner of 'Despair from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Despair from the Dark' with 'Painful Choice', 'Despair from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Despair from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Despair from the Dark''s effect after the current effect or chain has resolved.\n● If 'Despair from the Dark' is sent to the GY by 'Last Turn''s effect, 'Despair from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "Stein": "● 'Despair from the Dark' can be Normal Summoned.\n● Only the owner of 'Despair from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Despair from the Dark' with 'Painful Choice', 'Despair from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Despair from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Despair from the Dark''s effect after the current effect or chain has resolved.\n● If 'Despair from the Dark' is sent to the GY by 'Last Turn''s effect, 'Despair from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "Base": "1. \"Despair from the Dark\" can be Normal Summoned.\\n2. Only the owner of \"Despair from the Dark\" can use its effect, because it has to be sent from your hand to your GY.\\n3. When you discard \"Despair from the Dark\" with \"Painful Choice\", the effect of \"Despair from the Dark\" does not activate because it was your own card effect that caused it.\\n4. If \"Despair from the Dark\" is sent to the GY during a card effect's resolution, or during a chain, activate the effect of \"Despair from the Dark\" after the current effect or chain has resolved.\\n5. If \"Despair from the Dark\" is sent to the GY by the effect of \"Last Turn\", \"Despair from the Dark\" is Special Summoned to the field before the attack of \"Last Turn\" happens."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 64538655,
+  "name": "Sasuke Samurai #4",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1200,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●You activate the effect of Sasuke Samurai #4 at the beginning of the Damage Step, before the monster is flipped face-up. A monster destroyed by the effect of Sasuke Samurai #4 is not destroyed as a result of battle. There is no damage calculation. It is not flipped face-up. Any Flip Effects it has are not activated.\n●If Sasuke Samurai #4 attacks a face-up Attack Position Reflect Bounder, the effect of Sasuke Samurai #4 is resolved before the effect of Reflect Bounder.",
+    "Goat": "●You activate the effect of Sasuke Samurai #4 at the beginning of the Damage Step, before the monster is flipped face-up. A monster destroyed by the effect of Sasuke Samurai #4 is not destroyed by battle. There is no damage calculation. It is not flipped face-up. Any Flip Effects it has are not activated.\n●If Sasuke Samurai #4 attacks a face-up Attack Position Reflect Bounder, the effect of Sasuke Samurai #4 is resolved before the effect of Reflect Bounder.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You activate the effect of 'Sasuke Samurai #4' at the beginning of the Damage Step, before the monster is flipped face-up. A monster destroyed by the effect of 'Sasuke Samurai #4' isn't destroyed as a result of battle. There is no damage calculation. It isn't flipped face-up. Any Flip Effects it has are not activated.\n● If 'Sasuke Samurai #4' attacks a Attack Position 'Reflect Bounder', the effect of 'Sasuke Samurai #4' is resolved before the effect of 'Reflect Bounder'.",
+    "TeleDAD": "● You activate the effect of 'Sasuke Samurai #4' at the beginning of the Damage Step, before the monster is flipped face-up. A monster destroyed by the effect of 'Sasuke Samurai #4' isn't destroyed as a result of battle. There is no damage calculation. It isn't flipped face-up. Any Flip Effects it has are not activated.\n● If 'Sasuke Samurai #4' attacks a Attack Position 'Reflect Bounder', the effect of 'Sasuke Samurai #4' is resolved before the effect of 'Reflect Bounder'.",
+    "Gladiator": "● You activate the effect of 'Sasuke Samurai #4' at the beginning of the Damage Step, before the monster is flipped face-up. A monster destroyed by the effect of 'Sasuke Samurai #4' isn't destroyed as a result of battle. There is no damage calculation. It isn't flipped face-up. Any Flip Effects it has are not activated.\n● If 'Sasuke Samurai #4' attacks a Attack Position 'Reflect Bounder', the effect of 'Sasuke Samurai #4' is resolved before the effect of 'Reflect Bounder'.",
+    "ReturnDAD": "● You activate the effect of 'Sasuke Samurai #4' at the beginning of the Damage Step, before the monster is flipped face-up. A monster destroyed by the effect of 'Sasuke Samurai #4' isn't destroyed as a result of battle. There is no damage calculation. It isn't flipped face-up. Any Flip Effects it has are not activated.\n● If 'Sasuke Samurai #4' attacks a Attack Position 'Reflect Bounder', the effect of 'Sasuke Samurai #4' is resolved before the effect of 'Reflect Bounder'.",
+    "Trooper": "● You activate the effect of 'Sasuke Samurai #4' at the beginning of the Damage Step, before the monster is flipped face-up. A monster destroyed by the effect of 'Sasuke Samurai #4' isn't destroyed as a result of battle. There is no damage calculation. It isn't flipped face-up. Any Flip Effects it has are not activated.\n● If 'Sasuke Samurai #4' attacks a Attack Position 'Reflect Bounder', the effect of 'Sasuke Samurai #4' is resolved before the effect of 'Reflect Bounder'.",
+    "Circle": "● You activate the effect of 'Sasuke Samurai #4' at the beginning of the Damage Step, before the monster is flipped face-up. A monster destroyed by the effect of 'Sasuke Samurai #4' isn't destroyed as a result of battle. There is no damage calculation. It isn't flipped face-up. Any Flip Effects it has are not activated.\n● If 'Sasuke Samurai #4' attacks a Attack Position 'Reflect Bounder', the effect of 'Sasuke Samurai #4' is resolved before the effect of 'Reflect Bounder'.",
+    "Stein": "● You activate the effect of 'Sasuke Samurai #4' at the beginning of the Damage Step, before the monster is flipped face-up. A monster destroyed by the effect of 'Sasuke Samurai #4' isn't destroyed as a result of battle. There is no damage calculation. It isn't flipped face-up. Any Flip Effects it has are not activated.\n● If 'Sasuke Samurai #4' attacks a Attack Position 'Reflect Bounder', the effect of 'Sasuke Samurai #4' is resolved before the effect of 'Reflect Bounder'.",
+    "Base": "1. You activate the effect of \"Sasuke Samurai #4\" at the beginning of the Damage Step, before the monster is flipped face-up. A monster destroyed by the effect of \"Sasuke Samurai #4\" is not destroyed as a result of battle. There is no damage calculation. It is not flipped face-up. Any Flip Effects it has are not activated.\\n2. If \"Sasuke Samurai #4\" attacks a face-up Attack Position \"Reflect Bounder\", the effect of \"Sasuke Samurai #4\" is resolved before the effect of \"Reflect Bounder\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

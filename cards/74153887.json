@@ -1,0 +1,44 @@
+{
+  "id": 74153887,
+  "name": "Dark Scorpion - Meanae the Thorn",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1800,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can use Meanae the Thorn's effect to add a Monster, Spell, or Trap Card to your hand that includes Dark Scorpion in its name, including Mustering of the Dark Scorpions and Dark Scorpion Combination.",
+    "Goat": "●You can use Meanae the Thorn's effect to add a Monster, Spell, or Trap Card to your hand that includes Dark Scorpion in its name, including Mustering of the Dark Scorpions and Dark Scorpion Combination.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can use 'Meanae the Thorn''s effect to add a Monster, Spell, or Trap Card to your hand that includes 'Dark Scorpion' in its name, including 'Mustering of the Dark Scorpions' and 'Dark Scorpion Combination'.",
+    "TeleDAD": "● You can use 'Meanae the Thorn''s effect to add a Monster, Spell, or Trap Card to your hand that includes 'Dark Scorpion' in its name, including 'Mustering of the Dark Scorpions' and 'Dark Scorpion Combination'.",
+    "Gladiator": "● You can use 'Meanae the Thorn''s effect to add a Monster, Spell, or Trap Card to your hand that includes 'Dark Scorpion' in its name, including 'Mustering of the Dark Scorpions' and 'Dark Scorpion Combination'.",
+    "ReturnDAD": "● You can use 'Meanae the Thorn''s effect to add a Monster, Spell, or Trap Card to your hand that includes 'Dark Scorpion' in its name, including 'Mustering of the Dark Scorpions' and 'Dark Scorpion Combination'.",
+    "Trooper": "● You can use 'Meanae the Thorn''s effect to add a Monster, Spell, or Trap Card to your hand that includes 'Dark Scorpion' in its name, including 'Mustering of the Dark Scorpions' and 'Dark Scorpion Combination'.",
+    "Circle": "● You can use 'Meanae the Thorn''s effect to add a Monster, Spell, or Trap Card to your hand that includes 'Dark Scorpion' in its name, including 'Mustering of the Dark Scorpions' and 'Dark Scorpion Combination'.",
+    "Stein": "● You can use 'Meanae the Thorn''s effect to add a Monster, Spell, or Trap Card to your hand that includes 'Dark Scorpion' in its name, including 'Mustering of the Dark Scorpions' and 'Dark Scorpion Combination'.",
+    "Base": "1. You can use the effect of \"Meanae the Thorn\" to add a Monster, Spell, or Trap Card to your hand that includes 'Dark Scorpion' in its name, including \"Mustering of the Dark Scorpions\" and \"Dark Scorpion Combination\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

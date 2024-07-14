@@ -1,0 +1,44 @@
+{
+  "id": 64751286,
+  "name": "Penumbral Soldier Lady",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2100,
+    "def": 1400,
+    "level": 6,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Penumbral Soldier Lady’s ATK increases during the Damage Step and this effect can be chained to.\n●Penbumbral Soldier Lady’s ATK increases when appropriate, no matter whose turn it is or whether she attacked or was attacked.\n●The increase to Penumbral Soldier Lady’s ATK from her effect only lasts until the end of the Damage Step.",
+    "Goat": "●Penumbral Soldier Lady’s ATK increases during the Damage Step and this effect can be chained to.\n●Penbumbral Soldier Lady’s ATK increases when appropriate, no matter whose turn it is or whether she attacked or was attacked.\n●The increase to Penumbral Soldier Lady’s ATK from her effect only lasts until the end of the Damage Step.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Penumbral Soldier Lady'’s ATK increases during the Damage Step and this effect can be chained to.\n● 'Penbumbral Soldier Lady'’s ATK increases when appropriate, no matter whose turn it is or whether she attacked or was attacked.\n● The increase to 'Penumbral Soldier Lady’s' ATK from her effect only lasts until the end of the Damage Step.",
+    "TeleDAD": "● 'Penumbral Soldier Lady'’s ATK increases during the Damage Step and this effect can be chained to.\n● 'Penbumbral Soldier Lady'’s ATK increases when appropriate, no matter whose turn it is or whether she attacked or was attacked.\n● The increase to 'Penumbral Soldier Lady’s' ATK from her effect only lasts until the end of the Damage Step.",
+    "Gladiator": "● 'Penumbral Soldier Lady'’s ATK increases during the Damage Step and this effect can be chained to.\n● 'Penbumbral Soldier Lady'’s ATK increases when appropriate, no matter whose turn it is or whether she attacked or was attacked.\n● The increase to 'Penumbral Soldier Lady’s' ATK from her effect only lasts until the end of the Damage Step.",
+    "ReturnDAD": "● 'Penumbral Soldier Lady'’s ATK increases during the Damage Step and this effect can be chained to.\n● 'Penbumbral Soldier Lady'’s ATK increases when appropriate, no matter whose turn it is or whether she attacked or was attacked.\n● The increase to 'Penumbral Soldier Lady’s' ATK from her effect only lasts until the end of the Damage Step.",
+    "Trooper": "● 'Penumbral Soldier Lady'’s ATK increases during the Damage Step and this effect can be chained to.\n● 'Penbumbral Soldier Lady'’s ATK increases when appropriate, no matter whose turn it is or whether she attacked or was attacked.\n● The increase to 'Penumbral Soldier Lady’s' ATK from her effect only lasts until the end of the Damage Step.",
+    "Circle": "● 'Penumbral Soldier Lady'’s ATK increases during the Damage Step and this effect can be chained to.\n● 'Penbumbral Soldier Lady'’s ATK increases when appropriate, no matter whose turn it is or whether she attacked or was attacked.\n● The increase to 'Penumbral Soldier Lady’s' ATK from her effect only lasts until the end of the Damage Step.",
+    "Stein": "● 'Penumbral Soldier Lady'’s ATK increases during the Damage Step and this effect can be chained to.\n● 'Penbumbral Soldier Lady'’s ATK increases when appropriate, no matter whose turn it is or whether she attacked or was attacked.\n● The increase to 'Penumbral Soldier Lady’s' ATK from her effect only lasts until the end of the Damage Step.",
+    "Base": "1. The ATK of \"Penumbral Soldier Lady\" increases during the Damage Step and this effect can be chained to.\\n2. The ATK of \"Penbumbral Soldier Lady\" increases when appropriate, no matter whose turn it is or whether she attacked or was attacked.\\n3. The increase to the ATK of \"Penumbral Soldier Lady\" from her effect only lasts until the end of the Damage Step."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

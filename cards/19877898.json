@@ -1,0 +1,44 @@
+{
+  "id": 19877898,
+  "name": "Ultimate Insect LV7",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2600,
+    "def": 1200,
+    "level": 7,
+    "race": "Insect",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●If “Ultimate Insect LV7” is Summoned by the effect of “Ultimate Insect LV5”, but is then flipped face-down and then face-up again, its effect is reset and will no longer be applied.\n●If you have 2 copies of “Ultimate Insect LV7” each Summoned by the effect of “Ultimate Insect LV5”, then the ATK and DEF of your opponent’s monsters are reduced by 1400 points.\n●“All your opponent’s monsters” means the monsters on your opponent’s side of the field.",
+    "Goat": "●If “Ultimate Insect LV7” is Summoned by the effect of “Ultimate Insect LV5”, but is then Set and then face-up again, its effect is reset and will no longer be applied.\n●If you have 2 copies of “Ultimate Insect LV7” each Summoned by the effect of “Ultimate Insect LV5”, then the ATK/DEF of your opponent’s monsters are reduced by 1400 points.\n●“All your opponent’s monsters” means the monsters on your opponent’s side of the field.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “Ultimate Insect LV7” is Summoned by the effect of “Ultimate Insect LV5”, but is then flipped face-down and then face-up again, its effect is reset and will no longer be applied.\n● If you have 2 copies of “Ultimate Insect LV7” each Summoned by the effect of “Ultimate Insect LV5”, then the ATK/DEF of your opponent’s monsters are reduced by 1400 points.\n● “All your opponent’s monsters” means the monsters on your opponent’s side of the field.",
+    "TeleDAD": "● If “Ultimate Insect LV7” is Summoned by the effect of “Ultimate Insect LV5”, but is then flipped face-down and then face-up again, its effect is reset and will no longer be applied.\n● If you have 2 copies of “Ultimate Insect LV7” each Summoned by the effect of “Ultimate Insect LV5”, then the ATK/DEF of your opponent’s monsters are reduced by 1400 points.\n● “All your opponent’s monsters” means the monsters on your opponent’s side of the field.",
+    "Gladiator": "● If “Ultimate Insect LV7” is Summoned by the effect of “Ultimate Insect LV5”, but is then flipped face-down and then face-up again, its effect is reset and will no longer be applied.\n● If you have 2 copies of “Ultimate Insect LV7” each Summoned by the effect of “Ultimate Insect LV5”, then the ATK/DEF of your opponent’s monsters are reduced by 1400 points.\n● “All your opponent’s monsters” means the monsters on your opponent’s side of the field.",
+    "ReturnDAD": "● If “Ultimate Insect LV7” is Summoned by the effect of “Ultimate Insect LV5”, but is then flipped face-down and then face-up again, its effect is reset and will no longer be applied.\n● If you have 2 copies of “Ultimate Insect LV7” each Summoned by the effect of “Ultimate Insect LV5”, then the ATK/DEF of your opponent’s monsters are reduced by 1400 points.\n● “All your opponent’s monsters” means the monsters on your opponent’s side of the field.",
+    "Trooper": "● If “Ultimate Insect LV7” is Summoned by the effect of “Ultimate Insect LV5”, but is then flipped face-down and then face-up again, its effect is reset and will no longer be applied.\n● If you have 2 copies of “Ultimate Insect LV7” each Summoned by the effect of “Ultimate Insect LV5”, then the ATK/DEF of your opponent’s monsters are reduced by 1400 points.\n● “All your opponent’s monsters” means the monsters on your opponent’s side of the field.",
+    "Circle": "● If “Ultimate Insect LV7” is Summoned by the effect of “Ultimate Insect LV5”, but is then flipped face-down and then face-up again, its effect is reset and will no longer be applied.\n● If you have 2 copies of “Ultimate Insect LV7” each Summoned by the effect of “Ultimate Insect LV5”, then the ATK/DEF of your opponent’s monsters are reduced by 1400 points.\n● “All your opponent’s monsters” means the monsters on your opponent’s side of the field.",
+    "Stein": "● If “Ultimate Insect LV7” is Summoned by the effect of “Ultimate Insect LV5”, but is then flipped face-down and then face-up again, its effect is reset and will no longer be applied.\n● If you have 2 copies of “Ultimate Insect LV7” each Summoned by the effect of “Ultimate Insect LV5”, then the ATK/DEF of your opponent’s monsters are reduced by 1400 points.\n● “All your opponent’s monsters” means the monsters on your opponent’s side of the field.",
+    "Base": "1. If \"Ultimate Insect LV7\" is Summoned by the effect of \"Ultimate Insect LV5\", but is then flipped face-down and then face-up again, its effect is reset and will no longer be applied.\\n2. If you have 2 copies of \"Ultimate Insect LV7\" each Summoned by the effect of \"Ultimate Insect LV5\", then the ATK and DEF of your opponent's monsters are reduced by 1400 points.\\n3. \"All your opponent's monsters\" means the monsters on your opponent's side of the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

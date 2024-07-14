@@ -1,0 +1,40 @@
+{
+  "id": 62980542,
+  "name": "Destruction of Destiny",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Sending 3 cards from the top of your Deck to the GY is part of the effect of “Destruction of Destiny”. It is not a cost.\n●If “Macro Cosmos” is on the field the 3 cards will be removed from play, but you will still take damage for any Spell or Trap Cards.\n●You cannot activate “Destruction of Destiny” if you have less than 3 cards in your Deck.\n●All the damage is dealt in a single sum. So if you send 3 Spell or Trap Cards you take 3000 damage, not 1000 damage three times.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Sending 3 cards from the top of your Deck to the GY is part of the effect of “Destruction of Destiny”. It isn't a cost.\n● If “Macro Cosmos” is on the field the 3 cards will be removed from play, but you will still take damage for any Spell/Trap Cards.\n● You can't activate “Destruction of Destiny” if you have less than 3 cards in your Deck.\n● All the damage is dealt in a single sum. So if you send 3 Spell/Trap Cards you take 3000 damage, not 1000 damage three times.",
+    "TeleDAD": "● Sending 3 cards from the top of your Deck to the GY is part of the effect of “Destruction of Destiny”. It isn't a cost.\n● If “Macro Cosmos” is on the field the 3 cards will be removed from play, but you will still take damage for any Spell/Trap Cards.\n● You can't activate “Destruction of Destiny” if you have less than 3 cards in your Deck.\n● All the damage is dealt in a single sum. So if you send 3 Spell/Trap Cards you take 3000 damage, not 1000 damage three times.",
+    "Gladiator": "● Sending 3 cards from the top of your Deck to the GY is part of the effect of “Destruction of Destiny”. It isn't a cost.\n● If “Macro Cosmos” is on the field the 3 cards will be removed from play, but you will still take damage for any Spell/Trap Cards.\n● You can't activate “Destruction of Destiny” if you have less than 3 cards in your Deck.\n● All the damage is dealt in a single sum. So if you send 3 Spell/Trap Cards you take 3000 damage, not 1000 damage three times.",
+    "ReturnDAD": "● Sending 3 cards from the top of your Deck to the GY is part of the effect of “Destruction of Destiny”. It isn't a cost.\n● If “Macro Cosmos” is on the field the 3 cards will be removed from play, but you will still take damage for any Spell/Trap Cards.\n● You can't activate “Destruction of Destiny” if you have less than 3 cards in your Deck.\n● All the damage is dealt in a single sum. So if you send 3 Spell/Trap Cards you take 3000 damage, not 1000 damage three times.",
+    "Trooper": "● Sending 3 cards from the top of your Deck to the GY is part of the effect of “Destruction of Destiny”. It isn't a cost.\n● If “Macro Cosmos” is on the field the 3 cards will be removed from play, but you will still take damage for any Spell/Trap Cards.\n● You can't activate “Destruction of Destiny” if you have less than 3 cards in your Deck.\n● All the damage is dealt in a single sum. So if you send 3 Spell/Trap Cards you take 3000 damage, not 1000 damage three times.",
+    "Circle": "● Sending 3 cards from the top of your Deck to the GY is part of the effect of “Destruction of Destiny”. It isn't a cost.\n● If “Macro Cosmos” is on the field the 3 cards will be removed from play, but you will still take damage for any Spell/Trap Cards.\n● You can't activate “Destruction of Destiny” if you have less than 3 cards in your Deck.\n● All the damage is dealt in a single sum. So if you send 3 Spell/Trap Cards you take 3000 damage, not 1000 damage three times.",
+    "Stein": "● Sending 3 cards from the top of your Deck to the GY is part of the effect of “Destruction of Destiny”. It isn't a cost.\n● If “Macro Cosmos” is on the field the 3 cards will be removed from play, but you will still take damage for any Spell/Trap Cards.\n● You can't activate “Destruction of Destiny” if you have less than 3 cards in your Deck.\n● All the damage is dealt in a single sum. So if you send 3 Spell/Trap Cards you take 3000 damage, not 1000 damage three times.",
+    "Base": "1. Sending 3 cards from the top of your Deck to the GY is part of the effect of \"Destruction of Destiny\". It is not a cost.\\n2. If \"Macro Cosmos\" is on the field the 3 cards will be removed from play, but you will still take damage for any Spell or Trap Cards.\\n3. You cannot activate \"Destruction of Destiny\" if you have less than 3 cards in your Deck.\\n4. All the damage is dealt in a single sum. So if you send 3 Spell or Trap Cards you take 3000 damage, not 1000 damage three times."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 85166216,
+  "name": "Elephant Statue of Blessing",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 0,
+    "level": 3,
+    "race": "Rock",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Elephant Statue of Blessing must be sent from the owner's hand to the owner's GY in order for its effect to activate.\n●Elephant Statue of Blessing's effect can be activated during the Damage Step.\n●Elephant Statue of Blessing's effect activates when sent from the hand to the GY by the effect of Last Turn or Chaos Emperor Dragon - Envoy of the End.",
+    "Goat": "●Elephant Statue of Blessing must be sent from the owner's hand to the owner's GY in order for its effect to activate.\n●Elephant Statue of Blessing's effect can be activated during the Damage Step.\n●Elephant Statue of Blessing's effect activates when sent from the hand to the GY by the effect of Last Turn or Chaos Emperor Dragon - Envoy of the End.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Elephant Statue of Blessing' must be sent from the owner's hand to the owner's GY in order for its effect to activate.\n● 'Elephant Statue of Blessing''s effect can be activated during the Damage Step.\n● 'Elephant Statue of Blessing''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'.",
+    "TeleDAD": "● 'Elephant Statue of Blessing' must be sent from the owner's hand to the owner's GY in order for its effect to activate.\n● 'Elephant Statue of Blessing''s effect can be activated during the Damage Step.\n● 'Elephant Statue of Blessing''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'.",
+    "Gladiator": "● 'Elephant Statue of Blessing' must be sent from the owner's hand to the owner's GY in order for its effect to activate.\n● 'Elephant Statue of Blessing''s effect can be activated during the Damage Step.\n● 'Elephant Statue of Blessing''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'.",
+    "ReturnDAD": "● 'Elephant Statue of Blessing' must be sent from the owner's hand to the owner's GY in order for its effect to activate.\n● 'Elephant Statue of Blessing''s effect can be activated during the Damage Step.\n● 'Elephant Statue of Blessing''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'.",
+    "Trooper": "● 'Elephant Statue of Blessing' must be sent from the owner's hand to the owner's GY in order for its effect to activate.\n● 'Elephant Statue of Blessing''s effect can be activated during the Damage Step.\n● 'Elephant Statue of Blessing''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'.",
+    "Circle": "● 'Elephant Statue of Blessing' must be sent from the owner's hand to the owner's GY in order for its effect to activate.\n● 'Elephant Statue of Blessing''s effect can be activated during the Damage Step.\n● 'Elephant Statue of Blessing''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'.",
+    "Stein": "● 'Elephant Statue of Blessing' must be sent from the owner's hand to the owner's GY in order for its effect to activate.\n● 'Elephant Statue of Blessing''s effect can be activated during the Damage Step.\n● 'Elephant Statue of Blessing''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'.",
+    "Base": "1. \"Elephant Statue of Blessing\" must be sent from the owner's hand to the owner's GY in order for its effect to activate.\\n2. The effect of \"Elephant Statue of Blessing\" can be activated during the Damage Step.\\n3. The effect of \"Elephant Statue of Blessing\" activates when sent from the hand to the GY by the effect of \"Last Turn\" or \"Chaos Emperor Dragon - Envoy of the End\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

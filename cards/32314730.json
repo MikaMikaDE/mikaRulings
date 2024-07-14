@@ -1,0 +1,44 @@
+{
+  "id": 32314730,
+  "name": "Koa'ki Meiru Crusader",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1900,
+    "def": 1300,
+    "level": 4,
+    "race": "Beast-Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle. \n● The Ⓜ in this card's text is a maintenance cost. It is not an effect, does not activate, and can't be negated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect targets 1 \"Koa'ki Meiru\" card in your GY.\\n2. If this card battles a monster with the same ATK and both are destroyed, its effect will activate."
+  },
+  "PSCT": {
+    "Tengu": "① If this card destroys an opponent's monster by battle: You can target 1 \"Koa'ki Meiru\" card in your GY;\nreturn it to your hand.\nⓂ During your End Phase, destroy this card unless you reveal 1 Beast-Warrior in your hand, \nor unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the GY.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

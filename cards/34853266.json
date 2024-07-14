@@ -1,0 +1,44 @@
+{
+  "id": 34853266,
+  "name": "Tsukuyomi",
+  "Stats": {
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "atk": 1100,
+    "def": 1400,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can select Tsukuyomi itself as the target of Tsukuyomi's effect, but not when Tsukuyomi was flipped face-up by an attack and destroyed by damage calculation.",
+    "Goat": "●You can select Tsukuyomi itself as the target of Tsukuyomi's effect, but not when Tsukuyomi was flipped face-up by an attack and destroyed by damage calculation.",
+    "HAT": "● The ① effect is not \"once per turn\". \nIf its activation is negated (EG by \"Light and Darkness Dragon\"), it will activate again. \nIf its effect is negated (EG by \"Fiendish Chain\"), it will not activate again.",
+    "Vegas": "● The ① effect is not \"once per turn\". \nIf its activation is negated (EG by \"Light and Darkness Dragon\"), it will activate again. \nIf its effect is negated (EG by \"Fiendish Chain\"), it will not activate again.",
+    "Meadowlands": "● The ① effect is not \"once per turn\". \nIf its activation is negated (EG by \"Light and Darkness Dragon\"), it will activate again. \nIf its effect is negated (EG by \"Fiendish Chain\"), it will not activate again.",
+    "FireWater": "● The ① effect is not \"once per turn\". \nIf its activation is negated (EG by \"Light and Darkness Dragon\"), it will activate again. \nIf its effect is negated (EG by \"Fiendish Chain\"), it will not activate again.",
+    "Cat": "● You can select 'Tsukuyomi' itself as the target of 'Tsukuyomi''s effect, but not when 'Tsukuyomi' was flipped face-up by an attack and destroyed by damage calculation.",
+    "TeleDAD": "● You can select 'Tsukuyomi' itself as the target of 'Tsukuyomi''s effect, but not when 'Tsukuyomi' was flipped face-up by an attack and destroyed by damage calculation.",
+    "Gladiator": "● You can select 'Tsukuyomi' itself as the target of 'Tsukuyomi''s effect, but not when 'Tsukuyomi' was flipped face-up by an attack and destroyed by damage calculation.",
+    "ReturnDAD": "● You can select 'Tsukuyomi' itself as the target of 'Tsukuyomi''s effect, but not when 'Tsukuyomi' was flipped face-up by an attack and destroyed by damage calculation.",
+    "Trooper": "● You can select 'Tsukuyomi' itself as the target of 'Tsukuyomi''s effect, but not when 'Tsukuyomi' was flipped face-up by an attack and destroyed by damage calculation.",
+    "Circle": "● You can select 'Tsukuyomi' itself as the target of 'Tsukuyomi''s effect, but not when 'Tsukuyomi' was flipped face-up by an attack and destroyed by damage calculation.",
+    "Stein": "● You can select 'Tsukuyomi' itself as the target of 'Tsukuyomi''s effect, but not when 'Tsukuyomi' was flipped face-up by an attack and destroyed by damage calculation.",
+    "Base": "1. You can select \"Tsukuyomi\" itself as the target of the effect of \"Tsukuyomi\", but not when \"Tsukuyomi\" was flipped face-up by an attack and destroyed by damage calculation.\\n2. The following rules apply to all Spirit Monsters:\\n3. Spirit is not a monster Type; you cannot declare \"Spirit\" for the effect of \"DNA Surgery\".\\n4. Spirit Monsters are still Effect Monsters.\\n5. A Spirit Monster must be face-up on the field during the End Phase for it to return to the owner's hand. If it was destroyed or removed from play, it will not return to the owner's hand.\\n6. A Spirit Monster will return to the owner's hand during the End Phase, even if the opponent played it from their hand (through the effect of \"Exchange\".)"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "Ⓢ Cannot be Special Summoned. \n① During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand.\n② When Normal Summoned/flipped-face-up: Target 1 face-up monster on the field; Set it.",
+    "Meadowlands": "Ⓢ Cannot be Special Summoned. \n① During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand.\n② When Normal Summoned/flipped-face-up: Target 1 face-up monster on the field; Set it.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 28577986,
+  "name": "Mermail Abyssocea",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1100,
+    "def": 1900,
+    "level": 3,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If you Summon \"Mermail Abysspike\", \"Mermail Abyssturge\", or \"Mermail Abyssdine\" with this effect, that card's \"When this card is Summoned\" effect will miss its timing.\n● If you only have 1 unoccupied monster zone when you activate this effect, you can only Summon 1 monster.",
+    "Vegas": "● If you Summon \"Mermail Abysspike\", \"Mermail Abyssturge\", or \"Mermail Abyssdine\" with this effect, that card's \"When this card is Summoned\" effect will miss its timing.\n● If you only have 1 unoccupied monster zone when you activate this effect, you can only Summon 1 monster.",
+    "Meadowlands": "● If you Summon \"Mermail Abysspike\", \"Mermail Abyssturge\", or \"Mermail Abyssdine\" with this effect, that card's \"When this card is Summoned\" effect will miss its timing.\n● If you only have 1 unoccupied monster zone when you activate this effect, you can only Summon 1 monster.",
+    "FireWater": "● If you Summon \"Mermail Abysspike\", \"Mermail Abyssturge\", or \"Mermail Abyssdine\" with this effect, that card's \"When this card is Summoned\" effect will miss its timing.\n● If you only have 1 unoccupied monster zone when you activate this effect, you can only Summon 1 monster.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① You can target 1 \"Mermail\" monster you control; \nSpecial Summon any number of Level 4 or lower \"Mermail\" monsters from your Deck, \nwhose combined Levels are less than or equal to that target's Level, then send that monster to the GY. \n(You can only use the effect of \"Mermail Abyssocea\" once per turn.)",
+    "Meadowlands": "① You can target 1 \"Mermail\" monster you control; \nSpecial Summon any number of Level 4 or lower \"Mermail\" monsters from your Deck, \nwhose combined Levels are less than or equal to that target's Level, then send that monster to the GY. \n(You can only use the effect of \"Mermail Abyssocea\" once per turn.)",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

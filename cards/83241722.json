@@ -1,0 +1,40 @@
+{
+  "id": 83241722,
+  "name": "Dice Re-Roll",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You activate Dice Re-Roll before you activate the effect which will let you roll a die. Then you can use the effect of Dice Re-Roll once during the turn in which you activated it. When you resolve the effect, you negate the result of a die roll and roll again.\n●You can use a Dice Re-Roll to re-roll a die roll for an Archfiend.\n●You can use a Dice Re-Roll to re-roll a die roll during the Damage Step.\n●If you negate Roulette Barrel's die roll, you negate both rolls and must roll twice again.",
+    "Goat": "●You activate Dice Re-Roll before you activate the effect which will let you roll a die. Then you can use the effect of Dice Re-Roll once during the turn in which you activated it. When you resolve the effect, you negate the result of a die roll and roll again.\n●You can use a Dice Re-Roll to re-roll a die roll for an Archfiend.\n●You can use a Dice Re-Roll to re-roll a die roll during the Damage Step.\n●If you negate Roulette Barrel's die roll, you negate both rolls and must roll twice again.\n●Q: Can you activate “Dice Re-Roll” in response to your opponent rolling a die? \nA: Dice Re-roll does not care why the dice roll was performed, either offensive or defensive. \n●Q: If an Archfiend monster is targeted by “Change of Heart” when is the proper time to activate “Dice Re-Roll”? \nA: You would activate Dice Re-roll in response to the Change of Heart. You would not wait until the Archfiend die roll. If you wait that long then you will already be resolving the chain, and at that point it would be too late to activate the Dice Re-roll. So you would want the chain to look like this: Change of Heart --> Dice Re-roll The Archfiend dice roll occurs when Change of Heart resolves. It does not add any steps into the chain. \n●Q: If “Dice Re-Roll’s” effect is used for the flip of “Dice Jar”, can you decide to re-roll your own and leave your opponent’s die roll? \nA: BOTH players would have to re-roll the die.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You activate 'Dice Re-Roll' before you activate the effect which will let you roll a die. Then you can use the effect of 'Dice Re-Roll' once during the turn in which you activated it. When you resolve the effect, you negate the result of a die roll and roll again.\n● You can use a 'Dice Re-Roll' to re-roll a die roll for an Archfiend.\n● You can use a 'Dice Re-Roll' to re-roll a die roll during the Damage Step.\n● If you negate 'Roulette Barrel''s die roll, you negate both rolls and must roll twice again.",
+    "TeleDAD": "● You activate 'Dice Re-Roll' before you activate the effect which will let you roll a die. Then you can use the effect of 'Dice Re-Roll' once during the turn in which you activated it. When you resolve the effect, you negate the result of a die roll and roll again.\n● You can use a 'Dice Re-Roll' to re-roll a die roll for an Archfiend.\n● You can use a 'Dice Re-Roll' to re-roll a die roll during the Damage Step.\n● If you negate 'Roulette Barrel''s die roll, you negate both rolls and must roll twice again.",
+    "Gladiator": "● You activate 'Dice Re-Roll' before you activate the effect which will let you roll a die. Then you can use the effect of 'Dice Re-Roll' once during the turn in which you activated it. When you resolve the effect, you negate the result of a die roll and roll again.\n● You can use a 'Dice Re-Roll' to re-roll a die roll for an Archfiend.\n● You can use a 'Dice Re-Roll' to re-roll a die roll during the Damage Step.\n● If you negate 'Roulette Barrel''s die roll, you negate both rolls and must roll twice again.",
+    "ReturnDAD": "● You activate 'Dice Re-Roll' before you activate the effect which will let you roll a die. Then you can use the effect of 'Dice Re-Roll' once during the turn in which you activated it. When you resolve the effect, you negate the result of a die roll and roll again.\n● You can use a 'Dice Re-Roll' to re-roll a die roll for an Archfiend.\n● You can use a 'Dice Re-Roll' to re-roll a die roll during the Damage Step.\n● If you negate 'Roulette Barrel''s die roll, you negate both rolls and must roll twice again.",
+    "Trooper": "● You activate 'Dice Re-Roll' before you activate the effect which will let you roll a die. Then you can use the effect of 'Dice Re-Roll' once during the turn in which you activated it. When you resolve the effect, you negate the result of a die roll and roll again.\n● You can use a 'Dice Re-Roll' to re-roll a die roll for an Archfiend.\n● You can use a 'Dice Re-Roll' to re-roll a die roll during the Damage Step.\n● If you negate 'Roulette Barrel''s die roll, you negate both rolls and must roll twice again.",
+    "Circle": "● You activate 'Dice Re-Roll' before you activate the effect which will let you roll a die. Then you can use the effect of 'Dice Re-Roll' once during the turn in which you activated it. When you resolve the effect, you negate the result of a die roll and roll again.\n● You can use a 'Dice Re-Roll' to re-roll a die roll for an Archfiend.\n● You can use a 'Dice Re-Roll' to re-roll a die roll during the Damage Step.\n● If you negate 'Roulette Barrel''s die roll, you negate both rolls and must roll twice again.",
+    "Stein": "● You activate 'Dice Re-Roll' before you activate the effect which will let you roll a die. Then you can use the effect of 'Dice Re-Roll' once during the turn in which you activated it. When you resolve the effect, you negate the result of a die roll and roll again.\n● You can use a 'Dice Re-Roll' to re-roll a die roll for an Archfiend.\n● You can use a 'Dice Re-Roll' to re-roll a die roll during the Damage Step.\n● If you negate 'Roulette Barrel''s die roll, you negate both rolls and must roll twice again.",
+    "Base": "1. You activate \"Dice Re-Roll\" before you activate the effect which will let you roll a die. Then you can use the effect of \"Dice Re-Roll\" once during the turn in which you activated it. When you resolve the effect, you negate the result of a die roll and roll again.\\n2. You can use a \"Dice Re-Roll\" to re-roll a die roll for an Archfiend.\\n3. You can use a \"Dice Re-Roll\" to re-roll a die roll during the Damage Step.\\n4. If you negate the die roll of \"Roulette Barrel\", you negate both rolls and must roll twice again."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

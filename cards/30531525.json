@@ -1,0 +1,40 @@
+{
+  "id": 30531525,
+  "name": "Enchanting Fitting Room",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you have no vacant monster zones, you cannot Special Summon with Enchanting Fitting Room. So the Level 3 or lower Normal Monsters that would be Special Summoned are sent to the GY instead. All other cards are still returned to the Deck and it is shuffled.\n●If you have some vacant Monster Card Zones, but not enough, select the monsters you wish to Summon with Enchanting Fitting Room and Special Summon them.",
+    "Goat": "●If you have no vacant monster zones, you cannot Special Summon with Enchanting Fitting Room. So the Lv 3 or lower Normal Monsters that would be Special Summoned are sent to the GY instead. All other cards are still returned to the Deck and it is shuffled.\n●If you have some vacant Monster Zones, but not enough, select the monsters you wish to Summon with Enchanting Fitting Room and Special Summon them.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have no vacant monster zones, you can't Special Summon with 'Enchanting Fitting Room'. So the LV 3 or lower Normal Monsters that would be Special Summoned are sent to the GY instead. All other cards are still returned to the Deck and it is shuffled.\n● If you have some vacant Monster Card Zones, but not enough, select the monsters you wish to Summon with 'Enchanting Fitting Room' and Special Summon them.",
+    "TeleDAD": "● If you have no vacant monster zones, you can't Special Summon with 'Enchanting Fitting Room'. So the LV 3 or lower Normal Monsters that would be Special Summoned are sent to the GY instead. All other cards are still returned to the Deck and it is shuffled.\n● If you have some vacant Monster Card Zones, but not enough, select the monsters you wish to Summon with 'Enchanting Fitting Room' and Special Summon them.",
+    "Gladiator": "● If you have no vacant monster zones, you can't Special Summon with 'Enchanting Fitting Room'. So the LV 3 or lower Normal Monsters that would be Special Summoned are sent to the GY instead. All other cards are still returned to the Deck and it is shuffled.\n● If you have some vacant Monster Card Zones, but not enough, select the monsters you wish to Summon with 'Enchanting Fitting Room' and Special Summon them.",
+    "ReturnDAD": "● If you have no vacant monster zones, you can't Special Summon with 'Enchanting Fitting Room'. So the LV 3 or lower Normal Monsters that would be Special Summoned are sent to the GY instead. All other cards are still returned to the Deck and it is shuffled.\n● If you have some vacant Monster Card Zones, but not enough, select the monsters you wish to Summon with 'Enchanting Fitting Room' and Special Summon them.",
+    "Trooper": "● If you have no vacant monster zones, you can't Special Summon with 'Enchanting Fitting Room'. So the LV 3 or lower Normal Monsters that would be Special Summoned are sent to the GY instead. All other cards are still returned to the Deck and it is shuffled.\n● If you have some vacant Monster Card Zones, but not enough, select the monsters you wish to Summon with 'Enchanting Fitting Room' and Special Summon them.",
+    "Circle": "● If you have no vacant monster zones, you can't Special Summon with 'Enchanting Fitting Room'. So the LV 3 or lower Normal Monsters that would be Special Summoned are sent to the GY instead. All other cards are still returned to the Deck and it is shuffled.\n● If you have some vacant Monster Card Zones, but not enough, select the monsters you wish to Summon with 'Enchanting Fitting Room' and Special Summon them.",
+    "Stein": "● If you have no vacant monster zones, you can't Special Summon with 'Enchanting Fitting Room'. So the LV 3 or lower Normal Monsters that would be Special Summoned are sent to the GY instead. All other cards are still returned to the Deck and it is shuffled.\n● If you have some vacant Monster Card Zones, but not enough, select the monsters you wish to Summon with 'Enchanting Fitting Room' and Special Summon them.",
+    "Base": "1. If you have no vacant monster zones, you cannot Special Summon with \"Enchanting Fitting Room\". So the Level 3 or lower Normal Monsters that would be Special Summoned are sent to the GY instead. All other cards are still returned to the Deck and it is shuffled.\\n2. If you have some vacant Monster Card Zones, but not enough, select the monsters you wish to Summon with \"Enchanting Fitting Room\" and Special Summon them."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

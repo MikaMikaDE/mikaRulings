@@ -1,0 +1,44 @@
+{
+  "id": 80233946,
+  "name": "Gora Turtle",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1100,
+    "def": 1100,
+    "level": 3,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●If a face-down Gora Turtle is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\n●If Gora Turtle is face-up on your side of the field, and your opponent’s monster’s ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\n●If the ATK of Gora Turtle is higher than 1899, it cannot attack either.",
+    "Goat": "●If a face-down Gora Turtle is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\n●If Gora Turtle is face-up on your side of the field, and your opponent’s monster’s ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\n●If the ATK of Gora Turtle is higher than 1899, it cannot attack either.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If a face-down 'Gora Turtle' is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\n● If 'Gora Turtle' is face-up on your side of the field, and your opponent’s monster’s ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\n● If the ATK of 'Gora Turtle' is higher than 1899, it can't attack either.",
+    "TeleDAD": "● If a face-down 'Gora Turtle' is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\n● If 'Gora Turtle' is face-up on your side of the field, and your opponent’s monster’s ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\n● If the ATK of 'Gora Turtle' is higher than 1899, it can't attack either.",
+    "Gladiator": "● If a face-down 'Gora Turtle' is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\n● If 'Gora Turtle' is face-up on your side of the field, and your opponent’s monster’s ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\n● If the ATK of 'Gora Turtle' is higher than 1899, it can't attack either.",
+    "ReturnDAD": "● If a face-down 'Gora Turtle' is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\n● If 'Gora Turtle' is face-up on your side of the field, and your opponent’s monster’s ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\n● If the ATK of 'Gora Turtle' is higher than 1899, it can't attack either.",
+    "Trooper": "● If a face-down 'Gora Turtle' is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\n● If 'Gora Turtle' is face-up on your side of the field, and your opponent’s monster’s ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\n● If the ATK of 'Gora Turtle' is higher than 1899, it can't attack either.",
+    "Circle": "● If a face-down 'Gora Turtle' is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\n● If 'Gora Turtle' is face-up on your side of the field, and your opponent’s monster’s ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\n● If the ATK of 'Gora Turtle' is higher than 1899, it can't attack either.",
+    "Stein": "● If a face-down 'Gora Turtle' is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\n● If 'Gora Turtle' is face-up on your side of the field, and your opponent’s monster’s ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\n● If the ATK of 'Gora Turtle' is higher than 1899, it can't attack either.",
+    "Base": "1. If a face-down \"Gora Turtle\" is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\\n2. If \"Gora Turtle\" is face-up on your side of the field, and your opponent's monster's ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\\n3. If the ATK of \"Gora Turtle\" is higher than 1899, it cannot attack either."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

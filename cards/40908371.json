@@ -1,0 +1,44 @@
+{
+  "id": 40908371,
+  "name": "Azure-Eyes Silver Dragon",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2500,
+    "def": 3000,
+    "level": 9,
+    "race": "Dragon",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● As long as the ① has already resolved, it can't later be negated, and continues applying even if this card leaves the field.\n● If one of those monsters affected by the ① is flipped face-down or leaves the field, the ① no longer applies to it.",
+    "Vegas": "● As long as the ① has already resolved, it can't later be negated, and continues applying even if this card leaves the field.\n● If one of those monsters affected by the ① is flipped face-down or leaves the field, the ① no longer applies to it.",
+    "Meadowlands": "● As long as the ① has already resolved, it can't later be negated, and continues applying even if this card leaves the field.\n● If one of those monsters affected by the ① is flipped face-down or leaves the field, the ① no longer applies to it.",
+    "FireWater": "● As long as the ① has already resolved, it can't later be negated, and continues applying even if this card leaves the field.\n● If one of those monsters affected by the ① is flipped face-down or leaves the field, the ① no longer applies to it.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "1 Tuner + 1 or more non-Tuner Normal Monsters\n① If this card is Special Summoned: Until the end of the next turn, \nneither player can target Dragons you currently control with card effects, \nalso they cannot be destroyed by card effects. \n② Once per turn, during your Standby Phase: You can target 1 Normal Monster in your GY; \nSpecial Summon it.",
+    "Meadowlands": "1 Tuner + 1 or more non-Tuner Normal Monsters\n① If this card is Special Summoned: Until the end of the next turn, \nneither player can target Dragons you currently control with card effects, \nalso they cannot be destroyed by card effects. \n② Once per turn, during your Standby Phase: You can target 1 Normal Monster in your GY; \nSpecial Summon it.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

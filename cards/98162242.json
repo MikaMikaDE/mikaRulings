@@ -1,0 +1,44 @@
+{
+  "id": 98162242,
+  "name": "Needle Burrower",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 1700,
+    "level": 5,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●The Level of the destroyed monster is the original Level.\n●You can use Barrel Behind the Door against Needle Burrower's effect.",
+    "Goat": "●The Lv of the destroyed monster is the original Level.\n●You can use Barrel Behind the Door against Needle Burrower's effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'Needle Burrower''s effect.",
+    "TeleDAD": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'Needle Burrower''s effect.",
+    "Gladiator": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'Needle Burrower''s effect.",
+    "ReturnDAD": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'Needle Burrower''s effect.",
+    "Trooper": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'Needle Burrower''s effect.",
+    "Circle": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'Needle Burrower''s effect.",
+    "Stein": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'Needle Burrower''s effect.",
+    "Base": "1. The Level of the destroyed monster is the original Level.\\n2. You can use \"Barrel Behind the Door\" against the effect of \"Needle Burrower\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

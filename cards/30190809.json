@@ -1,0 +1,44 @@
+{
+  "id": 30190809,
+  "name": "Gear Golem the Moving Fortress",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 2200,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot activate this card's effect during your opponent's turn or during Main Phase 2.\n●You can only activate this card's effect once per turn.\n●If you activate & resolve this card's effect and then Skill Drain is activated, you can still attack directly because Gear Golem the Moving Fortress's effect is already applied and it's still applied even if Skill Drain is activated.",
+    "Goat": "●You cannot activate this card's effect during your opponent's turn or during MP 2.\n●You can only activate this card's effect once per turn.\n●If you activate & resolve this card's effect and then Skill Drain is activated, you can still attack directly because Gear Golem the Moving Fortress's effect is already applied and it's still applied even if Skill Drain is activated.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate this card's effect during your opponent's turn or during Main Phase 2.\n● You can only activate this card's effect once per turn.\n● If you activate & resolve this card's effect and then 'Skill Drain' is activated, you can still attack directly because 'Gear Golem the Moving Fortress''s effect is already applied and it's still applied even if 'Skill Drain' is activated.",
+    "TeleDAD": "● You can't activate this card's effect during your opponent's turn or during Main Phase 2.\n● You can only activate this card's effect once per turn.\n● If you activate & resolve this card's effect and then 'Skill Drain' is activated, you can still attack directly because 'Gear Golem the Moving Fortress''s effect is already applied and it's still applied even if 'Skill Drain' is activated.",
+    "Gladiator": "● You can't activate this card's effect during your opponent's turn or during Main Phase 2.\n● You can only activate this card's effect once per turn.\n● If you activate & resolve this card's effect and then 'Skill Drain' is activated, you can still attack directly because 'Gear Golem the Moving Fortress''s effect is already applied and it's still applied even if 'Skill Drain' is activated.",
+    "ReturnDAD": "● You can't activate this card's effect during your opponent's turn or during Main Phase 2.\n● You can only activate this card's effect once per turn.\n● If you activate & resolve this card's effect and then 'Skill Drain' is activated, you can still attack directly because 'Gear Golem the Moving Fortress''s effect is already applied and it's still applied even if 'Skill Drain' is activated.",
+    "Trooper": "● You can't activate this card's effect during your opponent's turn or during Main Phase 2.\n● You can only activate this card's effect once per turn.\n● If you activate & resolve this card's effect and then 'Skill Drain' is activated, you can still attack directly because 'Gear Golem the Moving Fortress''s effect is already applied and it's still applied even if 'Skill Drain' is activated.",
+    "Circle": "● You can't activate this card's effect during your opponent's turn or during Main Phase 2.\n● You can only activate this card's effect once per turn.\n● If you activate & resolve this card's effect and then 'Skill Drain' is activated, you can still attack directly because 'Gear Golem the Moving Fortress''s effect is already applied and it's still applied even if 'Skill Drain' is activated.",
+    "Stein": "● You can't activate this card's effect during your opponent's turn or during Main Phase 2.\n● You can only activate this card's effect once per turn.\n● If you activate & resolve this card's effect and then 'Skill Drain' is activated, you can still attack directly because 'Gear Golem the Moving Fortress''s effect is already applied and it's still applied even if 'Skill Drain' is activated.",
+    "Base": "1. You cannot activate this card's effect during your opponent's turn or during Main Phase 2.\\n2. You can only activate this card's effect once per turn.\\n3. If you activate & resolve this card's effect and then \"Skill Drain\" is activated, you can still attack directly because the effect of \"Gear Golem the Moving Fortress\" is already applied and it's still applied even if \"Skill Drain\" is activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

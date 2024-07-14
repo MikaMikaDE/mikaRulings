@@ -1,0 +1,44 @@
+{
+  "id": 34193084,
+  "name": "Fear from the Dark",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 1500,
+    "level": 4,
+    "race": "Zombie",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Fear from the Dark can be Normal Summoned.\n●Only the owner of Fear from the Dark can use its effect, because it has to be sent from your hand to your GY.\n●When you discard Fear from the Dark with Painful Choice, Fear from the Dark's effect does not activate because it was your own card effect that caused it.\n●If Fear from the Dark is sent to the GY during a card effect's resolution, or during a chain, activate Fear from the Dark's effect after the current effect or chain has resolved.\n●If Fear from the Dark is sent to the GY by Last Turn's effect, Fear from the Dark is Special Summoned to the field before the attack of Last Turn happens.",
+    "Goat": "●Fear from the Dark can be Normal Summoned.\n●Only the owner of Fear from the Dark can use its effect, because it has to be sent from your hand to your GY.\n●When you discard Fear from the Dark with Painful Choice, Fear from the Dark's effect does not activate because it was your own card effect that caused it.\n●If Fear from the Dark is sent to the GY during a card effect's resolution, or during a chain, activate Fear from the Dark's effect after the current effect or chain has resolved.\n●If Fear from the Dark is sent to the GY by Last Turn's effect, Fear from the Dark is Special Summoned to the field before the attack of Last Turn happens.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Fear from the Dark' can be Normal Summoned.\n● Only the owner of 'Fear from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Fear from the Dark' with 'Painful Choice', 'Fear from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Fear from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Fear from the Dark''s effect after the current effect or chain has resolved.\n● If 'Fear from the Dark' is sent to the GY by 'Last Turn''s effect, 'Fear from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "TeleDAD": "● 'Fear from the Dark' can be Normal Summoned.\n● Only the owner of 'Fear from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Fear from the Dark' with 'Painful Choice', 'Fear from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Fear from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Fear from the Dark''s effect after the current effect or chain has resolved.\n● If 'Fear from the Dark' is sent to the GY by 'Last Turn''s effect, 'Fear from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "Gladiator": "● 'Fear from the Dark' can be Normal Summoned.\n● Only the owner of 'Fear from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Fear from the Dark' with 'Painful Choice', 'Fear from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Fear from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Fear from the Dark''s effect after the current effect or chain has resolved.\n● If 'Fear from the Dark' is sent to the GY by 'Last Turn''s effect, 'Fear from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "ReturnDAD": "● 'Fear from the Dark' can be Normal Summoned.\n● Only the owner of 'Fear from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Fear from the Dark' with 'Painful Choice', 'Fear from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Fear from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Fear from the Dark''s effect after the current effect or chain has resolved.\n● If 'Fear from the Dark' is sent to the GY by 'Last Turn''s effect, 'Fear from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "Trooper": "● 'Fear from the Dark' can be Normal Summoned.\n● Only the owner of 'Fear from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Fear from the Dark' with 'Painful Choice', 'Fear from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Fear from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Fear from the Dark''s effect after the current effect or chain has resolved.\n● If 'Fear from the Dark' is sent to the GY by 'Last Turn''s effect, 'Fear from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "Circle": "● 'Fear from the Dark' can be Normal Summoned.\n● Only the owner of 'Fear from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Fear from the Dark' with 'Painful Choice', 'Fear from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Fear from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Fear from the Dark''s effect after the current effect or chain has resolved.\n● If 'Fear from the Dark' is sent to the GY by 'Last Turn''s effect, 'Fear from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "Stein": "● 'Fear from the Dark' can be Normal Summoned.\n● Only the owner of 'Fear from the Dark' can use its effect, because it has to be sent from your hand to your GY.\n● When you discard 'Fear from the Dark' with 'Painful Choice', 'Fear from the Dark''s effect does not activate because it was your own card effect that caused it.\n● If 'Fear from the Dark' is sent to the GY during a card effect's resolution, or during a chain, activate 'Fear from the Dark''s effect after the current effect or chain has resolved.\n● If 'Fear from the Dark' is sent to the GY by 'Last Turn''s effect, 'Fear from the Dark' is Special Summoned to the field before the attack of 'Last Turn' happens.",
+    "Base": "1. \"Fear from the Dark\" can be Normal Summoned.\\n2. Only the owner of \"Fear from the Dark\" can use its effect, because it has to be sent from your hand to your GY.\\n3. When you discard \"Fear from the Dark\" with \"Painful Choice\", the effect of \"Fear from the Dark\" does not activate because it was your own card effect that caused it.\\n4. If \"Fear from the Dark\" is sent to the GY during a card effect's resolution, or during a chain, activate the effect of \"Fear from the Dark\" after the current effect or chain has resolved.\\n5. If \"Fear from the Dark\" is sent to the GY by the effect of \"Last Turn\", \"Fear from the Dark\" is Special Summoned to the field before the attack of \"Last Turn\" happens."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

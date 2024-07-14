@@ -1,0 +1,44 @@
+{
+  "id": 32679370,
+  "name": "Hero Kid",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 600,
+    "level": 2,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If “Hero Kid” is Special Summoned during the Damage Step, you can activate its effect and Special Summon 1 or 2 “Hero Kids” from your Deck.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “Hero Kid” is Special Summoned during the Damage Step, you can activate its effect and Special Summon 1 or 2 “Hero Kids” from your Deck.",
+    "TeleDAD": "● If “Hero Kid” is Special Summoned during the Damage Step, you can activate its effect and Special Summon 1 or 2 “Hero Kids” from your Deck.",
+    "Gladiator": "● If “Hero Kid” is Special Summoned during the Damage Step, you can activate its effect and Special Summon 1 or 2 “Hero Kids” from your Deck.",
+    "ReturnDAD": "● If “Hero Kid” is Special Summoned during the Damage Step, you can activate its effect and Special Summon 1 or 2 “Hero Kids” from your Deck.",
+    "Trooper": "● If “Hero Kid” is Special Summoned during the Damage Step, you can activate its effect and Special Summon 1 or 2 “Hero Kids” from your Deck.",
+    "Circle": "● If “Hero Kid” is Special Summoned during the Damage Step, you can activate its effect and Special Summon 1 or 2 “Hero Kids” from your Deck.",
+    "Stein": "● If “Hero Kid” is Special Summoned during the Damage Step, you can activate its effect and Special Summon 1 or 2 “Hero Kids” from your Deck.",
+    "Base": "1. If \"Hero Kid\" is Special Summoned during the Damage Step, you can activate its effect and Special Summon 1 or 2 copies of \"Hero Kid\" from your Deck."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

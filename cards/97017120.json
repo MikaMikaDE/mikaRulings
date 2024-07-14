@@ -1,0 +1,44 @@
+{
+  "id": 97017120,
+  "name": "Giant Rat",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 1450,
+    "level": 4,
+    "race": "Beast",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "● This effect activates in the Damage Step, so it can never be negated by \"Royal Oppression\". \nCards like \"Bottomless Trap Hole\" and \"Torrential Tribute\" can never be used in response to this Summon.",
+    "Goat": "●If you attack with your Giant Rat and it is destroyed by battle, you may attack with the monster Special Summoned by Giant Rat before entering MP 2.\n●If your opponent controls your Giant Rat and it is destroyed by battle, you get the effect of Giant Rat NOT your opponent.\n●Since the Special Summoning occurs during the Damage Step, Torrential Tribute, etc. cannot be used.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you attack with your 'Giant Rat' and it is destroyed as a result of battle, you may attack with the monster Special Summoned by 'Giant Rat' before entering Main Phase 2.\n● If your opponent controls your 'Giant Rat' and it is destroyed as a result of battle, you get the effect of 'Giant Rat' NOT your opponent.\n● Since the Special Summoning occurs during the Damage Step, 'Torrential Tribute', etc. can't be used.",
+    "TeleDAD": "● If you attack with your 'Giant Rat' and it is destroyed as a result of battle, you may attack with the monster Special Summoned by 'Giant Rat' before entering Main Phase 2.\n● If your opponent controls your 'Giant Rat' and it is destroyed as a result of battle, you get the effect of 'Giant Rat' NOT your opponent.\n● Since the Special Summoning occurs during the Damage Step, 'Torrential Tribute', etc. can't be used.",
+    "Gladiator": "● If you attack with your 'Giant Rat' and it is destroyed as a result of battle, you may attack with the monster Special Summoned by 'Giant Rat' before entering Main Phase 2.\n● If your opponent controls your 'Giant Rat' and it is destroyed as a result of battle, you get the effect of 'Giant Rat' NOT your opponent.\n● Since the Special Summoning occurs during the Damage Step, 'Torrential Tribute', etc. can't be used.",
+    "ReturnDAD": "● If you attack with your 'Giant Rat' and it is destroyed as a result of battle, you may attack with the monster Special Summoned by 'Giant Rat' before entering Main Phase 2.\n● If your opponent controls your 'Giant Rat' and it is destroyed as a result of battle, you get the effect of 'Giant Rat' NOT your opponent.\n● Since the Special Summoning occurs during the Damage Step, 'Torrential Tribute', etc. can't be used.",
+    "Trooper": "● If you attack with your 'Giant Rat' and it is destroyed as a result of battle, you may attack with the monster Special Summoned by 'Giant Rat' before entering Main Phase 2.\n● If your opponent controls your 'Giant Rat' and it is destroyed as a result of battle, you get the effect of 'Giant Rat' NOT your opponent.\n● Since the Special Summoning occurs during the Damage Step, 'Torrential Tribute', etc. can't be used.",
+    "Circle": "● If you attack with your 'Giant Rat' and it is destroyed as a result of battle, you may attack with the monster Special Summoned by 'Giant Rat' before entering Main Phase 2.\n● If your opponent controls your 'Giant Rat' and it is destroyed as a result of battle, you get the effect of 'Giant Rat' NOT your opponent.\n● Since the Special Summoning occurs during the Damage Step, 'Torrential Tribute', etc. can't be used.",
+    "Stein": "● If you attack with your 'Giant Rat' and it is destroyed as a result of battle, you may attack with the monster Special Summoned by 'Giant Rat' before entering Main Phase 2.\n● If your opponent controls your 'Giant Rat' and it is destroyed as a result of battle, you get the effect of 'Giant Rat' NOT your opponent.\n● Since the Special Summoning occurs during the Damage Step, 'Torrential Tribute', etc. can't be used.",
+    "Base": "1. If you attack with your \"Giant Rat\" and it is destroyed as a result of battle, you may attack with the monster Special Summoned by \"Giant Rat\" before entering Main Phase 2.\\n2. If your opponent controls your \"Giant Rat\" and it is destroyed as a result of battle, you get the effect of \"Giant Rat\" NOT your opponent.\\n3. Since the Special Summoning occurs during the Damage Step, \"Torrential Tribute\", etc. cannot be used."
+  },
+  "PSCT": {
+    "Tengu": "① If destroyed by battle and sent to the GY:\nYou can Special Summon 1 EARTH with 1500 or less ATK from your Deck, in Attack Position.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

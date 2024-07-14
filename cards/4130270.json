@@ -1,0 +1,44 @@
+{
+  "id": 4130270,
+  "name": "G.B. Hunter",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 2000,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●While “G.B. Hunter” is in play, you cannot activate effects that would return monsters to the Extra Deck, such as “De-Fusion,” “De-Synchro,” or “Compulsory Evacuation Device” targeting a Fusion or Synchro Monster.\n●If “G.B. Hunter” and “Grave Protector” are both active, monsters destroyed by battle cannot return to the Deck, so they go to the GY instead.\n●If “G.B. Hunter” is active, you cannot activate “Chain Healing” as Chain Link 2 or 3.\n●If “G.B. Hunter” is active and “Morphing Jar #2’s” Flip Effect is activated, it will activate but the effect will not be applied.\n●If “G.B. Hunter” is active, the first effect of “Storm Caller” cannot be used. If “G.B. Hunter” is active, the effect of “Mystic Swordsman LV6” can be used to automatically destroy a monster that it attacks. But you cannot activate the effect to return that monster to the Deck.\n●If “G.B. Hunter” is active, you cannot activate “Bait Doll” or “The Mask of Remnants.”",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. While \"G.B. Hunter\" is in play, you cannot activate effects that would return monsters to the Extra Deck, such as \"De-Fusion\", \"De-Synchro\", or \"Compulsory Evacuation Device\" targeting a Fusion or Synchro Monster.\\n2. If \"G.B. Hunter\" and \"Grave Protector\" are both active, monsters destroyed by battle cannot return to the Deck, so they go to the GY instead.\\n3. If \"G.B. Hunter\" is active, you cannot activate \"Chain Healing\" as Chain Link 2 or 3.\\n4. If \"G.B. Hunter\" is active and the Flip Effect of \"Morphing Jar #2\" is activated, it will activate but the effect will not be applied.\\n5. If \"G.B. Hunter\" is active, the first effect of \"Storm Caller\" cannot be used.\\n6. If \"G.B. Hunter\" is active, the effect of \"Mystic Swordsman LV6\" can be used to automatically destroy a monster that it attacks. But you cannot activate the effect to return that monster to the Deck.\\n7. If \"G.B. Hunter\" is active, you cannot activate \"Bait Doll\" or \"The Mask of Remnants\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

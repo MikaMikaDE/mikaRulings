@@ -1,0 +1,44 @@
+{
+  "id": 5257687,
+  "name": "Jowls of Dark Demise",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 200,
+    "def": 100,
+    "level": 2,
+    "race": "Fiend",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●When Jowls of Dark Demise is flipped and its effect activates during your opponent's turn, it ends at the end of your opponent's turn. You take control of a monster, but can’t attack with it because it isn’t your turn.\n●You can take control of a face-down monster with Jowls of Dark Demise.\n●You can Tribute a monster you took control of with Jowls of Dark Demise. .\n●If you take control of a Union Monster with Jowls of Dark Demise, and equip it to your monster, control of the Union Monster Card does not return to your opponent at the end of the turn because it is an Equip Spell Card.",
+    "Goat": "●When Jowls of Dark Demise is flipped and its effect activates during your opponent's turn, it ends at the end of your opponent's turn. You take control of a monster, but can’t attack with it because it isn’t your turn.\n●You can take control of a face-down monster with Jowls of Dark Demise.\n●You can Tribute a monster you took control of with Jowls of Dark Demise.\n●If you take control of a Union Monster with Jowls of Dark Demise, and equip it to your monster, control of the Union Monster Card does not return to your opponent at the end of the turn because it is an Equip Spell Card.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Jowls of Dark Demise' is flipped and its effect activates during your opponent's turn, it ends at the end of your opponent's turn. You take control of a monster, but can’t attack with it because it isn’t your turn.\n● You can take control of a face-down monster with 'Jowls of Dark Demise'.\n● You can Tribute a monster you took control of with 'Jowls of Dark Demise'..If you take control of a Union Monster with 'Jowls of Dark Demise', and equip it to your monster, control of the Union Monster Card does not return to your opponent at the end of the turn because it is an Equip Spell Card.",
+    "TeleDAD": "● When 'Jowls of Dark Demise' is flipped and its effect activates during your opponent's turn, it ends at the end of your opponent's turn. You take control of a monster, but can’t attack with it because it isn’t your turn.\n● You can take control of a face-down monster with 'Jowls of Dark Demise'.\n● You can Tribute a monster you took control of with 'Jowls of Dark Demise'..If you take control of a Union Monster with 'Jowls of Dark Demise', and equip it to your monster, control of the Union Monster Card does not return to your opponent at the end of the turn because it is an Equip Spell Card.",
+    "Gladiator": "● When 'Jowls of Dark Demise' is flipped and its effect activates during your opponent's turn, it ends at the end of your opponent's turn. You take control of a monster, but can’t attack with it because it isn’t your turn.\n● You can take control of a face-down monster with 'Jowls of Dark Demise'.\n● You can Tribute a monster you took control of with 'Jowls of Dark Demise'..If you take control of a Union Monster with 'Jowls of Dark Demise', and equip it to your monster, control of the Union Monster Card does not return to your opponent at the end of the turn because it is an Equip Spell Card.",
+    "ReturnDAD": "● When 'Jowls of Dark Demise' is flipped and its effect activates during your opponent's turn, it ends at the end of your opponent's turn. You take control of a monster, but can’t attack with it because it isn’t your turn.\n● You can take control of a face-down monster with 'Jowls of Dark Demise'.\n● You can Tribute a monster you took control of with 'Jowls of Dark Demise'..If you take control of a Union Monster with 'Jowls of Dark Demise', and equip it to your monster, control of the Union Monster Card does not return to your opponent at the end of the turn because it is an Equip Spell Card.",
+    "Trooper": "● When 'Jowls of Dark Demise' is flipped and its effect activates during your opponent's turn, it ends at the end of your opponent's turn. You take control of a monster, but can’t attack with it because it isn’t your turn.\n● You can take control of a face-down monster with 'Jowls of Dark Demise'.\n● You can Tribute a monster you took control of with 'Jowls of Dark Demise'..If you take control of a Union Monster with 'Jowls of Dark Demise', and equip it to your monster, control of the Union Monster Card does not return to your opponent at the end of the turn because it is an Equip Spell Card.",
+    "Circle": "● When 'Jowls of Dark Demise' is flipped and its effect activates during your opponent's turn, it ends at the end of your opponent's turn. You take control of a monster, but can’t attack with it because it isn’t your turn.\n● You can take control of a face-down monster with 'Jowls of Dark Demise'.\n● You can Tribute a monster you took control of with 'Jowls of Dark Demise'..If you take control of a Union Monster with 'Jowls of Dark Demise', and equip it to your monster, control of the Union Monster Card does not return to your opponent at the end of the turn because it is an Equip Spell Card.",
+    "Stein": "● When 'Jowls of Dark Demise' is flipped and its effect activates during your opponent's turn, it ends at the end of your opponent's turn. You take control of a monster, but can’t attack with it because it isn’t your turn.\n● You can take control of a face-down monster with 'Jowls of Dark Demise'.\n● You can Tribute a monster you took control of with 'Jowls of Dark Demise'..If you take control of a Union Monster with 'Jowls of Dark Demise', and equip it to your monster, control of the Union Monster Card does not return to your opponent at the end of the turn because it is an Equip Spell Card.",
+    "Base": "1. When \"Jowls of Dark Demise\" is flipped and its effect activates during your opponent's turn, it ends at the end of your opponent's turn. You take control of a monster, but can't attack with it because it isn't your turn.\\n2. You can take control of a face-down monster with \"Jowls of Dark Demise\".\\n3. You can Tribute a monster you took control of with \"Jowls of Dark Demise\".\\n4. .\\n5. If you take control of a Union Monster with \"Jowls of Dark Demise\", and equip it to your monster, control of the Union Monster Card does not return to your opponent at the end of the turn because it is an Equip Spell Card."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

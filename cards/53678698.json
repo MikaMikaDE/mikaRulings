@@ -1,0 +1,44 @@
+{
+  "id": 53678698,
+  "name": "Bujin Mikazuchi",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1900,
+    "def": 1500,
+    "level": 4,
+    "race": "Beast-Warrior",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings currently available.",
+    "Vegas": "No rulings currently available.",
+    "Meadowlands": "No rulings currently available.",
+    "FireWater": "No rulings currently available.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① When a Beast-Warrior \"Bujin\" monster(s) you control is destroyed (by battle/effect) and sent to a GY: \nYou can Special Summon this card from your hand. \n② Once per turn, during the End Phase, if a \"Bujin\" monster(s) was sent from your hand to your GY this turn while you controlled this face-up card: \nYou can add 1 \"Bujin\" Spell/Trap from your Deck to your hand. \n③ You can only control 1 \"Bujin Mikazuchi\".",
+    "Meadowlands": "① When a Beast-Warrior \"Bujin\" monster(s) you control is destroyed (by battle/effect) and sent to a GY: \nYou can Special Summon this card from your hand. \n② Once per turn, during the End Phase, if a \"Bujin\" monster(s) was sent from your hand to your GY this turn while you controlled this face-up card: \nYou can add 1 \"Bujin\" Spell/Trap from your Deck to your hand. \n③ You can only control 1 \"Bujin Mikazuchi\".",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 50957346,
+  "name": "Raging Earth",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2000,
+    "def": 1500,
+    "level": 7,
+    "race": "Reptile",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card’s effect will destroy “Elemental Mistress Doriado”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s effect will destroy “Elemental Mistress Doriado”.",
+    "TeleDAD": "● This card’s effect will destroy “Elemental Mistress Doriado”.",
+    "Gladiator": "● This card’s effect will destroy “Elemental Mistress Doriado”.",
+    "ReturnDAD": "● This card’s effect will destroy “Elemental Mistress Doriado”.",
+    "Trooper": "● This card’s effect will destroy “Elemental Mistress Doriado”.",
+    "Circle": "● This card’s effect will destroy “Elemental Mistress Doriado”.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card's effect will destroy \"Elemental Mistress Doriado\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

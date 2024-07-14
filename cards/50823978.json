@@ -1,0 +1,44 @@
+{
+  "id": 50823978,
+  "name": "Piranha Army",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 200,
+    "level": 2,
+    "race": "Fish",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●The Battle Damage doubled by Piranha Army's effect is still considered Battle Damage (not effect damage).",
+    "Goat": "●The Battle Damage doubled by Piranha Army's effect is still considered Battle Damage (not effect damage).",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The Battle Damage doubled by 'Piranha Army''s effect is still considered Battle Damage (not effect damage).",
+    "TeleDAD": "● The Battle Damage doubled by 'Piranha Army''s effect is still considered Battle Damage (not effect damage).",
+    "Gladiator": "● The Battle Damage doubled by 'Piranha Army''s effect is still considered Battle Damage (not effect damage).",
+    "ReturnDAD": "● The Battle Damage doubled by 'Piranha Army''s effect is still considered Battle Damage (not effect damage).",
+    "Trooper": "● The Battle Damage doubled by 'Piranha Army''s effect is still considered Battle Damage (not effect damage).",
+    "Circle": "● The Battle Damage doubled by 'Piranha Army''s effect is still considered Battle Damage (not effect damage).",
+    "Stein": "● The Battle Damage doubled by 'Piranha Army''s effect is still considered Battle Damage (not effect damage).",
+    "Base": "1. The Battle Damage doubled by the effect of \"Piranha Army\" is still considered Battle Damage (not effect damage)."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

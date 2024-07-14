@@ -1,0 +1,40 @@
+{
+  "id": 42664989,
+  "name": "Card of Sanctity",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Removing all cards in your hand and your side of the field from play is a cost to activate “Card of Sanctity”. If you have no other cards except for “Card of Sanctity”, you cannot activate it. You must have at least 1 other card on your side of the field or in your hand.\n●You can chain “Null and Void” to “Card of Sanctity”.\n●“Card of Sanctity” itself is NOT removed from play by its cost.",
+    "Goat": "●Removing all cards in your hand and your side of the field from play is a cost to activate “Card of Sanctity”. If you have no other cards except for “Card of Sanctity”, you cannot activate it. You must have at least 1 other card on your side of the field or in your hand.\n●You can chain “Null and Void” to “Card of Sanctity”.\n●“Card of Sanctity” itself is NOT removed from play by its cost.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Removing all cards in your hand and your side of the field from play is a cost to activate “Card of Sanctity”. If you have no other cards except for “Card of Sanctity”, you can't activate it. You must have at least 1 other card on your side of the field or in your hand.\n● You can chain “Null and Void” to “Card of Sanctity”.\n● “Card of Sanctity” itself is NOT removed from play by its cost.",
+    "TeleDAD": "● Removing all cards in your hand and your side of the field from play is a cost to activate “Card of Sanctity”. If you have no other cards except for “Card of Sanctity”, you can't activate it. You must have at least 1 other card on your side of the field or in your hand.\n● You can chain “Null and Void” to “Card of Sanctity”.\n● “Card of Sanctity” itself is NOT removed from play by its cost.",
+    "Gladiator": "● Removing all cards in your hand and your side of the field from play is a cost to activate “Card of Sanctity”. If you have no other cards except for “Card of Sanctity”, you can't activate it. You must have at least 1 other card on your side of the field or in your hand.\n● You can chain “Null and Void” to “Card of Sanctity”.\n● “Card of Sanctity” itself is NOT removed from play by its cost.",
+    "ReturnDAD": "● Removing all cards in your hand and your side of the field from play is a cost to activate “Card of Sanctity”. If you have no other cards except for “Card of Sanctity”, you can't activate it. You must have at least 1 other card on your side of the field or in your hand.\n● You can chain “Null and Void” to “Card of Sanctity”.\n● “Card of Sanctity” itself is NOT removed from play by its cost.",
+    "Trooper": "● Removing all cards in your hand and your side of the field from play is a cost to activate “Card of Sanctity”. If you have no other cards except for “Card of Sanctity”, you can't activate it. You must have at least 1 other card on your side of the field or in your hand.\n● You can chain “Null and Void” to “Card of Sanctity”.\n● “Card of Sanctity” itself is NOT removed from play by its cost.",
+    "Circle": "● Removing all cards in your hand and your side of the field from play is a cost to activate “Card of Sanctity”. If you have no other cards except for “Card of Sanctity”, you can't activate it. You must have at least 1 other card on your side of the field or in your hand.\n● You can chain “Null and Void” to “Card of Sanctity”.\n● “Card of Sanctity” itself is NOT removed from play by its cost.",
+    "Stein": "● Removing all cards in your hand and your side of the field from play is a cost to activate “Card of Sanctity”. If you have no other cards except for “Card of Sanctity”, you can't activate it. You must have at least 1 other card on your side of the field or in your hand.\n● You can chain “Null and Void” to “Card of Sanctity”.\n● “Card of Sanctity” itself is NOT removed from play by its cost.",
+    "Base": "1. Banishing all cards in your hand and your side of the field from play is a cost to activate \"Card of Sanctity\". If you have no other cards except for \"Card of Sanctity\", you cannot activate it. You must have at least 1 other card on your side of the field and in your hand.\\n2. You can chain \"Null and Void\" to \"Card of Sanctity\".\\n3. \"Card of Sanctity\" itself is NOT banished by its cost."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

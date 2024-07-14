@@ -1,0 +1,40 @@
+{
+  "id": 96012004,
+  "name": "Lucky Chance",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Lucky Chance's Trigger Effect is chained to the effect of the Effect Monster. You choose what you think the coin flip will be when you resolve Lucky Chance's effect.\n●If you control 2 or more face-up Lucky Chance, you will only call the coin toss once and you will draw 1 card if you call it right.\n●If you use the effect of Second Coin Toss to re-flip the coin, you do not reselect for Lucky Chance.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Lucky Chance's' Trigger Effect is chained to the effect of the Effect Monster. You choose what you think the coin flip will be when you resolve 'Lucky Chance's' effect.\n● If you control 2 or more face-up 'Lucky Chance', you will only call the coin toss once and you will draw 1 card if you call it right.\n● If you use the effect of 'Second Coin Toss' to re-flip the coin, you do not reselect for 'Lucky Chance'.",
+    "TeleDAD": "● 'Lucky Chance's' Trigger Effect is chained to the effect of the Effect Monster. You choose what you think the coin flip will be when you resolve 'Lucky Chance's' effect.\n● If you control 2 or more face-up 'Lucky Chance', you will only call the coin toss once and you will draw 1 card if you call it right.\n● If you use the effect of 'Second Coin Toss' to re-flip the coin, you do not reselect for 'Lucky Chance'.",
+    "Gladiator": "● 'Lucky Chance's' Trigger Effect is chained to the effect of the Effect Monster. You choose what you think the coin flip will be when you resolve 'Lucky Chance's' effect.\n● If you control 2 or more face-up 'Lucky Chance', you will only call the coin toss once and you will draw 1 card if you call it right.\n● If you use the effect of 'Second Coin Toss' to re-flip the coin, you do not reselect for 'Lucky Chance'.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The Trigger Effect of \"Lucky Chance\" is chained to the effect of the Effect Monster. You choose what you think the coin flip will be when you resolve the effect of \"Lucky Chance\".\\n2. If you control 2 or more face-up \"Lucky Chance\", you will only call the coin toss once and you will draw 1 card if you call it right.\\n3. If you use the effect of \"Second Coin Toss\" to re-flip the coin, you do not reselect for \"Lucky Chance\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

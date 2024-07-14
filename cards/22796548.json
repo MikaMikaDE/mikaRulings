@@ -1,0 +1,40 @@
+{
+  "id": 22796548,
+  "name": "Archfiend's Oath",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "(1) Once per turn you can pay 500 Life Points to declare 1 card name. Pick up the top card from your Deck and if the card name is the one you declared, add it to your hand. If not, send the card you picked up to the GY.\n●The (1) Ignition-like Effect activates & resolves on the field.\n●Paying 500 Life Points is a cost. Declare 1 card name at activation.\n●You can activate Archfiend's Oath while Convulsion of Nature is active.\n●If you have multiple copies of Archfiend's Oath, you can use all of them.",
+    "Goat": "●You can activate Archfiend's Oath while Convulsion of Nature is applying.\n●If you have multiple copies of Archfiend's Oath, you can use all of them.\n●Archfiend’s Oath” is considered an Archfiend, but not an Archfiend monster, for the purpose of “Falling Down.”",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can activate 'Archfiend's Oath' while 'Convulsion of Nature' is applying.\n● If you have multiple copies of 'Archfiend's Oath', you can use all of them.",
+    "TeleDAD": "● You can activate 'Archfiend's Oath' while 'Convulsion of Nature' is applying.\n● If you have multiple copies of 'Archfiend's Oath', you can use all of them.",
+    "Gladiator": "● You can activate 'Archfiend's Oath' while 'Convulsion of Nature' is applying.\n● If you have multiple copies of 'Archfiend's Oath', you can use all of them.",
+    "ReturnDAD": "● You can activate 'Archfiend's Oath' while 'Convulsion of Nature' is applying.\n● If you have multiple copies of 'Archfiend's Oath', you can use all of them.",
+    "Trooper": "● You can activate 'Archfiend's Oath' while 'Convulsion of Nature' is applying.\n● If you have multiple copies of 'Archfiend's Oath', you can use all of them.",
+    "Circle": "● You can activate 'Archfiend's Oath' while 'Convulsion of Nature' is applying.\n● If you have multiple copies of 'Archfiend's Oath', you can use all of them.",
+    "Stein": "● You can activate 'Archfiend's Oath' while 'Convulsion of Nature' is applying.\n● If you have multiple copies of 'Archfiend's Oath', you can use all of them.",
+    "Base": "1. You can activate \"Archfiend's Oath\" while \"Convulsion of Nature\" is active.\\n2. If you have multiple copies of \"Archfiend's Oath\", you can use all of them."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

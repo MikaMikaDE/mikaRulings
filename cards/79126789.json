@@ -1,0 +1,44 @@
+{
+  "id": 79126789,
+  "name": "Broww, Huntsman of Dark World",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 800,
+    "level": 3,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "Also see rulings for “Dark World Monsters”.\n●If this card is discarded from your hand by the opponent’s card effect, you draw both cards at the same time. If you had “Solemn Wishes” on the field, you would only gain 500 Life Points.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Also see rulings for “Dark World Monsters”.\n● If this card is discarded from your hand by the opponent’s card effect, you draw both cards at the same time. If you had “Solemn Wishes” on the field, you would only gain 500 LP.",
+    "TeleDAD": "● Also see rulings for “Dark World Monsters”.\n● If this card is discarded from your hand by the opponent’s card effect, you draw both cards at the same time. If you had “Solemn Wishes” on the field, you would only gain 500 LP.",
+    "Gladiator": "● Also see rulings for “Dark World Monsters”.\n● If this card is discarded from your hand by the opponent’s card effect, you draw both cards at the same time. If you had “Solemn Wishes” on the field, you would only gain 500 LP.",
+    "ReturnDAD": "● Also see rulings for “Dark World Monsters”.\n● If this card is discarded from your hand by the opponent’s card effect, you draw both cards at the same time. If you had “Solemn Wishes” on the field, you would only gain 500 LP.",
+    "Trooper": "● Also see rulings for “Dark World Monsters”.\n● If this card is discarded from your hand by the opponent’s card effect, you draw both cards at the same time. If you had “Solemn Wishes” on the field, you would only gain 500 LP.",
+    "Circle": "● Also see rulings for “Dark World Monsters”.\n● If this card is discarded from your hand by the opponent’s card effect, you draw both cards at the same time. If you had “Solemn Wishes” on the field, you would only gain 500 LP.",
+    "Stein": "● Also see rulings for “Dark World Monsters”.\n● If this card is discarded from your hand by the opponent’s card effect, you draw both cards at the same time. If you had “Solemn Wishes” on the field, you would only gain 500 LP.",
+    "Base": "1. If this card is discarded from your hand by the opponent's card effect, you draw both cards at the same time. If you had \"Solemn Wishes\" on the field, you would only gain 500 Life Points.\\n2. DARK WORLD MONSTERS: The following rulings apply to \"Beiige, Vanguard of Dark World\", \"Broww, Huntsman of Dark World\", \"Sillva, Warlord of Dark World\" and \"Goldd, Wu-Lord of Dark World\".\\n\\n- The effects of these cards are Trigger Effects that can be chained to.\\n\\n- These effects only activate if the cards are discarded by a card effect. They will not activate if discarded for the cost of a card like \"Lightning Vortex\", \"Raigeki Break\", \"Tribe-Infecting Virus\", or \"Infernal Incinerator\". They will not activate if sent to the GY by a card effect like \"Last Turn\" or \"Chaos Emperor Dragon - Envoy of the End\".\\n\\n- If these cards are discarded by your opponent's card effect, both parts of their effects resolve in a single chain link. If \"Divine Wrath\" is chained to these effects, it will negate both parts.\\n\\n- The effects of these cards activate in the GY, so \"Skill Drain\" will not negate their effects.\\n\\n- These effects can activate in the Damage Step, if discarded by the effect of a card like \"Don Zaloog\".\\n\\n- If these monsters are discarded by a card effect in the middle of a chain, or in the middle of a card effect like \"Dragged Down into the Grave\", their effects will activate after the current chain resolves. They cannot miss the timing.\\n\\n- If these cards are discarded from your hand by a card effect while \"Macro Cosmos\" is on the field, their effects will not activate because they were not discarded to the GY.\\n3. [FORUM] If \"Broww, Huntsman of Dark World\" is discarded for the effect of \"Drill Warrior\", the effect will start a new Chain, and once it resolves, the owner will draw a card."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

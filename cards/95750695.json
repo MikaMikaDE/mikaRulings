@@ -1,0 +1,40 @@
+{
+  "id": 95750695,
+  "name": "Supervise",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "(C) Equip only to a Gemini monster. (1) It is treated as an Effect Monster, and gains its effect(s). (2) When this face-up card on the field is sent to the GY, select and Special Summon 1 Normal Monster from your GY.\n●The (C) Condition cannot be negated.\n●This card can be equipped to a Gemini Monster which has gained its effects.\n●The (1) Continuous-like Effect does not activate.\n●If Spell Canceller negates this effect, the equipped Gemini Monster can be 'Gemini Summoned'.\n●The (2) mandatory Trigger-like Effect activates & resolves in the GY.\n●This effect can activate in the Damage Step.\n●This effect targets 1 Normal / Gemini Monster in the GY. You cannot target a non-Effect Fusion / Synchro Monster.\n●This effect will still activates Dust Tornado destroys Supervise before it becomes equipped.\n●If this card and the equipped Gemini Monster are destroyed together, you can Special Summon it.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can equip this card to a Gemini monster that has already gained its effect.\\n2. The effect to Special Summon 1 Normal Monster in your GY targets. It starts a Chain.\\n3. If \"Mystical Space Typhoon\" is Chained to the activation of \"Supervise\" to destroy it, the effect to Special Summon 1 Normal Monster will still be activated.\\n4. If \"Supervise\" is sent to the GY during the Damage Step, the effect to Special Summon 1 Normal Monster still activates.\\n5. If \"Supervise\" is Special Summoned by \"Magical Hats\" and is attacked and destroyed by battle, the effect to Special Summon 1 Normal Monster will not activate.\\n6. You can equip \"Supervise\" to a Gemini monster while \"Skill Drain\" is face-up on the field.\\n7. If you send a monster equipped with \"Supervise\" to the GY as a Synchro Material Monster for \"Brionac, Dragon of the Ice Barrier\", the effect to Special Summon 1 Normal Monster will activate immediately after Brionac is Summoned. You will not be able to activate Brionac's effect until the Chain resolves.\\n8. If you send a monster equipped with \"Supervise\" to the GY as a Synchro Material Monster for \"Black Rose Dragon\" you can activate the effect of that Synchro Monster in a Chain with the effect of \"Supervise\". The mandatory effect of \"Supervise\" will be Chain Link 1.\\n9. You cannot equip \"Supervise\" to \"Neo-Spacian Dark Panther\" even if it copies the name and effect of a Gemini monster.\\n10. A Gemini monster that is being treated as an Effect Monster due to \"Supervise\" returns to being treated as a Normal Monster when \"Supervise\" is removed from the field.\\n11. If the equipped monster and \"Supervise\" are destroyed at the same time, you can use the effect of \"Supervise\" to Special Summon the monster it was equipped to."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

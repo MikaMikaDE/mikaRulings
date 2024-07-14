@@ -1,0 +1,44 @@
+{
+  "id": 87685879,
+  "name": "Sea Koala",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 1600,
+    "level": 2,
+    "race": "Beast",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If an effect is chained to Sea Koala's effect that removes every other Beast-Type monster from your side of the field, the effect of Sea Koala disappears.\n●After making the ATK of 1 of your opponent's monsters 0, the ATK of the opponent's monster remains 0 until the End Phase. even if every other Beast-Type monster you control is removed from the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If an effect is chained to 'Sea Koala's' effect that removes every other Beast from your side of the field, the effect of 'Sea Koala' disappears.\n● After making the ATK of 1 of your opponent's monsters 0, the ATK of the opponent's monster remains 0 until the End Phase. even if every other Beast you control leaves the field.",
+    "TeleDAD": "● If an effect is chained to 'Sea Koala's' effect that removes every other Beast from your side of the field, the effect of 'Sea Koala' disappears.\n● After making the ATK of 1 of your opponent's monsters 0, the ATK of the opponent's monster remains 0 until the End Phase. even if every other Beast you control leaves the field.",
+    "Gladiator": "● If an effect is chained to 'Sea Koala's' effect that removes every other Beast from your side of the field, the effect of 'Sea Koala' disappears.\n● After making the ATK of 1 of your opponent's monsters 0, the ATK of the opponent's monster remains 0 until the End Phase. even if every other Beast you control leaves the field.",
+    "ReturnDAD": "● If an effect is chained to 'Sea Koala's' effect that removes every other Beast from your side of the field, the effect of 'Sea Koala' disappears.\n● After making the ATK of 1 of your opponent's monsters 0, the ATK of the opponent's monster remains 0 until the End Phase. even if every other Beast you control leaves the field.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If an effect is chained to the effect of \"Sea Koala\" that removes every other Beast-Type monster from your side of the field, the effect of \"Sea Koala\" disappears.\\n2. After making the ATK of 1 of your opponent's monsters 0, the ATK of the opponent's monster remains 0 until the End Phase. even if every other Beast-Type monster you control is removed from the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

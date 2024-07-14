@@ -1,0 +1,40 @@
+{
+  "id": 2314238,
+  "name": "Dark Magic Attack",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you activate Dark Magic Attack, and the Dark Magician is removed from the field with Interdimensional Matter Transporter or Compulsory Evacuation Device, or flipped face-down with Book of Moon, or destroyed by Ring of Destruction, Dark Magic Attack's effect still resolves.",
+    "Goat": "●If you activate Dark Magic Attack, and the Dark Magician is removed from the field with Interdimensional Matter Transporter or Compulsory Evacuation Device, or Set with Book of Moon, or destroyed by Ring of Destruction, Dark Magic Attack's effect still resolves.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you activate 'Dark Magic Attack', and the 'Dark Magician' leaves the field with 'Interdimensional Matter Transporter' or 'Compulsory Evacuation Device', or flipped face-down with 'Book of Moon', or destroyed by 'Ring of Destruction', 'Dark Magic Attack''s effect still resolves.",
+    "TeleDAD": "● If you activate 'Dark Magic Attack', and the 'Dark Magician' leaves the field with 'Interdimensional Matter Transporter' or 'Compulsory Evacuation Device', or flipped face-down with 'Book of Moon', or destroyed by 'Ring of Destruction', 'Dark Magic Attack''s effect still resolves.",
+    "Gladiator": "● If you activate 'Dark Magic Attack', and the 'Dark Magician' leaves the field with 'Interdimensional Matter Transporter' or 'Compulsory Evacuation Device', or flipped face-down with 'Book of Moon', or destroyed by 'Ring of Destruction', 'Dark Magic Attack''s effect still resolves.",
+    "ReturnDAD": "● If you activate 'Dark Magic Attack', and the 'Dark Magician' leaves the field with 'Interdimensional Matter Transporter' or 'Compulsory Evacuation Device', or flipped face-down with 'Book of Moon', or destroyed by 'Ring of Destruction', 'Dark Magic Attack''s effect still resolves.",
+    "Trooper": "● If you activate 'Dark Magic Attack', and the 'Dark Magician' leaves the field with 'Interdimensional Matter Transporter' or 'Compulsory Evacuation Device', or flipped face-down with 'Book of Moon', or destroyed by 'Ring of Destruction', 'Dark Magic Attack''s effect still resolves.",
+    "Circle": "● If you activate 'Dark Magic Attack', and the 'Dark Magician' leaves the field with 'Interdimensional Matter Transporter' or 'Compulsory Evacuation Device', or flipped face-down with 'Book of Moon', or destroyed by 'Ring of Destruction', 'Dark Magic Attack''s effect still resolves.",
+    "Stein": "● If you activate 'Dark Magic Attack', and the 'Dark Magician' leaves the field with 'Interdimensional Matter Transporter' or 'Compulsory Evacuation Device', or flipped face-down with 'Book of Moon', or destroyed by 'Ring of Destruction', 'Dark Magic Attack''s effect still resolves.",
+    "Base": "1. If you activate \"Dark Magic Attack\", and the \"Dark Magician\" is removed from the field with \"Interdimensional Matter Transporter\" or \"Compulsory Evacuation Device\", or flipped face-down with \"Book of Moon\", or destroyed by \"Ring of Destruction\", the effect of \"Dark Magic Attack\" still resolves."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

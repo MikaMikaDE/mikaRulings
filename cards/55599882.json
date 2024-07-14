@@ -1,0 +1,40 @@
+{
+  "id": 55599882,
+  "name": "Bujintervention",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings currently available.",
+    "Vegas": "No rulings currently available.",
+    "Meadowlands": "No rulings currently available.",
+    "FireWater": "No rulings currently available.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Target 1 \"Bujin\" monster on the field; \nthis turn, each time it destroys a monster by battle, \nwhose current ATK is greater than or equal to that target's original ATK, and sends it to the GY: \nBanish the destroyed monster, and if you do, \nbanish all monsters from your opponent's hand/Main/Exta/Gy with the same name that monster had in the GY.",
+    "Meadowlands": "① Target 1 \"Bujin\" monster on the field; \nthis turn, each time it destroys a monster by battle, \nwhose current ATK is greater than or equal to that target's original ATK, and sends it to the GY: \nBanish the destroyed monster, and if you do, \nbanish all monsters from your opponent's hand/Main/Exta/Gy with the same name that monster had in the GY.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

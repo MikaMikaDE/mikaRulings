@@ -1,0 +1,40 @@
+{
+  "id": 29307554,
+  "name": "Lineage of Destruction",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card targets 1 Level 8 monster you control.\n●You can activate this card when a Level 8 monster you control destroys a Defense Position monster by battle, and target that Level 8 monster. It will be able to attack once more (two times total).\n●You cannot target a monster that can already attack twice in the same Battle Phase.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card targets 1 LV 8 monster you control.\n● You can activate this card when a LV 8 monster you control destroys a Defense Position monster by battle, and target that LV 8 monster. It will be able to attack once more (two times total).\n● You can't target a monster that can already attack twice in the same Battle Phase.",
+    "TeleDAD": "● This card targets 1 LV 8 monster you control.\n● You can activate this card when a LV 8 monster you control destroys a Defense Position monster by battle, and target that LV 8 monster. It will be able to attack once more (two times total).\n● You can't target a monster that can already attack twice in the same Battle Phase.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card targets 1 Level 8 monster you control.\\n2. You can activate this card when a Level 8 monster you control destroys a Defense Position monster by battle, and target that Level 8 monster. It will be able to attack once more (two times total).\\n3. You cannot target a monster that can already attack twice in the same Battle Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

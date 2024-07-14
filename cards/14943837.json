@@ -1,0 +1,44 @@
+{
+  "id": 14943837,
+  "name": "Debris Dragon",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 2000,
+    "level": 4,
+    "race": "Dragon",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "● The Ⓒs in this card’s text are conditions, not effects. They cannot be negated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings currently available.",
+    "Vegas": "No rulings currently available.",
+    "Meadowlands": "No rulings currently available.",
+    "FireWater": "No rulings currently available.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Debris Dragon\" is a Trigger Effect that activates when it is Summoned and targets 1 monster in the GY. \"Debris Dragon\" does not continue to target that monster after the other monster is Special Summoned.\\n2. All restrictions on \"Debris Dragon\" and Synchro Summons are conditions, not effects, so will not be negated by \"Skill Drain\".\\n3. If \"Debris Dragon\" Special Summons a Gemini Monster, the Gemini Monster's effect that makes it a Normal Monster is negated, so the Gemini Monster is considered an Effect Monster.\\n4. You cannot use \"DNA Surgery\", naming Dragons, to use \"Debris Dragon\" to Synchro Summon a non-Dragon Synchro Monster. The Synchro Monster must originally be a Dragon-Type monster."
+  },
+  "PSCT": {
+    "Tengu": "① When this card is Normal Summoned: \nYou can target 1 monster with 500 or less ATK in your GY; \nSpecial Summon that target in Attack Position (negate its effects). \nⒸ Cannot be used as Synchro Material,\nexcept for a Dragon Synchro. \nⒸ If used as Synchro Material, the other Material(s) cannot be Level 4.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① When Normal Summoned: You can target 1 monster with 500 or less ATK in your GY; Special Summon it in Attack Position (negate its effects). \nⒸ Can't be used as Synchro Material, except for the Synchro Summon of a Dragon. \nⒸ The other Synchro Material(s) can't be Level 4.",
+    "Meadowlands": "① When Normal Summoned: You can target 1 monster with 500 or less ATK in your GY; Special Summon it in Attack Position (negate its effects). \nⒸ Can't be used as Synchro Material, except for the Synchro Summon of a Dragon. \nⒸ The other Synchro Material(s) can't be Level 4.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

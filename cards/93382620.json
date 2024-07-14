@@ -1,0 +1,40 @@
+{
+  "id": 93382620,
+  "name": "Rope of Life",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you cannot activate Rope of Life.\n●If your monster is controlled by your opponent and sent to your GY, you can activate Rope of Life. You cannot activate Rope of Life when your opponent’s monster you control is sent to his/her GY.\n●The increase in ATK is permanent as long as the monster remains face-up on the field.\n●You can use Rope of Life to Special Summon Jinzo and Jinzo's ATK will increase by 800 points.",
+    "Goat": "●Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you cannot activate Rope of Life.\n●If your monster is controlled by your opponent and sent to your GY, you can activate Rope of Life. You cannot activate Rope of Life when your opponent’s monster you control is sent to his/her GY.\n●The increase in ATK is permanent as long as the monster remains face-up on the field.\n●You can use Rope of Life to Special Summon Jinzo and Jinzo's ATK will increase by 800 points.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you can't activate 'Rope of Life'.\n● If your monster is controlled by your opponent and sent to your GY, you can activate 'Rope of Life'. You can't activate 'Rope of Life' when your opponent’s monster you control is sent to his/her GY.\n● The increase in ATK is permanent as long as the monster remains applying.\n● You can use 'Rope of Life' to Special Summon 'Jinzo' and 'Jinzo''s ATK will increase by 800 points.",
+    "TeleDAD": "● Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you can't activate 'Rope of Life'.\n● If your monster is controlled by your opponent and sent to your GY, you can activate 'Rope of Life'. You can't activate 'Rope of Life' when your opponent’s monster you control is sent to his/her GY.\n● The increase in ATK is permanent as long as the monster remains applying.\n● You can use 'Rope of Life' to Special Summon 'Jinzo' and 'Jinzo''s ATK will increase by 800 points.",
+    "Gladiator": "● Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you can't activate 'Rope of Life'.\n● If your monster is controlled by your opponent and sent to your GY, you can activate 'Rope of Life'. You can't activate 'Rope of Life' when your opponent’s monster you control is sent to his/her GY.\n● The increase in ATK is permanent as long as the monster remains applying.\n● You can use 'Rope of Life' to Special Summon 'Jinzo' and 'Jinzo''s ATK will increase by 800 points.",
+    "ReturnDAD": "● Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you can't activate 'Rope of Life'.\n● If your monster is controlled by your opponent and sent to your GY, you can activate 'Rope of Life'. You can't activate 'Rope of Life' when your opponent’s monster you control is sent to his/her GY.\n● The increase in ATK is permanent as long as the monster remains applying.\n● You can use 'Rope of Life' to Special Summon 'Jinzo' and 'Jinzo''s ATK will increase by 800 points.",
+    "Trooper": "● Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you can't activate 'Rope of Life'.\n● If your monster is controlled by your opponent and sent to your GY, you can activate 'Rope of Life'. You can't activate 'Rope of Life' when your opponent’s monster you control is sent to his/her GY.\n● The increase in ATK is permanent as long as the monster remains applying.\n● You can use 'Rope of Life' to Special Summon 'Jinzo' and 'Jinzo''s ATK will increase by 800 points.",
+    "Circle": "● Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you can't activate 'Rope of Life'.\n● If your monster is controlled by your opponent and sent to your GY, you can activate 'Rope of Life'. You can't activate 'Rope of Life' when your opponent’s monster you control is sent to his/her GY.\n● The increase in ATK is permanent as long as the monster remains applying.\n● You can use 'Rope of Life' to Special Summon 'Jinzo' and 'Jinzo''s ATK will increase by 800 points.",
+    "Stein": "● Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you can't activate 'Rope of Life'.\n● If your monster is controlled by your opponent and sent to your GY, you can activate 'Rope of Life'. You can't activate 'Rope of Life' when your opponent’s monster you control is sent to his/her GY.\n● The increase in ATK is permanent as long as the monster remains applying.\n● You can use 'Rope of Life' to Special Summon 'Jinzo' and 'Jinzo''s ATK will increase by 800 points.",
+    "Base": "1. Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you cannot activate \"Rope of Life\".\\n2. If your monster is controlled by your opponent and sent to your GY, you can activate \"Rope of Life\". You cannot activate \"Rope of Life\" when your opponent's monster you control is sent to his/her GY.\\n3. The increase in ATK is permanent as long as the monster remains face-up on the field.\\n4. You can use \"Rope of Life\" to Special Summon \"Jinzo\" and the ATK of \"Jinzo\" will increase by 800 points."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

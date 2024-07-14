@@ -1,0 +1,40 @@
+{
+  "id": 18605135,
+  "name": "Tornado Wall",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Tornado Wall may be Set on the field if Umi is not on the field, but it cannot be activated. If targeted by Bait Doll when face-down and Umi is not on the field, it is destroyed.\n●Tornado Wall may be activated when Maiden of the Aqua or A Legendary Ocean is face-up on the field.",
+    "Goat": "●Tornado Wall may be Set on the field if Umi is not on the field, but it cannot be activated. If targeted by Bait Doll when face-down and Umi is not on the field, it is destroyed.\n●Tornado Wall may be activated when Maiden of the Aqua or A Legendary Ocean is face-up on the field.If a player attacks “Amazoness Swords Woman” with a monster with higher ATK, the damage redirected by “Amazoness Swords Woman” will be reduced to 0 by “Tornado Wall.”\n●“Tornado Wall” is unaffected by “Imperial Order” negating the effect of “Umi.”\n●Q: Does the errata on “Tornado Wall” mean that you are no longer protected from overflow damage from your own attacks? \nA: That is correct. Your LP would only be protected from the LP damage that would result from an opponent's monster that is attacking you. So if your Gemini Elf attacks your opponent's Defense Position Giant Soldier of Stone, you will still lose 100 LP. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Tornado Wall' may be Set on the field if 'Umi' isn't on the field, but it can't be activated. If targeted by 'Bait Doll' when face-down and 'Umi' isn't on the field, it is destroyed.\n● 'Tornado Wall' may be activated when 'Maiden of the Aqua' or 'A Legendary Ocean' is applying.",
+    "TeleDAD": "● 'Tornado Wall' may be Set on the field if 'Umi' isn't on the field, but it can't be activated. If targeted by 'Bait Doll' when face-down and 'Umi' isn't on the field, it is destroyed.\n● 'Tornado Wall' may be activated when 'Maiden of the Aqua' or 'A Legendary Ocean' is applying.",
+    "Gladiator": "● 'Tornado Wall' may be Set on the field if 'Umi' isn't on the field, but it can't be activated. If targeted by 'Bait Doll' when face-down and 'Umi' isn't on the field, it is destroyed.\n● 'Tornado Wall' may be activated when 'Maiden of the Aqua' or 'A Legendary Ocean' is applying.",
+    "ReturnDAD": "● 'Tornado Wall' may be Set on the field if 'Umi' isn't on the field, but it can't be activated. If targeted by 'Bait Doll' when face-down and 'Umi' isn't on the field, it is destroyed.\n● 'Tornado Wall' may be activated when 'Maiden of the Aqua' or 'A Legendary Ocean' is applying.",
+    "Trooper": "● 'Tornado Wall' may be Set on the field if 'Umi' isn't on the field, but it can't be activated. If targeted by 'Bait Doll' when face-down and 'Umi' isn't on the field, it is destroyed.\n● 'Tornado Wall' may be activated when 'Maiden of the Aqua' or 'A Legendary Ocean' is applying.",
+    "Circle": "● 'Tornado Wall' may be Set on the field if 'Umi' isn't on the field, but it can't be activated. If targeted by 'Bait Doll' when face-down and 'Umi' isn't on the field, it is destroyed.\n● 'Tornado Wall' may be activated when 'Maiden of the Aqua' or 'A Legendary Ocean' is applying.",
+    "Stein": "● 'Tornado Wall' may be Set on the field if 'Umi' isn't on the field, but it can't be activated. If targeted by 'Bait Doll' when face-down and 'Umi' isn't on the field, it is destroyed.\n● 'Tornado Wall' may be activated when 'Maiden of the Aqua' or 'A Legendary Ocean' is applying.",
+    "Base": "1. \"Tornado Wall\" may be Set on the field if \"Umi\" is not on the field, but it cannot be activated. If targeted by \"Bait Doll\" when face-down and \"Umi\" is not on the field, it is destroyed.\\n2. \"Tornado Wall\" may be activated when \"Maiden of the Aqua\" or \"A Legendary Ocean\" is face-up on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

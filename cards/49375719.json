@@ -1,0 +1,44 @@
+{
+  "id": 49375719,
+  "name": "Cyber Tutu",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 800,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Cyber Tutu’s” effect is a Continuous Effect; it can't be chained to.\n● “Cyber Tutu” can't attack directly if the opponent controls any face-down monsters.\n● If “Cyber Tutu” uses her effect to attack directly, you can activate “Rush Recklessly” during the DAMAGE STEP, and even if it raises her ATK higher than the ATK of an opponent’s monster a replay will not occur. But if you activate “Rush Recklessly” during the BATTLE STEP, a replay will occur.",
+    "TeleDAD": "● “Cyber Tutu’s” effect is a Continuous Effect; it can't be chained to.\n● “Cyber Tutu” can't attack directly if the opponent controls any face-down monsters.\n● If “Cyber Tutu” uses her effect to attack directly, you can activate “Rush Recklessly” during the DAMAGE STEP, and even if it raises her ATK higher than the ATK of an opponent’s monster a replay will not occur. But if you activate “Rush Recklessly” during the BATTLE STEP, a replay will occur.",
+    "Gladiator": "● “Cyber Tutu’s” effect is a Continuous Effect; it can't be chained to.\n● “Cyber Tutu” can't attack directly if the opponent controls any face-down monsters.\n● If “Cyber Tutu” uses her effect to attack directly, you can activate “Rush Recklessly” during the DAMAGE STEP, and even if it raises her ATK higher than the ATK of an opponent’s monster a replay will not occur. But if you activate “Rush Recklessly” during the BATTLE STEP, a replay will occur.",
+    "ReturnDAD": "● “Cyber Tutu’s” effect is a Continuous Effect; it can't be chained to.\n● “Cyber Tutu” can't attack directly if the opponent controls any face-down monsters.\n● If “Cyber Tutu” uses her effect to attack directly, you can activate “Rush Recklessly” during the DAMAGE STEP, and even if it raises her ATK higher than the ATK of an opponent’s monster a replay will not occur. But if you activate “Rush Recklessly” during the BATTLE STEP, a replay will occur.",
+    "Trooper": "● “Cyber Tutu’s” effect is a Continuous Effect; it can't be chained to.\n● “Cyber Tutu” can't attack directly if the opponent controls any face-down monsters.\n● If “Cyber Tutu” uses her effect to attack directly, you can activate “Rush Recklessly” during the DAMAGE STEP, and even if it raises her ATK higher than the ATK of an opponent’s monster a replay will not occur. But if you activate “Rush Recklessly” during the BATTLE STEP, a replay will occur.",
+    "Circle": "● “Cyber Tutu’s” effect is a Continuous Effect; it can't be chained to.\n● “Cyber Tutu” can't attack directly if the opponent controls any face-down monsters.\n● If “Cyber Tutu” uses her effect to attack directly, you can activate “Rush Recklessly” during the DAMAGE STEP, and even if it raises her ATK higher than the ATK of an opponent’s monster a replay will not occur. But if you activate “Rush Recklessly” during the BATTLE STEP, a replay will occur.",
+    "Stein": "● “Cyber Tutu’s” effect is a Continuous Effect; it can't be chained to.\n● “Cyber Tutu” can't attack directly if the opponent controls any face-down monsters.\n● If “Cyber Tutu” uses her effect to attack directly, you can activate “Rush Recklessly” during the DAMAGE STEP, and even if it raises her ATK higher than the ATK of an opponent’s monster a replay will not occur. But if you activate “Rush Recklessly” during the BATTLE STEP, a replay will occur.",
+    "Base": "1. The effect of \"Cyber Tutu\" is a Continuous Effect; it cannot be chained to.\\n2. \"Cyber Tutu\" cannot attack directly if the opponent controls any face-down monsters.\\n3. If \"Cyber Tutu\" uses her effect to attack directly, you can activate \"Rush Recklessly\" during the DAMAGE STEP, and even if it raises her ATK higher than the ATK of an opponent's monster a replay will not occur. But if you activate \"Rush Recklessly\" during the BATTLE STEP, a replay will occur."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

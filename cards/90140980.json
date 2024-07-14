@@ -1,0 +1,44 @@
+{
+  "id": 90140980,
+  "name": "Ojama King",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 0,
+    "def": 3000,
+    "level": 6,
+    "race": "Beast",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot select occupied Monster Card Zones with Ojama King’s effect. If your opponent has 5 monsters on the field, then Ojama King’s effect is not applied.\n●Ojama King’s effect activates and you select up to 3 Monster Card Zones when Ojama King becomes face-up on the field.\n●If you select up to 3 Monster Card Zones and your Ojama King is flipped face-down, the Monster Card Zones are usable again. When Ojama King is flipped face-up again, you can select up to 3 Monster Card Zones again.\n●If you take control of your opponent’s face-up Ojama King, you cannot select new Monster Card Zones because the zones are selected when Ojama King becomes face-up on the field.",
+    "Goat": "●You cannot select occupied Monster Zones with Ojama King’s effect. If your opponent has 5 monsters on the field, then Ojama King’s effect is not applied.\n●Ojama King’s effect activates and you select up to 3 Monster Zones when Ojama King becomes face-up on the field.\n●If you select up to 3 Monster Zones and your Ojama King is Set, the Monster Zones are usable again. When Ojama King is flipped face-up again, you can select up to 3 Monster Zones again.\n●If you take control of your opponent’s face-up Ojama King, you cannot select new Monster Zones because the zones are selected when Ojama King becomes face-up on the field.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't select occupied Monster Card Zones with 'Ojama King'’s effect. If your opponent has 5 monsters on the field, then 'Ojama King'’s effect isn't applied.\n● 'Ojama King'’s effect activates and you select up to 3 Monster Card Zones when 'Ojama King' becomes applying.\n● If you select up to 3 Monster Card Zones and your 'Ojama King' is flipped face-down, the Monster Card Zones are usable again. When 'Ojama King' is flipped face-up again, you can select up to 3 Monster Card Zones again.\n● If you take control of your opponent’s face-up 'Ojama King', you can't select new Monster Card Zones because the zones are selected when 'Ojama King' becomes applying.",
+    "TeleDAD": "● You can't select occupied Monster Card Zones with 'Ojama King'’s effect. If your opponent has 5 monsters on the field, then 'Ojama King'’s effect isn't applied.\n● 'Ojama King'’s effect activates and you select up to 3 Monster Card Zones when 'Ojama King' becomes applying.\n● If you select up to 3 Monster Card Zones and your 'Ojama King' is flipped face-down, the Monster Card Zones are usable again. When 'Ojama King' is flipped face-up again, you can select up to 3 Monster Card Zones again.\n● If you take control of your opponent’s face-up 'Ojama King', you can't select new Monster Card Zones because the zones are selected when 'Ojama King' becomes applying.",
+    "Gladiator": "● You can't select occupied Monster Card Zones with 'Ojama King'’s effect. If your opponent has 5 monsters on the field, then 'Ojama King'’s effect isn't applied.\n● 'Ojama King'’s effect activates and you select up to 3 Monster Card Zones when 'Ojama King' becomes applying.\n● If you select up to 3 Monster Card Zones and your 'Ojama King' is flipped face-down, the Monster Card Zones are usable again. When 'Ojama King' is flipped face-up again, you can select up to 3 Monster Card Zones again.\n● If you take control of your opponent’s face-up 'Ojama King', you can't select new Monster Card Zones because the zones are selected when 'Ojama King' becomes applying.",
+    "ReturnDAD": "● You can't select occupied Monster Card Zones with 'Ojama King'’s effect. If your opponent has 5 monsters on the field, then 'Ojama King'’s effect isn't applied.\n● 'Ojama King'’s effect activates and you select up to 3 Monster Card Zones when 'Ojama King' becomes applying.\n● If you select up to 3 Monster Card Zones and your 'Ojama King' is flipped face-down, the Monster Card Zones are usable again. When 'Ojama King' is flipped face-up again, you can select up to 3 Monster Card Zones again.\n● If you take control of your opponent’s face-up 'Ojama King', you can't select new Monster Card Zones because the zones are selected when 'Ojama King' becomes applying.",
+    "Trooper": "● You can't select occupied Monster Card Zones with 'Ojama King'’s effect. If your opponent has 5 monsters on the field, then 'Ojama King'’s effect isn't applied.\n● 'Ojama King'’s effect activates and you select up to 3 Monster Card Zones when 'Ojama King' becomes applying.\n● If you select up to 3 Monster Card Zones and your 'Ojama King' is flipped face-down, the Monster Card Zones are usable again. When 'Ojama King' is flipped face-up again, you can select up to 3 Monster Card Zones again.\n● If you take control of your opponent’s face-up 'Ojama King', you can't select new Monster Card Zones because the zones are selected when 'Ojama King' becomes applying.",
+    "Circle": "● You can't select occupied Monster Card Zones with 'Ojama King'’s effect. If your opponent has 5 monsters on the field, then 'Ojama King'’s effect isn't applied.\n● 'Ojama King'’s effect activates and you select up to 3 Monster Card Zones when 'Ojama King' becomes applying.\n● If you select up to 3 Monster Card Zones and your 'Ojama King' is flipped face-down, the Monster Card Zones are usable again. When 'Ojama King' is flipped face-up again, you can select up to 3 Monster Card Zones again.\n● If you take control of your opponent’s face-up 'Ojama King', you can't select new Monster Card Zones because the zones are selected when 'Ojama King' becomes applying.",
+    "Stein": "● You can't select occupied Monster Card Zones with 'Ojama King'’s effect. If your opponent has 5 monsters on the field, then 'Ojama King'’s effect isn't applied.\n● 'Ojama King'’s effect activates and you select up to 3 Monster Card Zones when 'Ojama King' becomes applying.\n● If you select up to 3 Monster Card Zones and your 'Ojama King' is flipped face-down, the Monster Card Zones are usable again. When 'Ojama King' is flipped face-up again, you can select up to 3 Monster Card Zones again.\n● If you take control of your opponent’s face-up 'Ojama King', you can't select new Monster Card Zones because the zones are selected when 'Ojama King' becomes applying.",
+    "Base": "1. You cannot select occupied Monster Card Zones with the effect of \"Ojama King\". If your opponent has 5 monsters on the field, then the effect of \"Ojama King\" is not applied.\\n2. The effect of \"Ojama King\" activates and you select up to 3 Monster Card Zones when \"Ojama King\" becomes face-up on the field.\\n3. If you select up to 3 Monster Card Zones and your \"Ojama King\" is flipped face-down, the Monster Card Zones are usable again. When \"Ojama King\" is flipped face-up again, you can select up to 3 Monster Card Zones again.\\n4. If you take control of your opponent's face-up \"Ojama King\", you cannot select new Monster Card Zones because the zones are selected when \"Ojama King\" becomes face-up on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

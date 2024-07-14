@@ -1,0 +1,44 @@
+{
+  "id": 50933533,
+  "name": "Ancient Gear Gadjiltron Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 3000,
+    "def": 2000,
+    "level": 8,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When you Tribute Summon this card by Tributing 'Gadget' monsters, it does not start a chain. Gaining the appropriate effect(s) is a Continuous Effect.\n● If this card is flipped face-down, any effects it obtained from its Tribute Summon will disappear, even if flipped face-up again.\n● The effect granted by Tributing 'Green Gadget' is a Continuous Effect. \n● The effect granted by Tributing 'Red Gadget' is a Trigger Effect that starts a chain when this card inflicts battle damage.\n● The effect granted by Tributing 'Yellow Gadget' is a Trigger Effect that starts a chain when this card destroys an opponent's monster by battle.\n● If you Tribute 2 of the same 'Gadget' to Tribute Summon this card, the effect does NOT duplicate. For example, if you Tributed 2 'Yellow Gadgets' this card will not do 1200 damage to your opponent when it destroys a monster by battle.",
+    "TeleDAD": "● When you Tribute Summon this card by Tributing 'Gadget' monsters, it does not start a chain. Gaining the appropriate effect(s) is a Continuous Effect.\n● If this card is flipped face-down, any effects it obtained from its Tribute Summon will disappear, even if flipped face-up again.\n● The effect granted by Tributing 'Green Gadget' is a Continuous Effect. \n● The effect granted by Tributing 'Red Gadget' is a Trigger Effect that starts a chain when this card inflicts battle damage.\n● The effect granted by Tributing 'Yellow Gadget' is a Trigger Effect that starts a chain when this card destroys an opponent's monster by battle.\n● If you Tribute 2 of the same 'Gadget' to Tribute Summon this card, the effect does NOT duplicate. For example, if you Tributed 2 'Yellow Gadgets' this card will not do 1200 damage to your opponent when it destroys a monster by battle.",
+    "Gladiator": "● When you Tribute Summon this card by Tributing 'Gadget' monsters, it does not start a chain. Gaining the appropriate effect(s) is a Continuous Effect.\n● If this card is flipped face-down, any effects it obtained from its Tribute Summon will disappear, even if flipped face-up again.\n● The effect granted by Tributing 'Green Gadget' is a Continuous Effect. \n● The effect granted by Tributing 'Red Gadget' is a Trigger Effect that starts a chain when this card inflicts battle damage.\n● The effect granted by Tributing 'Yellow Gadget' is a Trigger Effect that starts a chain when this card destroys an opponent's monster by battle.\n● If you Tribute 2 of the same 'Gadget' to Tribute Summon this card, the effect does NOT duplicate. For example, if you Tributed 2 'Yellow Gadgets' this card will not do 1200 damage to your opponent when it destroys a monster by battle.",
+    "ReturnDAD": "● When you Tribute Summon this card by Tributing 'Gadget' monsters, it does not start a chain. Gaining the appropriate effect(s) is a Continuous Effect.\n● If this card is flipped face-down, any effects it obtained from its Tribute Summon will disappear, even if flipped face-up again.\n● The effect granted by Tributing 'Green Gadget' is a Continuous Effect. \n● The effect granted by Tributing 'Red Gadget' is a Trigger Effect that starts a chain when this card inflicts battle damage.\n● The effect granted by Tributing 'Yellow Gadget' is a Trigger Effect that starts a chain when this card destroys an opponent's monster by battle.\n● If you Tribute 2 of the same 'Gadget' to Tribute Summon this card, the effect does NOT duplicate. For example, if you Tributed 2 'Yellow Gadgets' this card will not do 1200 damage to your opponent when it destroys a monster by battle.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● When you Tribute Summon this card by Tributing 'Gadget' monsters, it does not start a chain. Gaining the appropriate effect(s) is a Continuous Effect.\n● If this card is flipped face-down, any effects it obtained from its Tribute Summon will disappear, even if flipped face-up again.\n● The effect granted by Tributing 'Green Gadget' is a Continuous Effect. \n● The effect granted by Tributing 'Red Gadget' is a Trigger Effect that starts a chain when this card inflicts battle damage.\n● The effect granted by Tributing 'Yellow Gadget' is a Trigger Effect that starts a chain when this card destroys an opponent's monster by battle.\n● If you Tribute 2 of the same 'Gadget' to Tribute Summon this card, the effect does NOT duplicate. For example, if you Tributed 2 'Yellow Gadgets' this card will not do 1200 damage to your opponent when it destroys a monster by battle.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. When you Tribute Summon this card by Tributing 'Gadget' monsters, it does not start a chain. Gaining the appropriate effect(s) is a Continuous Effect.\\n2. If this card is flipped face-down, any effects it obtained from its Tribute Summon will disappear, even if flipped face-up again.\\n3. The effect granted by Tributing \"Green Gadget\" is a Continuous Effect.\\n4. The effect granted by Tributing \"Red Gadget\" is a Trigger Effect that starts a chain when this card inflicts battle damage.\\n5. The effect granted by Tributing \"Yellow Gadget\" is a Trigger Effect that starts a chain when this card destroys an opponent's monster by battle.\\n6. If you Tribute 2 of the same 'Gadget' to Tribute Summon this card, the effect does NOT duplicate. For example, if you Tributed 2 copies of \"Yellow Gadget\" this card will not do 1200 damage to your opponent when it destroys a monster by battle."
+  },
+  "PSCT": {
+    "Tengu": "① While this card is attacking, opponent can't activate Spell/Trap Cards until the end of the Damage Step. \n② If this card was Tribute Summoned by Tributing a \"Gadget\" monster, it gains the appropriate effect.\n● Green Gadget: Inflicts Piercing Damage.\n● Red Gadget: If this card inflicts Battle Damage to your opponent: They take 400 damage. \n● Yellow Gadget: If this card destroys an opponent's monster by battle: They take 600 damage.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 4206964,
+  "name": "Trap Hole",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "● If that target has less than 1000 ATK when the effect resolves, it is not destroyed.",
+    "Goat": "“Trap Hole” is a targeting effect.",
+    "HAT": "● If that target doesn't have 1000 or more ATK when this resolves, it is not destroyed.",
+    "Vegas": "● If that target doesn't have 1000 or more ATK when this resolves, it is not destroyed.",
+    "Meadowlands": "● If that target doesn't have 1000 or more ATK when this resolves, it is not destroyed.",
+    "FireWater": "● If that target doesn't have 1000 or more ATK when this resolves, it is not destroyed.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "① If your opponent Normal/Flip Summons 1 monster with 1000 or more ATK: Target that monster; \ndestroy that target.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① When your opponent Normal/Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.",
+    "Meadowlands": "① When your opponent Normal/Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

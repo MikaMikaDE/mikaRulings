@@ -1,0 +1,44 @@
+{
+  "id": 18430390,
+  "name": "Winged Rhynos",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 500,
+    "level": 4,
+    "race": "Beast-Warrior",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●This effect cannot be chained to the activation of the effect of an already face-up Continuous Trap Card, like Ultimate Offering. It can only be chained when a Trap Card itself is activated (ie., flipped face-up).\n●This effect is a Spell Speed 2 Quick Effect. Therefore, it cannot be chained to the activation of a Counter Trap Card.\n●This effect can be activated multiple times in the same chain, but only once for each Trap Card activated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This effect can't be chained to the activation of the effect of an already face-up Continuous Trap Card, like 'Ultimate Offering'. It can only be chained when a Trap Card itself is activated (ie., flipped face-up).\n● This effect is a Spell Speed 2 Quick Effect. Therefore, it can't be chained to the activation of a Counter Trap Card.\n● This effect can be activated multiple times in the same chain, but only once for each Trap Card activated.",
+    "TeleDAD": "● This effect can't be chained to the activation of the effect of an already face-up Continuous Trap Card, like 'Ultimate Offering'. It can only be chained when a Trap Card itself is activated (ie., flipped face-up).\n● This effect is a Spell Speed 2 Quick Effect. Therefore, it can't be chained to the activation of a Counter Trap Card.\n● This effect can be activated multiple times in the same chain, but only once for each Trap Card activated.",
+    "Gladiator": "● This effect can't be chained to the activation of the effect of an already face-up Continuous Trap Card, like 'Ultimate Offering'. It can only be chained when a Trap Card itself is activated (ie., flipped face-up).\n● This effect is a Spell Speed 2 Milti-Trigger (Quick) Effect. Therefore, it can't be chained to the activation of a Counter Trap Card.\n● This effect can be activated multiple times in the same chain, but only once for each Trap Card activated.",
+    "ReturnDAD": "● This effect can't be chained to the activation of the effect of an already face-up Continuous Trap Card, like 'Ultimate Offering'. It can only be chained when a Trap Card itself is activated (ie., flipped face-up).\n● This effect is a Spell Speed 2 Milti-Trigger (Quick) Effect. Therefore, it can't be chained to the activation of a Counter Trap Card.\n● This effect can be activated multiple times in the same chain, but only once for each Trap Card activated.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● This effect can't be chained to the activation of the effect of an already face-up Continuous Trap Card, like 'Ultimate Offering'. It can only be chained when a Trap Card itself is activated (ie., flipped face-up).\n● This effect is a Spell Speed 2 Milti-Trigger (Quick) Effect. Therefore, it can't be chained to the activation of a Counter Trap Card.\n● This effect can be activated multiple times in the same chain, but only once for each Trap Card activated.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect cannot be chained to the activation of the effect of an already face-up Continuous Trap Card, like \"Ultimate Offering\". It can only be chained when a Trap Card itself is activated (i.e., flipped face-up).\\n2. This effect is a Spell Speed 2 Quick Effect. Therefore, it cannot be chained to the activation of a Counter Trap Card.\\n3. This effect can be activated multiple times in the same chain, but only once for each Trap Card activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

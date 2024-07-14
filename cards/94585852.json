@@ -1,0 +1,40 @@
+{
+  "id": 94585852,
+  "name": "Pandemonium",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Field"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can't use Pandemonium to add a Fusion Monster Archfiend or Synchro Monster Archfiend from the Extra Deck to your hand, like Fiend Skull Dragon or Red Dragon Archfiend.\n●If multiple Archfiends are destroyed at the same time by Raigeki, you can only add 1 Archfiend from your Deck to your hand with Pandemonium.\n●When your Archfiends controlled by your opponent are sent to your GY, you can add an Archfiend from your Deck to your hand with Pandemonium.",
+    "Goat": "●You can't use Pandemonium to add a Fusion Monster Archfiend from the Fusion Deck to your hand, like Fiend Skull Dragon.\n●If multiple Archfiends are destroyed at the same time by Raigeki, you can only add 1 Archfiend from your Deck to your hand with Pandemonium.\n●When your Archfiends controlled by your opponent are sent to your GY, you can add an Archfiend from your Deck to your hand with Pandemonium.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't use 'Pandemonium' to add a Fusion Monster Archfiend or Synchro Monster Archfiend from the Extra Deck to your hand, like 'Fiend Skull Dragon' or 'Red Dragon Archfiend'.\n● If multiple Archfiends are destroyed at the same time by 'Raigeki', you can only add 1 Archfiend from your Deck to your hand with 'Pandemonium'.\n● When your Archfiends controlled by your opponent are sent to your GY, you can add an Archfiend from your Deck to your hand with 'Pandemonium'.",
+    "TeleDAD": "● You can't use 'Pandemonium' to add a Fusion Monster Archfiend or Synchro Monster Archfiend from the Extra Deck to your hand, like 'Fiend Skull Dragon' or 'Red Dragon Archfiend'.\n● If multiple Archfiends are destroyed at the same time by 'Raigeki', you can only add 1 Archfiend from your Deck to your hand with 'Pandemonium'.\n● When your Archfiends controlled by your opponent are sent to your GY, you can add an Archfiend from your Deck to your hand with 'Pandemonium'.",
+    "Gladiator": "● You can't use 'Pandemonium' to add a Fusion Monster Archfiend from the Fusion Deck to your hand, like 'Fiend Skull Dragon'.\n● If multiple Archfiends are destroyed at the same time by 'Raigeki', you can only add 1 Archfiend from your Deck to your hand with 'Pandemonium'.\n● When your Archfiends controlled by your opponent are sent to your GY, you can add an Archfiend from your Deck to your hand with 'Pandemonium'.",
+    "ReturnDAD": "● You can't use 'Pandemonium' to add a Fusion Monster Archfiend from the Fusion Deck to your hand, like 'Fiend Skull Dragon'.\n● If multiple Archfiends are destroyed at the same time by 'Raigeki', you can only add 1 Archfiend from your Deck to your hand with 'Pandemonium'.\n● When your Archfiends controlled by your opponent are sent to your GY, you can add an Archfiend from your Deck to your hand with 'Pandemonium'.",
+    "Trooper": "● You can't use 'Pandemonium' to add a Fusion Monster Archfiend from the Fusion Deck to your hand, like 'Fiend Skull Dragon'.\n● If multiple Archfiends are destroyed at the same time by 'Raigeki', you can only add 1 Archfiend from your Deck to your hand with 'Pandemonium'.\n● When your Archfiends controlled by your opponent are sent to your GY, you can add an Archfiend from your Deck to your hand with 'Pandemonium'.",
+    "Circle": "● You can't use 'Pandemonium' to add a Fusion Monster Archfiend from the Fusion Deck to your hand, like 'Fiend Skull Dragon'.\n● If multiple Archfiends are destroyed at the same time by 'Raigeki', you can only add 1 Archfiend from your Deck to your hand with 'Pandemonium'.\n● When your Archfiends controlled by your opponent are sent to your GY, you can add an Archfiend from your Deck to your hand with 'Pandemonium'.",
+    "Stein": "● You can't use 'Pandemonium' to add a Fusion Monster Archfiend from the Fusion Deck to your hand, like 'Fiend Skull Dragon'.\n● If multiple Archfiends are destroyed at the same time by 'Raigeki', you can only add 1 Archfiend from your Deck to your hand with 'Pandemonium'.\n● When your Archfiends controlled by your opponent are sent to your GY, you can add an Archfiend from your Deck to your hand with 'Pandemonium'.",
+    "Base": "1. You can't use \"Pandemonium\" to add a Fusion Monster Archfiend or Synchro Monster Archfiend from the Extra Deck to your hand, like \"Fiend Skull Dragon\" or \"Red Dragon Archfiend\".\\n2. If multiple Archfiends are destroyed at the same time by \"Raigeki\", you can only add 1 Archfiend from your Deck to your hand with \"Pandemonium\".\\n3. When your Archfiends controlled by your opponent are sent to your GY, you can add an Archfiend from your Deck to your hand with \"Pandemonium\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

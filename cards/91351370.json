@@ -1,0 +1,40 @@
+{
+  "id": 91351370,
+  "name": "Black Whirlwind",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "● If that monster isn’t face-up on the field when this effect resolves, no card is searched.\n● If you control this card, and have a \"Blackwing\" monster in your Deck with less than 1300 ATK:\nWhen you Summon \"Blackwing - Blizzard the Far North\", both its effect and \"Black Whirlwind\" will trigger. Since they are both optional effects, you can order them in any way you like. \nIf you order them as: Blizzard Chain Link 1, Whirlwind Chain Link 2, then your opponent can only respond to the newest chain link - Black Whirlwind's effect. \nThis means that cards like \"Royal Oppression\" and \"Pulling the Rug\" cannot be activated at this time - Those cards cannot be chained to Black Whirlwind's effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Black Whirlwind\" starts a Chain. If an effect is chained, so that the Summoned 'Blackwing' monster is no longer face-up on the field when the effect of \"Black Whirlwind\" resolves, you cannot add a monster to your hand.\\n2. \"Black Whirlwind\" looks at the ATK of your newly-Summoned monster as it is on the field. If a Field Spell Card is increasing the monster's ATK, you can search your Deck for a 'Blackwing' monster that has less ATK than the increased ATK value.\\n3. If you control multiple copies of \"Black Whirlwind\", you can activate all of their effects. They form a single Chain, and you add 1 'Blackwing' to your hand as each one resolves.\\n4. If control of the Summoned 'Blackwing' monster shifts during or before resolution of \"Black Whirlwind\", you can still add a card to your hand because you can still see the ATK."
+  },
+  "PSCT": {
+    "Tengu": "① When a \"Blackwing\" monster is Normal Summoned to your field: \nYou can add 1 \"Blackwing\" monster from your Deck to your hand,\nwith less ATK than that monster on the field.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

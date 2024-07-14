@@ -1,0 +1,40 @@
+{
+  "id": 87624166,
+  "name": "Ancient Forest",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Field"
+  },
+  "Rulings": {
+    "Tengu": "(1) When you activate this card, change any Defense Position monster(s) to face-up Attack Position. Flip Effects are not activated at this time. (2) If a monster attacks, destroy it at the end of that turn's Battle Phase.\n●The (1) Continuous-like Effect applies when “Ancient Forest” resolves.\n●If “Dust Tornado” is Chained to the activation of “Ancient Forest,” the Defense Position monsters are not changed to Attack Position because “Ancient Forest” is no longer face-up on the field.\n●If you activate “Ancient Forest” with the effect of “Demise of the Land” it will not change Defense Position monsters to face-up Attack Position.\n●“Ancient Forest” will not change a monster to face-up Attack Position if it was not on the field in Defense Position when “Ancient Forest” was activated.\n●The (2) mandatory Trigger-like Effect activates during the End of the Battle Phase.\n●If a player controls both “Ancient Forest” and a Gladiator Beast monster that has attacked, at the end of the Battle Phase he can choose which effect to activate and resolve first.\n●If “Sasuke Samurai” attacks a face-down monster and destroys it with its effect, it will still be destroyed at the end of the Battle Phase.\n●If a monster’s attack is negated by “Magic Cylinder” it will not be destroyed by this effect.\n●If a monster attacks and is flipped face-down by “Book of Moon” it will still be destroyed. The effect of “Ancient Forest” will only destroy a monster during the turn it attacked.\n●If a monster attacks and is removed from the field or ceases to be a monster before the end of the Battle Phase, it will not be destroyed.\n●If a monster attacks while “Ancient Forest” is being negated, but before the end of the Battle Phase the effect negating “Ancient Forest” disappears, the monster that attacked will be destroyed.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect to change Defense Position monsters to face-up Attack Position happens when \"Ancient Forest\" resolves.\\n2. If \"Mystical Space Typhoon\" is Chained to the activation of \"Ancient Forest\", the Defense Position monsters are not changed to Attack Position because \"Ancient Forest\" is no longer face-up on the field.\\n3. If a player controls both \"Ancient Forest\" and a 'Gladiator Beast' monster that has attacked, at the end of the Battle Phase he can choose which effect to activate and resolve first.\\n4. If \"Sasuke Samurai\" attacks a face-down monster and destroys it with its effect, it will still be destroyed at the end of the Battle Phase.\\n5. If a monster's attack is negated by \"Magic Cylinder\" it will not be destroyed at the end of the Battle Phase.\\n6. If a monster attacks and is removed from the field or ceases to be a monster before the end of the Battle Phase, it will not be destroyed.\\n7. If a monster attacks while \"Ancient Forest\" is being negated, but before the end of the Battle Phase the effect negating \"Ancient Forest\" disappears, the monster that attacked will be destroyed.\\n8. If a monster attacks and is flipped face-down by \"Book of Moon\" it will still be destroyed.\\n9. The effect of \"Ancient Forest\" will only destroy a monster during the turn it attacked.\\n10. The effect to destroy monsters starts a Chain.\\n11. If you activate \"Ancient Forest\" with the effect of \"Demise of the Land\" it will not change Defense Position monsters to face-up Attack Position.\\n12. \"Ancient Forest\" will not change a monster to face-up Attack Position if it was not on the field in Defense Position when \"Ancient Forest\" was activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

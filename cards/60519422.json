@@ -1,0 +1,40 @@
+{
+  "id": 60519422,
+  "name": "Kishido Spirit",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\n●When Spear Dragon attacks a Defense Position monster with equal ATK to Spear Dragon, perform damage calculation normally even though the Defense Position monster is not destroyed.",
+    "Goat": "●If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\n●When Spear Dragon attacks a Defense Position monster with equal ATK to Spear Dragon, perform damage calculation normally even though the Defense Position monster is not destroyed.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\n● When 'Spear Dragon' attacks a Defense Position monster with equal ATK to 'Spear Dragon', perform damage calculation normally even though the Defense Position monster isn't destroyed.",
+    "TeleDAD": "● If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\n● When 'Spear Dragon' attacks a Defense Position monster with equal ATK to 'Spear Dragon', perform damage calculation normally even though the Defense Position monster isn't destroyed.",
+    "Gladiator": "● If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\n● When 'Spear Dragon' attacks a Defense Position monster with equal ATK to 'Spear Dragon', perform damage calculation normally even though the Defense Position monster isn't destroyed.",
+    "ReturnDAD": "● If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\n● When 'Spear Dragon' attacks a Defense Position monster with equal ATK to 'Spear Dragon', perform damage calculation normally even though the Defense Position monster isn't destroyed.",
+    "Trooper": "● If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\n● When 'Spear Dragon' attacks a Defense Position monster with equal ATK to 'Spear Dragon', perform damage calculation normally even though the Defense Position monster isn't destroyed.",
+    "Circle": "● If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\n● When 'Spear Dragon' attacks a Defense Position monster with equal ATK to 'Spear Dragon', perform damage calculation normally even though the Defense Position monster isn't destroyed.",
+    "Stein": "● If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\n● When 'Spear Dragon' attacks a Defense Position monster with equal ATK to 'Spear Dragon', perform damage calculation normally even though the Defense Position monster isn't destroyed.",
+    "Base": "1. If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\\n2. When \"Spear Dragon\" attacks a Defense Position monster with equal ATK to \"Spear Dragon\", perform damage calculation normally even though the Defense Position monster is not destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 94381039,
+  "name": "Celestia, Lightsworn Angel",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2300,
+    "def": 200,
+    "level": 5,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● If you choose to activate this effect, you must target at least 1 card on the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Sending the top 4 cards of your Deck to the GY is a cost.\n● 'Celestia, Lightsworn Angel's' effect can't be activated while 'Macro Cosmos', etc. is applying.\n● If you activate 'Celestia, Lightsworn Angel's' effect, you must choose 1 or 2 of your opponent's cards to destroy.",
+    "TeleDAD": "● Sending the top 4 cards of your Deck to the GY is a cost.\n● 'Celestia, Lightsworn Angel's' effect can't be activated while 'Macro Cosmos', etc. is applying.\n● If you activate 'Celestia, Lightsworn Angel's' effect, you must choose 1 or 2 of your opponent's cards to destroy.",
+    "Gladiator": "● Sending the top 4 cards of your Deck to the GY is a cost.\n● 'Celestia, Lightsworn Angel's' effect can't be activated while 'Macro Cosmos', etc. is applying.\n● If you activate 'Celestia, Lightsworn Angel's' effect, you must choose 1 or 2 of your opponent's cards to destroy.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Sending the top 4 cards of your Deck to the GY is a cost.\\n2. The effect of \"Celestia, Lightsworn Angel\" cannot be activated while \"Macro Cosmos\", etc. is active.\\n3. If you activate the effect of \"Celestia, Lightsworn Angel\", you must choose 1 or 2 of your opponent's cards to destroy."
+  },
+  "PSCT": {
+    "Tengu": "① When this card is Tribute Summoned by Tribute Summoning a \"Lightsworn\" monster:\nYou can send the top 4 cards of your Deck to the GY, then target up to 2 cards your opponent controls;\ndestroy those targets.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

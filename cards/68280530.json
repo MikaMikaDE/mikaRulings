@@ -1,0 +1,44 @@
+{
+  "id": 68280530,
+  "name": "Royal Knight",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1300,
+    "def": 800,
+    "level": 3,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●For its effect to activate, “Royal Knight” must be on the field when the monster it destroyed is sent to the GY. Its effect will not activate if it battles a monster with equal ATK and they are both destroyed.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● For its effect to activate, “Royal Knight” must be on the field when the monster it destroyed is sent to the GY. Its effect will not activate if it battles a monster with equal ATK and they are both destroyed.",
+    "TeleDAD": "● For its effect to activate, “Royal Knight” must be on the field when the monster it destroyed is sent to the GY. Its effect will not activate if it battles a monster with equal ATK and they are both destroyed.",
+    "Gladiator": "● For its effect to activate, “Royal Knight” must be on the field when the monster it destroyed is sent to the GY. Its effect will not activate if it battles a monster with equal ATK and they are both destroyed.",
+    "ReturnDAD": "● For its effect to activate, “Royal Knight” must be on the field when the monster it destroyed is sent to the GY. Its effect will not activate if it battles a monster with equal ATK and they are both destroyed.",
+    "Trooper": "● For its effect to activate, “Royal Knight” must be on the field when the monster it destroyed is sent to the GY. Its effect will not activate if it battles a monster with equal ATK and they are both destroyed.",
+    "Circle": "● For its effect to activate, “Royal Knight” must be on the field when the monster it destroyed is sent to the GY. Its effect will not activate if it battles a monster with equal ATK and they are both destroyed.",
+    "Stein": "● For its effect to activate, “Royal Knight” must be on the field when the monster it destroyed is sent to the GY. Its effect will not activate if it battles a monster with equal ATK and they are both destroyed.",
+    "Base": "1. For its effect to activate, \"Royal Knight\" must be on the field when the monster it destroyed is sent to the GY. Its effect will not activate if it battles a monster with equal ATK and they are both destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

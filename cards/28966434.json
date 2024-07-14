@@ -1,0 +1,44 @@
+{
+  "id": 28966434,
+  "name": "Solitaire Magician",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 1300,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●This effect targets 2 monsters.\n●You reduce the Level of the targeted Fortune Lady monster when the effect resolves.\n●If you increase the Level of your Fortune Lady monster with Time Passage and then reduce it for the effect of Solitaire Magician, your Fortune Lady will still have its Level reduced by 3 when the effect of Time Passage is no longer applied.\n●You cannot choose to reduce the Level of a Fortune Lady monster whose Level is less than 3.\n●If you activate this effect and the targeted Fortune Lady monster is flipped face-down by Book of Moon, the effect of Solitaire Magician will not apply. If the monster targeted to be destroyed is flipped face-down by Book of Moon, the effect of Solitaire Magician resolves normally.\n●You must choose two different targets for this effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect targets the 2 monsters.\\n2. You reduce the Level of the targeted \"Fortune Lady\" monster when the effect resolves.\\n3. If you increase your \"Fortune Lady\" monster's Level with \"Time Passage\" and then reduce it for the effect of \"Solitaire Magician\" your \"Fortune Lady\" will still have its Level reduced by 3 when the effect of \"Time Passage\" is no longer applied.\\n4. You cannot choose to reduce the Level of a \"Fortune Lady\" monster whose Level is less than 3.\\n5. If you activate this effect and the targeted \"Fortune Lady\" monster is flipped face-down by \"Book of Moon\", the effect of \"Solitaire Magician\" will not apply. If monster targeted to be destroyed is flipped face-down by \"Book of Moon\", the effect of \"Solitaire Magician\" resolves normally.\\n6. You must choose two different targets for this effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

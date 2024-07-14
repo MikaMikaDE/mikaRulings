@@ -1,0 +1,44 @@
+{
+  "id": 6480253,
+  "name": "Wroughtweiler",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 1200,
+    "level": 3,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Wroughtweiler” targets.\n●If the necessary 2 cards are not in the GY when the effect of “Wroughtweiler” resolves, the effect disappears. Even if the effect cannot resolve, it still starts a chain.",
+    "Goat": "●The effect of “Wroughtweiler” targets.\n●If the necessary 2 cards are not in the GY when the effect of “Wroughtweiler” resolves, the effect disappears. Even if the effect cannot resolve, it still starts a chain.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Wroughtweiler” targets.\n● If the necessary 2 cards are not in the GY when the effect of “Wroughtweiler” resolves, the effect disappears. Even if the effect can't resolve, it still starts a chain.",
+    "TeleDAD": "● The effect of “Wroughtweiler” targets.\n● If the necessary 2 cards are not in the GY when the effect of “Wroughtweiler” resolves, the effect disappears. Even if the effect can't resolve, it still starts a chain.",
+    "Gladiator": "● The effect of “Wroughtweiler” targets.\n● If the necessary 2 cards are not in the GY when the effect of “Wroughtweiler” resolves, the effect disappears. Even if the effect can't resolve, it still starts a chain.",
+    "ReturnDAD": "● The effect of “Wroughtweiler” targets.\n● If the necessary 2 cards are not in the GY when the effect of “Wroughtweiler” resolves, the effect disappears. Even if the effect can't resolve, it still starts a chain.",
+    "Trooper": "● The effect of “Wroughtweiler” targets.\n● If the necessary 2 cards are not in the GY when the effect of “Wroughtweiler” resolves, the effect disappears. Even if the effect can't resolve, it still starts a chain.",
+    "Circle": "● The effect of “Wroughtweiler” targets.\n● If the necessary 2 cards are not in the GY when the effect of “Wroughtweiler” resolves, the effect disappears. Even if the effect can't resolve, it still starts a chain.",
+    "Stein": "● The effect of “Wroughtweiler” targets.\n● If the necessary 2 cards are not in the GY when the effect of “Wroughtweiler” resolves, the effect disappears. Even if the effect can't resolve, it still starts a chain.",
+    "Base": "1. The effect of \"Wroughtweiler\" targets.\\n2. If the necessary 2 cards are not in the GY when the effect of \"Wroughtweiler\" resolves, the effect disappears. Even if the effect cannot resolve, it still starts a chain."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

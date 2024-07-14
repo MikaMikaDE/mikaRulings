@@ -1,0 +1,40 @@
+{
+  "id": 45247637,
+  "name": "Mark of the Rose",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Removing 1 Plant in your GY from play is a cost.\n● If you use 'Tailor of the Fickle' to equip 'Mark of the Rose' to another monster your opponent controls during their turn, you will take control of that monster after 'Tailor of the Fickle' resolves.\n● The effects of 'Mark of the Rose' that activate during your Standby Phase and End Phase start a Chain.",
+    "TeleDAD": "● Removing 1 Plant in your GY from play is a cost.\n● If you use 'Tailor of the Fickle' to equip 'Mark of the Rose' to another monster your opponent controls during their turn, you will take control of that monster after 'Tailor of the Fickle' resolves.\n● The effects of 'Mark of the Rose' that activate during your Standby Phase and End Phase start a Chain.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Removing 1 Plant-Type monster in your GY from play is a cost.\\n2. If you use \"Tailor of the Fickle\" to equip \"Mark of the Rose\" to another monster your opponent controls during their turn, you will take control of that monster after \"Tailor of the Fickle\" resolves.\\n3. The effects of \"Mark of the Rose\" that activates during your Standby Phase and End Phase start a Chain."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 44364207,
+  "name": "Jade Knight",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1800,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● If this Set card was destroyed by battle, you cannot activate the ② effect. It must be face-up when targeted for the attack. This ruling also applies to “Cyber Phoenix”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Jade Knight' is attacked while face-down, its effect does not activate when it is destroyed by battle.",
+    "TeleDAD": "● If 'Jade Knight' is attacked while face-down, its effect does not activate when it is destroyed by battle.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Jade Knight\" is attacked while face-down, its effect does not activate when it is destroyed by battle."
+  },
+  "PSCT": {
+    "Tengu": "① While this card is in Attack Position, Machines you control with 1200 or less ATK cannot be destroyed by Trap effects. \n② If this card is destroyed by battle and sent to the GY, and was face-up at attack declaration: \nYou can add 1 Level 4 LIGHT Machine from your Deck to your hand.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

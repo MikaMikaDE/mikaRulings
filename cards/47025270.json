@@ -1,0 +1,44 @@
+{
+  "id": 47025270,
+  "name": "Helping Robo for Combat",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 0,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●When Helping Robo For Combat destroys a monster in battle, you resolve the effect of Helping Robo for Combat before the destroyed monster is sent to the GY.",
+    "Goat": "●When Helping Robo For Combat destroys a monster in battle, you resolve the effect of Helping Robo for Combat before the destroyed monster is sent to the GY.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Helping Robo For Combat' destroys a monster in battle, you resolve the effect of 'Helping Robo for Combat' before the destroyed monster is sent to the GY.",
+    "TeleDAD": "● When 'Helping Robo For Combat' destroys a monster in battle, you resolve the effect of 'Helping Robo for Combat' before the destroyed monster is sent to the GY.",
+    "Gladiator": "● When 'Helping Robo For Combat' destroys a monster in battle, you resolve the effect of 'Helping Robo for Combat' before the destroyed monster is sent to the GY.",
+    "ReturnDAD": "● When 'Helping Robo For Combat' destroys a monster in battle, you resolve the effect of 'Helping Robo for Combat' before the destroyed monster is sent to the GY.",
+    "Trooper": "● When 'Helping Robo For Combat' destroys a monster in battle, you resolve the effect of 'Helping Robo for Combat' before the destroyed monster is sent to the GY.",
+    "Circle": "● When 'Helping Robo For Combat' destroys a monster in battle, you resolve the effect of 'Helping Robo for Combat' before the destroyed monster is sent to the GY.",
+    "Stein": "● When 'Helping Robo For Combat' destroys a monster in battle, you resolve the effect of 'Helping Robo for Combat' before the destroyed monster is sent to the GY.",
+    "Base": "1. When \"Helping Robo For Combat\" destroys a monster in battle, you resolve the effect of \"Helping Robo for Combat\" before the destroyed monster is sent to the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

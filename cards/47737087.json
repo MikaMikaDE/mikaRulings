@@ -1,0 +1,44 @@
+{
+  "id": 47737087,
+  "name": "Elemental HERO Rampart Blaster",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 2000,
+    "def": 2500,
+    "level": 6,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When using this card’s effect to attack from Defense Position, you apply half of its current ATK. So if it equipped with “Axe of Despair”, you would apply 1500 ATK for damage calculation.",
+    "TeleDAD": "● When using this card’s effect to attack from Defense Position, you apply half of its current ATK. So if it equipped with “Axe of Despair”, you would apply 1500 ATK for damage calculation.",
+    "Gladiator": "● When using this card’s effect to attack from Defense Position, you apply half of its current ATK. So if it equipped with “Axe of Despair”, you would apply 1500 ATK for damage calculation.",
+    "ReturnDAD": "● When using this card’s effect to attack from Defense Position, you apply half of its current ATK. So if it equipped with “Axe of Despair”, you would apply 1500 ATK for damage calculation.",
+    "Trooper": "● When using this card’s effect to attack from Defense Position, you apply half of its current ATK. So if it equipped with “Axe of Despair”, you would apply 1500 ATK for damage calculation.",
+    "Circle": "● When using this card’s effect to attack from Defense Position, you apply half of its current ATK. So if it equipped with “Axe of Despair”, you would apply 1500 ATK for damage calculation.",
+    "Stein": "● When using this card’s effect to attack from Defense Position, you apply half of its current ATK. So if it equipped with “Axe of Despair”, you would apply 1500 ATK for damage calculation.",
+    "Base": "1. When using this card's effect to attack from Defense Position, you apply half of its current ATK. So if it equipped with \"Axe of Despair\", you would apply 1500 ATK for damage calculation."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 59575539,
+  "name": "Krebons",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 400,
+    "level": 2,
+    "race": "Psychic",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● Krebons has taken over my mind. Galvanic Juggling neutralizes neuron thought processes. \nI shall pay 800. I shall protect my Lord. All hail Krebons. King. Krebons.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Paying 800 LP is a cost. 'Krebons'' effect does not target.\n● If 'Asura Priest' attacks 'Krebons' and 'Krebons'' effect is used to negate the attack, 'Asura Priest' can't attack that same 'Krebons' again during the same Battle Phase.\n● If an effect is chained that flips 'Krebons' face-down, its effect still resolves and the attack is still negated.",
+    "TeleDAD": "● Paying 800 LP is a cost. 'Krebons'' effect does not target.\n● If 'Asura Priest' attacks 'Krebons' and 'Krebons'' effect is used to negate the attack, 'Asura Priest' can't attack that same 'Krebons' again during the same Battle Phase.\n● If an effect is chained that flips 'Krebons' face-down, its effect still resolves and the attack is still negated.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Paying 800 Life Points is a cost. The effect of \"Krebons\" does not target.\\n2. If \"Asura Priest\" attacks \"Krebons\" and the effect of \"Krebons\" is used to negate the attack, \"Asura Priest\" cannot attack that same \"Krebons\" again during the same Battle Phase."
+  },
+  "PSCT": {
+    "Tengu": "● If this card is targeted for an attack: You can pay 800 LP; \nnegate the attack.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

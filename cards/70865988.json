@@ -1,0 +1,40 @@
+{
+  "id": 70865988,
+  "name": "Full Salvo",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●The cards sent to the GY after the activation of “Full Salvo” are sent to the GY by the effect of “Full Salvo”. They are not a cost. So they are sent when “Full Salvo” resolves, not when it is activated.\n●If you send a “Dark World” monster to the GY for the effect of “Full Salvo”, its effects do not activate because it was not “discarded”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The cards sent to the GY after the activation of “Full Salvo” are sent to the GY by the effect of “Full Salvo”. They are not a cost. So they are sent when “Full Salvo” resolves, not when it is activated.\n● If you send a “Dark World” monster to the GY for the effect of “Full Salvo”, its effects do not activate because it was not “discarded”.",
+    "TeleDAD": "● The cards sent to the GY after the activation of “Full Salvo” are sent to the GY by the effect of “Full Salvo”. They are not a cost. So they are sent when “Full Salvo” resolves, not when it is activated.\n● If you send a “Dark World” monster to the GY for the effect of “Full Salvo”, its effects do not activate because it was not “discarded”.",
+    "Gladiator": "● The cards sent to the GY after the activation of “Full Salvo” are sent to the GY by the effect of “Full Salvo”. They are not a cost. So they are sent when “Full Salvo” resolves, not when it is activated.\n● If you send a “Dark World” monster to the GY for the effect of “Full Salvo”, its effects do not activate because it was not “discarded”.",
+    "ReturnDAD": "● The cards sent to the GY after the activation of “Full Salvo” are sent to the GY by the effect of “Full Salvo”. They are not a cost. So they are sent when “Full Salvo” resolves, not when it is activated.\n● If you send a “Dark World” monster to the GY for the effect of “Full Salvo”, its effects do not activate because it was not “discarded”.",
+    "Trooper": "● The cards sent to the GY after the activation of “Full Salvo” are sent to the GY by the effect of “Full Salvo”. They are not a cost. So they are sent when “Full Salvo” resolves, not when it is activated.\n● If you send a “Dark World” monster to the GY for the effect of “Full Salvo”, its effects do not activate because it was not “discarded”.",
+    "Circle": "● The cards sent to the GY after the activation of “Full Salvo” are sent to the GY by the effect of “Full Salvo”. They are not a cost. So they are sent when “Full Salvo” resolves, not when it is activated.\n● If you send a “Dark World” monster to the GY for the effect of “Full Salvo”, its effects do not activate because it was not “discarded”.",
+    "Stein": "● The cards sent to the GY after the activation of “Full Salvo” are sent to the GY by the effect of “Full Salvo”. They are not a cost. So they are sent when “Full Salvo” resolves, not when it is activated.\n● If you send a “Dark World” monster to the GY for the effect of “Full Salvo”, its effects do not activate because it was not “discarded”.",
+    "Base": "1. The cards sent to the GY after the activation of \"Full Salvo\" are sent to the GY by the effect of \"Full Salvo\". They are not a cost. So they are sent when \"Full Salvo\" resolves, not when it is activated.\\n2. If you send a \"Dark World\" monster to the GY for the effect of \"Full Salvo\", its effects do not activate because it was not \"discarded\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

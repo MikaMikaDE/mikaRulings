@@ -1,0 +1,44 @@
+{
+  "id": 56043447,
+  "name": "Viser Des",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 1200,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Viser Des” targets 1 monster your opponent controls.\n●If your opponent takes control of “Viser Des” its effect will no longer apply.\n●If “Viser Des” is equipped to “Relinquished” its effect will no longer apply. You cannot use “My Body as a Shield” against this effect.\n●If you target “Spirit Reaper” with this effect it is immediately destroyed by its own effect. “Viser Des” will not apply its “This card cannot be destroyed” effect.\n●If your opponent controls no monsters when you Normal Summon “Viser Des” you cannot apply any of its effects.\n●If “Viser Des” is destroyed by a card effect before your 3rd Standby Phase, your opponent’s monster will not be destroyed.\n●You can target a face-down monster with the effect of “Viser Des.”\n●If “Viser Des” or the targeted monster is removed from the field before your 3rd Standby Phase, even temporarily, all effects of “Viser Des” will stop being applied.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Viser Des\" targets 1 monster your opponent controls.\\n2. If your opponent takes control of \"Viser Des\" its effect will no longer apply.\\n3. If \"Viser Des\" is equipped to \"Relinquished\" its effect will no longer apply.\\n4. You cannot use \"My Body as a Shield\" against this effect.\\n5. If you target \"Spirit Reaper\" with this effect it is immediately destroyed by its own effect. \"Viser Des\" will not apply its 'This card cannot be destroyed' effect.\\n6. If your opponent controls no monsters when you Normal Summon \"Viser Des\" you cannot apply any of its effects.\\n7. If \"Viser Des\" is destroyed by a card effect before your 3rd Standby Phase, your opponent's monster will not be destroyed.\\n8. You can target a face-down monster with the effect of \"Viser Des\".\\n9. If \"Viser Des\" or the targeted monster is removed from the field before your 3rd Standby Phase, even temporarily, all effects of \"Viser Des\" will stop being applied."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

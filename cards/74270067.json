@@ -1,0 +1,40 @@
+{
+  "id": 74270067,
+  "name": "Pikeru's Circle of Enchantment",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●This effect lasts until the end of the End Phase.",
+    "Goat": "●This effect lasts until the end of the End Phase.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This effect lasts until the end of the End Phase.",
+    "TeleDAD": "● This effect lasts until the end of the End Phase.",
+    "Gladiator": "● This effect lasts until the end of the End Phase.",
+    "ReturnDAD": "● This effect lasts until the end of the End Phase.",
+    "Trooper": "● This effect lasts until the end of the End Phase.",
+    "Circle": "● This effect lasts until the end of the End Phase.",
+    "Stein": "● This effect lasts until the end of the End Phase.",
+    "Base": "1. This effect lasts until the end of the End Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

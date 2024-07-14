@@ -1,0 +1,44 @@
+{
+  "id": 39978267,
+  "name": "Cyber Raider",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 1000,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot equip an inappropriate Equip Spell Card like Premature Burial or Snatch Steal to Cyber Raider with his effect.\n●When you Normal Summon, Flip Summon, or Special Summon Cyber Raider and there is no Equip Spell Card on the field, Cyber Raider's effect does not activate and cannot be chained to.",
+    "Goat": "●You cannot equip an inappropriate Equip Spell Card like Premature Burial or Snatch Steal to Cyber Raider with his effect.\n●When you Normal Summon, Flip Summon, or Special Summon Cyber Raider and there is no Equip Spell Card on the field, Cyber Raider's effect does not activate and cannot be chained to.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't equip an inappropriate Equip Spell Card like 'Premature Burial' or 'Snatch Steal' to Cyber Raider with his effect.\n● When you Normal Summon, Flip Summon, or Special Summon 'Cyber Raider' and there is no Equip Spell Card on the field, 'Cyber Raider''s effect does not activate and can't be chained to.",
+    "TeleDAD": "● You can't equip an inappropriate Equip Spell Card like 'Premature Burial' or 'Snatch Steal' to Cyber Raider with his effect.\n● When you Normal Summon, Flip Summon, or Special Summon 'Cyber Raider' and there is no Equip Spell Card on the field, 'Cyber Raider''s effect does not activate and can't be chained to.",
+    "Gladiator": "● You can't equip an inappropriate Equip Spell Card like 'Premature Burial' or 'Snatch Steal' to Cyber Raider with his effect.\n● When you Normal Summon, Flip Summon, or Special Summon 'Cyber Raider' and there is no Equip Spell Card on the field, 'Cyber Raider''s effect does not activate and can't be chained to.",
+    "ReturnDAD": "● You can't equip an inappropriate Equip Spell Card like 'Premature Burial' or 'Snatch Steal' to Cyber Raider with his effect.\n● When you Normal Summon, Flip Summon, or Special Summon 'Cyber Raider' and there is no Equip Spell Card on the field, 'Cyber Raider''s effect does not activate and can't be chained to.",
+    "Trooper": "● You can't equip an inappropriate Equip Spell Card like 'Premature Burial' or 'Snatch Steal' to Cyber Raider with his effect.\n● When you Normal Summon, Flip Summon, or Special Summon 'Cyber Raider' and there is no Equip Spell Card on the field, 'Cyber Raider''s effect does not activate and can't be chained to.",
+    "Circle": "● You can't equip an inappropriate Equip Spell Card like 'Premature Burial' or 'Snatch Steal' to Cyber Raider with his effect.\n● When you Normal Summon, Flip Summon, or Special Summon 'Cyber Raider' and there is no Equip Spell Card on the field, 'Cyber Raider''s effect does not activate and can't be chained to.",
+    "Stein": "● You can't equip an inappropriate Equip Spell Card like 'Premature Burial' or 'Snatch Steal' to Cyber Raider with his effect.\n● When you Normal Summon, Flip Summon, or Special Summon 'Cyber Raider' and there is no Equip Spell Card on the field, 'Cyber Raider''s effect does not activate and can't be chained to.",
+    "Base": "1. You cannot equip an inappropriate Equip Spell Card like \"Premature Burial\" or \"Snatch Steal\" to \"Cyber Raider\" with his effect.\\n2. When you Normal Summon, Flip Summon, or Special Summon \"Cyber Raider\" and there is no Equip Spell Card on the field, the effect of \"Cyber Raider\" does not activate and cannot be chained to."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

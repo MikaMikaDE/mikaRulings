@@ -1,0 +1,44 @@
+{
+  "id": 23558733,
+  "name": "Phoenixian Cluster Amaryllis",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2200,
+    "def": 0,
+    "level": 8,
+    "race": "Plant",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "● The ③ effect is not \"once per turn\", so if it is negated by \"Royal Oppression\", it can be activated again in the same End Phase. \n(Banishing a plant is a cost, so even if it is negated this way, the plant remains banished).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can Normal Summon \"Phoenixian Cluster Amaryllis\" like any other Level 8 monster.\\n2. The restrictions on Special Summoning \"Phoenixian Cluster Amaryllis\" are not 'effects'.\\n3. Removing a Plant from your GY to Special Summon \"Phoenixian Cluster Amaryllis\" is a cost to activate the Ignition Effect.\\n4. \"Phoenixian Cluster Amaryllis\" destroys itself immediately after calculating damage, at the same time that damage is applied. This is the same timing as \"Airknight Parshath\", for example. However, the effect of \"Phoenixian Cluster Amaryllis\" is a Continuous Effect and does not go on a Chain, so this effect will be applied earlier than that of \"Airknight Parshath\", although the activation/timing is considered to be the same.\\n5. If \"Phoenixian Cluster Amaryllis\" attacks a monster with higher ATK, it is destroyed by battle and will not destroy itself with its own effect. Note that even if destroyed by battle and sent to the GY, the effect to inflict 800 damage still activates, because it doesn't matter how \"Phoenixian Cluster Amaryllis\" is sent from the field to the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

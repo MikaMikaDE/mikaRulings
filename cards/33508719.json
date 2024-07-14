@@ -1,0 +1,44 @@
+{
+  "id": 33508719,
+  "name": "Morphing Jar",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 700,
+    "def": 600,
+    "level": 2,
+    "race": "Rock",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "● Discarding happens before drawing, which can cause cards like \"Jinzo - Returner\" to miss their timing.\nYou can read more about Timing here:\nhttps://edisonformat.net/rules/compendium/missing-the-timing",
+    "Goat": "●If there are fewer than 5 cards in the Deck of either player when this card’s Flip Effect is activated, that player will lose the Duel, since the text of this card says draw.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If there are fewer than 5 cards in the Deck of either player when this card’s Flip Effect is activated, that player will lose the Duel, since the text of this card says 'draw'.",
+    "TeleDAD": "● If there are fewer than 5 cards in the Deck of either player when this card’s Flip Effect is activated, that player will lose the Duel, since the text of this card says 'draw'.",
+    "Gladiator": "● If there are fewer than 5 cards in the Deck of either player when this card’s Flip Effect is activated, that player will lose the Duel, since the text of this card says 'draw'.",
+    "ReturnDAD": "● If there are fewer than 5 cards in the Deck of either player when this card’s Flip Effect is activated, that player will lose the Duel, since the text of this card says 'draw'.",
+    "Trooper": "● If there are fewer than 5 cards in the Deck of either player when this card’s Flip Effect is activated, that player will lose the Duel, since the text of this card says 'draw'.",
+    "Circle": "● If there are fewer than 5 cards in the Deck of either player when this card’s Flip Effect is activated, that player will lose the Duel, since the text of this card says 'draw'.",
+    "Stein": "● If there are fewer than 5 cards in the Deck of either player when this card’s Flip Effect is activated, that player will lose the Duel, since the text of this card says 'draw'.",
+    "Base": "1. If there are fewer than 5 cards in the Deck of either player when this card's Flip Effect is activated, that player will lose the Duel, since the text of this card says \"draw\"."
+  },
+  "PSCT": {
+    "Tengu": "① FLIP: Each player discards their hand, then draws 5 cards.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

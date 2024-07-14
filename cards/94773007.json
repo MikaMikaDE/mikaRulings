@@ -1,0 +1,44 @@
+{
+  "id": 94773007,
+  "name": "Jirai Gumo",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2200,
+    "def": 100,
+    "level": 4,
+    "race": "Insect",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If a replay occurs when Jirai Gumo attacks and you decide to continue attacking with Jirai Gumo, you do not flip the coin again.\n●If your opponent has Toll, you must pay the cost for Toll before flipping the coin for Jirai Gumo",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If a replay occurs when 'Jirai Gumo' attacks and you decide to continue attacking with 'Jirai Gumo', you do not flip the coin again.\n● If your opponent has 'Toll', you must pay the cost for 'Toll' before flipping the coin for 'Jirai Gumo'\n● ",
+    "TeleDAD": "● If a replay occurs when 'Jirai Gumo' attacks and you decide to continue attacking with 'Jirai Gumo', you do not flip the coin again.\n● If your opponent has 'Toll', you must pay the cost for 'Toll' before flipping the coin for 'Jirai Gumo'\n● ",
+    "Gladiator": "● If a replay occurs when 'Jirai Gumo' attacks and you decide to continue attacking with 'Jirai Gumo', you do not flip the coin again.\n● If your opponent has 'Toll', you must pay the cost for 'Toll' before flipping the coin for 'Jirai Gumo'\n● ",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If a replay occurs when \"Jirai Gumo\" attacks and you decide to continue attacking with \"Jirai Gumo\", you do not flip the coin again.\\n2. If your opponent has \"Toll\", you must pay the cost for \"Toll\" before flipping the coin for \"Jirai Gumo\""
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

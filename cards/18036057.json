@@ -1,0 +1,44 @@
+{
+  "id": 18036057,
+  "name": "Airknight Parshath",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1900,
+    "def": 1400,
+    "level": 5,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. (2) When this card inflicts Battle Damage to your opponent, draw 1 card.\n●The (1) Continuous Effect applies while this card is attacking.\n●This effect will not apply if Total Defense Shogun attacks this card from Defense Position.\n●The (2) mandatory Trigger Effect activates & resolves on the field.\n●This effect activates in Substep 5 - After Damage Calculation.\n●Drawing a card is not optional. You must draw 1 card any time Airknight Parshath inflicts Battle Damage to the opponent’s Life Points. This includes direct attacks, and when it battles with a monster with a lower ATK or DEF.\n●If the opponent activates Waboku or Kuriboh to reduce the Battle Damage to 0, you do not draw.\n●When Airknight Parshath attacks a face-down monster with a Flip Effect and inflicts Battle Damage, you draw 1 card before the Flip Effect is activated (in Substep 6 - Resolve Effects).",
+    "Goat": "●Drawing a card is not optional. You must draw 1 card any time Airknight Parshath inflicts Battle Damage to the opponent’s LP. This includes direct attacks, and when it battles with a monster with a lower ATK/DEF.\n●If the opponent activates Waboku or Kuriboh to reduce the Battle Damage to 0, you do not draw.\n●When Airknight Parshath attacks a face-down monster with a Flip Effect and inflicts Battle Damage, you draw 1 card before the Flip Effect is applied.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Drawing a card isn't optional. You must draw 1 card any time 'Airknight Parshath' inflicts Battle Damage to the opponent’s LP. This includes direct attacks, and when it battles with a monster with a lower ATK or DEF.\n● If the opponent activates 'Waboku' or 'Kuriboh' to reduce the Battle Damage to 0, you do not draw.\n● When 'Airknight Parshath' attacks a face-down monster with a Flip Effect and inflicts Battle Damage, you draw 1 card before the Flip Effect is applied.",
+    "TeleDAD": "● Drawing a card isn't optional. You must draw 1 card any time 'Airknight Parshath' inflicts Battle Damage to the opponent’s LP. This includes direct attacks, and when it battles with a monster with a lower ATK or DEF.\n● If the opponent activates 'Waboku' or 'Kuriboh' to reduce the Battle Damage to 0, you do not draw.\n● When 'Airknight Parshath' attacks a face-down monster with a Flip Effect and inflicts Battle Damage, you draw 1 card before the Flip Effect is applied.",
+    "Gladiator": "● Drawing a card isn't optional. You must draw 1 card any time 'Airknight Parshath' inflicts Battle Damage to the opponent’s LP. This includes direct attacks, and when it battles with a monster with a lower ATK or DEF.\n● If the opponent activates 'Waboku' or 'Kuriboh' to reduce the Battle Damage to 0, you do not draw.\n● When 'Airknight Parshath' attacks a face-down monster with a Flip Effect and inflicts Battle Damage, you draw 1 card before the Flip Effect is applied.",
+    "ReturnDAD": "● Drawing a card isn't optional. You must draw 1 card any time 'Airknight Parshath' inflicts Battle Damage to the opponent’s LP. This includes direct attacks, and when it battles with a monster with a lower ATK or DEF.\n● If the opponent activates 'Waboku' or 'Kuriboh' to reduce the Battle Damage to 0, you do not draw.\n● When 'Airknight Parshath' attacks a face-down monster with a Flip Effect and inflicts Battle Damage, you draw 1 card before the Flip Effect is applied.",
+    "Trooper": "● Drawing a card isn't optional. You must draw 1 card any time 'Airknight Parshath' inflicts Battle Damage to the opponent’s LP. This includes direct attacks, and when it battles with a monster with a lower ATK or DEF.\n● If the opponent activates 'Waboku' or 'Kuriboh' to reduce the Battle Damage to 0, you do not draw.\n● When 'Airknight Parshath' attacks a face-down monster with a Flip Effect and inflicts Battle Damage, you draw 1 card before the Flip Effect is applied.",
+    "Circle": "● Drawing a card isn't optional. You must draw 1 card any time 'Airknight Parshath' inflicts Battle Damage to the opponent’s LP. This includes direct attacks, and when it battles with a monster with a lower ATK or DEF.\n● If the opponent activates 'Waboku' or 'Kuriboh' to reduce the Battle Damage to 0, you do not draw.\n● When 'Airknight Parshath' attacks a face-down monster with a Flip Effect and inflicts Battle Damage, you draw 1 card before the Flip Effect is applied.",
+    "Stein": "● Drawing a card isn't optional. You must draw 1 card any time 'Airknight Parshath' inflicts Battle Damage to the opponent’s LP. This includes direct attacks, and when it battles with a monster with a lower ATK or DEF.\n● If the opponent activates 'Waboku' or 'Kuriboh' to reduce the Battle Damage to 0, you do not draw.\n● When 'Airknight Parshath' attacks a face-down monster with a Flip Effect and inflicts Battle Damage, you draw 1 card before the Flip Effect is applied.",
+    "Base": "1. Drawing a card is not optional. You must draw 1 card any time \"Airknight Parshath\" inflicts Battle Damage to the opponent's Life Points. This includes direct attacks, and when it battles with a monster with a lower ATK or DEF.\\n2. If the opponent activates \"Waboku\" or \"Kuriboh\" to reduce the Battle Damage to 0, you do not draw.\\n3. When \"Airknight Parshath\" attacks a face-down monster with a Flip Effect and inflicts Battle Damage, you draw 1 card before the Flip Effect is applied."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

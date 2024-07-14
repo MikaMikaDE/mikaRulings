@@ -1,0 +1,44 @@
+{
+  "id": 83039729,
+  "name": "Grandmaster of the Six Samurai",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2100,
+    "def": 800,
+    "level": 5,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "● This card's Ⓢ does not start a chain.\n(Its Summon can be negated by \"Thunder King Rai-Oh\").",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Grandmaster of the Six Samurai's' second effect targets 1 'Six SamuraI' monster in your GY. If 'Grandmaster of the Six Samurai' is in your GY, it can target itself.\n● If 'Grandmaster of the Six Samurai' is destroyed by your opponent's card effect while in your hand or your Deck, its effect activates.\n● If you Special Summon 'Grandmaster of the Six Samurai' and your opponent negates the Special Summon and destroys it with their 'Royal Oppression', 'Grandmaster of the Six Samurai's' effect activates. If your opponent uses the effect of your 'Royal Oppression' to negate the Special Summon, 'Grandmaster of the Six Samurai's' effect does not activate.\n● If your opponent activates an effect to destroy one of your 'Six Samurai' monsters and you use the effect of the 'Six Samurai' monster to destroy your 'Grandmaster of the Six Samurai', 'Grandmaster of the Six Samurai's' effect doesn't activate because it was destroyed by your 'Six Samurai' monster and not by your opponent's card effect.",
+    "TeleDAD": "● 'Grandmaster of the Six Samurai's' second effect targets 1 'Six SamuraI' monster in your GY. If 'Grandmaster of the Six Samurai' is in your GY, it can target itself.\n● If 'Grandmaster of the Six Samurai' is destroyed by your opponent's card effect while in your hand or your Deck, its effect activates.\n● If you Special Summon 'Grandmaster of the Six Samurai' and your opponent negates the Special Summon and destroys it with their 'Royal Oppression', 'Grandmaster of the Six Samurai's' effect activates. If your opponent uses the effect of your 'Royal Oppression' to negate the Special Summon, 'Grandmaster of the Six Samurai's' effect does not activate.\n● If your opponent activates an effect to destroy one of your 'Six Samurai' monsters and you use the effect of the 'Six Samurai' monster to destroy your 'Grandmaster of the Six Samurai', 'Grandmaster of the Six Samurai's' effect doesn't activate because it was destroyed by your 'Six Samurai' monster and not by your opponent's card effect.",
+    "Gladiator": "● 'Grandmaster of the Six Samurai's' second effect targets 1 'Six SamuraI' monster in your GY. If 'Grandmaster of the Six Samurai' is in your GY, it can target itself.\n● If 'Grandmaster of the Six Samurai' is destroyed by your opponent's card effect while in your hand or your Deck, its effect activates.\n● If you Special Summon 'Grandmaster of the Six Samurai' and your opponent negates the Special Summon and destroys it with their 'Royal Oppression', 'Grandmaster of the Six Samurai's' effect activates. If your opponent uses the effect of your 'Royal Oppression' to negate the Special Summon, 'Grandmaster of the Six Samurai's' effect does not activate.\n● If your opponent activates an effect to destroy one of your 'Six Samurai' monsters and you use the effect of the 'Six Samurai' monster to destroy your 'Grandmaster of the Six Samurai', 'Grandmaster of the Six Samurai's' effect doesn't activate because it was destroyed by your 'Six Samurai' monster and not by your opponent's card effect.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The second effect of \"Grandmaster of the Six Samurai\" targets 1 'Six Samurai' monster in your GY. If \"Grandmaster of the Six Samurai\" is in your GY, it can target itself.\\n2. If \"Grandmaster of the Six Samurai\" is destroyed by your opponent's card effect while in your hand or Deck, its effect activates.\\n3. If you Special Summon \"Grandmaster of the Six Samurai\" and your opponent negates the Special Summon and destroys it with their \"Royal Oppression\", the effect of \"Grandmaster of the Six Samurai\" activates. If your opponent uses the effect of your \"Royal Oppression\" to negate the Special Summon, the effect of \"Grandmaster of the Six Samurai\" does not activate.\\n4. If your opponent activates an effect to destroy one of your 'Six Samurai' monsters and you use the effect of the 'Six Samurai' monster to destroy your \"Grandmaster of the Six Samurai\", the effect of \"Grandmaster of the Six Samurai\" doesn't activate because it was destroyed by your 'Six Samurai' monster and not by your opponent's card effect.\\n5. [FORUM] If \"Grandmaster of the Six Samurai\" is destroyed at the same time as other 'Six Samurai' monsters by your opponent's card effect, the effect of \"Grandmaster of the Six Samurai\" will activate and can target one of the other 'Six Samurai' monsters destroyed at the same time."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

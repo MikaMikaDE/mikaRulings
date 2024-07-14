@@ -1,0 +1,44 @@
+{
+  "id": 1434352,
+  "name": "Chaos Necromancer",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you equip Chaos Necromancer with Axe of Despair and have 5 monsters in your GY, the ATK of Chaos Necromancer is 2500 (1500 + 1000).\n●If Chaos Necromancer is equipped with Megamorph, its ATK is zero, but if Megamorph leaves play, recalculate the ATK of Chaos Necromancer using his effect.\n●If Shield & Sword is activated, it reverses the original ATK & DEF of Chaos Necromancer, which are both zero, then Chaos Necromancer's effect is applied and his ATK will be 300 x the number of monsters in your GY, and DEF zero.",
+    "Goat": "●If you equip Chaos Necromancer with Axe of Despair and have 5 monsters in your GY, the ATK of Chaos Necromancer is 2500 (1500 + 1000).\n●If Chaos Necromancer is equipped with Megamorph, its ATK is zero, but if Megamorph leaves play, recalculate the ATK of Chaos Necromancer using his effect.\n●If Shield & Sword is activated, it reverses the original ATK/DEF of Chaos Necromancer, which are both zero, then Chaos Necromancer's effect is applied and his ATK will be 300 x the number of monsters in your GY, and DEF zero.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you equip 'Chaos Necromancer' with 'Axe of Despair' and have 5 monsters in your GY, the ATK of 'Chaos Necromancer' is 2500 (1500 + 1000).\n● If 'Chaos Necromancer' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate the ATK of 'Chaos Necromancer' using his effect.\n● If 'Shield & Sword' is activated, it reverses the original ATK & DEF of 'Chaos Necromancer', which are both zero, then 'Chaos Necromancer''s effect is applied and his ATK will be 300 x the number of monsters in your GY, and DEF zero.",
+    "TeleDAD": "● If you equip 'Chaos Necromancer' with 'Axe of Despair' and have 5 monsters in your GY, the ATK of 'Chaos Necromancer' is 2500 (1500 + 1000).\n● If 'Chaos Necromancer' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate the ATK of 'Chaos Necromancer' using his effect.\n● If 'Shield & Sword' is activated, it reverses the original ATK & DEF of 'Chaos Necromancer', which are both zero, then 'Chaos Necromancer''s effect is applied and his ATK will be 300 x the number of monsters in your GY, and DEF zero.",
+    "Gladiator": "● If you equip 'Chaos Necromancer' with 'Axe of Despair' and have 5 monsters in your GY, the ATK of 'Chaos Necromancer' is 2500 (1500 + 1000).\n● If 'Chaos Necromancer' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate the ATK of 'Chaos Necromancer' using his effect.\n● If 'Shield & Sword' is activated, it reverses the original ATK & DEF of 'Chaos Necromancer', which are both zero, then 'Chaos Necromancer''s effect is applied and his ATK will be 300 x the number of monsters in your GY, and DEF zero.",
+    "ReturnDAD": "● If you equip 'Chaos Necromancer' with 'Axe of Despair' and have 5 monsters in your GY, the ATK of 'Chaos Necromancer' is 2500 (1500 + 1000).\n● If 'Chaos Necromancer' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate the ATK of 'Chaos Necromancer' using his effect.\n● If 'Shield & Sword' is activated, it reverses the original ATK & DEF of 'Chaos Necromancer', which are both zero, then 'Chaos Necromancer''s effect is applied and his ATK will be 300 x the number of monsters in your GY, and DEF zero.",
+    "Trooper": "● If you equip 'Chaos Necromancer' with 'Axe of Despair' and have 5 monsters in your GY, the ATK of 'Chaos Necromancer' is 2500 (1500 + 1000).\n● If 'Chaos Necromancer' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate the ATK of 'Chaos Necromancer' using his effect.\n● If 'Shield & Sword' is activated, it reverses the original ATK & DEF of 'Chaos Necromancer', which are both zero, then 'Chaos Necromancer''s effect is applied and his ATK will be 300 x the number of monsters in your GY, and DEF zero.",
+    "Circle": "● If you equip 'Chaos Necromancer' with 'Axe of Despair' and have 5 monsters in your GY, the ATK of 'Chaos Necromancer' is 2500 (1500 + 1000).\n● If 'Chaos Necromancer' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate the ATK of 'Chaos Necromancer' using his effect.\n● If 'Shield & Sword' is activated, it reverses the original ATK & DEF of 'Chaos Necromancer', which are both zero, then 'Chaos Necromancer''s effect is applied and his ATK will be 300 x the number of monsters in your GY, and DEF zero.",
+    "Stein": "● If you equip 'Chaos Necromancer' with 'Axe of Despair' and have 5 monsters in your GY, the ATK of 'Chaos Necromancer' is 2500 (1500 + 1000).\n● If 'Chaos Necromancer' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate the ATK of 'Chaos Necromancer' using his effect.\n● If 'Shield & Sword' is activated, it reverses the original ATK & DEF of 'Chaos Necromancer', which are both zero, then 'Chaos Necromancer''s effect is applied and his ATK will be 300 x the number of monsters in your GY, and DEF zero.",
+    "Base": "1. If you equip \"Chaos Necromancer\" with \"Axe of Despair\" and have 5 monsters in your GY, the ATK of \"Chaos Necromancer\" is 2500 (1500 + 1000).\\n2. If \"Chaos Necromancer\" is equipped with \"Megamorph\", its ATK is zero, but if \"Megamorph\" leaves play, recalculate the ATK of \"Chaos Necromancer\" using his effect.\\n3. If \"Shield & Sword\" is activated, it reverses the original ATK & DEF of \"Chaos Necromancer\", which are both zero, then the effect of \"Chaos Necromancer\" is applied and his ATK will be 300 x the number of monsters in your GY, and DEF zero."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

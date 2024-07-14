@@ -1,0 +1,44 @@
+{
+  "id": 17132130,
+  "name": "Destiny HERO - Dogma",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 3400,
+    "def": 2400,
+    "level": 8,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Destiny Hero – Dogma” needs to be on the field during your opponent’s next Standby Phase for his effect to activate.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Destiny Hero – Dogma” needs to be on the field during your opponent’s next Standby Phase for his effect to activate.",
+    "TeleDAD": "● “Destiny Hero – Dogma” needs to be on the field during your opponent’s next Standby Phase for his effect to activate.",
+    "Gladiator": "● “Destiny Hero – Dogma” needs to be on the field during your opponent’s next Standby Phase for his effect to activate.",
+    "ReturnDAD": "● “Destiny Hero – Dogma” needs to be on the field during your opponent’s next Standby Phase for his effect to activate.",
+    "Trooper": "● “Destiny Hero – Dogma” needs to be on the field during your opponent’s next Standby Phase for his effect to activate.",
+    "Circle": "● “Destiny Hero – Dogma” needs to be on the field during your opponent’s next Standby Phase for his effect to activate.",
+    "Stein": "● “Destiny Hero – Dogma” needs to be on the field during your opponent’s next Standby Phase for his effect to activate.",
+    "Base": "1. \"Destiny HERO - Dogma\" needs to be on the field during your opponent's next Standby Phase for his effect to activate."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

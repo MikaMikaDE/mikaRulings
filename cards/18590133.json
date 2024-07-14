@@ -1,0 +1,44 @@
+{
+  "id": 18590133,
+  "name": "Goblin King",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you have 2 Goblin Kings, or a Goblin King equipped with Raregold Armor and another Fiend-Type monster, your opponent cannot attack.\n●Goblin King's second effect includes Fiend-Type monsters on your opponent's side of the field.\n●Face-down Fiend-Type monsters are not included for Goblin King's second effect.\n●If you equip Megamorph to Goblin King, Goblin King's ATK is 0.\n●If you have a Fiend-Type monster and a face-down Goblin King, and Goblin King is attacked, Goblin King's ATK and DEF increase after he's flipped face-up, but before damage calculation is applied.",
+    "Goat": "●If you have 2 Goblin Kings, or a Goblin King equipped with Raregold Armor and another Fiend monster, your opponent cannot attack.\n●Goblin King's second effect includes Fiend monsters on your opponent's side of the field.\n●Face-down Fiend monsters are not included for Goblin King's second effect.\n●If you equip Megamorph to Goblin King, Goblin King's ATK is 0.\n●If you have a Fiend monster and a face-down Goblin King, and Goblin King is attacked, Goblin King's ATK/DEF increase after he's flipped face-up, but before damage calculation is applied.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have 2 'Goblin Kings', or a 'Goblin King' equipped with 'Raregold Armor' and another Fiend, your opponent can't attack.\n● 'Goblin King''s second effect includes Fiends on your opponent's field.\n● Face-down Fiends are not included for 'Goblin King''s second effect.\n● If you equip 'Megamorph' to 'Goblin King', 'Goblin King''s ATK is 0.\n● If you have a Fiend and a face-down 'Goblin King', and 'Goblin King' is attacked, 'Goblin King''s ATK/DEF increase after he's flipped face-up, but before damage calculation is applied.",
+    "TeleDAD": "● If you have 2 'Goblin Kings', or a 'Goblin King' equipped with 'Raregold Armor' and another Fiend, your opponent can't attack.\n● 'Goblin King''s second effect includes Fiends on your opponent's field.\n● Face-down Fiends are not included for 'Goblin King''s second effect.\n● If you equip 'Megamorph' to 'Goblin King', 'Goblin King''s ATK is 0.\n● If you have a Fiend and a face-down 'Goblin King', and 'Goblin King' is attacked, 'Goblin King''s ATK/DEF increase after he's flipped face-up, but before damage calculation is applied.",
+    "Gladiator": "● If you have 2 'Goblin Kings', or a 'Goblin King' equipped with 'Raregold Armor' and another Fiend, your opponent can't attack.\n● 'Goblin King''s second effect includes Fiends on your opponent's field.\n● Face-down Fiends are not included for 'Goblin King''s second effect.\n● If you equip 'Megamorph' to 'Goblin King', 'Goblin King''s ATK is 0.\n● If you have a Fiend and a face-down 'Goblin King', and 'Goblin King' is attacked, 'Goblin King''s ATK/DEF increase after he's flipped face-up, but before damage calculation is applied.",
+    "ReturnDAD": "● If you have 2 'Goblin Kings', or a 'Goblin King' equipped with 'Raregold Armor' and another Fiend, your opponent can't attack.\n● 'Goblin King''s second effect includes Fiends on your opponent's field.\n● Face-down Fiends are not included for 'Goblin King''s second effect.\n● If you equip 'Megamorph' to 'Goblin King', 'Goblin King''s ATK is 0.\n● If you have a Fiend and a face-down 'Goblin King', and 'Goblin King' is attacked, 'Goblin King''s ATK/DEF increase after he's flipped face-up, but before damage calculation is applied.",
+    "Trooper": "● If you have 2 'Goblin Kings', or a 'Goblin King' equipped with 'Raregold Armor' and another Fiend, your opponent can't attack.\n● 'Goblin King''s second effect includes Fiends on your opponent's field.\n● Face-down Fiends are not included for 'Goblin King''s second effect.\n● If you equip 'Megamorph' to 'Goblin King', 'Goblin King''s ATK is 0.\n● If you have a Fiend and a face-down 'Goblin King', and 'Goblin King' is attacked, 'Goblin King''s ATK/DEF increase after he's flipped face-up, but before damage calculation is applied.",
+    "Circle": "● If you have 2 'Goblin Kings', or a 'Goblin King' equipped with 'Raregold Armor' and another Fiend, your opponent can't attack.\n● 'Goblin King''s second effect includes Fiends on your opponent's field.\n● Face-down Fiends are not included for 'Goblin King''s second effect.\n● If you equip 'Megamorph' to 'Goblin King', 'Goblin King''s ATK is 0.\n● If you have a Fiend and a face-down 'Goblin King', and 'Goblin King' is attacked, 'Goblin King''s ATK/DEF increase after he's flipped face-up, but before damage calculation is applied.",
+    "Stein": "● If you have 2 'Goblin Kings', or a 'Goblin King' equipped with 'Raregold Armor' and another Fiend, your opponent can't attack.\n● 'Goblin King''s second effect includes Fiends on your opponent's field.\n● Face-down Fiends are not included for 'Goblin King''s second effect.\n● If you equip 'Megamorph' to 'Goblin King', 'Goblin King''s ATK is 0.\n● If you have a Fiend and a face-down 'Goblin King', and 'Goblin King' is attacked, 'Goblin King''s ATK/DEF increase after he's flipped face-up, but before damage calculation is applied.",
+    "Base": "1. If you have 2 copies of \"Goblin King\", or a \"Goblin King\" equipped with \"Raregold Armor\" and another Fiend-Type monster, your opponent cannot attack.\\n2. The second effect of \"Goblin King\" includes Fiend-Type monsters on your opponent's side of the field.\\n3. Face-down Fiend-Type monsters are not included for the second effect of \"Goblin King\".\\n4. If you equip \"Megamorph\" to \"Goblin King\", the ATK of \"Goblin King\" is 0.\\n5. If you have a Fiend-Type monster and a face-down \"Goblin King\", and \"Goblin King\" is attacked, the ATK and DEF of \"Goblin King\" increase after he's flipped face-up, but before damage calculation is applied."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

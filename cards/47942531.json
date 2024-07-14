@@ -1,0 +1,44 @@
+{
+  "id": 47942531,
+  "name": "Great Maju Garzett",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 6,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●When you use a monster with an original ATK of ? then Great Maju Garzett's ATK is zero.",
+    "Goat": "●When you use a monster with an original ATK of ? then Great Maju Garzett's ATK is zero.\n●Q: “Great Maju Garzett’s” ATK is double the original ATK of the monster used to Tribute summon this monster, but if “Skill Drain” is on the field would he lose his ATK bonus? \nA: Yes, “Great Maju Garzett's” ATK value would return to 0 if “Skill Drain” is on the field. Steve Okegawa,  \n●Q: If a “Book of Moon” is played on a “Great Maju Garzett,” when the controller flips him back face up, will he still have the attack he had before he was flipped, or will he be at 0/0? \nA: “Great Maju Garzett” would be at 0/0 if flipped face-up by an attack or flip-summoned. It only retains the benefit of its effect if was tribute summoned. When turned face-down its effect resets. The same would happen to “Maju Garzett.” It would also become 0/0 if Skill Drain was activated and would remain that way even if Skill Drain were to be destroyed at a later time.   \n●Q: If “Great Maju Garzett” attacks a “Cat’s Ear Tribe”, what will happen to the ATK of “Great Maju Garzett”? \nA: “Great Maju Garzett,” or “Maju Garzett” as well, would have their ATK become 200. After damage calculation, if “Great Maju Garzett” or “Maju Garzett” was not destroyed their attack would become 0.   \n●Q: Since the original ATK of “Great Maju Garzett” is 0, can “Trap Hole” or “Bottomless Trap Hole” be used in response to the Tribute Summon of this monster? \nA: If “Maju Garzett” and/or “Great Maju Garzett” is Tribute Summoned you will be able to activate “Trap Hole”/”Bottomless Trap Hole” if the ATK of the “Maju Garzett”/”Great Maju Garzett” would be high enough. The ATK of each of the Garzetts is determined when the tributed monsters are sent to the GY and is not an effect that activates upon being Successfully Tribute Summoned. So if a “Cannon Soldier” was offered as the tribute for “Great Maju Garzett” its attack would become 2800. Both “Trap Hole” and “Bottomless Trap Hole” could be activated in response. If the tributed monster was “Kuriboh,” “Great Maju Garzett's” ATK would become 600. In this case, “Trap Hole” and “Bottomless Trap Hole” could not be activated in response.  ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When you use a monster with an original ATK of '?' then 'Great Maju Garzett''s ATK is zero.",
+    "TeleDAD": "● When you use a monster with an original ATK of '?' then 'Great Maju Garzett''s ATK is zero.",
+    "Gladiator": "● When you use a monster with an original ATK of '?' then 'Great Maju Garzett''s ATK is zero.",
+    "ReturnDAD": "● When you use a monster with an original ATK of '?' then 'Great Maju Garzett''s ATK is zero.",
+    "Trooper": "● When you use a monster with an original ATK of '?' then 'Great Maju Garzett''s ATK is zero.",
+    "Circle": "● When you use a monster with an original ATK of '?' then 'Great Maju Garzett''s ATK is zero.",
+    "Stein": "● When you use a monster with an original ATK of '?' then 'Great Maju Garzett''s ATK is zero.",
+    "Base": "1. When you use a monster with an original ATK of '?' then the ATK of \"Great Maju Garzett\" is zero."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

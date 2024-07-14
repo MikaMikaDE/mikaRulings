@@ -1,0 +1,44 @@
+{
+  "id": 72426662,
+  "name": "Demise, King of Armageddon",
+  "Stats": {
+    "type": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "atk": 2400,
+    "def": 2000,
+    "level": 8,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● If \"Book of Moon\" is chained to the ① effect, this card does not destroy itself.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If an effect is chained to “Demise’s” effect to flip “Demise, King of Armageddon” face-down, he is still not destroyed by his effect.\n● This card’s effect is an Ignition Effect.",
+    "TeleDAD": "● If an effect is chained to “Demise’s” effect to flip “Demise, King of Armageddon” face-down, he is still not destroyed by his effect.\n● This card’s effect is an Ignition Effect.",
+    "Gladiator": "● If an effect is chained to “Demise’s” effect to flip “Demise, King of Armageddon” face-down, he is still not destroyed by his effect.\n● This card’s effect is an Ignition Effect.",
+    "ReturnDAD": "● If an effect is chained to “Demise’s” effect to flip “Demise, King of Armageddon” face-down, he is still not destroyed by his effect.\n● This card’s effect is an Ignition Effect.",
+    "Trooper": "● If an effect is chained to “Demise’s” effect to flip “Demise, King of Armageddon” face-down, he is still not destroyed by his effect.\n● This card’s effect is an Ignition Effect.",
+    "Circle": "● If an effect is chained to “Demise’s” effect to flip “Demise, King of Armageddon” face-down, he is still not destroyed by his effect.\n● This card’s effect is an Ignition Effect.",
+    "Stein": "● If an effect is chained to “Demise’s” effect to flip “Demise, King of Armageddon” face-down, he is still not destroyed by his effect.\n● This card’s effect is an Ignition Effect.",
+    "Base": "1. If an effect is chained to \"Demise's\" effect to flip \"Demise, King of Armageddon\" face-down, he is still not destroyed by his effect.\\n2. This card's effect is an Ignition Effect."
+  },
+  "PSCT": {
+    "Tengu": "End of the World\"\n① You can pay 2000 LP; destroy all other cards on the field.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

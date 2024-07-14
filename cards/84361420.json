@@ -1,0 +1,40 @@
+{
+  "id": 84361420,
+  "name": "Edge Hammer",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card targets 1 opponent's monster.\n●If you destroy a monster whose original ATK is undefined, like King of the Skull Servants, this card will not inflict any damage to the opponent.\n●If an effect like Enemy Controller is chained to Edge Hammer and control of the targeted monster switches, it will not be destroyed by Edge Hammer.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card targets 1 opponent's monster.\n● If you destroy a monster whose original ATK is undefined, like 'King of the Skull Servants', this card will not inflict any damage to the opponent.\n● If an effect like 'Enemy Controller' is chained to 'Edge Hammer' and control of the targeted monster switches, it will not be destroyed by 'Edge Hammer'.",
+    "TeleDAD": "● This card targets 1 opponent's monster.\n● If you destroy a monster whose original ATK is undefined, like 'King of the Skull Servants', this card will not inflict any damage to the opponent.\n● If an effect like 'Enemy Controller' is chained to 'Edge Hammer' and control of the targeted monster switches, it will not be destroyed by 'Edge Hammer'.",
+    "Gladiator": "● This card targets 1 opponent's monster.\n● If you destroy a monster whose original ATK is undefined, like 'King of the Skull Servants', this card will not inflict any damage to the opponent.\n● If an effect like 'Enemy Controller' is chained to 'Edge Hammer' and control of the targeted monster switches, it will not be destroyed by 'Edge Hammer'.",
+    "ReturnDAD": "● This card targets 1 opponent's monster.\n● If you destroy a monster whose original ATK is undefined, like 'King of the Skull Servants', this card will not inflict any damage to the opponent.\n● If an effect like 'Enemy Controller' is chained to 'Edge Hammer' and control of the targeted monster switches, it will not be destroyed by 'Edge Hammer'.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● This card targets 1 opponent's monster.\n● If you destroy a monster whose original ATK is undefined, like 'King of the Skull Servants', this card will not inflict any damage to the opponent.\n● If an effect like 'Enemy Controller' is chained to 'Edge Hammer' and control of the targeted monster switches, it will not be destroyed by 'Edge Hammer'.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card targets 1 opponent's monster.\\n2. If you destroy a monster whose original ATK is undefined, like \"King of the Skull Servants\", this card will not inflict any damage to the opponent.\\n3. If an effect like \"Enemy Controller\" is chained to \"Edge Hammer\" and control of the targeted monster switches, it will not be destroyed by \"Edge Hammer\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

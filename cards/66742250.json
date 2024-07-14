@@ -1,0 +1,40 @@
+{
+  "id": 66742250,
+  "name": "Curse of Anubis",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Curse of Anubis does not apply to monsters that are Summoned after Curse of Anubis' effect is applied.\n●If Book of Moon is chained to Curse of Anubis to flip a monster face-down, the effect of Curse of Anubis is not applied to the monster that was flipped face-down.",
+    "Goat": "●Curse of Anubis does not apply to monsters that are Summoned after Curse of Anubis' effect is applied.\n●If Book of Moon is chained to Curse of Anubis to flip a monster face-down, the effect of Curse of Anubis is not applied to the monster that was Set.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Curse of Anubis' does not apply to monsters that are Summoned after 'Curse of Anubis'' effect is applied.\n● If 'Book of Moon' is chained to 'Curse of Anubis' to flip a monster face-down, the effect of 'Curse of Anubis' isn't applied to the monster that was flipped face-down.",
+    "TeleDAD": "● 'Curse of Anubis' does not apply to monsters that are Summoned after 'Curse of Anubis'' effect is applied.\n● If 'Book of Moon' is chained to 'Curse of Anubis' to flip a monster face-down, the effect of 'Curse of Anubis' isn't applied to the monster that was flipped face-down.",
+    "Gladiator": "● 'Curse of Anubis' does not apply to monsters that are Summoned after 'Curse of Anubis'' effect is applied.\n● If 'Book of Moon' is chained to 'Curse of Anubis' to flip a monster face-down, the effect of 'Curse of Anubis' isn't applied to the monster that was flipped face-down.",
+    "ReturnDAD": "● 'Curse of Anubis' does not apply to monsters that are Summoned after 'Curse of Anubis'' effect is applied.\n● If 'Book of Moon' is chained to 'Curse of Anubis' to flip a monster face-down, the effect of 'Curse of Anubis' isn't applied to the monster that was flipped face-down.",
+    "Trooper": "● 'Curse of Anubis' does not apply to monsters that are Summoned after 'Curse of Anubis'' effect is applied.\n● If 'Book of Moon' is chained to 'Curse of Anubis' to flip a monster face-down, the effect of 'Curse of Anubis' isn't applied to the monster that was flipped face-down.",
+    "Circle": "● 'Curse of Anubis' does not apply to monsters that are Summoned after 'Curse of Anubis'' effect is applied.\n● If 'Book of Moon' is chained to 'Curse of Anubis' to flip a monster face-down, the effect of 'Curse of Anubis' isn't applied to the monster that was flipped face-down.",
+    "Stein": "● 'Curse of Anubis' does not apply to monsters that are Summoned after 'Curse of Anubis'' effect is applied.\n● If 'Book of Moon' is chained to 'Curse of Anubis' to flip a monster face-down, the effect of 'Curse of Anubis' isn't applied to the monster that was flipped face-down.",
+    "Base": "1. \"Curse of Anubis\" does not apply to monsters that are Summoned after the effect of \"Curse of Anubis\" is applied.\\n2. If \"Book of Moon\" is chained to \"Curse of Anubis\" to flip a monster face-down, the effect of \"Curse of Anubis\" is not applied to the monster that was flipped face-down."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

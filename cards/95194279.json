@@ -1,0 +1,40 @@
+{
+  "id": 95194279,
+  "name": "Dimension Distortion",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Your GY only has to be empty when you activate Dimension Distortion, so if an effect is chained that puts a card in your GY, Dimension Distortion still resolves.\n●Dimension Distortion can only Special Summon a monster that is face-up while removed from play (cannot Special Summon a monster removed with Lightforce Sword or Different Dimension Capsule).\n●Dimension Distortion can Special Summon Dark Ruler Ha Des.\n●When a Special Summon-only monster is removed, without returning to the hand or Deck, after it is Special Summoned properly, it can be Special Summoned by Dimension Distortion.",
+    "Goat": "●Your GY only has to be empty when you activate Dimension Distortion, so if an effect is chained that puts a card in your GY, Dimension Distortion still resolves.\n●Dimension Distortion can only Special Summon a monster that is face-up while removed from play (cannot Special Summon a monster removed with Lightforce Sword or Different Dimension Capsule).\n●Dimension Distortion can Special Summon Dark Ruler Ha Des.\n●When a Special Summon-only monster is removed, without returning to the hand or Deck, after it is Special Summoned properly, it can be Special Summoned by Dimension Distortion.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Your GY only has to be empty when you activate 'Dimension Distortion', so if an effect is chained that puts a card in your GY, 'Dimension Distortion' still resolves.\n● 'Dimension Distortion' can only Special Summon a monster that is face-up while removed from play (can't Special Summon a monster removed with 'Lightforce Sword' or 'Different Dimension Capsule').\n● 'Dimension Distortion' can Special Summon 'Dark Ruler Ha Des'.\n● When a 'Special Summon-only' monster is removed, without returning to the hand or Deck, after it is Special Summoned properly, it can be Special Summoned by 'Dimension Distortion'.",
+    "TeleDAD": "● Your GY only has to be empty when you activate 'Dimension Distortion', so if an effect is chained that puts a card in your GY, 'Dimension Distortion' still resolves.\n● 'Dimension Distortion' can only Special Summon a monster that is face-up while removed from play (can't Special Summon a monster removed with 'Lightforce Sword' or 'Different Dimension Capsule').\n● 'Dimension Distortion' can Special Summon 'Dark Ruler Ha Des'.\n● When a 'Special Summon-only' monster is removed, without returning to the hand or Deck, after it is Special Summoned properly, it can be Special Summoned by 'Dimension Distortion'.",
+    "Gladiator": "● Your GY only has to be empty when you activate 'Dimension Distortion', so if an effect is chained that puts a card in your GY, 'Dimension Distortion' still resolves.\n● 'Dimension Distortion' can only Special Summon a monster that is face-up while removed from play (can't Special Summon a monster removed with 'Lightforce Sword' or 'Different Dimension Capsule').\n● 'Dimension Distortion' can Special Summon 'Dark Ruler Ha Des'.\n● When a 'Special Summon-only' monster is removed, without returning to the hand or Deck, after it is Special Summoned properly, it can be Special Summoned by 'Dimension Distortion'.",
+    "ReturnDAD": "● Your GY only has to be empty when you activate 'Dimension Distortion', so if an effect is chained that puts a card in your GY, 'Dimension Distortion' still resolves.\n● 'Dimension Distortion' can only Special Summon a monster that is face-up while removed from play (can't Special Summon a monster removed with 'Lightforce Sword' or 'Different Dimension Capsule').\n● 'Dimension Distortion' can Special Summon 'Dark Ruler Ha Des'.\n● When a 'Special Summon-only' monster is removed, without returning to the hand or Deck, after it is Special Summoned properly, it can be Special Summoned by 'Dimension Distortion'.",
+    "Trooper": "● Your GY only has to be empty when you activate 'Dimension Distortion', so if an effect is chained that puts a card in your GY, 'Dimension Distortion' still resolves.\n● 'Dimension Distortion' can only Special Summon a monster that is face-up while removed from play (can't Special Summon a monster removed with 'Lightforce Sword' or 'Different Dimension Capsule').\n● 'Dimension Distortion' can Special Summon 'Dark Ruler Ha Des'.\n● When a 'Special Summon-only' monster is removed, without returning to the hand or Deck, after it is Special Summoned properly, it can be Special Summoned by 'Dimension Distortion'.",
+    "Circle": "● Your GY only has to be empty when you activate 'Dimension Distortion', so if an effect is chained that puts a card in your GY, 'Dimension Distortion' still resolves.\n● 'Dimension Distortion' can only Special Summon a monster that is face-up while removed from play (can't Special Summon a monster removed with 'Lightforce Sword' or 'Different Dimension Capsule').\n● 'Dimension Distortion' can Special Summon 'Dark Ruler Ha Des'.\n● When a 'Special Summon-only' monster is removed, without returning to the hand or Deck, after it is Special Summoned properly, it can be Special Summoned by 'Dimension Distortion'.",
+    "Stein": "● Your GY only has to be empty when you activate 'Dimension Distortion', so if an effect is chained that puts a card in your GY, 'Dimension Distortion' still resolves.\n● 'Dimension Distortion' can only Special Summon a monster that is face-up while removed from play (can't Special Summon a monster removed with 'Lightforce Sword' or 'Different Dimension Capsule').\n● 'Dimension Distortion' can Special Summon 'Dark Ruler Ha Des'.\n● When a 'Special Summon-only' monster is removed, without returning to the hand or Deck, after it is Special Summoned properly, it can be Special Summoned by 'Dimension Distortion'.",
+    "Base": "1. Your GY only has to be empty when you activate \"Dimension Distortion\", so if an effect is chained that puts a card in your GY, \"Dimension Distortion\" still resolves.\\n2. \"Dimension Distortion\" can only Special Summon a monster that is face-up while removed from play (cannot Special Summon a monster removed with \"Lightforce Sword\" or \"Different Dimension Capsule\").\\n3. \"Dimension Distortion\" can Special Summon \"Dark Ruler Ha Des\".\\n4. When a 'Special Summon-only' monster is removed, without returning to the hand or Deck, after it is Special Summoned properly, it can be Special Summoned by \"Dimension Distortion\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 23303072,
+  "name": "Montage Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 8,
+    "race": "Dragon",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot Special Summon Montage Dragon while Macro Cosmos or Dimensional Fissure, etc. is face-up on the field because you cannot send Monster Cards from your hand to the GY.\n●If you send a WATER monster from your hand to the GY while A Legendary Ocean is active, the original Level of the monster is used and not the reduced Level.\n●If Montage Dragon is flipped face-down by Book of Moon, etc., when it is flipped face-up its ATK is 0.\n●If Skill Drain is active while Montage Dragon is face-up on the field, its ATK becomes 0. If Skill Drain is later negated or removed from the field, its ATK remains 0.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't Special Summon 'Montage Dragon' while 'Macro Cosmos' or 'Dimensional Fissure', etc. is applying because you can't send Monster Cards from your hand to the GY.\n● If you send a WATER monster from your hand to the GY while 'A Legendary Ocean' is applying, the original LV of the monster is used and not the reduced LV.\n● If 'Montage Dragon' is flipped face-down by 'Book of Moon', etc., when it is flipped face-up its ATK is 0.\n● If 'Skill Drain' is applying while 'Montage Dragon' is applying, its ATK becomes 0. If 'Skill Drain' is later negated or removed from the field, its ATK remains 0.",
+    "TeleDAD": "● You can't Special Summon 'Montage Dragon' while 'Macro Cosmos' or 'Dimensional Fissure', etc. is applying because you can't send Monster Cards from your hand to the GY.\n● If you send a WATER monster from your hand to the GY while 'A Legendary Ocean' is applying, the original LV of the monster is used and not the reduced LV.\n● If 'Montage Dragon' is flipped face-down by 'Book of Moon', etc., when it is flipped face-up its ATK is 0.\n● If 'Skill Drain' is applying while 'Montage Dragon' is applying, its ATK becomes 0. If 'Skill Drain' is later negated or removed from the field, its ATK remains 0.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You cannot Special Summon \"Montage Dragon\" while \"Macro Cosmos\" or \"Dimensional Fissure\", etc. is face-up on the field because you cannot send Monster Cards from your hand to the GY.\\n2. If you send a WATER monster from your hand to the GY while \"A Legendary Ocean\" is active, the original Level of the monster is used and not the reduced Level.\\n3. If \"Montage Dragon\" is flipped face-down by \"Book of Moon\", etc., when it is flipped face-up its ATK is 0.\\n4. If \"Skill Drain\" is active while \"Montage Dragon\" is face-up on the field, its ATK becomes 0. If \"Skill Drain\" is later negated or removed from the field, its ATK remains 0."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 73414375,
+  "name": "Dimension Jar",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 200,
+    "def": 200,
+    "level": 2,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card should say FLIP: Both players can remove from play up to 3 cards from their opponent's GY., not up to 3 monsters.\n●You can use Dimension Jar's effect for zero to three cards, so even if your opponent has less than 3 cards in his GY you can still use Dimension Jar's effect.\n●When Kycoo the Ghost Destroyer is on the field and Dimension Jar is activated, the controller of Kycoo the Ghost Destroyer can remove their opponent's cards in the GY from play.",
+    "Goat": "●You can use Dimension Jar's effect for zero to three cards, so even if your opponent has less than 3 monsters in his GY you can still use Dimension Jar's effect.\n●When Kycoo the Ghost Destroyer is on the field and Dimension Jar is activated, the controller of Kycoo the Ghost Destroyer can remove his/her opponent's cards in the GY from play.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card should say 'FLIP: Both players can remove from play up to 3 cards from their opponent's GY.', not 'up to 3 monsters'. \n● You can use 'Dimension Jar's' effect for zero to three cards, so even if your opponent has less than 3 cards in his GY you can still use 'Dimension Jar's' effect.\n● When 'Kycoo the Ghost Destroyer' is on the field and 'Dimension Jar' is activated, the controller of 'Kycoo the Ghost Destroyer' can remove their opponent's cards in the GY from play.",
+    "TeleDAD": "● This card should say 'FLIP: Both players can remove from play up to 3 cards from their opponent's GY.', not 'up to 3 monsters'. \n● You can use 'Dimension Jar's' effect for zero to three cards, so even if your opponent has less than 3 cards in his GY you can still use 'Dimension Jar's' effect.\n● When 'Kycoo the Ghost Destroyer' is on the field and 'Dimension Jar' is activated, the controller of 'Kycoo the Ghost Destroyer' can remove their opponent's cards in the GY from play.",
+    "Gladiator": "● This card should say 'FLIP: Both players can remove from play up to 3 cards from their opponent's GY.', not 'up to 3 monsters'. \n● You can use 'Dimension Jar's' effect for zero to three cards, so even if your opponent has less than 3 cards in his GY you can still use 'Dimension Jar's' effect.\n● When 'Kycoo the Ghost Destroyer' is on the field and 'Dimension Jar' is activated, the controller of 'Kycoo the Ghost Destroyer' can remove their opponent's cards in the GY from play.",
+    "ReturnDAD": "● This card should say 'FLIP: Both players can remove from play up to 3 cards from their opponent's GY.', not 'up to 3 monsters'. \n● You can use 'Dimension Jar's' effect for zero to three cards, so even if your opponent has less than 3 cards in his GY you can still use 'Dimension Jar's' effect.\n● When 'Kycoo the Ghost Destroyer' is on the field and 'Dimension Jar' is activated, the controller of 'Kycoo the Ghost Destroyer' can remove their opponent's cards in the GY from play.",
+    "Trooper": "● This card should say 'FLIP: Both players can remove from play up to 3 cards from their opponent's GY.', not 'up to 3 monsters'. \n● You can use 'Dimension Jar's' effect for zero to three cards, so even if your opponent has less than 3 cards in his GY you can still use 'Dimension Jar's' effect.\n● When 'Kycoo the Ghost Destroyer' is on the field and 'Dimension Jar' is activated, the controller of 'Kycoo the Ghost Destroyer' can remove their opponent's cards in the GY from play.",
+    "Circle": "● This card should say 'FLIP: Both players can remove from play up to 3 cards from their opponent's GY.', not 'up to 3 monsters'. \n● You can use 'Dimension Jar's' effect for zero to three cards, so even if your opponent has less than 3 cards in his GY you can still use 'Dimension Jar's' effect.\n● When 'Kycoo the Ghost Destroyer' is on the field and 'Dimension Jar' is activated, the controller of 'Kycoo the Ghost Destroyer' can remove their opponent's cards in the GY from play.",
+    "Stein": "● This card should say 'FLIP: Both players can remove from play up to 3 cards from their opponent's GY.', not 'up to 3 monsters'. \n● You can use 'Dimension Jar's' effect for zero to three cards, so even if your opponent has less than 3 cards in his GY you can still use 'Dimension Jar's' effect.\n● When 'Kycoo the Ghost Destroyer' is on the field and 'Dimension Jar' is activated, the controller of 'Kycoo the Ghost Destroyer' can remove their opponent's cards in the GY from play.",
+    "Base": "1. This card should say 'FLIP: Both players can remove from play up to 3 cards from their opponent's GY.', not 'up to 3 monsters'.\\n2. You can use the effect of \"Dimension Jar\" for zero to three cards, so even if your opponent has less than 3 cards in his GY you can still use the effect of \"Dimension Jar\".\\n3. When \"Kycoo the Ghost Destroyer\" is on the field and \"Dimension Jar\" is activated, the controller of \"Kycoo the Ghost Destroyer\" can remove their opponent's cards in the GY from play."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

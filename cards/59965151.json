@@ -1,0 +1,44 @@
+{
+  "id": 59965151,
+  "name": "Ghost Gardna",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 1900,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Ghost Gardna's second effect targets 1 of your opponent's monsters.\n●If a Ghost Gardna in your hand or Deck is destroyed and sent to your GY, its effect activates.\n●If you control a face-up Marauding Captain and Ghost Gardna, when your opponent attacks Marauding Captain you can activate Ghost Gardna's effect, and the opponent's monster will attack Ghost Gardna instead.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Ghost Gardna's' second effect targets 1 of your opponent's monsters.\n● If a 'Ghost Gardna' in your hand or Deck is destroyed and sent to your GY, its effect activates.\n● If you control a face-up 'Marauding Captain' and 'Ghost Gardna', when your opponent attacks 'Marauding Captain' you can activate 'Ghost Gardna's' effect, and the opponent's monster will attack 'Ghost Gardna' instead.",
+    "TeleDAD": "● 'Ghost Gardna's' second effect targets 1 of your opponent's monsters.\n● If a 'Ghost Gardna' in your hand or Deck is destroyed and sent to your GY, its effect activates.\n● If you control a face-up 'Marauding Captain' and 'Ghost Gardna', when your opponent attacks 'Marauding Captain' you can activate 'Ghost Gardna's' effect, and the opponent's monster will attack 'Ghost Gardna' instead.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The second effect of \"Ghost Gardna\" targets 1 of your opponent's monsters.\\n2. If a \"Ghost Gardna\" in your hand or Deck is destroyed and sent to your GY, its effect activates.\\n3. If you control a face-up \"Marauding Captain\" and \"Ghost Gardna\", when your opponent attacks \"Marauding Captain\" you can activate the effect of \"Ghost Gardna\", and the opponent's monster will attack \"Ghost Gardna\" instead."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

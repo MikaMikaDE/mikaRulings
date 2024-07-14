@@ -1,0 +1,40 @@
+{
+  "id": 62966332,
+  "name": "Convulsion of Nature",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●When this card’s effect is active, both Decks are flipped upside down, and now the face of the top card of the Deck is showing.\n●If a card effect requires a player to shuffle their Deck, it is shuffled and cut face-down so the cards are not seen, and then placed face-up in the Deck Zone.\n●If a Parasite Paracide is face-up in your Deck before this card is activated, it will become face-down once this card is active. Its effect will still activate when it is drawn.\n●If 2 copies of Convulsion of Nature are active, the Decks are still upside-down (they do not revert to normal).",
+    "Goat": "●When this card’s effect is applying, both Decks are flipped upside down, and now the face of the top card of the Deck is showing.\n●If a card effect requires a player to shuffle their Deck, it is shuffled and cut face-down so the cards are not seen, and then placed face-up in the Deck Zone.\n●If a Parasite Paracide is face-up in your Deck before this card is activated, it will become face-down once this card is applying. Its effect will still activate when it is drawn.\n●If 2 copies of Convulsion of Nature are applying, the Decks are still upside-down (they do not revert to normal).\n●Cards that are turned face-up in the deck will be drawn face-down while “Convulsion of Nature” is applying, but still will resolve properly.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When this card’s effect is applying, both Decks are flipped upside down, and now the face of the top card of the Deck is showing.\n● If a card effect requires a player to shuffle their Deck, it is shuffled and cut face-down so the cards are not seen, and then placed face-up in the Deck Zone.\n● If a 'Parasite Paracide' is face-up in your Deck before this card is activated, it will become face-down once this card is applying. Its effect will still activate when it is drawn.\n● If 2 copies of 'Convulsion of Nature' are applying, the Decks are still upside-down (they do not revert to normal).",
+    "TeleDAD": "● When this card’s effect is applying, both Decks are flipped upside down, and now the face of the top card of the Deck is showing.\n● If a card effect requires a player to shuffle their Deck, it is shuffled and cut face-down so the cards are not seen, and then placed face-up in the Deck Zone.\n● If a 'Parasite Paracide' is face-up in your Deck before this card is activated, it will become face-down once this card is applying. Its effect will still activate when it is drawn.\n● If 2 copies of 'Convulsion of Nature' are applying, the Decks are still upside-down (they do not revert to normal).",
+    "Gladiator": "● When this card’s effect is applying, both Decks are flipped upside down, and now the face of the top card of the Deck is showing.\n● If a card effect requires a player to shuffle their Deck, it is shuffled and cut face-down so the cards are not seen, and then placed face-up in the Deck Zone.\n● If a 'Parasite Paracide' is face-up in your Deck before this card is activated, it will become face-down once this card is applying. Its effect will still activate when it is drawn.\n● If 2 copies of 'Convulsion of Nature' are applying, the Decks are still upside-down (they do not revert to normal).",
+    "ReturnDAD": "● When this card’s effect is applying, both Decks are flipped upside down, and now the face of the top card of the Deck is showing.\n● If a card effect requires a player to shuffle their Deck, it is shuffled and cut face-down so the cards are not seen, and then placed face-up in the Deck Zone.\n● If a 'Parasite Paracide' is face-up in your Deck before this card is activated, it will become face-down once this card is applying. Its effect will still activate when it is drawn.\n● If 2 copies of 'Convulsion of Nature' are applying, the Decks are still upside-down (they do not revert to normal).",
+    "Trooper": "● When this card’s effect is applying, both Decks are flipped upside down, and now the face of the top card of the Deck is showing.\n● If a card effect requires a player to shuffle their Deck, it is shuffled and cut face-down so the cards are not seen, and then placed face-up in the Deck Zone.\n● If a 'Parasite Paracide' is face-up in your Deck before this card is activated, it will become face-down once this card is applying. Its effect will still activate when it is drawn.\n● If 2 copies of 'Convulsion of Nature' are applying, the Decks are still upside-down (they do not revert to normal).",
+    "Circle": "● When this card’s effect is applying, both Decks are flipped upside down, and now the face of the top card of the Deck is showing.\n● If a card effect requires a player to shuffle their Deck, it is shuffled and cut face-down so the cards are not seen, and then placed face-up in the Deck Zone.\n● If a 'Parasite Paracide' is face-up in your Deck before this card is activated, it will become face-down once this card is applying. Its effect will still activate when it is drawn.\n● If 2 copies of 'Convulsion of Nature' are applying, the Decks are still upside-down (they do not revert to normal).",
+    "Stein": "● When this card’s effect is applying, both Decks are flipped upside down, and now the face of the top card of the Deck is showing.\n● If a card effect requires a player to shuffle their Deck, it is shuffled and cut face-down so the cards are not seen, and then placed face-up in the Deck Zone.\n● If a 'Parasite Paracide' is face-up in your Deck before this card is activated, it will become face-down once this card is applying. Its effect will still activate when it is drawn.\n● If 2 copies of 'Convulsion of Nature' are applying, the Decks are still upside-down (they do not revert to normal).",
+    "Base": "1. When this card's effect is active, both Decks are flipped upside down, and now the face of the top card of the Deck is showing.\\n2. If a card effect requires a player to shuffle their Deck, it is shuffled and cut face-down so the cards are not seen, and then placed face-up in the Deck Zone.\\n3. If a \"Parasite Paracide\" is face-up in your Deck before this card is activated, it will become face-down once this card is active. Its effect will still activate when it is drawn.\\n4. If 2 copies of \"Convulsion of Nature\" are active, the Decks are still upside-down (they do not revert to normal)."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

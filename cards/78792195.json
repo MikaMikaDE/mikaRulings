@@ -1,0 +1,44 @@
+{
+  "id": 78792195,
+  "name": "Hand of the Six Samurai",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 1000,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "(1) While you control another Six Samurai monster, you can Tribute 1 Six Samurai monster to destroy 1 monster on the field.\n●The (1) Ignition Effect targets 1 monster on the field.\n●Tributing 1 Six Samurai monster (including this card) you control is a cost. If Soul Exchange targets your opponent's Six Samurai monster, you can Tribute it as cost instead.\n●If the target is flipped face-down, it is still destroyed.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If an effect is chained that removes every face-up 'Six Samurai' monster from your side of the field, 'Hand of the Six Samurai's' effect still resolves.\n● Tributing 1 'Six Samurai' monster you control is a cost. You can Tribute 'Hand of the Six Samurai' to activate its own effect.",
+    "TeleDAD": "● If an effect is chained that removes every face-up 'Six Samurai' monster from your side of the field, 'Hand of the Six Samurai's' effect still resolves.\n● Tributing 1 'Six Samurai' monster you control is a cost. You can Tribute 'Hand of the Six Samurai' to activate its own effect.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If an effect is chained that removes every face-up 'Six Samurai' monster from your side of the field, the effect of \"Hand of the Six Samurai\" still resolves.\nbr>2. Tributing 1 'Six Samurai' monster you control is a cost. You can Tribute \"Hand of the Six Samurai\" to activate its own effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 13026402,
+  "name": "A-Team: Trap Disposal Unit",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 400,
+    "level": 2,
+    "race": "Machine",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "(1) This effect can be used during either player's turn. When your opponent activates a Trap Card, Tribute this face-up card to negate the activation of the Trap Card and destroy it.\n●The (1) Quick Effect is optional, it activates & resolves on the field.\n●Tributing this card is a cost.\n●This effect only negates the activation of a Trap Card (when it is flipped face-up).\n●This effect can't negate the activation of an effect from a Trap Card that was already face-up on the field (like Royal Oppression), or that activates in the GY (like Skill Successor).\n●You can activate the effect of A-Team: Trap Disposal Unit during the Damage Step.",
+    "Goat": "●This monster’s effect is a Multi-Trigger (Spell Speed 2) effect.\n●As long as A-Team: Trap Disposal Unit is not participating in the battle (not attacking or being attacked), you can activate its effect during the Damage Step.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This monster’s effect is a Quick Effect (Spell Speed 2).\n● You can activate the effect of 'A-Team: Trap Disposal Unit' during the Damage Step.",
+    "TeleDAD": "● This monster’s effect is a Quick Effect (Spell Speed 2).\n● You can activate the effect of 'A-Team: Trap Disposal Unit' during the Damage Step.",
+    "Gladiator": "● This monster’s effect is a Multi-Trigger (Spell Speed 2) effect.\n● As long as 'A-Team: Trap Disposal Unit' isn't participating in the battle (not attacking or being attacked), you can activate its effect during the Damage Step.",
+    "ReturnDAD": "● This monster’s effect is a Multi-Trigger (Spell Speed 2) effect.\n● As long as 'A-Team: Trap Disposal Unit' isn't participating in the battle (not attacking or being attacked), you can activate its effect during the Damage Step.",
+    "Trooper": "● This monster’s effect is a Multi-Trigger (Spell Speed 2) effect.\n● As long as 'A-Team: Trap Disposal Unit' isn't participating in the battle (not attacking or being attacked), you can activate its effect during the Damage Step.",
+    "Circle": "● This monster’s effect is a Multi-Trigger (Spell Speed 2) effect.\n● As long as 'A-Team: Trap Disposal Unit' isn't participating in the battle (not attacking or being attacked), you can activate its effect during the Damage Step.",
+    "Stein": "● This monster’s effect is a Multi-Trigger (Spell Speed 2) effect.\n● As long as 'A-Team: Trap Disposal Unit' isn't participating in the battle (not attacking or being attacked), you can activate its effect during the Damage Step.",
+    "Base": "1. This monster's effect is a Quick Effect (Spell Speed 2).\\n2. You can activate the effect of \"A-Team: Trap Disposal Unit\" during the Damage Step."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

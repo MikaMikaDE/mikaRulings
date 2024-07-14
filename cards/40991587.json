@@ -1,0 +1,44 @@
+{
+  "id": 40991587,
+  "name": "The Lady in Wight",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 2200,
+    "level": 3,
+    "race": "Zombie",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If your Level 3 or lower non-Zombie-Type monster is changed to Zombie-Type with DNA Surgery while The Lady in Wight is face-up on your side of the field, they will remain Zombie-Type monsters.\n●If your Zombie-Type monster's Level is reduced to 3 or less with Demotion while The Lady in Wight is face-up on your side of the field, its Level remains reduced.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If your LV 3 or lower non-Zombie is changed to Zombie-Type with 'DNA Surgery' while 'The Lady in Wight' is face-up on your side of the field, they will remain Zombies.\n● If your Zombie's LV is reduced to 3 or less with 'Demotion' while 'The Lady in Wight' is face-up on your side of the field, its LV remains reduced.",
+    "TeleDAD": "● If your LV 3 or lower non-Zombie is changed to Zombie-Type with 'DNA Surgery' while 'The Lady in Wight' is face-up on your side of the field, they will remain Zombies.\n● If your Zombie's LV is reduced to 3 or less with 'Demotion' while 'The Lady in Wight' is face-up on your side of the field, its LV remains reduced.",
+    "Gladiator": "● If your LV 3 or lower non-Zombie is changed to Zombie-Type with 'DNA Surgery' while 'The Lady in Wight' is face-up on your side of the field, they will remain Zombies.\n● If your Zombie's LV is reduced to 3 or less with 'Demotion' while 'The Lady in Wight' is face-up on your side of the field, its LV remains reduced.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If your Level 3 or lower non-Zombie-Type monster is changed to Zombie-Type with \"DNA Surgery\" while \"The Lady in Wight\" is face-up on your side of the field, they will remain Zombie-Type monsters.\\n2. If your Zombie-Type monster's Level is reduced to 3 or less with \"Demotion\" while \"The Lady in Wight\" is face-up on your side of the field, its Level remains reduced."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

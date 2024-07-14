@@ -1,0 +1,40 @@
+{
+  "id": 76532077,
+  "name": "Bottomless Shifting Sand",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●If there are multiple monsters tied for the highest ATK, they are all destroyed.\n●If Bottomless Shifting Sand is active and Tyrant Dragon is the monster with the highest ATK, Tyrant Dragon is destroyed because Bottomless Shifting Sand does not target a monster.",
+    "Goat": "●If there are multiple monsters tied for the highest ATK, they are all destroyed.\n●If Bottomless Shifting Sand is applying and Tyrant Dragon is the monster with the highest ATK, Tyrant Dragon is destroyed because Bottomless Shifting Sand does not target a monster.\n●If more than one monster ties for highest ATK value in the End Phase while “Bottomless Shifting Sand” is applying, all of those monsters will be destroyed by the effect of “Bottomless Shifting Sand.”",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If there are multiple monsters tied for the highest ATK, they are all destroyed.\n● If 'Bottomless Shifting Sand' is applying and 'Tyrant Dragon' is the monster with the highest ATK, 'Tyrant Dragon' is destroyed because 'Bottomless Shifting Sand' does not target a monster.",
+    "TeleDAD": "● If there are multiple monsters tied for the highest ATK, they are all destroyed.\n● If 'Bottomless Shifting Sand' is applying and 'Tyrant Dragon' is the monster with the highest ATK, 'Tyrant Dragon' is destroyed because 'Bottomless Shifting Sand' does not target a monster.",
+    "Gladiator": "● If there are multiple monsters tied for the highest ATK, they are all destroyed.\n● If 'Bottomless Shifting Sand' is applying and 'Tyrant Dragon' is the monster with the highest ATK, 'Tyrant Dragon' is destroyed because 'Bottomless Shifting Sand' does not target a monster.",
+    "ReturnDAD": "● If there are multiple monsters tied for the highest ATK, they are all destroyed.\n● If 'Bottomless Shifting Sand' is applying and 'Tyrant Dragon' is the monster with the highest ATK, 'Tyrant Dragon' is destroyed because 'Bottomless Shifting Sand' does not target a monster.",
+    "Trooper": "● If there are multiple monsters tied for the highest ATK, they are all destroyed.\n● If 'Bottomless Shifting Sand' is applying and 'Tyrant Dragon' is the monster with the highest ATK, 'Tyrant Dragon' is destroyed because 'Bottomless Shifting Sand' does not target a monster.",
+    "Circle": "● If there are multiple monsters tied for the highest ATK, they are all destroyed.\n● If 'Bottomless Shifting Sand' is applying and 'Tyrant Dragon' is the monster with the highest ATK, 'Tyrant Dragon' is destroyed because 'Bottomless Shifting Sand' does not target a monster.",
+    "Stein": "● If there are multiple monsters tied for the highest ATK, they are all destroyed.\n● If 'Bottomless Shifting Sand' is applying and 'Tyrant Dragon' is the monster with the highest ATK, 'Tyrant Dragon' is destroyed because 'Bottomless Shifting Sand' does not target a monster.",
+    "Base": "1. If there are multiple monsters tied for the highest ATK, they are all destroyed.\\n2. If \"Bottomless Shifting Sand\" is active and \"Tyrant Dragon\" is the monster with the highest ATK, \"Tyrant Dragon\" is destroyed because \"Bottomless Shifting Sand\" does not target a monster."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

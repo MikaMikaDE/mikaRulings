@@ -1,0 +1,40 @@
+{
+  "id": 44763025,
+  "name": "Delinquent Duo",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card may be activated if your opponent has only 1 card in his/her hand.",
+    "Goat": "●This card may be activated if your opponent has only 1 card in his/her hand.\n●Q: If I play “Delinquent Duo” and my opponent only has “Electric Snake” in his hand after he discarded the “Electric Snake” would he have to discard one of the two he drew with its effect? \nA: “Delinquent Duo” will only cause the “Electric Snake” to be discarded in this situation. After “Delinquent Duo” has resolved “Electric Snake” will activate. \n●Q: I saw a tournament where Player A plays “Delinquent Duo.” The card discarded was “Electric Snake.” Player B draws two cards. Player B then selects another “Electric Snake” that he just drew, to discard to the GY. Player B then draws two more cards. In another tournament, the players would finish “Deliquent Duo's” effect then draw the cards to electric snake effect. Which one is right? \nA: “Electric Snake's” effect does not resolve until “Delinquent Duo” is fully resolved. In other words, Player B cannot draw two cards for “Electric Snake's” effect until after “Delinquent Duo's” effect is over. They must discard a card that is already in their hand to finish “Delinquent Duo's” effect before they can actually draw for “Electric Snake.” Steve Okegawa, 12/14/2003\n●Q: If I play “Delinquent Duo” and I pick my opponents “Neko-Mane King”, does he still have to discard? \nA: Yes, they would still have to discard 1 more card from their hand according to the text of “Delinquent Duo.” After completely resolving “Delinquent Duo” the “Neko Mane King’s” effect will activate.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card may be activated if your opponent has only 1 card in his/her hand.",
+    "TeleDAD": "● This card may be activated if your opponent has only 1 card in his/her hand.",
+    "Gladiator": "● This card may be activated if your opponent has only 1 card in his/her hand.",
+    "ReturnDAD": "● This card may be activated if your opponent has only 1 card in his/her hand.",
+    "Trooper": "● This card may be activated if your opponent has only 1 card in his/her hand.",
+    "Circle": "● This card may be activated if your opponent has only 1 card in his/her hand.",
+    "Stein": "● This card may be activated if your opponent has only 1 card in his/her hand.",
+    "Base": "1. This card may be activated if your opponent has only 1 card in his/her hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 47121070,
+  "name": "Crystal Pair",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you cannot place a Crystal Beast monster into your Spell and Trap Card Zone, the effect to prevent Battle Damage is not applied.\n●You cannot activate Crystal Pair if you do not have any open Spell or Trap Card Zone spaces.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you can't place a 'Crystal Beast' monster into your Spell/Trap Card Zone, the effect to prevent Battle Damage isn't applied.\n● You can't activate 'Crystal Pair' if you do not have any open Spell/Trap Card Zone spaces.",
+    "TeleDAD": "● If you can't place a 'Crystal Beast' monster into your Spell/Trap Card Zone, the effect to prevent Battle Damage isn't applied.\n● You can't activate 'Crystal Pair' if you do not have any open Spell/Trap Card Zone spaces.",
+    "Gladiator": "● If you can't place a 'Crystal Beast' monster into your Spell/Trap Card Zone, the effect to prevent Battle Damage isn't applied.\n● You can't activate 'Crystal Pair' if you do not have any open Spell/Trap Card Zone spaces.",
+    "ReturnDAD": "● If you can't place a 'Crystal Beast' monster into your Spell/Trap Card Zone, the effect to prevent Battle Damage isn't applied.\n● You can't activate 'Crystal Pair' if you do not have any open Spell/Trap Card Zone spaces.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you cannot place a 'Crystal Beast' monster into your Spell and Trap Card Zone, the effect to prevent Battle Damage is not applied.\\n2. You cannot activate \"Crystal Pair\" if you do not have any open Spell or Trap Card Zone spaces."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

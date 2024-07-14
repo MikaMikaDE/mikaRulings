@@ -1,0 +1,44 @@
+{
+  "id": 89127526,
+  "name": "Barrier Resonator",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 800,
+    "level": 1,
+    "race": "Fiend",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can activate this card at any time during either player's turn, except for the Damage Step.\\n2. Sending this card from your hand to the GY is a cost.\\n3. This effect targets your face-up Tuner monster.\\n4. The target monster only needs to be a Tuner when this effect is activated. The effect will still apply even if the monster stops being a Tuner before it resolves.\\n5. You can target a non-Tuner monster that's being treated as a Tuner by \"Lightwave Tuning\", etc.\\n6. If the targeted monster stops being face-up on the field, the effect of \"Barrier Resonator\" will no longer apply to it.\\n7. The effect of \"Barrier Resonator\" will still apply even if your opponent takes control of the monster it's being applied to.\\n8. In this case, your opponent would not take Battle Damage from battles involving the protected monster."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

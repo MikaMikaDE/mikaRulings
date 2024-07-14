@@ -1,0 +1,44 @@
+{
+  "id": 9628664,
+  "name": "Iris, the Earth Mother",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 1200,
+    "level": 6,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Iris, the Earth Mother” is a Trigger Effect. So it will start a new chain itself.\n●“Iris, the Earth Mother” must have been on the field before the chain began and must have been on the field throughout the entire chain in order for its effect to activate.\n●The effect of “Iris, the Earth Mother” will still activate even if some steps of the chain have their activation negated. (Or even if “Vanity’s Call” negates all Links in the chain.)",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Iris, the Earth Mother” is a Trigger Effect. So it will start a new chain itself.\n● “Iris, the Earth Mother” must have been on the field before the chain began and must have been on the field throughout the entire chain in order for its effect to activate.\n● The effect of “Iris, the Earth Mother” will still activate even if some steps of the chain have their activation negated. (Or even if “Vanity’s Call” negates all Links in the chain.)\n● ",
+    "TeleDAD": "● The effect of “Iris, the Earth Mother” is a Trigger Effect. So it will start a new chain itself.\n● “Iris, the Earth Mother” must have been on the field before the chain began and must have been on the field throughout the entire chain in order for its effect to activate.\n● The effect of “Iris, the Earth Mother” will still activate even if some steps of the chain have their activation negated. (Or even if “Vanity’s Call” negates all Links in the chain.)\n● ",
+    "Gladiator": "● The effect of “Iris, the Earth Mother” is a Trigger Effect. So it will start a new chain itself.\n● “Iris, the Earth Mother” must have been on the field before the chain began and must have been on the field throughout the entire chain in order for its effect to activate.\n● The effect of “Iris, the Earth Mother” will still activate even if some steps of the chain have their activation negated. (Or even if “Vanity’s Call” negates all Links in the chain.)\n● ",
+    "ReturnDAD": "● The effect of “Iris, the Earth Mother” is a Trigger Effect. So it will start a new chain itself.\n● “Iris, the Earth Mother” must have been on the field before the chain began and must have been on the field throughout the entire chain in order for its effect to activate.\n● The effect of “Iris, the Earth Mother” will still activate even if some steps of the chain have their activation negated. (Or even if “Vanity’s Call” negates all Links in the chain.)\n● ",
+    "Trooper": "● The effect of “Iris, the Earth Mother” is a Trigger Effect. So it will start a new chain itself.\n● “Iris, the Earth Mother” must have been on the field before the chain began and must have been on the field throughout the entire chain in order for its effect to activate.\n● The effect of “Iris, the Earth Mother” will still activate even if some steps of the chain have their activation negated. (Or even if “Vanity’s Call” negates all Links in the chain.)\n● ",
+    "Circle": "● The effect of “Iris, the Earth Mother” is a Trigger Effect. So it will start a new chain itself.\n● “Iris, the Earth Mother” must have been on the field before the chain began and must have been on the field throughout the entire chain in order for its effect to activate.\n● The effect of “Iris, the Earth Mother” will still activate even if some steps of the chain have their activation negated. (Or even if “Vanity’s Call” negates all Links in the chain.)\n● ",
+    "Stein": "● The effect of “Iris, the Earth Mother” is a Trigger Effect. So it will start a new chain itself.\n● “Iris, the Earth Mother” must have been on the field before the chain began and must have been on the field throughout the entire chain in order for its effect to activate.\n● The effect of “Iris, the Earth Mother” will still activate even if some steps of the chain have their activation negated. (Or even if “Vanity’s Call” negates all Links in the chain.)\n● ",
+    "Base": "1. The effect of \"Iris, the Earth Mother\" is a Trigger Effect. So it will start a new chain itself.\\n2. \"Iris, the Earth Mother\" must have been on the field before the chain began and must have been on the field throughout the entire chain in order for its effect to activate.\\n3. The effect of \"Iris, the Earth Mother\" will still activate even if some steps of the chain have their activation negated. (Or even if \"Vanity's Call\" negates all Links in the chain.)"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

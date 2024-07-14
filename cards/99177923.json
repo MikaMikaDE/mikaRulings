@@ -1,0 +1,44 @@
+{
+  "id": 99177923,
+  "name": "Infernity Archfiend",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 1200,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● The ① effect can miss its timing, for example if drawn by \"Upstart Goblin\".\n● The ② effect can miss its timing, for example if Summoned at Chain Link 2 or higher.\n● If 2 \"Infernity Archfiend\" are summoned at the same time, they will form a chain.\nThe first will resolve and search, and then the second cannot resolve, as you now have a card in hand.",
+    "Vegas": "● The ① effect can miss its timing, for example if drawn by \"Upstart Goblin\".\n● The ② effect can miss its timing, for example if Summoned at Chain Link 2 or higher.\n● If 2 \"Infernity Archfiend\" are summoned at the same time, they will form a chain.\nThe first will resolve and search, and then the second cannot resolve, as you now have a card in hand.",
+    "Meadowlands": "● The ① effect can miss its timing, for example if drawn by \"Upstart Goblin\".\n● The ② effect can miss its timing, for example if Summoned at Chain Link 2 or higher.\n● If 2 \"Infernity Archfiend\" are summoned at the same time, they will form a chain.\nThe first will resolve and search, and then the second cannot resolve, as you now have a card in hand.",
+    "FireWater": "● The ① effect can miss its timing, for example if drawn by \"Upstart Goblin\".\n● The ② effect can miss its timing, for example if Summoned at Chain Link 2 or higher.\n● If 2 \"Infernity Archfiend\" are summoned at the same time, they will form a chain.\nThe first will resolve and search, and then the second cannot resolve, as you now have a card in hand.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① When you draw this card, if it is the only card in your hand: You can reveal it; Special Summon it. \n② When this card is Special Summoned: You can add 1 \"Infernity\" card from your Deck to your hand. \n(Activate and resolve only if you have no cards in hand).",
+    "Meadowlands": "① When you draw this card, if it is the only card in your hand: You can reveal it; Special Summon it. \n② When this card is Special Summoned: You can add 1 \"Infernity\" card from your Deck to your hand. \n(Activate and resolve only if you have no cards in hand).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

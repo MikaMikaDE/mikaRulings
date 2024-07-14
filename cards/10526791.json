@@ -1,0 +1,44 @@
+{
+  "id": 10526791,
+  "name": "Elemental HERO Wildedge",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 2600,
+    "def": 2300,
+    "level": 8,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●This monster cannot attack the opponent directly after attacking a monster(s).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This monster can't attack the opponent directly after attacking a monster(s).",
+    "TeleDAD": "● This monster can't attack the opponent directly after attacking a monster(s).",
+    "Gladiator": "● This monster can't attack the opponent directly after attacking a monster(s).",
+    "ReturnDAD": "● This monster can't attack the opponent directly after attacking a monster(s).",
+    "Trooper": "● This monster can't attack the opponent directly after attacking a monster(s).",
+    "Circle": "● This monster can't attack the opponent directly after attacking a monster(s).",
+    "Stein": "● This monster can't attack the opponent directly after attacking a monster(s).",
+    "Base": "1. This monster cannot attack the opponent directly after attacking a monster(s)."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

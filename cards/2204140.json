@@ -1,0 +1,40 @@
+{
+  "id": 2204140,
+  "name": "Book of Life",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "● If either leaves the GY before this card resolves, the other target is still summoned/banished.\n● If that target isn't a Zombie when this effect resolves, it isn't summoned.",
+    "Goat": "●You cannot activate Book of Life if there is no monster in the GY to remove from play.\n●You cannot activate Book of Life if your opponent controls Kycoo the Ghost Destroyer.\n●If you activate Book of Life and your opponent chains Call of the Haunted to Special Summon Kycoo the Ghost Destroyer, you still get to Special Summon 1 Zombie with Book of Life's effect (but do not remove 1 monster from your opponent’s GY).\n●Q: Is “Book of Life” eligibility determined at activation, resolution or both? \nA: At the moment, we are ruling that “Book of Life” only needs legal targets (1 Zombie in your GY and 1 monster in your opponent's GY) during activation. If something happens to remove one of the monsters before then, “Book of Life” will do whatever it still can. Example: “Book of Life” is activated, and you choose to Special Summon “Spirit Reaper,” and remove the opponent's “Jinzo” in the GY from play. In response, the opponent activates their “Call of the Haunted” to Special Summon their “Jinzo.” Now, by the time “Book of Life” resolves, the “Jinzo” can no longer be removed from play. No problem, you just don't do that part of the effect (since you cannot choose a new monster), and your “Spirit Reaper” is still Special Summoned. Steve Okegawa, 01/07/2004",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate 'Book of Life' if there is no monster in the GY to remove from play.\n● You can't activate 'Book of Life' if your opponent controls 'Kycoo the Ghost Destroyer'.\n● If you activate 'Book of Life' and your opponent chains 'Call of the Haunted' to Special Summon 'Kycoo the Ghost Destroyer', you still get to Special Summon 1 Zombie with Book of Life's effect (but do not remove 1 monster from your opponent’s GY).",
+    "TeleDAD": "● You can't activate 'Book of Life' if there is no monster in the GY to remove from play.\n● You can't activate 'Book of Life' if your opponent controls 'Kycoo the Ghost Destroyer'.\n● If you activate 'Book of Life' and your opponent chains 'Call of the Haunted' to Special Summon 'Kycoo the Ghost Destroyer', you still get to Special Summon 1 Zombie with Book of Life's effect (but do not remove 1 monster from your opponent’s GY).",
+    "Gladiator": "● You can't activate 'Book of Life' if there is no monster in the GY to remove from play.\n● You can't activate 'Book of Life' if your opponent controls 'Kycoo the Ghost Destroyer'.\n● If you activate 'Book of Life' and your opponent chains 'Call of the Haunted' to Special Summon 'Kycoo the Ghost Destroyer', you still get to Special Summon 1 Zombie with Book of Life's effect (but do not remove 1 monster from your opponent’s GY).",
+    "ReturnDAD": "● You can't activate 'Book of Life' if there is no monster in the GY to remove from play.\n● You can't activate 'Book of Life' if your opponent controls 'Kycoo the Ghost Destroyer'.\n● If you activate 'Book of Life' and your opponent chains 'Call of the Haunted' to Special Summon 'Kycoo the Ghost Destroyer', you still get to Special Summon 1 Zombie with Book of Life's effect (but do not remove 1 monster from your opponent’s GY).",
+    "Trooper": "● You can't activate 'Book of Life' if there is no monster in the GY to remove from play.\n● You can't activate 'Book of Life' if your opponent controls 'Kycoo the Ghost Destroyer'.\n● If you activate 'Book of Life' and your opponent chains 'Call of the Haunted' to Special Summon 'Kycoo the Ghost Destroyer', you still get to Special Summon 1 Zombie with Book of Life's effect (but do not remove 1 monster from your opponent’s GY).",
+    "Circle": "● You can't activate 'Book of Life' if there is no monster in the GY to remove from play.\n● You can't activate 'Book of Life' if your opponent controls 'Kycoo the Ghost Destroyer'.\n● If you activate 'Book of Life' and your opponent chains 'Call of the Haunted' to Special Summon 'Kycoo the Ghost Destroyer', you still get to Special Summon 1 Zombie with Book of Life's effect (but do not remove 1 monster from your opponent’s GY).",
+    "Stein": "● You can't activate 'Book of Life' if there is no monster in the GY to remove from play.\n● You can't activate 'Book of Life' if your opponent controls 'Kycoo the Ghost Destroyer'.\n● If you activate 'Book of Life' and your opponent chains 'Call of the Haunted' to Special Summon 'Kycoo the Ghost Destroyer', you still get to Special Summon 1 Zombie with Book of Life's effect (but do not remove 1 monster from your opponent’s GY).",
+    "Base": "1. You cannot activate \"Book of Life\" if there is no monster in the GY to remove from play.\\n2. You cannot activate \"Book of Life\" if your opponent controls \"Kycoo the Ghost Destroyer\".\\n3. If you activate \"Book of Life\" and your opponent chains \"Call of the Haunted\" to Special Summon \"Kycoo the Ghost Destroyer\", you still get to Special Summon 1 Zombie with the effect of \"Book of Life\" (but do not remove 1 monster from your opponent's GY)."
+  },
+  "PSCT": {
+    "Tengu": "① Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; \nSpecial Summon the first target, also banish the second target.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

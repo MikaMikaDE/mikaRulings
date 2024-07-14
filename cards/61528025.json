@@ -1,0 +1,44 @@
+{
+  "id": 61528025,
+  "name": "Banisher of the Light",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 2000,
+    "level": 3,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) As long as this card remains face-up on the field, any card sent to the GY is removed from play.\n●The (1) Continuous Effect applies while this card is face-up on the field.\n●If Banisher of the Light is destroyed, it will be sent to the GY. If Banisher of the Light and other monsters are destroyed simultaneously all monsters are sent to the GY.\n●If Don Zaloog battles an Attack Position Banisher of the Light, Banisher is marked as destroyed at the end of Substep 4 - Damage Calculation, but its Continuous Effect still applies, so any card sent to the GY in Substep 5 - After Damage Calculation (by Don Zaloog) will be banished. Finally, in Substep 7 - End of the Damage Step, Banisher of the Light is sent to the GY.\n●Kuriboh and Thunder Dragon can be discarded from your hand and activated while Banisher of the Light is on the field.",
+    "Goat": "●When Banisher of the Light is destroyed it will be sent to the GY. If Banisher of the Light and other monsters are destroyed simultaneously all monsters are sent to the GY.\n●Effects that trigger when cards are sent to the GY, such as Sangan, Witch of the Black Forest, Mystic Tomato, The Immortal of Thunder and Last Will, will not activate.\n●Kuriboh and Thunder Dragon can be discarded from your hand and activated while Banisher of the Light is on the field.\n●Q: If “Banisher of Light” is face up and and a non-targeting monster removal Card is activated, in what order do the Monsters get destroyed. \nA: If “Banisher of the Light” is destroyed at the same time as any other monster, they would go to the GY. If “Banisher of the Light” would remain face-up on the field when the other monster is destroyed, that monster would be removed from play. \n●Q: What effect does Skill Drain have on Balloon Lizard?\nA: While Skill Drain is in effect, a face-up Balloon Lizard will not gain any counters during its controller's Standby Phases.It will also lose any counters it may have had before Skill Drain was in effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Banisher of the Light' is destroyed it will be sent to the GY.If 'Banisher of the Light' and other monsters are destroyed simultaneously all monsters are sent to the GY.\n● Effects that trigger when cards are sent to the GY, such as 'Sangan', 'Witch of the Black Forest', 'Mystic Tomato', 'The Immortal of Thunder' and 'Last Will', will not activate.\n● 'Kuriboh' and 'Thunder Dragon' can be discarded from your hand and activated while 'Banisher of the Light' is on the field.",
+    "TeleDAD": "● When 'Banisher of the Light' is destroyed it will be sent to the GY.If 'Banisher of the Light' and other monsters are destroyed simultaneously all monsters are sent to the GY.\n● Effects that trigger when cards are sent to the GY, such as 'Sangan', 'Witch of the Black Forest', 'Mystic Tomato', 'The Immortal of Thunder' and 'Last Will', will not activate.\n● 'Kuriboh' and 'Thunder Dragon' can be discarded from your hand and activated while 'Banisher of the Light' is on the field.",
+    "Gladiator": "● When 'Banisher of the Light' is destroyed it will be sent to the GY.If 'Banisher of the Light' and other monsters are destroyed simultaneously all monsters are sent to the GY.\n● Effects that trigger when cards are sent to the GY, such as 'Sangan', 'Witch of the Black Forest', 'Mystic Tomato', 'The Immortal of Thunder' and 'Last Will', will not activate.\n● 'Kuriboh' and 'Thunder Dragon' can be discarded from your hand and activated while 'Banisher of the Light' is on the field.",
+    "ReturnDAD": "● When 'Banisher of the Light' is destroyed it will be sent to the GY.If 'Banisher of the Light' and other monsters are destroyed simultaneously all monsters are sent to the GY.\n● Effects that trigger when cards are sent to the GY, such as 'Sangan', 'Witch of the Black Forest', 'Mystic Tomato', 'The Immortal of Thunder' and 'Last Will', will not activate.\n● 'Kuriboh' and 'Thunder Dragon' can be discarded from your hand and activated while 'Banisher of the Light' is on the field.",
+    "Trooper": "● When 'Banisher of the Light' is destroyed it will be sent to the GY.If 'Banisher of the Light' and other monsters are destroyed simultaneously all monsters are sent to the GY.\n● Effects that trigger when cards are sent to the GY, such as 'Sangan', 'Witch of the Black Forest', 'Mystic Tomato', 'The Immortal of Thunder' and 'Last Will', will not activate.\n● 'Kuriboh' and 'Thunder Dragon' can be discarded from your hand and activated while 'Banisher of the Light' is on the field.",
+    "Circle": "● When 'Banisher of the Light' is destroyed it will be sent to the GY.If 'Banisher of the Light' and other monsters are destroyed simultaneously all monsters are sent to the GY.\n● Effects that trigger when cards are sent to the GY, such as 'Sangan', 'Witch of the Black Forest', 'Mystic Tomato', 'The Immortal of Thunder' and 'Last Will', will not activate.\n● 'Kuriboh' and 'Thunder Dragon' can be discarded from your hand and activated while 'Banisher of the Light' is on the field.",
+    "Stein": "● When 'Banisher of the Light' is destroyed it will be sent to the GY.If 'Banisher of the Light' and other monsters are destroyed simultaneously all monsters are sent to the GY.\n● Effects that trigger when cards are sent to the GY, such as 'Sangan', 'Witch of the Black Forest', 'Mystic Tomato', 'The Immortal of Thunder' and 'Last Will', will not activate.\n● 'Kuriboh' and 'Thunder Dragon' can be discarded from your hand and activated while 'Banisher of the Light' is on the field.",
+    "Base": "1. When \"Banisher of the Light\" is destroyed it will be sent to the GY. If \"Banisher of the Light\" and other monsters are destroyed simultaneously all monsters are sent to the GY.\\n2. Effects that trigger when cards are sent to the GY, such as \"Sangan\", \"Witch of the Black Forest\", \"Mystic Tomato\", \"The Immortal of Thunder\" and \"Last Will\", will not activate.\\n3. \"Kuriboh\" and \"Thunder Dragon\" can be discarded from your hand and activated while \"Banisher of the Light\" is on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

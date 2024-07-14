@@ -1,0 +1,40 @@
+{
+  "id": 60876124,
+  "name": "Rare Value",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If there are no “Crystal Beast” cards in Spell & Trap Card Zone when this card resolves, you cannot draw 2 cards.\n●If there is only 1 “Crystal Beast” card in your Spell & Trap Card Zone when this card resolves, that card is sent to the GY and you draw 2 cards.\n●If Macro Cosmos or Banisher of the Raidance is on the field, you can still activate Rare Value, but since the Crystal Beast card is not sent to the GY you do NOT draw 2 cards.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If there are no “Crystal Beast” cards in Spell & Trap Card Zone when this card resolves, you can't draw 2 cards.\n● If there is only 1 “Crystal Beast” card in your Spell & Trap Card Zone when this card resolves, that card is sent to the GY and you draw 2 cards.\n● If 'Macro Cosmos' or 'Banisher of the Raidance' is on the field, you can still activate 'Rare Value', but since the 'Crystal Beast' card isn't sent to the GY you do NOT draw 2 cards.",
+    "TeleDAD": "● If there are no “Crystal Beast” cards in Spell & Trap Card Zone when this card resolves, you can't draw 2 cards.\n● If there is only 1 “Crystal Beast” card in your Spell & Trap Card Zone when this card resolves, that card is sent to the GY and you draw 2 cards.\n● If 'Macro Cosmos' or 'Banisher of the Raidance' is on the field, you can still activate 'Rare Value', but since the 'Crystal Beast' card isn't sent to the GY you do NOT draw 2 cards.",
+    "Gladiator": "● If there are no “Crystal Beast” cards in Spell & Trap Card Zone when this card resolves, you can't draw 2 cards.\n● If there is only 1 “Crystal Beast” card in your Spell & Trap Card Zone when this card resolves, that card is sent to the GY and you draw 2 cards.\n● If 'Macro Cosmos' or 'Banisher of the Raidance' is on the field, you can still activate 'Rare Value', but since the 'Crystal Beast' card isn't sent to the GY you do NOT draw 2 cards.",
+    "ReturnDAD": "● If there are no “Crystal Beast” cards in Spell & Trap Card Zone when this card resolves, you can't draw 2 cards.\n● If there is only 1 “Crystal Beast” card in your Spell & Trap Card Zone when this card resolves, that card is sent to the GY and you draw 2 cards.\n● If 'Macro Cosmos' or 'Banisher of the Raidance' is on the field, you can still activate 'Rare Value', but since the 'Crystal Beast' card isn't sent to the GY you do NOT draw 2 cards.",
+    "Trooper": "● If there are no “Crystal Beast” cards in Spell & Trap Card Zone when this card resolves, you can't draw 2 cards.\n● If there is only 1 “Crystal Beast” card in your Spell & Trap Card Zone when this card resolves, that card is sent to the GY and you draw 2 cards.",
+    "Circle": "● If there are no “Crystal Beast” cards in Spell & Trap Card Zone when this card resolves, you can't draw 2 cards.\n● If there is only 1 “Crystal Beast” card in your Spell & Trap Card Zone when this card resolves, that card is sent to the GY and you draw 2 cards.\n● If 'Macro Cosmos' or 'Banisher of the Raidance' is on the field, you can still activate 'Rare Value', but since the 'Crystal Beast' card isn't sent to the GY you do NOT draw 2 cards.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If there are no 'Crystal Beast' cards in Spell & Trap Card Zone when this card resolves, you cannot draw 2 cards.\\n2. If there is only 1 'Crystal Beast' card in your Spell & Trap Card Zone when this card resolves, that card is sent to the GY and you draw 2 cards.\\n3. If \"Macro Cosmos\" or \"Banisher of the Radiance\" is on the field, you can still activate \"Rare Value\", but since the 'Crystal Beast' card is not sent to the GY you do NOT draw 2 cards."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

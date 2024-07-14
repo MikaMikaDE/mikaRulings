@@ -1,0 +1,44 @@
+{
+  "id": 88975532,
+  "name": "Pitch-Black Warwolf",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 600,
+    "level": 4,
+    "race": "Beast-Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of this monster makes the opponent of this monster’s current controller unable to activate Trap Cards during the Battle Phase. If you take control of your opponent’s monster with Change of Heart during your turn, your opponent cannot activate Trap Cards during your Battle Phase, but you can.\n●The effect of this monster makes your opponent unable to activate Set Trap Cards. However, your opponent can still activate the effects of face-up Trap Cards such as Type Zero Magic Crusher, Ultimate Offering, Skull Lair, The Dragon’s Bead, and Astral Barrier.",
+    "Goat": "●The effect of this monster makes the opponent of this monster’s current controller unable to activate Trap Cards during the Battle Phase. If you take control of your opponent’s monster with Change of Heart during your turn, your opponent cannot activate Trap Cards during your Battle Phase, but you can.\n●The effect of this monster makes your opponent unable to activate Set Trap Cards. However, your opponent can still activate the effects of face-up Trap Cards such as Type Zero Magic Crusher, Ultimate Offering, Skull Lair, The Dragon’s Bead, and Astral Barrier.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of this monster makes the opponent of this monster’s current controller unable to activate Trap Cards during the Battle Phase. If you take control of your opponent’s monster with 'Change of Heart' during your turn, your opponent can't activate Trap Cards during your Battle Phase, but you can.\n● The effect of this monster makes your opponent unable to activate Set Trap Cards. However, your opponent can still activate the effects of face-up Trap Cards such as 'Type Zero Magic Crusher', 'Ultimate Offering', 'Skull Lair', 'The Dragon’s Bead', and 'Astral Barrier'.",
+    "TeleDAD": "● The effect of this monster makes the opponent of this monster’s current controller unable to activate Trap Cards during the Battle Phase. If you take control of your opponent’s monster with 'Change of Heart' during your turn, your opponent can't activate Trap Cards during your Battle Phase, but you can.\n● The effect of this monster makes your opponent unable to activate Set Trap Cards. However, your opponent can still activate the effects of face-up Trap Cards such as 'Type Zero Magic Crusher', 'Ultimate Offering', 'Skull Lair', 'The Dragon’s Bead', and 'Astral Barrier'.",
+    "Gladiator": "● The effect of this monster makes the opponent of this monster’s current controller unable to activate Trap Cards during the Battle Phase. If you take control of your opponent’s monster with 'Change of Heart' during your turn, your opponent can't activate Trap Cards during your Battle Phase, but you can.\n● The effect of this monster makes your opponent unable to activate Set Trap Cards. However, your opponent can still activate the effects of face-up Trap Cards such as 'Type Zero Magic Crusher', 'Ultimate Offering', 'Skull Lair', 'The Dragon’s Bead', and 'Astral Barrier'.",
+    "ReturnDAD": "● The effect of this monster makes the opponent of this monster’s current controller unable to activate Trap Cards during the Battle Phase. If you take control of your opponent’s monster with 'Change of Heart' during your turn, your opponent can't activate Trap Cards during your Battle Phase, but you can.\n● The effect of this monster makes your opponent unable to activate Set Trap Cards. However, your opponent can still activate the effects of face-up Trap Cards such as 'Type Zero Magic Crusher', 'Ultimate Offering', 'Skull Lair', 'The Dragon’s Bead', and 'Astral Barrier'.",
+    "Trooper": "● The effect of this monster makes the opponent of this monster’s current controller unable to activate Trap Cards during the Battle Phase. If you take control of your opponent’s monster with 'Change of Heart' during your turn, your opponent can't activate Trap Cards during your Battle Phase, but you can.\n● The effect of this monster makes your opponent unable to activate Set Trap Cards. However, your opponent can still activate the effects of face-up Trap Cards such as 'Type Zero Magic Crusher', 'Ultimate Offering', 'Skull Lair', 'The Dragon’s Bead', and 'Astral Barrier'.",
+    "Circle": "● The effect of this monster makes the opponent of this monster’s current controller unable to activate Trap Cards during the Battle Phase. If you take control of your opponent’s monster with 'Change of Heart' during your turn, your opponent can't activate Trap Cards during your Battle Phase, but you can.\n● The effect of this monster makes your opponent unable to activate Set Trap Cards. However, your opponent can still activate the effects of face-up Trap Cards such as 'Type Zero Magic Crusher', 'Ultimate Offering', 'Skull Lair', 'The Dragon’s Bead', and 'Astral Barrier'.",
+    "Stein": "● The effect of this monster makes the opponent of this monster’s current controller unable to activate Trap Cards during the Battle Phase. If you take control of your opponent’s monster with 'Change of Heart' during your turn, your opponent can't activate Trap Cards during your Battle Phase, but you can.\n● The effect of this monster makes your opponent unable to activate Set Trap Cards. However, your opponent can still activate the effects of face-up Trap Cards such as 'Type Zero Magic Crusher', 'Ultimate Offering', 'Skull Lair', 'The Dragon’s Bead', and 'Astral Barrier'.",
+    "Base": "1. The effect of this monster makes the opponent of this monster's current controller unable to activate Trap Cards during the Battle Phase. If you take control of your opponent's monster with \"Change of Heart\" during your turn, your opponent cannot activate Trap Cards during your Battle Phase, but you can.\\n2. The effect of this monster makes your opponent unable to activate Set Trap Cards. However, your opponent can still activate the effects of face-up Trap Cards such as \"Type Zero Magic Crusher\", \"Ultimate Offering\", \"Skull Lair\", \"The Dragon's Bead\", and \"Astral Barrier\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

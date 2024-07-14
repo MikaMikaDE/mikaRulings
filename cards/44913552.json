@@ -1,0 +1,44 @@
+{
+  "id": 44913552,
+  "name": "Timeater",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1900,
+    "def": 1700,
+    "level": 6,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.",
+    "Goat": "●If your MP 1 is skipped because of Timeater, you can enter your Battle Phase (even if you have no monsters on the field) and proceed from there to MP 2. If you cannot enter your Battle Phase (due to another card effect such as Great Long Nose or Frozen Soul), then you must go immediately from SP to End Phase.\n●If your Timeater and your opponent’s monster destroy each other as a result of battle, the effect of Timeater is still activated.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If your Main Phase 1 is skipped because of 'Timeater', you can enter your Battle Phase (even if you have no monsters on the field) and proceed from there to Main Phase 2. If you can't enter your Battle Phase (due to another card effect such as 'Great Long Nose' or 'Frozen Soul'), then you must go immediately from Standby Phase to End Phase.\n● If your 'Timeater' and your opponent’s monster destroy each other as a result of battle, the effect of 'Timeater' is still activated.",
+    "TeleDAD": "● If your Main Phase 1 is skipped because of 'Timeater', you can enter your Battle Phase (even if you have no monsters on the field) and proceed from there to Main Phase 2. If you can't enter your Battle Phase (due to another card effect such as 'Great Long Nose' or 'Frozen Soul'), then you must go immediately from Standby Phase to End Phase.\n● If your 'Timeater' and your opponent’s monster destroy each other as a result of battle, the effect of 'Timeater' is still activated.",
+    "Gladiator": "● If your Main Phase 1 is skipped because of 'Timeater', you can enter your Battle Phase (even if you have no monsters on the field) and proceed from there to Main Phase 2. If you can't enter your Battle Phase (due to another card effect such as 'Great Long Nose' or 'Frozen Soul'), then you must go immediately from Standby Phase to End Phase.\n● If your 'Timeater' and your opponent’s monster destroy each other as a result of battle, the effect of 'Timeater' is still activated.",
+    "ReturnDAD": "● If your Main Phase 1 is skipped because of 'Timeater', you can enter your Battle Phase (even if you have no monsters on the field) and proceed from there to Main Phase 2. If you can't enter your Battle Phase (due to another card effect such as 'Great Long Nose' or 'Frozen Soul'), then you must go immediately from Standby Phase to End Phase.\n● If your 'Timeater' and your opponent’s monster destroy each other as a result of battle, the effect of 'Timeater' is still activated.",
+    "Trooper": "● If your Main Phase 1 is skipped because of 'Timeater', you can enter your Battle Phase (even if you have no monsters on the field) and proceed from there to Main Phase 2. If you can't enter your Battle Phase (due to another card effect such as 'Great Long Nose' or 'Frozen Soul'), then you must go immediately from Standby Phase to End Phase.\n● If your 'Timeater' and your opponent’s monster destroy each other as a result of battle, the effect of 'Timeater' is still activated.",
+    "Circle": "● If your Main Phase 1 is skipped because of 'Timeater', you can enter your Battle Phase (even if you have no monsters on the field) and proceed from there to Main Phase 2. If you can't enter your Battle Phase (due to another card effect such as 'Great Long Nose' or 'Frozen Soul'), then you must go immediately from Standby Phase to End Phase.\n● If your 'Timeater' and your opponent’s monster destroy each other as a result of battle, the effect of 'Timeater' is still activated.",
+    "Stein": "● If your Main Phase 1 is skipped because of 'Timeater', you can enter your Battle Phase (even if you have no monsters on the field) and proceed from there to Main Phase 2. If you can't enter your Battle Phase (due to another card effect such as 'Great Long Nose' or 'Frozen Soul'), then you must go immediately from Standby Phase to End Phase.\n● If your 'Timeater' and your opponent’s monster destroy each other as a result of battle, the effect of 'Timeater' is still activated.",
+    "Base": "1. If your Main Phase 1 is skipped because of \"Timeater\", you can enter your Battle Phase (even if you have no monsters on the field) and proceed from there to Main Phase 2. If you cannot enter your Battle Phase (due to another card effect such as \"Great Long Nose\" or \"Frozen Soul\"), then you must go immediately from Standby Phase to End Phase.\\n2. If your \"Timeater\" and your opponent's monster destroy each other as a result of battle, the effect of \"Timeater\" is still activated."
+  },
+  "PSCT": {
+    "Tengu": "① If this card destroys an opponent's monster by battle:\nYour opponent skips their next Main Phase 1.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

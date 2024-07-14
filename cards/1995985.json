@@ -1,0 +1,44 @@
+{
+  "id": 1995985,
+  "name": "Silent Swordsman LV3",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1000,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●Silent Swordsman LV3 will negate the effects of your opponent’s Spell Cards that target it, whether that Spell Card targets just Silent Swordsman LV3 (such as Soul Exchange) or multiple monsters (Different Dimension Gate).",
+    "Goat": "●Silent Swordsman LV3 will negate the effects of your opponent’s Spell Cards that target it, whether that Spell Card targets just Silent Swordsman LV3 (such as Soul Exchange) or multiple monsters (Different Dimension Gate).",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Silent Swordsman LV3' will negate the effects of your opponent’s Spell Cards that target it, whether that Spell Card targets just 'Silent Swordsman LV3' (such as 'Soul Exchange') or multiple monsters ('Different Dimension Gate').",
+    "TeleDAD": "● 'Silent Swordsman LV3' will negate the effects of your opponent’s Spell Cards that target it, whether that Spell Card targets just 'Silent Swordsman LV3' (such as 'Soul Exchange') or multiple monsters ('Different Dimension Gate').",
+    "Gladiator": "● 'Silent Swordsman LV3' will negate the effects of your opponent’s Spell Cards that target it, whether that Spell Card targets just 'Silent Swordsman LV3' (such as 'Soul Exchange') or multiple monsters ('Different Dimension Gate').",
+    "ReturnDAD": "● 'Silent Swordsman LV3' will negate the effects of your opponent’s Spell Cards that target it, whether that Spell Card targets just 'Silent Swordsman LV3' (such as 'Soul Exchange') or multiple monsters ('Different Dimension Gate').",
+    "Trooper": "● 'Silent Swordsman LV3' will negate the effects of your opponent’s Spell Cards that target it, whether that Spell Card targets just 'Silent Swordsman LV3' (such as 'Soul Exchange') or multiple monsters ('Different Dimension Gate').",
+    "Circle": "● 'Silent Swordsman LV3' will negate the effects of your opponent’s Spell Cards that target it, whether that Spell Card targets just 'Silent Swordsman LV3' (such as 'Soul Exchange') or multiple monsters ('Different Dimension Gate').",
+    "Stein": "● 'Silent Swordsman LV3' will negate the effects of your opponent’s Spell Cards that target it, whether that Spell Card targets just 'Silent Swordsman LV3' (such as 'Soul Exchange') or multiple monsters ('Different Dimension Gate').",
+    "Base": "1. \"Silent Swordsman LV3\" will negate the effects of your opponent's Spell Cards that target it, whether that Spell Card targets just \"Silent Swordsman LV3\" (such as \"Soul Exchange\") or multiple monsters (\"Different Dimension Gate\")."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

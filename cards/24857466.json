@@ -1,0 +1,44 @@
+{
+  "id": 24857466,
+  "name": "Van'Dalgyon the Dark Dragon Lord",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 2500,
+    "level": 8,
+    "race": "Dragon",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● You can only activate 1 Trigger Effect in your hand per chain.\n(You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand).\n● The ① effect does not trigger when a Spell/Trap Effect is negated; it only triggers when the Spell/Trap itself is negated.\n(Activating a Spell/Trap Card from your hand is a Card Activation. Activating the effect of a Spell/Trap which is already face-up on the field is an Effect Activation).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "① If this card is in your hand, if the Activation of your opponent's Spell/Trap Card, or Monster Effect, \nis negated by your Counter Trap (except during the Damage Step): \nYou can Special Summon this card.\n② If you do, activate the appropriate effect(s) in sequence, depending on what was negated:\n● Spell Card: Your opponent takes 1500 damage.\n● Trap Card: Target 1 card your opponent controls; \ndestroy that target.\n● Monster Effect: Target 1 monster in your GY;\nSpecial Summon it.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

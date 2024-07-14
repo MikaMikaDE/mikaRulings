@@ -1,0 +1,40 @@
+{
+  "id": 82639107,
+  "name": "Convert Contact",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot activate this card if there are no Neo-Spacian monsters in your hand or Deck.\n●If an effect chained to this card causes you to have no Neo-Spacian cards in your hand or Deck, this card's effect (Draw 2 cards.) does not resolve.\n●You cannot activate this card if there are 2 or fewer cards in your Deck.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate this card if there are no 'Neo-Spacian' monsters in your hand or Deck.\n● If an effect chained to this card causes you to have no 'Neo-Spacian' cards in your hand or Deck, this card's effect ('Draw 2 cards.') does not resolve.\n● You can't activate this card if there are 2 or fewer cards in your Deck.",
+    "TeleDAD": "● You can't activate this card if there are no 'Neo-Spacian' monsters in your hand or Deck.\n● If an effect chained to this card causes you to have no 'Neo-Spacian' cards in your hand or Deck, this card's effect ('Draw 2 cards.') does not resolve.\n● You can't activate this card if there are 2 or fewer cards in your Deck.",
+    "Gladiator": "● You can't activate this card if there are no 'Neo-Spacian' monsters in your hand or Deck.\n● If an effect chained to this card causes you to have no 'Neo-Spacian' cards in your hand or Deck, this card's effect ('Draw 2 cards.') does not resolve.\n● You can't activate this card if there are 2 or fewer cards in your Deck.",
+    "ReturnDAD": "● You can't activate this card if there are no 'Neo-Spacian' monsters in your hand or Deck.\n● If an effect chained to this card causes you to have no 'Neo-Spacian' cards in your hand or Deck, this card's effect ('Draw 2 cards.') does not resolve.\n● You can't activate this card if there are 2 or fewer cards in your Deck.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● You can't activate this card if there are no 'Neo-Spacian' monsters in your hand or Deck.\n● If an effect chained to this card causes you to have no 'Neo-Spacian' cards in your hand or Deck, this card's effect ('Draw 2 cards.') does not resolve.\n● You can't activate this card if there are 2 or fewer cards in your Deck.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You cannot activate this card if there are no \"Neo-Spacian\" monsters in your hand or Deck.\\n2. If an effect chained to this card causes you to have no \"Neo-Spacian\" cards in your hand or Deck, this card's effect (\"Draw 2 cards.\") does not resolve.\\n3. You cannot activate this card if there are 2 or fewer cards in your Deck."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

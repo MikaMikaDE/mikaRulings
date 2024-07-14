@@ -1,0 +1,44 @@
+{
+  "id": 56647086,
+  "name": "Invader of Darkness",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2900,
+    "def": 2500,
+    "level": 8,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "(1) While this card is face-up on the field, your opponent cannot activate Quick-Play Spell Cards.\n●The (1) Continuous Effect applies while this card is face-upon the field.\n●Your opponent cannot activate (play face-up) Quick-Play Spells.\n●The effects of Quick-Play Spell Cards that were activated earlier in the Chain are not negated.",
+    "Goat": "●Invader of Darkness prevents the activation of Quick-Play Spell Cards, but doesn't negate their effects. So if your opponent activates a Quick-Play Spell Card and you chain Call of the Haunted to Special Summon Invader of Darkness, he does not negate the activation or effect of the Quick-Play Spell Card.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Invader of Darkness' prevents the activation of Quick-Play Spell Cards, but doesn't negate their effects. So if your opponent activates a Quick-Play Spell Card and you chain 'Call of the Haunted' to Special Summon 'Invader of Darkness', he does not negate the activation or effect of the Quick-Play Spell Card.",
+    "TeleDAD": "● 'Invader of Darkness' prevents the activation of Quick-Play Spell Cards, but doesn't negate their effects. So if your opponent activates a Quick-Play Spell Card and you chain 'Call of the Haunted' to Special Summon 'Invader of Darkness', he does not negate the activation or effect of the Quick-Play Spell Card.",
+    "Gladiator": "● 'Invader of Darkness' prevents the activation of Quick-Play Spell Cards, but doesn't negate their effects. So if your opponent activates a Quick-Play Spell Card and you chain 'Call of the Haunted' to Special Summon 'Invader of Darkness', he does not negate the activation or effect of the Quick-Play Spell Card.",
+    "ReturnDAD": "● 'Invader of Darkness' prevents the activation of Quick-Play Spell Cards, but doesn't negate their effects. So if your opponent activates a Quick-Play Spell Card and you chain 'Call of the Haunted' to Special Summon 'Invader of Darkness', he does not negate the activation or effect of the Quick-Play Spell Card.",
+    "Trooper": "● 'Invader of Darkness' prevents the activation of Quick-Play Spell Cards, but doesn't negate their effects. So if your opponent activates a Quick-Play Spell Card and you chain 'Call of the Haunted' to Special Summon 'Invader of Darkness', he does not negate the activation or effect of the Quick-Play Spell Card.",
+    "Circle": "● 'Invader of Darkness' prevents the activation of Quick-Play Spell Cards, but doesn't negate their effects. So if your opponent activates a Quick-Play Spell Card and you chain 'Call of the Haunted' to Special Summon 'Invader of Darkness', he does not negate the activation or effect of the Quick-Play Spell Card.",
+    "Stein": "● 'Invader of Darkness' prevents the activation of Quick-Play Spell Cards, but doesn't negate their effects. So if your opponent activates a Quick-Play Spell Card and you chain 'Call of the Haunted' to Special Summon 'Invader of Darkness', he does not negate the activation or effect of the Quick-Play Spell Card.",
+    "Base": "1. \"Invader of Darkness\" prevents the activation of Quick-Play Spell Cards, but doesn't negate their effects. So if your opponent activates a Quick-Play Spell Card and you chain \"Call of the Haunted\" to Special Summon \"Invader of Darkness\", he does not negate the activation or effect of the Quick-Play Spell Card."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

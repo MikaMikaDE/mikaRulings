@@ -1,0 +1,44 @@
+{
+  "id": 31516413,
+  "name": "Hieratic Dragon of Nebthet",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2000,
+    "def": 1600,
+    "level": 5,
+    "race": "Dragon",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If this card is Tributed for a Cost (even for a Tribute Summon or to Special Summon Su), this card's effect must be Chain Link 1 on a new chain.\nEG: You tribute this card for \"Caius the Shadow Monarch\". This card's effect is CL1, and Caius' is CL2.\n● This effect is mandatory.\nIt will Trigger if Tributed for a Tribute Summon, for a Ritual Spell, or even to pay a cost of a Trap which Tributes.",
+    "Vegas": "● If this card is Tributed for a Cost (even for a Tribute Summon or to Special Summon Su), this card's effect must be Chain Link 1 on a new chain.\nEG: You tribute this card for \"Caius the Shadow Monarch\". This card's effect is CL1, and Caius' is CL2.\n● This effect is mandatory.\nIt will Trigger if Tributed for a Tribute Summon, for a Ritual Spell, or even to pay a cost of a Trap which Tributes.",
+    "Meadowlands": "● If this card is Tributed for a Cost (even for a Tribute Summon or to Special Summon Su), this card's effect must be Chain Link 1 on a new chain.\nEG: You tribute this card for \"Caius the Shadow Monarch\". This card's effect is CL1, and Caius' is CL2.\n● This effect is mandatory.\nIt will Trigger if Tributed for a Tribute Summon, for a Ritual Spell, or even to pay a cost of a Trap which Tributes.",
+    "FireWater": "● If this card is Tributed for a Cost (even for a Tribute Summon or to Special Summon Su), this card's effect must be Chain Link 1 on a new chain.\nEG: You tribute this card for \"Caius the Shadow Monarch\". This card's effect is CL1, and Caius' is CL2.\n● This effect is mandatory.\nIt will Trigger if Tributed for a Tribute Summon, for a Ritual Spell, or even to pay a cost of a Trap which Tributes.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "Ⓢ You can Special Summon this card (from your hand) by Tributing 1 \"Hieratic\" monster. \n① Once per turn: You can Tribute 1 other \"Hieratic\" monster from your hand/field, \nthen target 1 monster your opponent controls; destroy that target. \n② If this card is Tributed: Special Summon 1 Dragon Normal Monster from your hand/Deck/GY, and make its ATK/DEF 0.",
+    "Meadowlands": "Ⓢ You can Special Summon this card (from your hand) by Tributing 1 \"Hieratic\" monster. \n① Once per turn: You can Tribute 1 other \"Hieratic\" monster from your hand/field, \nthen target 1 monster your opponent controls; destroy that target. \n② If this card is Tributed: Special Summon 1 Dragon Normal Monster from your hand/Deck/GY, and make its ATK/DEF 0.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 75180828,
+  "name": "Mermail Abyssbalaen",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2500,
+    "def": 2000,
+    "level": 7,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If \"Dimensional Fissure\" is applying, this card's ① cannot be activated.",
+    "Vegas": "● If \"Dimensional Fissure\" is applying, this card's ① cannot be activated.",
+    "Meadowlands": "● If \"Dimensional Fissure\" is applying, this card's ① cannot be activated.",
+    "FireWater": "● If \"Dimensional Fissure\" is applying, this card's ① cannot be activated.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① You can discard 4 other \"Mermail\" monsters to the GY; Special Summon this card from your hand. \n② If you do: Target cards your opponent controls, up to the number of \"Mermail\" monsters in your GY (if possible); \neven if nothing was targeted, this card gains 500 ATK, and if it does, destroy those targets (if any). \n③ You can Tribute 1 other face-up Attack Position \"Mermail\" monster; this turn, this card gains this effect.\n● At the start of the Damage Step, if this card battles a Defense Position monster: Destroy that monster.",
+    "Meadowlands": "① You can discard 4 other \"Mermail\" monsters to the GY; Special Summon this card from your hand. \n② If you do: Target cards your opponent controls, up to the number of \"Mermail\" monsters in your GY (if possible); \neven if nothing was targeted, this card gains 500 ATK, and if it does, destroy those targets (if any). \n③ You can Tribute 1 other face-up Attack Position \"Mermail\" monster; this turn, this card gains this effect.\n● At the start of the Damage Step, if this card battles a Defense Position monster: Destroy that monster.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

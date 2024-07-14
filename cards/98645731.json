@@ -1,0 +1,40 @@
+{
+  "id": 98645731,
+  "name": "Pot of Duality",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "You can activate this card if:\n● You only have 1 or 2 cards left in your Deck.\n● The activation of your effect to Special Summon a monster was negated this turn.\n\nYou cannot activate this card if:\n● Your effect to Special Summon a monster was negated this turn.\n● The inherent Special Summon of your monster was negated this turn.\n● \"Thunder King Rai-Oh\" or \"Mistake\" is applying.\n\n● You can Chain \"Mystical Refpanel\" to this card.",
+    "Vegas": "You can activate this card if:\n● You only have 1 or 2 cards left in your Deck.\n● The activation of your effect to Special Summon a monster was negated this turn.\n\nYou cannot activate this card if:\n● Your effect to Special Summon a monster was negated this turn.\n● The inherent Special Summon of your monster was negated this turn.\n● \"Thunder King Rai-Oh\" or \"Mistake\" is applying.\n\n● You can Chain \"Mystical Refpanel\" to this card.",
+    "Meadowlands": "You can activate this card if:\n● You only have 1 or 2 cards left in your Deck.\n● The activation of your effect to Special Summon a monster was negated this turn.\n\nYou cannot activate this card if:\n● Your effect to Special Summon a monster was negated this turn.\n● The inherent Special Summon of your monster was negated this turn.\n● \"Thunder King Rai-Oh\" or \"Mistake\" is applying.\n\n● You can Chain \"Mystical Refpanel\" to this card.",
+    "FireWater": "You can activate this card if:\n● You only have 1 or 2 cards left in your Deck.\n● The activation of your effect to Special Summon a monster was negated this turn.\n\nYou cannot activate this card if:\n● Your effect to Special Summon a monster was negated this turn.\n● The inherent Special Summon of your monster was negated this turn.\n● \"Thunder King Rai-Oh\" or \"Mistake\" is applying.\n\n● You can Chain \"Mystical Refpanel\" to this card.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The cards you don't choose are returned to the Deck, and the Deck is shuffled.\\n2. If you only have 2 cards left in your Deck, you can still activate \"Pot of Duality\". You'll reveal the remaining 2, add 1 to your hand, and the other will be returned.\\n3. You can Chain \"Mystical Refpanel\" to \"Pot of Duality\".\\n4. You can activate \"Pot of Duality\" and \"Future Fusion\" during the same turn."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Reveal the top 3 cards of your Deck, add 1 of them to your hand, then shuffle the rest back into your Deck. You can only activate 1 \"Pot of Duality\" per turn. You cannot Special Summon during the turn you activate this card.",
+    "Meadowlands": "① Reveal the top 3 cards of your Deck, add 1 of them to your hand, then shuffle the rest back into your Deck. You can only activate 1 \"Pot of Duality\" per turn. You cannot Special Summon during the turn you activate this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

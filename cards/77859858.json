@@ -1,0 +1,40 @@
+{
+  "id": 77859858,
+  "name": "Destructive Draw",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●If multiple copies of “Destructive Draw” are in play, a player can draw 1 card for each if they have no cards in their hand at the start of their Draw Phase (after conducting their normal draw).\n●This card’s effect to draw a card starts a Chain.\n●This card’s effect to inflict damage when it is removed from the field does not start a Chain.\n●You must have no cards in your hand when you enter your Draw Phase to use this card's effect. Even if you discard your hand before you draw (due to the effect of Hino-Kagu-Tsuchi, etc.), you cannot use this card's effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If multiple copies of “Destructive Draw” are in play, a player can draw 1 card for each if they have no cards in their hand at the start of their Draw Phase (after conducting their normal draw).\n● This card’s effect to draw a card starts a Chain.\n● This card’s effect to inflict damage when it leaves the field does not start a Chain.\n● You must have no cards in your hand when you enter your Draw Phase to use this card's effect. Even if you discard your hand before you draw (due to the effect of 'Hino-Kagu-Tsuchi', etc.), you can't use this card's effect.",
+    "TeleDAD": "● If multiple copies of “Destructive Draw” are in play, a player can draw 1 card for each if they have no cards in their hand at the start of their Draw Phase (after conducting their normal draw).\n● This card’s effect to draw a card starts a Chain.\n● This card’s effect to inflict damage when it leaves the field does not start a Chain.\n● You must have no cards in your hand when you enter your Draw Phase to use this card's effect. Even if you discard your hand before you draw (due to the effect of 'Hino-Kagu-Tsuchi', etc.), you can't use this card's effect.",
+    "Gladiator": "● If multiple copies of “Destructive Draw” are in play, a player can draw 1 card for each if they have no cards in their hand at the start of their Draw Phase (after conducting their normal draw).\n● This card’s effect to draw a card starts a Chain.\n● This card’s effect to inflict damage when it leaves the field does not start a Chain.\n● You must have no cards in your hand when you enter your Draw Phase to use this card's effect. Even if you discard your hand before you draw (due to the effect of 'Hino-Kagu-Tsuchi', etc.), you can't use this card's effect.",
+    "ReturnDAD": "● If multiple copies of “Destructive Draw” are in play, a player can draw 1 card for each if they have no cards in their hand at the start of their Draw Phase (after conducting their normal draw).\n● This card’s effect to draw a card starts a Chain.\n● This card’s effect to inflict damage when it leaves the field does not start a Chain.\n● You must have no cards in your hand when you enter your Draw Phase to use this card's effect. Even if you discard your hand before you draw (due to the effect of 'Hino-Kagu-Tsuchi', etc.), you can't use this card's effect.",
+    "Trooper": "● If multiple copies of “Destructive Draw” are in play, a player can draw 1 card for each if they have no cards in their hand at the start of their Draw Phase (after conducting their normal draw).\n● This card’s effect to draw a card starts a Chain.\n● This card’s effect to inflict damage when it leaves the field does not start a Chain.",
+    "Circle": "● If multiple copies of “Destructive Draw” are in play, a player can draw 1 card for each if they have no cards in their hand at the start of their Draw Phase (after conducting their normal draw).\n● This card’s effect to draw a card starts a Chain.\n● This card’s effect to inflict damage when it leaves the field does not start a Chain.\n● You must have no cards in your hand when you enter your Draw Phase to use this card's effect. Even if you discard your hand before you draw (due to the effect of 'Hino-Kagu-Tsuchi', etc.), you can't use this card's effect.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If multiple copies of \"Destructive Draw\" are in play, a player can draw 1 card for each if they have no cards in their hand at the start of their Draw Phase (after conducting their normal draw).\\n2. This card's effect to draw a card starts a Chain.\\n3. This card's effect to inflict damage when it is removed from the field does not start a Chain.\\n4. You must have no cards in your hand when you enter your Draw Phase to use this card's effect. Even if you discard your hand before you draw (due to the effect of \"Hino-Kagu-Tsuchi\", etc.), you cannot use this card's effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

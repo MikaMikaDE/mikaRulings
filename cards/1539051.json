@@ -1,0 +1,40 @@
+{
+  "id": 1539051,
+  "name": "Space Gift",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Count the number of Neo-Spacian monsters you control with different names when Space Gift resolves.\n●If you control a Neo-Spacian Marine Dolphin when Space Gift resolves, you will draw 2 cards for it because its name is also treated as Neo-Spacian Aqua Dolphin.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Count the number of 'Neo-Spacian' monsters you control with different names when 'Space Gift' resolves.\n● If you control a 'Neo-Spacian Marine Dolphin' when 'Space Gift' resolves, you will draw 2 cards for it because its name is also treated as 'Neo-Spacian Aqua Dolphin'.",
+    "TeleDAD": "● Count the number of 'Neo-Spacian' monsters you control with different names when 'Space Gift' resolves.\n● If you control a 'Neo-Spacian Marine Dolphin' when 'Space Gift' resolves, you will draw 2 cards for it because its name is also treated as 'Neo-Spacian Aqua Dolphin'.",
+    "Gladiator": "● Count the number of 'Neo-Spacian' monsters you control with different names when 'Space Gift' resolves.\n● If you control a 'Neo-Spacian Marine Dolphin' when 'Space Gift' resolves, you will draw 2 cards for it because its name is also treated as 'Neo-Spacian Aqua Dolphin'.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Count the number of \"Neo-Spacian\" monsters you control with different names when \"Space Gift\" resolves.\\n2. If you control a \"Neo-Spacian Marine Dolphin\" when \"Space Gift\" resolves, you will draw 2 cards for it because its name is also treated as \"Neo-Spacian Aqua Dolphin\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

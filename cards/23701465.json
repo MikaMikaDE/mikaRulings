@@ -1,0 +1,40 @@
+{
+  "id": 23701465,
+  "name": "Primal Seed",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Primal Seed can add cards to your hand that were removed from play face-up (Dimensionhole) or face-down (Different Dimension Capsule).\n●You target the 2 removed cards when you activate Primal Seed.\n●If you don't have 2 or more cards removed from play, you cannot activate Primal Seed.\n●A Fusion Monster or Synrho Monster selected with Primal Seed returns to the Extra Deck.\n●The required card only needs to be face-up on the field. It does not need to be a Monster Card, so if “Black Luster Soldier – Envoy of the Beginning” is equipped to “Relinquished”, you can activate “Primal Seed”.",
+    "Goat": "●Primal Seed can add cards to your hand that were removed from play face-up (Dimensionhole) or face-down (Different Dimension Capsule).\n●You target the 2 removed cards when you activate Primal Seed.\n●If you don't have 2 or more cards removed from play, you cannot activate Primal Seed.\nA Fusion Monster selected with Primal Seed returns to the Fusion Deck.\n●The required card only needs to be face-up on the field. It does not need to be a Monster Card, so if “Black Luster Soldier – Envoy of the Beginning” is equipped to “Relinquished”, you can activate “Primal Seed”.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Primal Seed' can add cards to your hand that were removed from play face-up ('Dimensionhole') or face-down ('Different Dimension Capsule').\n● You target the 2 removed cards when you activate 'Primal Seed'.\n● If you don't have 2 or more cards removed from play, you can't activate 'Primal Seed'.\n● A Fusion Monster or Synrho Monster selected with Primal Seed returns to the Extra Deck. \n● The required card only needs to be applying. It does not need to be a Monster Card, so if “Black Luster Soldier – Envoy of the Beginning” is equipped to “Relinquished”, you can activate “Primal Seed”.",
+    "TeleDAD": "● 'Primal Seed' can add cards to your hand that were removed from play face-up ('Dimensionhole') or face-down ('Different Dimension Capsule').\n● You target the 2 removed cards when you activate 'Primal Seed'.\n● If you don't have 2 or more cards removed from play, you can't activate 'Primal Seed'.\n● A Fusion Monster or Synrho Monster selected with Primal Seed returns to the Extra Deck. \n● The required card only needs to be applying. It does not need to be a Monster Card, so if “Black Luster Soldier – Envoy of the Beginning” is equipped to “Relinquished”, you can activate “Primal Seed”.",
+    "Gladiator": "● 'Primal Seed' can add cards to your hand that were removed from play face-up ('Dimensionhole') or face-down ('Different Dimension Capsule').\n● You target the 2 removed cards when you activate 'Primal Seed'.\n● If you don't have 2 or more cards removed from play, you can't activate 'Primal Seed'.\n● A Fusion Monster selected with 'Primal Seed' returns to the Fusion Deck.\n● The required card only needs to be applying. It does not need to be a Monster Card, so if “Black Luster Soldier – Envoy of the Beginning” is equipped to “Relinquished”, you can activate “Primal Seed”.",
+    "ReturnDAD": "● 'Primal Seed' can add cards to your hand that were removed from play face-up ('Dimensionhole') or face-down ('Different Dimension Capsule').\n● You target the 2 removed cards when you activate 'Primal Seed'.\n● If you don't have 2 or more cards removed from play, you can't activate 'Primal Seed'.\n● A Fusion Monster selected with 'Primal Seed' returns to the Fusion Deck.\n● The required card only needs to be applying. It does not need to be a Monster Card, so if “Black Luster Soldier – Envoy of the Beginning” is equipped to “Relinquished”, you can activate “Primal Seed”.",
+    "Trooper": "● 'Primal Seed' can add cards to your hand that were removed from play face-up ('Dimensionhole') or face-down ('Different Dimension Capsule').\n● You target the 2 removed cards when you activate 'Primal Seed'.\n● If you don't have 2 or more cards removed from play, you can't activate 'Primal Seed'.\n● A Fusion Monster selected with 'Primal Seed' returns to the Fusion Deck.\n● The required card only needs to be applying. It does not need to be a Monster Card, so if “Black Luster Soldier – Envoy of the Beginning” is equipped to “Relinquished”, you can activate “Primal Seed”.",
+    "Circle": "● 'Primal Seed' can add cards to your hand that were removed from play face-up ('Dimensionhole') or face-down ('Different Dimension Capsule').\n● You target the 2 removed cards when you activate 'Primal Seed'.\n● If you don't have 2 or more cards removed from play, you can't activate 'Primal Seed'.\n● A Fusion Monster selected with 'Primal Seed' returns to the Fusion Deck.\n● The required card only needs to be applying. It does not need to be a Monster Card, so if “Black Luster Soldier – Envoy of the Beginning” is equipped to “Relinquished”, you can activate “Primal Seed”.",
+    "Stein": "● 'Primal Seed' can add cards to your hand that were removed from play face-up ('Dimensionhole') or face-down ('Different Dimension Capsule').\n● You target the 2 removed cards when you activate 'Primal Seed'.\n● If you don't have 2 or more cards removed from play, you can't activate 'Primal Seed'.\n● A Fusion Monster selected with 'Primal Seed' returns to the Fusion Deck.\n● The required card only needs to be applying. It does not need to be a Monster Card, so if “Black Luster Soldier – Envoy of the Beginning” is equipped to “Relinquished”, you can activate “Primal Seed”.",
+    "Base": "1. \"Primal Seed\" can add cards to your hand that were removed from play face-up (\"Dimensionhole\") or face-down (\"Different Dimension Capsule\").\\n2. You target the 2 removed cards when you activate \"Primal Seed\".\\n3. If you don't have 2 or more cards removed from play, you cannot activate \"Primal Seed\".\\n4. A Fusion Monster or Synchro Monster selected with \"Primal Seed\" returns to the Extra Deck.\\n5. The required card only needs to be face-up on the field. It does not need to be a Monster Card, so if \"Black Luster Soldier - Envoy of the Beginning\" is equipped to \"Relinquished\", you can activate \"Primal Seed\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

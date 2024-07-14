@@ -1,0 +1,44 @@
+{
+  "id": 67159705,
+  "name": "Armored Cybern",
+  "Stats": {
+    "type": "Union Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 2000,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "(1) Once per turn, during your Main Phase, you can equip this card to a Cyber Dragon you control, or to a Fusion Monster you control that lists Cyber Dragon as a Fusion Material Monster, OR unequip it to Special Summon this card in face-up Attack Position. (2) Once per turn, while equipped to a monster by this effect, you can decrease the equipped monster's ATK by 1000 and destroy 1 face-up monster. (C) (A monster can only by equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)\n●Armored Cybern's effect to destroy 1 monster targets. The ATK of the equipped monster is decreased when this effect resolves.\n●If Reverse Trap is activated, the equipped monster will gain 1000 ATK instead of losing 1000 ATK. When the turn ends, the ATK gain will become an ATK loss.\n●When Armored Cybern is unequipped or removed from the field, the ATK lost with its effect is no longer applied.\n●When Armored Cybern is equipped to a monster that is unaffected by the effects of Spell Cards, you can activate its effect but the effect disappears because the equipped monster's ATK cannot be reduced with Armored Cybern's effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Armored Cybern's' effect to destroy 1 monster targets. The ATK of the equipped monster is decreased when this effect resolves.\n● If 'Reverse Trap' is activated, the equipped monster will gain 1000 ATK instead of losing 1000 ATK. When the turn ends, the ATK gain will become an ATK loss.\n● When 'Armored Cybern' is unequipped or removed from the field, the ATK lost with its effect is no longer applied.\n● When 'Armored Cybern' is equipped to a monster that is unaffected by the effects of Spell Cards, you can activate its effect but the effect disappears because the equipped monster's ATK can't be reduced with 'Armored Cybern's' effect.",
+    "TeleDAD": "● 'Armored Cybern's' effect to destroy 1 monster targets. The ATK of the equipped monster is decreased when this effect resolves.\n● If 'Reverse Trap' is activated, the equipped monster will gain 1000 ATK instead of losing 1000 ATK. When the turn ends, the ATK gain will become an ATK loss.\n● When 'Armored Cybern' is unequipped or removed from the field, the ATK lost with its effect is no longer applied.\n● When 'Armored Cybern' is equipped to a monster that is unaffected by the effects of Spell Cards, you can activate its effect but the effect disappears because the equipped monster's ATK can't be reduced with 'Armored Cybern's' effect.",
+    "Gladiator": "● 'Armored Cybern's' effect to destroy 1 monster targets. The ATK of the equipped monster is decreased when this effect resolves.\n● If 'Reverse Trap' is activated, the equipped monster will gain 1000 ATK instead of losing 1000 ATK. When the turn ends, the ATK gain will become an ATK loss.\n● When 'Armored Cybern' is unequipped or removed from the field, the ATK lost with its effect is no longer applied.\n● When 'Armored Cybern' is equipped to a monster that is unaffected by the effects of Spell Cards, you can activate its effect but the effect disappears because the equipped monster's ATK can't be reduced with 'Armored Cybern's' effect.",
+    "ReturnDAD": "● 'Armored Cybern's' effect to destroy 1 monster targets. The ATK of the equipped monster is decreased when this effect resolves.\n● If 'Reverse Trap' is activated, the equipped monster will gain 1000 ATK instead of losing 1000 ATK. When the turn ends, the ATK gain will become an ATK loss.\n● When 'Armored Cybern' is unequipped or removed from the field, the ATK lost with its effect is no longer applied.\n● When 'Armored Cybern' is equipped to a monster that is unaffected by the effects of Spell Cards, you can activate its effect but the effect disappears because the equipped monster's ATK can't be reduced with 'Armored Cybern's' effect.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Armored Cybern\" to destroy 1 monster targets. The ATK of the equipped monster is decreased when this effect resolves.\\n2. If \"Reverse Trap\" is activated, the equipped monster will gain 1000 ATK instead of losing 1000 ATK. When the turn ends, the ATK gain will become an ATK loss.\\n3. When \"Armored Cybern\" is unequipped or removed from the field, the ATK lost with its effect is no longer applied.\\n4. When \"Armored Cybern\" is equipped to a monster that is unaffected by the effects of Spell Cards, you can activate its effect but the effect disappears because the equipped monster's ATK cannot be reduced with the effect of \"Armored Cybern\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

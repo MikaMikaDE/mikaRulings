@@ -1,0 +1,40 @@
+{
+  "id": 191749,
+  "name": "Hero Flash!!",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●“HERO Flash!!” only affects “Elemental Hero” Normal Monsters that are on the field when it resolves.\n●Even if you are unable to Special Summon an “Elemental Hero” Normal Monster from your Deck, your “Elemental Hero” Normal Monsters can still attack directly.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “HERO Flash!!” only affects “Elemental Hero” Normal Monsters that are on the field when it resolves.\n● Even if you are unable to Special Summon an “Elemental Hero” Normal Monster from your Deck, your “Elemental Hero” Normal Monsters can still attack directly.",
+    "TeleDAD": "● “HERO Flash!!” only affects “Elemental Hero” Normal Monsters that are on the field when it resolves.\n● Even if you are unable to Special Summon an “Elemental Hero” Normal Monster from your Deck, your “Elemental Hero” Normal Monsters can still attack directly.",
+    "Gladiator": "● “HERO Flash!!” only affects “Elemental Hero” Normal Monsters that are on the field when it resolves.\n● Even if you are unable to Special Summon an “Elemental Hero” Normal Monster from your Deck, your “Elemental Hero” Normal Monsters can still attack directly.",
+    "ReturnDAD": "● “HERO Flash!!” only affects “Elemental Hero” Normal Monsters that are on the field when it resolves.\n● Even if you are unable to Special Summon an “Elemental Hero” Normal Monster from your Deck, your “Elemental Hero” Normal Monsters can still attack directly.",
+    "Trooper": "● “HERO Flash!!” only affects “Elemental Hero” Normal Monsters that are on the field when it resolves.\n● Even if you are unable to Special Summon an “Elemental Hero” Normal Monster from your Deck, your “Elemental Hero” Normal Monsters can still attack directly.",
+    "Circle": "● “HERO Flash!!” only affects “Elemental Hero” Normal Monsters that are on the field when it resolves.\n● Even if you are unable to Special Summon an “Elemental Hero” Normal Monster from your Deck, your “Elemental Hero” Normal Monsters can still attack directly.",
+    "Stein": "● “HERO Flash!!” only affects “Elemental Hero” Normal Monsters that are on the field when it resolves.\n● Even if you are unable to Special Summon an “Elemental Hero” Normal Monster from your Deck, your “Elemental Hero” Normal Monsters can still attack directly.",
+    "Base": "1. \"Hero Flash!!\" only affects 'Elemental HERO' Normal Monsters that are on the field when it resolves.\\n2. Even if you are unable to Special Summon an 'Elemental HERO' Normal Monster from your Deck, your 'Elemental HERO' Normal Monsters can still attack directly."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

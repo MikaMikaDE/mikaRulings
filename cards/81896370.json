@@ -1,0 +1,44 @@
+{
+  "id": 81896370,
+  "name": "Swift Birdman Joe",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2300,
+    "def": 1400,
+    "level": 6,
+    "race": "Winged Beast",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●This effect is a Trigger Effect that can be chained to.\n●This effect will activate if you Tribute a monster whose Attribute was changed to WIND by a card effect, such as “Homunculus the Alchemic Being”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This effect is a Trigger Effect that can be chained to.\n● This effect will activate if you Tribute a monster whose Attribute was changed to WIND by a card effect, such as “Homunculus the Alchemic Being”.",
+    "TeleDAD": "● This effect is a Trigger Effect that can be chained to.\n● This effect will activate if you Tribute a monster whose Attribute was changed to WIND by a card effect, such as “Homunculus the Alchemic Being”.",
+    "Gladiator": "● This effect is a Trigger Effect that can be chained to.\n● This effect will activate if you Tribute a monster whose Attribute was changed to WIND by a card effect, such as “Homunculus the Alchemic Being”.",
+    "ReturnDAD": "● This effect is a Trigger Effect that can be chained to.\n● This effect will activate if you Tribute a monster whose Attribute was changed to WIND by a card effect, such as “Homunculus the Alchemic Being”.",
+    "Trooper": "● This effect is a Trigger Effect that can be chained to.\n● This effect will activate if you Tribute a monster whose Attribute was changed to WIND by a card effect, such as “Homunculus the Alchemic Being”.",
+    "Circle": "● This effect is a Trigger Effect that can be chained to.\n● This effect will activate if you Tribute a monster whose Attribute was changed to WIND by a card effect, such as “Homunculus the Alchemic Being”.",
+    "Stein": "● This effect is a Trigger Effect that can be chained to.\n● This effect will activate if you Tribute a monster whose Attribute was changed to WIND by a card effect, such as “Homunculus the Alchemic Being”.",
+    "Base": "1. This effect is a Trigger Effect that can be chained to.\\n2. This effect will activate if you Tribute a monster whose Attribute was changed to WIND by a card effect, such as \"Homunculus the Alchemic Being\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 94804055,
+  "name": "Firewall",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Removing from play 1 Pyro-Type monster in your GY is a cost to activate this card’s effect.\n●Paying 500 Life Points during your Standby Phase does not start a Chain.\n●This card’s effect does not target.\n●If Elemental Hero Wildheart, or another monster that is unaffected by the effects of Trap Cards, attacks directly, you cannot activate the effect of Firewall.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Removing from play 1 Pyro in your GY is a cost to activate this card’s effect.\n● Paying 500 LP during your Standby Phase does not start a Chain.\n● This card’s effect does not target.\n● If 'Elemental Hero Wildheart', or another monster that is unaffected by the effects of Trap Cards, attacks directly, you can't activate the effect of 'Firewall'.",
+    "TeleDAD": "● Removing from play 1 Pyro in your GY is a cost to activate this card’s effect.\n● Paying 500 LP during your Standby Phase does not start a Chain.\n● This card’s effect does not target.\n● If 'Elemental Hero Wildheart', or another monster that is unaffected by the effects of Trap Cards, attacks directly, you can't activate the effect of 'Firewall'.",
+    "Gladiator": "● Removing from play 1 Pyro in your GY is a cost to activate this card’s effect.\n● Paying 500 LP during your Standby Phase does not start a Chain.\n● This card’s effect does not target.\n● If 'Elemental Hero Wildheart', or another monster that is unaffected by the effects of Trap Cards, attacks directly, you can't activate the effect of 'Firewall'.",
+    "ReturnDAD": "● Removing from play 1 Pyro in your GY is a cost to activate this card’s effect.\n● Paying 500 LP during your Standby Phase does not start a Chain.\n● This card’s effect does not target.\n● If 'Elemental Hero Wildheart', or another monster that is unaffected by the effects of Trap Cards, attacks directly, you can't activate the effect of 'Firewall'.",
+    "Trooper": "● Removing from play 1 Pyro in your GY is a cost to activate this card’s effect.\n● Paying 500 LP during your Standby Phase does not start a Chain.\n● This card’s effect does not target.",
+    "Circle": "● Removing from play 1 Pyro in your GY is a cost to activate this card’s effect.\n● Paying 500 LP during your Standby Phase does not start a Chain.\n● This card’s effect does not target.\n● If 'Elemental Hero Wildheart', or another monster that is unaffected by the effects of Trap Cards, attacks directly, you can't activate the effect of 'Firewall'.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Removing from play 1 Pyro-Type monster in your GY is a cost to activate this card's effect.\\n2. Paying 500 Life Points during your Standby Phase does not start a Chain.\\n3. This card's effect does not target.\\n4. If \"Elemental HERO Wildheart\", or another monster that is unaffected by the effects of Trap Cards, attacks directly, you cannot activate the effect of \"Firewall\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

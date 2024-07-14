@@ -1,0 +1,40 @@
+{
+  "id": 26022485,
+  "name": "Enervating Mist",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Enervating Mist and Infinite Cards are both active, whichever effect resolved last is dominant.",
+    "Goat": "●If Enervating Mist and Infinite Cards are both applying, whichever effect resolved last is dominant.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Enervating Mist' and 'Infinite Cards' are both applying, whichever effect resolved last is dominant.",
+    "TeleDAD": "● If 'Enervating Mist' and 'Infinite Cards' are both applying, whichever effect resolved last is dominant.",
+    "Gladiator": "● If 'Enervating Mist' and 'Infinite Cards' are both applying, whichever effect resolved last is dominant.",
+    "ReturnDAD": "● If 'Enervating Mist' and 'Infinite Cards' are both applying, whichever effect resolved last is dominant.",
+    "Trooper": "● If 'Enervating Mist' and 'Infinite Cards' are both applying, whichever effect resolved last is dominant.",
+    "Circle": "● If 'Enervating Mist' and 'Infinite Cards' are both applying, whichever effect resolved last is dominant.",
+    "Stein": "● If 'Enervating Mist' and 'Infinite Cards' are both applying, whichever effect resolved last is dominant.",
+    "Base": "1. If \"Enervating Mist\" and \"Infinite Cards\" are both active, whichever effect resolved last is dominant."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

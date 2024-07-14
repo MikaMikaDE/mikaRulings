@@ -1,0 +1,40 @@
+{
+  "id": 3659803,
+  "name": "Overload Fusion",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "● Banishing is not a cost.\nBanishing happens as part of this effect.\nIf \"Imperial Iron Wall\" is chained to this card, this card resolves without effect.\n● You can always use face-down monsters as Fusion Material.\n● When this card resolves, you must Fusion Summon if able to.\n● Banishing and summoning are sequential. Summoning is the last thing to happen.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Overload Fusion' does not target. You select and remove the monsters during resolution.",
+    "TeleDAD": "● 'Overload Fusion' does not target. You select and remove the monsters during resolution.",
+    "Gladiator": "● 'Overload Fusion' does not target. You select and remove the monsters during resolution.",
+    "ReturnDAD": "● 'Overload Fusion' does not target. You select and remove the monsters during resolution.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● 'Overload Fusion' does not target. You select and remove the monsters during resolution.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Overload Fusion\" does not target. You select and remove the monsters during resolution."
+  },
+  "PSCT": {
+    "Tengu": "① Banish Fusion Materials from your field/GY, then Fusion Summon 1 appropriate DARK Machine Fusion Monster from your Extra Deck.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

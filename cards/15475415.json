@@ -1,0 +1,44 @@
+{
+  "id": 15475415,
+  "name": "Alien Dog",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 1000,
+    "level": 3,
+    "race": "Reptile",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) When you Normal Summon an Alien monster, you can Special Summon this card from your hand. (2) When you do, place 2 A-Counters on face-up monster(s) your opponent controls.\n●The (1) optional Trigger Effect activates & resolves in the hand.\n●This effect activates in the Summon response timing (like Trap Hole).\n●If you wish to use this effect, you CANNOT use Ignition Effect Priority in response to the Summon.\n●This effect can't activate if the Normal Summon happens as Chain Link 2(+) by Ultimate Offering.\n●Even if you have more than 1 “Alien Dog” in your hand, you can only activate the effect of 1.\n●The (2) mandatory Trigger Effect activates & resolves on the field.\n●This effect activates after the Chain in which the (1) effect resolved.\n●You may place both A-Counters on a single monster, or one on each of two monsters.\n●The effects of “Alien Dog” do not target. You select the monster(s) when the effect resolves.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effects of \"Alien Dog\" do not target. You select the monster(s) when the effect resolves.\\n2. Even if you have more than 1 \"Alien Dog\" in your hand, you can only Special Summon 1 when you Normal Summon an \"Alien\" monster."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 63391643,
+  "name": "Thousand Knives",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●The required card only needs to be face-up on the field. It does not need to be a Monster Card, so if “Dark Magician” is equipped to your “Relinquished”, you can activate “Thousand Knives”.",
+    "Goat": "●The required card only needs to be face-up on the field. It does not need to be a Monster Card, so if “Dark Magician” is equipped to your “Relinquished”, you can activate “Thousand Knives”.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The required card only needs to be applying. It does not need to be a Monster Card, so if “Dark Magician” is equipped to your “Relinquished”, you can activate “Thousand Knives”.",
+    "TeleDAD": "● The required card only needs to be applying. It does not need to be a Monster Card, so if “Dark Magician” is equipped to your “Relinquished”, you can activate “Thousand Knives”.",
+    "Gladiator": "● The required card only needs to be applying. It does not need to be a Monster Card, so if “Dark Magician” is equipped to your “Relinquished”, you can activate “Thousand Knives”.",
+    "ReturnDAD": "● The required card only needs to be applying. It does not need to be a Monster Card, so if “Dark Magician” is equipped to your “Relinquished”, you can activate “Thousand Knives”.",
+    "Trooper": "● The required card only needs to be applying. It does not need to be a Monster Card, so if “Dark Magician” is equipped to your “Relinquished”, you can activate “Thousand Knives”.",
+    "Circle": "● The required card only needs to be applying. It does not need to be a Monster Card, so if “Dark Magician” is equipped to your “Relinquished”, you can activate “Thousand Knives”.",
+    "Stein": "● The required card only needs to be applying. It does not need to be a Monster Card, so if “Dark Magician” is equipped to your “Relinquished”, you can activate “Thousand Knives”.",
+    "Base": "1. The required card only needs to be face-up on the field. It does not need to be a Monster Card, so if \"Dark Magician\" is equipped to your \"Relinquished\", you can activate \"Thousand Knives\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

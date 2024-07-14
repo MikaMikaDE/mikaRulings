@@ -1,0 +1,40 @@
+{
+  "id": 21702241,
+  "name": "Vengeful Servant",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Vengeful Servant” starts a chain when control of the monster switches.\n●If a Continuous Effect would destroy the equipped monster first (example: an equipped “Thunder Nyan Nyan” switches sides and is destroyed immediately), then the effect of “Vengeful Servant” does not activate and it does not inflict damage.\n●If “Remove Brainwashing” is active and a monster equipped with “Vengeful Servant” switches sides, that monster immediately switches back to the original controller.\n●The effect of “Vengeful Servant” then starts a chain (and only activates once, in this case) and the original controller of the monster takes damage.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Vengeful Servant\" starts a chain when control of the monster switches. If a Continuous Effect would destroy the equipped monster first (example: an equipped \"Thunder Nyan Nyan\" switches sides and is destroyed immediately), then the effect of \"Vengeful Servant\" does not activate and it does not inflict damage.\\n2. If \"Remove Brainwashing\" is active and a monster equipped with \"Vengeful Servant\" switches sides, that monster immediately switches back to the original controller. The effect of \"Vengeful Servant\" then starts a chain (and only activates once, in this case) and the original controller of the monster takes damage."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

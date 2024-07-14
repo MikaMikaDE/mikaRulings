@@ -1,0 +1,44 @@
+{
+  "id": 32752319,
+  "name": "UFOroid Fighter",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 0,
+    "def": 0,
+    "level": 10,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●If “UFOroid Fighter” is Special Summoned with “Cyber-Stein” or “Metamorphosis”, its original ATK & DEF will be zero.\n●If “UFOroid Fighter” is Special Summoned with “Power Bond”, first apply the effect of “UFOroid Fighter” to determine its original ATK & DEF, and then apply the ATK increase of “Power Bond”.\n●If “UFOroid Fighter” is on the field, and then “Skill Drain” is activated, the original ATK & DEF will be zero, and will remain zero even if “Skill Drain” is destroyed or negated.\n●You can Special Summon “UFOroid Fighter” using “UFOroid” and a monster that was changed to Warrior-Type with “DNA Surgery”, etc.",
+    "Goat": "●If “UFOroid Fighter” is Special Summoned with “Cyber-Stein” or “Metamorphosis”, its original ATK/DEF will be zero.\n●If “UFOroid Fighter” is Special Summoned with “Power Bond”, first apply the effect of “UFOroid Fighter” to determine its original ATK/DEF, and then apply the ATK increase of “Power Bond”.\n●If “UFOroid Fighter” is on the field, and then “Skill Drain” is activated, the original ATK/DEF will be zero, and will remain zero even if “Skill Drain” is destroyed or negated.\n●You can Special Summon “UFOroid Fighter” using “UFOroid” and a monster that was changed to Warrior with “DNA Surgery”, etc.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “UFOroid Fighter” is Special Summoned with “Cyber-Stein” or “Metamorphosis”, its original ATK & DEF will be zero.\n● If “UFOroid Fighter” is Special Summoned with “Power Bond”, first apply the effect of “UFOroid Fighter” to determine its original ATK & DEF, and then apply the ATK increase of “Power Bond”.\n● If “UFOroid Fighter” is on the field, and then “Skill Drain” is activated, the original ATK & DEF will be zero, and will remain zero even if “Skill Drain” is destroyed or negated.\n● You can Special Summon “UFOroid Fighter” using “UFOroid” and a monster that was changed to Warrior-Type with “DNA Surgery”, etc.",
+    "TeleDAD": "● If “UFOroid Fighter” is Special Summoned with “Cyber-Stein” or “Metamorphosis”, its original ATK & DEF will be zero.\n● If “UFOroid Fighter” is Special Summoned with “Power Bond”, first apply the effect of “UFOroid Fighter” to determine its original ATK & DEF, and then apply the ATK increase of “Power Bond”.\n● If “UFOroid Fighter” is on the field, and then “Skill Drain” is activated, the original ATK & DEF will be zero, and will remain zero even if “Skill Drain” is destroyed or negated.\n● You can Special Summon “UFOroid Fighter” using “UFOroid” and a monster that was changed to Warrior-Type with “DNA Surgery”, etc.",
+    "Gladiator": "● If “UFOroid Fighter” is Special Summoned with “Cyber-Stein” or “Metamorphosis”, its original ATK & DEF will be zero.\n● If “UFOroid Fighter” is Special Summoned with “Power Bond”, first apply the effect of “UFOroid Fighter” to determine its original ATK & DEF, and then apply the ATK increase of “Power Bond”.\n● If “UFOroid Fighter” is on the field, and then “Skill Drain” is activated, the original ATK & DEF will be zero, and will remain zero even if “Skill Drain” is destroyed or negated.\n● You can Special Summon “UFOroid Fighter” using “UFOroid” and a monster that was changed to Warrior-Type with “DNA Surgery”, etc.",
+    "ReturnDAD": "● If “UFOroid Fighter” is Special Summoned with “Cyber-Stein” or “Metamorphosis”, its original ATK & DEF will be zero.\n● If “UFOroid Fighter” is Special Summoned with “Power Bond”, first apply the effect of “UFOroid Fighter” to determine its original ATK & DEF, and then apply the ATK increase of “Power Bond”.\n● If “UFOroid Fighter” is on the field, and then “Skill Drain” is activated, the original ATK & DEF will be zero, and will remain zero even if “Skill Drain” is destroyed or negated.\n● You can Special Summon “UFOroid Fighter” using “UFOroid” and a monster that was changed to Warrior-Type with “DNA Surgery”, etc.",
+    "Trooper": "● If “UFOroid Fighter” is Special Summoned with “Cyber-Stein” or “Metamorphosis”, its original ATK & DEF will be zero.\n● If “UFOroid Fighter” is Special Summoned with “Power Bond”, first apply the effect of “UFOroid Fighter” to determine its original ATK & DEF, and then apply the ATK increase of “Power Bond”.\n● If “UFOroid Fighter” is on the field, and then “Skill Drain” is activated, the original ATK & DEF will be zero, and will remain zero even if “Skill Drain” is destroyed or negated.\n● You can Special Summon “UFOroid Fighter” using “UFOroid” and a monster that was changed to Warrior-Type with “DNA Surgery”, etc.",
+    "Circle": "● If “UFOroid Fighter” is Special Summoned with “Cyber-Stein” or “Metamorphosis”, its original ATK & DEF will be zero.\n● If “UFOroid Fighter” is Special Summoned with “Power Bond”, first apply the effect of “UFOroid Fighter” to determine its original ATK & DEF, and then apply the ATK increase of “Power Bond”.\n● If “UFOroid Fighter” is on the field, and then “Skill Drain” is activated, the original ATK & DEF will be zero, and will remain zero even if “Skill Drain” is destroyed or negated.\n● You can Special Summon “UFOroid Fighter” using “UFOroid” and a monster that was changed to Warrior-Type with “DNA Surgery”, etc.",
+    "Stein": "● If “UFOroid Fighter” is Special Summoned with “Cyber-Stein” or “Metamorphosis”, its original ATK & DEF will be zero.\n● If “UFOroid Fighter” is Special Summoned with “Power Bond”, first apply the effect of “UFOroid Fighter” to determine its original ATK & DEF, and then apply the ATK increase of “Power Bond”.\n● If “UFOroid Fighter” is on the field, and then “Skill Drain” is activated, the original ATK & DEF will be zero, and will remain zero even if “Skill Drain” is destroyed or negated.\n● You can Special Summon “UFOroid Fighter” using “UFOroid” and a monster that was changed to Warrior-Type with “DNA Surgery”, etc.",
+    "Base": "1. If \"UFOroid Fighter\" is Special Summoned with \"Cyber-Stein\" or \"Metamorphosis\", its original ATK & DEF will be zero.\\n2. If \"UFOroid Fighter\" is Special Summoned with \"Power Bond\", first apply the effect of \"UFOroid Fighter\" to determine its original ATK & DEF, and then apply the ATK increase of \"Power Bond\".\\n3. If \"UFOroid Fighter\" is on the field, and then \"Skill Drain\" is activated, the original ATK & DEF will be zero, and will remain zero even if \"Skill Drain\" is destroyed or negated.\\n4. You can Special Summon \"UFOroid Fighter\" using \"UFOroid\" and a monster that was changed to Warrior-Type with \"DNA Surgery\", etc."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 47778083,
+  "name": "Bone Temple Block",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Discarding a card is part of the resolution of “Bone Temple Block.”\n●The effects of “Bone Temple Block” happen in sequence, so if you discard “Archfiend of Gilfer,” it will miss the timing on and not activate its effect.\n●Born Temple Block targets the Monster Cards selected by each player.\n●The turn player selects a monster first. If you activate “Bone Temple Block” during your opponent’s turn, your opponent selects first.\n●If your opponent is under the effects of “Scapegoat” and cannot Special Summon, you can still activate “Bone Temple Block.” In this case, only you would Special Summon a monster.\n●You cannot activate “Bone Temple Block” if there are no monsters in either GY to Special Summon.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Discarding a card is part of the resolution of \"Bone Temple Block\". The effects of \"Bone Temple Block\" happen in sequence, so if you discard \"Archfiend of Gilfer\", it will miss the timing on and not activate its effect.\\n2. \"Born Temple Block\" targets the Monster Cards selected by each player.\\n3. The turn player selects a monster first. If you activate \"Bone Temple Block\" during your opponent's turn, your opponent selects first.\\n4. If your opponent is under the effects of \"Scapegoat\" and cannot Special Summon, you can still activate \"Bone Temple Block\". In this case, only you would Special Summon a monster.\\n5. You cannot activate \"Bone Temple Block\" if there are no monsters in either GY to Special Summon."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

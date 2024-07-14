@@ -1,0 +1,40 @@
+{
+  "id": 34187685,
+  "name": "Double Attack",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Discarding a monster for “Double Attack” is a cost. This effect targets.\n●If you use “Cost Down” so that your “Blue-Eyes White Dragon” in your hand is Level 6, then you cannot discard it to activate “Double Attack” and target your Level 7 “Dark Magician” on the field.\n●If you use “Double Attack” on a monster such as “Twinheaded Beast” it still only gets two attacks, not three.\n●You cannot discard a Level 1 monster for “Double Attack”.",
+    "Goat": "●Discarding a monster for “Double Attack” is a cost. This effect targets.\n●If you use “Cost Down” so that your “Blue-Eyes White Dragon” in your hand is Lv 6, then you cannot discard it to activate “Double Attack” and target your Lv 7 “Dark Magician” on the field.\n●If you use “Double Attack” on a monster such as “Twinheaded Beast” it still only gets two attacks, not three.\n●You cannot discard a Lv 1 monster for “Double Attack”.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Discarding a monster for “Double Attack” is a cost. This effect targets.\n● If you use “Cost Down” so that your “Blue-Eyes White Dragon” in your hand is LV 6, then you can't discard it to activate “Double Attack” and target your LV 7 “Dark Magician” on the field.\n● If you use “Double Attack” on a monster such as “Twinheaded Beast” it still only gets two attacks, not three.\n● You can't discard a LV 1 monster for “Double Attack”.",
+    "TeleDAD": "● Discarding a monster for “Double Attack” is a cost. This effect targets.\n● If you use “Cost Down” so that your “Blue-Eyes White Dragon” in your hand is LV 6, then you can't discard it to activate “Double Attack” and target your LV 7 “Dark Magician” on the field.\n● If you use “Double Attack” on a monster such as “Twinheaded Beast” it still only gets two attacks, not three.\n● You can't discard a LV 1 monster for “Double Attack”.",
+    "Gladiator": "● Discarding a monster for “Double Attack” is a cost. This effect targets.\n● If you use “Cost Down” so that your “Blue-Eyes White Dragon” in your hand is LV 6, then you can't discard it to activate “Double Attack” and target your LV 7 “Dark Magician” on the field.\n● If you use “Double Attack” on a monster such as “Twinheaded Beast” it still only gets two attacks, not three.\n● You can't discard a LV 1 monster for “Double Attack”.",
+    "ReturnDAD": "● Discarding a monster for “Double Attack” is a cost. This effect targets.\n● If you use “Cost Down” so that your “Blue-Eyes White Dragon” in your hand is LV 6, then you can't discard it to activate “Double Attack” and target your LV 7 “Dark Magician” on the field.\n● If you use “Double Attack” on a monster such as “Twinheaded Beast” it still only gets two attacks, not three.\n● You can't discard a LV 1 monster for “Double Attack”.",
+    "Trooper": "● Discarding a monster for “Double Attack” is a cost. This effect targets.\n● If you use “Cost Down” so that your “Blue-Eyes White Dragon” in your hand is LV 6, then you can't discard it to activate “Double Attack” and target your LV 7 “Dark Magician” on the field.\n● If you use “Double Attack” on a monster such as “Twinheaded Beast” it still only gets two attacks, not three.\n● You can't discard a LV 1 monster for “Double Attack”.",
+    "Circle": "● Discarding a monster for “Double Attack” is a cost. This effect targets.\n● If you use “Cost Down” so that your “Blue-Eyes White Dragon” in your hand is LV 6, then you can't discard it to activate “Double Attack” and target your LV 7 “Dark Magician” on the field.\n● If you use “Double Attack” on a monster such as “Twinheaded Beast” it still only gets two attacks, not three.\n● You can't discard a LV 1 monster for “Double Attack”.",
+    "Stein": "● Discarding a monster for “Double Attack” is a cost. This effect targets.\n● If you use “Cost Down” so that your “Blue-Eyes White Dragon” in your hand is LV 6, then you can't discard it to activate “Double Attack” and target your LV 7 “Dark Magician” on the field.\n● If you use “Double Attack” on a monster such as “Twinheaded Beast” it still only gets two attacks, not three.\n● You can't discard a LV 1 monster for “Double Attack”.",
+    "Base": "1. Discarding a monster for \"Double Attack\" is a cost. This effect targets.\\n2. If you use \"Cost Down\" so that your \"Blue-Eyes White Dragon\" in your hand is Level 6, then you cannot discard it to activate \"Double Attack\" and target your Level 7 \"Dark Magician\" on the field.\\n3. If you use \"Double Attack\" on a monster such as \"Twinheaded Beast\" it still only gets two attacks, not three.\\n4. You cannot discard a Level 1 monster for \"Double Attack\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

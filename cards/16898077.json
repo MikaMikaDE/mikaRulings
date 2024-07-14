@@ -1,0 +1,44 @@
+{
+  "id": 16898077,
+  "name": "Flying Fortress SKY FIRE",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 3000,
+    "def": 2500,
+    "level": 8,
+    "race": "Machine",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●Summon Reactor ・SK can Special Summon “Flying Fortress SKY FIRE” from the GY even if it had not been Special Summoned properly before, and even if it was sent directly to the GY from the hand or Deck.\n●Sending the 3 cards to the GY to Special Summon this monster is a cost.\n●That effect does not target “Flying Fortress SKY FIRE”.\n●If multiple monsters are Summoned at the same time, you can use “Flying Fortress SKY FIRE” to destroy all of them and inflict 800 damage to your opponent.\n●If multiple cards are Set at the same time, you can use “Flying Fortress SKY FIRE” to destroy all of them and inflict 800 damage to your opponent.\n●If a combination of monsters are Summoned and Set at the same time, you must choose to either destroy the Summoned monsters, or the Set monsters, and inflict 800 damage to your opponent.\n●Sending 1 card from your hand to the GY is a cost to activate the effect to destroy the target opponent’s card.\n●The effect to destroy 1 card of your choice is a targeted effect.\n●The other effects do not target.\n●If your opponent flips a card face-down, such as with “Book of Moon”, you can activate effect #2 of “Flying Fortress SKY FIRE” to destroy the Set card.\n●The effects of “Flying Fortress SKY FIRE” that can be activated during the opponent’s turn cannot be activated during the Damage Step.\n●If the opponent Summons a monster with an Ignition Effect, they can activate the effect, and then you choose whether or not to chain the Trigger Effect of “Flying Fortress SKY FIRE”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Summon Reactor * SK\" can Special Summon \"Flying Fortress SKY FIRE\" from the GY even if it had not been Special Summoned properly before, and even if it was sent directly to the GY from the hand or Deck.\\n2. Sending the 3 cards to the GY to Special Summon this monster is a cost. That effect does not target \"Flying Fortress SKY FIRE\".\\n3. If multiple monsters are Summoned at the same time, you can use \"Flying Fortress SKY FIRE\" to destroy all of them and inflict 800 damage to your opponent.\\n4. If multiple cards are Set at the same time, you can use \"Flying Fortress SKY FIRE\" to destroy all of them and inflict 800 damage to your opponent.\\n5. If a combination of monsters are Summoned and Set at the same time, you must choose to either destroy the Summoned monsters, or the Set monsters, and inflict 800 damage to your opponent.\\n6. Sending 1 card from your hand to the GY is a cost to activate the effect to destroy the target opponent's card.\\n7. The effect to destroy 1 card of your choice is a targeted effect. The other effects do not target.\\n8. If your opponent flips a card face-down, such as with \"Book of Moon\", you can activate effect #2 of \"Flying Fortress SKY FIRE\" to destroy the Set card.\\n9. The effects of \"Flying Fortress SKY FIRE\" that can be activated during the opponent's turn cannot be activated during the Damage Step.\\n10. If the opponent Summons a monster with an Ignition Effect, they can activate the effect, and then you choose whether or not to chain the Trigger Effect of \"Flying Fortress SKY FIRE\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 63014935,
+  "name": "Volcanic Queen",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2500,
+    "def": 1200,
+    "level": 6,
+    "race": "Pyro",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "●You choose whether to tribute or inflict damage with the ③ when it resolves, not when it activates.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Volcanic Queen's' effect starts a Chain during your End Phase. You choose to Tribute 1 other monster or take 1000 damage when the effect resolves.\n● If 'Volcanic Queen's' effect activates during the End Phase and 'Remove Brainwashing' is chained, the player that controlled 'Volcanic Queen' when its effect activated will Tribute 1 monster or take 1000 damage.",
+    "TeleDAD": "● 'Volcanic Queen's' effect starts a Chain during your End Phase. You choose to Tribute 1 other monster or take 1000 damage when the effect resolves.\n● If 'Volcanic Queen's' effect activates during the End Phase and 'Remove Brainwashing' is chained, the player that controlled 'Volcanic Queen' when its effect activated will Tribute 1 monster or take 1000 damage.",
+    "Gladiator": "● 'Volcanic Queen's' effect starts a Chain during your End Phase. You choose to Tribute 1 other monster or take 1000 damage when the effect resolves.\n● If 'Volcanic Queen's' effect activates during the End Phase and 'Remove Brainwashing' is chained, the player that controlled 'Volcanic Queen' when its effect activated will Tribute 1 monster or take 1000 damage.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Volcanic Queen\" starts a Chain during your End Phase. You choose to Tribute 1 other monster or take 1000 damage when the effect resolves.\\n2. If the effect of \"Volcanic Queen\" activates during the End Phase and \"Remove Brainwashing\" is chained, the player that controlled \"Volcanic Queen\" when its effect activated will Tribute 1 monster or take 1000 damage."
+  },
+  "PSCT": {
+    "Tengu": "Ⓢ Can't be Normal Summoned/Set. \nⓈ Must first be Special Summoned (from your hand) to the opponent's field, by tributing 1 monster they control. \nⒸ You can't Normal Summon/Set the turn this card is successfully Summoned this way. \n① Once per turn: You can send 1 other card you control to the GY; inflict 1000 damage to your opponent. \n② During your End Phase: Tribute 1 monster or take 1000 damage.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

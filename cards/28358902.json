@@ -1,0 +1,44 @@
+{
+  "id": 28358902,
+  "name": "Crimson Sentry",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 1200,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●Crimson Sentry's effect can be activated before or after your monster(s) are destroyed in battle, similar to Last Will.",
+    "Goat": "●The effect of “Crimson Sentry” may only be activated during the controlling player’s MP 1 or MP 2.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Crimson Sentry's' effect can be activated before or after your monster(s) are destroyed in battle, similar to 'Last Will'.",
+    "TeleDAD": "● 'Crimson Sentry's' effect can be activated before or after your monster(s) are destroyed in battle, similar to 'Last Will'.",
+    "Gladiator": "● 'Crimson Sentry's' effect can be activated before or after your monster(s) are destroyed in battle, similar to 'Last Will'.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Crimson Sentry\" can be activated before or after your monster(s) are destroyed in battle, similar to \"Last Will\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

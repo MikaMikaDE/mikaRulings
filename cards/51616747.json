@@ -1,0 +1,44 @@
+{
+  "id": 51616747,
+  "name": "Nubian Guard",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 500,
+    "level": 2,
+    "race": "Warrior",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●Nubian Guard's effect is resolved after damage calculation.\n●Nubian Guard's effect does target a monster in the GY, so the effect will be negated if The End of Anubis is face-up on the field.",
+    "Goat": "●Nubian Guard's effect is resolved after damage calculation.\n●Nubian Guard's effect does target a monster in the GY, so the effect will be negated if The End of Anubis is face-up on the field.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Nubian Guard''s effect is resolved after damage calculation.\n● 'Nubian Guard''s effect does target a monster in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "TeleDAD": "● 'Nubian Guard''s effect is resolved after damage calculation.\n● 'Nubian Guard''s effect does target a monster in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "Gladiator": "● 'Nubian Guard''s effect is resolved after damage calculation.\n● 'Nubian Guard''s effect does target a monster in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "ReturnDAD": "● 'Nubian Guard''s effect is resolved after damage calculation.\n● 'Nubian Guard''s effect does target a monster in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "Trooper": "● 'Nubian Guard''s effect is resolved after damage calculation.\n● 'Nubian Guard''s effect does target a monster in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "Circle": "● 'Nubian Guard''s effect is resolved after damage calculation.\n● 'Nubian Guard''s effect does target a monster in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "Stein": "● 'Nubian Guard''s effect is resolved after damage calculation.\n● 'Nubian Guard''s effect does target a monster in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "Base": "1. The effect of \"Nubian Guard\" is resolved after damage calculation.\\n2. The effect of \"Nubian Guard\" does target a monster in the GY, so the effect will be negated if \"The End of Anubis\" is face-up on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

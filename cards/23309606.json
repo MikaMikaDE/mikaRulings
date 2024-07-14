@@ -1,0 +1,44 @@
+{
+  "id": 23309606,
+  "name": "Infernal Incinerator",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 1800,
+    "level": 6,
+    "race": "Fiend",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●Discarding your hand is a cost to Normal Summon or Set this card. It will not activate the effect of a card like “Goldd, Wu-Lord of Dark World”.\n●You must have at least 1 other card in your hand, besides “Infernal Incinerator”, to discard when your Normal Summon or Set “Infernal Incinerator”.\n●This card can be Special Summoned (even from your Deck, with a card like “Monster Gate”). You do not have to discard your hand when you Special Summon this card.\n●When you Normal Summon or Set “Infernal Incinerator”, it does not start a chain even though you are using the monster’s effect to do so.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Discarding your hand is a cost to Normal Summon or Set this card. It will not activate the effect of a card like “Goldd, Wu-Lord of Dark World”.\n● You must have at least 1 other card in your hand, besides “Infernal Incinerator”, to discard when your Normal Summon or Set “Infernal Incinerator”.\n● This card can be Special Summoned (even from your Deck, with a card like “Monster Gate”). You do not have to discard your hand when you Special Summon this card.\n● When you Normal Summon or Set “Infernal Incinerator”, it does not start a chain even though you are using the monster’s effect to do so.",
+    "TeleDAD": "● Discarding your hand is a cost to Normal Summon or Set this card. It will not activate the effect of a card like “Goldd, Wu-Lord of Dark World”.\n● You must have at least 1 other card in your hand, besides “Infernal Incinerator”, to discard when your Normal Summon or Set “Infernal Incinerator”.\n● This card can be Special Summoned (even from your Deck, with a card like “Monster Gate”). You do not have to discard your hand when you Special Summon this card.\n● When you Normal Summon or Set “Infernal Incinerator”, it does not start a chain even though you are using the monster’s effect to do so.",
+    "Gladiator": "● Discarding your hand is a cost to Normal Summon or Set this card. It will not activate the effect of a card like “Goldd, Wu-Lord of Dark World”.\n● You must have at least 1 other card in your hand, besides “Infernal Incinerator”, to discard when your Normal Summon or Set “Infernal Incinerator”.\n● This card can be Special Summoned (even from your Deck, with a card like “Monster Gate”). You do not have to discard your hand when you Special Summon this card.\n● When you Normal Summon or Set “Infernal Incinerator”, it does not start a chain even though you are using the monster’s effect to do so.",
+    "ReturnDAD": "● Discarding your hand is a cost to Normal Summon or Set this card. It will not activate the effect of a card like “Goldd, Wu-Lord of Dark World”.\n● You must have at least 1 other card in your hand, besides “Infernal Incinerator”, to discard when your Normal Summon or Set “Infernal Incinerator”.\n● This card can be Special Summoned (even from your Deck, with a card like “Monster Gate”). You do not have to discard your hand when you Special Summon this card.\n● When you Normal Summon or Set “Infernal Incinerator”, it does not start a chain even though you are using the monster’s effect to do so.",
+    "Trooper": "● Discarding your hand is a cost to Normal Summon or Set this card. It will not activate the effect of a card like “Goldd, Wu-Lord of Dark World”.\n● You must have at least 1 other card in your hand, besides “Infernal Incinerator”, to discard when your Normal Summon or Set “Infernal Incinerator”.\n● This card can be Special Summoned (even from your Deck, with a card like “Monster Gate”). You do not have to discard your hand when you Special Summon this card.\n● When you Normal Summon or Set “Infernal Incinerator”, it does not start a chain even though you are using the monster’s effect to do so.",
+    "Circle": "● Discarding your hand is a cost to Normal Summon or Set this card. It will not activate the effect of a card like “Goldd, Wu-Lord of Dark World”.\n● You must have at least 1 other card in your hand, besides “Infernal Incinerator”, to discard when your Normal Summon or Set “Infernal Incinerator”.\n● This card can be Special Summoned (even from your Deck, with a card like “Monster Gate”). You do not have to discard your hand when you Special Summon this card.\n● When you Normal Summon or Set “Infernal Incinerator”, it does not start a chain even though you are using the monster’s effect to do so.",
+    "Stein": "● Discarding your hand is a cost to Normal Summon or Set this card. It will not activate the effect of a card like “Goldd, Wu-Lord of Dark World”.\n● You must have at least 1 other card in your hand, besides “Infernal Incinerator”, to discard when your Normal Summon or Set “Infernal Incinerator”.\n● This card can be Special Summoned (even from your Deck, with a card like “Monster Gate”). You do not have to discard your hand when you Special Summon this card.\n● When you Normal Summon or Set “Infernal Incinerator”, it does not start a chain even though you are using the monster’s effect to do so.",
+    "Base": "1. Discarding your hand is a cost to Normal Summon or Set this card. It will not activate the effect of a card like \"Goldd, Wu-Lord of Dark World\".\\n2. You must have at least 1 other card in your hand, besides \"Infernal Incinerator\", to discard when your Normal Summon or Set \"Infernal Incinerator\".\\n3. This card can be Special Summoned (even from your Deck, with a card like \"Monster Gate\"). You do not have to discard your hand when you Special Summon this card.\\n4. When you Normal Summon or Set \"Infernal Incinerator\", it does not start a chain even though you are using the monster's effect to do so."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

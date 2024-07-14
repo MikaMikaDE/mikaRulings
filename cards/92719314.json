@@ -1,0 +1,44 @@
+{
+  "id": 92719314,
+  "name": "The Dark Creator",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2300,
+    "def": 3000,
+    "level": 8,
+    "race": "Thunder",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "(C) This card cannot be Normal Summoned or Set. (S) This card can only be Special Summoned, by having 5 or more DARK monsters in your GY while you control no monsters. (1) Once per turn, you can remove from play 1 DARK monster from your GY to Special Summon 1 DARK monster from your GY.\n●The (C) Condition cannot be negated.\n●The (S) Summon Effect does not start a chain.\n●This card must first be Special Summoned from the hand by the (S) effect.\n●Once properly Summoned, this card can be Special Summoned from the GY / removed from play.\n●The (1) Ignition Effect activates & resolves on the field.\n●Removing from play 1 DARK monster is a cost.\n●This effect targets 1 DARK monster in your GY.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'The Dark Creator's' effect to Special Summon a monster is an Ignition Effect. \n● This effect targets 1 DARK monster in your GY.",
+    "TeleDAD": "● 'The Dark Creator's' effect to Special Summon a monster is an Ignition Effect. \n● This effect targets 1 DARK monster in your GY.",
+    "Gladiator": "● 'The Dark Creator's' effect to Special Summon a monster is an Ignition Effect. \n● This effect targets 1 DARK monster in your GY.",
+    "ReturnDAD": "● 'The Dark Creator's' effect to Special Summon a monster is an Ignition Effect. \n● This effect targets 1 DARK monster in your GY.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"The Dark Creator\" to Special Summon a monster is an Ignition Effect.\\n2. This effect targets 1 DARK monster in your GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

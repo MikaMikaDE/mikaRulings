@@ -1,0 +1,44 @@
+{
+  "id": 32362575,
+  "name": "Magical Merchant",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 200,
+    "def": 700,
+    "level": 1,
+    "race": "Insect",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●You need to show the cards to your opponent, including the one you keep.\n●If you pick up your entire Deck and there were no Spell or Trap Cards, then Magical Merchant's effect disappears.",
+    "Goat": "●You need to show the cards to your opponent, including the one you keep.\n●If you pick up your entire Deck and there were no Spell/Trap Cards, then Magical Merchant's effect disappears.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You need to show the cards to your opponent, including the one you keep.\n● If you pick up your entire Deck and there were no Spell/Trap Cards, then 'Magical Merchant''s effect disappears.",
+    "TeleDAD": "● You need to show the cards to your opponent, including the one you keep.\n● If you pick up your entire Deck and there were no Spell/Trap Cards, then 'Magical Merchant''s effect disappears.",
+    "Gladiator": "● You need to show the cards to your opponent, including the one you keep.\n● If you pick up your entire Deck and there were no Spell/Trap Cards, then 'Magical Merchant''s effect disappears.",
+    "ReturnDAD": "● You need to show the cards to your opponent, including the one you keep.\n● If you pick up your entire Deck and there were no Spell/Trap Cards, then 'Magical Merchant''s effect disappears.",
+    "Trooper": "● You need to show the cards to your opponent, including the one you keep.\n● If you pick up your entire Deck and there were no Spell/Trap Cards, then 'Magical Merchant''s effect disappears.",
+    "Circle": "● You need to show the cards to your opponent, including the one you keep.\n● If you pick up your entire Deck and there were no Spell/Trap Cards, then 'Magical Merchant''s effect disappears.",
+    "Stein": "● You need to show the cards to your opponent, including the one you keep.\n● If you pick up your entire Deck and there were no Spell/Trap Cards, then 'Magical Merchant''s effect disappears.",
+    "Base": "1. You need to show the cards to your opponent, including the one you keep.\\n2. If you pick up your entire Deck and there were no Spell or Trap Cards, then the effect of \"Magical Merchant\" disappears."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

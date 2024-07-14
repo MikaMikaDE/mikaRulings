@@ -1,0 +1,44 @@
+{
+  "id": 3657444,
+  "name": "Cyber Valley",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● The ① effect can activate and resolve while “Skill Drain” is applying.\n● The ② effect can target a token monster. \n(in which case you still draw, and the token is destroyed). \n● If the ② effect is activated, the other target must be face-up to be banished. \n(This card doesn’t need to stay face-up to be banished. If either isn’t banished, none are banished; no cards are drawn).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Cyber Valley's' first effect is a Trigger Effect. Its second and third effects are Ignition Effects.\n● 'Cyber Valley's' second effect targets 'Cyber Valley' and 1 face-up monster you control. They are removed from play when the effect resolves.\n● 'Cyber Valley's' third effect targets 1 card in your GY. 'Cyber Valley' and 1 card from your hand are removed from play when the effect is resolved.\n● If an effect is chained to 'Cyber Valley's' second or third effect that removes 'Cyber Valley' from the field, the effect disappears.\n● If an effect is chained to 'Cyber Valley's' second effect that flips it face-down, the effect is still resolved. If the selected face-up monster is flipped face-down, the effect disappears.",
+    "TeleDAD": "● 'Cyber Valley's' first effect is a Trigger Effect. Its second and third effects are Ignition Effects.\n● 'Cyber Valley's' second effect targets 'Cyber Valley' and 1 face-up monster you control. They are removed from play when the effect resolves.\n● 'Cyber Valley's' third effect targets 1 card in your GY. 'Cyber Valley' and 1 card from your hand are removed from play when the effect is resolved.\n● If an effect is chained to 'Cyber Valley's' second or third effect that removes 'Cyber Valley' from the field, the effect disappears.\n● If an effect is chained to 'Cyber Valley's' second effect that flips it face-down, the effect is still resolved. If the selected face-up monster is flipped face-down, the effect disappears.",
+    "Gladiator": "● 'Cyber Valley's' first effect is a Trigger Effect. Its second and third effects are Ignition Effects.\n● 'Cyber Valley's' second effect targets 'Cyber Valley' and 1 face-up monster you control. They are removed from play when the effect resolves.\n● 'Cyber Valley's' third effect targets 1 card in your GY. 'Cyber Valley' and 1 card from your hand are removed from play when the effect is resolved.\n● If an effect is chained to 'Cyber Valley's' second or third effect that removes 'Cyber Valley' from the field, the effect disappears.\n● If an effect is chained to 'Cyber Valley's' second effect that flips it face-down, the effect is still resolved. If the selected face-up monster is flipped face-down, the effect disappears.",
+    "ReturnDAD": "● 'Cyber Valley's' first effect is a Trigger Effect. Its second and third effects are Ignition Effects.\n● 'Cyber Valley's' second effect targets 'Cyber Valley' and 1 face-up monster you control. They are removed from play when the effect resolves.\n● 'Cyber Valley's' third effect targets 1 card in your GY. 'Cyber Valley' and 1 card from your hand are removed from play when the effect is resolved.\n● If an effect is chained to 'Cyber Valley's' second or third effect that removes 'Cyber Valley' from the field, the effect disappears.\n● If an effect is chained to 'Cyber Valley's' second effect that flips it face-down, the effect is still resolved. If the selected face-up monster is flipped face-down, the effect disappears.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The first effect of \"Cyber Valley\" is a Trigger Effect. Its second and third effects are Ignition Effects.\\n2. The second effect of \"Cyber Valley\" targets \"Cyber Valley\" and 1 face-up monster you control. They are removed from play when the effect resolves.\\n3. The third effect of \"Cyber Valley\" targets 1 card in your GY. \"Cyber Valley\" and 1 card from your hand are removed from play when the effect is resolved.\\n4. If an effect is chained to the second or third effect of \"Cyber Valley\" that removes \"Cyber Valley\" from the field, the effect disappears.\\n5. If an effect is chained to the second effect of \"Cyber Valley\" that flips it face-down, the effect is still resolved. If the selected face-up monster is flipped face-down, the effect disappears."
+  },
+  "PSCT": {
+    "Tengu": "① If this card is attacked by opponent’s monster: \nYou can banish this card; \ndraw 1 card, then end the Battle Phase. \n② You can target this card and 1 other face-up monster you control; \nbanish both targets, then draw 2 cards. \n③ You can target 1 card in your GY; \nbanish both this card and 1 card from your hand, \nthen place that target on top of the Deck.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

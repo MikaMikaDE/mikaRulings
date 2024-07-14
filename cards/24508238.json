@@ -1,0 +1,44 @@
+{
+  "id": 24508238,
+  "name": "D.D. Crow",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": "Winged Beast",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● You can't discard this card to the GY if \"Dimensional Fissure\" is applying.\n● If this card targets \"Necro Gardna\" during your turn, \"Necro Gardna\" can be chained to this effect.\n● The Summon of \"Machina Fortress\" does not use the Chain. This card cannot be chained to it.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "This format does not use Trigger Location rulings. \nCards do not need to be in the same location as their effects for those effects to trigger.\n● EG: You discard an \"Atlantean\" Monster to activate a \"Mermail\" effect.\n  Even if \"D.D. Crow\" is chained, banishing the Atlantean Monster, that Atlantean Monster's effect will still activate.\n\n\n● You can't discard this card to the GY if \"Dimensional Fissure\" is applying.\n● If this card targets \"Necro Gardna\" during your turn, \"Necro Gardna\" can be chained to this effect.\n● The Summon of \"Machina Fortress\" does not use the Chain. This card cannot be chained to it.",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'D.D. Crow's' effect is a Quick Effect.\n● Discarding “D.D. Crow” to activate its effect is a cost.\n● You can't activate this effect during the Damage Step.",
+    "TeleDAD": "● 'D.D. Crow's' effect is a Quick Effect.\n● Discarding “D.D. Crow” to activate its effect is a cost.\n● You can't activate this effect during the Damage Step.",
+    "Gladiator": "● This is a Milti-Trigger (Quick) Effect.\n● Discarding “D.D. Crow” to activate its effect is a cost.\n● You can't activate this effect during the Damage Step.",
+    "ReturnDAD": "● This is a Milti-Trigger (Quick) Effect.\n● Discarding “D.D. Crow” to activate its effect is a cost.\n● You can't activate this effect during the Damage Step.",
+    "Trooper": "● This is a Milti-Trigger (Quick) Effect.\n● Discarding “D.D. Crow” to activate its effect is a cost.\n● You can't activate this effect during the Damage Step.",
+    "Circle": "● This is a Milti-Trigger (Quick) Effect.\n● Discarding “D.D. Crow” to activate its effect is a cost.\n● You can't activate this effect during the Damage Step.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"D.D. Crow\" is a Quick Effect.\\n2. Discarding \"D.D. Crow\" to activate its effect is a cost.\\n3. You cannot activate this effect during the Damage Step."
+  },
+  "PSCT": {
+    "Tengu": "① (Quick): You can discard this card to the GY, then target 1 card in your opponent's GY; banish that target.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

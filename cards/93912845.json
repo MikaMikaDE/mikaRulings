@@ -1,0 +1,40 @@
+{
+  "id": 93912845,
+  "name": "Revival Gift",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card targets 1 Tuner monster in your GY.\n●“Revival Gift” only negates the Tuner monster’s effects that activate on the field. If you Special Summon “Sinister Sprocket” and use it as a Synchro Material Monster, its effect will activate in the GY.\n●The Tuner monster and 2 “Gift Fiend Tokens” are considered to be Special Summoned at the same time.\n●You cannot activate this card if your opponent has 1 or fewer empty Monster Card Zones.\n●If the targeted Tuner monster is no longer in your GY when “Revival Gift” resolves, you still Special Summon 2 “Gift Fiend Tokens” to your opponent’s side of the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card targets 1 Tuner monster in your GY.\n● “Revival Gift” only negates the Tuner monster’s effects that activate on the field. If you Special Summon “Sinister Sprocket” and use it as a Synchro Material Monster, its effect will activate in the GY.\n● The Tuner monster and 2 “Gift Fiend Tokens” are considered to be Special Summoned at the same time.\n● You can't activate this card if your opponent has 1 or fewer empty Monster Card Zones.\n● If the targeted Tuner monster is no longer in your GY when “Revival Gift” resolves, you still Special Summon 2 “Gift Fiend Tokens” to your opponent’s side of the field.",
+    "TeleDAD": "● This card targets 1 Tuner monster in your GY.\n● “Revival Gift” only negates the Tuner monster’s effects that activate on the field. If you Special Summon “Sinister Sprocket” and use it as a Synchro Material Monster, its effect will activate in the GY.\n● The Tuner monster and 2 “Gift Fiend Tokens” are considered to be Special Summoned at the same time.\n● You can't activate this card if your opponent has 1 or fewer empty Monster Card Zones.\n● If the targeted Tuner monster is no longer in your GY when “Revival Gift” resolves, you still Special Summon 2 “Gift Fiend Tokens” to your opponent’s side of the field.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card targets 1 Tuner monster in your GY.\\n2. \"Revival Gift\" only negates the Tuner monster's effects that activate on the field. If you Special Summon \"Sinister Sprocket\" and use it as a Synchro Material Monster, its effect will activate in the GY.\\n3. The Tuner monster and 2 \"Gift Fiend Tokens\" are considered to be Special Summoned at the same time.\\n4. You cannot activate this card if your opponent has 1 or fewer empty Monster Card Zones.\\n5. If the targeted Tuner monster is no longer in your GY when \"Revival Gift\" resolves, you still Special Summon 2 \"Gift Fiend Tokens\" to your opponent's side of the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

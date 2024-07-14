@@ -1,0 +1,44 @@
+{
+  "id": 2009101,
+  "name": "Blackwing - Gale the Whirlwind",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 1300,
+    "def": 400,
+    "level": 3,
+    "race": "Winged Beast",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● If this effect affects \"Tragoedia\", Tragoedia's ATK will \"freeze\" at whatever value it becomes, even if the number of cards in hand changes.\n● If this effect halves the effect of a monster whose ATK is already being modified, for example by \"Rush Recklessly\" or \"Axe of Despair\", those effects are no longer applied to that monster. \nFor example, if a monster with 2000 ATK is equipped by \"Axe of Despair\", and then has its ATK halved by Gale, its ATK will become 1500, and will remain at 1500 even if Axe leaves the field or becomes negated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Blackwing - Gale the Whirlwind\" targets 1 monster your opponent controls.\\n2. The ATK of the targeted monster is halved for as long as that monster remains face-up on the field.\\n3. If you target a monster with \"Blackwing - Gale the Whirlwind\" that was already targeted before, its ATK will be one-quarter. Then one-eighth if you target it again after that.\\n4. The ATK of the targeted monster can be increase/decreased from its new level.\\n5. If a monster with 1000 ATK gains 700 ATK from \"Rush Recklessly\" until the end of the turn, and is then targeted by \"Blackwing - Gale the Whirlwind\", its ATK is now 850, and remains 850 even after \"Rush Recklessly\" expires.\\n6. If a monster with 1000 ATK gains 1000 ATK from \"Axe of Despair\" and is then targeted by \"Blackwing - Gale the Whirlwind\", its ATK is now 1000, and remains 1000 if \"Axe of Despair\" is destroyed.\\n7. If a monster equipped with \"United We Stand\" has its ATK halved, the new ATK remains and is unchanged by \"United We Stand\". (So if the number of monsters on the field changes, the ATK remains the same.)"
+  },
+  "PSCT": {
+    "Tengu": "① If you control a \"Blackwing\" monster other than \"Blackwing - Gale the Whirlwind\", you can Special Summon this card (from your hand). \n② Once per turn: You can target 1 face-up monster your opponent controls; \nthat target's ATK/DEF become equal to half its current ATK/DEF.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 36584821,
+  "name": "Gren Maju Da Eiza",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 3,
+    "race": "Fiend",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●Gren Maju Da Eiza's effect includes cards removed from play face-down with Lightforce Sword or Different Dimension Capsule.\n●If you equip Axe of Despair to Gren Maju Da Eiza, calculate its ATK and DEF according to its effect, then add +1000 ATK on top of that.\n●If Gren Maju Da Eiza is equipped with Megamorph, its ATK is zero, but if Megamorph leaves play, recalculate its ATK using its effect.",
+    "Goat": "●Gren Maju Da Eiza's effect includes cards removed from play face-down with Lightforce Sword or Different Dimension Capsule.\n●If you equip Axe of Despair to Gren Maju Da Eiza, calculate its ATK/DEF according to its effect, then add +1000 ATK on top of that.\n●If Gren Maju Da Eiza is equipped with Megamorph, its ATK is zero, but if Megamorph leaves play, recalculate its ATK using its effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Gren Maju Da Eiza''s effect includes cards removed from play face-down with 'Lightforce Sword' or 'Different Dimension Capsule'.\n● If you equip 'Axe of Despair' to 'Gren Maju Da Eiza', calculate its ATK/DEF according to its effect, then add +1000 ATK on top of that.\n● If 'Gren Maju Da Eiza' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate its ATK using its effect.",
+    "TeleDAD": "● 'Gren Maju Da Eiza''s effect includes cards removed from play face-down with 'Lightforce Sword' or 'Different Dimension Capsule'.\n● If you equip 'Axe of Despair' to 'Gren Maju Da Eiza', calculate its ATK/DEF according to its effect, then add +1000 ATK on top of that.\n● If 'Gren Maju Da Eiza' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate its ATK using its effect.",
+    "Gladiator": "● 'Gren Maju Da Eiza''s effect includes cards removed from play face-down with 'Lightforce Sword' or 'Different Dimension Capsule'.\n● If you equip 'Axe of Despair' to 'Gren Maju Da Eiza', calculate its ATK/DEF according to its effect, then add +1000 ATK on top of that.\n● If 'Gren Maju Da Eiza' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate its ATK using its effect.",
+    "ReturnDAD": "● 'Gren Maju Da Eiza''s effect includes cards removed from play face-down with 'Lightforce Sword' or 'Different Dimension Capsule'.\n● If you equip 'Axe of Despair' to 'Gren Maju Da Eiza', calculate its ATK/DEF according to its effect, then add +1000 ATK on top of that.\n● If 'Gren Maju Da Eiza' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate its ATK using its effect.",
+    "Trooper": "● 'Gren Maju Da Eiza''s effect includes cards removed from play face-down with 'Lightforce Sword' or 'Different Dimension Capsule'.\n● If you equip 'Axe of Despair' to 'Gren Maju Da Eiza', calculate its ATK/DEF according to its effect, then add +1000 ATK on top of that.\n● If 'Gren Maju Da Eiza' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate its ATK using its effect.",
+    "Circle": "● 'Gren Maju Da Eiza''s effect includes cards removed from play face-down with 'Lightforce Sword' or 'Different Dimension Capsule'.\n● If you equip 'Axe of Despair' to 'Gren Maju Da Eiza', calculate its ATK/DEF according to its effect, then add +1000 ATK on top of that.\n● If 'Gren Maju Da Eiza' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate its ATK using its effect.",
+    "Stein": "● 'Gren Maju Da Eiza''s effect includes cards removed from play face-down with 'Lightforce Sword' or 'Different Dimension Capsule'.\n● If you equip 'Axe of Despair' to 'Gren Maju Da Eiza', calculate its ATK/DEF according to its effect, then add +1000 ATK on top of that.\n● If 'Gren Maju Da Eiza' is equipped with 'Megamorph', its ATK is zero, but if 'Megamorph' leaves play, recalculate its ATK using its effect.",
+    "Base": "1. The effect of \"Gren Maju Da Eiza\" includes cards removed from play face-down with \"Lightforce Sword\" or \"Different Dimension Capsule\".\\n2. If you equip \"Axe of Despair\" to \"Gren Maju Da Eiza\", calculate its ATK and DEF according to its effect, then add +1000 ATK on top of that.\\n3. If \"Gren Maju Da Eiza\" is equipped with \"Megamorph\", its ATK is zero, but if \"Megamorph\" leaves play, recalculate its ATK using its effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

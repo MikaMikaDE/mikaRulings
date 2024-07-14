@@ -1,0 +1,44 @@
+{
+  "id": 36021814,
+  "name": "King of the Skull Servants",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": "Zombie",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If the number of “Skull Servant” and “King of the Skull Servants” cards in your GY changes, re-calculate the original ATK of “King of the Skull Servants”. If it is equipped with Megamorph you would then re-apply the effect of Megamorph.\n●If you have 2 Skull Servant cards in your GY (original ATK 2000), and you equip this card with Megamorph, its current ATK will become either 4000 or 1000, depending on your Life Points.\n●Since the ATK of this card is ?, it cannot be Special Summoned by the effect of Mystic Tomato.\n●Removing from play 1 “Skull Servant” or “King of the Skull Servants” to Special Summon a “King of the Skull Servants” is a cost.",
+    "Goat": "●The original ATK of “King of the Skull Servants” is determined by its effect. This is further doubled/halved by “Megamorph” and other effects that are based off of original ATK. If the number of “Skull Servant” and “King of the Skull Servants” cards in your GY changes, re-calculate the original ATK of “King of the Skull Servants”, then re-apply the effect of “Megamorph”. If you have “King of the Skull Servants” with an original ATK of 2000 (2 “Skull Servant” cards in your GY), and you equip it with “Megamorph”, its original ATK will be 4000 when your LP are lower, and 1000 when your LP are higher.\n●Since the ATK of this card is ?, it cannot be Special Summoned by the effect of Mystic Tomato.\n●Removing from play 1 “Skull Servant” or “King of the Skull Servants” to Special Summon a “King of the Skull Servants” is a cost.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If the number of “Skull Servant” and “King of the Skull Servants” cards in your GY changes, re-calculate the original ATK of “King of the Skull Servants”. If it is equipped with 'Megamorph' you would then re-apply the effect of 'Megamorph'.\n● If you have 2 'Skull Servant' cards in your GY (original ATK 2000), and you equip this card with 'Megamorph', its current ATK will become either 4000 or 1000, depending on your LP.\n● Since the ATK of this card is ?, it can't be Special Summoned by the effect of 'Mystic Tomato'.\n● Removing from play 1 “Skull Servant” or “King of the Skull Servants” to Special Summon a “King of the Skull Servants” is a cost.",
+    "TeleDAD": "● If the number of “Skull Servant” and “King of the Skull Servants” cards in your GY changes, re-calculate the original ATK of “King of the Skull Servants”. If it is equipped with 'Megamorph' you would then re-apply the effect of 'Megamorph'.\n● If you have 2 'Skull Servant' cards in your GY (original ATK 2000), and you equip this card with 'Megamorph', its current ATK will become either 4000 or 1000, depending on your LP.\n● Since the ATK of this card is ?, it can't be Special Summoned by the effect of 'Mystic Tomato'.\n● Removing from play 1 “Skull Servant” or “King of the Skull Servants” to Special Summon a “King of the Skull Servants” is a cost.",
+    "Gladiator": "● If the number of “Skull Servant” and “King of the Skull Servants” cards in your GY changes, re-calculate the original ATK of “King of the Skull Servants”. If it is equipped with 'Megamorph' you would then re-apply the effect of 'Megamorph'.\n● If you have 2 'Skull Servant' cards in your GY (original ATK 2000), and you equip this card with 'Megamorph', its current ATK will become either 4000 or 1000, depending on your LP.\n● Since the ATK of this card is ?, it can't be Special Summoned by the effect of 'Mystic Tomato'.\n● Removing from play 1 “Skull Servant” or “King of the Skull Servants” to Special Summon a “King of the Skull Servants” is a cost.",
+    "ReturnDAD": "● If the number of “Skull Servant” and “King of the Skull Servants” cards in your GY changes, re-calculate the original ATK of “King of the Skull Servants”. If it is equipped with 'Megamorph' you would then re-apply the effect of 'Megamorph'.\n● If you have 2 'Skull Servant' cards in your GY (original ATK 2000), and you equip this card with 'Megamorph', its current ATK will become either 4000 or 1000, depending on your LP.\n● Since the ATK of this card is ?, it can't be Special Summoned by the effect of 'Mystic Tomato'.\n● Removing from play 1 “Skull Servant” or “King of the Skull Servants” to Special Summon a “King of the Skull Servants” is a cost.",
+    "Trooper": "● The original ATK of “King of the Skull Servants” is determined by its effect. This is further doubled/halved by “Megamorph” and other effects that are based off of original ATK. If the number of “Skull Servant” and “King of the Skull Servants” cards in your GY changes, re-calculate the original ATK of “King of the Skull Servants”, then re-apply the effect of “Megamorph”. If you have “King of the Skull Servants” with an original ATK of 2000 (2 “Skull Servant” cards in your GY), and you equip it with “Megamorph”, its original ATK will be 4000 when your LP are lower, and 1000 when your LP are higher.\n● Since the ATK of this card is ?, it can't be Special Summoned by the effect of 'Mystic Tomato'.\n● Removing from play 1 “Skull Servant” or “King of the Skull Servants” to Special Summon a “King of the Skull Servants” is a cost.",
+    "Circle": "● If the number of “Skull Servant” and “King of the Skull Servants” cards in your GY changes, re-calculate the original ATK of “King of the Skull Servants”. If it is equipped with 'Megamorph' you would then re-apply the effect of 'Megamorph'.\n● If you have 2 'Skull Servant' cards in your GY (original ATK 2000), and you equip this card with 'Megamorph', its current ATK will become either 4000 or 1000, depending on your LP.\n● Since the ATK of this card is ?, it can't be Special Summoned by the effect of 'Mystic Tomato'.\n● Removing from play 1 “Skull Servant” or “King of the Skull Servants” to Special Summon a “King of the Skull Servants” is a cost.",
+    "Stein": "● The original ATK of “King of the Skull Servants” is determined by its effect. This is further doubled/halved by “Megamorph” and other effects that are based off of original ATK. If the number of “Skull Servant” and “King of the Skull Servants” cards in your GY changes, re-calculate the original ATK of “King of the Skull Servants”, then re-apply the effect of “Megamorph”. If you have “King of the Skull Servants” with an original ATK of 2000 (2 “Skull Servant” cards in your GY), and you equip it with “Megamorph”, its original ATK will be 4000 when your LP are lower, and 1000 when your LP are higher.\n● Since the ATK of this card is ?, it can't be Special Summoned by the effect of 'Mystic Tomato'.\n● Removing from play 1 “Skull Servant” or “King of the Skull Servants” to Special Summon a “King of the Skull Servants” is a cost.",
+    "Base": "1. If the number of \"Skull Servant\" and \"King of the Skull Servants\" cards in your GY changes, re-calculate the original ATK of \"King of the Skull Servants\". If it is equipped with \"Megamorph\" you would then re-apply the effect of \"Megamorph\".\\n2. If you have 2 \"Skull Servant\" cards in your GY (original ATK 2000), and you equip this card with \"Megamorph\", its current ATK will become either 4000 or 1000, depending on your Life Points.\\n3. Since the ATK of this card is ?, it cannot be Special Summoned by the effect of \"Mystic Tomato\".\\n4. Removing from play 1 \"Skull Servant\" or \"King of the Skull Servants\" to Special Summon a \"King of the Skull Servants\" is a cost."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

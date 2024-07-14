@@ -1,0 +1,44 @@
+{
+  "id": 23571046,
+  "name": "Quillbolt Hedgehog",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 800,
+    "level": 2,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Quillbolt Hedgehog's Special Summon effect is an Ignition Effect.\n●If an effect is chained that removes your only Tuner monster from your side of the field, Quillbolt Hedgehog is not Special Summoned.\n●If Quillbolt Hedgehog is flipped face-down after it is Special Summoned by its effect, it is not removed from play when it is removed from the field, even if it is flipped face-up.\n●If Quillbolt Hedgehog is Special Summoned by its effect and is later removed from the field while Skill Drain is active, Quillbolt Hedgehog is still removed from play.\n●If you Special Summon Quillbolt Hedgehog with its effect and afterwards remove it from play with Interdimensional Matter Transporter, Quillbolt Hedgehog is not returned to the field in the End Phase.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Quillbolt Hedgehog's' Special Summon effect is an Ignition Effect. \n● If an effect is chained that removes your only Tuner monster from your side of the field, 'Quillbolt Hedgehog' isn't Special Summoned.\n● If 'Quillbolt Hedgehog' is flipped face-down after it is Special Summoned by its effect, it isn't removed from play when it leaves the field, even if it is flipped face-up.\n● If 'Quillbolt Hedgehog' is Special Summoned by its effect and is later removed from the field while 'Skill Drain' is applying, 'Quillbolt Hedgehog' is still removed from play.\n● If you Special Summon 'Quillbolt Hedgehog' with its effect and afterwards remove it from play with 'Interdimensional Matter Transporter,' 'Quillbolt Hedgehog' isn't returned to the field in the End Phase.",
+    "TeleDAD": "● 'Quillbolt Hedgehog's' Special Summon effect is an Ignition Effect. \n● If an effect is chained that removes your only Tuner monster from your side of the field, 'Quillbolt Hedgehog' isn't Special Summoned.\n● If 'Quillbolt Hedgehog' is flipped face-down after it is Special Summoned by its effect, it isn't removed from play when it leaves the field, even if it is flipped face-up.\n● If 'Quillbolt Hedgehog' is Special Summoned by its effect and is later removed from the field while 'Skill Drain' is applying, 'Quillbolt Hedgehog' is still removed from play.\n● If you Special Summon 'Quillbolt Hedgehog' with its effect and afterwards remove it from play with 'Interdimensional Matter Transporter,' 'Quillbolt Hedgehog' isn't returned to the field in the End Phase.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The Special Summon effect of \"Quillbolt Hedgehog\" is an Ignition Effect.\\n2. If an effect is chained that removes your only Tuner monster from your side of the field, \"Quillbolt Hedgehog\" is not Special Summoned.\\n3. If \"Quillbolt Hedgehog\" is flipped face-down after it is Special Summoned by its effect, it is not banished when it leaves the field, even if it is flipped face-up.\\n4. If \"Quillbolt Hedgehog\" is Special Summoned by its effect and is later removed from the field while \"Skill Drain\" is active, \"Quillbolt Hedgehog\" is still banished.\\n5. If you Special Summon \"Quillbolt Hedgehog\" with its effect and afterwards banish it with \"Interdimensional Matter Transporter\", \"Quillbolt Hedgehog\" is not returned to the field in the End Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

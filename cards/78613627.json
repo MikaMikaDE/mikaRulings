@@ -1,0 +1,44 @@
+{
+  "id": 78613627,
+  "name": "Des Kangaroo",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 1700,
+    "level": 4,
+    "race": "Beast",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Hyper Hammerhead attacks Des Kangaroo in Defense Position, their effects form a chain; Hyper Hammerhead is Step 1 because it is the turn player's effect, and Des Kangaroo is Step 2. Des Kangaroo resolves first and destroys Hyper Hammerhead, then Hyper Hammerhead resolves and Des Kangaroo is returned to the owner's hand.",
+    "Goat": "●If Hyper Hammerhead attacks Des Kangaroo in Defense Position, their effects form a chain; Hyper Hammerhead is Step 1 because it is the turn player's effect, and Des Kangaroo is Step 2. Des Kangaroo resolves first and destroys Hyper Hammerhead, then Hyper Hammerhead resolves and Des Kangaroo is returned to the owner's hand.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Hyper Hammerhead' attacks 'Des Kangaroo' in Defense Position, their effects form a chain; 'Hyper Hammerhead' is Step 1 because it is the turn player's effect, and 'Des Kangaroo' is Step 2. 'Des Kangaroo' resolves first and destroys 'Hyper Hammerhead', then 'Hyper Hammerhead' resolves and 'Des Kangaroo' is returned to the owner's hand.",
+    "TeleDAD": "● If 'Hyper Hammerhead' attacks 'Des Kangaroo' in Defense Position, their effects form a chain; 'Hyper Hammerhead' is Step 1 because it is the turn player's effect, and 'Des Kangaroo' is Step 2. 'Des Kangaroo' resolves first and destroys 'Hyper Hammerhead', then 'Hyper Hammerhead' resolves and 'Des Kangaroo' is returned to the owner's hand.",
+    "Gladiator": "● If 'Hyper Hammerhead' attacks 'Des Kangaroo' in Defense Position, their effects form a chain; 'Hyper Hammerhead' is Step 1 because it is the turn player's effect, and 'Des Kangaroo' is Step 2. 'Des Kangaroo' resolves first and destroys 'Hyper Hammerhead', then 'Hyper Hammerhead' resolves and 'Des Kangaroo' is returned to the owner's hand.",
+    "ReturnDAD": "● If 'Hyper Hammerhead' attacks 'Des Kangaroo' in Defense Position, their effects form a chain; 'Hyper Hammerhead' is Step 1 because it is the turn player's effect, and 'Des Kangaroo' is Step 2. 'Des Kangaroo' resolves first and destroys 'Hyper Hammerhead', then 'Hyper Hammerhead' resolves and 'Des Kangaroo' is returned to the owner's hand.",
+    "Trooper": "● If 'Hyper Hammerhead' attacks 'Des Kangaroo' in Defense Position, their effects form a chain; 'Hyper Hammerhead' is Step 1 because it is the turn player's effect, and 'Des Kangaroo' is Step 2. 'Des Kangaroo' resolves first and destroys 'Hyper Hammerhead', then 'Hyper Hammerhead' resolves and 'Des Kangaroo' is returned to the owner's hand.",
+    "Circle": "● If 'Hyper Hammerhead' attacks 'Des Kangaroo' in Defense Position, their effects form a chain; 'Hyper Hammerhead' is Step 1 because it is the turn player's effect, and 'Des Kangaroo' is Step 2. 'Des Kangaroo' resolves first and destroys 'Hyper Hammerhead', then 'Hyper Hammerhead' resolves and 'Des Kangaroo' is returned to the owner's hand.",
+    "Stein": "● If 'Hyper Hammerhead' attacks 'Des Kangaroo' in Defense Position, their effects form a chain; 'Hyper Hammerhead' is Step 1 because it is the turn player's effect, and 'Des Kangaroo' is Step 2. 'Des Kangaroo' resolves first and destroys 'Hyper Hammerhead', then 'Hyper Hammerhead' resolves and 'Des Kangaroo' is returned to the owner's hand.",
+    "Base": "1. If \"Hyper Hammerhead\" attacks \"Des Kangaroo\" in Defense Position, their effects form a chain; \"Hyper Hammerhead\" is Step 1 because it is the turn player's effect, and \"Des Kangaroo\" is Step 2. \"Des Kangaroo\" resolves first and destroys \"Hyper Hammerhead\", then \"Hyper Hammerhead\" resolves and \"Des Kangaroo\" is returned to the owner's hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

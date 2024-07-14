@@ -1,0 +1,44 @@
+{
+  "id": 94215860,
+  "name": "Yaksha",
+  "Stats": {
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "atk": 1900,
+    "def": 1500,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● The ① effect is not \"once per turn\". \nIf its activation is negated (EG by \"Light and Darkness Dragon\"), it will activate again. \nIf its effect is negated (EG by \"Fiendish Chain\"), it will not activate again.",
+    "Vegas": "● The ① effect is not \"once per turn\". \nIf its activation is negated (EG by \"Light and Darkness Dragon\"), it will activate again. \nIf its effect is negated (EG by \"Fiendish Chain\"), it will not activate again.",
+    "Meadowlands": "● The ① effect is not \"once per turn\". \nIf its activation is negated (EG by \"Light and Darkness Dragon\"), it will activate again. \nIf its effect is negated (EG by \"Fiendish Chain\"), it will not activate again.",
+    "FireWater": "● The ① effect is not \"once per turn\". \nIf its activation is negated (EG by \"Light and Darkness Dragon\"), it will activate again. \nIf its effect is negated (EG by \"Fiendish Chain\"), it will not activate again.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"This card cannot be Special Summoned.\" is not an effect.\\n2. Returning this card to its owner's hand is not optional.\\n3. The effect to return a Spell/Trap Card targets. You can return face-up or Set cards.\\n4. Returning 1 Spell/Trap Card to the hand is optional, but if you activate the effect you must return a card."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "Ⓢ Cannot be Special Summoned. \n① During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand.\n② When Normal Summoned/flipped-face-up: You can target 1 Spell/Trap Card your opponent controls; return that target to the hand.",
+    "Meadowlands": "Ⓢ Cannot be Special Summoned. \n① During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand.\n② When Normal Summoned/flipped-face-up: You can target 1 Spell/Trap Card your opponent controls; return that target to the hand.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

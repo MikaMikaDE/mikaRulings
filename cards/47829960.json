@@ -1,0 +1,44 @@
+{
+  "id": 47829960,
+  "name": "Chaosrider Gustaph",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 1500,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can only activate Chaosrider Gustaph's effect during your Main Phase 1 or 2.\n●Chaosrider Gustaph's effect does not target.",
+    "Goat": "●You can only activate Chaosrider Gustaph's effect during your MP 1 or 2.\n●Chaosrider Gustaph's effect does not target.\n●The ATK increase by the effect of “Chaosrider Gustaph” only applies to Spell Cards specifically removed for that effect.\n●If the ATK of “Chaosrider Gustaph” is raised by its effect and the following turn, control of “Chaosrider Gustaph” changes to the opponent, the opponent may raise the ATK of “Chaosrider Gustaph” through its effect.\n●Q: “Chaosrider Gustaph” works like “Bazoo the Soul Eater,” right? If my opponent uses the effect, and I take control of him, I can use the effect to raise his attack by an additional 600, right?\nA: Correct.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can only activate 'Chaosrider Gustaph''s effect during your Main Phase 1 or 2.\n● 'Chaosrider Gustaph''s effect does not target.",
+    "TeleDAD": "● You can only activate 'Chaosrider Gustaph''s effect during your Main Phase 1 or 2.\n● 'Chaosrider Gustaph''s effect does not target.",
+    "Gladiator": "● You can only activate 'Chaosrider Gustaph''s effect during your Main Phase 1 or 2.\n● 'Chaosrider Gustaph''s effect does not target.",
+    "ReturnDAD": "● You can only activate 'Chaosrider Gustaph''s effect during your Main Phase 1 or 2.\n● 'Chaosrider Gustaph''s effect does not target.",
+    "Trooper": "● You can only activate 'Chaosrider Gustaph''s effect during your Main Phase 1 or 2.\n● 'Chaosrider Gustaph''s effect does not target.",
+    "Circle": "● You can only activate 'Chaosrider Gustaph''s effect during your Main Phase 1 or 2.\n● 'Chaosrider Gustaph''s effect does not target.",
+    "Stein": "● You can only activate 'Chaosrider Gustaph''s effect during your Main Phase 1 or 2.\n● 'Chaosrider Gustaph''s effect does not target.",
+    "Base": "1. You can only activate the effect of \"Chaosrider Gustaph\" during your Main Phase 1 or 2.\\n2. The effect of \"Chaosrider Gustaph\" does not target."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

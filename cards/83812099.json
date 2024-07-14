@@ -1,0 +1,44 @@
+{
+  "id": 83812099,
+  "name": "Flint Lock",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 800,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of Flint Lock that moves Flint from Flint Lock to another monster can be activated multiple times in the same turn.\n●You cannot target activate Flint from you hand targeting a Flint Lock that is already equipped with Flint.\n●This card's effect to equip Flint to itself targets the Flint card.\n●This card's effect to to equip Flint to another monster targets that monster and Flint.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of 'Flint Lock' that moves 'Flint' from 'Flint Lock' to another monster can be activated multiple times in the same turn.\n● You can't target activate 'Flint' from you hand targeting a 'Flint Lock' that is already equipped with 'Flint.'\n● This card's effect to equip 'Flint' to itself targets the 'Flint' card.\n● This card's effect to to equip 'Flint' to another monster targets that monster and 'Flint'.",
+    "TeleDAD": "● The effect of 'Flint Lock' that moves 'Flint' from 'Flint Lock' to another monster can be activated multiple times in the same turn.\n● You can't target activate 'Flint' from you hand targeting a 'Flint Lock' that is already equipped with 'Flint.'\n● This card's effect to equip 'Flint' to itself targets the 'Flint' card.\n● This card's effect to to equip 'Flint' to another monster targets that monster and 'Flint'.",
+    "Gladiator": "● The effect of 'Flint Lock' that moves 'Flint' from 'Flint Lock' to another monster can be activated multiple times in the same turn.\n● You can't target activate 'Flint' from you hand targeting a 'Flint Lock' that is already equipped with 'Flint.'\n● This card's effect to equip 'Flint' to itself targets the 'Flint' card.\n● This card's effect to to equip 'Flint' to another monster targets that monster and 'Flint'.",
+    "ReturnDAD": "● The effect of 'Flint Lock' that moves 'Flint' from 'Flint Lock' to another monster can be activated multiple times in the same turn.\n● You can't target activate 'Flint' from you hand targeting a 'Flint Lock' that is already equipped with 'Flint.'\n● This card's effect to equip 'Flint' to itself targets the 'Flint' card.\n● This card's effect to to equip 'Flint' to another monster targets that monster and 'Flint'.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● The effect of 'Flint Lock' that moves 'Flint' from 'Flint Lock' to another monster can be activated multiple times in the same turn.\n● You can't target activate 'Flint' from you hand targeting a 'Flint Lock' that is already equipped with 'Flint.'\n● This card's effect to equip 'Flint' to itself targets the 'Flint' card.\n● This card's effect to to equip 'Flint' to another monster targets that monster and 'Flint'.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Flint Lock\" that moves \"Flint\" from \"Flint Lock\" to another monster can be activated multiple times in the same turn.\\n2. You cannot target activate \"Flint\" from you hand targeting a \"Flint Lock\" that is already equipped with \"Flint.\"\\n3. This card's effect to equip \"Flint\" to itself targets the \"Flint\" card.\\n4. This card's effect to to equip \"Flint\" to another monster targets that monster and \"Flint\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

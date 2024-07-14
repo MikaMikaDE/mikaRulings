@@ -1,0 +1,44 @@
+{
+  "id": 14255590,
+  "name": "Malice Ascendant",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 700,
+    "def": 1000,
+    "level": 4,
+    "race": "Zombie",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●The number of “Malice Ascendants” in your GY is counted at the resolution of its effect. If your opponent chains “Disappear” to remove 1, then it is no longer counted for the effect of your “Malice Ascendant” on the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The number of “Malice Ascendants” in your GY is counted at the resolution of its effect. If your opponent chains “Disappear” to remove 1, then it is no longer counted for the effect of your “Malice Ascendant” on the field.",
+    "TeleDAD": "● The number of “Malice Ascendants” in your GY is counted at the resolution of its effect. If your opponent chains “Disappear” to remove 1, then it is no longer counted for the effect of your “Malice Ascendant” on the field.",
+    "Gladiator": "● The number of “Malice Ascendants” in your GY is counted at the resolution of its effect. If your opponent chains “Disappear” to remove 1, then it is no longer counted for the effect of your “Malice Ascendant” on the field.",
+    "ReturnDAD": "● The number of “Malice Ascendants” in your GY is counted at the resolution of its effect. If your opponent chains “Disappear” to remove 1, then it is no longer counted for the effect of your “Malice Ascendant” on the field.",
+    "Trooper": "● The number of “Malice Ascendants” in your GY is counted at the resolution of its effect. If your opponent chains “Disappear” to remove 1, then it is no longer counted for the effect of your “Malice Ascendant” on the field.",
+    "Circle": "● The number of “Malice Ascendants” in your GY is counted at the resolution of its effect. If your opponent chains “Disappear” to remove 1, then it is no longer counted for the effect of your “Malice Ascendant” on the field.",
+    "Stein": "● The number of “Malice Ascendants” in your GY is counted at the resolution of its effect. If your opponent chains “Disappear” to remove 1, then it is no longer counted for the effect of your “Malice Ascendant” on the field.",
+    "Base": "1. The number of copies of \"Malice Ascendant\" in your GY is counted at the resolution of its effect. If your opponent chains \"Disappear\" to remove 1, then it is no longer counted for the effect of your \"Malice Ascendant\" on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

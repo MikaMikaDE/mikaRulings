@@ -1,0 +1,44 @@
+{
+  "id": 79798060,
+  "name": "Earthbound Immortal Ccarayhua",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 1800,
+    "level": 10,
+    "race": "Reptile",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect to destroy all cards on the field will activate even during the Damage Step.\n●If this face-down card is attacked while another “Earthbound Immortal” is face-up on the field it will be destroyed, but since it was not destroyed by a card effect it will not destroy all cards on the field.\n●If “Earthbound Immortal Ccarayhua” is destroyed while in your hand or Deck, its effect will activate. ",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect to destroy all cards on the field will activate even during the Damage Step.\\n2. If this face-down card is attacked while another \"Earthbound Immortal\" is face-up on the field it will be destroyed, but since it was not destroyed by a card effect it will not destroy all cards on the field.\\n3. If \"Earthbound Immortal Ccarayhua\" is destroyed while in your hand or Deck, its effect will activate."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

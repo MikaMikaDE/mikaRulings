@@ -1,0 +1,44 @@
+{
+  "id": 40640057,
+  "name": "Kuriboh",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 200,
+    "level": 1,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Kuriboh does not target the attacking monster.\n●Kuriboh only prevents Battle Damage to your Life Points; it will not prevent your monsters from being destroyed.\n●Kuriboh can only be activated while in your hand, its effect cannot be used while Kuriboh is on the field.\n●Kuriboh's effect is a Quick Effect.\n●Kuriboh is activated during damage calculation. If your opponent attacks with Injection Fairy Lily and activates her effect, you can chain Kuriboh to reduce the damage to zero.",
+    "Goat": "●Kuriboh does not target the attacking monster.\n●Kuriboh only prevents Battle Damage to your LP; it will not prevent your monsters from being destroyed.\n●Kuriboh can only be activated while in your hand, its effect cannot be used while Kuriboh is on the field.\n●Using Kuriboh is a Multi-Trigger effect.\n●Kuriboh is activated during damage calculation. If your opponent attacks with Injection Fairy Lily and activates her effect, you can chain Kuriboh to reduce the damage to zero.Steve Okegawa, \n●Q: Why can “Kuriboh” be played in the Damage Step? \nA: “Kuriboh's” effect is used to reduce all damage from one attack to your LP to 0. You won't know how much damage you are going to take until you actually reach the Damage Step. This is why Kuriboh's effect is activated during the Damage Step. This does NOT contradict Kuriboh's text, which states that its effect can be used in the Battle Phase. Remember, the Damage Step IS part of the Battle Phase. \n●Steve Okegawa,  \n●Q: If Player A attacks Player B's LP directly with any monster, and Player B responds by flipping “Mirror Force” or “Negate Attack,” then Player A chains “Seven Tools of the Bandit” to negate Player B's trap. Could Player B THEN discard “Kuriboh” to take the damage down to 0? Or would he have missed his chance? \nA: Yes they could, but during the Damage Step. They would not discard “Kuriboh” in the Battle Step following the resolution of that chain. \n●  \n●Q: Can “Kuriboh” be used after “Injection Fairy Lily” uses its effect to boost the ATK? \nA: “Kuriboh” CAN be used to reduce the damage from “Injection Fairy Lily” to 0, even after “Injection Fairy Lily's” effect has been used in the Damage Step. \n●Steve Okegawa, \n●Q: Player A plays “Injection Fairy Lily” and declares the use of effect. Player B discards a “Kuriboh,” flips a “Waboku,” etc. Does Player A still take the 2000 points of damage for the use of effect? \nA: You can discard “Kuriboh” during the damage step after “Injection Fairy Lily's” effect has been activated. The player that activated “Injection Fairy Lily's” effect will still pay 2000 LP and increase her attack by 3000. You cannot activate “Waboku” during the Damage Step. The cost for “Injection Fairy Lily” is just that, a cost. It is not damage. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Kuriboh' does not target the attacking monster.\n● 'Kuriboh' only prevents Battle Damage to your LP; it will not prevent your monsters from being destroyed.\n● 'Kuriboh' can only be activated while in your hand, its effect can't be used while 'Kuriboh' is on the field.\n● 'Kuriboh's' effect is a Quick Effect.\n● 'Kuriboh' is activated during damage calculation. If your opponent attacks with 'Injection Fairy Lily' and activates her effect, you can chain 'Kuriboh' to reduce the damage to zero.",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "● 'Kuriboh' does not target the attacking monster.\n● 'Kuriboh' only prevents Battle Damage to your LP; it will not prevent your monsters from being destroyed.\n● 'Kuriboh' can only be activated while in your hand, its effect can't be used while 'Kuriboh' is on the field.\n● Using 'Kuriboh' is a Multi-Trigger effect.\n● 'Kuriboh' is activated during damage calculation. If your opponent attacks with 'Injection Fairy Lily' and activates her effect, you can chain 'Kuriboh' to reduce the damage to zero.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "● 'Kuriboh' does not target the attacking monster.\n● 'Kuriboh' only prevents Battle Damage to your LP; it will not prevent your monsters from being destroyed.\n● 'Kuriboh' can only be activated while in your hand, its effect can't be used while 'Kuriboh' is on the field.\n● Using 'Kuriboh' is a Multi-Trigger effect.\n● 'Kuriboh' is activated during damage calculation. If your opponent attacks with 'Injection Fairy Lily' and activates her effect, you can chain 'Kuriboh' to reduce the damage to zero.",
+    "Circle": "● 'Kuriboh' does not target the attacking monster.\n● 'Kuriboh' only prevents Battle Damage to your LP; it will not prevent your monsters from being destroyed.\n● 'Kuriboh' can only be activated while in your hand, its effect can't be used while 'Kuriboh' is on the field.\n● Using 'Kuriboh' is a Multi-Trigger effect.\n● 'Kuriboh' is activated during damage calculation. If your opponent attacks with 'Injection Fairy Lily' and activates her effect, you can chain 'Kuriboh' to reduce the damage to zero.",
+    "Stein": "● 'Kuriboh' does not target the attacking monster.\n● 'Kuriboh' only prevents Battle Damage to your LP; it will not prevent your monsters from being destroyed.\n● 'Kuriboh' can only be activated while in your hand, its effect can't be used while 'Kuriboh' is on the field.\n● Using 'Kuriboh' is a Multi-Trigger effect.\n● 'Kuriboh' is activated during damage calculation. If your opponent attacks with 'Injection Fairy Lily' and activates her effect, you can chain 'Kuriboh' to reduce the damage to zero.",
+    "Base": "1. \"Kuriboh\" does not target the attacking monster.\\n2. \"Kuriboh\" only prevents Battle Damage to your Life Points; it will not prevent your monsters from being destroyed.\\n3. \"Kuriboh\" can only be activated while in your hand, its effect cannot be used while \"Kuriboh\" is on the field.\\n4. The effect of \"Kuriboh\" is a Quick Effect.\\n5. \"Kuriboh\" is activated during damage calculation. If your opponent attacks with \"Injection Fairy Lily\" and activates her effect, you can chain \"Kuriboh\" to reduce the damage to zero."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

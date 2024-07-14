@@ -1,0 +1,40 @@
+{
+  "id": 33784505,
+  "name": "Jar Robber",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can chain Jar Robber to your own or your opponent's Pot of Greed.\n●The only way to activate Jar Robber is to chain it to the activation of Pot of Greed.\n●Jar Robber must be the very next step in the chain, so if you activate Pot of Greed and your opponent chains Imperial Order, you cannot activate Jar Robber.",
+    "Goat": "●You can chain Jar Robber to your own or your opponent's Pot of Greed.\n●The only way to activate Jar Robber is to chain it to the activation of Pot of Greed.\n●Jar Robber must be the very next step in the chain, so if you activate Pot of Greed and your opponent chains Imperial Order, you cannot activate Jar Robber.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can chain 'Jar Robber' to your own or your opponent's 'Pot of Greed'.\n● The only way to activate 'Jar Robber' is to chain it to the activation of 'Pot of Greed'.\n● 'Jar Robber' must be the very next step in the chain, so if you activate 'Pot of Greed' and your opponent chains 'Imperial Order', you can't activate 'Jar Robber'.",
+    "TeleDAD": "● You can chain 'Jar Robber' to your own or your opponent's 'Pot of Greed'.\n● The only way to activate 'Jar Robber' is to chain it to the activation of 'Pot of Greed'.\n● 'Jar Robber' must be the very next step in the chain, so if you activate 'Pot of Greed' and your opponent chains 'Imperial Order', you can't activate 'Jar Robber'.",
+    "Gladiator": "● You can chain 'Jar Robber' to your own or your opponent's 'Pot of Greed'.\n● The only way to activate 'Jar Robber' is to chain it to the activation of 'Pot of Greed'.\n● 'Jar Robber' must be the very next step in the chain, so if you activate 'Pot of Greed' and your opponent chains 'Imperial Order', you can't activate 'Jar Robber'.",
+    "ReturnDAD": "● You can chain 'Jar Robber' to your own or your opponent's 'Pot of Greed'.\n● The only way to activate 'Jar Robber' is to chain it to the activation of 'Pot of Greed'.\n● 'Jar Robber' must be the very next step in the chain, so if you activate 'Pot of Greed' and your opponent chains 'Imperial Order', you can't activate 'Jar Robber'.",
+    "Trooper": "● You can chain 'Jar Robber' to your own or your opponent's 'Pot of Greed'.\n● The only way to activate 'Jar Robber' is to chain it to the activation of 'Pot of Greed'.\n● 'Jar Robber' must be the very next step in the chain, so if you activate 'Pot of Greed' and your opponent chains 'Imperial Order', you can't activate 'Jar Robber'.",
+    "Circle": "● You can chain 'Jar Robber' to your own or your opponent's 'Pot of Greed'.\n● The only way to activate 'Jar Robber' is to chain it to the activation of 'Pot of Greed'.\n● 'Jar Robber' must be the very next step in the chain, so if you activate 'Pot of Greed' and your opponent chains 'Imperial Order', you can't activate 'Jar Robber'.",
+    "Stein": "● You can chain 'Jar Robber' to your own or your opponent's 'Pot of Greed'.\n● The only way to activate 'Jar Robber' is to chain it to the activation of 'Pot of Greed'.\n● 'Jar Robber' must be the very next step in the chain, so if you activate 'Pot of Greed' and your opponent chains 'Imperial Order', you can't activate 'Jar Robber'.",
+    "Base": "1. You can chain \"Jar Robber\" to your own or your opponent's \"Pot of Greed\".\\n2. The only way to activate \"Jar Robber\" is to chain it to the activation of \"Pot of Greed\".\\n3. \"Jar Robber\" must be the very next step in the chain, so if you activate \"Pot of Greed\" and your opponent chains \"Imperial Order\", you cannot activate \"Jar Robber\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

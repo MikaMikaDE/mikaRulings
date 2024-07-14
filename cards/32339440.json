@@ -1,0 +1,44 @@
+{
+  "id": 32339440,
+  "name": "Bujin Yamato",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 200,
+    "level": 4,
+    "race": "Beast-Warrior",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If this card is negated by \"Effect Veiler\", Yamato's controller can choose to have its effect be negated or not in the End Phase.",
+    "Vegas": "● If this card is negated by \"Effect Veiler\", Yamato's controller can choose to have its effect be negated or not in the End Phase.",
+    "Meadowlands": "● If this card is negated by \"Effect Veiler\", Yamato's controller can choose to have its effect be negated or not in the End Phase.",
+    "FireWater": "● If this card is negated by \"Effect Veiler\", Yamato's controller can choose to have its effect be negated or not in the End Phase.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Once per turn, during your End Phase: \nYou can add 1 \"Bujin\" monster from your Deck to your hand, then send 1 card from your hand to the GY. \n② You can only control 1 \"Bujin Yamato\".",
+    "Meadowlands": "① Once per turn, during your End Phase: \nYou can add 1 \"Bujin\" monster from your Deck to your hand, then send 1 card from your hand to the GY. \n② You can only control 1 \"Bujin Yamato\".",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

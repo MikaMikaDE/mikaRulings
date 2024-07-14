@@ -1,0 +1,40 @@
+{
+  "id": 70231910,
+  "name": "Dark Core",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "●Discarding 1 card from your hand is a cost.\n●This card targets. The target of Dark Core is selected at activation of Dark Core.\n●If Ring of Destruction is chained to Dark Core, and destroys the monster targeted by Dark Core, then the effect of Dark Core disappears.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Discarding 1 card from your hand is a cost.\n● This card targets.The target of 'Dark Core' is selected at activation of 'Dark Core'.\n● If 'Ring of Destruction' is chained to 'Dark Core', and destroys the monster targeted by 'Dark Core', then the effect of 'Dark Core' disappears.",
+    "TeleDAD": "● Discarding 1 card from your hand is a cost.\n● This card targets.The target of 'Dark Core' is selected at activation of 'Dark Core'.\n● If 'Ring of Destruction' is chained to 'Dark Core', and destroys the monster targeted by 'Dark Core', then the effect of 'Dark Core' disappears.",
+    "Gladiator": "● Discarding 1 card from your hand is a cost.\n● This card targets.The target of 'Dark Core' is selected at activation of 'Dark Core'.\n● If 'Ring of Destruction' is chained to 'Dark Core', and destroys the monster targeted by 'Dark Core', then the effect of 'Dark Core' disappears.",
+    "ReturnDAD": "● Discarding 1 card from your hand is a cost.\n● This card targets.The target of 'Dark Core' is selected at activation of 'Dark Core'.\n● If 'Ring of Destruction' is chained to 'Dark Core', and destroys the monster targeted by 'Dark Core', then the effect of 'Dark Core' disappears.",
+    "Trooper": "● Discarding 1 card from your hand is a cost.\n● This card targets.The target of 'Dark Core' is selected at activation of 'Dark Core'.\n● If 'Ring of Destruction' is chained to 'Dark Core', and destroys the monster targeted by 'Dark Core', then the effect of 'Dark Core' disappears.",
+    "Circle": "● Discarding 1 card from your hand is a cost.\n● This card targets.The target of 'Dark Core' is selected at activation of 'Dark Core'.\n● If 'Ring of Destruction' is chained to 'Dark Core', and destroys the monster targeted by 'Dark Core', then the effect of 'Dark Core' disappears.",
+    "Stein": "● Discarding 1 card from your hand is a cost.\n● This card targets.The target of 'Dark Core' is selected at activation of 'Dark Core'.\n● If 'Ring of Destruction' is chained to 'Dark Core', and destroys the monster targeted by 'Dark Core', then the effect of 'Dark Core' disappears.",
+    "Base": "1. Discarding 1 card from your hand is a cost.\\n2. This card targets. The target of \"Dark Core\" is selected at activation of \"Dark Core\".\\n3. If \"Ring of Destruction\" is chained to \"Dark Core\", and destroys the monster targeted by \"Dark Core\", then the effect of \"Dark Core\" disappears."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

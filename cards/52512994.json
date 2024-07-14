@@ -1,0 +1,44 @@
+{
+  "id": 52512994,
+  "name": "Kasha",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 1000,
+    "level": 8,
+    "race": "Zombie",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card’s effect is a Trigger Effect. Setting the ATK equal to the number of Zombie-Type monsters x1000 is part of the resolution of the Trigger effect.\n●If you return face-down Zombie-Type monsters to the Deck they are not counted towards the ATK of “Kasha.” If you return Zombie-Type Fusion Monsters or Synchro Monsters to the Extra Deck, they count towards the ATK of “Kasha.”\n●If non-Zombie-Type monsters that are treated as Zombies by “Zombie World” are returned to the Deck by “Kasha” they do not count towards its ATK.\n●If “Skill Drain” is activated, the ATK of “Kasha” becomes 0 and stays at 0 even if “Skill Drain” is later removed from the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card's effect is a Trigger Effect. Setting the ATK equal to the number of Zombie-Type monsters x 1000 is part of the resolution of the Trigger effect.\\n2. If you return face-down Zombie-Type monsters to the Deck they are not counted towards the ATK of \"Kasha\".\\n3. If you return Zombie-Type Fusion Monsters or Synchro Monsters to the Extra Deck, they count towards the ATK of \"Kasha\".\\n4. If non-Zombie-Type monsters that are treated as Zombies by \"Zombie World\" are returned to the Deck by \"Kasha\" they do not count towards its ATK.\\n5. If \"Skill Drain\" is activated, the ATK of \"Kasha\" becomes 0 and stays at 0 even if \"Skill Drain\" is later removed from the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

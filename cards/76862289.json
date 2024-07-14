@@ -1,0 +1,44 @@
+{
+  "id": 76862289,
+  "name": "Yamata Dragon",
+  "Stats": {
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "atk": 2600,
+    "def": 3100,
+    "level": 7,
+    "race": "Dragon",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The following rules apply to all Spirit Monsters:\\n2. Spirit is not a monster Type; you cannot declare \"Spirit\" for the effect of \"DNA Surgery\".\\n3. Spirit Monsters are still Effect Monsters.\\n4. A Spirit Monster must be face-up on the field during the End Phase for it to return to the owner's hand. If it was destroyed or removed from play, it will not return to the owner's hand.\\n5. A Spirit Monster will return to the owner's hand during the End Phase, even if the opponent played it from their hand (through the effect of \"Exchange\".)"
+  },
+  "PSCT": {
+    "Tengu": "Ⓢ Can't be Special Summoned. \n① During the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.\n② If this card inflicts Battle Damage to your opponent: Draw cards until you have 5 cards in hand.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

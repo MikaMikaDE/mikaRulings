@@ -1,0 +1,40 @@
+{
+  "id": 58775978,
+  "name": "Nightmare's Steelcage",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Nightmare’s Steelcage” can be negated by “Dark Balter the Terrible”. It will remain on the field without effect until the opponent’s 2nd End Phase after it was activated.\n●If you use “Magic Reflector” to put a counter on “Nightmare’s Steelcage”, it is still destroyed during the opponent’s 2nd End Phase after it was activated. You cannot remove the counter instead.\n●“Nightmare’s Steelcage” prevents both players from attacking.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Nightmare’s Steelcage” can be negated by “Dark Balter the Terrible”. It will remain on the field without effect until the opponent’s 2nd End Phase after it was activated.\n● If you use “Magic Reflector” to put a counter on “Nightmare’s Steelcage”, it is still destroyed during the opponent’s 2nd End Phase after it was activated. You can't remove the counter instead.\n● “Nightmare’s Steelcage” prevents both players from attacking.",
+    "TeleDAD": "● The effect of “Nightmare’s Steelcage” can be negated by “Dark Balter the Terrible”. It will remain on the field without effect until the opponent’s 2nd End Phase after it was activated.\n● If you use “Magic Reflector” to put a counter on “Nightmare’s Steelcage”, it is still destroyed during the opponent’s 2nd End Phase after it was activated. You can't remove the counter instead.\n● “Nightmare’s Steelcage” prevents both players from attacking.",
+    "Gladiator": "● The effect of “Nightmare’s Steelcage” can be negated by “Dark Balter the Terrible”. It will remain on the field without effect until the opponent’s 2nd End Phase after it was activated.\n● If you use “Magic Reflector” to put a counter on “Nightmare’s Steelcage”, it is still destroyed during the opponent’s 2nd End Phase after it was activated. You can't remove the counter instead.\n● “Nightmare’s Steelcage” prevents both players from attacking.",
+    "ReturnDAD": "● The effect of “Nightmare’s Steelcage” can be negated by “Dark Balter the Terrible”. It will remain on the field without effect until the opponent’s 2nd End Phase after it was activated.\n● If you use “Magic Reflector” to put a counter on “Nightmare’s Steelcage”, it is still destroyed during the opponent’s 2nd End Phase after it was activated. You can't remove the counter instead.\n● “Nightmare’s Steelcage” prevents both players from attacking.",
+    "Trooper": "● The effect of “Nightmare’s Steelcage” can be negated by “Dark Balter the Terrible”. It will remain on the field without effect until the opponent’s 2nd End Phase after it was activated.\n● If you use “Magic Reflector” to put a counter on “Nightmare’s Steelcage”, it is still destroyed during the opponent’s 2nd End Phase after it was activated. You can't remove the counter instead.\n● “Nightmare’s Steelcage” prevents both players from attacking.",
+    "Circle": "● The effect of “Nightmare’s Steelcage” can be negated by “Dark Balter the Terrible”. It will remain on the field without effect until the opponent’s 2nd End Phase after it was activated.\n● If you use “Magic Reflector” to put a counter on “Nightmare’s Steelcage”, it is still destroyed during the opponent’s 2nd End Phase after it was activated. You can't remove the counter instead.\n● “Nightmare’s Steelcage” prevents both players from attacking.",
+    "Stein": "● The effect of “Nightmare’s Steelcage” can be negated by “Dark Balter the Terrible”. It will remain on the field without effect until the opponent’s 2nd End Phase after it was activated.\n● If you use “Magic Reflector” to put a counter on “Nightmare’s Steelcage”, it is still destroyed during the opponent’s 2nd End Phase after it was activated. You can't remove the counter instead.\n● “Nightmare’s Steelcage” prevents both players from attacking.",
+    "Base": "1. The effect of \"Nightmare's Steelcage\" can be negated by \"Dark Balter the Terrible\". It will remain on the field without effect until the opponent's 2nd End Phase after it was activated.\\n2. If you use \"Magic Reflector\" to put a counter on \"Nightmare's Steelcage\", it is still destroyed during the opponent's 2nd End Phase after it was activated. You cannot remove the counter instead.\\n3. \"Nightmare's Steelcage\" prevents both players from attacking."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

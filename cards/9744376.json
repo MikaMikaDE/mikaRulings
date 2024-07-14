@@ -1,0 +1,40 @@
+{
+  "id": 9744376,
+  "name": "Good Goblin Housekeeping",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●The number of “Good Goblin Housekeeping” cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of “Good Goblin Housekeeping” in your GY, and you activate “Good Goblin Housekeeping” and chain “Emergency Provisions” to send it to the GY, you would draw 2 cards.\n●You can activate this card when you have no copies of “Good Goblin Housekeeping” in your GY. You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck.",
+    "Goat": "●The number of “Good Goblin Housekeeping” cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of “Good Goblin Housekeeping” in your GY, and you activate “Good Goblin Housekeeping” and chain “Emergency Provisions” to send it to the GY, you would draw 2 cards.\n●You can activate this card when you have no copies of “Good Goblin Housekeeping” in your GY. You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The number of “Good Goblin Housekeeping” cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of “Good Goblin Housekeeping” in your GY, and you activate “Good Goblin Housekeeping” and chain “Emergency Provisions” to send it to the GY, you would draw 2 cards.\n● You can activate this card when you have no copies of “Good Goblin Housekeeping” in your GY.You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck.",
+    "TeleDAD": "● The number of “Good Goblin Housekeeping” cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of “Good Goblin Housekeeping” in your GY, and you activate “Good Goblin Housekeeping” and chain “Emergency Provisions” to send it to the GY, you would draw 2 cards.\n● You can activate this card when you have no copies of “Good Goblin Housekeeping” in your GY.You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck.",
+    "Gladiator": "● The number of “Good Goblin Housekeeping” cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of “Good Goblin Housekeeping” in your GY, and you activate “Good Goblin Housekeeping” and chain “Emergency Provisions” to send it to the GY, you would draw 2 cards.\n● You can activate this card when you have no copies of “Good Goblin Housekeeping” in your GY.You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck.",
+    "ReturnDAD": "● The number of “Good Goblin Housekeeping” cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of “Good Goblin Housekeeping” in your GY, and you activate “Good Goblin Housekeeping” and chain “Emergency Provisions” to send it to the GY, you would draw 2 cards.\n● You can activate this card when you have no copies of “Good Goblin Housekeeping” in your GY.You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck.",
+    "Trooper": "● The number of “Good Goblin Housekeeping” cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of “Good Goblin Housekeeping” in your GY, and you activate “Good Goblin Housekeeping” and chain “Emergency Provisions” to send it to the GY, you would draw 2 cards.\n● You can activate this card when you have no copies of “Good Goblin Housekeeping” in your GY.You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck.",
+    "Circle": "● The number of “Good Goblin Housekeeping” cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of “Good Goblin Housekeeping” in your GY, and you activate “Good Goblin Housekeeping” and chain “Emergency Provisions” to send it to the GY, you would draw 2 cards.\n● You can activate this card when you have no copies of “Good Goblin Housekeeping” in your GY.You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck.",
+    "Stein": "● The number of “Good Goblin Housekeeping” cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of “Good Goblin Housekeeping” in your GY, and you activate “Good Goblin Housekeeping” and chain “Emergency Provisions” to send it to the GY, you would draw 2 cards.\n● You can activate this card when you have no copies of “Good Goblin Housekeeping” in your GY.You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck.",
+    "Base": "1. The number of \"Good Goblin Housekeeping\" cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of \"Good Goblin Housekeeping\" in your GY, and you activate \"Good Goblin Housekeeping\" and chain \"Emergency Provisions\" to send it to the GY, you would draw 2 cards.\\n2. You can activate this card when you have no copies of \"Good Goblin Housekeeping\" in your GY. You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

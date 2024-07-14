@@ -1,0 +1,44 @@
+{
+  "id": 70095154,
+  "name": "Cyber Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2100,
+    "def": 1600,
+    "level": 5,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● This card's Summon does not start a chain, so \"Thunder King Rai-Oh\" can negate it.",
+    "Goat": "●You can only use the effect of “Cyber Dragon” to Special Summon itself during your MP.\n●The effect of “Cyber Dragon” does not start a chain.\n●You can negate the Special Summon of “Cyber Dragon” with “Royal Oppression”, “Solemn Judgment”, or “Horn of Heaven”.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can only use the effect of “Cyber Dragon” to Special Summon itself during your Main Phase.\n● The effect of “Cyber Dragon” does not start a chain.\n● You can negate the Special Summon of “Cyber Dragon” with “Royal Oppression”, “Solemn Judgment”, or “Horn of Heaven”.",
+    "TeleDAD": "● You can only use the effect of “Cyber Dragon” to Special Summon itself during your Main Phase.\n● The effect of “Cyber Dragon” does not start a chain.\n● You can negate the Special Summon of “Cyber Dragon” with “Royal Oppression”, “Solemn Judgment”, or “Horn of Heaven”.",
+    "Gladiator": "● You can only use the effect of “Cyber Dragon” to Special Summon itself during your Main Phase.\n● The effect of “Cyber Dragon” does not start a chain.\n● You can negate the Special Summon of “Cyber Dragon” with “Royal Oppression”, “Solemn Judgment”, or “Horn of Heaven”.",
+    "ReturnDAD": "● You can only use the effect of “Cyber Dragon” to Special Summon itself during your Main Phase.\n● The effect of “Cyber Dragon” does not start a chain.\n● You can negate the Special Summon of “Cyber Dragon” with “Royal Oppression”, “Solemn Judgment”, or “Horn of Heaven”.",
+    "Trooper": "● You can only use the effect of “Cyber Dragon” to Special Summon itself during your Main Phase.\n● The effect of “Cyber Dragon” does not start a chain.\n● You can negate the Special Summon of “Cyber Dragon” with “Royal Oppression”, “Solemn Judgment”, or “Horn of Heaven”.",
+    "Circle": "● You can only use the effect of “Cyber Dragon” to Special Summon itself during your Main Phase.\n● The effect of “Cyber Dragon” does not start a chain.\n● You can negate the Special Summon of “Cyber Dragon” with “Royal Oppression”, “Solemn Judgment”, or “Horn of Heaven”.",
+    "Stein": "● You can only use the effect of “Cyber Dragon” to Special Summon itself during your Main Phase.\n● The effect of “Cyber Dragon” does not start a chain.\n● You can negate the Special Summon of “Cyber Dragon” with “Royal Oppression”, “Solemn Judgment”, or “Horn of Heaven”.",
+    "Base": "1. You can only use the effect of \"Cyber Dragon\" to Special Summon itself during your Main Phase.\\n2. The effect of \"Cyber Dragon\" does not start a chain.\\n3. You can negate the Special Summon of \"Cyber Dragon\" with \"Royal Oppression\", \"Solemn Judgment\", or \"Horn of Heaven\"."
+  },
+  "PSCT": {
+    "Tengu": "① If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

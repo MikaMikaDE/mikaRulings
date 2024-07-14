@@ -1,0 +1,44 @@
+{
+  "id": 38981606,
+  "name": "Desert Protector",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 1000,
+    "level": 4,
+    "race": "Insect",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can destroy 1 “Desert Protector” to save multiple Insects that would be destroyed at the same time, such as with “Nobleman-Eater Bug”.\n●You can only use 1 “Desert Protector” at a time; if 1 or more Insects are about to be destroyed, you can only destroy 1 “Desert Protector”.\n●If “Desert Protector” and your Insect(s) would be destroyed at the same time, you cannot use “Desert Protector” to save the Insect(s). ",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can destroy 1 \"Desert Protector\" to save multiple Insects that would be destroyed at the same time, such as with \"Nobleman-Eater Bug\".\\n2. You can only use 1 \"Desert Protector\" at a time; if 1 or more Insects are about to be destroyed, you can only destroy 1 \"Desert Protector\".\\n3. If \"Desert Protector\" and your Insect(s) would be destroyed at the same time, you cannot use \"Desert Protector\" to save the Insect(s)."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

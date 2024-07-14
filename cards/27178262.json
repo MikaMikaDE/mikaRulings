@@ -1,0 +1,40 @@
+{
+  "id": 27178262,
+  "name": "Cunning of the Six Samurai",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "\n●The face-up “Six Samurai” monster sent from the field to the GY is a cost to activate “Cunning of the Six Samurai”.\n●You can Special Summon the same “Six Samurai” monster that was sent to the GY to pay the activation cost of “Cunning of the Six Samurai”.\n●You cannot activate Cunning of the Six Samurai if there are no Six Samurai monsters in the GY.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The face-up “Six Samurai” monster sent from the field to the GY is a cost to activate “Cunning of the Six Samurai”.\n● You can Special Summon the same “Six Samurai” monster that was sent to the GY to pay the activation cost of “Cunning of the Six Samurai”.\n● You can't activate 'Cunning of the Six Samurai' if there are no 'Six Samurai' monsters in the GY.",
+    "TeleDAD": "● The face-up “Six Samurai” monster sent from the field to the GY is a cost to activate “Cunning of the Six Samurai”.\n● You can Special Summon the same “Six Samurai” monster that was sent to the GY to pay the activation cost of “Cunning of the Six Samurai”.\n● You can't activate 'Cunning of the Six Samurai' if there are no 'Six Samurai' monsters in the GY.",
+    "Gladiator": "● The face-up “Six Samurai” monster sent from the field to the GY is a cost to activate “Cunning of the Six Samurai”.\n● You can Special Summon the same “Six Samurai” monster that was sent to the GY to pay the activation cost of “Cunning of the Six Samurai”.\n● You can't activate 'Cunning of the Six Samurai' if there are no 'Six Samurai' monsters in the GY.",
+    "ReturnDAD": "● The face-up “Six Samurai” monster sent from the field to the GY is a cost to activate “Cunning of the Six Samurai”.\n● You can Special Summon the same “Six Samurai” monster that was sent to the GY to pay the activation cost of “Cunning of the Six Samurai”.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● The face-up “Six Samurai” monster sent from the field to the GY is a cost to activate “Cunning of the Six Samurai”.\n● You can Special Summon the same “Six Samurai” monster that was sent to the GY to pay the activation cost of “Cunning of the Six Samurai”.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The face-up 'Six Samurai' monster sent from the field to the GY is a cost to activate \"Cunning of the Six Samurai\".\\n2. You can Special Summon the same 'Six Samurai' monster that was sent to the GY to pay the activation cost of \"Cunning of the Six Samurai\".\\n3. You cannot activate \"Cunning of the Six Samurai\" if there are no 'Six Samurai' monsters in the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

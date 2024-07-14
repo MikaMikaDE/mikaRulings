@@ -1,0 +1,44 @@
+{
+  "id": 36378213,
+  "name": "Ambulanceroid",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 1200,
+    "level": 3,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(1) When a roid monster is added from your GY to your hand, you can Special Summon that monster.\n●The (1) optional Trigger Effect activates & resolves on the field.\n●You can Special Summon “Dark Jeroid” with “Ambulanceroid’s” effect because it has “roid” in its card name.\n●If you add 2 roid monsters to your hand with Expressroid's effect while you control this card, you can activate its effect to Special Summon both roid monsters.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can Special Summon “Dark Jeroid” with “Ambulanceroid’s” effect because it has “roid” in its card name.\n● If you add 2 'roid' monsters to your hand with 'Expressroid's' effect while you control 'Ambulanceroid', you can activate its effect to Special Summon both 'roid' monsters.",
+    "TeleDAD": "● You can Special Summon “Dark Jeroid” with “Ambulanceroid’s” effect because it has “roid” in its card name.\n● If you add 2 'roid' monsters to your hand with 'Expressroid's' effect while you control 'Ambulanceroid', you can activate its effect to Special Summon both 'roid' monsters.",
+    "Gladiator": "● You can Special Summon “Dark Jeroid” with “Ambulanceroid’s” effect because it has “roid” in its card name.",
+    "ReturnDAD": "● You can Special Summon “Dark Jeroid” with “Ambulanceroid’s” effect because it has “roid” in its card name.",
+    "Trooper": "● You can Special Summon “Dark Jeroid” with “Ambulanceroid’s” effect because it has “roid” in its card name.",
+    "Circle": "● You can Special Summon “Dark Jeroid” with “Ambulanceroid’s” effect because it has “roid” in its card name.",
+    "Stein": "● You can Special Summon “Dark Jeroid” with “Ambulanceroid’s” effect because it has “roid” in its card name.",
+    "Base": "1. You can Special Summon \"Dark Jeroid\" with the effect of \"Ambulanceroid\" because it has 'roid' in its card name.\\n2. If you add 2 'roid' monsters to your hand with the effect of \"Expressroid\" while you control \"Ambulanceroid\", you can activate its effect to Special Summon both 'roid' monsters."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

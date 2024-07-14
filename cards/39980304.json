@@ -1,0 +1,40 @@
+{
+  "id": 39980304,
+  "name": "Chain Material",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "[EFFECT] Any time you Fusion Summon a monster this turn, you can remove from play, from your side of the field, Deck, hand or GY, Fusion Material Monsters that are listed on the Fusion Monster Card, and use them as Fusion Material Monsters. [CONDITION] You cannot attack during the turn this card is activated. [CONDITION] If you used this effect for a Fusion Summon, the Summoned Fusion Monster(s) is destroyed during the End Phase.\n●When you Fusion Summon after activating Chain Material, you do not have to use its effect.\n●You cannot use Chain Material's effect when resolving Instant Fusion or Future Fusion.\n●You can use Chain Material's effect when resolving Super Polymerization, but you can only remove from play cards that you control.\n●The effect of Chain Material can be used for every Fusion Summon performed during the turn it is activated.\n●You cannot choose to remove 1 Fusion Material Monster from play while sending the other Fusion Material Monsters to the GY.\n●Both [CONDITION] apply if this card's effect is negated (by Trap Stun), but not if this card's activation is negated (by Dark Bribe).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When you Fusion Summon after activating 'Chain Material', you do not have to use its effect.\n● You can't use 'Chain Material's' effect when resolving 'Instant Fusion' or 'Future Fusion'.\n● You can use 'Chain Material's' effect when resolving 'Super Polymerization', but you can only remove from play cards that you control.\n● The effect of 'Chain Material' can be used for every Fusion Summon performed during the turn it is activated.\n● You can't choose to remove 1 Fusion Material Monster from play while sending the other Fusion Material Monsters to the GY.",
+    "TeleDAD": "● When you Fusion Summon after activating 'Chain Material', you do not have to use its effect.\n● You can't use 'Chain Material's' effect when resolving 'Instant Fusion' or 'Future Fusion'.\n● You can use 'Chain Material's' effect when resolving 'Super Polymerization', but you can only remove from play cards that you control.\n● The effect of 'Chain Material' can be used for every Fusion Summon performed during the turn it is activated.\n● You can't choose to remove 1 Fusion Material Monster from play while sending the other Fusion Material Monsters to the GY.",
+    "Gladiator": "● When you Fusion Summon after activating 'Chain Material', you do not have to use its effect.\n● You can't use 'Chain Material's' effect when resolving 'Instant Fusion' or 'Future Fusion'.\n● You can use 'Chain Material's' effect when resolving 'Super Polymerization', but you can only remove from play cards that you control.\n● The effect of 'Chain Material' can be used for every Fusion Summon performed during the turn it is activated.\n● You can't choose to remove 1 Fusion Material Monster from play while sending the other Fusion Material Monsters to the GY.",
+    "ReturnDAD": "● When you Fusion Summon after activating 'Chain Material', you do not have to use its effect.\n● You can't use 'Chain Material's' effect when resolving 'Instant Fusion' or 'Future Fusion'.\n● You can use 'Chain Material's' effect when resolving 'Super Polymerization', but you can only remove from play cards that you control.\n● The effect of 'Chain Material' can be used for every Fusion Summon performed during the turn it is activated.\n● You can't choose to remove 1 Fusion Material Monster from play while sending the other Fusion Material Monsters to the GY.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. When you Fusion Summon after activating \"Chain Material\", you do not have to use its effect.\\n2. You cannot use the effect of \"Chain Material\" when resolving \"Instant Fusion\" or \"Future Fusion\".\\n3. You can use the effect of \"Chain Material\" when resolving \"Super Polymerization\", but you can only remove from play cards that you control.\\n4. The effect of \"Chain Material\" can be used for every Fusion Summon performed during the turn it is activated.\\n5. You cannot choose to remove 1 Fusion Material Monster from play while sending the other Fusion Material Monsters to the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

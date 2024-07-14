@@ -1,0 +1,44 @@
+{
+  "id": 75367227,
+  "name": "Ghostrick Alucard",
+  "Stats": {
+    "type": "XYZ Monster",
+    "frameType": "xyz",
+    "atk": 1800,
+    "def": 1600,
+    "level": 3,
+    "race": "Zombie",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If that target is chained, it is not destroyed.",
+    "Vegas": "● If that target is chained, it is not destroyed.",
+    "Meadowlands": "● If that target is chained, it is not destroyed.",
+    "FireWater": "● If that target is chained, it is not destroyed.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "2 Level 3 monsters\n① Monsters your opponent controls can't target other \"Ghostrick\" monsters, or Set Monsters, for attacks.\n② You can detach 1 Material from this card, then target 1 Set card your opponent controls; destroy that target. (You can only use this effect of \"Ghostrick Alucard\" once per turn). \n③ If this card is sent to the GY: You can target 1 other \"Ghostrick\" card in your GY; add it to your hand.",
+    "Meadowlands": "2 Level 3 monsters\n① Monsters your opponent controls can't target other \"Ghostrick\" monsters, or Set Monsters, for attacks.\n② You can detach 1 Material from this card, then target 1 Set card your opponent controls; destroy that target. (You can only use this effect of \"Ghostrick Alucard\" once per turn). \n③ If this card is sent to the GY: You can target 1 other \"Ghostrick\" card in your GY; add it to your hand.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

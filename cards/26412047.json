@@ -1,0 +1,40 @@
+{
+  "id": 26412047,
+  "name": "Hammer Shot",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "● The monster is chosen as this card resolves.",
+    "Goat": "●Hammer Shot determines which monster to destroy using current ATK, not original ATK.\n●Hammer Shot does not target. You determine which monster is destroyed when Hammer Shot resolves.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Hammer Shot' determines which monster to destroy using current ATK, not original ATK.\n● 'Hammer Shot' does not target. You determine which monster is destroyed when 'Hammer Shot' resolves.",
+    "TeleDAD": "● 'Hammer Shot' determines which monster to destroy using current ATK, not original ATK.\n● 'Hammer Shot' does not target. You determine which monster is destroyed when 'Hammer Shot' resolves.",
+    "Gladiator": "● 'Hammer Shot' determines which monster to destroy using current ATK, not original ATK.\n● 'Hammer Shot' does not target. You determine which monster is destroyed when 'Hammer Shot' resolves.",
+    "ReturnDAD": "● 'Hammer Shot' determines which monster to destroy using current ATK, not original ATK.\n● 'Hammer Shot' does not target. You determine which monster is destroyed when 'Hammer Shot' resolves.",
+    "Trooper": "● 'Hammer Shot' determines which monster to destroy using current ATK, not original ATK.\n● 'Hammer Shot' does not target. You determine which monster is destroyed when 'Hammer Shot' resolves.",
+    "Circle": "● 'Hammer Shot' determines which monster to destroy using current ATK, not original ATK.\n● 'Hammer Shot' does not target. You determine which monster is destroyed when 'Hammer Shot' resolves.",
+    "Stein": "● 'Hammer Shot' determines which monster to destroy using current ATK, not original ATK.\n● 'Hammer Shot' does not target. You determine which monster is destroyed when 'Hammer Shot' resolves.",
+    "Base": "1. \"Hammer Shot\" determines which monster to destroy using current ATK, not original ATK.\\n2. \"Hammer Shot\" does not target. You determine which monster is destroyed when \"Hammer Shot\" resolves."
+  },
+  "PSCT": {
+    "Tengu": "① Destroy the 1 Attack Position monster on the field with the highest ATK (your choice, if tied).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

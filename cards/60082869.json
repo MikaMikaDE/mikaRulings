@@ -1,0 +1,40 @@
+{
+  "id": 60082869,
+  "name": "Dust Tornado",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "●You must destroy 1 Spell/Trap Card on your opponent’s side of the field to be able to Set 1 Spell/Trap Card. If your opponent chains a card to destroy the target of Dust Tornado, you cannot then Set a Spell/Trap Card because Dust Tornado did not destroy a Spell/Trap Card. If your opponent activates the card targeted by Dust Tornado it is not negated, but is still destroyed by Dust Tornado so you may Set 1 Spell/Trap Card.\n●Q: If I chain “Dust Tornado” to the activation of “Harpie’s Feather Duster” or “Heavy Storm,” will the card being Set by the effect of “Dust Tornado” be destroyed by “Harpie’s Feather Duster” or “Heavy Storm?” \nA: Yes it would because the setting of that card occurs during the resolution of “Dust Tornado's” effect. The new card would have the misfortune of being present when the “Heavy Storm” or “Harpie's Feather Duster” resolved.  ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You must destroy 1 Spell/Trap Card on your opponent’s side of the field to be able to Set 1 Spell/Trap Card. If your opponent chains a card to destroy the target of 'Dust Tornado', you can't then Set a Spell/Trap Card because 'Dust Tornado' did not destroy a Spell/Trap Card. If your opponent activates the card targeted by 'Dust Tornado' it isn't negated, but is still destroyed by 'Dust Tornado' so you may Set 1 Spell/Trap Card.",
+    "TeleDAD": "● You must destroy 1 Spell/Trap Card on your opponent’s side of the field to be able to Set 1 Spell/Trap Card. If your opponent chains a card to destroy the target of 'Dust Tornado', you can't then Set a Spell/Trap Card because 'Dust Tornado' did not destroy a Spell/Trap Card. If your opponent activates the card targeted by 'Dust Tornado' it isn't negated, but is still destroyed by 'Dust Tornado' so you may Set 1 Spell/Trap Card.",
+    "Gladiator": "● You must destroy 1 Spell/Trap Card on your opponent’s side of the field to be able to Set 1 Spell/Trap Card. If your opponent chains a card to destroy the target of 'Dust Tornado', you can't then Set a Spell/Trap Card because 'Dust Tornado' did not destroy a Spell/Trap Card. If your opponent activates the card targeted by 'Dust Tornado' it isn't negated, but is still destroyed by 'Dust Tornado' so you may Set 1 Spell/Trap Card.",
+    "ReturnDAD": "● You must destroy 1 Spell/Trap Card on your opponent’s side of the field to be able to Set 1 Spell/Trap Card. If your opponent chains a card to destroy the target of 'Dust Tornado', you can't then Set a Spell/Trap Card because 'Dust Tornado' did not destroy a Spell/Trap Card. If your opponent activates the card targeted by 'Dust Tornado' it isn't negated, but is still destroyed by 'Dust Tornado' so you may Set 1 Spell/Trap Card.",
+    "Trooper": "● You must destroy 1 Spell/Trap Card on your opponent’s side of the field to be able to Set 1 Spell/Trap Card. If your opponent chains a card to destroy the target of 'Dust Tornado', you can't then Set a Spell/Trap Card because 'Dust Tornado' did not destroy a Spell/Trap Card. If your opponent activates the card targeted by 'Dust Tornado' it isn't negated, but is still destroyed by 'Dust Tornado' so you may Set 1 Spell/Trap Card.",
+    "Circle": "● You must destroy 1 Spell/Trap Card on your opponent’s side of the field to be able to Set 1 Spell/Trap Card. If your opponent chains a card to destroy the target of 'Dust Tornado', you can't then Set a Spell/Trap Card because 'Dust Tornado' did not destroy a Spell/Trap Card. If your opponent activates the card targeted by 'Dust Tornado' it isn't negated, but is still destroyed by 'Dust Tornado' so you may Set 1 Spell/Trap Card.",
+    "Stein": "● You must destroy 1 Spell/Trap Card on your opponent’s side of the field to be able to Set 1 Spell/Trap Card. If your opponent chains a card to destroy the target of 'Dust Tornado', you can't then Set a Spell/Trap Card because 'Dust Tornado' did not destroy a Spell/Trap Card. If your opponent activates the card targeted by 'Dust Tornado' it isn't negated, but is still destroyed by 'Dust Tornado' so you may Set 1 Spell/Trap Card.",
+    "Base": "1. You must destroy 1 Spell or Trap Card on your opponent's side of the field to be able to Set 1 Spell or Trap Card. If your opponent chains a card to destroy the target of \"Dust Tornado\", you cannot then Set a Spell or Trap Card because \"Dust Tornado\" did not destroy a Spell or Trap Card. If your opponent activates the card targeted by \"Dust Tornado\" it is not negated, but is still destroyed by \"Dust Tornado\" so you may Set 1 Spell or Trap Card."
+  },
+  "PSCT": {
+    "Tengu": "① Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 39892082,
+  "name": "Balloon Lizard",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 1900,
+    "level": 4,
+    "race": "Reptile",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(1) Put 1 counter on this card during each of your Standby Phases. (2) When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters x 400 points.\n●The (1) Trigger Effect is mandatory, it activates & resolves on the field.\n●While Skill Drain is active, you can't put new counters on Balloon Lizard.\n●The counters on Balloon Lizard are NOT Spell Counters.\n●Remove all counters on Balloon Lizard if it is flipped face-down or removed from the field.\n●The (2) Trigger Effect is mandatory, it activates & resolves in the GY (or banished).\n●If this card is destroyed by battle, this effect activates in Substep 7 - End of the Damage Step.\n●You can use Barrel Behind the Door against Balloon Lizard's effect.",
+    "Goat": "●While Skill Drain is applying, you can't put new counters on Balloon Lizard.\n●The counters on Balloon Lizard are different from Spell Counters.\n●Remove all counters on Balloon Lizard if it is Set or removed from the field.\n●You can use Barrel Behind the Door against Balloon Lizard's effect.\n●Balloon Lizard's effect activates when it is sent to the GY after being destroyed.\n●If “Skill Drain” is applying, “Balloon Lizard” will not receive any counters for as long as “Skill Drain” is applying. “Balloon Lizard” will lose any counters it had when “Skill Drain” is activated.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● While 'Skill Drain' is applying, you can't put new counters on 'Balloon Lizard'.\n● The counters on 'Balloon Lizard' are different from Spell Counters.\n● Remove all counters on 'Balloon Lizard' if it is flipped face-down or removed from the field.\n● You can use 'Barrel Behind the Door' against 'Balloon Lizard''s effect.\n● 'Balloon Lizard''s effect activates when it is sent to the GY after being destroyed.",
+    "TeleDAD": "● While 'Skill Drain' is applying, you can't put new counters on 'Balloon Lizard'.\n● The counters on 'Balloon Lizard' are different from Spell Counters.\n● Remove all counters on 'Balloon Lizard' if it is flipped face-down or removed from the field.\n● You can use 'Barrel Behind the Door' against 'Balloon Lizard''s effect.\n● 'Balloon Lizard''s effect activates when it is sent to the GY after being destroyed.",
+    "Gladiator": "● While 'Skill Drain' is applying, you can't put new counters on 'Balloon Lizard'.\n● The counters on 'Balloon Lizard' are different from Spell Counters.\n● Remove all counters on 'Balloon Lizard' if it is flipped face-down or removed from the field.\n● You can use 'Barrel Behind the Door' against 'Balloon Lizard''s effect.\n● 'Balloon Lizard''s effect activates when it is sent to the GY after being destroyed.",
+    "ReturnDAD": "● While 'Skill Drain' is applying, you can't put new counters on 'Balloon Lizard'.\n● The counters on 'Balloon Lizard' are different from Spell Counters.\n● Remove all counters on 'Balloon Lizard' if it is flipped face-down or removed from the field.\n● You can use 'Barrel Behind the Door' against 'Balloon Lizard''s effect.\n● 'Balloon Lizard''s effect activates when it is sent to the GY after being destroyed.",
+    "Trooper": "● While 'Skill Drain' is applying, you can't put new counters on 'Balloon Lizard'.\n● The counters on 'Balloon Lizard' are different from Spell Counters.\n● Remove all counters on 'Balloon Lizard' if it is flipped face-down or removed from the field.\n● You can use 'Barrel Behind the Door' against 'Balloon Lizard''s effect.\n● 'Balloon Lizard''s effect activates when it is sent to the GY after being destroyed.",
+    "Circle": "● While 'Skill Drain' is applying, you can't put new counters on 'Balloon Lizard'.\n● The counters on 'Balloon Lizard' are different from Spell Counters.\n● Remove all counters on 'Balloon Lizard' if it is flipped face-down or removed from the field.\n● You can use 'Barrel Behind the Door' against 'Balloon Lizard''s effect.\n● 'Balloon Lizard''s effect activates when it is sent to the GY after being destroyed.",
+    "Stein": "● While 'Skill Drain' is applying, you can't put new counters on 'Balloon Lizard'.\n● The counters on 'Balloon Lizard' are different from Spell Counters.\n● Remove all counters on 'Balloon Lizard' if it is flipped face-down or removed from the field.\n● You can use 'Barrel Behind the Door' against 'Balloon Lizard''s effect.\n● 'Balloon Lizard''s effect activates when it is sent to the GY after being destroyed.",
+    "Base": "1. While \"Skill Drain\" is active, you can't put new counters on \"Balloon Lizard\".\\n2. The counters on \"Balloon Lizard\" are different from Spell Counters.\\n3. Remove all counters on \"Balloon Lizard\" if it is flipped face-down or removed from the field.\\n4. You can use \"Barrel Behind the Door\" against the effect of \"Balloon Lizard\".\\n5. The effect of \"Balloon Lizard\" activates when it is sent to the GY after being destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

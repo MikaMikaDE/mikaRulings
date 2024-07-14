@@ -1,0 +1,44 @@
+{
+  "id": 42009836,
+  "name": "Fossil Dyna Pachycephalo",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1300,
+    "level": 4,
+    "race": "Rock",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(1) Neither player can Special Summon monsters. (2) When this card is flipped face-up, destroy all Special Summoned monsters on the field.\n●The (1) Continuous Effect applies while this card is face-up.\n●Monsters cannot be Special Summoned face-down (by Super-Nimble Mega Hamster).\n●The (2) mandatory Trigger Effect cannot miss the timing.\n●If this face-down card is attacked, this effect activates in Substep 6 - Resolve Effects.\n●This effect destroys monsters Special Summoned face-down (by Super-Nimble Mega Hamster).\n●This effect destroys Special Summoned monsters that were flipped face-down (by Book of Moon).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Monsters that are Special Summoned face-down, or flipped face-down after being Special Summoned, will be destroyed by 'Fossil Dyna Pachycephalo's' second effect.\n● 'Fossil Dyna Pachycephalo's' first effect is a Continuous Effect. Its second effect is a Trigger Effect.",
+    "TeleDAD": "● Monsters that are Special Summoned face-down, or flipped face-down after being Special Summoned, will be destroyed by 'Fossil Dyna Pachycephalo's' second effect.\n● 'Fossil Dyna Pachycephalo's' first effect is a Continuous Effect. Its second effect is a Trigger Effect.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Monsters that are Special Summoned face-down, or flipped face-down after being Special Summoned, will be destroyed by the second effect of \"Fossil Dyna Pachycephalo\".\\n2. The first effect of \"Fossil Dyna Pachycephalo\" is a Continuous Effect. Its second effect is a Trigger Effect.\\n3. [FORUM] If the effect of \"Fossil Dyna Pachycephalo\" is being negated by \"Effect Veiler\", you can then activate cards like \"Call of the Haunted\" to Special Summon a monster."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

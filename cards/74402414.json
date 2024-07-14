@@ -1,0 +1,40 @@
+{
+  "id": 74402414,
+  "name": "Spell Chronicle",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Sending every card in your hand to the GY is a cost to activate Spell Chronicle. The 5 Spell or Trap Cards are removed from play when Spell Chronicle resolves.\n●Spell Chronicle cannot be activated when you have a combined total of 4 or less Spell and Trap Cards remaining in your Deck.\n●The Spell and Trap Cards are removed from play face-up.\n●Placing 1 Chronicle Counter onto Spell Chronicle does not start a Chain.\n●The damage inflicted by Spell Chronicle does not start a Chain.\n●Adding 1 of the removed from play Spell or Trap Cards to your hand does not target the card to be added to your hand.\n●When you activate Spell Chronicle, it does not gain a Chronicle Counter if a Quick-Play Spell Card is chained to its activation.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Sending every card in your hand to the GY is a cost to activate 'Spell Chronicle'. The 5 Spell/Trap Cards are removed from play when 'Spell Chronicle' resolves.\n● 'Spell Chronicle' can't be activated when you have a combined total of 4 or less Spell/Trap Cards remaining in your Deck.\n● The Spell/Trap Cards are removed from play face-up.\n● Placing 1 Chronicle Counter onto 'Spell Chronicle' does not start a Chain.\n● The damage inflicted by 'Spell Chronicle' does not start a Chain.\n● Adding 1 of the removed from play Spell/Trap Cards to your hand does not target the card to be added to your hand.\n● When you activate 'Spell Chronicle', it does not gain a Chronicle Counter if a Quick-Play Spell Card is chained to its activation.",
+    "TeleDAD": "● Sending every card in your hand to the GY is a cost to activate 'Spell Chronicle'. The 5 Spell/Trap Cards are removed from play when 'Spell Chronicle' resolves.\n● 'Spell Chronicle' can't be activated when you have a combined total of 4 or less Spell/Trap Cards remaining in your Deck.\n● The Spell/Trap Cards are removed from play face-up.\n● Placing 1 Chronicle Counter onto 'Spell Chronicle' does not start a Chain.\n● The damage inflicted by 'Spell Chronicle' does not start a Chain.\n● Adding 1 of the removed from play Spell/Trap Cards to your hand does not target the card to be added to your hand.\n● When you activate 'Spell Chronicle', it does not gain a Chronicle Counter if a Quick-Play Spell Card is chained to its activation.",
+    "Gladiator": "● Sending every card in your hand to the GY is a cost to activate 'Spell Chronicle'. The 5 Spell/Trap Cards are removed from play when 'Spell Chronicle' resolves.\n● 'Spell Chronicle' can't be activated when you have a combined total of 4 or less Spell/Trap Cards remaining in your Deck.\n● The Spell/Trap Cards are removed from play face-up.\n● Placing 1 Chronicle Counter onto 'Spell Chronicle' does not start a Chain.\n● The damage inflicted by 'Spell Chronicle' does not start a Chain.\n● Adding 1 of the removed from play Spell/Trap Cards to your hand does not target the card to be added to your hand.\n● When you activate 'Spell Chronicle', it does not gain a Chronicle Counter if a Quick-Play Spell Card is chained to its activation.",
+    "ReturnDAD": "● Sending every card in your hand to the GY is a cost to activate 'Spell Chronicle'. The 5 Spell/Trap Cards are removed from play when 'Spell Chronicle' resolves.\n● 'Spell Chronicle' can't be activated when you have a combined total of 4 or less Spell/Trap Cards remaining in your Deck.\n● The Spell/Trap Cards are removed from play face-up.\n● Placing 1 Chronicle Counter onto 'Spell Chronicle' does not start a Chain.\n● The damage inflicted by 'Spell Chronicle' does not start a Chain.\n● Adding 1 of the removed from play Spell/Trap Cards to your hand does not target the card to be added to your hand.\n● When you activate 'Spell Chronicle', it does not gain a Chronicle Counter if a Quick-Play Spell Card is chained to its activation.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Sending every card in your hand to the GY is a cost to activate \"Spell Chronicle\". The 5 Spell or Trap Cards are removed from play when \"Spell Chronicle\" resolves.\\n2. \"Spell Chronicle\" cannot be activated when you have a combined total of 4 or less Spell and Trap Cards remaining in your Deck.\\n3. The Spell and Trap Cards are removed from play face-up.\\n4. Placing 1 Chronicle Counter onto \"Spell Chronicle\" does not start a Chain.\\n5. The damage inflicted by \"Spell Chronicle\" does not start a Chain.\\n6. Adding 1 of the removed from play Spell or Trap Cards to your hand does not target the card to be added to your hand.\\n7. When you activate \"Spell Chronicle\", it does not gain a Chronicle Counter if a Quick-Play Spell Card is chained to its activation."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

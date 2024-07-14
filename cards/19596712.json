@@ -1,0 +1,40 @@
+{
+  "id": 19596712,
+  "name": "Abyss-scale of Cetus",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● The effect that negates effects does not start a chain. When the opponent activates a Trap Card, at the time that effect will resolve, the effect of this card is applied immediately.\n● This effect can negate Counter Trap Cards.",
+    "Vegas": "● The effect that negates effects does not start a chain. When the opponent activates a Trap Card, at the time that effect will resolve, the effect of this card is applied immediately.\n● This effect can negate Counter Trap Cards.",
+    "Meadowlands": "● The effect that negates effects does not start a chain. When the opponent activates a Trap Card, at the time that effect will resolve, the effect of this card is applied immediately.\n● This effect can negate Counter Trap Cards.",
+    "FireWater": "● The effect that negates effects does not start a chain. When the opponent activates a Trap Card, at the time that effect will resolve, the effect of this card is applied immediately.\n● This effect can negate Counter Trap Cards.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "Ⓒ Equip only to a \"Mermail\" monster. \n① A monster equipped with this card gains 800 ATK. \n② If a Trap Effect that was activated on your opponent's side of the field resolves, negate that effect, then send this card to the GY.",
+    "Meadowlands": "Ⓒ Equip only to a \"Mermail\" monster. \n① A monster equipped with this card gains 800 ATK. \n② If a Trap Effect that was activated on your opponent's side of the field resolves, negate that effect, then send this card to the GY.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 73574678,
+  "name": "Amazoness Blowpiper",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 1500,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(1) Select 1 face-up monster on your opponent's side of the field during each of your Standby Phases. Decrease the ATK of the selected monster by 500 points until the end of this turn.\n●The (1) mandatory Trigger Effect activates & resolves on the field.\n●This effect targets 1 face-up monster your opponent controls.\n●When a monster selected for Amazoness Blowpiper's effect is flipped face-down, the effect is reset.\n●After selecting a monster with Amazoness Blowpiper's effect, if Amazoness Blowpiper is flipped face-down or removed from the field, its effect still applies until the end of the turn.",
+    "Goat": "●When a monster selected for Amazoness Blowpiper's effect is Set, the effect is reset.\n●After selecting a monster with Amazoness Blowpiper's effect, if Amazoness Blowpiper is Set or removed from the field, its effect still applies until the end of the turn.\n●“Amazoness Blowpiper” may only target a face up card.\n●Q: Can “Amazoness Blowpiper’s” effect be used more than once per turn? \nA: As per the card text, it says you use the effect once during each of your Standby phases. That is the only time the effect is used.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When a monster selected for 'Amazoness Blowpiper''s effect is flipped face-down, the effect is reset.\n● After selecting a monster with 'Amazoness Blowpiper''s effect, if 'Amazoness Blowpiper' is flipped face-down or removed from the field, its effect still applies until the end of the turn.",
+    "TeleDAD": "● When a monster selected for 'Amazoness Blowpiper''s effect is flipped face-down, the effect is reset.\n● After selecting a monster with 'Amazoness Blowpiper''s effect, if 'Amazoness Blowpiper' is flipped face-down or removed from the field, its effect still applies until the end of the turn.",
+    "Gladiator": "● When a monster selected for 'Amazoness Blowpiper''s effect is flipped face-down, the effect is reset.\n● After selecting a monster with 'Amazoness Blowpiper''s effect, if 'Amazoness Blowpiper' is flipped face-down or removed from the field, its effect still applies until the end of the turn.",
+    "ReturnDAD": "● When a monster selected for 'Amazoness Blowpiper''s effect is flipped face-down, the effect is reset.\n● After selecting a monster with 'Amazoness Blowpiper''s effect, if 'Amazoness Blowpiper' is flipped face-down or removed from the field, its effect still applies until the end of the turn.",
+    "Trooper": "● When a monster selected for 'Amazoness Blowpiper''s effect is flipped face-down, the effect is reset.\n● After selecting a monster with 'Amazoness Blowpiper''s effect, if 'Amazoness Blowpiper' is flipped face-down or removed from the field, its effect still applies until the end of the turn.",
+    "Circle": "● When a monster selected for 'Amazoness Blowpiper''s effect is flipped face-down, the effect is reset.\n● After selecting a monster with 'Amazoness Blowpiper''s effect, if 'Amazoness Blowpiper' is flipped face-down or removed from the field, its effect still applies until the end of the turn.",
+    "Stein": "● When a monster selected for 'Amazoness Blowpiper''s effect is flipped face-down, the effect is reset.\n● After selecting a monster with 'Amazoness Blowpiper''s effect, if 'Amazoness Blowpiper' is flipped face-down or removed from the field, its effect still applies until the end of the turn.",
+    "Base": "1. If the monster targeted by \"Amazoness Blowpiper\" is flipped face-down, it will no longer be affected by this effect.\\n2. If \"Amazoness Blowpiper\" is flipped face-down or leaves the field, its effect will still be applied.\\n3. \"Spirit Reaper\" will be destroyed if it is targeted by the effect of \"Amazoness Blowpiper\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

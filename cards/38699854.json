@@ -1,0 +1,40 @@
+{
+  "id": 38699854,
+  "name": "Book of Taiyou",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Flip 1 face-down monster on the field into face-up Attack Position.\n●This effect targets 1 face-down monster on the field.\n●This effect DOES NOT perform a Flip Summon (a manual player action).\n●Flip Effect will still activate.",
+    "Goat": "●Flipping a monster into face-up Attack Position with Book of Taiyou is NOT a Flip Summon.\n●When a Flip Effect Monster is flipped face-up by the effect of Book of Taiyou, its Flip Effect is activated. You can Set a monster and use Book of Taiyou on it that same turn; its Flip Effect will activate.\n●If “Book of Taiyou” flips a Toon monster face-up, that Toon monster may attack that turn.\n●Q: If you Set a Flip Effect Monster, can you use “Book of Taiyou” in the same turn to activate the effect? \nA: Yes you can.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Flipping a monster into Attack Position with 'Book of Taiyou' is NOT a Flip Summon.\n● When a Flip Effect Monster is flipped face-up by the effect of 'Book of Taiyou', its Flip Effect is activated. You can Set a monster and use 'Book of Taiyou' on it that same turn; its Flip Effect will activate.",
+    "TeleDAD": "● Flipping a monster into Attack Position with 'Book of Taiyou' is NOT a Flip Summon.\n● When a Flip Effect Monster is flipped face-up by the effect of 'Book of Taiyou', its Flip Effect is activated. You can Set a monster and use 'Book of Taiyou' on it that same turn; its Flip Effect will activate.",
+    "Gladiator": "● Flipping a monster into Attack Position with 'Book of Taiyou' is NOT a Flip Summon.\n● When a Flip Effect Monster is flipped face-up by the effect of 'Book of Taiyou', its Flip Effect is activated. You can Set a monster and use 'Book of Taiyou' on it that same turn; its Flip Effect will activate.",
+    "ReturnDAD": "● Flipping a monster into Attack Position with 'Book of Taiyou' is NOT a Flip Summon.\n● When a Flip Effect Monster is flipped face-up by the effect of 'Book of Taiyou', its Flip Effect is activated. You can Set a monster and use 'Book of Taiyou' on it that same turn; its Flip Effect will activate.",
+    "Trooper": "● Flipping a monster into Attack Position with 'Book of Taiyou' is NOT a Flip Summon.\n● When a Flip Effect Monster is flipped face-up by the effect of 'Book of Taiyou', its Flip Effect is activated. You can Set a monster and use 'Book of Taiyou' on it that same turn; its Flip Effect will activate.",
+    "Circle": "● Flipping a monster into Attack Position with 'Book of Taiyou' is NOT a Flip Summon.\n● When a Flip Effect Monster is flipped face-up by the effect of 'Book of Taiyou', its Flip Effect is activated. You can Set a monster and use 'Book of Taiyou' on it that same turn; its Flip Effect will activate.",
+    "Stein": "● Flipping a monster into Attack Position with 'Book of Taiyou' is NOT a Flip Summon.\n● When a Flip Effect Monster is flipped face-up by the effect of 'Book of Taiyou', its Flip Effect is activated. You can Set a monster and use 'Book of Taiyou' on it that same turn; its Flip Effect will activate.",
+    "Base": "1. Flipping a monster into face-up Attack Position with \"Book of Taiyou\" is NOT a Flip Summon.\\n2. When a Flip Effect Monster is flipped face-up by the effect of \"Book of Taiyou\", its Flip Effect is activated. You can Set a monster and use \"Book of Taiyou\" on it that same turn; its Flip Effect will activate."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

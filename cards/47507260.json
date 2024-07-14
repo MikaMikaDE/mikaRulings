@@ -1,0 +1,44 @@
+{
+  "id": 47507260,
+  "name": "Mystic Swordsman LV2",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 900,
+    "def": 0,
+    "level": 2,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Mystic Swordsman LV2 attacks a face-down Defense Position monster, that monster is destroyed by Mystic Swordsman LV2’s effect, not as a result of battle. So you cannot use its second effect to Special Summon Mystic Swordsman LV4 during the End Phase.\n●If a level monster fulfills its condition to Special Summon the next-highest level (for example, if Armed Dragon LV5 destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the GY and then Special Summoned from the GY, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.",
+    "Goat": "●If Mystic Swordsman LV2 attacks a face-down Defense Position monster, that monster is destroyed by Mystic Swordsman LV2’s effect, not as a result of battle. So you cannot use its second effect to Special Summon Mystic Swordsman LV4 during the End Phase.\n●If a level monster fulfills its condition to Special Summon the next-highest level (for example, if Armed Dragon LV5 destroys a monster as a result of battle), and the level monster is then Set, or removed from play permanently, or sent to the GY and then Special Summoned from the GY, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Mystic Swordsman LV2' attacks a face-down Defense Position monster, that monster is destroyed by 'Mystic Swordsman LV2'’s effect, not as a result of battle. So you can't use its second effect to Special Summon 'Mystic Swordsman LV4' during the End Phase.\n● If a level monster fulfills its condition to Special Summon the next-highest level (for example, if 'Armed Dragon LV5' destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the GY and then Special Summoned from the GY, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.",
+    "TeleDAD": "● If 'Mystic Swordsman LV2' attacks a face-down Defense Position monster, that monster is destroyed by 'Mystic Swordsman LV2'’s effect, not as a result of battle. So you can't use its second effect to Special Summon 'Mystic Swordsman LV4' during the End Phase.\n● If a level monster fulfills its condition to Special Summon the next-highest level (for example, if 'Armed Dragon LV5' destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the GY and then Special Summoned from the GY, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.",
+    "Gladiator": "● If 'Mystic Swordsman LV2' attacks a face-down Defense Position monster, that monster is destroyed by 'Mystic Swordsman LV2'’s effect, not as a result of battle. So you can't use its second effect to Special Summon 'Mystic Swordsman LV4' during the End Phase.\n● If a level monster fulfills its condition to Special Summon the next-highest level (for example, if 'Armed Dragon LV5' destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the GY and then Special Summoned from the GY, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.",
+    "ReturnDAD": "● If 'Mystic Swordsman LV2' attacks a face-down Defense Position monster, that monster is destroyed by 'Mystic Swordsman LV2'’s effect, not as a result of battle. So you can't use its second effect to Special Summon 'Mystic Swordsman LV4' during the End Phase.\n● If a level monster fulfills its condition to Special Summon the next-highest level (for example, if 'Armed Dragon LV5' destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the GY and then Special Summoned from the GY, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.",
+    "Trooper": "● If 'Mystic Swordsman LV2' attacks a face-down Defense Position monster, that monster is destroyed by 'Mystic Swordsman LV2'’s effect, not as a result of battle. So you can't use its second effect to Special Summon 'Mystic Swordsman LV4' during the End Phase.\n● If a level monster fulfills its condition to Special Summon the next-highest level (for example, if 'Armed Dragon LV5' destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the GY and then Special Summoned from the GY, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.",
+    "Circle": "● If 'Mystic Swordsman LV2' attacks a face-down Defense Position monster, that monster is destroyed by 'Mystic Swordsman LV2'’s effect, not as a result of battle. So you can't use its second effect to Special Summon 'Mystic Swordsman LV4' during the End Phase.\n● If a level monster fulfills its condition to Special Summon the next-highest level (for example, if 'Armed Dragon LV5' destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the GY and then Special Summoned from the GY, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.",
+    "Stein": "● If 'Mystic Swordsman LV2' attacks a face-down Defense Position monster, that monster is destroyed by 'Mystic Swordsman LV2'’s effect, not as a result of battle. So you can't use its second effect to Special Summon 'Mystic Swordsman LV4' during the End Phase.\n● If a level monster fulfills its condition to Special Summon the next-highest level (for example, if 'Armed Dragon LV5' destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the GY and then Special Summoned from the GY, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.",
+    "Base": "1. If \"Mystic Swordsman LV2\" attacks a face-down Defense Position monster, that monster is destroyed by the effect of \"Mystic Swordsman LV2\", not as a result of battle. So you cannot use its second effect to Special Summon \"Mystic Swordsman LV4\" during the End Phase.\\n2. If a level monster fulfills its condition to Special Summon the next-highest level (for example, if \"Armed Dragon LV5\" destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the GY and then Special Summoned from the GY, then its condition is reset and it is no longer considered to have met the condition to level up to the next level."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

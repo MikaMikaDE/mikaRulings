@@ -1,0 +1,44 @@
+{
+  "id": 31571902,
+  "name": "Malevolent Mech - Goku En",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 1400,
+    "level": 6,
+    "race": "Zombie",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(U) You can Normal Summon this card without Tributing. (1) If you do, this card is sent to the GY during the End Phase if it is the only Zombie-Type monster on the field. When it is sent to the GY by this effect, you take damage equal to its ATK.\n●The (U) Unclassified Effect does not activate, it applies in the hand.\n●The (1) Trigger Effect is mandatory, it activates & resolves on the field in the End Phase.\n●This effect ONLY activates & resolve is if it is the ONLY Zombie-Type monster on the field.\n●This effect will activate during the End Phase of every turn (if this card was Normal Summoned with its [U] Unclassified Effect).\n●If the activation of this effect is negated by Light and Darkness Dragon, it will activate again in the same End Phase.\n●If this effect resolves negated by Skill Drain, it will not activate again in the same End Phase.\n●This effect resolves without effect (Goku En is not destroyed) if an effect (like Call of the Haunted) is chained that Summons an another Zombie-Type monster to the field face-up.\n●This effect resolves sequentially: first, send this card to the GY; then inflict effect damage.\n●This effect inflicts damage equal to the original (printed) ATK of Malevolent Mech - Goku En.\n●VS. Creature Swap: If this card (Normal Summoned by its [U] Unclassified Effect) changes control and activates its effect in the End Phase, the controller of Goku En on the field (when it was destroyed) takes the damage [REF1, REF2].",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● \n● ",
+    "TeleDAD": "● \n● ",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

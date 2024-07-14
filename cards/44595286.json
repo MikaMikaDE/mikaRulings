@@ -1,0 +1,40 @@
+{
+  "id": 44595286,
+  "name": "Light of Judgment",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Light of Judgment does NOT target. You select the card when Light of Judgment's effect resolves.\n●You can look at your opponent's hand when you resolve Light of Judgment's effect.\n●If your opponent chains Mystical Space Typhoon to Light of Judgment and destroys The Sanctuary in the Sky, the effect of Light of Judgment is still applied.",
+    "Goat": "●Light of Judgment does NOT target. You select the card when Light of Judgment's effect resolves.\n●You can look at your opponent's hand when you resolve Light of Judgment's effect.\n●If your opponent chains Mystical Space Typhoon to Light of Judgment and destroys The Sanctuary in the Sky, the effect of Light of Judgment is still applied.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Light of Judgment' does NOT target. You select the card when 'Light of Judgment''s effect resolves.\n● You can look at your opponent's hand when you resolve 'Light of Judgment''s effect.\n● If your opponent chains 'Mystical Space Typhoon' to 'Light of Judgment' and destroys 'The Sanctuary in the Sky', the effect of 'Light of Judgment' is still applied.",
+    "TeleDAD": "● 'Light of Judgment' does NOT target. You select the card when 'Light of Judgment''s effect resolves.\n● You can look at your opponent's hand when you resolve 'Light of Judgment''s effect.\n● If your opponent chains 'Mystical Space Typhoon' to 'Light of Judgment' and destroys 'The Sanctuary in the Sky', the effect of 'Light of Judgment' is still applied.",
+    "Gladiator": "● 'Light of Judgment' does NOT target. You select the card when 'Light of Judgment''s effect resolves.\n● You can look at your opponent's hand when you resolve 'Light of Judgment''s effect.\n● If your opponent chains 'Mystical Space Typhoon' to 'Light of Judgment' and destroys 'The Sanctuary in the Sky', the effect of 'Light of Judgment' is still applied.",
+    "ReturnDAD": "● 'Light of Judgment' does NOT target. You select the card when 'Light of Judgment''s effect resolves.\n● You can look at your opponent's hand when you resolve 'Light of Judgment''s effect.\n● If your opponent chains 'Mystical Space Typhoon' to 'Light of Judgment' and destroys 'The Sanctuary in the Sky', the effect of 'Light of Judgment' is still applied.",
+    "Trooper": "● 'Light of Judgment' does NOT target. You select the card when 'Light of Judgment''s effect resolves.\n● You can look at your opponent's hand when you resolve 'Light of Judgment''s effect.\n● If your opponent chains 'Mystical Space Typhoon' to 'Light of Judgment' and destroys 'The Sanctuary in the Sky', the effect of 'Light of Judgment' is still applied.",
+    "Circle": "● 'Light of Judgment' does NOT target. You select the card when 'Light of Judgment''s effect resolves.\n● You can look at your opponent's hand when you resolve 'Light of Judgment''s effect.\n● If your opponent chains 'Mystical Space Typhoon' to 'Light of Judgment' and destroys 'The Sanctuary in the Sky', the effect of 'Light of Judgment' is still applied.",
+    "Stein": "● 'Light of Judgment' does NOT target. You select the card when 'Light of Judgment''s effect resolves.\n● You can look at your opponent's hand when you resolve 'Light of Judgment''s effect.\n● If your opponent chains 'Mystical Space Typhoon' to 'Light of Judgment' and destroys 'The Sanctuary in the Sky', the effect of 'Light of Judgment' is still applied.",
+    "Base": "1. \"Light of Judgment\" does NOT target. You select the card when the effect of \"Light of Judgment\" resolves.\\n2. You can look at your opponent's hand when you resolve the effect of \"Light of Judgment\".\\n3. If your opponent chains \"Mystical Space Typhoon\" to \"Light of Judgment\" and destroys \"The Sanctuary in the Sky\", the effect of \"Light of Judgment\" is still applied."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

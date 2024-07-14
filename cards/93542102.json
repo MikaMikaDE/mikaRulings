@@ -1,0 +1,44 @@
+{
+  "id": 93542102,
+  "name": "Morphtronic Celfon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Royal Oppression can be chained to the Attack Position effect of Morphtronic Celfon.\n●If an effect is chained that removes Morphtronic Celfon from the field, its Attack or Defense Position effect that was activated will still resolve.\n●The Attack Position effect of Morphtronic Celfon cannot be activated if there are no Morphtronic monsters left in your Deck.\n●While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Celfon cannot be activated, because the While in Attack Position and While in Defense Position effects are negated.\n●If you cannot Special Summon a monster (due to Scapegoat, etc.), you cannot activate Morphtronic Celfon's Attack Position effect. If you activate Morphtronic Celfon's Attack Position effect and an effect is chained that prevents you from Special Summoning monster(s), you will still roll a die and reveal cards from the top of your Deck equal to the result, but the Level 4 or lower Morphtronic monster that would be Special Summoned is destroyed instead.\n●You cannot activate Morphtronic Celfon's Attack Position effect if you have no cards left in your Deck. If you have at least 1 card left in your Deck, you can activate the Attack Position effect. In this case, if you roll a 2 or higher, you will still reveal the 1 card left in your Deck.\n●You do not show your opponent the cards you look at with “Morphtronic Celfon’s” Defense Position effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Royal Oppression' can be chained to the Attack Position effect of 'Morphtronic Celfon'.\n● If an effect is chained that removes 'Morphtronic Celfon' from the field, its Attack or Defense Position effect that was activated will still resolve.\n● The Attack Position effect of 'Morphtronic Celfon' can't be activated if there are no 'Morphtronic' monsters left in your Deck.\n● While 'Skill Drain' is applying, the Attack Position and Defense Position effects of 'Morphtronic Celfon' can't be activated, because the 'While in Attack Position' and 'While in Defense Position' effects are negated.\n● If you can't Special Summon a monster (due to 'Scapegoat', etc.), you can't activate 'Morphtronic Celfon's' Attack Position effect. If you activate 'Morphtronic Celfon's' Attack Position effect and an effect is chained that prevents you from Special Summoning monster(s), you will still roll a die and reveal cards from the top of your Deck equal to the result, but the LV 4 or lower 'Morphtronic' monster that would be Special Summoned is destroyed instead.\n● You can't activate 'Morphtronic Celfon's' Attack Position effect if you have no cards left in your Deck. If you have at least 1 card left in your Deck, you can activate the Attack Position effect. In this case, if you roll a 2 or higher, you will still reveal the 1 card left in your Deck.\n● You do not show your opponent the cards you look at with “Morphtronic Celfon’s” Defense Position effect.",
+    "TeleDAD": "● 'Royal Oppression' can be chained to the Attack Position effect of 'Morphtronic Celfon'.\n● If an effect is chained that removes 'Morphtronic Celfon' from the field, its Attack or Defense Position effect that was activated will still resolve.\n● The Attack Position effect of 'Morphtronic Celfon' can't be activated if there are no 'Morphtronic' monsters left in your Deck.\n● While 'Skill Drain' is applying, the Attack Position and Defense Position effects of 'Morphtronic Celfon' can't be activated, because the 'While in Attack Position' and 'While in Defense Position' effects are negated.\n● If you can't Special Summon a monster (due to 'Scapegoat', etc.), you can't activate 'Morphtronic Celfon's' Attack Position effect. If you activate 'Morphtronic Celfon's' Attack Position effect and an effect is chained that prevents you from Special Summoning monster(s), you will still roll a die and reveal cards from the top of your Deck equal to the result, but the LV 4 or lower 'Morphtronic' monster that would be Special Summoned is destroyed instead.\n● You can't activate 'Morphtronic Celfon's' Attack Position effect if you have no cards left in your Deck. If you have at least 1 card left in your Deck, you can activate the Attack Position effect. In this case, if you roll a 2 or higher, you will still reveal the 1 card left in your Deck.\n● You do not show your opponent the cards you look at with “Morphtronic Celfon’s” Defense Position effect.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Royal Oppression\" can be chained to the Attack Position effect of \"Morphtronic Celfon\".\\n2. If an effect is chained that removes \"Morphtronic Celfon\" from the field, its Attack or Defense Position effect that was activated will still resolve.\\n3. The Attack Position effect of \"Morphtronic Celfon\" cannot be activated if there are no 'Morphtronic' monsters left in your Deck.\\n4. While \"Skill Drain\" is active, the Attack Position and Defense Position effects of \"Morphtronic Celfon\" cannot be activated, because the 'While in Attack Position' and 'While in Defense Position' effects are negated.\\n5. If you cannot Special Summon a monster (due to \"Scapegoat\", etc.), you cannot activate the Attack Position effect of \"Morphtronic Celfon\". If you activate the Attack Position effect of \"Morphtronic Celfon\" and an effect is chained that prevents you from Special Summoning monster(s), you will still roll a die and reveal cards from the top of your Deck equal to the result, but the Level 4 or lower 'Morphtronic' monster that would be Special Summoned is destroyed instead.\\n6. You cannot activate the Attack Position effect of \"Morphtronic Celfon\" if you have no cards left in your Deck. If you have at least 1 card left in your Deck, you can activate the Attack Position effect. In this case, if you roll a 2 or higher, you will still reveal the 1 card left in your Deck.\\n7. You do not show your opponent the cards you look at with the Defense Position effect of \"Morphtronic Celfon\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

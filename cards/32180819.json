@@ -1,0 +1,40 @@
+{
+  "id": 32180819,
+  "name": "Psychokinesis",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Psychokinesis targets 1 card on the field.\n●Destroying the targeted card and inflicting 1000 damage are considered to happen at the same time.\n●If an effect is chained that removes every Psychic-Type monster from your side of the field, the effect of Psychokinesis still resolves.\n●If an effect is chained that removes the targeted card from the field, the damage is not inflicted.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Psychokinesis' targets 1 card on the field.\n● Destroying the targeted card and inflicting 1000 damage are considered to happen at the same time.\n● If an effect is chained that removes every Psychic from your side of the field, the effect of 'Psychokinesis' still resolves.\n● If an effect is chained that removes the targeted card from the field, the damage isn't inflicted.",
+    "TeleDAD": "● 'Psychokinesis' targets 1 card on the field.\n● Destroying the targeted card and inflicting 1000 damage are considered to happen at the same time.\n● If an effect is chained that removes every Psychic from your side of the field, the effect of 'Psychokinesis' still resolves.\n● If an effect is chained that removes the targeted card from the field, the damage isn't inflicted.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Psychokinesis\" targets 1 card on the field.\\n2. Destroying the targeted card and inflicting 1000 damage are considered to happen at the same time.\\n3. If an effect is chained that removes every Psychic-Type monster from your side of the field, the effect of \"Psychokinesis\" still resolves.\\n4. If an effect is chained that removes the targeted card from the field, the damage is not inflicted."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

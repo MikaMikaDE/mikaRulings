@@ -1,0 +1,44 @@
+{
+  "id": 31904181,
+  "name": "The Six Samurai - Nisashi",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 700,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "(1) While you control another Six Samurai monster with a different name, this card can attack twice during the same Battle Phase. (2) If this card would be destroyed, you can destroy another Six Samurai monster you control instead.\n●The (1) Continuous Effect does not activate, it applies on the field.\n●This effect only applies if you control another Six Samurai monster with a different name.\n●If your other “Six Samurai” is flipped face-down / leaves the field before the Damage Step (of the second attack), that attack is negated. Do not proceed to the Damage Step.\n●The (2) Continuous Effect does not activate, it applies while the destruction occurs.\n●This effect does not target.\n●You cannot destroy a face-down Six Samurai monster instead.\n●You can apply this effect when an effect that destroys this card resolves (ex: Call of the Haunted).\n●Your other Six Samurai is considered destroyed by this effect, not by battle / card effect.\n●Example: If “Ring of Destruction” targets a “Six Samurai” monster, and you destroy a different “Six Samurai” monster instead, zero damage will be inflicted by “Ring of Destruction”.\n●You can apply this effect in Substep 4 - Damage Calculation. The “Six Samurai” that you destroy instead is sent to the GY in Substep 7 - End of the Damage Step.\n●If multiple Six Samurai would be destroyed at once, you can destroy 1 other Six Samurai for each you wish to protect. You cannot only destroy 1 “Six Samurai” to protect all the others.\n●Example: If Mirror Force would destroy 2 of your Six Samurai monsters, you must destroy 2 Defense Position Six Samurai monsters to save those two\n●Example: If Mirror Force would destroy all your face-up Six Samurai monsters, you cannot destroy any of them as substitutes.\n●If you control 2 “Six Samurai” monsters, and 1 of them equipped with “Legendary Ebon Steed” would be destroyed, the effect of “Legendary Ebon Steed” must be used. You cannot choose to destroy another “Six Samurai” monster instead.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “The Six Samurai – Nisashi” attacks twice using this effect, and all other “Six Samurai” monsters you control are destroyed before entering the Damage Step on the second attack, the attack will be negated.\n● Please see 'The Six Samurai - Irou' for additional rulings.",
+    "TeleDAD": "● If “The Six Samurai – Nisashi” attacks twice using this effect, and all other “Six Samurai” monsters you control are destroyed before entering the Damage Step on the second attack, the attack will be negated.\n● Please see 'The Six Samurai - Irou' for additional rulings.",
+    "Gladiator": "● If “The Six Samurai – Nisashi” attacks twice using this effect, and all other “Six Samurai” monsters you control are destroyed before entering the Damage Step on the second attack, the attack will be negated.\n● Please see 'The Six Samurai - Irou' for additional rulings.",
+    "ReturnDAD": "● If “The Six Samurai – Nisashi” attacks twice using this effect, and all other “Six Samurai” monsters you control are destroyed before entering the Damage Step on the second attack, the attack will be negated.\n● Please see 'The Six Samurai - Irou' for additional rulings.",
+    "Trooper": "● If “The Six Samurai – Nisashi” attacks twice using this effect, and all other “Six Samurai” monsters you control are destroyed before entering the Damage Step on the second attack, the attack will be negated.\n● Please see 'The Six Samurai - Irou' for additional rulings.",
+    "Circle": "● If “The Six Samurai – Nisashi” attacks twice using this effect, and all other “Six Samurai” monsters you control are destroyed before entering the Damage Step on the second attack, the attack will be negated.\n● Please see 'The Six Samurai - Irou' for additional rulings.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"The Six Samurai - Nisashi\" attacks twice using this effect, and all other 'Six Samurai' monsters you control are destroyed before entering the Damage Step on the second attack, the attack will be negated.\\n2. Please see \"The Six Samurai - Irou\" for additional rulings."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

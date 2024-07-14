@@ -1,0 +1,40 @@
+{
+  "id": 48206762,
+  "name": "Fulfillment of the Contract",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot use “Fulfillment of the Contract” to Special Summon a Ritual Monster that was discarded from the hand, or otherwise not properly Summoned.\n●You can chain to the first part of this card’s effect. However, the last part (that destroys the monster) does not start a chain.",
+    "Goat": "●You cannot use “Fulfillment of the Contract” to Special Summon a Ritual Monster that was discarded from the hand, or otherwise not properly Summoned.\n●You can chain to the first part of this card’s effect. However, the last part (that destroys the monster) does not start a chain.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't use “Fulfillment of the Contract” to Special Summon a Ritual Monster that was discarded from the hand, or otherwise not properly Summoned.\n●  You can chain to the first part of this card’s effect. However, the last part (that destroys the monster) does not start a chain.",
+    "TeleDAD": "● You can't use “Fulfillment of the Contract” to Special Summon a Ritual Monster that was discarded from the hand, or otherwise not properly Summoned.\n●  You can chain to the first part of this card’s effect. However, the last part (that destroys the monster) does not start a chain.",
+    "Gladiator": "● You can't use “Fulfillment of the Contract” to Special Summon a Ritual Monster that was discarded from the hand, or otherwise not properly Summoned.\n●  You can chain to the first part of this card’s effect. However, the last part (that destroys the monster) does not start a chain.",
+    "ReturnDAD": "● You can't use “Fulfillment of the Contract” to Special Summon a Ritual Monster that was discarded from the hand, or otherwise not properly Summoned.\n●  You can chain to the first part of this card’s effect. However, the last part (that destroys the monster) does not start a chain.",
+    "Trooper": "● You can't use “Fulfillment of the Contract” to Special Summon a Ritual Monster that was discarded from the hand, or otherwise not properly Summoned.\n●  You can chain to the first part of this card’s effect. However, the last part (that destroys the monster) does not start a chain.",
+    "Circle": "● You can't use “Fulfillment of the Contract” to Special Summon a Ritual Monster that was discarded from the hand, or otherwise not properly Summoned.\n●  You can chain to the first part of this card’s effect. However, the last part (that destroys the monster) does not start a chain.",
+    "Stein": "● You can't use “Fulfillment of the Contract” to Special Summon a Ritual Monster that was discarded from the hand, or otherwise not properly Summoned.\n●  You can chain to the first part of this card’s effect. However, the last part (that destroys the monster) does not start a chain.",
+    "Base": "1. You cannot use \"Fulfillment of the Contract\" to Special Summon a Ritual Monster that was discarded from the hand, or otherwise not properly Summoned.\\n2. You can chain to the first part of this card's effect. However, the last part (that destroys the monster) does not start a chain."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

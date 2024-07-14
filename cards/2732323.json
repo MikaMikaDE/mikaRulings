@@ -1,0 +1,44 @@
+{
+  "id": 2732323,
+  "name": "Decoy Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 200,
+    "level": 2,
+    "race": "Dragon",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●Decoy Dragon's effect is activated during the Battle Step when it is selected as the target for your opponent's attacking monster.\n●Decoy Dragon's effect does not cause a replay.\n●Decoy Dragon must be face-up at the time it is declared as the target of your opponent's attacking monster or its effect will not activate.\n●If you have a Decoy Dragon equipped with Ring of Magnetism and your opponent's monster declares an attack against it, the effect of Decoy Dragon is still activated and your opponent's attacking monster must still battle with the Level 7 or higher Dragon-Type monster that you Special Summon from your GY.\n●If the Level 7 or higher Dragon-Type monster has an effect that activates when it is Special Summoned, the effect will begin a new Chain after it is Special Summoned by Decoy Dragon. Example: If you Special Summon Felgrand Dragon by using Decoy Dragon's effect, the effect of Felgrand Dragon will activate and it will be able to gain ATK.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Decoy Dragon's' effect is activated during the Battle Step when it is selected as the target for your opponent's attacking monster.\n● 'Decoy Dragon's' effect does not cause a replay.\n● 'Decoy Dragon' must be face-up at the time it is declared as the target of your opponent's attacking monster or its effect will not activate.\n● If you have a 'Decoy Dragon' equipped with 'Ring of Magnetism' and your opponent's monster declares an attack against it, the effect of 'Decoy Dragon' is still activated and your opponent's attacking monster must still battle with the LV 7 or higher Dragon that you Special Summon from your GY.\n● If the LV 7 or higher Dragon has an effect that activates when it is Special Summoned, the effect will begin a new Chain after it is Special Summoned by 'Decoy Dragon'. Example: If you Special Summon 'Felgrand Dragon' by using 'Decoy Dragon's' effect, the effect of 'Felgrand Dragon' will activate and it will be able to gain ATK.",
+    "TeleDAD": "● 'Decoy Dragon's' effect is activated during the Battle Step when it is selected as the target for your opponent's attacking monster.\n● 'Decoy Dragon's' effect does not cause a replay.\n● 'Decoy Dragon' must be face-up at the time it is declared as the target of your opponent's attacking monster or its effect will not activate.\n● If you have a 'Decoy Dragon' equipped with 'Ring of Magnetism' and your opponent's monster declares an attack against it, the effect of 'Decoy Dragon' is still activated and your opponent's attacking monster must still battle with the LV 7 or higher Dragon that you Special Summon from your GY.\n● If the LV 7 or higher Dragon has an effect that activates when it is Special Summoned, the effect will begin a new Chain after it is Special Summoned by 'Decoy Dragon'. Example: If you Special Summon 'Felgrand Dragon' by using 'Decoy Dragon's' effect, the effect of 'Felgrand Dragon' will activate and it will be able to gain ATK.",
+    "Gladiator": "● 'Decoy Dragon's' effect is activated during the Battle Step when it is selected as the target for your opponent's attacking monster.\n● 'Decoy Dragon's' effect does not cause a replay.\n● 'Decoy Dragon' must be face-up at the time it is declared as the target of your opponent's attacking monster or its effect will not activate.\n● If you have a 'Decoy Dragon' equipped with 'Ring of Magnetism' and your opponent's monster declares an attack against it, the effect of 'Decoy Dragon' is still activated and your opponent's attacking monster must still battle with the LV 7 or higher Dragon that you Special Summon from your GY.\n● If the LV 7 or higher Dragon has an effect that activates when it is Special Summoned, the effect will begin a new Chain after it is Special Summoned by 'Decoy Dragon'. Example: If you Special Summon 'Felgrand Dragon' by using 'Decoy Dragon's' effect, the effect of 'Felgrand Dragon' will activate and it will be able to gain ATK.",
+    "ReturnDAD": "● 'Decoy Dragon's' effect is activated during the Battle Step when it is selected as the target for your opponent's attacking monster.\n● 'Decoy Dragon's' effect does not cause a replay.\n● 'Decoy Dragon' must be face-up at the time it is declared as the target of your opponent's attacking monster or its effect will not activate.\n● If you have a 'Decoy Dragon' equipped with 'Ring of Magnetism' and your opponent's monster declares an attack against it, the effect of 'Decoy Dragon' is still activated and your opponent's attacking monster must still battle with the LV 7 or higher Dragon that you Special Summon from your GY.\n● If the LV 7 or higher Dragon has an effect that activates when it is Special Summoned, the effect will begin a new Chain after it is Special Summoned by 'Decoy Dragon'. Example: If you Special Summon 'Felgrand Dragon' by using 'Decoy Dragon's' effect, the effect of 'Felgrand Dragon' will activate and it will be able to gain ATK.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● 'Decoy Dragon's' effect is activated during the Battle Step when it is selected as the target for your opponent's attacking monster.\n● 'Decoy Dragon's' effect does not cause a replay.\n● 'Decoy Dragon' must be face-up at the time it is declared as the target of your opponent's attacking monster or its effect will not activate.\n● If you have a 'Decoy Dragon' equipped with 'Ring of Magnetism' and your opponent's monster declares an attack against it, the effect of 'Decoy Dragon' is still activated and your opponent's attacking monster must still battle with the LV 7 or higher Dragon that you Special Summon from your GY.\n● If the LV 7 or higher Dragon has an effect that activates when it is Special Summoned, the effect will begin a new Chain after it is Special Summoned by 'Decoy Dragon'. Example: If you Special Summon 'Felgrand Dragon' by using 'Decoy Dragon's' effect, the effect of 'Felgrand Dragon' will activate and it will be able to gain ATK.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Decoy Dragon\" is activated during the Battle Step when it is selected as the target for your opponent's attacking monster.\\n2. The effect of \"Decoy Dragon\" does not cause a replay.\\n3. \"Decoy Dragon\" must be face-up at the time it is declared as the target of your opponent's attacking monster or its effect will not activate.\\n4. If you have a \"Decoy Dragon\" equipped with \"Ring of Magnetism\" and your opponent's monster declares an attack against it, the effect of \"Decoy Dragon\" is still activated and your opponent's attacking monster must still battle with the Level 7 or higher Dragon-Type monster that you Special Summon from your GY.\\n5. If the Level 7 or higher Dragon-Type monster has an effect that activates when it is Special Summoned, the effect will begin a new Chain after it is Special Summoned by \"Decoy Dragon\".\\n\\nExample: If you Special Summon \"Felgrand Dragon\" by using the effect of \"Decoy Dragon\", the effect of \"Felgrand Dragon\" will activate and it will be able to gain ATK."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

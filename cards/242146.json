@@ -1,0 +1,40 @@
+{
+  "id": 242146,
+  "name": "Ballista of Rampart Smashing",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "If the equipped monster attacks a face-down Defense Position monster, it gains 1500 ATK during damage calculation only.\n●This Continuous-like Effect increases the ATK in Substep 4 - Damage Calculation.\n●Ballista of Rampart Smashing only increases the ATK for damage calculation, then the increase disappears after the end of damage calculation.",
+    "Goat": "●Ballista of Rampart Smashing increases the ATK at damage calculation.\n●Ballista of Rampart Smashing only increases the ATK for damage calculation, then the increase disappears after the end of damage calculation.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Ballista of Rampart Smashing' increases the ATK at damage calculation.\n● 'Ballista of Rampart Smashing' only increases the ATK for damage calculation, then the increase disappears after the end of damage calculation.",
+    "TeleDAD": "● 'Ballista of Rampart Smashing' increases the ATK at damage calculation.\n● 'Ballista of Rampart Smashing' only increases the ATK for damage calculation, then the increase disappears after the end of damage calculation.",
+    "Gladiator": "● 'Ballista of Rampart Smashing' increases the ATK at damage calculation.\n● 'Ballista of Rampart Smashing' only increases the ATK for damage calculation, then the increase disappears after the end of damage calculation.",
+    "ReturnDAD": "● 'Ballista of Rampart Smashing' increases the ATK at damage calculation.\n● 'Ballista of Rampart Smashing' only increases the ATK for damage calculation, then the increase disappears after the end of damage calculation.",
+    "Trooper": "● 'Ballista of Rampart Smashing' increases the ATK at damage calculation.\n● 'Ballista of Rampart Smashing' only increases the ATK for damage calculation, then the increase disappears after the end of damage calculation.",
+    "Circle": "● 'Ballista of Rampart Smashing' increases the ATK at damage calculation.\n● 'Ballista of Rampart Smashing' only increases the ATK for damage calculation, then the increase disappears after the end of damage calculation.",
+    "Stein": "● 'Ballista of Rampart Smashing' increases the ATK at damage calculation.\n● 'Ballista of Rampart Smashing' only increases the ATK for damage calculation, then the increase disappears after the end of damage calculation.",
+    "Base": "1. \"Ballista of Rampart Smashing\" increases the ATK at damage calculation.\\n2. \"Ballista of Rampart Smashing\" only increases the ATK for damage calculation, then the increase disappears after the end of damage calculation."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

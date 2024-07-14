@@ -1,0 +1,40 @@
+{
+  "id": 37576645,
+  "name": "Reckless Greed",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Reckless Greed is activated, causing you to skip your next 2 Draw phases, and you also must skip your Draw Phase due to another effect such as Offerings to the Doomed, the skipped Phases do not accumulate. So if you activate Reckless Greed and Offerings to the Doomed, you only skip 2 Draw Phases.\n●Skipping a Draw Phase is an effect, not a cost, so if Reckless Greed is negated you do not skip your Draw Phases.",
+    "Goat": "●If Reckless Greed is activated, causing you to skip your next 2 Draw phases, and you also must skip your DP due to another effect such as Offerings to the Doomed, the skipped Phases do not accumulate. So if you activate Reckless Greed and Offerings to the Doomed, you only skip 2 Draw Phases.\n●Skipping a DP is an effect, not a cost, so if Reckless Greed is negated you do not skip your Draw Phases. \n●Q: If “Offerings to the Doomed” and “Reckless Greed” are activated during the same turn, would the controller skip their next 2 or 3 Draw Phases? \nA: You would only skip 2. ",
+    "HAT": "● If you activate 2 \"Reckless Greed\" in 1 turn, you only skip 2 Draw Phases, not 4.",
+    "Vegas": "● If you activate 2 \"Reckless Greed\" in 1 turn, you only skip 2 Draw Phases, not 4.",
+    "Meadowlands": "● If you activate 2 \"Reckless Greed\" in 1 turn, you only skip 2 Draw Phases, not 4.",
+    "FireWater": "● If you activate 2 \"Reckless Greed\" in 1 turn, you only skip 2 Draw Phases, not 4.",
+    "Cat": "● If 'Reckless Greed' is activated, causing you to skip your next 2 Draw phases, and you also must skip your Draw Phase due to another effect such as 'Offerings to the Doomed', the skipped Phases do not accumulate. So if you activate 'Reckless Greed' and 'Offerings to the Doomed', you only skip 2 Draw Phases.\n● Skipping a Draw Phase is an effect, not a cost, so if 'Reckless Greed' is negated you do not skip your Draw Phases.",
+    "TeleDAD": "● If 'Reckless Greed' is activated, causing you to skip your next 2 Draw phases, and you also must skip your Draw Phase due to another effect such as 'Offerings to the Doomed', the skipped Phases do not accumulate. So if you activate 'Reckless Greed' and 'Offerings to the Doomed', you only skip 2 Draw Phases.\n● Skipping a Draw Phase is an effect, not a cost, so if 'Reckless Greed' is negated you do not skip your Draw Phases.",
+    "Gladiator": "● If 'Reckless Greed' is activated, causing you to skip your next 2 Draw phases, and you also must skip your Draw Phase due to another effect such as 'Offerings to the Doomed', the skipped Phases do not accumulate. So if you activate 'Reckless Greed' and 'Offerings to the Doomed', you only skip 2 Draw Phases.\n● Skipping a Draw Phase is an effect, not a cost, so if 'Reckless Greed' is negated you do not skip your Draw Phases.",
+    "ReturnDAD": "● If 'Reckless Greed' is activated, causing you to skip your next 2 Draw phases, and you also must skip your Draw Phase due to another effect such as 'Offerings to the Doomed', the skipped Phases do not accumulate. So if you activate 'Reckless Greed' and 'Offerings to the Doomed', you only skip 2 Draw Phases.\n● Skipping a Draw Phase is an effect, not a cost, so if 'Reckless Greed' is negated you do not skip your Draw Phases.",
+    "Trooper": "● If 'Reckless Greed' is activated, causing you to skip your next 2 Draw phases, and you also must skip your Draw Phase due to another effect such as 'Offerings to the Doomed', the skipped Phases do not accumulate. So if you activate 'Reckless Greed' and 'Offerings to the Doomed', you only skip 2 Draw Phases.\n● Skipping a Draw Phase is an effect, not a cost, so if 'Reckless Greed' is negated you do not skip your Draw Phases.",
+    "Circle": "● If 'Reckless Greed' is activated, causing you to skip your next 2 Draw phases, and you also must skip your Draw Phase due to another effect such as 'Offerings to the Doomed', the skipped Phases do not accumulate. So if you activate 'Reckless Greed' and 'Offerings to the Doomed', you only skip 2 Draw Phases.\n● Skipping a Draw Phase is an effect, not a cost, so if 'Reckless Greed' is negated you do not skip your Draw Phases.",
+    "Stein": "● If 'Reckless Greed' is activated, causing you to skip your next 2 Draw phases, and you also must skip your Draw Phase due to another effect such as 'Offerings to the Doomed', the skipped Phases do not accumulate. So if you activate 'Reckless Greed' and 'Offerings to the Doomed', you only skip 2 Draw Phases.\n● Skipping a Draw Phase is an effect, not a cost, so if 'Reckless Greed' is negated you do not skip your Draw Phases.",
+    "Base": "1. If \"Reckless Greed\" is activated, causing you to skip your next 2 Draw phases, and you also must skip your Draw Phase due to another effect such as \"Offerings to the Doomed\", the skipped Phases do not accumulate. So if you activate \"Reckless Greed\" and \"Offerings to the Doomed\", you only skip 2 Draw Phases.\\n2. Skipping a Draw Phase is an effect, not a cost, so if \"Reckless Greed\" is negated you do not skip your Draw Phases."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Draw 2 cards and skip your next 2 Draw Phases.",
+    "Meadowlands": "① Draw 2 cards and skip your next 2 Draw Phases.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

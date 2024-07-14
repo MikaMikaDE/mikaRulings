@@ -1,0 +1,40 @@
+{
+  "id": 5183693,
+  "name": "Amulet of Ambition",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels (during that battle only). When this card is sent to the GY, you can return it to the top of the Deck.\n●The increase in ATK is applied only during Damage Calculation.\n●This card’s effect to return itself to the top of the Deck starts a Chain.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The increase in ATK is applied only during Damage Calculation.\n● This card’s effect to return itself to the top of the Deck starts a Chain.",
+    "TeleDAD": "● The increase in ATK is applied only during Damage Calculation.\n● This card’s effect to return itself to the top of the Deck starts a Chain.",
+    "Gladiator": "● The increase in ATK is applied only during Damage Calculation.\n● This card’s effect to return itself to the top of the Deck starts a Chain.",
+    "ReturnDAD": "● The increase in ATK is applied only during Damage Calculation.\n● This card’s effect to return itself to the top of the Deck starts a Chain.",
+    "Trooper": "● The increase in ATK is applied only during Damage Calculation.\n● This card’s effect to return itself to the top of the Deck starts a Chain.",
+    "Circle": "● The increase in ATK is applied only during Damage Calculation.\n● This card’s effect to return itself to the top of the Deck starts a Chain.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The increase in ATK is applied only during Damage Calculation.\\n2. This card's effect to return itself to the top of the Deck starts a Chain."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

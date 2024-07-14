@@ -1,0 +1,40 @@
+{
+  "id": 99189322,
+  "name": "Arcana Call",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Select 1 Arcana Force monster you control. Remove from play 1 Arcana Force monster from either player's GY. Until the End Phase, the selected monster's effect becomes the removed monster's effect for the same coin toss result.\n●Arcana Call targets 1 Arcana Force monster you control and 1 Arcana Force monster in the GY.\n●If an effect is chained that removes the Arcana Force monster from the GY, the effect of Arcana Call disappears.\n●The heads/tails effect of the Arcana Force monster you control is replaced by the effect of the removed from play Arcana Force monster. It does not have both effects simultaneously. The monster’s original heads/tails effect is reapplied when Arcana Call's effect disappears in the End Phase.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Arcana Call' targets 1 'Arcana Force' monster you control and 1 'Arcana Force' monster in the GY. \n● If an effect is chained that removes the 'Arcana Force' monster from the GY, the effect of 'Arcana Call' disappears.\n● The heads/tails effect of the 'Arcana Force' monster you control is replaced by the effect of the removed from play 'Arcana Force' monster. It does not have both effects simultaneously. The monster’s original heads/tails effect is reapplied when 'Arcana Call's' effect disappears in the End Phase.",
+    "TeleDAD": "● 'Arcana Call' targets 1 'Arcana Force' monster you control and 1 'Arcana Force' monster in the GY. \n● If an effect is chained that removes the 'Arcana Force' monster from the GY, the effect of 'Arcana Call' disappears.\n● The heads/tails effect of the 'Arcana Force' monster you control is replaced by the effect of the removed from play 'Arcana Force' monster. It does not have both effects simultaneously. The monster’s original heads/tails effect is reapplied when 'Arcana Call's' effect disappears in the End Phase.",
+    "Gladiator": "● 'Arcana Call' targets 1 'Arcana Force' monster you control and 1 'Arcana Force' monster in the GY. \n● If an effect is chained that removes the 'Arcana Force' monster from the GY, the effect of 'Arcana Call' disappears.\n● The heads/tails effect of the 'Arcana Force' monster you control is replaced by the effect of the removed from play 'Arcana Force' monster. It does not have both effects simultaneously. The monster’s original heads/tails effect is reapplied when 'Arcana Call's' effect disappears in the End Phase.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Arcana Call\" targets 1 'Arcana Force' monster you control and 1 'Arcana Force' monster in the GY.\\n2. If an effect is chained that removes the 'Arcana Force' monster from the GY, the effect of \"Arcana Call\" disappears.\\n3. The heads/tails effect of the 'Arcana Force' monster you control is replaced by the effect of the removed from play 'Arcana Force' monster. It does not have both effects simultaneously. The monster's original heads/tails effect is reapplied when the effect of \"Arcana Call\" disappears in the End Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

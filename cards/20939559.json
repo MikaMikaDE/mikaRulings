@@ -1,0 +1,44 @@
+{
+  "id": 20939559,
+  "name": "Shadowslayer",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 200,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●For Shadowslayer (unlike cards like Black Tyranno and Drillago), only the Monster Card Zones are looked at. If all of your opponent’s monsters are in Defense Position, then Shadowslayer can attack directly even if your opponent has Spell and Trap Cards on the field.\n●If Shadowslayer attacks a face-up Attack Position monster, and the opponent activates Book of Moon so that his only monster on the field is now in Defense Position, a replay occurs, because Shadowslayer is now able to attack directly.\n●If all of your opponent’s monsters are in Defense Position but one of them is equipped with Ring of Magnetism, Shadowslayer cannot attack directly and must attack that monster if it attacks.",
+    "Goat": "●For Shadowslayer (unlike cards like Black Tyranno and Drillago), only the Monster Zones are looked at. If all of your opponent’s monsters are in Defense Position, then Shadowslayer can attack directly even if your opponent has Spell/Trap Cards on the field.\n●If Shadowslayer attacks a face-up Attack Position monster, and the opponent activates Book of Moon so that his only monster on the field is now in Defense Position, a replay occurs, because Shadowslayer is now able to attack directly.\n●If all of your opponent’s monsters are in Defense Position but one of them is equipped with Ring of Magnetism, Shadowslayer cannot attack directly and must attack that monster if it attacks.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● For 'Shadowslayer' (unlike cards like 'Black Tyranno' and 'Drillago'), only the Monster Card Zones are looked at. If all of your opponent’s monsters are in Defense Position, then 'Shadowslayer' can attack directly even if your opponent has Spell/Trap Cards on the field.\n● If 'Shadowslayer' attacks a Attack Position monster, and the opponent activates 'Book of Moon' so that his only monster on the field is now in Defense Position, a replay occurs, because 'Shadowslayer' is now able to attack directly.\n● If all of your opponent’s monsters are in Defense Position but one of them is equipped with 'Ring of Magnetism', 'Shadowslayer' can't attack directly and must attack that monster if it attacks.",
+    "TeleDAD": "● For 'Shadowslayer' (unlike cards like 'Black Tyranno' and 'Drillago'), only the Monster Card Zones are looked at. If all of your opponent’s monsters are in Defense Position, then 'Shadowslayer' can attack directly even if your opponent has Spell/Trap Cards on the field.\n● If 'Shadowslayer' attacks a Attack Position monster, and the opponent activates 'Book of Moon' so that his only monster on the field is now in Defense Position, a replay occurs, because 'Shadowslayer' is now able to attack directly.\n● If all of your opponent’s monsters are in Defense Position but one of them is equipped with 'Ring of Magnetism', 'Shadowslayer' can't attack directly and must attack that monster if it attacks.",
+    "Gladiator": "● For 'Shadowslayer' (unlike cards like 'Black Tyranno' and 'Drillago'), only the Monster Card Zones are looked at. If all of your opponent’s monsters are in Defense Position, then 'Shadowslayer' can attack directly even if your opponent has Spell/Trap Cards on the field.\n● If 'Shadowslayer' attacks a Attack Position monster, and the opponent activates 'Book of Moon' so that his only monster on the field is now in Defense Position, a replay occurs, because 'Shadowslayer' is now able to attack directly.\n● If all of your opponent’s monsters are in Defense Position but one of them is equipped with 'Ring of Magnetism', 'Shadowslayer' can't attack directly and must attack that monster if it attacks.",
+    "ReturnDAD": "● For 'Shadowslayer' (unlike cards like 'Black Tyranno' and 'Drillago'), only the Monster Card Zones are looked at. If all of your opponent’s monsters are in Defense Position, then 'Shadowslayer' can attack directly even if your opponent has Spell/Trap Cards on the field.\n● If 'Shadowslayer' attacks a Attack Position monster, and the opponent activates 'Book of Moon' so that his only monster on the field is now in Defense Position, a replay occurs, because 'Shadowslayer' is now able to attack directly.\n● If all of your opponent’s monsters are in Defense Position but one of them is equipped with 'Ring of Magnetism', 'Shadowslayer' can't attack directly and must attack that monster if it attacks.",
+    "Trooper": "● For 'Shadowslayer' (unlike cards like 'Black Tyranno' and 'Drillago'), only the Monster Card Zones are looked at. If all of your opponent’s monsters are in Defense Position, then 'Shadowslayer' can attack directly even if your opponent has Spell/Trap Cards on the field.\n● If 'Shadowslayer' attacks a Attack Position monster, and the opponent activates 'Book of Moon' so that his only monster on the field is now in Defense Position, a replay occurs, because 'Shadowslayer' is now able to attack directly.\n● If all of your opponent’s monsters are in Defense Position but one of them is equipped with 'Ring of Magnetism', 'Shadowslayer' can't attack directly and must attack that monster if it attacks.",
+    "Circle": "● For 'Shadowslayer' (unlike cards like 'Black Tyranno' and 'Drillago'), only the Monster Card Zones are looked at. If all of your opponent’s monsters are in Defense Position, then 'Shadowslayer' can attack directly even if your opponent has Spell/Trap Cards on the field.\n● If 'Shadowslayer' attacks a Attack Position monster, and the opponent activates 'Book of Moon' so that his only monster on the field is now in Defense Position, a replay occurs, because 'Shadowslayer' is now able to attack directly.\n● If all of your opponent’s monsters are in Defense Position but one of them is equipped with 'Ring of Magnetism', 'Shadowslayer' can't attack directly and must attack that monster if it attacks.",
+    "Stein": "● For 'Shadowslayer' (unlike cards like 'Black Tyranno' and 'Drillago'), only the Monster Card Zones are looked at. If all of your opponent’s monsters are in Defense Position, then 'Shadowslayer' can attack directly even if your opponent has Spell/Trap Cards on the field.\n● If 'Shadowslayer' attacks a Attack Position monster, and the opponent activates 'Book of Moon' so that his only monster on the field is now in Defense Position, a replay occurs, because 'Shadowslayer' is now able to attack directly.\n● If all of your opponent’s monsters are in Defense Position but one of them is equipped with 'Ring of Magnetism', 'Shadowslayer' can't attack directly and must attack that monster if it attacks.",
+    "Base": "1. For \"Shadowslayer\" (unlike cards like \"Black Tyranno\" and \"Drillago\"), only the Monster Card Zones are looked at. If all of your opponent's monsters are in Defense Position, then \"Shadowslayer\" can attack directly even if your opponent has Spell and Trap Cards on the field.\\n2. If \"Shadowslayer\" attacks a face-up Attack Position monster, and the opponent activates \"Book of Moon\" so that his only monster on the field is now in Defense Position, a replay occurs, because \"Shadowslayer\" is now able to attack directly.\\n3. If all of your opponent's monsters are in Defense Position but one of them is equipped with \"Ring of Magnetism\", \"Shadowslayer\" cannot attack directly and must attack that monster if it attacks."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 97452817,
+  "name": "Arcana Force XVIII - The Moon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 2800,
+    "level": 7,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) When this card is Summoned, toss a coin: ● Heads: During your Standby Phase, you can Special Summon 1 Moon Token (Fairy-Type/LIGHT/Level 1/ATK 0/DEF 0). ● Tails: During each of your End Phases, select 1 monster you control and give control of it to your opponent.\n●The (1) Trigger Effect is mandatory, it activates & resolves on the field.\n●When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by Skill Drain, but this card will not forget which effect is gained while face-up.\n●The (HEADS) Trigger Effect is optional, it activates & resolves on the field.\n●The (TAILS) Trigger Effect is mandatory, it activates & resolves on the field.\n●This effect targets 1 monster you control.\n●Monsters given to your opponent with Arcana Force XVIII - The Moon's tails effect will remain on your opponent's side of the field when Arcana Force XVIII - The Moon is removed from the field or flipped face-down.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Arcana Force XVIII - The Moon's' tails effect targets 1 monster you control.\n● Monsters given to your opponent with 'Arcana Force XVIII - The Moon's' tails effect will remain on your opponent's field when 'Arcana Force XVIII - The Moon' leaves the field or flipped face-down.",
+    "TeleDAD": "● 'Arcana Force XVIII - The Moon's' tails effect targets 1 monster you control.\n● Monsters given to your opponent with 'Arcana Force XVIII - The Moon's' tails effect will remain on your opponent's field when 'Arcana Force XVIII - The Moon' leaves the field or flipped face-down.",
+    "Gladiator": "● 'Arcana Force XVIII - The Moon's' tails effect targets 1 monster you control.\n● Monsters given to your opponent with 'Arcana Force XVIII - The Moon's' tails effect will remain on your opponent's field when 'Arcana Force XVIII - The Moon' leaves the field or flipped face-down.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The tails effect of \"Arcana Force XVIII - The Moon\" targets 1 monster you control.\\n2. Monsters given to your opponent with the tails effect of \"Arcana Force XVIII - The Moon\" will remain on your opponent's side of the field when \"Arcana Force XVIII - The Moon\" is removed from the field or flipped face-down."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 23232295,
+  "name": "Battlin' Boxer Lead Yoke",
+  "Stats": {
+    "type": "XYZ Monster",
+    "frameType": "xyz",
+    "atk": 2200,
+    "def": 2000,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If this card's effects are negated, it loses any gained ATK.\n● If one or more of this card's Materials become attached to another monster, this card gains 800 ATK.",
+    "Vegas": "● If this card's effects are negated, it loses any gained ATK.\n● If one or more of this card's Materials become attached to another monster, this card gains 800 ATK.",
+    "Meadowlands": "● If this card's effects are negated, it loses any gained ATK.\n● If one or more of this card's Materials become attached to another monster, this card gains 800 ATK.",
+    "FireWater": "● If this card's effects are negated, it loses any gained ATK.\n● If one or more of this card's Materials become attached to another monster, this card gains 800 ATK.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "If a \"Battlin' Boxer\" monster(s) you control would be destroyed by battle or by a card effect, you can detach 1 Xyz Material from this card instead of destroying 1 of those monsters. When an Xyz Material(s) is detached from this card: This card gains 800 ATK.",
+    "Meadowlands": "If a \"Battlin' Boxer\" monster(s) you control would be destroyed by battle or by a card effect, you can detach 1 Xyz Material from this card instead of destroying 1 of those monsters. When an Xyz Material(s) is detached from this card: This card gains 800 ATK.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

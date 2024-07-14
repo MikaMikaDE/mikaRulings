@@ -1,0 +1,40 @@
+{
+  "id": 4440873,
+  "name": "Drastic Drop Off",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "\n●If your opponent discards card(s) after drawing or adding card(s) to their hand as part of the same effect resolution, you cannot activate Drastic Drop Off. For example, when your opponent resolves Graceful Charity, you cannot activate Drastic Drop Off.\n●If you're the one using this card, tell your opponent that you might want to activate an effect before they shuffle the drawn card into their hand. Also ask them if they wish to activate anything before you do.\n●If your opponent draws Mystical Space Typhoon for their Normal Draw, they retain priority to activate it during the Draw Phase. If they do so, you can no longer activate Drastic Drop Off as the card they drew is no longer in their hand.\n●If Destiny Hero - Dasher is in your opponent's GY, and you have a Set Drastic Drop Off: when your opponent draws a Monster Card during their Draw Phase, they can activate Dasher's effect (as Chain Link 1). However, you can chain Drastic Drop Off to discard the Monster Card they drew.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If your opponent discards card(s) after drawing or adding card(s) to their hand as part of the same effect resolution, you can't activate 'Drastic Drop Off'. For example, when your opponent resolves 'Graceful Charity', you can't activate 'Drastic Drop Off'.",
+    "TeleDAD": "● If your opponent discards card(s) after drawing or adding card(s) to their hand as part of the same effect resolution, you can't activate 'Drastic Drop Off'. For example, when your opponent resolves 'Graceful Charity', you can't activate 'Drastic Drop Off'.",
+    "Gladiator": "● If your opponent discards card(s) after drawing or adding card(s) to their hand as part of the same effect resolution, you can't activate 'Drastic Drop Off'. For example, when your opponent resolves 'Graceful Charity', you can't activate 'Drastic Drop Off'.",
+    "ReturnDAD": "● If your opponent discards card(s) after drawing or adding card(s) to their hand as part of the same effect resolution, you can't activate 'Drastic Drop Off'. For example, when your opponent resolves 'Graceful Charity', you can't activate 'Drastic Drop Off'.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If your opponent discards card(s) after drawing or adding card(s) to their hand as part of the same effect resolution, you cannot activate \"Drastic Drop Off\". For example, when your opponent resolves \"Graceful Charity\", you cannot activate \"Drastic Drop Off\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

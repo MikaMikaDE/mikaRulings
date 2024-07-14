@@ -1,0 +1,44 @@
+{
+  "id": 51192573,
+  "name": "Cosmic Horror Gangi'el",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2600,
+    "def": 2000,
+    "level": 7,
+    "race": "Reptile",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you activate “Soul Exchange” and target 1 of your opponent’s monsters, “Cosmic Horror Gangi’el” cannot be Tribute Summoned by Tributing just that 1 monster. That monster is still on your opponent’s side of the field, so it does not satisfy the requirement.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you activate “Soul Exchange” and target 1 of your opponent’s monsters, “Cosmic Horror Gangi’el” can't be Tribute Summoned by Tributing just that 1 monster. That monster is still on your opponent’s side of the field, so it does not satisfy the requirement.",
+    "TeleDAD": "● If you activate “Soul Exchange” and target 1 of your opponent’s monsters, “Cosmic Horror Gangi’el” can't be Tribute Summoned by Tributing just that 1 monster. That monster is still on your opponent’s side of the field, so it does not satisfy the requirement.",
+    "Gladiator": "● If you activate “Soul Exchange” and target 1 of your opponent’s monsters, “Cosmic Horror Gangi’el” can't be Tribute Summoned by Tributing just that 1 monster. That monster is still on your opponent’s side of the field, so it does not satisfy the requirement.",
+    "ReturnDAD": "● If you activate “Soul Exchange” and target 1 of your opponent’s monsters, “Cosmic Horror Gangi’el” can't be Tribute Summoned by Tributing just that 1 monster. That monster is still on your opponent’s side of the field, so it does not satisfy the requirement.",
+    "Trooper": "● If you activate “Soul Exchange” and target 1 of your opponent’s monsters, “Cosmic Horror Gangi’el” can't be Tribute Summoned by Tributing just that 1 monster. That monster is still on your opponent’s side of the field, so it does not satisfy the requirement.",
+    "Circle": "● If you activate “Soul Exchange” and target 1 of your opponent’s monsters, “Cosmic Horror Gangi’el” can't be Tribute Summoned by Tributing just that 1 monster. That monster is still on your opponent’s side of the field, so it does not satisfy the requirement.",
+    "Stein": "● If you activate “Soul Exchange” and target 1 of your opponent’s monsters, “Cosmic Horror Gangi’el” can't be Tribute Summoned by Tributing just that 1 monster. That monster is still on your opponent’s side of the field, so it does not satisfy the requirement.",
+    "Base": "1. If you activate \"Soul Exchange\" and target 1 of your opponent's monsters, \"Cosmic Horror Gangi'el\" cannot be Tribute Summoned by Tributing just that 1 monster. That monster is still on your opponent's side of the field, so it does not satisfy the requirement."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

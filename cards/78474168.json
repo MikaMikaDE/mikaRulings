@@ -1,0 +1,40 @@
+{
+  "id": 78474168,
+  "name": "Breakthrough Skill",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "This effect applies for the entire turn (it does not stop applying during the End Phase).\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\nOnly effects which activate/apply on the field are negated.\n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.\n\nThe ② is a card effect, but not a card's activation. \n● You can activate it as a Spell Speed 2 effect.\n● It can't be negated by \"Dark Bribe\" or \"Naturia Barkion\".",
+    "Vegas": "This effect applies for the entire turn (it does not stop applying during the End Phase).\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\nOnly effects which activate/apply on the field are negated.\n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.\n\nThe ② is a card effect, but not a card's activation. \n● You can activate it as a Spell Speed 2 effect.\n● It can't be negated by \"Dark Bribe\" or \"Naturia Barkion\".",
+    "Meadowlands": "This effect applies for the entire turn (it does not stop applying during the End Phase).\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\nOnly effects which activate/apply on the field are negated.\n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.\n\nThe ② is a card effect, but not a card's activation. \n● You can activate it as a Spell Speed 2 effect.\n● It can't be negated by \"Dark Bribe\" or \"Naturia Barkion\".",
+    "FireWater": "This effect applies for the entire turn (it does not stop applying during the End Phase).\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\nOnly effects which activate/apply on the field are negated.\n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.\n\nThe ② is a card effect, but not a card's activation. \n● You can activate it as a Spell Speed 2 effect.\n● It can't be negated by \"Dark Bribe\" or \"Naturia Barkion\".",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Target 1 face-up Effect Monster your opponent controls; \nUntil the end of this turn, negate the effects of that opponent's face-up monster. \n② During your turn (except the turn this card was sent to the GY): You can banish it from your GY, \nthen target 1 face-up Effect Monster your opponent controls; \nUntil the end of this turn, negate the effects of that opponent's face-up monster.",
+    "Meadowlands": "① Target 1 face-up Effect Monster your opponent controls; \nUntil the end of this turn, negate the effects of that opponent's face-up monster. \n② During your turn (except the turn this card was sent to the GY): You can banish it from your GY, \nthen target 1 face-up Effect Monster your opponent controls; \nUntil the end of this turn, negate the effects of that opponent's face-up monster.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

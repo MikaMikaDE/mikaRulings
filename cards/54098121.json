@@ -1,0 +1,44 @@
+{
+  "id": 54098121,
+  "name": "Mysterious Puppeteer",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1500,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●When you have Mysterious Puppeteer face-up on the field, if you Summon a monster and you opponent activates Trap Hole your monster is destroyed and you still gain 500 Life Points, since the monster was Summoned and then destroyed.",
+    "Goat": "●When you have Mysterious Puppeteer face-up on the field, if you Summon a monster and you opponent activates Trap Hole your monster is destroyed and you still gain 500 LP, since the monster was Summoned and then destroyed. \n●Q: If the opponent summons and Effect Monster such as “Exiled Force” while “Mysterious Puppeteer” is face-up on the field, can “Trap Hole” be chained to the effect of “Mysterious Puppeteer” destroying the summoned monster before its effect can be activated? \nA: The Mysterious Puppeteer's effect would activate immediatly after the successful Summon of Exiled Force. The opponent could chain to this with Trap Hole and target the Exiled Force. In this situation, Exiled Force will not get to activate its effect and would be destroyed by Trap Hole during the resolution of the chain. \n●  \n●Q: If Skill Drain is applying, would the Mysterious Puppeteer's effect still attempt to work, removing the Turn Player's priority for a card such as Exiled Force? \nA: The Mysterious Puppeteer's effect would still activate, but it would be negated by Skill Drain when it resolves. Skill Drain cannot prevent the activation of a monster's effect, but it will negate the effect if it resolves while the monster is face-up on the field. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When you have 'Mysterious Puppeteer' applying, if you Summon a monster and you opponent activates 'Trap Hole' your monster is destroyed and you still gain 500 LP, since the monster was Summoned and then destroyed.",
+    "TeleDAD": "● When you have 'Mysterious Puppeteer' applying, if you Summon a monster and you opponent activates 'Trap Hole' your monster is destroyed and you still gain 500 LP, since the monster was Summoned and then destroyed.",
+    "Gladiator": "● When you have 'Mysterious Puppeteer' applying, if you Summon a monster and you opponent activates 'Trap Hole' your monster is destroyed and you still gain 500 LP, since the monster was Summoned and then destroyed.",
+    "ReturnDAD": "● When you have 'Mysterious Puppeteer' applying, if you Summon a monster and you opponent activates 'Trap Hole' your monster is destroyed and you still gain 500 LP, since the monster was Summoned and then destroyed.",
+    "Trooper": "● When you have 'Mysterious Puppeteer' applying, if you Summon a monster and you opponent activates 'Trap Hole' your monster is destroyed and you still gain 500 LP, since the monster was Summoned and then destroyed.",
+    "Circle": "● When you have 'Mysterious Puppeteer' applying, if you Summon a monster and you opponent activates 'Trap Hole' your monster is destroyed and you still gain 500 LP, since the monster was Summoned and then destroyed.",
+    "Stein": "● When you have 'Mysterious Puppeteer' applying, if you Summon a monster and you opponent activates 'Trap Hole' your monster is destroyed and you still gain 500 LP, since the monster was Summoned and then destroyed.",
+    "Base": "1. When you have \"Mysterious Puppeteer\" face-up on the field, if you Summon a monster and you opponent activates \"Trap Hole\" your monster is destroyed and you still gain 500 Life Points, since the monster was Summoned and then destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

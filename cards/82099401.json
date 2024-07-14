@@ -1,0 +1,44 @@
+{
+  "id": 82099401,
+  "name": "Crystal Seer",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": "Spellcaster",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●If there are less than 2 cards in your deck when this effect resolves, nothing happens.\n●This effect can't activate if 'Thunder King Rai-Oh' is applying.\n●The cards aren't revealed to your opponent \n(on Duelingbook, this can be resolved by drawing 2 cards, then placing 1 of the drawn cards on the bottom).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have 1 or fewer cards in your Deck when this card’s effect resolved, the effect disappears, and you can't pick up any cards from your Deck.\n● If your opponent's 'Parasite Paracide' is among the card's you pick up with the effect of 'Crystal Seer', you can add that card to your hand.",
+    "TeleDAD": "● If you have 1 or fewer cards in your Deck when this card’s effect resolved, the effect disappears, and you can't pick up any cards from your Deck.\n● If your opponent's 'Parasite Paracide' is among the card's you pick up with the effect of 'Crystal Seer', you can add that card to your hand.",
+    "Gladiator": "● If you have 1 or fewer cards in your Deck when this card’s effect resolved, the effect disappears, and you can't pick up any cards from your Deck.\n● If your opponent's 'Parasite Paracide' is among the card's you pick up with the effect of 'Crystal Seer', you can add that card to your hand.",
+    "ReturnDAD": "● If you have 1 or fewer cards in your Deck when this card’s effect resolved, the effect disappears, and you can't pick up any cards from your Deck.\n● If your opponent's 'Parasite Paracide' is among the card's you pick up with the effect of 'Crystal Seer', you can add that card to your hand.",
+    "Trooper": "● If you have 1 or fewer cards in your Deck when this card’s effect resolved, the effect disappears, and you can't pick up any cards from your Deck.",
+    "Circle": "● If you have 1 or fewer cards in your Deck when this card’s effect resolved, the effect disappears, and you can't pick up any cards from your Deck.\n● If your opponent's 'Parasite Paracide' is among the card's you pick up with the effect of 'Crystal Seer', you can add that card to your hand.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you have 1 or fewer cards in your Deck when this card's effect resolved, the effect disappears, and you cannot pick up any cards from your Deck.\\n2. If your opponent's \"Parasite Paracide\" is among the card's you pick up with the effect of \"Crystal Seer\", you can add that card to your hand.\\n3. [FORUM] When resolving the effect of \"Crystal Seer\", you do not reveal the 2 picked up cards to your opponent. You choose one to be added to your hand, and the other is placed on the bottom of the Deck."
+  },
+  "PSCT": {
+    "Tengu": "① FLIP: Look at the top 2 cards of your deck, add 1 of them to your hand, also place the other on the bottom of the Deck.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

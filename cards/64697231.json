@@ -1,0 +1,40 @@
+{
+  "id": 64697231,
+  "name": "Trap Dustshoot",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "● If playing online, you may take notes of your opponent's cards. In real-life Duels, you may not.\n(This disparity is due to the nature of online play, as it's impossible to enforce note-taking: \nOnline, you could screenshot the cards in your opponent's hand or write them down in a notepad, \nand nobody would be able to tell that you're note-taking).",
+    "Goat": "●You can select your own card that was taken by your opponent with Exchange. The card returns to the owner's deck (yours, in this case).",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can select your own card that was taken by your opponent with 'Exchange'. The card returns to the owner's deck (yours, in this case).",
+    "TeleDAD": "● You can select your own card that was taken by your opponent with 'Exchange'. The card returns to the owner's deck (yours, in this case).",
+    "Gladiator": "● You can select your own card that was taken by your opponent with 'Exchange'. The card returns to the owner's deck (yours, in this case).",
+    "ReturnDAD": "● You can select your own card that was taken by your opponent with 'Exchange'. The card returns to the owner's deck (yours, in this case).",
+    "Trooper": "● You can select your own card that was taken by your opponent with 'Exchange'. The card returns to the owner's deck (yours, in this case).",
+    "Circle": "● You can select your own card that was taken by your opponent with 'Exchange'. The card returns to the owner's deck (yours, in this case).",
+    "Stein": "● You can select your own card that was taken by your opponent with 'Exchange'. The card returns to the owner's deck (yours, in this case).",
+    "Base": "1. You can select your own card that was taken by your opponent with \"Exchange\". The card returns to the owner's deck (yours, in this case).\\n2. [FORUM] Part of the effect of \"Trap Dustshoot\" is to reveal your hand to your opponent. That means your opponent may look at and read the cards in your hand. It doesn't matter if you have Monster cards or not."
+  },
+  "PSCT": {
+    "Tengu": "① If your opponent has 4 or more cards in their hand: \nLook at their hand and shuffle 1 Monster from it into the Deck (if any).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

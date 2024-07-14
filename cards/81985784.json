@@ -1,0 +1,44 @@
+{
+  "id": 81985784,
+  "name": "Des Feral Imp",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 1800,
+    "level": 4,
+    "race": "Reptile",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "●Des Feral Imp's effect targets a card in the GY.\n●Q: Can the effect of “Des Feral Imp” be used to return a Fusion Monster from the GY to the Fusion Deck?\nA: Yes, this would be fine.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Des Feral Imp''s effect targets a card in the GY.",
+    "TeleDAD": "● 'Des Feral Imp''s effect targets a card in the GY.",
+    "Gladiator": "● 'Des Feral Imp''s effect targets a card in the GY.",
+    "ReturnDAD": "● 'Des Feral Imp''s effect targets a card in the GY.",
+    "Trooper": "● 'Des Feral Imp''s effect targets a card in the GY.",
+    "Circle": "● 'Des Feral Imp''s effect targets a card in the GY.",
+    "Stein": "● 'Des Feral Imp''s effect targets a card in the GY.",
+    "Base": "1. The effect of \"Des Feral Imp\" targets a card in the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

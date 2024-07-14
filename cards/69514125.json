@@ -1,0 +1,44 @@
+{
+  "id": 69514125,
+  "name": "Avenging Knight Parshath",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2600,
+    "def": 2100,
+    "level": 8,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Avenging Knight Parshath's' first effect is an Ignition Effect. Its second effect is a Continuous Effect.",
+    "TeleDAD": "● 'Avenging Knight Parshath's' first effect is an Ignition Effect. Its second effect is a Continuous Effect.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The first effect of \"Avenging Knight Parshath\" is an Ignition Effect. Its second effect is a Continuous Effect."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1 or more non-Tuner LIGHTs\n① Once per turn: You can target 1 face-up monster your opponent controls; \nchange that target's battle position. \n② Inflicts Piercing Damage.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 98049038,
+  "name": "Stealthroid",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 0,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If an effect is chained to your “Stealthroid’s” effect that removes every other “roid” monster from your side of the field, the effect of your “Stealthroid” disappears.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If an effect is chained to your “Stealthroid’s” effect that removes every other “roid” monster from your side of the field, the effect of your “Stealthroid” disappears.",
+    "TeleDAD": "● If an effect is chained to your “Stealthroid’s” effect that removes every other “roid” monster from your side of the field, the effect of your “Stealthroid” disappears.",
+    "Gladiator": "● If an effect is chained to your “Stealthroid’s” effect that removes every other “roid” monster from your side of the field, the effect of your “Stealthroid” disappears.",
+    "ReturnDAD": "● If an effect is chained to your “Stealthroid’s” effect that removes every other “roid” monster from your side of the field, the effect of your “Stealthroid” disappears.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● If an effect is chained to your “Stealthroid’s” effect that removes every other “roid” monster from your side of the field, the effect of your “Stealthroid” disappears.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If an effect is chained to the effect of your \"Stealthroid\" that removes every other 'roid' monster from your side of the field, the effect of your \"Stealthroid\" disappears."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

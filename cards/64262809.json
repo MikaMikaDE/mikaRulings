@@ -1,0 +1,44 @@
+{
+  "id": 64262809,
+  "name": "Dragon Ice",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 2200,
+    "level": 5,
+    "race": "Dragon",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "(1) When your opponent Special Summons a monster, you can discard 1 card to Special Summon this card from your hand or GY. (2) There can only be 1 face-up Dragon Ice monster on the field.\n●The (1) optional Trigger Effect CANNOT be activated in the Damage Step.\n●This is similar to Green Baboon, Defender of the Forest's, whose rulings were updated.\n●This effect does not target.\n●Discarding 1 card is a cost. Dragon Ice itself can be discarded as cost, and then Special Summon from your GY.\n●The (2) Unclassified effect applies while Dragon Ice is face-up. This effect cannot be negated.\n●You can Special Summon multiple copies of Dragon Ice by Return from the Different Dimension. However, excess copies will be destroyed by game mechanic before you proceed to resolve the next link in the chain (or enter an open gamestate).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Dragon Ice's' effect can be activated in the Damage Step.\n● 'Dragon Ice's' effect does not target.\n● 'Dragon Ice' can be discarded to activate its own effect. You can then Special Summon the discarded 'Dragon Ice' from your GY.",
+    "TeleDAD": "● 'Dragon Ice's' effect can be activated in the Damage Step.\n● 'Dragon Ice's' effect does not target.\n● 'Dragon Ice' can be discarded to activate its own effect. You can then Special Summon the discarded 'Dragon Ice' from your GY.",
+    "Gladiator": "● 'Dragon Ice's' effect can be activated in the Damage Step.\n● 'Dragon Ice's' effect does not target.\n● 'Dragon Ice' can be discarded to activate its own effect. You can then Special Summon the discarded 'Dragon Ice' from your GY.",
+    "ReturnDAD": "● 'Dragon Ice's' effect can be activated in the Damage Step.\n● 'Dragon Ice's' effect does not target.\n● 'Dragon Ice' can be discarded to activate its own effect. You can then Special Summon the discarded 'Dragon Ice' from your GY.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Dragon Ice\" cannot be activated in the Damage Step.\\n2. The effect of \"Dragon Ice\" does not target.\\n3. \"Dragon Ice\" can be discarded to activate its own effect. You can then Special Summon the discarded \"Dragon Ice\" from your GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

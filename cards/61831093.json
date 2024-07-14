@@ -1,0 +1,44 @@
+{
+  "id": 61831093,
+  "name": "Greenkappa",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 650,
+    "def": 900,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If there is only 1 face-down Spell or Trap Card on the field when the effect of “Greenkappa” is activated, the effect disappears.\n●You can chain to the effect of “Greenkappa”, even with the targeted Spell or Trap Cards. If only 1 of the 2 cards is chained, “Greenkappa” will still resolve and destroy the other. If “Greenkappa” is destroyed in a chain to its effect (such as with “Torrential Tribute”) its effect still resolves.\n●Since “Greenkappa” targets, you can use “Fake Trap” to save your Trap Card(s) that were targeted by “Greenkappa”.",
+    "Goat": "●If there is only 1 face-down Spell/Trap Card on the field when the effect of “Greenkappa” is activated, the effect disappears.\n●You can chain to the effect of “Greenkappa”, even with the targeted Spell/Trap Cards. If only 1 of the 2 cards is chained, “Greenkappa” will still resolve and destroy the other. If “Greenkappa” is destroyed in a chain to its effect (such as with “Torrential Tribute”) its effect still resolves.\n●Since “Greenkappa” targets, you can use “Fake Trap” to save your Trap Card(s) that were targeted by “Greenkappa”.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If there is only 1 face-down Spell/Trap Card on the field when the effect of “Greenkappa” is activated, the effect disappears.\n● You can chain to the effect of “Greenkappa”, even with the targeted Spell/Trap Cards. If only 1 of the 2 cards is chained, “Greenkappa” will still resolve and destroy the other. If “Greenkappa” is destroyed in a chain to its effect (such as with “Torrential Tribute”) its effect still resolves.\n● Since “Greenkappa” targets, you can use “Fake Trap” to save your Trap Card(s) that were targeted by “Greenkappa”.",
+    "TeleDAD": "● If there is only 1 face-down Spell/Trap Card on the field when the effect of “Greenkappa” is activated, the effect disappears.\n● You can chain to the effect of “Greenkappa”, even with the targeted Spell/Trap Cards. If only 1 of the 2 cards is chained, “Greenkappa” will still resolve and destroy the other. If “Greenkappa” is destroyed in a chain to its effect (such as with “Torrential Tribute”) its effect still resolves.\n● Since “Greenkappa” targets, you can use “Fake Trap” to save your Trap Card(s) that were targeted by “Greenkappa”.",
+    "Gladiator": "● If there is only 1 face-down Spell/Trap Card on the field when the effect of “Greenkappa” is activated, the effect disappears.\n● You can chain to the effect of “Greenkappa”, even with the targeted Spell/Trap Cards. If only 1 of the 2 cards is chained, “Greenkappa” will still resolve and destroy the other. If “Greenkappa” is destroyed in a chain to its effect (such as with “Torrential Tribute”) its effect still resolves.\n● Since “Greenkappa” targets, you can use “Fake Trap” to save your Trap Card(s) that were targeted by “Greenkappa”.",
+    "ReturnDAD": "● If there is only 1 face-down Spell/Trap Card on the field when the effect of “Greenkappa” is activated, the effect disappears.\n● You can chain to the effect of “Greenkappa”, even with the targeted Spell/Trap Cards. If only 1 of the 2 cards is chained, “Greenkappa” will still resolve and destroy the other. If “Greenkappa” is destroyed in a chain to its effect (such as with “Torrential Tribute”) its effect still resolves.\n● Since “Greenkappa” targets, you can use “Fake Trap” to save your Trap Card(s) that were targeted by “Greenkappa”.",
+    "Trooper": "● If there is only 1 face-down Spell/Trap Card on the field when the effect of “Greenkappa” is activated, the effect disappears.\n● You can chain to the effect of “Greenkappa”, even with the targeted Spell/Trap Cards. If only 1 of the 2 cards is chained, “Greenkappa” will still resolve and destroy the other. If “Greenkappa” is destroyed in a chain to its effect (such as with “Torrential Tribute”) its effect still resolves.\n● Since “Greenkappa” targets, you can use “Fake Trap” to save your Trap Card(s) that were targeted by “Greenkappa”.",
+    "Circle": "● If there is only 1 face-down Spell/Trap Card on the field when the effect of “Greenkappa” is activated, the effect disappears.\n● You can chain to the effect of “Greenkappa”, even with the targeted Spell/Trap Cards. If only 1 of the 2 cards is chained, “Greenkappa” will still resolve and destroy the other. If “Greenkappa” is destroyed in a chain to its effect (such as with “Torrential Tribute”) its effect still resolves.\n● Since “Greenkappa” targets, you can use “Fake Trap” to save your Trap Card(s) that were targeted by “Greenkappa”.",
+    "Stein": "● If there is only 1 face-down Spell/Trap Card on the field when the effect of “Greenkappa” is activated, the effect disappears.\n● You can chain to the effect of “Greenkappa”, even with the targeted Spell/Trap Cards. If only 1 of the 2 cards is chained, “Greenkappa” will still resolve and destroy the other. If “Greenkappa” is destroyed in a chain to its effect (such as with “Torrential Tribute”) its effect still resolves.\n● Since “Greenkappa” targets, you can use “Fake Trap” to save your Trap Card(s) that were targeted by “Greenkappa”.",
+    "Base": "1. If there is only 1 face-down Spell or Trap Card on the field when the effect of \"Greenkappa\" is activated, the effect disappears.\\n2. You can chain to the effect of \"Greenkappa\", even with the targeted Spell or Trap Cards. If only 1 of the 2 cards is chained, \"Greenkappa\" will still resolve and destroy the other. If \"Greenkappa\" is destroyed in a chain to its effect (such as with \"Torrential Tribute\") its effect still resolves.\\n3. Since \"Greenkappa\" targets, you can use \"Fake Trap\" to save your Trap Card(s) that were targeted by \"Greenkappa\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

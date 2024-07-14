@@ -1,0 +1,40 @@
+{
+  "id": 4031928,
+  "name": "Change of Heart",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You gain control of the targeted monster in the same Battle Position that it was in on your opponent’s side of the field. If it is face-down you may Flip Summon it and any Flip Effect is activated. During your End Phase it is returned to your opponent’s side of the field in the same Battle Position as you last had it in. So if you attacked with the monster and it remained in Attack Position, it will return to your opponent in Attack Position.\n●You can use the monster you control through the effect of Change of Heart as a Tribute for a Tribute Summon, or for an effect like Cannon Soldier’s.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You gain control of the targeted monster in the same Battle Position that it was in on your opponent’s side of the field.If it is face-down you may Flip Summon it and any Flip Effect is activated. During your End Phase it is returned to your opponent’s side of the field in the same Battle Position as you last had it in. So if you attacked with the monster and it remained in Attack Position, it will return to your opponent in Attack Position.\n● You can use the monster you control through the effect of 'Change of Heart' as a Tribute for a Tribute Summon, or for an effect like 'Cannon Soldier’s'.",
+    "TeleDAD": "● You gain control of the targeted monster in the same Battle Position that it was in on your opponent’s side of the field.If it is face-down you may Flip Summon it and any Flip Effect is activated. During your End Phase it is returned to your opponent’s side of the field in the same Battle Position as you last had it in. So if you attacked with the monster and it remained in Attack Position, it will return to your opponent in Attack Position.\n● You can use the monster you control through the effect of 'Change of Heart' as a Tribute for a Tribute Summon, or for an effect like 'Cannon Soldier’s'.",
+    "Gladiator": "● You gain control of the targeted monster in the same Battle Position that it was in on your opponent’s side of the field.If it is face-down you may Flip Summon it and any Flip Effect is activated. During your End Phase it is returned to your opponent’s side of the field in the same Battle Position as you last had it in. So if you attacked with the monster and it remained in Attack Position, it will return to your opponent in Attack Position.\n● You can use the monster you control through the effect of 'Change of Heart' as a Tribute for a Tribute Summon, or for an effect like 'Cannon Soldier’s'.",
+    "ReturnDAD": "● You gain control of the targeted monster in the same Battle Position that it was in on your opponent’s side of the field.If it is face-down you may Flip Summon it and any Flip Effect is activated. During your End Phase it is returned to your opponent’s side of the field in the same Battle Position as you last had it in. So if you attacked with the monster and it remained in Attack Position, it will return to your opponent in Attack Position.\n● You can use the monster you control through the effect of 'Change of Heart' as a Tribute for a Tribute Summon, or for an effect like 'Cannon Soldier’s'.",
+    "Trooper": "● You gain control of the targeted monster in the same Battle Position that it was in on your opponent’s side of the field.If it is face-down you may Flip Summon it and any Flip Effect is activated. During your End Phase it is returned to your opponent’s side of the field in the same Battle Position as you last had it in. So if you attacked with the monster and it remained in Attack Position, it will return to your opponent in Attack Position.\n● You can use the monster you control through the effect of 'Change of Heart' as a Tribute for a Tribute Summon, or for an effect like 'Cannon Soldier’s'.",
+    "Circle": "● You gain control of the targeted monster in the same Battle Position that it was in on your opponent’s side of the field.If it is face-down you may Flip Summon it and any Flip Effect is activated. During your End Phase it is returned to your opponent’s side of the field in the same Battle Position as you last had it in. So if you attacked with the monster and it remained in Attack Position, it will return to your opponent in Attack Position.\n● You can use the monster you control through the effect of 'Change of Heart' as a Tribute for a Tribute Summon, or for an effect like 'Cannon Soldier’s'.",
+    "Stein": "● You gain control of the targeted monster in the same Battle Position that it was in on your opponent’s side of the field.If it is face-down you may Flip Summon it and any Flip Effect is activated. During your End Phase it is returned to your opponent’s side of the field in the same Battle Position as you last had it in. So if you attacked with the monster and it remained in Attack Position, it will return to your opponent in Attack Position.\n● You can use the monster you control through the effect of 'Change of Heart' as a Tribute for a Tribute Summon, or for an effect like 'Cannon Soldier’s'.",
+    "Base": "1. You gain control of the targeted monster in the same Battle Position that it was in on your opponent's side of the field. If it is face-down you may Flip Summon it and any Flip Effect is activated. During your End Phase it is returned to your opponent's side of the field in the same Battle Position as you last had it in. So if you attacked with the monster and it remained in Attack Position, it will return to your opponent in Attack Position.\\n2. You can use the monster you control through the effect of \"Change of Heart\" as a Tribute for a Tribute Summon, or for an effect like the effect of \"Cannon Soldier\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

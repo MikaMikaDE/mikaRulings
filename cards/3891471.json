@@ -1,0 +1,40 @@
+{
+  "id": 3891471,
+  "name": "Psychic Tuning",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●If “Royal Decree” is activated, the monster targeted by “Psychic Tuning” will no longer be considered a Tuner. However, if “Royal Decree” is destroyed, then the monster will once again be a Tuner.\n●Calculate damage for “Psychic Tuning” based on the Level of the monster when it was Summoned (before any effects on the field are applied). (If you Special Summon a Level 5 WATER monster and “A Legendary Ocean” is active, you take 2000 damage for “Psychic Tuning”.)\n●If a monster is Special Summoned with “Psychic Tuning”, and then that monster is destroyed while “Royal Decree” is active (so “Psychic Tuning” remains on the field), then after that “Royal Decree” is destroyed and “Psychic Tuning” is destroyed, “Psychic Tuning” ‘remembers’ the Level of the Special Summoned monster, and you would still take damage based on the monster’s Level when it was Summoned.\n●If, for some reason, no monster was Special Summoned by “Psychic Tuning”, its effect to inflict damage will not activate when it is sent to the GY.\n●The effect of “Psychic Tuning” that inflicts damage starts a chain.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Royal Decree\" is activated, the monster targeted by \"Psychic Tuning\" will no longer be considered a Tuner. However, if \"Royal Decree\" is destroyed, then the monster will once again be a Tuner.\\n2. Calculate damage for \"Psychic Tuning\" based on the Level of the monster when it was Summoned (before any effects on the field are applied). (If you Special Summon a Level 5 WATER monster and \"A Legendary Ocean\" is active, you take 2000 damage for \"Psychic Tuning\".)\\n3. If a monster is Special Summoned with \"Psychic Tuning\", and then that monster is destroyed while \"Royal Decree\" is active (so \"Psychic Tuning\" remains on the field), then after that \"Royal Decree\" is destroyed and \"Psychic Tuning\" is destroyed, \"Psychic Tuning\" 'remembers' the Level of the Special Summoned monster, and you would still take damage based on the monster's Level when it was Summoned.\\n4. If, for some reason, no monster was Special Summoned by \"Psychic Tuning\", its effect to inflict damage will not activate when it is sent to the GY.\\n5. The effect of \"Psychic Tuning\" that inflicts damage starts a chain."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

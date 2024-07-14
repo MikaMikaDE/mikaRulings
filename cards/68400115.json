@@ -1,0 +1,40 @@
+{
+  "id": 68400115,
+  "name": "The Emperor's Holiday",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can chain The Emperor’s Holiday to Premature Burial and the effect of Premature Burial will be negated and the targeted monster will never leave the GY. If Premature Burial is already active when you activate The Emperor’s Holiday the equipped monster is unaffected.",
+    "Goat": "●You can chain The Emperor’s Holiday to Premature Burial and the effect of Premature Burial will be negated and the targeted monster will never leave the GY. If Premature Burial is already applying when you activate The Emperor’s Holiday the equipped monster is unaffected.Union monsters will have their effects negated as long as “The Emperor’s Holiday” is applying. Unioned monsters may not return to the monster field as long as “The Emperor’s Holiday” is applying. The Emperor’s Holiday” has no effect on the monster equipped to “Thousand Eyes Restrict.”\n●Q: What happens to “Butterfly Dagger - Elma” when “The Emperor’s Holiday” is activated? \nA: The Butterfly Dagger - Elma's effect would activate if destroyed while The Emperor's Holiday is applying. \n●  \n●Q: What happens to “Dark Necrofear” (as an Equip Spell Card) when “The Emperor’s Holiday” is activated? \nA: The monster Dark Necrofear is equipped would return to its previous controller. The Dark Necrofear will remain equipped to the monster. \n● \n●Q: What happens to “Relinquished” (equipped with an opponent’s monster) when “The Emperor’s Holiday” is activated? \nA: Relinquished will still retain the ATK/DEF stats of the equipped monster. This would be the same as when Imperial Order is applying. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can chain 'The Emperor’s Holiday' to 'Premature Burial' and the effect of 'Premature Burial' will be negated and the targeted monster will never leave the GY. If 'Premature Burial' is already applying when you activate 'The Emperor’s Holiday' the equipped monster is unaffected.",
+    "TeleDAD": "● You can chain 'The Emperor’s Holiday' to 'Premature Burial' and the effect of 'Premature Burial' will be negated and the targeted monster will never leave the GY. If 'Premature Burial' is already applying when you activate 'The Emperor’s Holiday' the equipped monster is unaffected.",
+    "Gladiator": "● You can chain 'The Emperor’s Holiday' to 'Premature Burial' and the effect of 'Premature Burial' will be negated and the targeted monster will never leave the GY. If 'Premature Burial' is already applying when you activate 'The Emperor’s Holiday' the equipped monster is unaffected.",
+    "ReturnDAD": "● You can chain 'The Emperor’s Holiday' to 'Premature Burial' and the effect of 'Premature Burial' will be negated and the targeted monster will never leave the GY. If 'Premature Burial' is already applying when you activate 'The Emperor’s Holiday' the equipped monster is unaffected.",
+    "Trooper": "● You can chain 'The Emperor’s Holiday' to 'Premature Burial' and the effect of 'Premature Burial' will be negated and the targeted monster will never leave the GY. If 'Premature Burial' is already applying when you activate 'The Emperor’s Holiday' the equipped monster is unaffected.",
+    "Circle": "● You can chain 'The Emperor’s Holiday' to 'Premature Burial' and the effect of 'Premature Burial' will be negated and the targeted monster will never leave the GY. If 'Premature Burial' is already applying when you activate 'The Emperor’s Holiday' the equipped monster is unaffected.",
+    "Stein": "● You can chain 'The Emperor’s Holiday' to 'Premature Burial' and the effect of 'Premature Burial' will be negated and the targeted monster will never leave the GY. If 'Premature Burial' is already applying when you activate 'The Emperor’s Holiday' the equipped monster is unaffected.",
+    "Base": "1. You can chain \"The Emperor's Holiday\" to \"Premature Burial\" and the effect of \"Premature Burial\" will be negated and the targeted monster will never leave the GY. If \"Premature Burial\" is already active when you activate \"The Emperor's Holiday\" the equipped monster is unaffected."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

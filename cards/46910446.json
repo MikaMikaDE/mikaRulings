@@ -1,0 +1,40 @@
+{
+  "id": 46910446,
+  "name": "Chthonian Alliance",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●The monster equipped with this card does not count towards the bonus. So if you have 2 “Dark Magicians” on the field, and 1 is equipped with “Chthonian Alliance”, it has +800 ATK.\n●Monsters on the opponent’s side of the field are counted for “Chthonian Alliance”.\n●Monsters that are treated as having the same name, like “Cyber Harpie Lady” and “Harpie Lady 3”, both count as “Harpie Lady” for purposes of “Chthonian Alliance”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The monster equipped with this card does not count towards the bonus. So if you have 2 “Dark Magicians” on the field, and 1 is equipped with “Chthonian Alliance”, it has +800 ATK. \n● Monsters on the opponent’s side of the field are counted for “Chthonian Alliance”.\n● Monsters that are treated as having the same name, like “Cyber Harpie Lady” and “Harpie Lady 3”, both count as “Harpie Lady” for purposes of “Chthonian Alliance”.",
+    "TeleDAD": "● The monster equipped with this card does not count towards the bonus. So if you have 2 “Dark Magicians” on the field, and 1 is equipped with “Chthonian Alliance”, it has +800 ATK. \n● Monsters on the opponent’s side of the field are counted for “Chthonian Alliance”.\n● Monsters that are treated as having the same name, like “Cyber Harpie Lady” and “Harpie Lady 3”, both count as “Harpie Lady” for purposes of “Chthonian Alliance”.",
+    "Gladiator": "● The monster equipped with this card does not count towards the bonus. So if you have 2 “Dark Magicians” on the field, and 1 is equipped with “Chthonian Alliance”, it has +800 ATK. \n● Monsters on the opponent’s side of the field are counted for “Chthonian Alliance”.\n● Monsters that are treated as having the same name, like “Cyber Harpie Lady” and “Harpie Lady 3”, both count as “Harpie Lady” for purposes of “Chthonian Alliance”.",
+    "ReturnDAD": "● The monster equipped with this card does not count towards the bonus. So if you have 2 “Dark Magicians” on the field, and 1 is equipped with “Chthonian Alliance”, it has +800 ATK. \n● Monsters on the opponent’s side of the field are counted for “Chthonian Alliance”.\n● Monsters that are treated as having the same name, like “Cyber Harpie Lady” and “Harpie Lady 3”, both count as “Harpie Lady” for purposes of “Chthonian Alliance”.",
+    "Trooper": "● The monster equipped with this card does not count towards the bonus. So if you have 2 “Dark Magicians” on the field, and 1 is equipped with “Chthonian Alliance”, it has +800 ATK. \n● Monsters on the opponent’s side of the field are counted for “Chthonian Alliance”.\n● Monsters that are treated as having the same name, like “Cyber Harpie Lady” and “Harpie Lady 3”, both count as “Harpie Lady” for purposes of “Chthonian Alliance”.",
+    "Circle": "● The monster equipped with this card does not count towards the bonus. So if you have 2 “Dark Magicians” on the field, and 1 is equipped with “Chthonian Alliance”, it has +800 ATK. \n● Monsters on the opponent’s side of the field are counted for “Chthonian Alliance”.\n● Monsters that are treated as having the same name, like “Cyber Harpie Lady” and “Harpie Lady 3”, both count as “Harpie Lady” for purposes of “Chthonian Alliance”.",
+    "Stein": "● The monster equipped with this card does not count towards the bonus. So if you have 2 “Dark Magicians” on the field, and 1 is equipped with “Chthonian Alliance”, it has +800 ATK. \n● Monsters on the opponent’s side of the field are counted for “Chthonian Alliance”.\n● Monsters that are treated as having the same name, like “Cyber Harpie Lady” and “Harpie Lady 3”, both count as “Harpie Lady” for purposes of “Chthonian Alliance”.",
+    "Base": "1. The monster equipped with this card does not count towards the bonus. So if you have 2 copies of \"Dark Magician\" on the field, and 1 is equipped with \"Chthonian Alliance\", it has +800 ATK.\\n2. Monsters on the opponent's side of the field are counted for \"Chthonian Alliance\".\\n3. Monsters that are treated as having the same name, like \"Cyber Harpie Lady\" and \"Harpie Lady 3\", both count as \"Harpie Lady\" for purposes of \"Chthonian Alliance\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

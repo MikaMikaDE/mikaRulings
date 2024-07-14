@@ -1,0 +1,44 @@
+{
+  "id": 78371393,
+  "name": "Yubel",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 10,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Yubel's damage inflicting effect is a Trigger Effect that activates before damage calculation.\n●Tributing 1 monster or destroying Yubel is a Trigger Effect that activates during your End Phase. You make your choice when the effect resolves.\n●When Yubel is destroyed while in the hand or Deck, its effect activates. If it is destroyed while face-down, its effect activates.\n●The owner of Yubel activates the effect. (If your opponent controls your Yubel when it is destroyed, you get the effect, not your opponent.)\n●When Yubel is destroyed during the Damage Step, its effect can be activated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Yubel's' damage inflicting effect is a Trigger Effect that activates before damage calculation.\n● Tributing 1 monster or destroying 'Yubel' is a Trigger Effect that activates during your End Phase. You make your choice when the effect resolves.\n● When 'Yubel' is destroyed while in the hand or Deck, its effect activates. If it is destroyed while face-down, its effect activates. \n● The owner of 'Yubel' activates the effect. (If your opponent controls your 'Yubel' when it is destroyed, you get the effect, not your opponent.)\n● When 'Yubel' is destroyed during the Damage Step, its effect can be activated.",
+    "TeleDAD": "● 'Yubel's' damage inflicting effect is a Trigger Effect that activates before damage calculation.\n● Tributing 1 monster or destroying 'Yubel' is a Trigger Effect that activates during your End Phase. You make your choice when the effect resolves.\n● When 'Yubel' is destroyed while in the hand or Deck, its effect activates. If it is destroyed while face-down, its effect activates. \n● The owner of 'Yubel' activates the effect. (If your opponent controls your 'Yubel' when it is destroyed, you get the effect, not your opponent.)\n● When 'Yubel' is destroyed during the Damage Step, its effect can be activated.",
+    "Gladiator": "● 'Yubel's' damage inflicting effect is a Trigger Effect that activates before damage calculation.\n● Tributing 1 monster or destroying 'Yubel' is a Trigger Effect that activates during your End Phase. You make your choice when the effect resolves.\n● When 'Yubel' is destroyed while in the hand or Deck, its effect activates. If it is destroyed while face-down, its effect activates. \n● The owner of 'Yubel' activates the effect. (If your opponent controls your 'Yubel' when it is destroyed, you get the effect, not your opponent.)\n● When 'Yubel' is destroyed during the Damage Step, its effect can be activated.",
+    "ReturnDAD": "● 'Yubel's' damage inflicting effect is a Trigger Effect that activates before damage calculation.\n● Tributing 1 monster or destroying 'Yubel' is a Trigger Effect that activates during your End Phase. You make your choice when the effect resolves.\n● When 'Yubel' is destroyed while in the hand or Deck, its effect activates. If it is destroyed while face-down, its effect activates. \n● The owner of 'Yubel' activates the effect. (If your opponent controls your 'Yubel' when it is destroyed, you get the effect, not your opponent.)\n● When 'Yubel' is destroyed during the Damage Step, its effect can be activated.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The damage inflicting effect of \"Yubel\" is a Trigger Effect that activates before damage calculation.\\n2. Tributing 1 monster or destroying \"Yubel\" is a Trigger Effect that activates during your End Phase. You make your choice when the effect resolves.\\n3. When \"Yubel\" is destroyed while in the hand or Deck, its effect activates. If it is destroyed while face-down, its effect activates.\\n4. The owner of \"Yubel\" activates the effect. (If your opponent controls your \"Yubel\" when it is destroyed, you get the effect, not your opponent.)\\n5. When \"Yubel\" is destroyed during the Damage Step, its effect can be activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

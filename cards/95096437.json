@@ -1,0 +1,40 @@
+{
+  "id": 95096437,
+  "name": "Secrets of the Gallant",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card’s effect starts a Chain when the selected Normal Monster inflicts Battle Damage.\n●This card’s effect will still activate if your opponent has only 1 or less card in their hand when the selected monster inflicts Battle Damage.\n●If your opponent has only 1 card in their hand when this card’s effect resolves, they discard that 1 card.\n●If multiple copies of this card are activated targeting the same monster, their effects all go on the Chain when that monster inflicts Battle Damage.\n●If “Secrets of the Gallant” selects a Gemini Monster that is being treated as a Normal Monster and the Gemini Monster is Normal Summoned to turn on its effects, the effect of “Secrets of the Gallant” is still applied when the Gemini Monster inflicts battle damage to the opponent’s Life Points that turn.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s effect starts a Chain when the selected Normal Monster inflicts Battle Damage.\n● This card’s effect will still activate if your opponent has only 1 or less card in their hand when the selected monster inflicts Battle Damage. \n● If your opponent has only 1 card in their hand when this card’s effect resolves, they discard that 1 card.\n● If multiple copies of this card are activated targeting the same monster, their effects all go on the Chain when that monster inflicts Battle Damage.\n● If “Secrets of the Gallant” selects a Gemini Monster that is being treated as a Normal Monster and the Gemini Monster is Normal Summoned to turn on its effects, the effect of “Secrets of the Gallant” is still applied when the Gemini Monster inflicts battle damage to the opponent’s LP that turn.",
+    "TeleDAD": "● This card’s effect starts a Chain when the selected Normal Monster inflicts Battle Damage.\n● This card’s effect will still activate if your opponent has only 1 or less card in their hand when the selected monster inflicts Battle Damage. \n● If your opponent has only 1 card in their hand when this card’s effect resolves, they discard that 1 card.\n● If multiple copies of this card are activated targeting the same monster, their effects all go on the Chain when that monster inflicts Battle Damage.\n● If “Secrets of the Gallant” selects a Gemini Monster that is being treated as a Normal Monster and the Gemini Monster is Normal Summoned to turn on its effects, the effect of “Secrets of the Gallant” is still applied when the Gemini Monster inflicts battle damage to the opponent’s LP that turn.",
+    "Gladiator": "● This card’s effect starts a Chain when the selected Normal Monster inflicts Battle Damage.\n● This card’s effect will still activate if your opponent has only 1 or less card in their hand when the selected monster inflicts Battle Damage. \n● If your opponent has only 1 card in their hand when this card’s effect resolves, they discard that 1 card.\n● If multiple copies of this card are activated targeting the same monster, their effects all go on the Chain when that monster inflicts Battle Damage.\n● If “Secrets of the Gallant” selects a Gemini Monster that is being treated as a Normal Monster and the Gemini Monster is Normal Summoned to turn on its effects, the effect of “Secrets of the Gallant” is still applied when the Gemini Monster inflicts battle damage to the opponent’s LP that turn.",
+    "ReturnDAD": "● This card’s effect starts a Chain when the selected Normal Monster inflicts Battle Damage.\n● This card’s effect will still activate if your opponent has only 1 or less card in their hand when the selected monster inflicts Battle Damage. \n● If your opponent has only 1 card in their hand when this card’s effect resolves, they discard that 1 card.\n● If multiple copies of this card are activated targeting the same monster, their effects all go on the Chain when that monster inflicts Battle Damage.\n● If “Secrets of the Gallant” selects a Gemini Monster that is being treated as a Normal Monster and the Gemini Monster is Normal Summoned to turn on its effects, the effect of “Secrets of the Gallant” is still applied when the Gemini Monster inflicts battle damage to the opponent’s LP that turn.",
+    "Trooper": "● This card’s effect starts a Chain when the selected Normal Monster inflicts Battle Damage.\n● This card’s effect will still activate if your opponent has only 1 or less card in their hand when the selected monster inflicts Battle Damage. \n● If your opponent has only 1 card in their hand when this card’s effect resolves, they discard that 1 card.\n● If multiple copies of this card are activated targeting the same monster, their effects all go on the Chain when that monster inflicts Battle Damage.",
+    "Circle": "● This card’s effect starts a Chain when the selected Normal Monster inflicts Battle Damage.\n● This card’s effect will still activate if your opponent has only 1 or less card in their hand when the selected monster inflicts Battle Damage. \n● If your opponent has only 1 card in their hand when this card’s effect resolves, they discard that 1 card.\n● If multiple copies of this card are activated targeting the same monster, their effects all go on the Chain when that monster inflicts Battle Damage.\n● If “Secrets of the Gallant” selects a Gemini Monster that is being treated as a Normal Monster and the Gemini Monster is Normal Summoned to turn on its effects, the effect of “Secrets of the Gallant” is still applied when the Gemini Monster inflicts battle damage to the opponent’s LP that turn.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card's effect starts a Chain when the selected Normal Monster inflicts Battle Damage.\\n2. This card's effect will still activate if your opponent has only 1 or less card in their hand when the selected monster inflicts Battle Damage.\\n3. If your opponent has only 1 card in their hand when this card's effect resolves, they discard that 1 card.\\n4. If multiple copies of this card are activated targeting the same monster, their effects all go on the Chain when that monster inflicts Battle Damage.\\n5. If \"Secrets of the Gallant\" selects a Gemini Monster that is being treated as a Normal Monster and the Gemini Monster is Normal Summoned to turn on its effects, the effect of \"Secrets of the Gallant\" is still applied when the Gemini Monster inflicts battle damage to the opponent's Life Points that turn."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 88307361,
+  "name": "Superancient Deepsea King Coelacanth",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 2200,
+    "level": 7,
+    "race": "Fish",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Superancient Deepsea King Coelacanth's' effect that negates card effects when it is targeted is a Quick Effect. This effect can be activated multiple times during the same turn and it can be activated during the Damage Step.\n● When 'Exiled Force's' effect targets 'Superancient Deepsea King Coelacanth', 'Exiled Force's' effect can be negated even though it is now in the GY.",
+    "TeleDAD": "● 'Superancient Deepsea King Coelacanth's' effect that negates card effects when it is targeted is a Quick Effect. This effect can be activated multiple times during the same turn and it can be activated during the Damage Step.\n● When 'Exiled Force's' effect targets 'Superancient Deepsea King Coelacanth', 'Exiled Force's' effect can be negated even though it is now in the GY.",
+    "Gladiator": "● 'Superancient Deepsea King Coelacanth's' effect that negates card effects when it is targeted is a Milti-Trigger (Quick) Effect. This effect can be activated multiple times during the same turn and it can be activated during the Damage Step. \n● When 'Exiled Force's' effect targets 'Superancient Deepsea King Coelacanth', 'Exiled Force's' effect can be negated even though it is now in the GY.",
+    "ReturnDAD": "● 'Superancient Deepsea King Coelacanth's' effect that negates card effects when it is targeted is a Milti-Trigger (Quick) Effect. This effect can be activated multiple times during the same turn and it can be activated during the Damage Step. \n● When 'Exiled Force's' effect targets 'Superancient Deepsea King Coelacanth', 'Exiled Force's' effect can be negated even though it is now in the GY.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Superancient Deepsea King Coelacanth\" that negates card effects when it is targeted is a Quick Effect. This effect can be activated multiple times during the same turn and it can be activated during the Damage Step.\\n2. When the effect of \"Exiled Force\" targets \"Superancient Deepsea King Coelacanth\", the effect of \"Exiled Force\" can be negated even though it is now in the GY"
+  },
+  "PSCT": {
+    "Tengu": "① Once per turn: You can discard 1 card; Special Summon as many Level 4 or lower Fish as possible from your Deck (they can't attack, also negate their effects).\n② If this card is targeted by a card effect (Quick): You can Tribute 1 other Fish; \nnegate the activation, and if you do, destroy that card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

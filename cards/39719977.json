@@ -1,0 +1,40 @@
+{
+  "id": 39719977,
+  "name": "Delta Attacker",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●After activating Delta Attacker, you have 3 different monsters with the same name, Delta Attacker still only applies to the 3 monsters of the same name you had when you activated Delta Attacker.\n●If 1 of the 3 monsters is removed from the field, Delta Attacker's effect still applies to the other 2.\n●If Non-Spellcasting Area is activated after Delta Attacker, the effect of Delta Attacker is negated.",
+    "Goat": "●After activating Delta Attacker, you have 3 different monsters with the same name, Delta Attacker still only applies to the 3 monsters of the same name you had when you activated Delta Attacker.\n●If 1 of the 3 monsters is removed from the field, Delta Attacker's effect still applies to the other 2.\n●If Non-Spellcasting Area is activated after Delta Attacker, the effect of Delta Attacker is negated.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● After activating 'Delta Attacker', you have 3 different monsters with the same name, 'Delta Attacker' still only applies to the 3 monsters of the same name you had when you activated 'Delta Attacker'.\n● If 1 of the 3 monsters leaves the field, 'Delta Attacker''s effect still applies to the other 2.\n● If 'Non-Spellcasting Area' is activated after 'Delta Attacker', the effect of 'Delta Attacker' is negated.",
+    "TeleDAD": "● After activating 'Delta Attacker', you have 3 different monsters with the same name, 'Delta Attacker' still only applies to the 3 monsters of the same name you had when you activated 'Delta Attacker'.\n● If 1 of the 3 monsters leaves the field, 'Delta Attacker''s effect still applies to the other 2.\n● If 'Non-Spellcasting Area' is activated after 'Delta Attacker', the effect of 'Delta Attacker' is negated.",
+    "Gladiator": "● After activating 'Delta Attacker', you have 3 different monsters with the same name, 'Delta Attacker' still only applies to the 3 monsters of the same name you had when you activated 'Delta Attacker'.\n● If 1 of the 3 monsters leaves the field, 'Delta Attacker''s effect still applies to the other 2.\n● If 'Non-Spellcasting Area' is activated after 'Delta Attacker', the effect of 'Delta Attacker' is negated.",
+    "ReturnDAD": "● After activating 'Delta Attacker', you have 3 different monsters with the same name, 'Delta Attacker' still only applies to the 3 monsters of the same name you had when you activated 'Delta Attacker'.\n● If 1 of the 3 monsters leaves the field, 'Delta Attacker''s effect still applies to the other 2.\n● If 'Non-Spellcasting Area' is activated after 'Delta Attacker', the effect of 'Delta Attacker' is negated.",
+    "Trooper": "● After activating 'Delta Attacker', you have 3 different monsters with the same name, 'Delta Attacker' still only applies to the 3 monsters of the same name you had when you activated 'Delta Attacker'.\n● If 1 of the 3 monsters leaves the field, 'Delta Attacker''s effect still applies to the other 2.\n● If 'Non-Spellcasting Area' is activated after 'Delta Attacker', the effect of 'Delta Attacker' is negated.",
+    "Circle": "● After activating 'Delta Attacker', you have 3 different monsters with the same name, 'Delta Attacker' still only applies to the 3 monsters of the same name you had when you activated 'Delta Attacker'.\n● If 1 of the 3 monsters leaves the field, 'Delta Attacker''s effect still applies to the other 2.\n● If 'Non-Spellcasting Area' is activated after 'Delta Attacker', the effect of 'Delta Attacker' is negated.",
+    "Stein": "● After activating 'Delta Attacker', you have 3 different monsters with the same name, 'Delta Attacker' still only applies to the 3 monsters of the same name you had when you activated 'Delta Attacker'.\n● If 1 of the 3 monsters leaves the field, 'Delta Attacker''s effect still applies to the other 2.\n● If 'Non-Spellcasting Area' is activated after 'Delta Attacker', the effect of 'Delta Attacker' is negated.",
+    "Base": "1. After activating \"Delta Attacker\", you have 3 different monsters with the same name, \"Delta Attacker\" still only applies to the 3 monsters of the same name you had when you activated \"Delta Attacker\".\\n2. If 1 of the 3 monsters is removed from the field, the effect of \"Delta Attacker\" still applies to the other 2.\\n3. If \"Non-Spellcasting Area\" is activated after \"Delta Attacker\", the effect of \"Delta Attacker\" is negated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

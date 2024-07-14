@@ -1,0 +1,40 @@
+{
+  "id": 16435215,
+  "name": "Dragged Down into the Grave",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can't activate Dragged Down into the Grave if either you, or your opponent, has no cards in hand other than Dragged Down into the Grave.\n●You can activate this card if a player has no cards left in the Deck.\n●The turn player selects a card first for Dragged Down into the Grave.\n●Appropriate can be activated after Dragged Down into the Grave resolves, because drawing a card(s) was the last thing to happen.",
+    "Goat": "●You can't activate Dragged Down into the Grave if either you, or your opponent, has no cards in hard other than Dragged Down into the Grave. But you can activate it if a player has no cards left in the Deck.\n●The turn player selects a card first for Dragged Down into the Grave.\n●You can activate Appropriate in response to Dragged Down into the Grave because drawing was the last thing performed.",
+    "HAT": "● You can't activate this card, nor resolve this effect, if either player has 0 cards in hand.\nIf this is the only card in your hand, you can't activate it.\n● You can activate this card even if a player has no cards in Deck.\n● The turn player picks first. The cards are discarded at the same time.",
+    "Vegas": "● You can't activate this card, nor resolve this effect, if either player has 0 cards in hand.\nIf this is the only card in your hand, you can't activate it.\n● You can activate this card even if a player has no cards in Deck.\n● The turn player picks first. The cards are discarded at the same time.",
+    "Meadowlands": "● You can't activate this card, nor resolve this effect, if either player has 0 cards in hand.\nIf this is the only card in your hand, you can't activate it.\n● You can activate this card even if a player has no cards in Deck.\n● The turn player picks first. The cards are discarded at the same time.",
+    "FireWater": "● You can't activate this card, nor resolve this effect, if either player has 0 cards in hand.\nIf this is the only card in your hand, you can't activate it.\n● You can activate this card even if a player has no cards in Deck.\n● The turn player picks first. The cards are discarded at the same time.",
+    "Cat": "● You can't activate 'Dragged Down into the Grave' if either you, or your opponent, has no cards in hard other than 'Dragged Down into the Grave'. But you can activate it if a player has no cards left in the Deck.\n● The turn player selects a card first for 'Dragged Down into the Grave'.\n● You can activate 'Appropriate' in response to 'Dragged Down into the Grave' because drawing was the last thing performed.",
+    "TeleDAD": "● You can't activate 'Dragged Down into the Grave' if either you, or your opponent, has no cards in hard other than 'Dragged Down into the Grave'. But you can activate it if a player has no cards left in the Deck.\n● The turn player selects a card first for 'Dragged Down into the Grave'.\n● You can activate 'Appropriate' in response to 'Dragged Down into the Grave' because drawing was the last thing performed.",
+    "Gladiator": "● You can't activate 'Dragged Down into the Grave' if either you, or your opponent, has no cards in hard other than 'Dragged Down into the Grave'. But you can activate it if a player has no cards left in the Deck.\n● The turn player selects a card first for 'Dragged Down into the Grave'.\n● You can activate 'Appropriate' in response to 'Dragged Down into the Grave' because drawing was the last thing performed.",
+    "ReturnDAD": "● You can't activate 'Dragged Down into the Grave' if either you, or your opponent, has no cards in hard other than 'Dragged Down into the Grave'. But you can activate it if a player has no cards left in the Deck.\n● The turn player selects a card first for 'Dragged Down into the Grave'.\n● You can activate 'Appropriate' in response to 'Dragged Down into the Grave' because drawing was the last thing performed.",
+    "Trooper": "● You can't activate 'Dragged Down into the Grave' if either you, or your opponent, has no cards in hard other than 'Dragged Down into the Grave'. But you can activate it if a player has no cards left in the Deck.\n● The turn player selects a card first for 'Dragged Down into the Grave'.\n● You can activate 'Appropriate' in response to 'Dragged Down into the Grave' because drawing was the last thing performed.",
+    "Circle": "● You can't activate 'Dragged Down into the Grave' if either you, or your opponent, has no cards in hard other than 'Dragged Down into the Grave'. But you can activate it if a player has no cards left in the Deck.\n● The turn player selects a card first for 'Dragged Down into the Grave'.\n● You can activate 'Appropriate' in response to 'Dragged Down into the Grave' because drawing was the last thing performed.",
+    "Stein": "● You can't activate 'Dragged Down into the Grave' if either you, or your opponent, has no cards in hard other than 'Dragged Down into the Grave'. But you can activate it if a player has no cards left in the Deck.\n● The turn player selects a card first for 'Dragged Down into the Grave'.\n● You can activate 'Appropriate' in response to 'Dragged Down into the Grave' because drawing was the last thing performed.",
+    "Base": "1. You can't activate \"Dragged Down into the Grave\" if either you, or your opponent, has no cards in hard other than \"Dragged Down into the Grave\". But you can activate it if a player has no cards left in the Deck.\\n2. The turn player selects a card first for \"Dragged Down into the Grave\".\\n3. You can activate \"Appropriate\" in response to \"Dragged Down into the Grave\" because drawing was the last thing performed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Both players reveal their hands, each chooses 1 card from their opponent's hand, \nthen you discard the chosen cards, then each player draws 1 card.",
+    "Meadowlands": "① Both players reveal their hands, each chooses 1 card from their opponent's hand, \nthen you discard the chosen cards, then each player draws 1 card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 50287060,
+  "name": "Archfiend of Gilfer",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2200,
+    "def": 2500,
+    "level": 6,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "●Missing the Timing: “Archfiend of Gilfer” is a “when… you can” optional Trigger Effect. This means that “Archfiend of Gilfer” being sent to the GY has to be the very last thing that happened in order to activate its effect.\n●This card's effect will activate when it is sent to the GY from the field, hand, or Deck. This card's effect will activate when it is sent to the GY while it is a Monster Card or an Equip Card.\n●If multiple Archfiend of Gilfer cards are sent to the GY at the same time, all their effects will activate and form a chain.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "● Missing the Timing: “Archfiend of Gilfer” is a “when… you can” optional Trigger Effect. This means that “Archfiend of Gilfer” being sent to the GY has to be the very last thing that happened in order to activate its effect. \n● This card's effect will activate when it is sent to the GY from the field, hand, or Deck. This card's effect will activate when it is sent to the GY while it is a Monster Card or an Equip Card. \n● If multiple 'Archfiend of Gilfer' cards are sent to the GY at the same time, all their effects will activate and form a chain.",
+    "Trooper": "● Missing the Timing: “Archfiend of Gilfer” is a “when… you can” optional Trigger Effect. This means that “Archfiend of Gilfer” being sent to the GY has to be the very last thing that happened in order to activate its effect. \n● This card's effect will activate when it is sent to the GY from the field, hand, or Deck. This card's effect will activate when it is sent to the GY while it is a Monster Card or an Equip Card. \n● If multiple 'Archfiend of Gilfer' cards are sent to the GY at the same time, all their effects will activate and form a chain.",
+    "Circle": "● Missing the Timing: “Archfiend of Gilfer” is a “when… you can” optional Trigger Effect. This means that “Archfiend of Gilfer” being sent to the GY has to be the very last thing that happened in order to activate its effect. \n● This card's effect will activate when it is sent to the GY from the field, hand, or Deck. This card's effect will activate when it is sent to the GY while it is a Monster Card or an Equip Card. \n● If multiple 'Archfiend of Gilfer' cards are sent to the GY at the same time, all their effects will activate and form a chain.",
+    "Stein": "● Missing the Timing: “Archfiend of Gilfer” is a “when… you can” optional Trigger Effect. This means that “Archfiend of Gilfer” being sent to the GY has to be the very last thing that happened in order to activate its effect. \n● This card's effect will activate when it is sent to the GY from the field, hand, or Deck. This card's effect will activate when it is sent to the GY while it is a Monster Card or an Equip Card. \n● If multiple 'Archfiend of Gilfer' cards are sent to the GY at the same time, all their effects will activate and form a chain.",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

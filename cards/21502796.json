@@ -1,0 +1,44 @@
+{
+  "id": 21502796,
+  "name": "Ryko, Lightsworn Hunter",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 200,
+    "def": 100,
+    "level": 2,
+    "race": "Beast",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● You always send the top 3 cards of your Deck (or all, if less than 3) to the GY, even if you do not destroy a card on the field.\n● This effect targets.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● You always send the top 3 cards of your Deck (or all, if less than 3) to the GY, even if you do not destroy a card on the field.\n● This effect targets.",
+    "Vegas": "● You always send the top 3 cards of your Deck (or all, if less than 3) to the GY, even if you do not destroy a card on the field.\n● This effect targets.",
+    "Meadowlands": "● You always send the top 3 cards of your Deck (or all, if less than 3) to the GY, even if you do not destroy a card on the field.\n● This effect targets.",
+    "FireWater": "● You always send the top 3 cards of your Deck (or all, if less than 3) to the GY, even if you do not destroy a card on the field.\n● This effect targets.",
+    "Cat": "● You choose if you will destroy a card when 'Ryko, Lightsworn Hunter's' effect activates. If you choose to destroy a card, this effect targets the card to be destroyed.. \n● You must send 3 cards from the top of your Deck to your GY even if you do not destroy a card with 'Ryko, Lightsworn Hunter's' effect.\n● If you have 2 or fewer cards remaining in your Deck, they are sent to the GY.\n● If 'Peten the Dark Clown' is destroyed by 'Ryko, Lightsworn Hunter', its effect can't be activated. If 'Peten the Dark Clown' is sent from the top of the Deck to the GY by 'Ryko, Lightsworn Hunter's' effect, its effect can be activated if there are no other effects remaining on the Chain.",
+    "TeleDAD": "● You choose if you will destroy a card when 'Ryko, Lightsworn Hunter's' effect activates. If you choose to destroy a card, this effect targets the card to be destroyed.. \n● You must send 3 cards from the top of your Deck to your GY even if you do not destroy a card with 'Ryko, Lightsworn Hunter's' effect.\n● If you have 2 or fewer cards remaining in your Deck, they are sent to the GY.\n● If 'Peten the Dark Clown' is destroyed by 'Ryko, Lightsworn Hunter', its effect can't be activated. If 'Peten the Dark Clown' is sent from the top of the Deck to the GY by 'Ryko, Lightsworn Hunter's' effect, its effect can be activated if there are no other effects remaining on the Chain.",
+    "Gladiator": "● You choose if you will destroy a card when 'Ryko, Lightsworn Hunter's' effect activates. If you choose to destroy a card, this effect targets the card to be destroyed.. \n● You must send 3 cards from the top of your Deck to your GY even if you do not destroy a card with 'Ryko, Lightsworn Hunter's' effect.\n● If you have 2 or fewer cards remaining in your Deck, they are sent to the GY.\n● If 'Peten the Dark Clown' is destroyed by 'Ryko, Lightsworn Hunter', its effect can't be activated. If 'Peten the Dark Clown' is sent from the top of the Deck to the GY by 'Ryko, Lightsworn Hunter's' effect, its effect can be activated if there are no other effects remaining on the Chain.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You choose if you will destroy a card when the effect of \"Ryko, Lightsworn Hunter\" activates. If you choose to destroy a card, this effect targets the card to be destroyed.\\n2. You must send 3 cards from the top of your Deck to your GY even if you do not destroy a card with the effect of \"Ryko, Lightsworn Hunter\".\\n3. If you have 2 or fewer cards remaining in your Deck, they are sent to the GY.\\n4. If \"Peten the Dark Clown\" is destroyed by \"Ryko, Lightsworn Hunter\", its effect cannot be activated. If \"Peten the Dark Clown\" is sent from the top of the Deck to the GY by the effect of \"Ryko, Lightsworn Hunter\", its effect can be activated if there are no other effects remaining on the Chain."
+  },
+  "PSCT": {
+    "Tengu": "① FLIP: You can target 1 card on the field;\ndestroy that target (if any), then (regardless), send the top 3 cards of your Deck to the GY.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① FLIP: You can target 1 card on the field;\ndestroy that target (if any), then (regardless), send the top 3 cards of your Deck to the GY.",
+    "Meadowlands": "① FLIP: You can target 1 card on the field;\ndestroy that target (if any), then (regardless), send the top 3 cards of your Deck to the GY.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

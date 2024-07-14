@@ -1,0 +1,40 @@
+{
+  "id": 22493811,
+  "name": "Multiplication of Ants",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can Tribute a face-down Insect-Type monster when you activate Multiplication of Ants.",
+    "Goat": "●You can Tribute a face-down Insect monster when you activate Multiplication of Ants.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can Tribute a face-down Insect when you activate 'Multiplication of Ants'.",
+    "TeleDAD": "● You can Tribute a face-down Insect when you activate 'Multiplication of Ants'.",
+    "Gladiator": "● You can Tribute a face-down Insect when you activate 'Multiplication of Ants'.",
+    "ReturnDAD": "● You can Tribute a face-down Insect when you activate 'Multiplication of Ants'.",
+    "Trooper": "● You can Tribute a face-down Insect when you activate 'Multiplication of Ants'.",
+    "Circle": "● You can Tribute a face-down Insect when you activate 'Multiplication of Ants'.",
+    "Stein": "● You can Tribute a face-down Insect when you activate 'Multiplication of Ants'.",
+    "Base": "1. You can Tribute a face-down Insect-Type monster when you activate \"Multiplication of Ants\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

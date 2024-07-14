@@ -1,0 +1,40 @@
+{
+  "id": 74519184,
+  "name": "Hand Destruction",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "Each player sends 2 cards from their hand to the GY and draws 2 cards.\n●Sending 2 cards from the hand to the GY is NOT a cost.\n●Sending a card to the GY is not the same as discarding it.\n●Dragon-Type monsters sent to the GY do not count towards Super Rejuvenation.\n●Dark World monsters will not activate, since they must be discarded to the GY.\n●If a player is unable to draw 2 cards (because they have 1 or 0 in Deck), they lose the duel.\n●if a player does not have 2 cards in hand to send to the GY, then neither player sends any cards from the hand to the GY nor draws cards.\n●This card CAN be activated while Macro Cosmos is active. The cards are removed from play instead.\n●You CANNOT ACTIVATE Hand Destruction:\n●if either player has fewer than 2 cards remaining in their Deck.\n●while Protector of the Sanctuary is face-up on the field.\n●if activating (playing it face-up) it would cause you to have fewer than 2 cards in your hand.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Hand Destruction' can't be activated if either play has 1 or less cards in their hand and/or remaining in their Deck. If you have 'Hand Destruction' and 1 other card in your hand, you can't activate 'Hand Destruction'.\n● If either player has 1 or less cards in their hand when 'Hand Destruction' resolves, its effect disappears. If either player has 1 or less cards remaining in their Deck, they lose the Duel when they are unable to draw a card.\n● 'Hand Destruction' can't be activated while 'Protector of the Sanctuary' is applying.\n● If 'Macro Cosmos' is applying, 'Hand Destruction' can still be activated. The cards sent from the hand to the GY are removed from play instead.",
+    "TeleDAD": "● 'Hand Destruction' can't be activated if either play has 1 or less cards in their hand and/or remaining in their Deck. If you have 'Hand Destruction' and 1 other card in your hand, you can't activate 'Hand Destruction'.\n● If either player has 1 or less cards in their hand when 'Hand Destruction' resolves, its effect disappears. If either player has 1 or less cards remaining in their Deck, they lose the Duel when they are unable to draw a card.\n● 'Hand Destruction' can't be activated while 'Protector of the Sanctuary' is applying.\n● If 'Macro Cosmos' is applying, 'Hand Destruction' can still be activated. The cards sent from the hand to the GY are removed from play instead.",
+    "Gladiator": "● 'Hand Destruction' can't be activated if either play has 1 or less cards in their hand and/or remaining in their Deck. If you have 'Hand Destruction' and 1 other card in your hand, you can't activate 'Hand Destruction'.\n● If either player has 1 or less cards in their hand when 'Hand Destruction' resolves, its effect disappears. If either player has 1 or less cards remaining in their Deck, they lose the Duel when they are unable to draw a card.\n● 'Hand Destruction' can't be activated while 'Protector of the Sanctuary' is applying.\n● If 'Macro Cosmos' is applying, 'Hand Destruction' can still be activated. The cards sent from the hand to the GY are removed from play instead.",
+    "ReturnDAD": "● 'Hand Destruction' can't be activated if either play has 1 or less cards in their hand and/or remaining in their Deck. If you have 'Hand Destruction' and 1 other card in your hand, you can't activate 'Hand Destruction'.\n● If either player has 1 or less cards in their hand when 'Hand Destruction' resolves, its effect disappears. If either player has 1 or less cards remaining in their Deck, they lose the Duel when they are unable to draw a card.\n● 'Hand Destruction' can't be activated while 'Protector of the Sanctuary' is applying.\n● If 'Macro Cosmos' is applying, 'Hand Destruction' can still be activated. The cards sent from the hand to the GY are removed from play instead.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Hand Destruction\" cannot be activated if either play has 1 or less cards in their hand and/or remaining in their Deck. If you have \"Hand Destruction\" and 1 other card in your hand, you cannot activate \"Hand Destruction\".\\n2. If either player has 1 or less cards in their hand when \"Hand Destruction\" resolves, its effect disappears. If either player has 1 or less cards remaining in their Deck, they lose the Duel when they are unable to draw a card.\\n3. \"Hand Destruction\" cannot be activated while \"Protector of the Sanctuary\" is face-up on the field.\\n4. If \"Macro Cosmos\" is face-up on the field, \"Hand Destruction\" can still be activated. The cards sent from the hand to the GY are removed from play instead."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

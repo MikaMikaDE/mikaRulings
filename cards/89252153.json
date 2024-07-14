@@ -1,0 +1,44 @@
+{
+  "id": 89252153,
+  "name": "Elemental HERO Necroshade",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 1800,
+    "level": 5,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can combine the effects of “Elemental Hero Necroshade” and “Ultimate Offering” to Normal Summon an “Elemental Hero” without Tribute using the effect of “Ultimate Offering”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can combine the effects of “Elemental Hero Necroshade” and “Ultimate Offering” to Normal Summon an “Elemental Hero” without Tribute using the effect of “Ultimate Offering”.",
+    "TeleDAD": "● You can combine the effects of “Elemental Hero Necroshade” and “Ultimate Offering” to Normal Summon an “Elemental Hero” without Tribute using the effect of “Ultimate Offering”.",
+    "Gladiator": "● You can combine the effects of “Elemental Hero Necroshade” and “Ultimate Offering” to Normal Summon an “Elemental Hero” without Tribute using the effect of “Ultimate Offering”.",
+    "ReturnDAD": "● You can combine the effects of “Elemental Hero Necroshade” and “Ultimate Offering” to Normal Summon an “Elemental Hero” without Tribute using the effect of “Ultimate Offering”.",
+    "Trooper": "● You can combine the effects of “Elemental Hero Necroshade” and “Ultimate Offering” to Normal Summon an “Elemental Hero” without Tribute using the effect of “Ultimate Offering”.",
+    "Circle": "● You can combine the effects of “Elemental Hero Necroshade” and “Ultimate Offering” to Normal Summon an “Elemental Hero” without Tribute using the effect of “Ultimate Offering”.",
+    "Stein": "● You can combine the effects of “Elemental Hero Necroshade” and “Ultimate Offering” to Normal Summon an “Elemental Hero” without Tribute using the effect of “Ultimate Offering”.",
+    "Base": "1. You can combine the effects of \"Elemental HERO Necroshade\" and \"Ultimate Offering\" to Normal Summon an 'Elemental HERO' without Tribute using the effect of \"Ultimate Offering\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

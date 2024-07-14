@@ -1,0 +1,44 @@
+{
+  "id": 50321796,
+  "name": "Brionac, Dragon of the Ice Barrier",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2300,
+    "def": 1400,
+    "level": 6,
+    "race": "Sea Serpent",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "● You can target cards on either field, and can use this effect multiple times per turn.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Discarding cards to the GY is a cost.\\n2. The effect of \"Brionac, Dragon of the Ice Barrier\" targets a number of cards equal to the number of cards that you discarded to the GY.\\n3. If you Synchro Summon \"Brionac, Dragon of the Ice Barrier\" using a monster with a mandatory effect like \"Goblin Zombie\" as one of the Synchro Material Monsters, when the Synchro Summon is successful the effect of that monster will activate automatically. You will not be able to activate the Ignition effect of Brionac before the mandatory effect of \"Goblin Zombie\".\\n4. If 1 or more of the targeted cards are removed from the field before the effect resolves, the rest will still be returned to the owner's hand."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1 or more non-Tuners\n① You can discard any number of cards to the GY, then target that many cards on the field; \nreturn them to the hand.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 46772449,
+  "name": "Evilswarm Exciton Knight",
+  "Stats": {
+    "type": "XYZ Monster",
+    "frameType": "xyz",
+    "atk": 1900,
+    "def": 0,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● This is a Quick Effect.\nQuick Effects are Fast Effects.\n● When this card is successfully summoned, if nothing is triggered, \nyou can activate this card's fast effect before your opponent can activate any fast effect.\nEG: When this is summoned, you can activate its effect before your opponent can use \"Bottomless Trap Hole\". Then, as Chain Link 2, Bottomless can be chained.",
+    "Vegas": "● This is a Quick Effect.\nQuick Effects are Fast Effects.\n● When this card is successfully summoned, if nothing is triggered, \nyou can activate this card's fast effect before your opponent can activate any fast effect.\nEG: When this is summoned, you can activate its effect before your opponent can use \"Bottomless Trap Hole\". Then, as Chain Link 2, Bottomless can be chained.",
+    "Meadowlands": "● This is a Quick Effect.\nQuick Effects are Fast Effects.\n● When this card is successfully summoned, if nothing is triggered, \nyou can activate this card's fast effect before your opponent can activate any fast effect.\nEG: When this is summoned, you can activate its effect before your opponent can use \"Bottomless Trap Hole\". Then, as Chain Link 2, Bottomless can be chained.",
+    "FireWater": "● This is a Quick Effect.\nQuick Effects are Fast Effects.\n● When this card is successfully summoned, if nothing is triggered, \nyou can activate this card's fast effect before your opponent can activate any fast effect.\nEG: When this is summoned, you can activate its effect before your opponent can use \"Bottomless Trap Hole\". Then, as Chain Link 2, Bottomless can be chained.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "2 Level 4 monsters\n① Once per chain, during your Main Phase or your opponent's Battle Phase, \nif your opponent has cards in their combined hand/field than you (Quick): \nYou can detach 1 Material from this card; \ndestroy all other cards on the field, also, for the rest of this turn, your opponent takes no damage.",
+    "Meadowlands": "2 Level 4 monsters\n① Once per chain, during your Main Phase or your opponent's Battle Phase, \nif your opponent has cards in their combined hand/field than you (Quick): \nYou can detach 1 Material from this card; \ndestroy all other cards on the field, also, for the rest of this turn, your opponent takes no damage.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

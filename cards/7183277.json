@@ -1,0 +1,44 @@
+{
+  "id": 7183277,
+  "name": "Aurkus, Lightsworn Druid",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1800,
+    "level": 3,
+    "race": "Beast-Warrior",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● This effect monsters \"everywhere\" from being targeted. This includes monsters in the GY.\n● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Lightsworn' monsters applying, in the GY, or Removed Zone can't be targeted by effects.\n● 'Aurkus, Lightsworn Druid' can't negate effects; it only prevents 'Lightsworn' monsters from being selected as the targets of effects.Once a target has been selected, the effect of 'Aurkus, Lightsworn Druid' is irrelevant.\n● If your opponent activates 'Ring of Destruction' targeting a 'Lightsworn' monster you control and you chain 'Glorious Illusion' to Special Summon 'Aurkus, Lightsworn Druid' from your GY, your 'Lightsworn' monster is still destroyed.\n● If you Special Summon a 'Lightsworn' monster with 'Glorious Illusion', and afterwards you Summon 'Aurkus, Lightsworn Druid', if your opponent later destroys 'Glorious Illusion' your 'Lightsworn' monster is also destroyed because 'Glorious Illusion' is NOT selecting your 'Lightsworn' monster as a target.\n● While you have 'Aurkus, Lightsworn Druid' on the field you can't equip your 'Lightsworn' monsters with Equip Cards, but if you already have a 'Lightsworn' monster equipped with an Equip Card when you Summon 'Aurkus, Lightsworn Druid', the Equip Card isn't destroyed or negated, because 'Aurkus, Lightsworn Druid' only prevents 'Lightsworn' monsters from being selected as a target.\n● 'Aurkus, Lightsworn Druid' will NOT stop 'Torrential Tribute', 'Mirror Force', 'Lightning Vortex', 'Fissure', 'Smashing Ground', or 'Hammer Shot', because these effects do not target.",
+    "TeleDAD": "● 'Lightsworn' monsters applying, in the GY, or Removed Zone can't be targeted by effects.\n● 'Aurkus, Lightsworn Druid' can't negate effects; it only prevents 'Lightsworn' monsters from being selected as the targets of effects.Once a target has been selected, the effect of 'Aurkus, Lightsworn Druid' is irrelevant.\n● If your opponent activates 'Ring of Destruction' targeting a 'Lightsworn' monster you control and you chain 'Glorious Illusion' to Special Summon 'Aurkus, Lightsworn Druid' from your GY, your 'Lightsworn' monster is still destroyed.\n● If you Special Summon a 'Lightsworn' monster with 'Glorious Illusion', and afterwards you Summon 'Aurkus, Lightsworn Druid', if your opponent later destroys 'Glorious Illusion' your 'Lightsworn' monster is also destroyed because 'Glorious Illusion' is NOT selecting your 'Lightsworn' monster as a target.\n● While you have 'Aurkus, Lightsworn Druid' on the field you can't equip your 'Lightsworn' monsters with Equip Cards, but if you already have a 'Lightsworn' monster equipped with an Equip Card when you Summon 'Aurkus, Lightsworn Druid', the Equip Card isn't destroyed or negated, because 'Aurkus, Lightsworn Druid' only prevents 'Lightsworn' monsters from being selected as a target.\n● 'Aurkus, Lightsworn Druid' will NOT stop 'Torrential Tribute', 'Mirror Force', 'Lightning Vortex', 'Fissure', 'Smashing Ground', or 'Hammer Shot', because these effects do not target.",
+    "Gladiator": "● 'Lightsworn' monsters applying, in the GY, or Removed Zone can't be targeted by effects.\n● 'Aurkus, Lightsworn Druid' can't negate effects; it only prevents 'Lightsworn' monsters from being selected as the targets of effects.Once a target has been selected, the effect of 'Aurkus, Lightsworn Druid' is irrelevant.\n● If your opponent activates 'Ring of Destruction' targeting a 'Lightsworn' monster you control and you chain 'Glorious Illusion' to Special Summon 'Aurkus, Lightsworn Druid' from your GY, your 'Lightsworn' monster is still destroyed.\n● If you Special Summon a 'Lightsworn' monster with 'Glorious Illusion', and afterwards you Summon 'Aurkus, Lightsworn Druid', if your opponent later destroys 'Glorious Illusion' your 'Lightsworn' monster is also destroyed because 'Glorious Illusion' is NOT selecting your 'Lightsworn' monster as a target.\n● While you have 'Aurkus, Lightsworn Druid' on the field you can't equip your 'Lightsworn' monsters with Equip Cards, but if you already have a 'Lightsworn' monster equipped with an Equip Card when you Summon 'Aurkus, Lightsworn Druid', the Equip Card isn't destroyed or negated, because 'Aurkus, Lightsworn Druid' only prevents 'Lightsworn' monsters from being selected as a target.\n● 'Aurkus, Lightsworn Druid' will NOT stop 'Torrential Tribute', 'Mirror Force', 'Lightning Vortex', 'Fissure', 'Smashing Ground', or 'Hammer Shot', because these effects do not target.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Lightsworn\" monsters face-up on the field, in the GY, or Removed Zone cannot be targeted by effects.\\n2. \"Aurkus, Lightsworn Druid\" cannot negate effects; it only prevents \"Lightsworn\" monsters from being selected as the targets of effects. Once a target has been selected, the effect of \"Aurkus, Lightsworn Druid\" is irrelevant.\\n3. If your opponent activates \"Ring of Destruction\" targeting a \"Lightsworn\" monster you control and you chain \"Glorious Illusion\" to Special Summon \"Aurkus, Lightsworn Druid\" from your GY, your \"Lightsworn\" monster is still destroyed.\\n4. If you Special Summon a \"Lightsworn\" monster with \"Glorious Illusion\", and afterwards you Summon \"Aurkus, Lightsworn Druid\", if your opponent later destroys \"Glorious Illusion\" your \"Lightsworn\" monster is also destroyed because \"Glorious Illusion\" is NOT selecting your \"Lightsworn\" monster as a target.\\n5. While you have \"Aurkus, Lightsworn Druid\" on the field you cannot equip your \"Lightsworn\" monsters with Equip Cards, but if you already have a \"Lightsworn\" monster equipped with an Equip Card when you Summon \"Aurkus, Lightsworn Druid\", the Equip Card is not destroyed or negated, because \"Aurkus, Lightsworn Druid\" only prevents \"Lightsworn\" monsters from being selected as a target.\\n6. \"Aurkus, Lightsworn Druid\" will NOT stop \"Torrential Tribute\", \"Mirror Force\", \"Lightning Vortex\", \"Fissure\", \"Smashing Ground\", or \"Hammer Shot\", because these effects do not target."
+  },
+  "PSCT": {
+    "Tengu": "① Neither player can target \"Lightsworn\" monsters (anywhere) with card effects. \n② During your End Phase: Send the top 2 cards of your Deck to the GY.\n(Activate & Resolve only if this card is face-up on the field).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 44072894,
+  "name": "Supply",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 1300,
+    "def": 800,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●You must have 2 Fusion Material Monsters in YOUR GY otherwise this card’s effect will disappear when flipped.\n●If you have Fusion Summoned 2 Fusion Monsters during the course of the Duel, you may return 1 Fusion Material Monster from each of them with this card’s effect. In other words, the returned Fusion Material Monsters do not need to be part of the same Fusion.",
+    "Goat": "●You must have 2 Fusion Material Monsters in YOUR GY otherwise this card’s effect will disappear when flipped.\n●If you have Fusion Summoned 2 Fusion Monsters during the course of the Duel, you may return 1 Fusion Material Monster from each of them with this card’s effect. In other words, the returned Fusion Material Monsters do not need to be part of the same Fusion. Fusion substitution monsters that were used in a Fusion summon may be returned to the hand through the effect of “Supply.”",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You must have 2 Fusion Material Monsters in YOUR GY otherwise this card’s effect will disappear when flipped.\n● If you have Fusion Summoned 2 Fusion Monsters during the course of the Duel, you may return 1 Fusion Material Monster from each of them with this card’s effect. In other words, the returned Fusion Material Monsters do not need to be part of the same Fusion.",
+    "TeleDAD": "● You must have 2 Fusion Material Monsters in YOUR GY otherwise this card’s effect will disappear when flipped.\n● If you have Fusion Summoned 2 Fusion Monsters during the course of the Duel, you may return 1 Fusion Material Monster from each of them with this card’s effect. In other words, the returned Fusion Material Monsters do not need to be part of the same Fusion.",
+    "Gladiator": "● You must have 2 Fusion Material Monsters in YOUR GY otherwise this card’s effect will disappear when flipped.\n● If you have Fusion Summoned 2 Fusion Monsters during the course of the Duel, you may return 1 Fusion Material Monster from each of them with this card’s effect. In other words, the returned Fusion Material Monsters do not need to be part of the same Fusion.",
+    "ReturnDAD": "● You must have 2 Fusion Material Monsters in YOUR GY otherwise this card’s effect will disappear when flipped.\n● If you have Fusion Summoned 2 Fusion Monsters during the course of the Duel, you may return 1 Fusion Material Monster from each of them with this card’s effect. In other words, the returned Fusion Material Monsters do not need to be part of the same Fusion.",
+    "Trooper": "● You must have 2 Fusion Material Monsters in YOUR GY otherwise this card’s effect will disappear when flipped.\n● If you have Fusion Summoned 2 Fusion Monsters during the course of the Duel, you may return 1 Fusion Material Monster from each of them with this card’s effect. In other words, the returned Fusion Material Monsters do not need to be part of the same Fusion.",
+    "Circle": "● You must have 2 Fusion Material Monsters in YOUR GY otherwise this card’s effect will disappear when flipped.\n● If you have Fusion Summoned 2 Fusion Monsters during the course of the Duel, you may return 1 Fusion Material Monster from each of them with this card’s effect. In other words, the returned Fusion Material Monsters do not need to be part of the same Fusion.",
+    "Stein": "● You must have 2 Fusion Material Monsters in YOUR GY otherwise this card’s effect will disappear when flipped.\n● If you have Fusion Summoned 2 Fusion Monsters during the course of the Duel, you may return 1 Fusion Material Monster from each of them with this card’s effect. In other words, the returned Fusion Material Monsters do not need to be part of the same Fusion.",
+    "Base": "1. You must have 2 Fusion Material Monsters in YOUR GY otherwise this card's effect will disappear when flipped.\\n2. If you have Fusion Summoned 2 Fusion Monsters during the course of the Duel, you may return 1 Fusion Material Monster from each of them with this card's effect. In other words, the returned Fusion Material Monsters do not need to be part of the same Fusion."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 42015635,
+  "name": "Neo Space",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Field"
+  },
+  "Rulings": {
+    "Tengu": "\n●If “UFOroid Fighter” is Fusion Summoned with “Elemental Hero Neos” being used as the 1 Warrior-Type monster, “UFOroid Fighter” will NOT be affected by “Neo Space” because “Elemental Hero Neos” is not listed by name on the card.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “UFOroid Fighter” is Fusion Summoned with “Elemental Hero Neos” being used as the 1 Warrior, “UFOroid Fighter” will NOT be affected by “Neo Space” because “Elemental Hero Neos” isn't listed by name on the card.",
+    "TeleDAD": "● If “UFOroid Fighter” is Fusion Summoned with “Elemental Hero Neos” being used as the 1 Warrior, “UFOroid Fighter” will NOT be affected by “Neo Space” because “Elemental Hero Neos” isn't listed by name on the card.",
+    "Gladiator": "● If “UFOroid Fighter” is Fusion Summoned with “Elemental Hero Neos” being used as the 1 Warrior, “UFOroid Fighter” will NOT be affected by “Neo Space” because “Elemental Hero Neos” isn't listed by name on the card.",
+    "ReturnDAD": "● If “UFOroid Fighter” is Fusion Summoned with “Elemental Hero Neos” being used as the 1 Warrior, “UFOroid Fighter” will NOT be affected by “Neo Space” because “Elemental Hero Neos” isn't listed by name on the card.",
+    "Trooper": "● If “UFOroid Fighter” is Fusion Summoned with “Elemental Hero Neos” being used as the 1 Warrior, “UFOroid Fighter” will NOT be affected by “Neo Space” because “Elemental Hero Neos” isn't listed by name on the card.",
+    "Circle": "● If “UFOroid Fighter” is Fusion Summoned with “Elemental Hero Neos” being used as the 1 Warrior, “UFOroid Fighter” will NOT be affected by “Neo Space” because “Elemental Hero Neos” isn't listed by name on the card.",
+    "Stein": "● If “UFOroid Fighter” is Fusion Summoned with “Elemental Hero Neos” being used as the 1 Warrior, “UFOroid Fighter” will NOT be affected by “Neo Space” because “Elemental Hero Neos” isn't listed by name on the card.",
+    "Base": "1. If \"UFOroid Fighter\" is Fusion Summoned with \"Elemental HERO Neos\" being used as the 1 Warrior-Type monster, \"UFOroid Fighter\" will NOT be affected by \"Neo Space\" because \"Elemental HERO Neos\" is not listed by name on the card."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

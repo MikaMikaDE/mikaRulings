@@ -1,0 +1,44 @@
+{
+  "id": 67270095,
+  "name": "Turbo Synchron",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 500,
+    "level": 1,
+    "race": "Machine",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "(1) When this card declares an attack, you can change the attack target to Defense Position. (2) When you take Battle Damage while this card is attacking, you can Special Summon 1 monster from your hand with ATK equal to or less than the Battle Damage you took.\n●The (1) optional Trigger Effect activates & resolves on the field.\n●This effect activates at the Start of the Battle Step - Attack Declaration (like Mirror Force).\n●This does not target the opponent's monster.\n●If Turbo Synchron attacks an Attack Position Berserk Gorilla and activates its effect, Berserk Gorilla is shifted to Defense Position and destroyed. A replay occurs but this effect cannot be activated again, since as the Attack Declaration timing has concluded.\n●The (2) optional Trigger Effect activates & resolves on the field.\n●This effect activates in Substep 5 - After Damage Calculation (after Battle Damage is dealt).\n●Turbo Synchron must be face-up on the field (not destroyed by battle) to activate this effect.\n●This effect cannot activate if 0 Battle Damage was dealt while Waboku applies.\n●If the Special Summoned monster has a Trigger Effects (ex: Red Gadget), it can activate and start another manual chain in Substep 5 - After Damage Calculation.\n●Continuous Effects of the Special Summoned monster take effect immediately.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Turbo Synchron's' effects do not target.\n● If 'Turbo Synchron' attacks your opponent's monster while they have 'Fairy Box' applying, the effects of 'Turbo Synchron' and 'Fairy Box' form a Chain.\n● If 'Turbo Synchron' attacks an Attack Position 'Berserk Gorilla' and activate its effect, 'Berserk Gorilla' is destroyed when it is shifted to Defense Position, and a replay occurs. If 'Turbo Synchron' select another monster to attack, it can't activate its effect again because it isn't 'declaring an attack'.",
+    "TeleDAD": "● 'Turbo Synchron's' effects do not target.\n● If 'Turbo Synchron' attacks your opponent's monster while they have 'Fairy Box' applying, the effects of 'Turbo Synchron' and 'Fairy Box' form a Chain.\n● If 'Turbo Synchron' attacks an Attack Position 'Berserk Gorilla' and activate its effect, 'Berserk Gorilla' is destroyed when it is shifted to Defense Position, and a replay occurs. If 'Turbo Synchron' select another monster to attack, it can't activate its effect again because it isn't 'declaring an attack'.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Turbo Synchron\" does not target.\\n2. If \"Turbo Synchron\" attacks your opponent's monster while they have \"Fairy Box\" active, the effects of \"Turbo Synchron\" and \"Fairy Box\" form a Chain.\\n3. If \"Turbo Synchron\" attacks an Attack Position \"Berserk Gorilla\" and activates its effect, \"Berserk Gorilla\" is destroyed when it is changed to Defense Position, and a replay occurs. If \"Turbo Synchron\" selects another monster to attack, it cannot activate its effect again because it is not 'declaring an attack'."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

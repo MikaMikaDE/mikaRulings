@@ -1,0 +1,44 @@
+{
+  "id": 76052811,
+  "name": "Helpoemer",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2000,
+    "def": 1400,
+    "level": 5,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●When you have multiple Helpoemer cards in your GY, each with an activated effect, the effects are cumulative.\n●If your opponent chooses not to conduct a Battle Phase, there is no timing for the end of the Battle Phase, so the effect of Helpoemer is not activated. The same is true if the Battle Phase is skipped due to a card effect.\n●Helpoemer cannot be Special Summoned from the GY even if it was not destroyed as a result of battle (the final sentence on Helpoemer is a condition, not an effect, and is not subject to the first sentence on Helpoemer).",
+    "Goat": "●When you have multiple Helpoemer cards in your GY, each with an activated effect, the effects are cumulative.\n●If your opponent chooses not to conduct a Battle Phase, there is no timing for the end of the Battle Phase, so the effect of Helpoemer is not activated. The same is true if the Battle Phase is skipped due to a card effect.\n●Helpoemer cannot be Special Summoned from the GY even if it was not destroyed by battle (the final sentence on Helpoemer is a condition, not an effect, and is not subject to the first sentence on Helpoemer).\n●Q: If “Helpoemer” is sent to the GY without being involved in battle, can it be Special Summoned from the GY with “Monster Reborn” or some other card effect? \nA: The condition of not being able to Special Summon Helpoemer from the GY is true irregardless of how it gets into the GY.  ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When you have multiple 'Helpoemer' cards in your GY, each with an activated effect, the effects are cumulative.\n●If your opponent chooses not to conduct a Battle Phase, there is no timing for the end of the Battle Phase, so the effect of 'Helpoemer' isn't activated. The same is true if the Battle Phase is skipped due to a card effect.\n● 'Helpoemer' can't be Special Summoned from the GY even if it was not destroyed as a result of battle (the final sentence on 'Helpoemer' is a condition, not an effect, and isn't subject to the first sentence on 'Helpoemer').",
+    "TeleDAD": "● When you have multiple 'Helpoemer' cards in your GY, each with an activated effect, the effects are cumulative.\n●If your opponent chooses not to conduct a Battle Phase, there is no timing for the end of the Battle Phase, so the effect of 'Helpoemer' isn't activated. The same is true if the Battle Phase is skipped due to a card effect.\n● 'Helpoemer' can't be Special Summoned from the GY even if it was not destroyed as a result of battle (the final sentence on 'Helpoemer' is a condition, not an effect, and isn't subject to the first sentence on 'Helpoemer').",
+    "Gladiator": "● When you have multiple 'Helpoemer' cards in your GY, each with an activated effect, the effects are cumulative.\n●If your opponent chooses not to conduct a Battle Phase, there is no timing for the end of the Battle Phase, so the effect of 'Helpoemer' isn't activated. The same is true if the Battle Phase is skipped due to a card effect.\n● 'Helpoemer' can't be Special Summoned from the GY even if it was not destroyed as a result of battle (the final sentence on 'Helpoemer' is a condition, not an effect, and isn't subject to the first sentence on 'Helpoemer').",
+    "ReturnDAD": "● When you have multiple 'Helpoemer' cards in your GY, each with an activated effect, the effects are cumulative.\n●If your opponent chooses not to conduct a Battle Phase, there is no timing for the end of the Battle Phase, so the effect of 'Helpoemer' isn't activated. The same is true if the Battle Phase is skipped due to a card effect.\n● 'Helpoemer' can't be Special Summoned from the GY even if it was not destroyed as a result of battle (the final sentence on 'Helpoemer' is a condition, not an effect, and isn't subject to the first sentence on 'Helpoemer').",
+    "Trooper": "● When you have multiple 'Helpoemer' cards in your GY, each with an activated effect, the effects are cumulative.\n●If your opponent chooses not to conduct a Battle Phase, there is no timing for the end of the Battle Phase, so the effect of 'Helpoemer' isn't activated. The same is true if the Battle Phase is skipped due to a card effect.\n● 'Helpoemer' can't be Special Summoned from the GY even if it was not destroyed as a result of battle (the final sentence on 'Helpoemer' is a condition, not an effect, and isn't subject to the first sentence on 'Helpoemer').",
+    "Circle": "● When you have multiple 'Helpoemer' cards in your GY, each with an activated effect, the effects are cumulative.\n●If your opponent chooses not to conduct a Battle Phase, there is no timing for the end of the Battle Phase, so the effect of 'Helpoemer' isn't activated. The same is true if the Battle Phase is skipped due to a card effect.\n● 'Helpoemer' can't be Special Summoned from the GY even if it was not destroyed as a result of battle (the final sentence on 'Helpoemer' is a condition, not an effect, and isn't subject to the first sentence on 'Helpoemer').",
+    "Stein": "● When you have multiple 'Helpoemer' cards in your GY, each with an activated effect, the effects are cumulative.\n●If your opponent chooses not to conduct a Battle Phase, there is no timing for the end of the Battle Phase, so the effect of 'Helpoemer' isn't activated. The same is true if the Battle Phase is skipped due to a card effect.\n● 'Helpoemer' can't be Special Summoned from the GY even if it was not destroyed as a result of battle (the final sentence on 'Helpoemer' is a condition, not an effect, and isn't subject to the first sentence on 'Helpoemer').",
+    "Base": "1. When you have multiple \"Helpoemer\" cards in your GY, each with an activated effect, the effects are cumulative.\\n2. If your opponent chooses not to conduct a Battle Phase, there is no timing for the end of the Battle Phase, so the effect of \"Helpoemer\" is not activated. The same is true if the Battle Phase is skipped due to a card effect.\\n3. \"Helpoemer\" cannot be Special Summoned from the GY even if it was not destroyed as a result of battle (the final sentence on \"Helpoemer\" is a condition, not an effect, and is not subject to the first sentence on \"Helpoemer\")."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

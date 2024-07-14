@@ -1,0 +1,40 @@
+{
+  "id": 76515293,
+  "name": "Xing Zhen Hu",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can chain one of the 2 Spell or Trap Cards on the field to the activation of Xing Zhen Hu. However, the remaining one will not be able to be activated after Xing Zhen Hu resolves.\n●If neither of the targeted Spell or Trap Cards is on the field when Xing Zhen Hu resolves, then Xing Zhen Hu remains on the field meaninglessly.",
+    "Goat": "●You can chain one of the 2 Spell/Trap Cards on the field to the activation of Xing Zhen Hu. However, the remaining one will not be able to be activated after Xing Zhen Hu resolves.\n●If neither of the targeted Spell/Trap Cards is on the field when Xing Zhen Hu resolves, then Xing Zhen Hu remains on the field meaninglessly.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can chain one of the 2 Spell/Trap Cards on the field to the activation of 'Xing Zhen Hu'. However, the remaining one will not be able to be activated after 'Xing Zhen Hu' resolves.\n● If neither of the targeted Spell/Trap Cards is on the field when 'Xing Zhen Hu' resolves, then 'Xing Zhen Hu' remains on the field meaninglessly.",
+    "TeleDAD": "● You can chain one of the 2 Spell/Trap Cards on the field to the activation of 'Xing Zhen Hu'. However, the remaining one will not be able to be activated after 'Xing Zhen Hu' resolves.\n● If neither of the targeted Spell/Trap Cards is on the field when 'Xing Zhen Hu' resolves, then 'Xing Zhen Hu' remains on the field meaninglessly.",
+    "Gladiator": "● You can chain one of the 2 Spell/Trap Cards on the field to the activation of 'Xing Zhen Hu'. However, the remaining one will not be able to be activated after 'Xing Zhen Hu' resolves.\n● If neither of the targeted Spell/Trap Cards is on the field when 'Xing Zhen Hu' resolves, then 'Xing Zhen Hu' remains on the field meaninglessly.",
+    "ReturnDAD": "● You can chain one of the 2 Spell/Trap Cards on the field to the activation of 'Xing Zhen Hu'. However, the remaining one will not be able to be activated after 'Xing Zhen Hu' resolves.\n● If neither of the targeted Spell/Trap Cards is on the field when 'Xing Zhen Hu' resolves, then 'Xing Zhen Hu' remains on the field meaninglessly.",
+    "Trooper": "● You can chain one of the 2 Spell/Trap Cards on the field to the activation of 'Xing Zhen Hu'. However, the remaining one will not be able to be activated after 'Xing Zhen Hu' resolves.\n● If neither of the targeted Spell/Trap Cards is on the field when 'Xing Zhen Hu' resolves, then 'Xing Zhen Hu' remains on the field meaninglessly.",
+    "Circle": "● You can chain one of the 2 Spell/Trap Cards on the field to the activation of 'Xing Zhen Hu'. However, the remaining one will not be able to be activated after 'Xing Zhen Hu' resolves.\n● If neither of the targeted Spell/Trap Cards is on the field when 'Xing Zhen Hu' resolves, then 'Xing Zhen Hu' remains on the field meaninglessly.",
+    "Stein": "● You can chain one of the 2 Spell/Trap Cards on the field to the activation of 'Xing Zhen Hu'. However, the remaining one will not be able to be activated after 'Xing Zhen Hu' resolves.\n● If neither of the targeted Spell/Trap Cards is on the field when 'Xing Zhen Hu' resolves, then 'Xing Zhen Hu' remains on the field meaninglessly.",
+    "Base": "1. You can chain one of the 2 Spell or Trap Cards on the field to the activation of \"Xing Zhen Hu\". However, the remaining one will not be able to be activated after \"Xing Zhen Hu\" resolves.\\n2. If neither of the targeted Spell or Trap Cards is on the field when \"Xing Zhen Hu\" resolves, then \"Xing Zhen Hu\" remains on the field meaninglessly."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

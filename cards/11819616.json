@@ -1,0 +1,44 @@
+{
+  "id": 11819616,
+  "name": "Tytannial, Princess of Camellias",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 2600,
+    "level": 8,
+    "race": "Plant",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "(1) You can Tribute 1 face-up Plant-Type monster you control to negate the activation of a Spell, Trap, or Effect Monster's effect that targets a card(s) on the field and destroy it.\n●The (1) Quick Effect activates & resolves on the field.\n●Tributing 1 face-up Plant-Type monster (even itself) you control is a cost.\n●This effect negates the activation of a Card / Effect, even in the Damage Step.\n●This effect negates the activated effect Spell / Trap Cards (ex: Blaze Accelerator).\n●This effect cannot activate if a Card / Effect does not target (ex: Black Rose Dragon).\n●During the Damage Step, Tytannial, Princess of Camellias can Tribute a Plant-Type monster that is attacking or being attacked to activate its effect. If the Plant-Type monster that is attacking or being attacked is Tributed before damage calculation, damage calculation does not occur. If the Plant-Type monster is destroyed by the battle, it cannot be Tributed to activate Tytannial, Princess of Camellias' effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Tributing 1 face-up Plant you control is a cost to activate 'Tytannial, Princess of Camellias'' Quick Effect. This effect can be activated in the Damage Step.\n● 'Tytannial, Princess of Camellias' can be Tributed to activate its own effect.\n● 'Tytannial, Princess of Camellias's' effect can be chained when the effect of a Continuous Spell/Trap Card is activated.\n● During the Damage Step, 'Tytannial, Princess of Camellias' can Tribute a Plant that is attacking or being attacked to activate its effect. If the Plant that is attacking or being attacked is Tributed before damage calculation, damage calculation does not occur. If the Plant is destroyed by the battle, it can't be Tributed to activate 'Tytannial, Princess of Camellias'' effect.",
+    "TeleDAD": "● Tributing 1 face-up Plant you control is a cost to activate 'Tytannial, Princess of Camellias'' Quick Effect. This effect can be activated in the Damage Step.\n● 'Tytannial, Princess of Camellias' can be Tributed to activate its own effect.\n● 'Tytannial, Princess of Camellias's' effect can be chained when the effect of a Continuous Spell/Trap Card is activated.\n● During the Damage Step, 'Tytannial, Princess of Camellias' can Tribute a Plant that is attacking or being attacked to activate its effect. If the Plant that is attacking or being attacked is Tributed before damage calculation, damage calculation does not occur. If the Plant is destroyed by the battle, it can't be Tributed to activate 'Tytannial, Princess of Camellias'' effect.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Tributing 1 face-up Plant-Type monster you control is a cost to activate the Quick Effect of \"Tytannial, Princess of Camellias\". This effect can be activated in the Damage Step.\\n2. \"Tytannial, Princess of Camellias\" can be Tributed to activate its own effect.\\n3. The effect of \"Tytannial, Princess of Camellias\" can be chained when the effect of a Continuous Spell or Trap Card is activated.\\n4. During the Damage Step, \"Tytannial, Princess of Camellias\" can Tribute a Plant-Type monster that is attacking or being attacked to activate its effect. If the Plant-Type monster that is attacking or being attacked is Tributed before damage calculation, damage calculation does not occur. If the Plant-Type monster is destroyed by the battle, it cannot be Tributed to activate \"Tytannial, Princess of Camellias\" effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

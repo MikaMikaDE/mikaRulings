@@ -1,0 +1,40 @@
+{
+  "id": 49140998,
+  "name": "A Feather of the Phoenix",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Discard 1 card. Select 1 card from your GY and return it to the top of your Deck.\n●Discarding 1 card is a cost. Your opponent can chain D.D. Crow.\n●This is an effect that targets.\n●You can target a Fusion / Synchro Monster in the GY, but it is returned to the Extra Deck.\n●You can target the card you discarded for the cost of A Feather of the Phoenix to be the card returned to the top of your Deck. If you discarded Night Assailant or Makyura the Destructor, then their effects will activate.",
+    "Goat": "●You can select the card you discarded for the cost of “A Feather of the Phoenix” to be the card returned to the top of your Deck. If you discarded “Night Assailant” or “Makyura the Destructor”, then their effects will activate.\n●You can select a Fusion Monster in the GY for “A Feather of the Phoenix” but it is returned to the Fusion Deck.\n●Discarding 1 card is a cost to activate this effect. Your opponent can chain “Disappear” to the activation of this card and remove the discarded card from play so that you cannot return it to the top of the Deck.\n●This is an effect that targets.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can select the card you discarded for the cost of 'A Feather of the Phoenix' to be the card returned to the top of your Deck. If you discarded 'Night Assailant' or 'Makyura the Destructor', then their effects will activate.\n● You can select a Fusion Monster in the GY for 'A Feather of the Phoenix' but it is returned to the Extra Deck.\n● Discarding 1 card is a cost to activate this effect. Your opponent can chain 'Disappear' to the activation of this card and remove the discarded card from play so that you can't return it to the top of the Deck.\n● This is an effect that targets.",
+    "TeleDAD": "● You can select the card you discarded for the cost of 'A Feather of the Phoenix' to be the card returned to the top of your Deck. If you discarded 'Night Assailant' or 'Makyura the Destructor', then their effects will activate.\n● You can select a Fusion Monster in the GY for 'A Feather of the Phoenix' but it is returned to the Extra Deck.\n● Discarding 1 card is a cost to activate this effect. Your opponent can chain 'Disappear' to the activation of this card and remove the discarded card from play so that you can't return it to the top of the Deck.\n● This is an effect that targets.",
+    "Gladiator": "● You can select the card you discarded for the cost of “A Feather of the Phoenix” to be the card returned to the top of your Deck. If you discarded “Night Assailant” or “Makyura the Destructor”, then their effects will activate.\n● You can select a Fusion Monster in the GY for “A Feather of the Phoenix” but it is returned to the Fusion Deck.\n● Discarding 1 card is a cost to activate this effect. Your opponent can chain “Disappear” to the activation of this card and remove the discarded card from play so that you can't return it to the top of the Deck.\n● This is an effect that targets.",
+    "ReturnDAD": "● You can select the card you discarded for the cost of “A Feather of the Phoenix” to be the card returned to the top of your Deck. If you discarded “Night Assailant” or “Makyura the Destructor”, then their effects will activate.\n● You can select a Fusion Monster in the GY for “A Feather of the Phoenix” but it is returned to the Fusion Deck.\n● Discarding 1 card is a cost to activate this effect. Your opponent can chain “Disappear” to the activation of this card and remove the discarded card from play so that you can't return it to the top of the Deck.\n● This is an effect that targets.",
+    "Trooper": "● You can select the card you discarded for the cost of “A Feather of the Phoenix” to be the card returned to the top of your Deck. If you discarded “Night Assailant” or “Makyura the Destructor”, then their effects will activate.\n● You can select a Fusion Monster in the GY for “A Feather of the Phoenix” but it is returned to the Fusion Deck.\n● Discarding 1 card is a cost to activate this effect. Your opponent can chain “Disappear” to the activation of this card and remove the discarded card from play so that you can't return it to the top of the Deck.\n● This is an effect that targets.",
+    "Circle": "● You can select the card you discarded for the cost of “A Feather of the Phoenix” to be the card returned to the top of your Deck. If you discarded “Night Assailant” or “Makyura the Destructor”, then their effects will activate.\n● You can select a Fusion Monster in the GY for “A Feather of the Phoenix” but it is returned to the Fusion Deck.\n● Discarding 1 card is a cost to activate this effect. Your opponent can chain “Disappear” to the activation of this card and remove the discarded card from play so that you can't return it to the top of the Deck.\n● This is an effect that targets.",
+    "Stein": "● You can select the card you discarded for the cost of “A Feather of the Phoenix” to be the card returned to the top of your Deck. If you discarded “Night Assailant” or “Makyura the Destructor”, then their effects will activate.\n● You can select a Fusion Monster in the GY for “A Feather of the Phoenix” but it is returned to the Fusion Deck.\n● Discarding 1 card is a cost to activate this effect. Your opponent can chain “Disappear” to the activation of this card and remove the discarded card from play so that you can't return it to the top of the Deck.\n● This is an effect that targets.",
+    "Base": "1. You can select the card you discarded for the cost of \"A Feather of the Phoenix\" to be the card returned to the top of your Deck. If you discarded \"Night Assailant\" or \"Makyura the Destructor\", then their effects will activate.\\n2. You can select a Fusion Monster in the GY for \"A Feather of the Phoenix\" but it is returned to the Extra Deck.\\n3. Discarding 1 card is a cost to activate this effect. Your opponent can chain \"Disappear\" to the activation of this card and remove the discarded card from play so that you cannot return it to the top of the Deck.\\n4. This is an effect that targets."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 40867519,
+  "name": "Silent Insect",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 200,
+    "def": 300,
+    "level": 2,
+    "race": "Insect",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Changing this card to Defense Position when it is Normal or Flip Summoned is a Trigger Effect. Its other effect is a Continuous Effect.\n●If “Silent Insect” is face-up on the field, you can activate “Skill Drain” by paying 1000 Life Points, but its effect will be negated. If “Skill Drain” is active on the field when you Normal or Flip Summon “Silent Insect”, its effects are negated and it will remain in Attack Position.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Changing this card to Defense Position when it is Normal or Flip Summoned is a Trigger Effect. Its other effect is a Continuous Effect.\n● If “Silent Insect” is applying, you can activate “Skill Drain” by paying 1000 LP, but its effect will be negated. If “Skill Drain” is applying when you Normal or Flip Summon “Silent Insect”, its effects are negated and it will remain in Attack Position.",
+    "TeleDAD": "● Changing this card to Defense Position when it is Normal or Flip Summoned is a Trigger Effect. Its other effect is a Continuous Effect.\n● If “Silent Insect” is applying, you can activate “Skill Drain” by paying 1000 LP, but its effect will be negated. If “Skill Drain” is applying when you Normal or Flip Summon “Silent Insect”, its effects are negated and it will remain in Attack Position.",
+    "Gladiator": "● Changing this card to Defense Position when it is Normal or Flip Summoned is a Trigger Effect. Its other effect is a Continuous Effect.\n● If “Silent Insect” is applying, you can activate “Skill Drain” by paying 1000 LP, but its effect will be negated. If “Skill Drain” is applying when you Normal or Flip Summon “Silent Insect”, its effects are negated and it will remain in Attack Position.",
+    "ReturnDAD": "● Changing this card to Defense Position when it is Normal or Flip Summoned is a Trigger Effect. Its other effect is a Continuous Effect.\n● If “Silent Insect” is applying, you can activate “Skill Drain” by paying 1000 LP, but its effect will be negated. If “Skill Drain” is applying when you Normal or Flip Summon “Silent Insect”, its effects are negated and it will remain in Attack Position.",
+    "Trooper": "● Changing this card to Defense Position when it is Normal or Flip Summoned is a Trigger Effect. Its other effect is a Continuous Effect.\n● If “Silent Insect” is applying, you can activate “Skill Drain” by paying 1000 LP, but its effect will be negated. If “Skill Drain” is applying when you Normal or Flip Summon “Silent Insect”, its effects are negated and it will remain in Attack Position.",
+    "Circle": "● Changing this card to Defense Position when it is Normal or Flip Summoned is a Trigger Effect. Its other effect is a Continuous Effect.\n● If “Silent Insect” is applying, you can activate “Skill Drain” by paying 1000 LP, but its effect will be negated. If “Skill Drain” is applying when you Normal or Flip Summon “Silent Insect”, its effects are negated and it will remain in Attack Position.",
+    "Stein": "● Changing this card to Defense Position when it is Normal or Flip Summoned is a Trigger Effect. Its other effect is a Continuous Effect.\n● If “Silent Insect” is applying, you can activate “Skill Drain” by paying 1000 LP, but its effect will be negated. If “Skill Drain” is applying when you Normal or Flip Summon “Silent Insect”, its effects are negated and it will remain in Attack Position.",
+    "Base": "1. Changing this card to Defense Position when it is Normal or Flip Summoned is a Trigger Effect. Its other effect is a Continuous Effect.\\n2. If \"Silent Insect\" is face-up on the field, you can activate \"Skill Drain\" by paying 1000 Life Points, but its effect will be negated. If \"Skill Drain\" is active on the field when you Normal or Flip Summon \"Silent Insect\", its effects are negated and it will remain in Attack Position."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

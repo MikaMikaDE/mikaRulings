@@ -1,0 +1,40 @@
+{
+  "id": 22589918,
+  "name": "Reload",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you have your opponent's card in your hand and activate Reload, your opponent's card is shuffled to his/her Deck.\n●Your opponent can activate Appropriate in response to your drawing with Reload's effect.",
+    "Goat": "●If you have your opponent's card in your hand and activate Reload, your opponent's card is shuffled to his/her Deck.\n●Your opponent can activate Appropriate in response to your drawing with Reload's effect. If “Reload” is chained to the activation of “Drop Off,” the effect of “Drop Off” disappears.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have your opponent's card in your hand and activate 'Reload', your opponent's card is shuffled to his/her Deck.\n● Your opponent can activate 'Appropriate' in response to your drawing with 'Reload''s effect.",
+    "TeleDAD": "● If you have your opponent's card in your hand and activate 'Reload', your opponent's card is shuffled to his/her Deck.\n● Your opponent can activate 'Appropriate' in response to your drawing with 'Reload''s effect.",
+    "Gladiator": "● If you have your opponent's card in your hand and activate 'Reload', your opponent's card is shuffled to his/her Deck.\n● Your opponent can activate 'Appropriate' in response to your drawing with 'Reload''s effect.",
+    "ReturnDAD": "● If you have your opponent's card in your hand and activate 'Reload', your opponent's card is shuffled to his/her Deck.\n● Your opponent can activate 'Appropriate' in response to your drawing with 'Reload''s effect.",
+    "Trooper": "● If you have your opponent's card in your hand and activate 'Reload', your opponent's card is shuffled to his/her Deck.\n● Your opponent can activate 'Appropriate' in response to your drawing with 'Reload''s effect.",
+    "Circle": "● If you have your opponent's card in your hand and activate 'Reload', your opponent's card is shuffled to his/her Deck.\n● Your opponent can activate 'Appropriate' in response to your drawing with 'Reload''s effect.",
+    "Stein": "● If you have your opponent's card in your hand and activate 'Reload', your opponent's card is shuffled to his/her Deck.\n● Your opponent can activate 'Appropriate' in response to your drawing with 'Reload''s effect.",
+    "Base": "1. If you have your opponent's card in your hand and activate \"Reload\", your opponent's card is shuffled to his/her Deck.\\n2. Your opponent can activate \"Appropriate\" in response to your drawing with the effect of \"Reload\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

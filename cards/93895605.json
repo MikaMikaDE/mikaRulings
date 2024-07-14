@@ -1,0 +1,40 @@
+{
+  "id": 93895605,
+  "name": "Hate Buster",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Hate Buster targets the attacking monster and the Fiend-Type Monster being attacked.\n●If your Fiend-Type Monster isn't destroyed by Hate Buster, you do not inflict damage to your opponent's Life Points.\n●Hate Buster inflicts damage equal to the original ATK of the destroyed monster after it is sent to the GY or removed zone. If you destroy a Monster Token or a Trap Card that is treated as a monster (Embodiment of Apophis, etc.) no damage will be inflicted.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Hate Buster' targets the attacking monster and the Fiend-Type Monster being attacked.\n● If your Fiend-Type Monster isn't destroyed by 'Hate Buster', you do not inflict damage to your opponent's LP.\n● 'Hate Buster' inflicts damage equal to the original ATK of the destroyed monster after it is sent to the GY or removed zone. If you destroy a Monster Token or a Trap Card that is treated as a monster ('Embodiment of Apophis', etc.) no damage will be inflicted.",
+    "TeleDAD": "● 'Hate Buster' targets the attacking monster and the Fiend-Type Monster being attacked.\n● If your Fiend-Type Monster isn't destroyed by 'Hate Buster', you do not inflict damage to your opponent's LP.\n● 'Hate Buster' inflicts damage equal to the original ATK of the destroyed monster after it is sent to the GY or removed zone. If you destroy a Monster Token or a Trap Card that is treated as a monster ('Embodiment of Apophis', etc.) no damage will be inflicted.",
+    "Gladiator": "● 'Hate Buster' targets the attacking monster and the Fiend-Type Monster being attacked.\n● If your Fiend-Type Monster isn't destroyed by 'Hate Buster', you do not inflict damage to your opponent's LP.\n● 'Hate Buster' inflicts damage equal to the original ATK of the destroyed monster after it is sent to the GY or removed zone. If you destroy a Monster Token or a Trap Card that is treated as a monster ('Embodiment of Apophis', etc.) no damage will be inflicted.",
+    "ReturnDAD": "● 'Hate Buster' targets the attacking monster and the Fiend-Type Monster being attacked.\n● If your Fiend-Type Monster isn't destroyed by 'Hate Buster', you do not inflict damage to your opponent's LP.\n● 'Hate Buster' inflicts damage equal to the original ATK of the destroyed monster after it is sent to the GY or removed zone. If you destroy a Monster Token or a Trap Card that is treated as a monster ('Embodiment of Apophis', etc.) no damage will be inflicted.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Hate Buster\" targets the attacking monster and the Fiend-Type Monster being attacked.\\n2. If your Fiend-Type Monster isn't destroyed by \"Hate Buster\", you do not inflict damage to your opponent's Life Points.\\n3. \"Hate Buster\" inflicts damage equal to the original ATK of the destroyed monster after it is sent to the GY or removed zone. If you destroy a Monster Token or a Trap Card that is treated as a monster (\"Embodiment of Apophis\", etc.) no damage will be inflicted."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

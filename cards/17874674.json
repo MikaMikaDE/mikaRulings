@@ -1,0 +1,40 @@
+{
+  "id": 17874674,
+  "name": "Seal of Wickedness",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●This effect targets 1 face-up card on the field. It targets that card continuously throughout the turn.\n●Paying 500 Life Points is a cost, not an effect. It cannot be negated by “Royal Decree.”\n●If you target a “Gladiator Beast” monster with this effect, and your opponent returns it to the Deck to activate its effect, the effect will still be negated and the “Gladiator Beast” monster will remain in the Deck.\n●If “Seal of Wickedness” targets itself, it will be negated for 1 turn. You can flip “Seal of Wickedness” and activate its effect in the same Chain.\n●If “Seal of Wickedness” is destroyed, removed from the field, or negated while it is negating a card, its effects will no longer be applied and the selected card will no longer be negated.\n●The effect to negate a card starts a Chain in the Standby Phase. It is a mandatory effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect targets 1 face-up card on the field. It targets that card continuously throughout the turn.\\n2. Paying 500 Life Points is a cost, not an effect. It cannot be negated by \"Royal Decree\".\\n3. If you target a 'Gladiator Beast' monster with this effect, and your opponent returns it to the Deck to activate its effect, the effect will still be negated and the 'Gladiator Beast' monster will remain in the Deck.\\n4. If \"Seal of Wickedness\" targets itself, it will be negated for 1 turn.\\n5. You can flip \"Seal of Wickedness\" and activate its effect in the same Chain.\\n6. If \"Seal of Wickedness\" is destroyed, removed from the field, or negated while it is negating a card, its effects will no longer be applied and the selected card will no longer be negated.\\n7. The effect to negate a card starts a Chain in the Standby Phase. It is a mandatory effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

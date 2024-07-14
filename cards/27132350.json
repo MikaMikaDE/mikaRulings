@@ -1,0 +1,44 @@
+{
+  "id": 27132350,
+  "name": "Fire Sorcerer",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1500,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you have fewer than 2 cards in your hand when this card is flipped face-up its Flip Effect is not activated.\n●Removing 2 cards from your hand is part of the resolution of this card’s Flip Effect, not part of the cost. So if its Flip Summon is negated by Solemn Judgment you do not remove any cards from your hand.",
+    "Goat": "●If you have fewer than 2 cards in your hand when this card is flipped face-up its Flip Effect is not activated.\n●Removing 2 cards from your hand is part of the resolution of this card’s Flip Effect, not part of the cost. So if its Flip Summon is negated by Solemn Judgment you do not remove any cards from your hand.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have fewer than 2 cards in your hand when this card is flipped face-up its Flip Effect isn't activated.\n● Removing 2 cards from your hand is part of the resolution of this card’s Flip Effect, not part of the cost. So if its Flip Summon is negated by 'Solemn Judgment' you do not remove any cards from your hand.",
+    "TeleDAD": "● If you have fewer than 2 cards in your hand when this card is flipped face-up its Flip Effect isn't activated.\n● Removing 2 cards from your hand is part of the resolution of this card’s Flip Effect, not part of the cost. So if its Flip Summon is negated by 'Solemn Judgment' you do not remove any cards from your hand.",
+    "Gladiator": "● If you have fewer than 2 cards in your hand when this card is flipped face-up its Flip Effect isn't activated.\n● Removing 2 cards from your hand is part of the resolution of this card’s Flip Effect, not part of the cost. So if its Flip Summon is negated by 'Solemn Judgment' you do not remove any cards from your hand.",
+    "ReturnDAD": "● If you have fewer than 2 cards in your hand when this card is flipped face-up its Flip Effect isn't activated.\n● Removing 2 cards from your hand is part of the resolution of this card’s Flip Effect, not part of the cost. So if its Flip Summon is negated by 'Solemn Judgment' you do not remove any cards from your hand.",
+    "Trooper": "● If you have fewer than 2 cards in your hand when this card is flipped face-up its Flip Effect isn't activated.\n● Removing 2 cards from your hand is part of the resolution of this card’s Flip Effect, not part of the cost. So if its Flip Summon is negated by 'Solemn Judgment' you do not remove any cards from your hand.",
+    "Circle": "● If you have fewer than 2 cards in your hand when this card is flipped face-up its Flip Effect isn't activated.\n● Removing 2 cards from your hand is part of the resolution of this card’s Flip Effect, not part of the cost. So if its Flip Summon is negated by 'Solemn Judgment' you do not remove any cards from your hand.",
+    "Stein": "● If you have fewer than 2 cards in your hand when this card is flipped face-up its Flip Effect isn't activated.\n● Removing 2 cards from your hand is part of the resolution of this card’s Flip Effect, not part of the cost. So if its Flip Summon is negated by 'Solemn Judgment' you do not remove any cards from your hand.",
+    "Base": "1. If you have fewer than 2 cards in your hand when this card is flipped face-up its Flip Effect is not activated.\\n2. Removing 2 cards from your hand is part of the resolution of this card's Flip Effect, not part of the cost. So if its Flip Summon is negated by \"Solemn Judgment\" you do not remove any cards from your hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

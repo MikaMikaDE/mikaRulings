@@ -1,0 +1,40 @@
+{
+  "id": 98956134,
+  "name": "Destruction Jammer",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "\n●Destruction Jammer cannot be chained to effects that may or may not destroy a monster, like Acid Trap Hole, Blowback Dragon, Magical Dimension, Reign-Beaux, Overlord of Dark World, Snipe Hunter, etc.\n●Destruction Jammer cannot be chained to the activation of the Ignition-like effect of a Continuous Spell or Trap Card (like Skull Lair, etc.).\n●Destruction Jammer cannot be chained when Premature Burial or Call of the Haunted is activated because they do not destroy a monster card at that time, nor can it be chained when the Special Summoned monster is destroyed.\n●Destruction Jammer can be chained when Light and Darkness Dragon's effect to Special Summon a monster is activated, but not if the owner of Light and Darkness Dragon has no monsters on their side of the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Destruction Jammer' can't be chained to effects that may or may not destroy a monster, like 'Acid Trap Hole', 'Blowback Dragon', 'Magical Dimension', 'Reign-Beaux, Overlord of Dark World', 'Snipe Hunter', etc.\n● 'Destruction Jammer' can't be chained to the activation of the Ignition-like effect of a Continuous Spell/Trap Card (like 'Skull Lair', etc.).\n● 'Destruction Jammer' can't be chained when 'Premature Burial' or 'Call of the Haunted' is activated because they do not destroy a monster card at that time, nor can it be chained when the Special Summoned monster is destroyed.\n● 'Destruction Jammer' can be chained when 'Light and Darkness Dragon's' effect to Special Summon a monster is activated, but not if the owner of 'Light and Darkness Dragon' has no monsters on their side of the field.",
+    "TeleDAD": "● 'Destruction Jammer' can't be chained to effects that may or may not destroy a monster, like 'Acid Trap Hole', 'Blowback Dragon', 'Magical Dimension', 'Reign-Beaux, Overlord of Dark World', 'Snipe Hunter', etc.\n● 'Destruction Jammer' can't be chained to the activation of the Ignition-like effect of a Continuous Spell/Trap Card (like 'Skull Lair', etc.).\n● 'Destruction Jammer' can't be chained when 'Premature Burial' or 'Call of the Haunted' is activated because they do not destroy a monster card at that time, nor can it be chained when the Special Summoned monster is destroyed.\n● 'Destruction Jammer' can be chained when 'Light and Darkness Dragon's' effect to Special Summon a monster is activated, but not if the owner of 'Light and Darkness Dragon' has no monsters on their side of the field.",
+    "Gladiator": "● 'Destruction Jammer' can't be chained to effects that may or may not destroy a monster, like 'Acid Trap Hole', 'Blowback Dragon', 'Magical Dimension', 'Reign-Beaux, Overlord of Dark World', 'Snipe Hunter', etc.\n● 'Destruction Jammer' can't be chained to the activation of the Ignition-like effect of a Continuous Spell/Trap Card (like 'Skull Lair', etc.).\n● 'Destruction Jammer' can't be chained when 'Premature Burial' or 'Call of the Haunted' is activated because they do not destroy a monster card at that time, nor can it be chained when the Special Summoned monster is destroyed.\n● 'Destruction Jammer' can be chained when 'Light and Darkness Dragon's' effect to Special Summon a monster is activated, but not if the owner of 'Light and Darkness Dragon' has no monsters on their side of the field.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Destruction Jammer\" cannot be chained to effects that may or may not destroy a monster, like \"Acid Trap Hole\", \"Blowback Dragon\", \"Magical Dimension\", \"Reign-Beaux, Overlord of Dark World\", \"Snipe Hunter\", etc.\\n2. \"Destruction Jammer\" cannot be chained to the activation of the Ignition-like effect of a Continuous Spell or Trap Card (like \"Skull Lair\", etc.).\\n3. \"Destruction Jammer\" cannot be chained when \"Premature Burial\" or \"Call of the Haunted\" is activated because they do not destroy a monster card at that time, nor can it be chained when the Special Summoned monster is destroyed.\\n4. \"Destruction Jammer\" can be chained when the effect of \"Light and Darkness Dragon\" to Special Summon a monster is activated, but not if the owner of \"Light and Darkness Dragon\" has no monsters on their side of the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

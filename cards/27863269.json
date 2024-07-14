@@ -1,0 +1,40 @@
+{
+  "id": 27863269,
+  "name": "Rocket Pilder",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●This effect activates at the end of the Damage Step and starts a Chain. If a monster’s ATK is reduced by “Rocket Pilder” and then is affected by “Shrink,” the ATK of the monster becomes half of the original ATK.\n●If “Rocket Pilder” is negated after it reduces a monster’s ATK, that monster’s ATK does not go back to normal.\n●If “Rocket Pilder” is destroyed after it reduces a monster’s ATK, that monster’s ATK does not go back to normal.\n●Even if the equipped monster destroys its attack target, “Rocket Pilder’s” effect starts a Chain.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect activates at the end of the Damage Step and starts a Chain.\\n2. If a monster's ATK is reduced by \"Rocket Pilder\" and then is affected by \"Shrink\", the ATK of the monster becomes half of the original ATK.\\n\\nThis ruling is outdated: (The effect of Pilder will be recalculated with the new halved original ATK. Source: Perfect Rulebook 2017 Shrink vs Rush Recklessly.)\\n3. If \"Rocket Pilder\" is negated after it reduces a monster's ATK, that monster's ATK does not go back to normal.\\n4. If \"Rocket Pilder\" is destroyed after it reduces a monster's ATK, that monster's ATK does not go back to normal.\\n5. Even if the equipped monster destroys its attack target, the effect of \"Rocket Pilder\" starts a Chain."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

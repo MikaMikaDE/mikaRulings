@@ -1,0 +1,44 @@
+{
+  "id": 78010363,
+  "name": "Witch of the Black Forest",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1100,
+    "def": 1200,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●You must show your opponent the monster you select from your Deck for this card’s effect. If you have no eligible monsters, your opponent gets to see your Deck to verify.\n●The effect of Witch of the Black Forest only activates when she is sent from the field to the GY, not from your hand or Deck, and not if she is removed from play.\n●If the Summon of this card is negated with Horn of Heaven or Solemn Judgment you do not get its effect.\n●If you control your opponent’s Witch of the Black Forest and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n●You can chain to the activation of Witch of the Black Forest’s effect.",
+    "Goat": "●You must show your opponent the monster you select from your Deck for this card’s effect. If you have no eligible monsters, your opponent gets to see your Deck to verify.\n●The effect of Witch of the Black Forest only activates when she is sent from the field to the GY, not from your hand or Deck, and not if she is removed from play.\n●If the Summon of this card is negated with Horn of Heaven or Solemn Judgment you do not get its effect.\n●If you control your opponent’s Witch of the Black Forest and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n●You can chain to the activation of Witch of the Black Forest’s effect.\n●Q: If “Thousand-Eyes Restrict” equips “Sangan”/”Witch of the Black Forest” in face-up or face-down position and makes it into an equip card, will “Sangan”/”Witch of the Black Forest” still get its effect if it is destroyed as an equip or if “Thousand- Eyes Restrict” is destroyed? \nA: Yes, “Witch of the Black Forest”/”Sangan” will get their effect since they do not have the destroyed in battle requirement. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Witch of the Black Forest' only activates when she is sent from the field to the GY, not from your hand or Deck, and not if she is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Witch of the Black Forest' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to the activation of 'Witch of the Black Forest'’s effect.",
+    "TeleDAD": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Witch of the Black Forest' only activates when she is sent from the field to the GY, not from your hand or Deck, and not if she is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Witch of the Black Forest' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to the activation of 'Witch of the Black Forest'’s effect.",
+    "Gladiator": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Witch of the Black Forest' only activates when she is sent from the field to the GY, not from your hand or Deck, and not if she is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Witch of the Black Forest' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to the activation of 'Witch of the Black Forest'’s effect.",
+    "ReturnDAD": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Witch of the Black Forest' only activates when she is sent from the field to the GY, not from your hand or Deck, and not if she is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Witch of the Black Forest' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to the activation of 'Witch of the Black Forest'’s effect.",
+    "Trooper": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Witch of the Black Forest' only activates when she is sent from the field to the GY, not from your hand or Deck, and not if she is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Witch of the Black Forest' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to the activation of 'Witch of the Black Forest'’s effect.",
+    "Circle": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Witch of the Black Forest' only activates when she is sent from the field to the GY, not from your hand or Deck, and not if she is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Witch of the Black Forest' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to the activation of 'Witch of the Black Forest'’s effect.",
+    "Stein": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Witch of the Black Forest' only activates when she is sent from the field to the GY, not from your hand or Deck, and not if she is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Witch of the Black Forest' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to the activation of 'Witch of the Black Forest'’s effect.",
+    "Base": "1. You must show your opponent the monster you select from your Deck for this card's effect. If you have no eligible monsters, your opponent gets to see your Deck to verify.\\n2. The effect of \"Witch of the Black Forest\" only activates when she is sent from the field to the GY, not from your hand or Deck, and not if she is removed from play.\\n3. If the Summon of this card is negated with \"Horn of Heaven\" or \"Solemn Judgment\" you do not get its effect.\\n4. If you control your opponent's \"Witch of the Black Forest\" and it is destroyed, your opponent gets the effect since it activates in his/her GY.\\n5. You can chain to the activation of the effect of \"Witch of the Black Forest\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

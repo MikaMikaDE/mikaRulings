@@ -1,0 +1,40 @@
+{
+  "id": 55608151,
+  "name": "Gryphon Wing",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can chain Fake Trap to Gryphon Wing.",
+    "Goat": "●You can chain Fake Trap to Gryphon Wing.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can chain 'Fake Trap' to 'Gryphon Wing'.",
+    "TeleDAD": "● You can chain 'Fake Trap' to 'Gryphon Wing'.",
+    "Gladiator": "● You can chain 'Fake Trap' to 'Gryphon Wing'.",
+    "ReturnDAD": "● You can chain 'Fake Trap' to 'Gryphon Wing'.",
+    "Trooper": "● You can chain 'Fake Trap' to 'Gryphon Wing'.",
+    "Circle": "● You can chain 'Fake Trap' to 'Gryphon Wing'.",
+    "Stein": "● You can chain 'Fake Trap' to 'Gryphon Wing'.",
+    "Base": "1. You can chain \"Fake Trap\" to \"Gryphon Wing\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

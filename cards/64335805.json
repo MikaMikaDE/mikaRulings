@@ -1,0 +1,44 @@
+{
+  "id": 64335805,
+  "name": "Red-Eyes Black Metal Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 2400,
+    "level": 8,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you have a “Red-Eyes B. Dragon” equipped with “Metalmorph” and your opponent activates “Prohibition” and declares “Red-Eyes Black Metal Dragon”, you cannot Tribute the “Red-Eyes B. Dragon” to Special Summon “Red-Eyes Black Metal Dragon”.",
+    "Goat": "●This card cannot be Normal Summoned or Set, and must be Special Summoned from the Deck by the condition written on the card. It CANNOT be Special Summoned from your hand. So once it is in your hand, there is no way to Summon this card.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have a “Red-Eyes B. Dragon” equipped with “Metalmorph” and your opponent activates “Prohibition” and declares “Red-Eyes Black Metal Dragon”, you can't Tribute the “Red-Eyes B. Dragon” to Special Summon “Red-Eyes Black Metal Dragon”.",
+    "TeleDAD": "● If you have a “Red-Eyes B. Dragon” equipped with “Metalmorph” and your opponent activates “Prohibition” and declares “Red-Eyes Black Metal Dragon”, you can't Tribute the “Red-Eyes B. Dragon” to Special Summon “Red-Eyes Black Metal Dragon”.",
+    "Gladiator": "● If you have a “Red-Eyes B. Dragon” equipped with “Metalmorph” and your opponent activates “Prohibition” and declares “Red-Eyes Black Metal Dragon”, you can't Tribute the “Red-Eyes B. Dragon” to Special Summon “Red-Eyes Black Metal Dragon”.",
+    "ReturnDAD": "● If you have a “Red-Eyes B. Dragon” equipped with “Metalmorph” and your opponent activates “Prohibition” and declares “Red-Eyes Black Metal Dragon”, you can't Tribute the “Red-Eyes B. Dragon” to Special Summon “Red-Eyes Black Metal Dragon”.",
+    "Trooper": "● This card can't be Normal Summoned or Set, and must be Special Summoned from the Deck by the condition written on the card. It CANNOT be Special Summoned from your hand. So once it is in your hand, there is no way to Summon this card.",
+    "Circle": "● If you have a “Red-Eyes B. Dragon” equipped with “Metalmorph” and your opponent activates “Prohibition” and declares “Red-Eyes Black Metal Dragon”, you can't Tribute the “Red-Eyes B. Dragon” to Special Summon “Red-Eyes Black Metal Dragon”.",
+    "Stein": "● This card can't be Normal Summoned or Set, and must be Special Summoned from the Deck by the condition written on the card. It CANNOT be Special Summoned from your hand. So once it is in your hand, there is no way to Summon this card.",
+    "Base": "1. If you have a \"Red-Eyes B. Dragon\" equipped with \"Metalmorph\" and your opponent activates \"Prohibition\" and declares \"Red-Eyes Black Metal Dragon\", you cannot Tribute the \"Red-Eyes B. Dragon\" to Special Summon \"Red-Eyes Black Metal Dragon\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

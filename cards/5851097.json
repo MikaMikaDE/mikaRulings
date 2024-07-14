@@ -1,0 +1,40 @@
+{
+  "id": 5851097,
+  "name": "Vanity's Emptiness",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If another card you control is targeted by \"Mystical Space Typhoon\":\nOn a new chain after MST has resolved, this card's ② effect activates.\nWhen that ② effect resolves, this card is destroyed.",
+    "Vegas": "● If another card you control is targeted by \"Mystical Space Typhoon\":\nOn a new chain after MST has resolved, this card's ② effect activates.\nWhen that ② effect resolves, this card is destroyed.",
+    "Meadowlands": "● If another card you control is targeted by \"Mystical Space Typhoon\":\nOn a new chain after MST has resolved, this card's ② effect activates.\nWhen that ② effect resolves, this card is destroyed.",
+    "FireWater": "● If another card you control is targeted by \"Mystical Space Typhoon\":\nOn a new chain after MST has resolved, this card's ② effect activates.\nWhen that ② effect resolves, this card is destroyed.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The self-destroying effect of this card activates when the card hits your GY. It starts a Chain.\\n2. While \"Imperial Custom\" is active, this card will not be destroyed by its own effect.\\n3. If your \"Mystic Tomato\" is attacked and destroyed while \"Vanity's Emptiness\" is active, you cannot activate the effect of \"Mystic Tomato\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Neither player can attempt to Special Summon monsters. \n② If a card is sent from the Deck or the field to your GY: Destroy this card.",
+    "Meadowlands": "① Neither player can attempt to Special Summon monsters. \n② If a card is sent from the Deck or the field to your GY: Destroy this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

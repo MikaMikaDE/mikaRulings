@@ -1,0 +1,40 @@
+{
+  "id": 73872164,
+  "name": "Eliminating the League",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Discarding a Spell Card is a cost to activate this card.\n●This effect targets the opponent’s monster.\n●If the targeted monster is not destroyed by “Eliminating the League’s” effect, you cannot resolve the second part of this card’s effect (and you do not get to look at your opponent’s hand).\n●If a different “Six Samurai” is destroyed instead of the target, you cannot resolve the second part of “Eliminating the League’s” effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Discarding a Spell Card is a cost to activate this card.\n● This effect targets the opponent’s monster.\n● If the targeted monster isn't destroyed by “Eliminating the League’s” effect, you can't resolve the second part of this card’s effect (and you do not get to look at your opponent’s hand). \n● If a different “Six Samurai” is destroyed instead of the target, you can't resolve the second part of “Eliminating the League’s” effect.",
+    "TeleDAD": "● Discarding a Spell Card is a cost to activate this card.\n● This effect targets the opponent’s monster.\n● If the targeted monster isn't destroyed by “Eliminating the League’s” effect, you can't resolve the second part of this card’s effect (and you do not get to look at your opponent’s hand). \n● If a different “Six Samurai” is destroyed instead of the target, you can't resolve the second part of “Eliminating the League’s” effect.",
+    "Gladiator": "● Discarding a Spell Card is a cost to activate this card.\n● This effect targets the opponent’s monster.\n● If the targeted monster isn't destroyed by “Eliminating the League’s” effect, you can't resolve the second part of this card’s effect (and you do not get to look at your opponent’s hand). \n● If a different “Six Samurai” is destroyed instead of the target, you can't resolve the second part of “Eliminating the League’s” effect.",
+    "ReturnDAD": "● Discarding a Spell Card is a cost to activate this card.\n● This effect targets the opponent’s monster.\n● If the targeted monster isn't destroyed by “Eliminating the League’s” effect, you can't resolve the second part of this card’s effect (and you do not get to look at your opponent’s hand). \n● If a different “Six Samurai” is destroyed instead of the target, you can't resolve the second part of “Eliminating the League’s” effect.",
+    "Trooper": "● Discarding a Spell Card is a cost to activate this card.\n● This effect targets the opponent’s monster.\n● If the targeted monster isn't destroyed by “Eliminating the League’s” effect, you can't resolve the second part of this card’s effect (and you do not get to look at your opponent’s hand). \n● If a different “Six Samurai” is destroyed instead of the target, you can't resolve the second part of “Eliminating the League’s” effect.",
+    "Circle": "● Discarding a Spell Card is a cost to activate this card.\n● This effect targets the opponent’s monster.\n● If the targeted monster isn't destroyed by “Eliminating the League’s” effect, you can't resolve the second part of this card’s effect (and you do not get to look at your opponent’s hand). \n● If a different “Six Samurai” is destroyed instead of the target, you can't resolve the second part of “Eliminating the League’s” effect.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Discarding a Spell Card is a cost to activate this card.\\n2. This effect targets the opponent's monster.\\n3. If the targeted monster is not destroyed by the effect of \"Eliminating the League\", you cannot resolve the second part of this card's effect (and you do not get to look at your opponent's hand).\\n4. If a different 'Six Samurai' is destroyed instead of the target, you cannot resolve the second part of the effect of \"Eliminating the League\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

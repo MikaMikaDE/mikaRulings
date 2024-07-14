@@ -1,0 +1,44 @@
+{
+  "id": 47826112,
+  "name": "Poseidra, the Atlantean Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 1600,
+    "level": 7,
+    "race": "Sea Serpent",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings currently available.",
+    "Vegas": "No rulings currently available.",
+    "Meadowlands": "No rulings currently available.",
+    "FireWater": "No rulings currently available.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① If this card is in your hand/GY: You can tribute 3 Level 3 or lower WATERS; Special Summon it.\n② If you do: Return all Spells/Traps on the field to the hand, and if you do, if 3 or more cards were rethrned to the hand this way, all monsters your opponent controls lose 300 ATK for each.",
+    "Meadowlands": "① If this card is in your hand/GY: You can tribute 3 Level 3 or lower WATERS; Special Summon it.\n② If you do: Return all Spells/Traps on the field to the hand, and if you do, if 3 or more cards were rethrned to the hand this way, all monsters your opponent controls lose 300 ATK for each.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

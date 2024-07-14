@@ -1,0 +1,40 @@
+{
+  "id": 96458440,
+  "name": "Legendary Black Belt",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Legendary Black Belt” inflicts damage based on the original DEF of the destroyed monster (in the GY).\n●If a monster equipped with “Legendary Black Belt” is destroyed, no damage is inflicted by the effect of “Legendary Black Belt” because it is no longer on the field. This includes if it attacked a monster with equal ATK, for example.\n●After the monster is sent to the GY after being destroyed as a result of battle, the effect of “Legendary Black Belt” that inflicts effect damage can be chained to.",
+    "Goat": "“Legendary Black Belt” inflicts damage based on the original DEF of the destroyed monster (in the GY).\n●If a monster equipped with “Legendary Black Belt” is destroyed, no damage is inflicted by the effect of “Legendary Black Belt” because it is no longer on the field. This includes if it attacked a monster with equal ATK, for example.\n●After the monster is sent to the GY after being destroyed by battle, the effect of “Legendary Black Belt” that inflicts effect damage can be chained to.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Legendary Black Belt” inflicts damage based on the original DEF of the destroyed monster (in the GY).\n● If a monster equipped with “Legendary Black Belt” is destroyed, no damage is inflicted by the effect of “Legendary Black Belt” because it is no longer on the field. This includes if it attacked a monster with equal ATK, for example.\n● After the monster is sent to the GY after being destroyed as a result of battle, the effect of “Legendary Black Belt” that inflicts effect damage can be chained to.",
+    "TeleDAD": "● “Legendary Black Belt” inflicts damage based on the original DEF of the destroyed monster (in the GY).\n● If a monster equipped with “Legendary Black Belt” is destroyed, no damage is inflicted by the effect of “Legendary Black Belt” because it is no longer on the field. This includes if it attacked a monster with equal ATK, for example.\n● After the monster is sent to the GY after being destroyed as a result of battle, the effect of “Legendary Black Belt” that inflicts effect damage can be chained to.",
+    "Gladiator": "● “Legendary Black Belt” inflicts damage based on the original DEF of the destroyed monster (in the GY).\n● If a monster equipped with “Legendary Black Belt” is destroyed, no damage is inflicted by the effect of “Legendary Black Belt” because it is no longer on the field. This includes if it attacked a monster with equal ATK, for example.\n● After the monster is sent to the GY after being destroyed as a result of battle, the effect of “Legendary Black Belt” that inflicts effect damage can be chained to.",
+    "ReturnDAD": "● “Legendary Black Belt” inflicts damage based on the original DEF of the destroyed monster (in the GY).\n● If a monster equipped with “Legendary Black Belt” is destroyed, no damage is inflicted by the effect of “Legendary Black Belt” because it is no longer on the field. This includes if it attacked a monster with equal ATK, for example.\n● After the monster is sent to the GY after being destroyed as a result of battle, the effect of “Legendary Black Belt” that inflicts effect damage can be chained to.",
+    "Trooper": "● “Legendary Black Belt” inflicts damage based on the original DEF of the destroyed monster (in the GY).\n● If a monster equipped with “Legendary Black Belt” is destroyed, no damage is inflicted by the effect of “Legendary Black Belt” because it is no longer on the field. This includes if it attacked a monster with equal ATK, for example.\n● After the monster is sent to the GY after being destroyed as a result of battle, the effect of “Legendary Black Belt” that inflicts effect damage can be chained to.",
+    "Circle": "● “Legendary Black Belt” inflicts damage based on the original DEF of the destroyed monster (in the GY).\n● If a monster equipped with “Legendary Black Belt” is destroyed, no damage is inflicted by the effect of “Legendary Black Belt” because it is no longer on the field. This includes if it attacked a monster with equal ATK, for example.\n● After the monster is sent to the GY after being destroyed as a result of battle, the effect of “Legendary Black Belt” that inflicts effect damage can be chained to.",
+    "Stein": "● “Legendary Black Belt” inflicts damage based on the original DEF of the destroyed monster (in the GY).\n● If a monster equipped with “Legendary Black Belt” is destroyed, no damage is inflicted by the effect of “Legendary Black Belt” because it is no longer on the field. This includes if it attacked a monster with equal ATK, for example.\n● After the monster is sent to the GY after being destroyed as a result of battle, the effect of “Legendary Black Belt” that inflicts effect damage can be chained to.",
+    "Base": "1. \"Legendary Black Belt\" inflicts damage based on the original DEF of the destroyed monster (in the GY).\\n2. If a monster equipped with \"Legendary Black Belt\" is destroyed, no damage is inflicted by the effect of \"Legendary Black Belt\" because it is no longer on the field. This includes if it attacked a monster with equal ATK, for example.\\n3. After the monster is sent to the GY after being destroyed as a result of battle, the effect of \"Legendary Black Belt\" that inflicts effect damage can be chained to."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

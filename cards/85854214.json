@@ -1,0 +1,40 @@
+{
+  "id": 85854214,
+  "name": "Hero's Rule 2",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "\n●If an effect targets card(s) on the field and also targets card(s) in the GY, you can chain Hero's Rule 2.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If an effect targets card(s) on the field and also targets card(s) in the GY, you can chain 'Hero's Rule 2'.",
+    "TeleDAD": "● If an effect targets card(s) on the field and also targets card(s) in the GY, you can chain 'Hero's Rule 2'.",
+    "Gladiator": "● If an effect targets card(s) on the field and also targets card(s) in the GY, you can chain 'Hero's Rule 2'.",
+    "ReturnDAD": "● If an effect targets card(s) on the field and also targets card(s) in the GY, you can chain 'Hero's Rule 2'.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If an effect targets card(s) on the field and also targets card(s) in the GY, you can chain \"Hero's Rule 2\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

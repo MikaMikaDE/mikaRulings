@@ -1,0 +1,40 @@
+{
+  "id": 41458579,
+  "name": "Musakani Magatama",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card does not target.\\n2. You must Chain it directly to the card that is attempting to destroy something.\\n3. You cannot Chain it to the effect of a Continuous Spell or Trap.\\n4. You can Chain this to a card that would destroy a card that is in your hand or Deck.\\n5. You can Chain this card to a Counter Trap that negates and destroys something.\\n6. You cannot activate this card if you have no 'Six Samurai' monsters on the field, attempt to Summon one, and your opponent activates \"Solemn Judgment\".\\n7. You cannot activate this card if \"Deck Devastation Virus\" is activated and would only destroy cards in your hand, unless the cards in the hand are revealed by an effect like \"Ceremonial Bell\".\\n8. [FORUM] You would not be able to activate \"Musakani Magatama\" in response to the activation of the effects of \"Snipe Hunter\" or \"Elemental HERO Stratos\" as neither card is guaranteed to destroy a card when their effect is activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

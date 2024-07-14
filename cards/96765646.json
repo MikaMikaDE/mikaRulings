@@ -1,0 +1,40 @@
+{
+  "id": 96765646,
+  "name": "Swing of Memories",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If the Normal Monster Special Summoned by “Swing of Memories” is flipped face-down, it will not be destroyed during the End Phase. Even if the Normal Monster is flipped face-up during the same turn, it will not be destroyed during the End Phase.\n●If the Normal Monster Special Summoned by “Swing of Memories” is removed from play with “Interdimensional Matter Transporter”, it will not be destroyed during the End Phase even after it is returned to the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If the Normal Monster Special Summoned by “Swing of Memories” is flipped face-down, it will not be destroyed during the End Phase. Even if the Normal Monster is flipped face-up during the same turn, it will not be destroyed during the End Phase.\n● If the Normal Monster Special Summoned by “Swing of Memories” is removed from play with “Interdimensional Matter Transporter”, it will not be destroyed during the End Phase even after it is returned to the field.",
+    "TeleDAD": "● If the Normal Monster Special Summoned by “Swing of Memories” is flipped face-down, it will not be destroyed during the End Phase. Even if the Normal Monster is flipped face-up during the same turn, it will not be destroyed during the End Phase.\n● If the Normal Monster Special Summoned by “Swing of Memories” is removed from play with “Interdimensional Matter Transporter”, it will not be destroyed during the End Phase even after it is returned to the field.",
+    "Gladiator": "● If the Normal Monster Special Summoned by “Swing of Memories” is flipped face-down, it will not be destroyed during the End Phase. Even if the Normal Monster is flipped face-up during the same turn, it will not be destroyed during the End Phase.\n● If the Normal Monster Special Summoned by “Swing of Memories” is removed from play with “Interdimensional Matter Transporter”, it will not be destroyed during the End Phase even after it is returned to the field.",
+    "ReturnDAD": "● If the Normal Monster Special Summoned by “Swing of Memories” is flipped face-down, it will not be destroyed during the End Phase. Even if the Normal Monster is flipped face-up during the same turn, it will not be destroyed during the End Phase.\n● If the Normal Monster Special Summoned by “Swing of Memories” is removed from play with “Interdimensional Matter Transporter”, it will not be destroyed during the End Phase even after it is returned to the field.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● If the Normal Monster Special Summoned by “Swing of Memories” is flipped face-down, it will not be destroyed during the End Phase. Even if the Normal Monster is flipped face-up during the same turn, it will not be destroyed during the End Phase.\n● If the Normal Monster Special Summoned by “Swing of Memories” is removed from play with “Interdimensional Matter Transporter”, it will not be destroyed during the End Phase even after it is returned to the field.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If the Normal Monster Special Summoned by \"Swing of Memories\" is flipped face-down, it will not be destroyed during the End Phase. Even if the Normal Monster is flipped face-up during the same turn, it will not be destroyed during the End Phase.\\n2. If the Normal Monster Special Summoned by \"Swing of Memories\" is removed from play with \"Interdimensional Matter Transporter\", it will not be destroyed during the End Phase even after it is returned to the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

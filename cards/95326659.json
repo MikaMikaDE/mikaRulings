@@ -1,0 +1,40 @@
+{
+  "id": 95326659,
+  "name": "Crystal Beacon",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You must have at least 2 “Crystal Beast” monsters in your Spell & Trap Card Zone when you activate this card and when it resolves. If the number of “Crystal Beast” monsters in your Spell & Trap Card Zone becomes less than 2 due to an effect chained to this card, then you cannot Special Summon.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You must have at least 2 “Crystal Beast” monsters in your Spell & Trap Card Zone when you activate this card and when it resolves. If the number of “Crystal Beast” monsters in your Spell & Trap Card Zone becomes less than 2 due to an effect chained to this card, then you can't Special Summon.",
+    "TeleDAD": "● You must have at least 2 “Crystal Beast” monsters in your Spell & Trap Card Zone when you activate this card and when it resolves. If the number of “Crystal Beast” monsters in your Spell & Trap Card Zone becomes less than 2 due to an effect chained to this card, then you can't Special Summon.",
+    "Gladiator": "● You must have at least 2 “Crystal Beast” monsters in your Spell & Trap Card Zone when you activate this card and when it resolves. If the number of “Crystal Beast” monsters in your Spell & Trap Card Zone becomes less than 2 due to an effect chained to this card, then you can't Special Summon.",
+    "ReturnDAD": "● You must have at least 2 “Crystal Beast” monsters in your Spell & Trap Card Zone when you activate this card and when it resolves. If the number of “Crystal Beast” monsters in your Spell & Trap Card Zone becomes less than 2 due to an effect chained to this card, then you can't Special Summon.",
+    "Trooper": "● You must have at least 2 “Crystal Beast” monsters in your Spell & Trap Card Zone when you activate this card and when it resolves. If the number of “Crystal Beast” monsters in your Spell & Trap Card Zone becomes less than 2 due to an effect chained to this card, then you can't Special Summon.",
+    "Circle": "● You must have at least 2 “Crystal Beast” monsters in your Spell & Trap Card Zone when you activate this card and when it resolves. If the number of “Crystal Beast” monsters in your Spell & Trap Card Zone becomes less than 2 due to an effect chained to this card, then you can't Special Summon.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You must have at least 2 'Crystal Beast' monsters in your Spell & Trap Card Zone when you activate this card and when it resolves. If the number of 'Crystal Beast' monsters in your Spell & Trap Card Zone becomes less than 2 due to an effect chained to this card, then you cannot Special Summon."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

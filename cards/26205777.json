@@ -1,0 +1,44 @@
+{
+  "id": 26205777,
+  "name": "Thestalos the Firestorm Monarch",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 1000,
+    "level": 6,
+    "race": "Pyro",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "● This effect is mandatory.",
+    "Goat": "●If you Tribute Summon Thestalos the Firestorm Monarch successfully, and your opponent discards a monster like Outstanding Dog Marron or Regenerating Mummy, you still inflict damage because the monster was discarded to the GY (even though it doesn’t remain there).\n●If Banisher of the Light is face-up on the field, no damage is inflicted because the card is not discarded to the GY.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you Tribute Summon “Thestalos the Firestorm Monarch” successfully, and your opponent discards a monster like “Oustanding Dog Marron” or “Regenerating Mummy”, you still inflict damage because the monster was discarded to the GY (even though it doesn’t remain there). \n● If “Banisher of the Light” is applying, no damage is inflicted because the card isn't discarded to the GY.\n● This card's effect always activates when Tribute Summoned, even if your opponent has no cards in their hand.",
+    "TeleDAD": "● If you Tribute Summon “Thestalos the Firestorm Monarch” successfully, and your opponent discards a monster like “Oustanding Dog Marron” or “Regenerating Mummy”, you still inflict damage because the monster was discarded to the GY (even though it doesn’t remain there). \n● If “Banisher of the Light” is applying, no damage is inflicted because the card isn't discarded to the GY.\n● This card's effect always activates when Tribute Summoned, even if your opponent has no cards in their hand.",
+    "Gladiator": "● If you Tribute Summon “Thestalos the Firestorm Monarch” successfully, and your opponent discards a monster like “Oustanding Dog Marron” or “Regenerating Mummy”, you still inflict damage because the monster was discarded to the GY (even though it doesn’t remain there). \n● If “Banisher of the Light” is applying, no damage is inflicted because the card isn't discarded to the GY.\n● This card's effect always activates when Tribute Summoned, even if your opponent has no cards in their hand.",
+    "ReturnDAD": "● If you Tribute Summon “Thestalos the Firestorm Monarch” successfully, and your opponent discards a monster like “Oustanding Dog Marron” or “Regenerating Mummy”, you still inflict damage because the monster was discarded to the GY (even though it doesn’t remain there). \n● If “Banisher of the Light” is applying, no damage is inflicted because the card isn't discarded to the GY.\n● This card's effect always activates when Tribute Summoned, even if your opponent has no cards in their hand.",
+    "Trooper": "● If you Tribute Summon 'Thestalos the Firestorm Monarch' successfully, and your opponent discards a monster like 'Outstanding Dog Marron' or 'Regenerating Mummy', you still inflict damage because the monster was discarded to the GY (even though it doesn’t remain there).\n● If 'Banisher of the Light' is applying, no damage is inflicted because the card isn't discarded to the GY.",
+    "Circle": "● If you Tribute Summon “Thestalos the Firestorm Monarch” successfully, and your opponent discards a monster like “Oustanding Dog Marron” or “Regenerating Mummy”, you still inflict damage because the monster was discarded to the GY (even though it doesn’t remain there). \n● If “Banisher of the Light” is applying, no damage is inflicted because the card isn't discarded to the GY.\n● This card's effect always activates when Tribute Summoned, even if your opponent has no cards in their hand.",
+    "Stein": "● If you Tribute Summon 'Thestalos the Firestorm Monarch' successfully, and your opponent discards a monster like 'Outstanding Dog Marron' or 'Regenerating Mummy', you still inflict damage because the monster was discarded to the GY (even though it doesn’t remain there).\n● If 'Banisher of the Light' is applying, no damage is inflicted because the card isn't discarded to the GY.",
+    "Base": "1. If you Tribute Summon \"Thestalos the Firestorm Monarch\" successfully, and your opponent discards a monster like \"Outstanding Dog Marron\" or \"Regenerating Mummy\", you still inflict damage because the monster was discarded to the GY (even though it doesn't remain there).\\n2. If \"Banisher of the Light\" is face-up on the field, no damage is inflicted because the card is not discarded to the GY.\\n3. This card's effect always activates when Tribute Summoned, even if your opponent has no cards in their hand."
+  },
+  "PSCT": {
+    "Tengu": "① If Tribute Summoned: Discard 1 random card from your opponent's hand, then if it was a monster, your opponent takes damage equal to its Level x100.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

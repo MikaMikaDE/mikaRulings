@@ -1,0 +1,44 @@
+{
+  "id": 9637706,
+  "name": "Des Wombat",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 300,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.\n●“Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.\n●“Des Wombat” will protect you against the effect damage of “Graverobber”.\n●If your only “Des Wombat” is destroyed by “Judgment of Anubis” or “Ring of Destruction”, it is no longer on the field so it will not protect you against the damage from these card effects.",
+    "Goat": "“Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.\n●“Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.\n●“Des Wombat” will protect you against the effect damage of “Graverobber”.\n●If your only “Des Wombat” is destroyed by “Judgment of Anubis” or “Ring of Destruction”, it is no longer on the field so it will not protect you against the damage from these card effects.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.\n● “Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.\n● “Des Wombat” will protect you against the effect damage of “Graverobber”.\n● If your only “Des Wombat” is destroyed by “Judgment of Anubis” or “Ring of Destruction”, it is no longer on the field so it will not protect you against the damage from these card effects.",
+    "TeleDAD": "● “Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.\n● “Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.\n● “Des Wombat” will protect you against the effect damage of “Graverobber”.\n● If your only “Des Wombat” is destroyed by “Judgment of Anubis” or “Ring of Destruction”, it is no longer on the field so it will not protect you against the damage from these card effects.",
+    "Gladiator": "● “Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.\n● “Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.\n● “Des Wombat” will protect you against the effect damage of “Graverobber”.\n● If your only “Des Wombat” is destroyed by “Judgment of Anubis” or “Ring of Destruction”, it is no longer on the field so it will not protect you against the damage from these card effects.",
+    "ReturnDAD": "● “Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.\n● “Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.\n● “Des Wombat” will protect you against the effect damage of “Graverobber”.\n● If your only “Des Wombat” is destroyed by “Judgment of Anubis” or “Ring of Destruction”, it is no longer on the field so it will not protect you against the damage from these card effects.",
+    "Trooper": "● “Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.\n● “Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.\n● “Des Wombat” will protect you against the effect damage of “Graverobber”.\n● If your only “Des Wombat” is destroyed by “Judgment of Anubis” or “Ring of Destruction”, it is no longer on the field so it will not protect you against the damage from these card effects.",
+    "Circle": "● “Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.\n● “Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.\n● “Des Wombat” will protect you against the effect damage of “Graverobber”.\n● If your only “Des Wombat” is destroyed by “Judgment of Anubis” or “Ring of Destruction”, it is no longer on the field so it will not protect you against the damage from these card effects.",
+    "Stein": "● “Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.\n● “Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.\n● “Des Wombat” will protect you against the effect damage of “Graverobber”.\n● If your only “Des Wombat” is destroyed by “Judgment of Anubis” or “Ring of Destruction”, it is no longer on the field so it will not protect you against the damage from these card effects.",
+    "Base": "1. \"Des Wombat\" even protects you against damage from your own card effects, like \"Dark Snake Syndrome\" or \"Ring of Destruction\".\\n2. \"Des Wombat\" even protects you against card effects where the damage is undecided at activation, like \"Dice Jar\".\\n3. \"Des Wombat\" will protect you against the effect damage of \"Graverobber\".\\n4. If your only \"Des Wombat\" is destroyed by \"Judgment of Anubis\" or \"Ring of Destruction\", it is no longer on the field so it will not protect you against the damage from these card effects."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

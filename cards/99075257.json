@@ -1,0 +1,40 @@
+{
+  "id": 99075257,
+  "name": "D - Time",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you have “A Legendary Ocean” on the field and “Elemental Hero Bubbleman” is destroyed, you can activate “D – Time” and add a Level 4 or lower monster to your hand. If “Elemental Hero Bubbleman” is returned to the hand, then you can only add a Level 3 or lower monster to your hand because the effect of “A Legendary Ocean” still applies to “Elemental Hero Bubbleman” while he’s in your hand.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have “A Legendary Ocean” on the field and “Elemental Hero Bubbleman” is destroyed, you can activate “D – Time” and add a LV 4 or lower monster to your hand. If “Elemental Hero Bubbleman” is returned to the hand, then you can only add a LV 3 or lower monster to your hand because the effect of “A Legendary Ocean” still applies to “Elemental Hero Bubbleman” while he’s in your hand.",
+    "TeleDAD": "● If you have “A Legendary Ocean” on the field and “Elemental Hero Bubbleman” is destroyed, you can activate “D – Time” and add a LV 4 or lower monster to your hand. If “Elemental Hero Bubbleman” is returned to the hand, then you can only add a LV 3 or lower monster to your hand because the effect of “A Legendary Ocean” still applies to “Elemental Hero Bubbleman” while he’s in your hand.",
+    "Gladiator": "● If you have “A Legendary Ocean” on the field and “Elemental Hero Bubbleman” is destroyed, you can activate “D – Time” and add a LV 4 or lower monster to your hand. If “Elemental Hero Bubbleman” is returned to the hand, then you can only add a LV 3 or lower monster to your hand because the effect of “A Legendary Ocean” still applies to “Elemental Hero Bubbleman” while he’s in your hand.",
+    "ReturnDAD": "● If you have “A Legendary Ocean” on the field and “Elemental Hero Bubbleman” is destroyed, you can activate “D – Time” and add a LV 4 or lower monster to your hand. If “Elemental Hero Bubbleman” is returned to the hand, then you can only add a LV 3 or lower monster to your hand because the effect of “A Legendary Ocean” still applies to “Elemental Hero Bubbleman” while he’s in your hand.",
+    "Trooper": "● If you have “A Legendary Ocean” on the field and “Elemental Hero Bubbleman” is destroyed, you can activate “D – Time” and add a LV 4 or lower monster to your hand. If “Elemental Hero Bubbleman” is returned to the hand, then you can only add a LV 3 or lower monster to your hand because the effect of “A Legendary Ocean” still applies to “Elemental Hero Bubbleman” while he’s in your hand.",
+    "Circle": "● If you have “A Legendary Ocean” on the field and “Elemental Hero Bubbleman” is destroyed, you can activate “D – Time” and add a LV 4 or lower monster to your hand. If “Elemental Hero Bubbleman” is returned to the hand, then you can only add a LV 3 or lower monster to your hand because the effect of “A Legendary Ocean” still applies to “Elemental Hero Bubbleman” while he’s in your hand.",
+    "Stein": "● If you have “A Legendary Ocean” on the field and “Elemental Hero Bubbleman” is destroyed, you can activate “D – Time” and Special Summon a LV 4 or lower monster. If “Elemental Hero Bubbleman” is returned to the hand, then you can only Special Summon a LV 3 or lower monster because the effect of “A Legendary Ocean” still applies to “Elemental Hero Bubbleman” while he’s in your hand.",
+    "Base": "1. If you have \"A Legendary Ocean\" on the field and \"Elemental HERO Bubbleman\" is destroyed, you can activate \"D - Time\" and add a Level 4 or lower monster to your hand. If \"Elemental HERO Bubbleman\" is returned to the hand, then you can only add a Level 3 or lower monster to your hand because the effect of \"A Legendary Ocean\" still applies to \"Elemental HERO Bubbleman\" while he's in your hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 34694160,
+  "name": "The Eye of Truth",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●When The Eye of Truth is activated in a chain you do not see your opponent’s hand until The Eye of Truth resolves. So if The Eye of Truth is step 3 in a 5 step chain, steps 5 and 4 will resolve, then The Eye of Truth resolves and your opponent reveals his/her hand, then steps 2 and 1 resolve.\n●When The Eye of Truth is active and a card such as Robbin’ Goblin requires that the opponent discard a card from their hand randomly, the opponent should hide and shuffle his hand, discard a random card, and then reveal their hand again.",
+    "Goat": "●When The Eye of Truth is activated in a chain you do not see your opponent’s hand until The Eye of Truth resolves. So if The Eye of Truth is step 3 in a 5 step chain, steps 5 and 4 will resolve, then The Eye of Truth resolves and your opponent reveals his/her hand, then steps 2 and 1 resolve.\n●When The Eye of Truth is applying and a card such as Robbin’ Goblin requires that the opponent discard a card from their hand randomly, the opponent should hide and shuffle his hand, discard a random card, and then reveal their hand again.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'The Eye of Truth' is activated in a chain you do not see your opponent’s hand until 'The Eye of Truth' resolves.So if 'The Eye of Truth' is step 3 in a 5 step chain, steps 5 and 4 will resolve, then 'The Eye of Truth' resolves and your opponent reveals his/her hand, then steps 2 and 1 resolve.\n● When 'The Eye of Truth' is applying and a card such as 'Robbin’ Goblin' requires that the opponent discard a card from their hand randomly, the opponent should hide and shuffle his hand, discard a random card, and then reveal their hand again.",
+    "TeleDAD": "● When 'The Eye of Truth' is activated in a chain you do not see your opponent’s hand until 'The Eye of Truth' resolves.So if 'The Eye of Truth' is step 3 in a 5 step chain, steps 5 and 4 will resolve, then 'The Eye of Truth' resolves and your opponent reveals his/her hand, then steps 2 and 1 resolve.\n● When 'The Eye of Truth' is applying and a card such as 'Robbin’ Goblin' requires that the opponent discard a card from their hand randomly, the opponent should hide and shuffle his hand, discard a random card, and then reveal their hand again.",
+    "Gladiator": "● When 'The Eye of Truth' is activated in a chain you do not see your opponent’s hand until 'The Eye of Truth' resolves.So if 'The Eye of Truth' is step 3 in a 5 step chain, steps 5 and 4 will resolve, then 'The Eye of Truth' resolves and your opponent reveals his/her hand, then steps 2 and 1 resolve.\n● When 'The Eye of Truth' is applying and a card such as 'Robbin’ Goblin' requires that the opponent discard a card from their hand randomly, the opponent should hide and shuffle his hand, discard a random card, and then reveal their hand again.",
+    "ReturnDAD": "● When 'The Eye of Truth' is activated in a chain you do not see your opponent’s hand until 'The Eye of Truth' resolves.So if 'The Eye of Truth' is step 3 in a 5 step chain, steps 5 and 4 will resolve, then 'The Eye of Truth' resolves and your opponent reveals his/her hand, then steps 2 and 1 resolve.\n● When 'The Eye of Truth' is applying and a card such as 'Robbin’ Goblin' requires that the opponent discard a card from their hand randomly, the opponent should hide and shuffle his hand, discard a random card, and then reveal their hand again.",
+    "Trooper": "● When 'The Eye of Truth' is activated in a chain you do not see your opponent’s hand until 'The Eye of Truth' resolves.So if 'The Eye of Truth' is step 3 in a 5 step chain, steps 5 and 4 will resolve, then 'The Eye of Truth' resolves and your opponent reveals his/her hand, then steps 2 and 1 resolve.\n● When 'The Eye of Truth' is applying and a card such as 'Robbin’ Goblin' requires that the opponent discard a card from their hand randomly, the opponent should hide and shuffle his hand, discard a random card, and then reveal their hand again.",
+    "Circle": "● When 'The Eye of Truth' is activated in a chain you do not see your opponent’s hand until 'The Eye of Truth' resolves.So if 'The Eye of Truth' is step 3 in a 5 step chain, steps 5 and 4 will resolve, then 'The Eye of Truth' resolves and your opponent reveals his/her hand, then steps 2 and 1 resolve.\n● When 'The Eye of Truth' is applying and a card such as 'Robbin’ Goblin' requires that the opponent discard a card from their hand randomly, the opponent should hide and shuffle his hand, discard a random card, and then reveal their hand again.",
+    "Stein": "● When 'The Eye of Truth' is activated in a chain you do not see your opponent’s hand until 'The Eye of Truth' resolves.So if 'The Eye of Truth' is step 3 in a 5 step chain, steps 5 and 4 will resolve, then 'The Eye of Truth' resolves and your opponent reveals his/her hand, then steps 2 and 1 resolve.\n● When 'The Eye of Truth' is applying and a card such as 'Robbin’ Goblin' requires that the opponent discard a card from their hand randomly, the opponent should hide and shuffle his hand, discard a random card, and then reveal their hand again.",
+    "Base": "1. When \"The Eye of Truth\" is activated in a chain you do not see your opponent's hand until \"The Eye of Truth\" resolves. So if \"The Eye of Truth\" is step 3 in a 5 step chain, steps 5 and 4 will resolve, then \"The Eye of Truth\" resolves and your opponent reveals his/her hand, then steps 2 and 1 resolve.\\n2. When \"The Eye of Truth\" is active and a card such as \"Robbin' Goblin\" requires that the opponent discard a card from their hand randomly, the opponent should hide and shuffle his hand, discard a random card, and then reveal their hand again."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

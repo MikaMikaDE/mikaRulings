@@ -1,0 +1,44 @@
+{
+  "id": 45500495,
+  "name": "Queen of Thorns",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2200,
+    "def": 1800,
+    "level": 6,
+    "race": "Plant",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● If you Tribute Summon using this card as tribute, you must still pay 1000 LP.\n● When resolving a card effect which summons from the hand, pay 1000 LP as it resolves.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Queen of Thorn's' effect is a Continuous Effect.\n● If you Tribute a face-up “Queen of Thorns” to Tribute Summon a monster, you must pay 1000 LP.\n● If you Normal Summon a monster from your hand, or Special Summon a monster with an 'inherent' Special Summon effect ('Cyber Dragon', etc.), first you pay 1000 LP and then Normal Summon/Special Summon the monster. If you Special Summon a monster from your hand by using a card effect ('Green Baboon, Defender of the Forest', etc.), you pay 1000 LP when the effect resolves.\n● If you Special Summon 'Grinder Golem', you only pay 1000 LP, because the 'Grinder Tokens' are not Special Summoned from your hand.\n● If there are 2 face-up 'Queen of Thorns', players must pay 2000 LP to Normal or Special Summon a non-Plant from their hand.\n● If 'Celestial Transformation', etc., is activated by a player with less than 1000 LP and an effect is chained that Special Summons 'Queen of Thorns', 'Celestial Transformation's' effect disappears because the player does not have enough LP to pay for the Special Summon.",
+    "TeleDAD": "● 'Queen of Thorn's' effect is a Continuous Effect.\n● If you Tribute a face-up “Queen of Thorns” to Tribute Summon a monster, you must pay 1000 LP.\n● If you Normal Summon a monster from your hand, or Special Summon a monster with an 'inherent' Special Summon effect ('Cyber Dragon', etc.), first you pay 1000 LP and then Normal Summon/Special Summon the monster. If you Special Summon a monster from your hand by using a card effect ('Green Baboon, Defender of the Forest', etc.), you pay 1000 LP when the effect resolves.\n● If you Special Summon 'Grinder Golem', you only pay 1000 LP, because the 'Grinder Tokens' are not Special Summoned from your hand.\n● If there are 2 face-up 'Queen of Thorns', players must pay 2000 LP to Normal or Special Summon a non-Plant from their hand.\n● If 'Celestial Transformation', etc., is activated by a player with less than 1000 LP and an effect is chained that Special Summons 'Queen of Thorns', 'Celestial Transformation's' effect disappears because the player does not have enough LP to pay for the Special Summon.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Queen of Thorns\" is a Continuous Effect.\\n2. If you Tribute a face-up \"Queen of Thorns\" to Tribute Summon a monster, you must pay 1000 Life Points.\\n3. If you Normal Summon a monster from your hand, or Special Summon a monster with an 'inherent' Special Summon effect (\"Cyber Dragon\", etc.), first you pay 1000 Life Points and then Normal Summon/Special Summon the monster. If you Special Summon a monster from your hand by using a card effect (\"Green Baboon, Defender of the Forest\", etc.), you pay 1000 Life Points when the effect resolves.\\n4. If you Special Summon \"Grinder Golem\", you only pay 1000 Life Points, because the 'Grinder Tokens' are not Special Summoned from your hand.\\n5. If there are 2 face-up \"Queen of Thorns\", players must pay 2000 Life Points to Normal or Special Summon a non-Plant-Type monster from their hand.\\n6. If \"Celestial Transformation\", etc., is activated by a player with less than 1000 Life Points and an effect is chained that Special Summons \"Queen of Thorns\", the effect of \"Celestial Transformation\" disappears because the player does not have enough Life Points to pay for the Special Summon."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1 or more non-Tuner Plants\n① Each player must pay 1000 LP to Normal/Special Summon monsters from the hand, except Plants.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

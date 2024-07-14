@@ -1,0 +1,44 @@
+{
+  "id": 17415895,
+  "name": "Volcanic Slicer",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 1200,
+    "level": 4,
+    "race": "Pyro",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●If “Volcanic Slicer” is flipped face-down after its effect has been activated, and flipped-face up in the same turn, it can attack that turn.\n●“Volcanic Slicer’s” Life Point damage inflicting effect can be activated when another card effect is preventing “Volcanic Slicer” from attacking.\n●“Volcanic Slicer’s” Life Point damage inflicting effect can be used by the player taking the very first turn of the Duel, even though he/she does not have a Battle Phase.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “Volcanic Slicer” is flipped face-down after its effect has been activated, and flipped-face up in the same turn, it can attack that turn.\n● “Volcanic Slicer’s” Life Point damage inflicting effect can be activated when another card effect is preventing “Volcanic Slicer” from attacking.\n● “Volcanic Slicer’s” Life Point damage inflicting effect can be used by the player taking the very first turn of the Duel, even though he/she does not have a Battle Phase.",
+    "TeleDAD": "● If “Volcanic Slicer” is flipped face-down after its effect has been activated, and flipped-face up in the same turn, it can attack that turn.\n● “Volcanic Slicer’s” Life Point damage inflicting effect can be activated when another card effect is preventing “Volcanic Slicer” from attacking.\n● “Volcanic Slicer’s” Life Point damage inflicting effect can be used by the player taking the very first turn of the Duel, even though he/she does not have a Battle Phase.",
+    "Gladiator": "● If “Volcanic Slicer” is flipped face-down after its effect has been activated, and flipped-face up in the same turn, it can attack that turn.\n● “Volcanic Slicer’s” Life Point damage inflicting effect can be activated when another card effect is preventing “Volcanic Slicer” from attacking.\n● “Volcanic Slicer’s” Life Point damage inflicting effect can be used by the player taking the very first turn of the Duel, even though he/she does not have a Battle Phase.",
+    "ReturnDAD": "● If “Volcanic Slicer” is flipped face-down after its effect has been activated, and flipped-face up in the same turn, it can attack that turn.\n● “Volcanic Slicer’s” Life Point damage inflicting effect can be activated when another card effect is preventing “Volcanic Slicer” from attacking.\n● “Volcanic Slicer’s” Life Point damage inflicting effect can be used by the player taking the very first turn of the Duel, even though he/she does not have a Battle Phase.",
+    "Trooper": "● If “Volcanic Slicer” is flipped face-down after its effect has been activated, and flipped-face up in the same turn, it can attack that turn.",
+    "Circle": "● If “Volcanic Slicer” is flipped face-down after its effect has been activated, and flipped-face up in the same turn, it can attack that turn.\n● “Volcanic Slicer’s” Life Point damage inflicting effect can be activated when another card effect is preventing “Volcanic Slicer” from attacking.\n● “Volcanic Slicer’s” Life Point damage inflicting effect can be used by the player taking the very first turn of the Duel, even though he/she does not have a Battle Phase.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Volcanic Slicer\" is flipped face-down after its effect has been activated, and flipped-face up in the same turn, it can attack that turn.\\n2. The Life Point damage inflicting effect of \"Volcanic Slicer\" can be activated when another card effect is preventing \"Volcanic Slicer\" from attacking.\\n3. The Life Point damage inflicting effect of \"Volcanic Slicer\" can be used by the player taking the very first turn of the Duel, even though he/she does not have a Battle Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 39019325,
+  "name": "Order to Smash",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You Tribute when you resolve Order to Smash's effect.\n●You select the Spell/Trap Card when you resolve Order to Smash's effect.",
+    "Goat": "●You Tribute when you resolve Order to Smash's effect.\n●You select the Spell/Trap Card when you resolve Order to Smash's effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You Tribute when you resolve 'Order to Smash''s effect.\n● You select the Spell/Trap Card when you resolve 'Order to Smash''s effect.",
+    "TeleDAD": "● You Tribute when you resolve 'Order to Smash''s effect.\n● You select the Spell/Trap Card when you resolve 'Order to Smash''s effect.",
+    "Gladiator": "● You Tribute when you resolve 'Order to Smash''s effect.\n● You select the Spell/Trap Card when you resolve 'Order to Smash''s effect.",
+    "ReturnDAD": "● You Tribute when you resolve 'Order to Smash''s effect.\n● You select the Spell/Trap Card when you resolve 'Order to Smash''s effect.",
+    "Trooper": "● You Tribute when you resolve 'Order to Smash''s effect.\n● You select the Spell/Trap Card when you resolve 'Order to Smash''s effect.",
+    "Circle": "● You Tribute when you resolve 'Order to Smash''s effect.\n● You select the Spell/Trap Card when you resolve 'Order to Smash''s effect.",
+    "Stein": "● You Tribute when you resolve 'Order to Smash''s effect.\n● You select the Spell/Trap Card when you resolve 'Order to Smash''s effect.",
+    "Base": "1. You Tribute when you resolve the effect of \"Order to Smash\".\\n2. You select the Spell/Trap Card when you resolve the effect of \"Order to Smash\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

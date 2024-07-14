@@ -1,0 +1,40 @@
+{
+  "id": 48130397,
+  "name": "Super Polymerization",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "\n●Super Polymerization does not target. The Fusion Material Monsters are sent to the GY when Super Polymerization resolves.\n●Super Polymeriation prevents effects from being chained, but Continous Effects are still applied.\n●If Super Polymerization is activated while Light and Darkness Dragon is face-up on the field, Light and Darkness Dragon's effect does not activate.\n●If Super Polymerization is activated while Spell Absorption is active, the player who controls Spell Absorption gains Life Points.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Super Polymerization' does not target. The Fusion Material Monsters are sent to the GY when 'Super Polymerization' resolves.\n● 'Super Polymeriation' prevents effects from being chained, but Continous Effects are still applied.\n● If 'Super Polymerization' is activated while 'Light and Darkness Dragon' is applying, 'Light and Darkness Dragon's' effect does not activate.\n● If 'Super Polymerization' is activated while 'Spell Absorption' is applying, the player who controls 'Spell Absorption' gains LP.",
+    "TeleDAD": "● 'Super Polymerization' does not target. The Fusion Material Monsters are sent to the GY when 'Super Polymerization' resolves.\n● 'Super Polymeriation' prevents effects from being chained, but Continous Effects are still applied.\n● If 'Super Polymerization' is activated while 'Light and Darkness Dragon' is applying, 'Light and Darkness Dragon's' effect does not activate.\n● If 'Super Polymerization' is activated while 'Spell Absorption' is applying, the player who controls 'Spell Absorption' gains LP.",
+    "Gladiator": "● 'Super Polymerization' does not target. The Fusion Material Monsters are sent to the GY when 'Super Polymerization' resolves.\n● 'Super Polymeriation' prevents effects from being chained, but Continous Effects are still applied.\n● If 'Super Polymerization' is activated while 'Light and Darkness Dragon' is applying, 'Light and Darkness Dragon's' effect does not activate.\n● If 'Super Polymerization' is activated while 'Spell Absorption' is applying, the player who controls 'Spell Absorption' gains LP.",
+    "ReturnDAD": "● 'Super Polymerization' does not target. The Fusion Material Monsters are sent to the GY when 'Super Polymerization' resolves.\n● 'Super Polymeriation' prevents effects from being chained, but Continous Effects are still applied.\n● If 'Super Polymerization' is activated while 'Light and Darkness Dragon' is applying, 'Light and Darkness Dragon's' effect does not activate.\n● If 'Super Polymerization' is activated while 'Spell Absorption' is applying, the player who controls 'Spell Absorption' gains LP.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Super Polymerization\" does not target. The Fusion Material Monsters are sent to the GY when \"Super Polymerization\" resolves.\\n2. \"Super Polymerization\" prevents effects from being chained, but Continuous Effects are still applied.\\n3. If \"Super Polymerization\" is activated while \"Light and Darkness Dragon\" is face-up on the field, the effect of \"Light and Darkness Dragon\" does not activate.\\n4. If \"Super Polymerization\" is activated while \"Spell Absorption\" is active, the player who controls \"Spell Absorption\" gains Life Points."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

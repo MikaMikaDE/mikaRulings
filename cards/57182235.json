@@ -1,0 +1,40 @@
+{
+  "id": 57182235,
+  "name": "Token Thanksgiving",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Token Thanksgiving will destroy a Monster Token equipped to Relinquished.",
+    "Goat": "●Token Thanksgiving will destroy a Monster Token equipped to Relinquished.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Token Thanksgiving' will destroy a Monster Token equipped to 'Relinquished'.",
+    "TeleDAD": "● 'Token Thanksgiving' will destroy a Monster Token equipped to 'Relinquished'.",
+    "Gladiator": "● 'Token Thanksgiving' will destroy a Monster Token equipped to 'Relinquished'.",
+    "ReturnDAD": "● 'Token Thanksgiving' will destroy a Monster Token equipped to 'Relinquished'.",
+    "Trooper": "● 'Token Thanksgiving' will destroy a Monster Token equipped to 'Relinquished'.",
+    "Circle": "● 'Token Thanksgiving' will destroy a Monster Token equipped to 'Relinquished'.",
+    "Stein": "● 'Token Thanksgiving' will destroy a Monster Token equipped to 'Relinquished'.",
+    "Base": "1. \"Token Thanksgiving\" will destroy a Monster Token equipped to \"Relinquished\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

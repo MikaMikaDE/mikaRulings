@@ -1,0 +1,44 @@
+{
+  "id": 28002611,
+  "name": "Gadget Hauler",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1300,
+    "def": 0,
+    "level": 6,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Sending any number of Morphtronic monsters from your hand to the GY is not a cost.\n●The ATK increase from Gadget Hauler's effect lasts until it is removed from the field or flipped face-down.\n●If Gadget Hauler's effect is activated while Banisher of the Radiance is face-up on the field, the Morphtronic monsters are removed from play instead of being sent to the GY, and “Gadget Hauler’s” ATK does not increase.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Sending any number of 'Morphtronic' monsters from your hand to the GY isn't a cost.\n● The ATK increase from 'Gadget Hauler's' effect lasts until it leaves the field or flipped face-down.\n● If 'Gadget Hauler's' effect is activated while 'Banisher of the Radiance' is applying, the 'Morphtronic' monsters are removed from play instead of being sent to the GY, and “Gadget Hauler’s” ATK does not increase.",
+    "TeleDAD": "● Sending any number of 'Morphtronic' monsters from your hand to the GY isn't a cost.\n● The ATK increase from 'Gadget Hauler's' effect lasts until it leaves the field or flipped face-down.\n● If 'Gadget Hauler's' effect is activated while 'Banisher of the Radiance' is applying, the 'Morphtronic' monsters are removed from play instead of being sent to the GY, and “Gadget Hauler’s” ATK does not increase.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Sending any number of 'Morphtronic' monsters from your hand to the GY is not a cost.\\n2. The ATK increase from the effect of \"Gadget Hauler\" lasts until it is removed from the field or flipped face-down.\\n3. If the effect of \"Gadget Hauler\" is activated while \"Banisher of the Radiance\" is face-up on the field, the 'Morphtronic' monsters are removed from play instead of being sent to the GY, and the ATK of \"Gadget Hauler\" does not increase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

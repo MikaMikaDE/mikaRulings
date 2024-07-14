@@ -1,0 +1,40 @@
+{
+  "id": 99517131,
+  "name": "The Spell Absorbing Life",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●The Spell Absorbing Life is like Ceasefire except it gives you Life Points instead of damaging your opponent.\n●You can activate The Spell Absorbing Life as long as there is at least 1 face-down monster on the field, OR there is at least 1 effect monster on the field (or both).\n●If you control Fire Princess and activate The Spell Absorbing Life, Fire Princess inflicts 500 damage no matter how many Life Points you gained from The Spell Absorbing Life.",
+    "Goat": "●The Spell Absorbing Life is like Ceasefire except it gives you LP instead of damaging your opponent.\n●You can activate The Spell Absorbing Life as long as there is at least 1 face-down monster on the field, OR there is at least 1 effect monster on the field (or both).\n●If you control Fire Princess and activate The Spell Absorbing Life, Fire Princess inflicts 500 damage no matter how many LP you gained from The Spell Absorbing Life.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The 'Spell Absorbing Life' is like 'Ceasefire' except it gives you LP instead of damaging your opponent.\n● You can activate 'The Spell Absorbing Life' as long as there is at least 1 face-down monster on the field, OR there is at least 1 effect monster on the field (or both).\n● If you control 'Fire Princess' and activate 'The Spell Absorbing Life', 'Fire Princess' inflicts 500 damage no matter how many LP you gained from 'The Spell Absorbing Life'.",
+    "TeleDAD": "● The 'Spell Absorbing Life' is like 'Ceasefire' except it gives you LP instead of damaging your opponent.\n● You can activate 'The Spell Absorbing Life' as long as there is at least 1 face-down monster on the field, OR there is at least 1 effect monster on the field (or both).\n● If you control 'Fire Princess' and activate 'The Spell Absorbing Life', 'Fire Princess' inflicts 500 damage no matter how many LP you gained from 'The Spell Absorbing Life'.",
+    "Gladiator": "● The 'Spell Absorbing Life' is like 'Ceasefire' except it gives you LP instead of damaging your opponent.\n● You can activate 'The Spell Absorbing Life' as long as there is at least 1 face-down monster on the field, OR there is at least 1 effect monster on the field (or both).\n● If you control 'Fire Princess' and activate 'The Spell Absorbing Life', 'Fire Princess' inflicts 500 damage no matter how many LP you gained from 'The Spell Absorbing Life'.",
+    "ReturnDAD": "● The 'Spell Absorbing Life' is like 'Ceasefire' except it gives you LP instead of damaging your opponent.\n● You can activate 'The Spell Absorbing Life' as long as there is at least 1 face-down monster on the field, OR there is at least 1 effect monster on the field (or both).\n● If you control 'Fire Princess' and activate 'The Spell Absorbing Life', 'Fire Princess' inflicts 500 damage no matter how many LP you gained from 'The Spell Absorbing Life'.",
+    "Trooper": "● The 'Spell Absorbing Life' is like 'Ceasefire' except it gives you LP instead of damaging your opponent.\n● You can activate 'The Spell Absorbing Life' as long as there is at least 1 face-down monster on the field, OR there is at least 1 effect monster on the field (or both).\n● If you control 'Fire Princess' and activate 'The Spell Absorbing Life', 'Fire Princess' inflicts 500 damage no matter how many LP you gained from 'The Spell Absorbing Life'.",
+    "Circle": "● The 'Spell Absorbing Life' is like 'Ceasefire' except it gives you LP instead of damaging your opponent.\n● You can activate 'The Spell Absorbing Life' as long as there is at least 1 face-down monster on the field, OR there is at least 1 effect monster on the field (or both).\n● If you control 'Fire Princess' and activate 'The Spell Absorbing Life', 'Fire Princess' inflicts 500 damage no matter how many LP you gained from 'The Spell Absorbing Life'.",
+    "Stein": "● The 'Spell Absorbing Life' is like 'Ceasefire' except it gives you LP instead of damaging your opponent.\n● You can activate 'The Spell Absorbing Life' as long as there is at least 1 face-down monster on the field, OR there is at least 1 effect monster on the field (or both).\n● If you control 'Fire Princess' and activate 'The Spell Absorbing Life', 'Fire Princess' inflicts 500 damage no matter how many LP you gained from 'The Spell Absorbing Life'.",
+    "Base": "1. The \"Spell Absorbing Life\" is like \"Ceasefire\" except it gives you Life Points instead of damaging your opponent.\\n2. You can activate \"The Spell Absorbing Life\" as long as there is at least 1 face-down monster on the field, OR there is at least 1 effect monster on the field (or both).\\n3. If you control \"Fire Princess\" and activate \"The Spell Absorbing Life\", \"Fire Princess\" inflicts 500 damage no matter how many Life Points you gained from \"The Spell Absorbing Life\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

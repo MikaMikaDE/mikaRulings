@@ -1,0 +1,44 @@
+{
+  "id": 91559748,
+  "name": "Prickle Fairy",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 2000,
+    "level": 4,
+    "race": "Plant",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Prickle Fairy is changed to an Insect-Type monster with DNA Surgery, your opponent cannot attack.",
+    "Goat": "●If Prickle Fairy is changed to an Insect monster with DNA Surgery, your opponent cannot attack. If “Prickle Fairy” is turned to Insect Type and there are only face up Insect Type monsters on the player’s field, the opponent may not attack unless the attacker can inherently attack directly.\n●If a face down Insect Type is attacked while “Prickle Fairy” is face up and applying on the field, Damage Calculation will proceed normally.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Prickle Fairy' is changed to an Insect with 'DNA Surgery', your opponent can't attack.",
+    "TeleDAD": "● If 'Prickle Fairy' is changed to an Insect with 'DNA Surgery', your opponent can't attack.",
+    "Gladiator": "● If 'Prickle Fairy' is changed to an Insect with 'DNA Surgery', your opponent can't attack.",
+    "ReturnDAD": "● If 'Prickle Fairy' is changed to an Insect with 'DNA Surgery', your opponent can't attack.",
+    "Trooper": "● If 'Prickle Fairy' is changed to an Insect with 'DNA Surgery', your opponent can't attack.",
+    "Circle": "● If 'Prickle Fairy' is changed to an Insect with 'DNA Surgery', your opponent can't attack.",
+    "Stein": "● If 'Prickle Fairy' is changed to an Insect with 'DNA Surgery', your opponent can't attack.",
+    "Base": "1. If \"Prickle Fairy\" is changed to an Insect-Type monster with \"DNA Surgery\", your opponent cannot attack."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

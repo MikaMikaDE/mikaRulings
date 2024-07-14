@@ -1,0 +1,40 @@
+{
+  "id": 40350910,
+  "name": "Timidity",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●While the effect of Timidity is active, all effects of a card which would destroy a Set Spell or Trap Card are negated.\n●While the effect of Timidity is active, you cannot destroy a face-down Monster Card equipped to Relinquished.\n●While the effect of Timidity is active, and your opponent activates Heavy Storm, face-down Spell and Trap Cards are not destroyed but face-up cards will be.",
+    "Goat": "●While the effect of Timidity is applying, all effects of a card which would destroy a Set Spell/Trap Card are negated.\n●While the effect of Timidity is applying, you cannot destroy a face-down Monster Card equipped to Relinquished.\n●While the effect of Timidity is applying, and your opponent activates Heavy Storm, face-down Spell/Trap Cards are not destroyed but face-up cards will be.Steve Okegawa, \n●Q: Does the effect of Timidity end at the beginning of the opponent's End Phase, or the end of the opponent's End Phase? \nA: Timidity will no longer be in effect when you reach the opponent's next End Phase. So in my turn I activate Timidity. It resolves properly. I Set 1 card in my S/T Zone. I end my turn. My opponent's turn begins. Until their End Phase, any Set Spell/Trap Cards cannot be destroyed. During my opponent's End Phase they could activate a Mystical Space Typhoon and target my face-down card in my Spell/Trap Card Zone, and it could be destroyed. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● While the effect of 'Timidity' is applying, all effects of a card which would destroy a Set Spell/Trap Card are negated.\n● While the effect of 'Timidity' is applying, you can't destroy a face-down Monster Card equipped to 'Relinquished'.\n● While the effect of 'Timidity' is applying, and your opponent activates 'Heavy Storm', face-down Spell/Trap Cards are not destroyed but face-up cards will be.",
+    "TeleDAD": "● While the effect of 'Timidity' is applying, all effects of a card which would destroy a Set Spell/Trap Card are negated.\n● While the effect of 'Timidity' is applying, you can't destroy a face-down Monster Card equipped to 'Relinquished'.\n● While the effect of 'Timidity' is applying, and your opponent activates 'Heavy Storm', face-down Spell/Trap Cards are not destroyed but face-up cards will be.",
+    "Gladiator": "● While the effect of 'Timidity' is applying, all effects of a card which would destroy a Set Spell/Trap Card are negated.\n● While the effect of 'Timidity' is applying, you can't destroy a face-down Monster Card equipped to 'Relinquished'.\n● While the effect of 'Timidity' is applying, and your opponent activates 'Heavy Storm', face-down Spell/Trap Cards are not destroyed but face-up cards will be.",
+    "ReturnDAD": "● While the effect of 'Timidity' is applying, all effects of a card which would destroy a Set Spell/Trap Card are negated.\n● While the effect of 'Timidity' is applying, you can't destroy a face-down Monster Card equipped to 'Relinquished'.\n● While the effect of 'Timidity' is applying, and your opponent activates 'Heavy Storm', face-down Spell/Trap Cards are not destroyed but face-up cards will be.",
+    "Trooper": "● While the effect of 'Timidity' is applying, all effects of a card which would destroy a Set Spell/Trap Card are negated.\n● While the effect of 'Timidity' is applying, you can't destroy a face-down Monster Card equipped to 'Relinquished'.\n● While the effect of 'Timidity' is applying, and your opponent activates 'Heavy Storm', face-down Spell/Trap Cards are not destroyed but face-up cards will be.",
+    "Circle": "● While the effect of 'Timidity' is applying, all effects of a card which would destroy a Set Spell/Trap Card are negated.\n● While the effect of 'Timidity' is applying, you can't destroy a face-down Monster Card equipped to 'Relinquished'.\n● While the effect of 'Timidity' is applying, and your opponent activates 'Heavy Storm', face-down Spell/Trap Cards are not destroyed but face-up cards will be.",
+    "Stein": "● While the effect of 'Timidity' is applying, all effects of a card which would destroy a Set Spell/Trap Card are negated.\n● While the effect of 'Timidity' is applying, you can't destroy a face-down Monster Card equipped to 'Relinquished'.\n● While the effect of 'Timidity' is applying, and your opponent activates 'Heavy Storm', face-down Spell/Trap Cards are not destroyed but face-up cards will be.",
+    "Base": "1. While the effect of \"Timidity\" is active, all effects of a card which would destroy a Set Spell or Trap Card are negated.\\n2. While the effect of \"Timidity\" is active, you cannot destroy a face-down Monster Card equipped to \"Relinquished\".\\n3. While the effect of \"Timidity\" is active, and your opponent activates \"Heavy Storm\", face-down Spell and Trap Cards are not destroyed but face-up cards will be."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

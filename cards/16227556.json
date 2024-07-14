@@ -1,0 +1,40 @@
+{
+  "id": 16227556,
+  "name": "Inspection",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Inspection's effect can be activated multiple times during the same Standby Phase.",
+    "Goat": "Currently, you can use “Inspection” as many times as you can afford to pay for during the same Standby Phase.\nQ: Since I can activate the effect of my face-up “Inspection” during my opponent’s Standby Phase, can they chain “Mystical Space Typhoon” to the effect to stop it from resolving?\nA: Yes they could in response to you activating \"Inspection's\" effect. Since \"Inspection\" is a Continous Spell Card its effect would disappear when it tries to resolve. (It needs to remain face-up on the field.)",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Inspection's' effect can be activated multiple times during the same Standby Phase.",
+    "TeleDAD": "● 'Inspection's' effect can be activated multiple times during the same Standby Phase.",
+    "Gladiator": "● 'Inspection's' effect can be activated multiple times during the same Standby Phase.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Inspection\" can be activated multiple times during the same Standby Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

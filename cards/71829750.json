@@ -1,0 +1,44 @@
+{
+  "id": 71829750,
+  "name": "Serpentine Princess",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 2000,
+    "level": 4,
+    "race": "Reptile",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●When Serpentine Princess is returned to the Deck by an effect occurring in a chain, the effect of Serpentine Princess starts a new Chain after the current Chain resolves completely.\n●If the effect of Fiber Jar places Serpentine Princess from the field into your Deck, the effect of Serpentine Princess is activated and will be applied after the effect of Fiber Jar has finished resolving.",
+    "Goat": "●When Serpentine Princess is returned to the Deck by an effect occurring in a chain, the effect of Serpentine Princess starts a new Chain after the current Chain resolves completely.\n●If the effect of Fiber Jar places Serpentine Princess from the field into your Deck, the effect of Serpentine Princess is activated and will be applied after the effect of Fiber Jar has finished resolving.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Serpentine Princess' is returned to the Deck by an effect occurring in a chain, the effect of 'Serpentine Princess' starts a new Chain after the current Chain resolves completely.\n● If the effect of 'Fiber Jar' places 'Serpentine Princess' from the field into your Deck, the effect of 'Serpentine Princess' is activated and will be applied after the effect of 'Fiber Jar' has finished resolving.",
+    "TeleDAD": "● When 'Serpentine Princess' is returned to the Deck by an effect occurring in a chain, the effect of 'Serpentine Princess' starts a new Chain after the current Chain resolves completely.\n● If the effect of 'Fiber Jar' places 'Serpentine Princess' from the field into your Deck, the effect of 'Serpentine Princess' is activated and will be applied after the effect of 'Fiber Jar' has finished resolving.",
+    "Gladiator": "● When 'Serpentine Princess' is returned to the Deck by an effect occurring in a chain, the effect of 'Serpentine Princess' starts a new Chain after the current Chain resolves completely.\n● If the effect of 'Fiber Jar' places 'Serpentine Princess' from the field into your Deck, the effect of 'Serpentine Princess' is activated and will be applied after the effect of 'Fiber Jar' has finished resolving.",
+    "ReturnDAD": "● When 'Serpentine Princess' is returned to the Deck by an effect occurring in a chain, the effect of 'Serpentine Princess' starts a new Chain after the current Chain resolves completely.\n● If the effect of 'Fiber Jar' places 'Serpentine Princess' from the field into your Deck, the effect of 'Serpentine Princess' is activated and will be applied after the effect of 'Fiber Jar' has finished resolving.",
+    "Trooper": "● When 'Serpentine Princess' is returned to the Deck by an effect occurring in a chain, the effect of 'Serpentine Princess' starts a new Chain after the current Chain resolves completely.\n● If the effect of 'Fiber Jar' places 'Serpentine Princess' from the field into your Deck, the effect of 'Serpentine Princess' is activated and will be applied after the effect of 'Fiber Jar' has finished resolving.",
+    "Circle": "● When 'Serpentine Princess' is returned to the Deck by an effect occurring in a chain, the effect of 'Serpentine Princess' starts a new Chain after the current Chain resolves completely.\n● If the effect of 'Fiber Jar' places 'Serpentine Princess' from the field into your Deck, the effect of 'Serpentine Princess' is activated and will be applied after the effect of 'Fiber Jar' has finished resolving.",
+    "Stein": "● When 'Serpentine Princess' is returned to the Deck by an effect occurring in a chain, the effect of 'Serpentine Princess' starts a new Chain after the current Chain resolves completely.\n● If the effect of 'Fiber Jar' places 'Serpentine Princess' from the field into your Deck, the effect of 'Serpentine Princess' is activated and will be applied after the effect of 'Fiber Jar' has finished resolving.",
+    "Base": "1. When \"Serpentine Princess\" is returned to the Deck by an effect occurring in a chain, the effect of \"Serpentine Princess\" starts a new Chain after the current Chain resolves completely.\\n2. If the effect of \"Fiber Jar\" places \"Serpentine Princess\" from the field into your Deck, the effect of \"Serpentine Princess\" is activated and will be applied after the effect of \"Fiber Jar\" has finished resolving."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

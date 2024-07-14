@@ -1,0 +1,44 @@
+{
+  "id": 45812361,
+  "name": "Cardcar D",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 400,
+    "level": 2,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "VS \"Effect Veiler\", \"Breakthrough Skill\", \"Divine Dragon Lord Felgrand\":\n● If you activate its effect, you don't draw any cards, and cannot Special Summon that turn.\nVS \"Fiendish Chain\" or \"Skill Drain\":\n● If you activate its effect, it resolves as normal (you draw 2 cards and it becomes the End Phase).\nVS \"Divine Wrath\" or \"Xyz Block\":\n● Since the activation was negated, you can still Special Summon that turn.\n\nIf you activated some effect to Special Summon previously that turn (EG Fiendish Chain):\n● If that card's effects were negated, you cannot activate this card's effect.\n● If that card's activation was negated, you can still Special Summon that turn.",
+    "Vegas": "VS \"Effect Veiler\", \"Breakthrough Skill\", \"Divine Dragon Lord Felgrand\":\n● If you activate its effect, you don't draw any cards, and cannot Special Summon that turn.\nVS \"Fiendish Chain\" or \"Skill Drain\":\n● If you activate its effect, it resolves as normal (you draw 2 cards and it becomes the End Phase).\nVS \"Divine Wrath\" or \"Xyz Block\":\n● Since the activation was negated, you can still Special Summon that turn.\n\nIf you activated some effect to Special Summon previously that turn (EG Fiendish Chain):\n● If that card's effects were negated, you cannot activate this card's effect.\n● If that card's activation was negated, you can still Special Summon that turn.",
+    "Meadowlands": "VS \"Effect Veiler\", \"Breakthrough Skill\", \"Divine Dragon Lord Felgrand\":\n● If you activate its effect, you don't draw any cards, and cannot Special Summon that turn.\nVS \"Fiendish Chain\" or \"Skill Drain\":\n● If you activate its effect, it resolves as normal (you draw 2 cards and it becomes the End Phase).\nVS \"Divine Wrath\" or \"Xyz Block\":\n● Since the activation was negated, you can still Special Summon that turn.\n\nIf you activated some effect to Special Summon previously that turn (EG Fiendish Chain):\n● If that card's effects were negated, you cannot activate this card's effect.\n● If that card's activation was negated, you can still Special Summon that turn.",
+    "FireWater": "VS \"Effect Veiler\", \"Breakthrough Skill\", \"Divine Dragon Lord Felgrand\":\n● If you activate its effect, you don't draw any cards, and cannot Special Summon that turn.\nVS \"Fiendish Chain\" or \"Skill Drain\":\n● If you activate its effect, it resolves as normal (you draw 2 cards and it becomes the End Phase).\nVS \"Divine Wrath\" or \"Xyz Block\":\n● Since the activation was negated, you can still Special Summon that turn.\n\nIf you activated some effect to Special Summon previously that turn (EG Fiendish Chain):\n● If that card's effects were negated, you cannot activate this card's effect.\n● If that card's activation was negated, you can still Special Summon that turn.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "Ⓢ Can't be Special Summoned. \n① During your Main Phase 1, if this card was Normal Summoned this turn: You can Tribute this card; \ndraw 2 cards, then it becomes the End Phase.\n(You can't Special Summon during the turn you activate this effect).",
+    "Meadowlands": "Ⓢ Can't be Special Summoned. \n① During your Main Phase 1, if this card was Normal Summoned this turn: You can Tribute this card; \ndraw 2 cards, then it becomes the End Phase.\n(You can't Special Summon during the turn you activate this effect).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

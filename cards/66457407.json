@@ -1,0 +1,44 @@
+{
+  "id": 66457407,
+  "name": "Copy Plant",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": "Plant",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●Copy Plant's effect targets 1 face-up Plant-Type monster on the field.\n●Copy Plant's effect copies the current Level of the targeted monster when Copy Plant's effect resolves. If the targeted monster's Level changes after Copy Plant's effect has resolved, Copy Plant keeps the level it copied when its effect resolved.\n●If Copy Plant is equipped with Demotion, when Copy Plant uses its effect to copy the Level of a Plant-Type monster, the copied value is reduced by 2 for Demotion.\n●Copy Plant's effect can target a Plant-Type monster of equal Level, and it can target another Copy Plant.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Copy Plant's' effect targets 1 face-up Plant on the field.\n● 'Copy Plant's' effect copies the current LV of the targeted monster when 'Copy Plant's' effect resolves. If the targeted monster's LV changes after 'Copy Plant's' effect has resolved, 'Copy Plant' keeps the level it copied when its effect resolved.\n● If 'Copy Plant' is equipped with 'Demotion', when 'Copy Plant' uses its effect to copy the LV of a Plant, the copied value is reduced by 2 for 'Demotion'.\n● 'Copy Plant's' effect can target a Plant of equal LV, and it can target another 'Copy Plant'.",
+    "TeleDAD": "● 'Copy Plant's' effect targets 1 face-up Plant on the field.\n● 'Copy Plant's' effect copies the current LV of the targeted monster when 'Copy Plant's' effect resolves. If the targeted monster's LV changes after 'Copy Plant's' effect has resolved, 'Copy Plant' keeps the level it copied when its effect resolved.\n● If 'Copy Plant' is equipped with 'Demotion', when 'Copy Plant' uses its effect to copy the LV of a Plant, the copied value is reduced by 2 for 'Demotion'.\n● 'Copy Plant's' effect can target a Plant of equal LV, and it can target another 'Copy Plant'.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Copy Plant\" targets 1 face-up Plant-Type monster on the field.\\n2. The effect of \"Copy Plant\" copies the current Level of the targeted monster when the effect of \"Copy Plant\" resolves. If the targeted monster's Level changes after the effect of \"Copy Plant\" has resolved, \"Copy Plant\" keeps the level it copied when its effect resolved.\\n3. If \"Copy Plant\" is equipped with \"Demotion\", when \"Copy Plant\" uses its effect to copy the Level of a Plant-Type monster, the copied value is reduced by 2 for \"Demotion\".\\n4. The effect of \"Copy Plant\" can target a Plant-Type monster of equal Level, and it can target another \"Copy Plant\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

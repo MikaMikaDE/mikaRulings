@@ -1,0 +1,44 @@
+{
+  "id": 11366199,
+  "name": "Dark Simorgh",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2700,
+    "def": 1000,
+    "level": 7,
+    "race": "Winged Beast",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "(1) While this card is face-up on the field its Attribute is also treated as WIND. (2) You can remove from play 1 DARK monster and 1 WIND monster from your GY to Special Summon this card from your hand. (3) You can remove from play 1 DARK monster and 1 WIND monster from your hand to Special Summon this card from your GY. (4) Your opponent cannot Set any cards on the field.\n●You can Normal Summon “Dark Simorgh.”\n●The (1) Continuous Effect applies only while Dark Simorgh is face-up.\n●This effect does not apply in the GY.\n●“Ally of Justice Catastor” will destroy “Dark Simorgh”, as Dark Simorgh is also treated as WIND.\n●This effect will cause Dark Simorgh to be sent to the GY while Gozen Match applies.\n●The (2) Ignition Effect activates & resolves in the hand.\n●Removing from play 1 DARK monster + 1 WIND monster in your GY is a cost.\n●The (3) Ignition Effect activates & resolves in the GY.\n●Removing from play 1 DARK monster + 1 WIND monster in your hand is a cost.\n●If this card is not in your GY when this effect resolves, it is not Special Summoned.\n●The (4) Continuous Effect does not activate.\n●Your opponent cannot Set cards by manual player action (ex: place a Spell face-down).\n●Your opponent cannot Special Summoning monsters face-down (ex: The Shallow Grave).\n●Your opponent cannot Set cards by card effect (ex: “Book of Moon”, Scrap Iron Scarecrow).\n●If your opponent activates “Scrap-Iron Scarecrow” when you attack with “Dark Simorgh” the attack will be negated, but “Scrap-Iron Scarecrow” will go to the GY because it cannot be Set.\n●If “Call of the Haunted” is Chained to the activation of “The Shallow Grave” and “Dark Simorgh” is Special Summoned as a result, the controller of “Dark Simorgh” will Special Summon a monster with “The Shallow Grave” but the opponent will not.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can Normal Summon \"Dark Simorgh\".\\n2. \"Dark Simorgh\" prevents your opponent from Setting cards willingly or by a card effect, such as \"Scrap-Iron Scarecrow\".\\n3. The effects to Special Summon \"Dark Simorgh\" start a Chain.\\n4. If \"Call of the Haunted\" is Chained to the activation of \"The Shallow Grave\" and \"Dark Simorgh\" is Special Summoned as a result, the controller of \"Dark Simorgh\" will Special Summon a monster with \"The Shallow Grave\" but the opponent will not.\\n5. If \"Dark Simorgh\" is not in the GY when the effect to Special Summon it from the GY resolves, it will not be Special Summoned.\\n6. If \"Ally of Justice Catastor\" battles \"Dark Simorgh\" it will destroy \"Dark Simorgh\" with its effect because the Attribute of \"Dark Simorgh\" is also treated as WIND.\\n7. If your opponent activates \"Scrap-Iron Scarecrow\" when you attack with \"Dark Simorgh\" the attack will be negated, but \"Scrap-Iron Scarecrow\" will go to the GY because it cannot be Set."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

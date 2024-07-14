@@ -1,0 +1,44 @@
+{
+  "id": 15894048,
+  "name": "Ultimate Tyranno",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 3000,
+    "def": 2200,
+    "level": 8,
+    "race": "Dinosaur",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you have 2 or more “Ultimate Tyranno” in Attack Position at the start of your Battle Phase, you choose 1 and it attacks all of your opponent’s monsters first.\n●Either player may activate effects during the Battle Phase before Ultimate Tyranno attacks, as well as during, or in between its attacks.\n●If Ultimate Tyranno attacks and destroys an opponent's Mystic Tomato and they use its effect to Special Summon another monster, then Ultimate Tyranno must also attack the newly Summoned monster.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have 2 or more “Ultimate Tyranno” in Attack Position at the start of your Battle Phase, you choose 1 and it attacks all of your opponent’s monsters first. \n● Either player may activate effects during the Battle Phase before 'Ultimate Tyranno' attacks, as well as during, or in between its attacks.\n● If 'Ultimate Tyranno' attacks and destroys an opponent's 'Mystic Tomato' and they use its effect to Special Summon another monster, then 'Ultimate Tyranno' must also attack the newly Summoned monster.",
+    "TeleDAD": "● If you have 2 or more “Ultimate Tyranno” in Attack Position at the start of your Battle Phase, you choose 1 and it attacks all of your opponent’s monsters first. \n● Either player may activate effects during the Battle Phase before 'Ultimate Tyranno' attacks, as well as during, or in between its attacks.\n● If 'Ultimate Tyranno' attacks and destroys an opponent's 'Mystic Tomato' and they use its effect to Special Summon another monster, then 'Ultimate Tyranno' must also attack the newly Summoned monster.",
+    "Gladiator": "● If you have 2 or more “Ultimate Tyranno” in Attack Position at the start of your Battle Phase, you choose 1 and it attacks all of your opponent’s monsters first. \n● Either player may activate effects during the Battle Phase before 'Ultimate Tyranno' attacks, as well as during, or in between its attacks.\n● If 'Ultimate Tyranno' attacks and destroys an opponent's 'Mystic Tomato' and they use its effect to Special Summon another monster, then 'Ultimate Tyranno' must also attack the newly Summoned monster.",
+    "ReturnDAD": "● If you have 2 or more “Ultimate Tyranno” in Attack Position at the start of your Battle Phase, you choose 1 and it attacks all of your opponent’s monsters first. \n● Either player may activate effects during the Battle Phase before 'Ultimate Tyranno' attacks, as well as during, or in between its attacks.\n● If 'Ultimate Tyranno' attacks and destroys an opponent's 'Mystic Tomato' and they use its effect to Special Summon another monster, then 'Ultimate Tyranno' must also attack the newly Summoned monster.",
+    "Trooper": "● If you have 2 or more “Ultimate Tyranno” in Attack Position at the start of your Battle Phase, you choose 1 and it attacks all of your opponent’s monsters first. \n● ",
+    "Circle": "● If you have 2 or more “Ultimate Tyranno” in Attack Position at the start of your Battle Phase, you choose 1 and it attacks all of your opponent’s monsters first. \n● Either player may activate effects during the Battle Phase before 'Ultimate Tyranno' attacks, as well as during, or in between its attacks.\n● If 'Ultimate Tyranno' attacks and destroys an opponent's 'Mystic Tomato' and they use its effect to Special Summon another monster, then 'Ultimate Tyranno' must also attack the newly Summoned monster.",
+    "Stein": "● If you have 2 or more “Ultimate Tyranno” in Attack Position at the start of your Battle Phase, you choose 1 and it attacks all of your opponent’s monsters first. \n● ",
+    "Base": "1. If you have 2 or more \"Ultimate Tyranno\" in Attack Position at the start of your Battle Phase, you choose 1 and it attacks all of your opponent's monsters first.\\n2. Either player may activate effects during the Battle Phase before \"Ultimate Tyranno\" attacks, as well as during, or in between its attacks.\\n3. If \"Ultimate Tyranno\" attacks and destroys an opponent's \"Mystic Tomato\" and they use its effect to Special Summon another monster, then \"Ultimate Tyranno\" must also attack the newly Summoned monster."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 64952266,
+  "name": "Against the Wind",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Select 1 Blackwing monster in your GY. Take damage equal to the ATK of the selected monster, and add it to your hand.\n●“Against the Wind” targets 1 “Blackwing” monster in your GY.\n●If you control “Des Wombat,” you can activate “Against the Wind,” but since the damage you take becomes 0, you cannot add a card to your hand.\n●If an effect is chained that removes the targeted monster from the GY, you take no damage and do not add it to your hand.\n●The effects of “Against the Wind” to inflict damage and add a card to your hand are considered to be simultaneous, although as a practical matter you take the damage first.\n●This means that you can activate effects like “Numinous Healer” without missing the timing.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Against the Wind\" targets 1 'Blackwing' monster in your GY.\\n2. If you control \"Des Wombat\", you can activate \"Against the Wind\", but since the damage you take becomes 0, you cannot add a card to your hand.\\n3. If an effect is chained that removes the targeted monster from the GY, you take no damage and do not add it to your hand.\\n4. The effects of \"Against the Wind\" to inflict damage and add a card to your hand are considered to be simultaneous, although as a practical matter you take the damage first. This means that you can activate effects like \"Numinous Healer\" without missing the timing."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

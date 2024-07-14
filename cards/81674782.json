@@ -1,0 +1,40 @@
+{
+  "id": 81674782,
+  "name": "Dimensional Fissure",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "(1) Any monster sent to the GY is removed from play instead.\n●The (1) Continuous-like Effect only affects Monster Cards that would be sent to the GY.\n●Face-down monsters that would be sent to the GY are also removed from play.\n●Cards/effects whose cost send/discard a monster(s) 'to the GY' CANNOT activate.\n●Examples: Herald of Orange Light, Card Trooper, and Jowgen the Spiritualist.\n●Cards/effects whose cost send/discard a monster(s) CAN activate.\n●Example: Magic Jammer, Dark Grepher.\n●Cards/effects that send/discard a monster(s) 'to the GY' at resolution CAN activate.\n●Examples: Foolish Burial, Blaze Accelerator, and Needlebug Nest.\n●VS. Archlord Kristya: If a face-up Kristya would be sent from the field to the GY (and removed from play), its effect will still trigger and places it back on top of the Deck.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● While “Dimensional Fissure” is applying, a monster that is destroyed while face-down will still be removed from play face-up.\n● Since Monster Cards are removed from play instead of going to the GY, you can't send “Horus the Black Flame Dragon LV6” to the GY to activate its effect to level up.\n● If you also have 'Gravekeeper's Servant' applying, your opponent can't declare an attack.",
+    "TeleDAD": "● While “Dimensional Fissure” is applying, a monster that is destroyed while face-down will still be removed from play face-up.\n● Since Monster Cards are removed from play instead of going to the GY, you can't send “Horus the Black Flame Dragon LV6” to the GY to activate its effect to level up.\n● If you also have 'Gravekeeper's Servant' applying, your opponent can't declare an attack.",
+    "Gladiator": "● While “Dimensional Fissure” is applying, a monster that is destroyed while face-down will still be removed from play face-up.\n● Since Monster Cards are removed from play instead of going to the GY, you can't send “Horus the Black Flame Dragon LV6” to the GY to activate its effect to level up.\n● If you also have 'Gravekeeper's Servant' applying, your opponent can't declare an attack.",
+    "ReturnDAD": "● While “Dimensional Fissure” is applying, a monster that is destroyed while face-down will still be removed from play face-up.\n● Since Monster Cards are removed from play instead of going to the GY, you can't send “Horus the Black Flame Dragon LV6” to the GY to activate its effect to level up.\n● If you also have 'Gravekeeper's Servant' applying, your opponent can't declare an attack.",
+    "Trooper": "● While “Dimensional Fissure” is applying, a monster that is destroyed while face-down will still be removed from play face-up.\n● Since Monster Cards are removed from play instead of going to the GY, you can't send “Horus the Black Flame Dragon LV6” to the GY to activate its effect to level up.",
+    "Circle": "● While “Dimensional Fissure” is applying, a monster that is destroyed while face-down will still be removed from play face-up.\n● Since Monster Cards are removed from play instead of going to the GY, you can't send “Horus the Black Flame Dragon LV6” to the GY to activate its effect to level up.\n● If you also have 'Gravekeeper's Servant' applying, your opponent can't declare an attack.",
+    "Stein": "● While “Dimensional Fissure” is applying, a monster that is destroyed while face-down will still be removed from play face-up.\n● Since Monster Cards are removed from play instead of going to the GY, you can't not send “Horus the Black Flame Dragon LV6” to the GY to activate its effect to level up.",
+    "Base": "1. While \"Dimensional Fissure\" is active, a monster that is destroyed while face-down will still be removed from play face-up.\\n2. Since Monster Cards are removed from play instead of going to the GY, you cannot send \"Horus the Black Flame Dragon LV6\" to the GY to activate its effect to level up.\\n3. If you also have \"Gravekeeper's Servant\" active on the field, your opponent cannot declare an attack."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

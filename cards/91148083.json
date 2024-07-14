@@ -1,0 +1,40 @@
+{
+  "id": 91148083,
+  "name": "Gotterdammerung",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This targets the \"Aesir\" monster.\\n2. Destroying the selected monster and removing from play all your opponent's cards does not start a Chain.\\n3. If you select an \"Aesir\" monster that is unaffected by Spells and Traps, none of this card's effects apply.\\n4. When the \"Aesir\" monster is destroyed, it goes to your GY. It is not removed from play with the rest of your opponent's cards.\\n5. You destroy the \"Aesir\" monster and remove the rest of the cards from play simultaneously.\\n6. The \"Aesir\" monster is not considered to be destroyed by the opponent's card, so you cannot revive it during the End Phase.\\n7. If you control the \"Aesir\" monster during your opponent's next End Phase, you still destroy it and remove your opponent's cards from play.\\n8. You can still activate \"Gotterdammerung\" if \"Remove Brainwashing\" is in effect. You immediately regain control of the \"Aesir\" monster in that case.\\n9. If \"Imperial Iron Wall\" is in play during your opponent's next End Phase, you will still destroy the \"Aesir\" monster but your opponent's cards will not be removed from play."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

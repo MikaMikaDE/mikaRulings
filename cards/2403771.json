@@ -1,0 +1,44 @@
+{
+  "id": 2403771,
+  "name": "Power Tool Dragon",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2300,
+    "def": 2500,
+    "level": 7,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You must show your opponent the 3 Equip Spell Cards from your Deck that you pick for \"Power Tool Dragon\". From that point on, you do not have to show them. So your opponent does not see them while picking randomly, your opponent does not see which card is added to your hand, and your opponent does not see which 2 cards were returned to the Deck.\\n2. You cannot activate the effect of \"Power Tool Dragon\" while \"Thunder King Rai-Oh\" is active. If you activate the effect, and an effect is chained which places \"Thunder King Rai-Oh\" on the field, proceed with the effect of \"Power Tool Dragon\" but the 1 picked card goes to the GY instead of your hand.\\n3. If \"Power Tool Dragon\" is equipped with your opponent's Equip Spell Card, you can send your opponent's Equip Spell Card to the GY to prevent \"Power Tool Dragon\" from being destroyed.\\n4. If \"Power Tool Dragon\" and the card equipped to it would be destroyed at the same time (by \"Judgment Dragon\", for example), you cannot send the Equip Spell Card to the GY to save \"Power Tool Dragon\".\\n5. If \"Power Tool Dragon\" is equipped only with \"Blast Sphere\", you cannot send \"Blast Sphere\" to the GY to prevent \"Power Tool Dragon\" from being destroyed by \"Blast Sphere\". If \"Power Tool Dragon\" is equipped with \"Blast Sphere\" and another Equip Spell Card, you can send the other Equip Spell Card to the GY to protect \"Power Tool Dragon\". In that case, \"Blast Sphere\" is destroyed, but no damage is inflicted for the effect of \"Blast Sphere\".\\n6. When \"Power Tool Dragon\", equipped with \"Double Tool C&D\", is destroyed by battle during your opponent's turn, and you send \"Double Tool C&D\" to the GY instead to protect \"Power Tool Dragon\", the effect of \"Double Tool C&D\" that destroys the opponent's monster does not activate, because it is not on the field at the end of the Damage Step.\\n7. The effects of \"Power Tool Dragon\" that add a card to your hand and return 2 cards to the Deck happen at the same time. You can activate \"Drastic Drop Off\" after the effect resolves.\\n8. If \"Macro Cosmos\" is active, you can still send an Equip Spell Card to the GY to protect \"Power Tool Dragon\".\\n9. If a Chain resolves with \"Power Tool Dragon\" being destroyed, and you send \"Archfiend of Gilfer\" equipped to \"Power Tool Dragon\" to the GY instead, you can activate the effect of \"Archfiend of Gilfer\" and re-equip it to a monster on the field (including \"Power Tool Dragon\"). If you send \"Archfiend of Gilfer\" equipped to \"Power Tool Dragon\" to the GY during the middle of a Chain, or in the middle of an effect resolution, then you cannot activate \"Archfiend of Gilfer\" and re­equip it, because you missed the timing."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1+ non-Tuner monsters\n① Once per turn: You can reveal 3 Equip Spells from your Deck, \nthen your opponent randomly adds 1 of them to your hand, and you shuffle the others into the Deck. \n② If this card would be destroyed, you can send 1 Equip Spell Card equipped to it to the GY, instead.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

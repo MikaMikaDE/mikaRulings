@@ -1,0 +1,40 @@
+{
+  "id": 81385346,
+  "name": "Stamping Destruction",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "●When you activate this card, if the opponent activates an effect in a chain that destroys the targeted Spell/Trap Card, the opponent will not take the 500 points of damage. If your opponent merely chains the Spell/Trap card that you targeted, the Spell/Trap Card will be destroyed when Stamping Destruction resolves and your opponent will take 500 points of damage. (Remember that Spell/Trap Cards remain on the field until the entire chain resolves, unless destroyed by a card effect during the chain.)\n●If your opponent destroys all the Dragon monsters on your side of the field as a chain to the activation of this card, this card will still resolve since the conditions were met at the time of activation.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When you activate this card, if the opponent activates an effect in a chain that destroys the targeted Spell/Trap Card, the opponent will not take the 500 damage. If your opponent merely chains the Spell/Trap card that you targeted, the Spell/Trap Card will be destroyed when 'Stamping Destruction' resolves and your opponent will take 500 damage. (Remember that Spell/Trap Cards remain on the field until the entire chain resolves, unless destroyed by a card effect during the chain.)\n● If your opponent destroys all the Dragons on your side of the field as a chain to the activation of this card, this card will still resolve since the conditions were met at the time of activation.",
+    "TeleDAD": "● When you activate this card, if the opponent activates an effect in a chain that destroys the targeted Spell/Trap Card, the opponent will not take the 500 damage. If your opponent merely chains the Spell/Trap card that you targeted, the Spell/Trap Card will be destroyed when 'Stamping Destruction' resolves and your opponent will take 500 damage. (Remember that Spell/Trap Cards remain on the field until the entire chain resolves, unless destroyed by a card effect during the chain.)\n● If your opponent destroys all the Dragons on your side of the field as a chain to the activation of this card, this card will still resolve since the conditions were met at the time of activation.",
+    "Gladiator": "● When you activate this card, if the opponent activates an effect in a chain that destroys the targeted Spell/Trap Card, the opponent will not take the 500 damage. If your opponent merely chains the Spell/Trap card that you targeted, the Spell/Trap Card will be destroyed when 'Stamping Destruction' resolves and your opponent will take 500 damage. (Remember that Spell/Trap Cards remain on the field until the entire chain resolves, unless destroyed by a card effect during the chain.)\n● If your opponent destroys all the Dragons on your side of the field as a chain to the activation of this card, this card will still resolve since the conditions were met at the time of activation.",
+    "ReturnDAD": "● When you activate this card, if the opponent activates an effect in a chain that destroys the targeted Spell/Trap Card, the opponent will not take the 500 damage. If your opponent merely chains the Spell/Trap card that you targeted, the Spell/Trap Card will be destroyed when 'Stamping Destruction' resolves and your opponent will take 500 damage. (Remember that Spell/Trap Cards remain on the field until the entire chain resolves, unless destroyed by a card effect during the chain.)\n● If your opponent destroys all the Dragons on your side of the field as a chain to the activation of this card, this card will still resolve since the conditions were met at the time of activation.",
+    "Trooper": "● When you activate this card, if the opponent activates an effect in a chain that destroys the targeted Spell/Trap Card, the opponent will not take the 500 damage. If your opponent merely chains the Spell/Trap card that you targeted, the Spell/Trap Card will be destroyed when 'Stamping Destruction' resolves and your opponent will take 500 damage. (Remember that Spell/Trap Cards remain on the field until the entire chain resolves, unless destroyed by a card effect during the chain.)\n● If your opponent destroys all the Dragons on your side of the field as a chain to the activation of this card, this card will still resolve since the conditions were met at the time of activation.",
+    "Circle": "● When you activate this card, if the opponent activates an effect in a chain that destroys the targeted Spell/Trap Card, the opponent will not take the 500 damage. If your opponent merely chains the Spell/Trap card that you targeted, the Spell/Trap Card will be destroyed when 'Stamping Destruction' resolves and your opponent will take 500 damage. (Remember that Spell/Trap Cards remain on the field until the entire chain resolves, unless destroyed by a card effect during the chain.)\n● If your opponent destroys all the Dragons on your side of the field as a chain to the activation of this card, this card will still resolve since the conditions were met at the time of activation.",
+    "Stein": "● When you activate this card, if the opponent activates an effect in a chain that destroys the targeted Spell/Trap Card, the opponent will not take the 500 damage. If your opponent merely chains the Spell/Trap card that you targeted, the Spell/Trap Card will be destroyed when 'Stamping Destruction' resolves and your opponent will take 500 damage. (Remember that Spell/Trap Cards remain on the field until the entire chain resolves, unless destroyed by a card effect during the chain.)\n● If your opponent destroys all the Dragons on your side of the field as a chain to the activation of this card, this card will still resolve since the conditions were met at the time of activation.",
+    "Base": "1. When you activate this card, if the opponent activates an effect in a chain that destroys the targeted Spell or Trap Card, the opponent will not take the 500 points of damage. If your opponent merely chains the Spell or Trap card that you targeted, the Spell or Trap Card will be destroyed when \"Stamping Destruction\" resolves and your opponent will take 500 points of damage. (Remember that Spell and Trap Cards remain on the field until the entire chain resolves, unless destroyed by a card effect during the chain.)\\n2. If your opponent destroys all the Dragon-Type monsters on your side of the field as a chain to the activation of this card, this card will still resolve since the conditions were met at the time of activation."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

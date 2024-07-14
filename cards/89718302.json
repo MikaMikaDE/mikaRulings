@@ -1,0 +1,44 @@
+{
+  "id": 89718302,
+  "name": "Abare Ushioni",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1200,
+    "level": 4,
+    "race": "Beast-Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(1) Once per turn, you can toss a coin and call it. If you call it right, inflict 1000 damage to your opponent. If you call it wrong, you take 1000 damage.\n●The (1) Ignition Effect activates & resolves on the field.\n●If you call the coin toss wrong for “Abare Ushioni” you can still prevent the damage with “Pikeru’s Circle of Enchantment”, etc.\n●You cannot chain “Barrel Behind the Door” to the effect of “Abare Ushioni” because you don’t know yet if you will take damage or not from the effect.",
+    "Goat": "●If you call the coin toss wrong for “Abare Ushioni” you can still prevent the damage with “Pikeru’s Circle of Enchantment”, etc.\n●You cannot chain “Barrel Behind the Door” to the effect of “Abare Ushioni” because you don’t know yet if you will take damage or not from the effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you call the coin toss wrong for “Abare Ushioni” you can still prevent the damage with “Pikeru’s Circle of Enchantment”, etc.\n● You can't chain “Barrel Behind the Door” to the effect of “Abare Ushioni” because you don’t know yet if you will take damage or not from the effect.\n● \n● ",
+    "TeleDAD": "● If you call the coin toss wrong for “Abare Ushioni” you can still prevent the damage with “Pikeru’s Circle of Enchantment”, etc.\n● You can't chain “Barrel Behind the Door” to the effect of “Abare Ushioni” because you don’t know yet if you will take damage or not from the effect.\n● \n● ",
+    "Gladiator": "● If you call the coin toss wrong for “Abare Ushioni” you can still prevent the damage with “Pikeru’s Circle of Enchantment”, etc.\n● You can't chain “Barrel Behind the Door” to the effect of “Abare Ushioni” because you don’t know yet if you will take damage or not from the effect.\n● \n● ",
+    "ReturnDAD": "● If you call the coin toss wrong for “Abare Ushioni” you can still prevent the damage with “Pikeru’s Circle of Enchantment”, etc.\n● You can't chain “Barrel Behind the Door” to the effect of “Abare Ushioni” because you don’t know yet if you will take damage or not from the effect.\n● \n● ",
+    "Trooper": "● If you call the coin toss wrong for “Abare Ushioni” you can still prevent the damage with “Pikeru’s Circle of Enchantment”, etc.\n● You can't chain “Barrel Behind the Door” to the effect of “Abare Ushioni” because you don’t know yet if you will take damage or not from the effect.\n● \n● ",
+    "Circle": "● If you call the coin toss wrong for “Abare Ushioni” you can still prevent the damage with “Pikeru’s Circle of Enchantment”, etc.\n● You can't chain “Barrel Behind the Door” to the effect of “Abare Ushioni” because you don’t know yet if you will take damage or not from the effect.\n● \n● ",
+    "Stein": "● If you call the coin toss wrong for “Abare Ushioni” you can still prevent the damage with “Pikeru’s Circle of Enchantment”, etc.\n● You can't chain “Barrel Behind the Door” to the effect of “Abare Ushioni” because you don’t know yet if you will take damage or not from the effect.\n● \n● ",
+    "Base": "1. If you call the coin toss wrong for \"Abare Ushioni\" you can still prevent the damage with \"Pikeru's Circle of Enchantment\", etc.\\n2. You cannot chain \"Barrel Behind the Door\" to the effect of \"Abare Ushioni\" because you don't know yet if you will take damage or not from the effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

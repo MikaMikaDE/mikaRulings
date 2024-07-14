@@ -1,0 +1,40 @@
+{
+  "id": 30834988,
+  "name": "All-Out Attacks",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "● This card's effect can't be activated in the same Chain Link as the card itself being activated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'All-Out Attacks' starts a Chain whenever a monster is Special Summoned, even if the monster is Special Summoned in Attack Position.\n● Monsters that are Special Summoned face-down are also changed to Attack Position.\n● If 'All-Out Attacks' is activated when a monster is Special Summoned, its effect isn't applied because it must already be applying at the time the monster is Special Summoned.",
+    "TeleDAD": "● 'All-Out Attacks' starts a Chain whenever a monster is Special Summoned, even if the monster is Special Summoned in Attack Position.\n● Monsters that are Special Summoned face-down are also changed to Attack Position.\n● If 'All-Out Attacks' is activated when a monster is Special Summoned, its effect isn't applied because it must already be applying at the time the monster is Special Summoned.",
+    "Gladiator": "● 'All-Out Attacks' starts a Chain whenever a monster is Special Summoned, even if the monster is Special Summoned in Attack Position.\n● Monsters that are Special Summoned face-down are also changed to Attack Position.\n● If 'All-Out Attacks' is activated when a monster is Special Summoned, its effect isn't applied because it must already be applying at the time the monster is Special Summoned.",
+    "ReturnDAD": "● 'All-Out Attacks' starts a Chain whenever a monster is Special Summoned, even if the monster is Special Summoned in Attack Position.\n● Monsters that are Special Summoned face-down are also changed to Attack Position.\n● If 'All-Out Attacks' is activated when a monster is Special Summoned, its effect isn't applied because it must already be applying at the time the monster is Special Summoned.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"All-Out Attacks\" starts a Chain whenever a monster is Special Summoned, even if the monster is Special Summoned in Attack Position.\\n2. Monsters that are Special Summoned face-down are also changed to face-up Attack Position.\\n3. If \"All-Out Attacks\" is activated when a monster is Special Summoned, its effect is not applied because it must already be face-up on the field at the time the monster is Special Summoned."
+  },
+  "PSCT": {
+    "Tengu": "① If a monster(s) is Special Summoned while this card is face-up on the field: Change it to face-up Attack Position, also it must attack this turn, if able.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

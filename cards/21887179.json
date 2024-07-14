@@ -1,0 +1,44 @@
+{
+  "id": 21887179,
+  "name": "Getsu Fuhma",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 1200,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Getsu Fuhma is destroyed by damage calculation, its effect still activates as long as it battled a monster and damage calculation was performed.\n●If an attack is negated by Magic Cylinder, etc., then Getsu Fuhma's effect does not activate.\n●If Getsu Fuhma's ATK is large enough to destroy Vampire Lord by damage calculation, then Getsu Fuhma's effect doesn't activate and Vampire Lord won't be Special Summoned, because it was destroyed by damage calculation and not by a card effect.\n●If Getsu Fuhma is destroyed by Dark Ruler Ha Des, Getsu Fuhma's effect is not activated.",
+    "Goat": "●If Getsu Fuhma is destroyed by damage calculation, its effect still activates as long as it battled a monster and damage calculation was performed.\n●If an attack is negated by Magic Cylinder, etc., then Getsu Fuhma's effect does not activate.\n●If Getsu Fuhma's ATK is large enough to destroy Vampire Lord by damage calculation, then Getsu Fuhma's effect doesn't activate and Vampire Lord won't be Special Summoned, because it was destroyed by damage calculation and not by a card effect.\n●If Getsu Fuhma is destroyed by Dark Ruler Ha Des, Getsu Fuhma's effect is not activated.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Getsu Fuhma' is destroyed by damage calculation, its effect still activates as long as it battled a monster and damage calculation was performed.\n● If an attack is negated by 'Magic Cylinder', etc., then 'Getsu Fuhma''s effect does not activate.\n● If 'Getsu Fuhma''s ATK is large enough to destroy 'Vampire Lord' by damage calculation, then 'Getsu Fuhma''s effect doesn't activate and 'Vampire Lord' won't be Special Summoned, because it was destroyed by damage calculation and not by a card effect.\n● If 'Getsu Fuhma' is destroyed by 'Dark Ruler Ha Des', 'Getsu Fuhma''s effect isn't activated.",
+    "TeleDAD": "● If 'Getsu Fuhma' is destroyed by damage calculation, its effect still activates as long as it battled a monster and damage calculation was performed.\n● If an attack is negated by 'Magic Cylinder', etc., then 'Getsu Fuhma''s effect does not activate.\n● If 'Getsu Fuhma''s ATK is large enough to destroy 'Vampire Lord' by damage calculation, then 'Getsu Fuhma''s effect doesn't activate and 'Vampire Lord' won't be Special Summoned, because it was destroyed by damage calculation and not by a card effect.\n● If 'Getsu Fuhma' is destroyed by 'Dark Ruler Ha Des', 'Getsu Fuhma''s effect isn't activated.",
+    "Gladiator": "● If 'Getsu Fuhma' is destroyed by damage calculation, its effect still activates as long as it battled a monster and damage calculation was performed.\n● If an attack is negated by 'Magic Cylinder', etc., then 'Getsu Fuhma''s effect does not activate.\n● If 'Getsu Fuhma''s ATK is large enough to destroy 'Vampire Lord' by damage calculation, then 'Getsu Fuhma''s effect doesn't activate and 'Vampire Lord' won't be Special Summoned, because it was destroyed by damage calculation and not by a card effect.\n● If 'Getsu Fuhma' is destroyed by 'Dark Ruler Ha Des', 'Getsu Fuhma''s effect isn't activated.",
+    "ReturnDAD": "● If 'Getsu Fuhma' is destroyed by damage calculation, its effect still activates as long as it battled a monster and damage calculation was performed.\n● If an attack is negated by 'Magic Cylinder', etc., then 'Getsu Fuhma''s effect does not activate.\n● If 'Getsu Fuhma''s ATK is large enough to destroy 'Vampire Lord' by damage calculation, then 'Getsu Fuhma''s effect doesn't activate and 'Vampire Lord' won't be Special Summoned, because it was destroyed by damage calculation and not by a card effect.\n● If 'Getsu Fuhma' is destroyed by 'Dark Ruler Ha Des', 'Getsu Fuhma''s effect isn't activated.",
+    "Trooper": "● If 'Getsu Fuhma' is destroyed by damage calculation, its effect still activates as long as it battled a monster and damage calculation was performed.\n● If an attack is negated by 'Magic Cylinder', etc., then 'Getsu Fuhma''s effect does not activate.\n● If 'Getsu Fuhma''s ATK is large enough to destroy 'Vampire Lord' by damage calculation, then 'Getsu Fuhma''s effect doesn't activate and 'Vampire Lord' won't be Special Summoned, because it was destroyed by damage calculation and not by a card effect.\n● If 'Getsu Fuhma' is destroyed by 'Dark Ruler Ha Des', 'Getsu Fuhma''s effect isn't activated.",
+    "Circle": "● If 'Getsu Fuhma' is destroyed by damage calculation, its effect still activates as long as it battled a monster and damage calculation was performed.\n● If an attack is negated by 'Magic Cylinder', etc., then 'Getsu Fuhma''s effect does not activate.\n● If 'Getsu Fuhma''s ATK is large enough to destroy 'Vampire Lord' by damage calculation, then 'Getsu Fuhma''s effect doesn't activate and 'Vampire Lord' won't be Special Summoned, because it was destroyed by damage calculation and not by a card effect.\n● If 'Getsu Fuhma' is destroyed by 'Dark Ruler Ha Des', 'Getsu Fuhma''s effect isn't activated.",
+    "Stein": "● If 'Getsu Fuhma' is destroyed by damage calculation, its effect still activates as long as it battled a monster and damage calculation was performed.\n● If an attack is negated by 'Magic Cylinder', etc., then 'Getsu Fuhma''s effect does not activate.\n● If 'Getsu Fuhma''s ATK is large enough to destroy 'Vampire Lord' by damage calculation, then 'Getsu Fuhma''s effect doesn't activate and 'Vampire Lord' won't be Special Summoned, because it was destroyed by damage calculation and not by a card effect.\n● If 'Getsu Fuhma' is destroyed by 'Dark Ruler Ha Des', 'Getsu Fuhma''s effect isn't activated.",
+    "Base": "1. If \"Getsu Fuhma\" is destroyed by damage calculation, its effect still activates as long as it battled a monster and damage calculation was performed.\\n2. If an attack is negated by \"Magic Cylinder\", etc., then the effect of \"Getsu Fuhma\" does not activate.\\n3. If the ATK of \"Getsu Fuhma\" is large enough to destroy \"Vampire Lord\" by damage calculation, then the effect of \"Getsu Fuhma\" doesn't activate and \"Vampire Lord\" won't be Special Summoned, because it was destroyed by damage calculation and not by a card effect.\\n4. If \"Getsu Fuhma\" is destroyed by \"Dark Ruler Ha Des\", the effect of \"Getsu Fuhma\" is not activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

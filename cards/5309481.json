@@ -1,0 +1,44 @@
+{
+  "id": 5309481,
+  "name": "Revived King Ha Des",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2450,
+    "def": 0,
+    "level": 6,
+    "race": "Zombie",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● This negation is permanent, until the destroyed monster leaves the GY.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Revived King Ha Des' or another Zombie you control destroys 'Sangan', 'Cockroach Knight', 'Peten the Dark Clown', 'Mezuki', or 'Vennominaga the Deity of Poisonous Snakes' by battle, when their effects are activated they will be negated.\n● If 'Zoma the Spirit' is destroyed by battle with a Zombie you control, its effect that inflicts damage is negated.\n● If a Zombie you control destroys a Flip Effect monster by battle, the Flip Effect monster's Flip Effect is negated.\n● If a Zombie you control destroys 'Treeborn Frog' or 'Sinister Serpent', the effect of 'Treeborn Frog' or 'Sinister Serpent' is negated even if 'Revived King Ha Des' is later removed from the field.",
+    "TeleDAD": "● If 'Revived King Ha Des' or another Zombie you control destroys 'Sangan', 'Cockroach Knight', 'Peten the Dark Clown', 'Mezuki', or 'Vennominaga the Deity of Poisonous Snakes' by battle, when their effects are activated they will be negated.\n● If 'Zoma the Spirit' is destroyed by battle with a Zombie you control, its effect that inflicts damage is negated.\n● If a Zombie you control destroys a Flip Effect monster by battle, the Flip Effect monster's Flip Effect is negated.\n● If a Zombie you control destroys 'Treeborn Frog' or 'Sinister Serpent', the effect of 'Treeborn Frog' or 'Sinister Serpent' is negated even if 'Revived King Ha Des' is later removed from the field.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Revived King Ha Des\" or another Zombie-Type monster you control destroys \"Sangan\", \"Cockroach Knight\", \"Peten the Dark Clown\", \"Mezuki\", or \"Vennominaga the Deity of Poisonous Snakes\" by battle, when their effects are activated they will be negated.\\n2. If \"Zoma the Spirit\" is destroyed by battle with a Zombie-Type monster you control, its effect that inflicts damage is negated.\\n3. If a Zombie-Type monster you control destroys a Flip Effect monster by battle, the Flip Effect monster's Flip Effect is negated.\\n4. If a Zombie-Type monster you control destroys \"Treeborn Frog\" or \"Sinister Serpent\", the effect of \"Treeborn Frog\" or \"Sinister Serpent\" is negated even if \"Revived King Ha Des\" is later removed from the field."
+  },
+  "PSCT": {
+    "Tengu": "Plaguespreader Zombie\" + \n1 or more non-Tuner Zombies \n① Negate the effects of Effect Monsters destroyed by battle with Zombies you control (including Flips and in the GY).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

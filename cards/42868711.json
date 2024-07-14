@@ -1,0 +1,44 @@
+{
+  "id": 42868711,
+  "name": "Gora Turtle of Illusion",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1400,
+    "level": 4,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●When your opponent equips Gora Turtle of Illusion with an Equip Spell Card, the effect of the Equip Spell Card is negated but the card is not destroyed and remains equipped to Gora Turtle of Illusion.\n●If Gora Turtle of Illusion is equipped with Snatch Steal, both effects of Snatch Steal are negated. But if Skill Drain is activated, then Gora Turtle of Illusion's effect is negated, and Snatch Steal's effects will resolve properly.\n●When your opponent activates a Spell Card that targets a face-down Gora Turtle of Illusion as a target, and Ceasefire is activated as a chain, Gora Turtle of Illusion is flipped face-up and the Spell Card's effect is negated.",
+    "Goat": "●When your opponent equips Gora Turtle of Illusion with an Equip Spell Card, the effect of the Equip Spell Card is negated but the card is not destroyed and remains equipped to Gora Turtle of Illusion.\n●If Gora Turtle of Illusion is equipped with Snatch Steal, both effects of Snatch Steal are negated. But if Skill Drain is activated, then Gora Turtle of Illusion's effect is negated, and Snatch Steal's effects will resolve properly.\n●When your opponent activates a Spell Card that targets a face-down Gora Turtle of Illusion as a target, and Ceasefire is activated as a chain, Gora Turtle of Illusion is flipped face-up and the Spell Card's effect is negated.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When your opponent equips 'Gora Turtle of Illusion' with an Equip Spell Card, the effect of the Equip Spell Card is negated but the card isn't destroyed and remains equipped to 'Gora Turtle of Illusion'.\n● If 'Gora Turtle of Illusion' is equipped with 'Snatch Steal', both effects of 'Snatch Steal' are negated. But if 'Skill Drain' is activated, then 'Gora Turtle of Illusion''s effect is negated, and 'Snatch Steal''s effects will resolve properly.\n● When your opponent activates a Spell Card that targets a face-down 'Gora Turtle of Illusion' as a target, and 'Ceasefire' is activated as a chain, 'Gora Turtle of Illusion' is flipped face-up and the Spell Card's effect is negated.",
+    "TeleDAD": "● When your opponent equips 'Gora Turtle of Illusion' with an Equip Spell Card, the effect of the Equip Spell Card is negated but the card isn't destroyed and remains equipped to 'Gora Turtle of Illusion'.\n● If 'Gora Turtle of Illusion' is equipped with 'Snatch Steal', both effects of 'Snatch Steal' are negated. But if 'Skill Drain' is activated, then 'Gora Turtle of Illusion''s effect is negated, and 'Snatch Steal''s effects will resolve properly.\n● When your opponent activates a Spell Card that targets a face-down 'Gora Turtle of Illusion' as a target, and 'Ceasefire' is activated as a chain, 'Gora Turtle of Illusion' is flipped face-up and the Spell Card's effect is negated.",
+    "Gladiator": "● When your opponent equips 'Gora Turtle of Illusion' with an Equip Spell Card, the effect of the Equip Spell Card is negated but the card isn't destroyed and remains equipped to 'Gora Turtle of Illusion'.\n● If 'Gora Turtle of Illusion' is equipped with 'Snatch Steal', both effects of 'Snatch Steal' are negated. But if 'Skill Drain' is activated, then 'Gora Turtle of Illusion''s effect is negated, and 'Snatch Steal''s effects will resolve properly.\n● When your opponent activates a Spell Card that targets a face-down 'Gora Turtle of Illusion' as a target, and 'Ceasefire' is activated as a chain, 'Gora Turtle of Illusion' is flipped face-up and the Spell Card's effect is negated.",
+    "ReturnDAD": "● When your opponent equips 'Gora Turtle of Illusion' with an Equip Spell Card, the effect of the Equip Spell Card is negated but the card isn't destroyed and remains equipped to 'Gora Turtle of Illusion'.\n● If 'Gora Turtle of Illusion' is equipped with 'Snatch Steal', both effects of 'Snatch Steal' are negated. But if 'Skill Drain' is activated, then 'Gora Turtle of Illusion''s effect is negated, and 'Snatch Steal''s effects will resolve properly.\n● When your opponent activates a Spell Card that targets a face-down 'Gora Turtle of Illusion' as a target, and 'Ceasefire' is activated as a chain, 'Gora Turtle of Illusion' is flipped face-up and the Spell Card's effect is negated.",
+    "Trooper": "● When your opponent equips 'Gora Turtle of Illusion' with an Equip Spell Card, the effect of the Equip Spell Card is negated but the card isn't destroyed and remains equipped to 'Gora Turtle of Illusion'.\n● If 'Gora Turtle of Illusion' is equipped with 'Snatch Steal', both effects of 'Snatch Steal' are negated. But if 'Skill Drain' is activated, then 'Gora Turtle of Illusion''s effect is negated, and 'Snatch Steal''s effects will resolve properly.\n● When your opponent activates a Spell Card that targets a face-down 'Gora Turtle of Illusion' as a target, and 'Ceasefire' is activated as a chain, 'Gora Turtle of Illusion' is flipped face-up and the Spell Card's effect is negated.",
+    "Circle": "● When your opponent equips 'Gora Turtle of Illusion' with an Equip Spell Card, the effect of the Equip Spell Card is negated but the card isn't destroyed and remains equipped to 'Gora Turtle of Illusion'.\n● If 'Gora Turtle of Illusion' is equipped with 'Snatch Steal', both effects of 'Snatch Steal' are negated. But if 'Skill Drain' is activated, then 'Gora Turtle of Illusion''s effect is negated, and 'Snatch Steal''s effects will resolve properly.\n● When your opponent activates a Spell Card that targets a face-down 'Gora Turtle of Illusion' as a target, and 'Ceasefire' is activated as a chain, 'Gora Turtle of Illusion' is flipped face-up and the Spell Card's effect is negated.",
+    "Stein": "● When your opponent equips 'Gora Turtle of Illusion' with an Equip Spell Card, the effect of the Equip Spell Card is negated but the card isn't destroyed and remains equipped to 'Gora Turtle of Illusion'.\n● If 'Gora Turtle of Illusion' is equipped with 'Snatch Steal', both effects of 'Snatch Steal' are negated. But if 'Skill Drain' is activated, then 'Gora Turtle of Illusion''s effect is negated, and 'Snatch Steal''s effects will resolve properly.\n● When your opponent activates a Spell Card that targets a face-down 'Gora Turtle of Illusion' as a target, and 'Ceasefire' is activated as a chain, 'Gora Turtle of Illusion' is flipped face-up and the Spell Card's effect is negated.",
+    "Base": "1. When your opponent equips \"Gora Turtle of Illusion\" with an Equip Spell Card, the effect of the Equip Spell Card is negated but the card is not destroyed and remains equipped to \"Gora Turtle of Illusion\".\\n2. If \"Gora Turtle of Illusion\" is equipped with \"Snatch Steal\", both effects of \"Snatch Steal\" are negated. But if \"Skill Drain\" is activated, then the effect of \"Gora Turtle of Illusion\" is negated, and the effects of \"Snatch Steal\" will resolve properly.\\n3. When your opponent activates a Spell Card that targets a face-down \"Gora Turtle of Illusion\" as a target, and \"Ceasefire\" is activated as a chain, \"Gora Turtle of Illusion\" is flipped face-up and the Spell Card's effect is negated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

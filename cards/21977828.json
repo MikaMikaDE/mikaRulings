@@ -1,0 +1,44 @@
+{
+  "id": 21977828,
+  "name": "Inzektor Giga-Weevil",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 2600,
+    "level": 6,
+    "race": "Insect",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If the target for this card's ① leaves the field, this card remains in the hand.\n● If this card is destroyed at the same time as the monster it's equipped to, this card's ③ will trigger.\n● If the monster it's equipped to leaves the field, and this card leaves the field as a result, this card's ③ will not trigger.",
+    "Vegas": "● If the target for this card's ① leaves the field, this card remains in the hand.\n● If this card is destroyed at the same time as the monster it's equipped to, this card's ③ will trigger.\n● If the monster it's equipped to leaves the field, and this card leaves the field as a result, this card's ③ will not trigger.",
+    "Meadowlands": "● If the target for this card's ① leaves the field, this card remains in the hand.\n● If this card is destroyed at the same time as the monster it's equipped to, this card's ③ will trigger.\n● If the monster it's equipped to leaves the field, and this card leaves the field as a result, this card's ③ will not trigger.",
+    "FireWater": "● If the target for this card's ① leaves the field, this card remains in the hand.\n● If this card is destroyed at the same time as the monster it's equipped to, this card's ③ will trigger.\n● If the monster it's equipped to leaves the field, and this card leaves the field as a result, this card's ③ will not trigger.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① You can target 1 face-up \"Inzektor\" monster you control; equip this card from your hand to that target. \n② While this card is equipped to a monster, that monster's original DEF becomes 2600.\n③ If this card is sent to the GY while equipped to a monster: You can target 1 \"Inzektor\" monster in your GY (except \"Inzektor Giga-Weevil\"); Special Summon it. \n(You can only use this effect of \"Inzektor Giga-Weevil\" once per turn).",
+    "Meadowlands": "① You can target 1 face-up \"Inzektor\" monster you control; equip this card from your hand to that target. \n② While this card is equipped to a monster, that monster's original DEF becomes 2600.\n③ If this card is sent to the GY while equipped to a monster: You can target 1 \"Inzektor\" monster in your GY (except \"Inzektor Giga-Weevil\"); Special Summon it. \n(You can only use this effect of \"Inzektor Giga-Weevil\" once per turn).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

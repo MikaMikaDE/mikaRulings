@@ -1,0 +1,40 @@
+{
+  "id": 27243130,
+  "name": "Forbidden Lance",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● Any Lingering Effects already applied to that target (EG \"Shrink\") are not removed from it.\nIf this card applies to a monster already affected by Shrink, its ATK is half its original, minus 800.\n● If that target has less than 800 ATK, its ATK becomes 0, and it's still unaffected by S/Ts.",
+    "Vegas": "● Any Lingering Effects already applied to that target (EG \"Shrink\") are not removed from it.\nIf this card applies to a monster already affected by Shrink, its ATK is half its original, minus 800.\n● If that target has less than 800 ATK, its ATK becomes 0, and it's still unaffected by S/Ts.",
+    "Meadowlands": "● Any Lingering Effects already applied to that target (EG \"Shrink\") are not removed from it.\nIf this card applies to a monster already affected by Shrink, its ATK is half its original, minus 800.\n● If that target has less than 800 ATK, its ATK becomes 0, and it's still unaffected by S/Ts.",
+    "FireWater": "● Any Lingering Effects already applied to that target (EG \"Shrink\") are not removed from it.\nIf this card applies to a monster already affected by Shrink, its ATK is half its original, minus 800.\n● If that target has less than 800 ATK, its ATK becomes 0, and it's still unaffected by S/Ts.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card targets 1 face-up monster on the field.\\n2. You can activate this card during the Damage Step, before damage calculation.\\n3. If the monster you target has less than 800 ATK, its ATK becomes 0 and it will be unaffected by the effects of other Spell/Trap Cards.\\n4. \"Embodiment of Apophis\" will be unaffected by \"Trap Stun\" and similar cards while it is affected by \"Forbidden Lance\".\\n5. If you use \"Forbidden Lance\" on a monster being affected by \"Shrink\", the ATK will be the halved original value minus 800."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Target 1 face-up monster on the field; until the End Phase, that target loses 800 ATK, \nalso, until the End Phase, it is unaffected by the effects of other Spells/Traps.",
+    "Meadowlands": "① Target 1 face-up monster on the field; until the End Phase, that target loses 800 ATK, \nalso, until the End Phase, it is unaffected by the effects of other Spells/Traps.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

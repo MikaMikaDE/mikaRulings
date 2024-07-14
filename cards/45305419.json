@@ -1,0 +1,40 @@
+{
+  "id": 45305419,
+  "name": "Symbol of Heritage",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Symbol of Heritage” targets 1 monster in the GY. If your opponent chains “Disappear” to remove from play the targeted monster, the effect of “Symbol of Heritage” does not resolve. But if they chain “Disappear” to remove a different monster with the same name, then the targeted monster is still Special Summoned even though there are now only 2 of it in the GY.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Symbol of Heritage” targets 1 monster in the GY. If your opponent chains “Disappear” to remove from play the targeted monster, the effect of “Symbol of Heritage” does not resolve. But if they chain “Disappear” to remove a different monster with the same name, then the targeted monster is still Special Summoned even though there are now only 2 of it in the GY.",
+    "TeleDAD": "● “Symbol of Heritage” targets 1 monster in the GY. If your opponent chains “Disappear” to remove from play the targeted monster, the effect of “Symbol of Heritage” does not resolve. But if they chain “Disappear” to remove a different monster with the same name, then the targeted monster is still Special Summoned even though there are now only 2 of it in the GY.",
+    "Gladiator": "● “Symbol of Heritage” targets 1 monster in the GY. If your opponent chains “Disappear” to remove from play the targeted monster, the effect of “Symbol of Heritage” does not resolve. But if they chain “Disappear” to remove a different monster with the same name, then the targeted monster is still Special Summoned even though there are now only 2 of it in the GY.",
+    "ReturnDAD": "● “Symbol of Heritage” targets 1 monster in the GY. If your opponent chains “Disappear” to remove from play the targeted monster, the effect of “Symbol of Heritage” does not resolve. But if they chain “Disappear” to remove a different monster with the same name, then the targeted monster is still Special Summoned even though there are now only 2 of it in the GY.",
+    "Trooper": "● “Symbol of Heritage” targets 1 monster in the GY. If your opponent chains “Disappear” to remove from play the targeted monster, the effect of “Symbol of Heritage” does not resolve. But if they chain “Disappear” to remove a different monster with the same name, then the targeted monster is still Special Summoned even though there are now only 2 of it in the GY.",
+    "Circle": "● “Symbol of Heritage” targets 1 monster in the GY. If your opponent chains “Disappear” to remove from play the targeted monster, the effect of “Symbol of Heritage” does not resolve. But if they chain “Disappear” to remove a different monster with the same name, then the targeted monster is still Special Summoned even though there are now only 2 of it in the GY.",
+    "Stein": "● “Symbol of Heritage” targets 1 monster in the GY. If your opponent chains “Disappear” to remove from play the targeted monster, the effect of “Symbol of Heritage” does not resolve. But if they chain “Disappear” to remove a different monster with the same name, then the targeted monster is still Special Summoned even though there are now only 2 of it in the GY.",
+    "Base": "1. \"Symbol of Heritage\" targets 1 monster in the GY. If your opponent chains \"Disappear\" to remove from play the targeted monster, the effect of \"Symbol of Heritage\" does not resolve. But if they chain \"Disappear\" to remove a different monster with the same name, then the targeted monster is still Special Summoned even though there are now only 2 of it in the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

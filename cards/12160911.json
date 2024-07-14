@@ -1,0 +1,44 @@
+{
+  "id": 12160911,
+  "name": "Elephant Statue of Disaster",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 0,
+    "level": 3,
+    "race": "Rock",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Elephant Statue of Disaster must be sent from the owner's hand to the owner's GY in order for its effect to activate.\n●Elephant Statue of Disaster's effect can be activated during the Damage Step.\n●Elephant Statue of Disaster's effect activates when sent from the hand to the GY by the effect of Last Turn or Chaos Emperor Dragon - Envoy of the End.\n●You can use Barrel Behind the Door against the effect of Elephant Statue of Disaster.",
+    "Goat": "●Elephant Statue of Disaster must be sent from the owner's hand to the owner's GY in order for its effect to activate.\n●Elephant Statue of Disaster's effect can be activated during the Damage Step.\n●Elephant Statue of Disaster's effect activates when sent from the hand to the GY by the effect of Last Turn or Chaos Emperor Dragon - Envoy of the End.\n●You can use Barrel Behind the Door against the effect of Elephant Statue of Disaster.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Elephant Statue of Disaster' must be sent from the owner's hand to the owner's GY in order for its effect to activate. \n● 'Elephant Statue of Disaster''s effect can be activated during the Damage Step. \n● 'Elephant Statue of Disaster''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'. \n● You can use 'Barrel Behind the Door' against the effect of 'Elephant Statue of Disaster'.",
+    "TeleDAD": "● 'Elephant Statue of Disaster' must be sent from the owner's hand to the owner's GY in order for its effect to activate. \n● 'Elephant Statue of Disaster''s effect can be activated during the Damage Step. \n● 'Elephant Statue of Disaster''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'. \n● You can use 'Barrel Behind the Door' against the effect of 'Elephant Statue of Disaster'.",
+    "Gladiator": "● 'Elephant Statue of Disaster' must be sent from the owner's hand to the owner's GY in order for its effect to activate. \n● 'Elephant Statue of Disaster''s effect can be activated during the Damage Step. \n● 'Elephant Statue of Disaster''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'. \n● You can use 'Barrel Behind the Door' against the effect of 'Elephant Statue of Disaster'.",
+    "ReturnDAD": "● 'Elephant Statue of Disaster' must be sent from the owner's hand to the owner's GY in order for its effect to activate. \n● 'Elephant Statue of Disaster''s effect can be activated during the Damage Step. \n● 'Elephant Statue of Disaster''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'. \n● You can use 'Barrel Behind the Door' against the effect of 'Elephant Statue of Disaster'.",
+    "Trooper": "● 'Elephant Statue of Disaster' must be sent from the owner's hand to the owner's GY in order for its effect to activate. \n● 'Elephant Statue of Disaster''s effect can be activated during the Damage Step. \n● 'Elephant Statue of Disaster''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'. \n● You can use 'Barrel Behind the Door' against the effect of 'Elephant Statue of Disaster'.",
+    "Circle": "● 'Elephant Statue of Disaster' must be sent from the owner's hand to the owner's GY in order for its effect to activate. \n● 'Elephant Statue of Disaster''s effect can be activated during the Damage Step. \n● 'Elephant Statue of Disaster''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'. \n● You can use 'Barrel Behind the Door' against the effect of 'Elephant Statue of Disaster'.",
+    "Stein": "● 'Elephant Statue of Disaster' must be sent from the owner's hand to the owner's GY in order for its effect to activate. \n● 'Elephant Statue of Disaster''s effect can be activated during the Damage Step. \n● 'Elephant Statue of Disaster''s effect activates when sent from the hand to the GY by the effect of 'Last Turn' or 'Chaos Emperor Dragon - Envoy of the End'. \n● You can use 'Barrel Behind the Door' against the effect of 'Elephant Statue of Disaster'.",
+    "Base": "1. \"Elephant Statue of Disaster\" must be sent from the owner's hand to the owner's GY in order for its effect to activate.\\n2. The effect of \"Elephant Statue of Disaster\" can be activated during the Damage Step.\\n3. The effect of \"Elephant Statue of Disaster\" activates when sent from the hand to the GY by the effect of \"Last Turn\" or \"Chaos Emperor Dragon - Envoy of the End\".\\n4. You can use \"Barrel Behind the Door\" against the effect of \"Elephant Statue of Disaster\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

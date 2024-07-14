@@ -1,0 +1,44 @@
+{
+  "id": 74841885,
+  "name": "Sky Scourge Invicil",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2200,
+    "def": 1600,
+    "level": 6,
+    "race": "Fairy",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you Tribute Set this card by Tributing one of the appropriate monsters, it will not gain an effect.\n●This card does not negate the effects of Spell or Traps that are activated in the GY.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you Tribute Set this card by Tributing one of the appropriate monsters, it will not gain an effect.\n● This card does not negate the effects of Spell/Traps that are activated in the GY.",
+    "TeleDAD": "● If you Tribute Set this card by Tributing one of the appropriate monsters, it will not gain an effect.\n● This card does not negate the effects of Spell/Traps that are activated in the GY.",
+    "Gladiator": "● If you Tribute Set this card by Tributing one of the appropriate monsters, it will not gain an effect.\n● This card does not negate the effects of Spell/Traps that are activated in the GY.",
+    "ReturnDAD": "● If you Tribute Set this card by Tributing one of the appropriate monsters, it will not gain an effect.\n● This card does not negate the effects of Spell/Traps that are activated in the GY.",
+    "Trooper": "● If you Tribute Set this card by Tributing one of the appropriate monsters, it will not gain an effect.\n● This card does not negate the effects of Spell/Traps that are activated in the GY.",
+    "Circle": "● If you Tribute Set this card by Tributing one of the appropriate monsters, it will not gain an effect.\n● This card does not negate the effects of Spell/Traps that are activated in the GY.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you Tribute Set this card by Tributing one of the appropriate monsters, it will not gain an effect.\\n2. This card does not negate the effects of Spell or Traps that are activated in the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

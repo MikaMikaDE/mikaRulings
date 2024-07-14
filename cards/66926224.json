@@ -1,0 +1,40 @@
+{
+  "id": 66926224,
+  "name": "The Law of the Normal",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●The Law of the Normal includes Tokens.\n●The Law of the Normal also destroys all Spell & Trap Cards.\n●The requirement to have 5 face-up Level 2 or lower Normal Monsters only has to be met when Law of the Normal is activated, not when it resolves.",
+    "Goat": "●The Law of the Normal includes Tokens.\n●The Law of the Normal also destroys all S/T Cards.\n●The requirement to have 5 face-up Lv 2 or lower Normal Monsters only has to be met when Law of the Normal is activated, not when it resolves.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The 'Law of the Normal' includes Tokens.\n● The 'Law of the Normal' also destroys all Spell & Trap Cards.\n● The requirement to have 5 face-up LV 2 or lower Normal Monsters only has to be met when 'Law of the Normal' is activated, not when it resolves.",
+    "TeleDAD": "● The 'Law of the Normal' includes Tokens.\n● The 'Law of the Normal' also destroys all Spell & Trap Cards.\n● The requirement to have 5 face-up LV 2 or lower Normal Monsters only has to be met when 'Law of the Normal' is activated, not when it resolves.",
+    "Gladiator": "● The 'Law of the Normal' includes Tokens.\n● The 'Law of the Normal' also destroys all Spell & Trap Cards.\n● The requirement to have 5 face-up LV 2 or lower Normal Monsters only has to be met when 'Law of the Normal' is activated, not when it resolves.",
+    "ReturnDAD": "● The 'Law of the Normal' includes Tokens.\n● The 'Law of the Normal' also destroys all Spell & Trap Cards.\n● The requirement to have 5 face-up LV 2 or lower Normal Monsters only has to be met when 'Law of the Normal' is activated, not when it resolves.",
+    "Trooper": "● The 'Law of the Normal' includes Tokens.\n● The 'Law of the Normal' also destroys all Spell & Trap Cards.\n● The requirement to have 5 face-up LV 2 or lower Normal Monsters only has to be met when 'Law of the Normal' is activated, not when it resolves.",
+    "Circle": "● The 'Law of the Normal' includes Tokens.\n● The 'Law of the Normal' also destroys all Spell & Trap Cards.\n● The requirement to have 5 face-up LV 2 or lower Normal Monsters only has to be met when 'Law of the Normal' is activated, not when it resolves.",
+    "Stein": "● The 'Law of the Normal' includes Tokens.\n● The 'Law of the Normal' also destroys all Spell & Trap Cards.\n● The requirement to have 5 face-up LV 2 or lower Normal Monsters only has to be met when 'Law of the Normal' is activated, not when it resolves.",
+    "Base": "1. The \"Law of the Normal\" includes Tokens.\\n2. The \"Law of the Normal\" also destroys all Spell & Trap Cards.\\n3. The requirement to have 5 face-up Level 2 or lower Normal Monsters only has to be met when \"Law of the Normal\" is activated, not when it resolves."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

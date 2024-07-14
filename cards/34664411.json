@@ -1,0 +1,40 @@
+{
+  "id": 34664411,
+  "name": "Lucky Iron Axe",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card’s second effect activates in the GY, and starts a Chain.\n●This effect will activate if “Lucky Iron Axe” is destroyed by a card chained to its activation.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s second effect activates in the GY, and starts a Chain.\n● This effect will activate if “Lucky Iron Axe” is destroyed by a card chained to its activation.",
+    "TeleDAD": "● This card’s second effect activates in the GY, and starts a Chain.\n● This effect will activate if “Lucky Iron Axe” is destroyed by a card chained to its activation.",
+    "Gladiator": "● This card’s second effect activates in the GY, and starts a Chain.\n● This effect will activate if “Lucky Iron Axe” is destroyed by a card chained to its activation.",
+    "ReturnDAD": "● This card’s second effect activates in the GY, and starts a Chain.\n● This effect will activate if “Lucky Iron Axe” is destroyed by a card chained to its activation.",
+    "Trooper": "● This card’s second effect activates in the GY, and starts a Chain.\n● This effect will activate if “Lucky Iron Axe” is destroyed by a card chained to its activation.",
+    "Circle": "● This card’s second effect activates in the GY, and starts a Chain.\n● This effect will activate if “Lucky Iron Axe” is destroyed by a card chained to its activation.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card's second effect activates in the GY, and starts a Chain.\\n2. This effect will activate if \"Lucky Iron Axe\" is destroyed by a card chained to its activation."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

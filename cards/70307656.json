@@ -1,0 +1,44 @@
+{
+  "id": 70307656,
+  "name": "Mucus Yolk",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 100,
+    "level": 3,
+    "race": "Aqua",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Zero damage is not damage, so Mucus Yolk must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\n●Mucus Yolk can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\n●If Mucus Yolk inflicts damage multiple times in the same turn, such as with Twin Swords of Flashing Light – Tryce, it only increases by 1000 points during your next Standby Phase.",
+    "Goat": "●Zero damage is not damage, so Mucus Yolk must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\n●Mucus Yolk can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\n●If Mucus Yolk inflicts damage multiple times in the same turn, such as with Twin Swords of Flashing Light – Tryce, it only increases by 1000 points during your next SP.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Zero damage isn't damage, so 'Mucus Yolk' must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\n● 'MucusYolk' can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\n● If 'Mucus Yolk' inflicts damage multiple times in the same turn, such as with 'Twin Swords of Flashing Light – Tryce', it only increases by 1000 points during your next Standby Phase.",
+    "TeleDAD": "● Zero damage isn't damage, so 'Mucus Yolk' must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\n● 'MucusYolk' can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\n● If 'Mucus Yolk' inflicts damage multiple times in the same turn, such as with 'Twin Swords of Flashing Light – Tryce', it only increases by 1000 points during your next Standby Phase.",
+    "Gladiator": "● Zero damage isn't damage, so 'Mucus Yolk' must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\n● 'MucusYolk' can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\n● If 'Mucus Yolk' inflicts damage multiple times in the same turn, such as with 'Twin Swords of Flashing Light – Tryce', it only increases by 1000 points during your next Standby Phase.",
+    "ReturnDAD": "● Zero damage isn't damage, so 'Mucus Yolk' must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\n● 'MucusYolk' can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\n● If 'Mucus Yolk' inflicts damage multiple times in the same turn, such as with 'Twin Swords of Flashing Light – Tryce', it only increases by 1000 points during your next Standby Phase.",
+    "Trooper": "● Zero damage isn't damage, so 'Mucus Yolk' must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\n● 'MucusYolk' can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\n● If 'Mucus Yolk' inflicts damage multiple times in the same turn, such as with 'Twin Swords of Flashing Light – Tryce', it only increases by 1000 points during your next Standby Phase.",
+    "Circle": "● Zero damage isn't damage, so 'Mucus Yolk' must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\n● 'MucusYolk' can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\n● If 'Mucus Yolk' inflicts damage multiple times in the same turn, such as with 'Twin Swords of Flashing Light – Tryce', it only increases by 1000 points during your next Standby Phase.",
+    "Stein": "● Zero damage isn't damage, so 'Mucus Yolk' must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\n● 'MucusYolk' can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\n● If 'Mucus Yolk' inflicts damage multiple times in the same turn, such as with 'Twin Swords of Flashing Light – Tryce', it only increases by 1000 points during your next Standby Phase.",
+    "Base": "1. Zero damage is not damage, so \"Mucus Yolk\" must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\\n2. \"Mucus Yolk\" can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\\n3. If \"Mucus Yolk\" inflicts damage multiple times in the same turn, such as with \"Twin Swords of Flashing Light - Tryce\", it only increases by 1000 points during your next Standby Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

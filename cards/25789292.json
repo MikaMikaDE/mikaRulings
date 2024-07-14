@@ -1,0 +1,40 @@
+{
+  "id": 25789292,
+  "name": "Forbidden Chalice",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "One face-up monster on the field gains 400 ATK, but its effect is negated until the End Phase.\n●This effect targets a face-up monster on the field.\n●If the target is not face-up when this effect resolves, that monster's effect are not negated.\n●This effect only negates effects that activate / apply on the field.\n●This effect does NOT negate monster effects that activate in the GY, like “Sangan”.\n●If a monster's effect allows it to attack directly, and “Forbidden Chalice” is activated during the Damage Step, resolve the attack. A replay does not occur.\n●VS. Lonefire Blossom: If “Forbidden Chalice” negates Lonefire Blossom's effect,” you can Tribute “Lonefire Blossom” as cost, but the effect resolves negated.\n●VS. Beast King Barbaros”: its ATK becomes 3400, then 3000 ATK after the End Phase.\n●This card can be used in the Damage Step, but not during/after Substep 4 - Damage Calculation.\n●This effect expires during the End Phase like any other effect. Normal rules of priority apply, and the turn player must resolve effects first in the case of dual passing.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● Errata: This effect stops applying during the End Phase (and not for the entire turn).\n\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\n\nOnly effects which activate/apply on the field are negated \n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.",
+    "Vegas": "● Errata: This effect stops applying during the End Phase (and not for the entire turn).\n\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\n\nOnly effects which activate/apply on the field are negated \n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.",
+    "Meadowlands": "● Errata: This effect stops applying during the End Phase (and not for the entire turn).\n\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\n\nOnly effects which activate/apply on the field are negated \n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.",
+    "FireWater": "● Errata: This effect stops applying during the End Phase (and not for the entire turn).\n\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\n\nOnly effects which activate/apply on the field are negated \n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Forbidden Chalice\" can only negate monster effects that activate on the field or are applied on the field.\\n2. Monster effects that activate in the GY, like \"Sangan\", are not negated by \"Forbidden Chalice\".\\n3. If \"Forbidden Chalice\" has been used on \"Exiled Force\", you can Tribute \"Exiled Force\" and send it to the GY, but since the effect was activated on the field, the effect of \"Exiled Force\" is negated. (Remember: You cannot Chain \"Forbidden Chalice\" to negate \"Exiled Force\", since \"Exiled Force\" has already been Tributed at that point, and is no longer a face-up monster on the field. Therefore it is an ineligible target.)\\n4. Because it modifies ATK, \"Forbidden Chalice\" can be activated in the Damage Step. But not during damage calculation or any point in the Damage Step after damage calculation.\\n5. If a monster like \"Fusilier Dragon, the Dual-Mode Beast\" is targeted with \"Forbidden Chalice\", it has 3200 ATK, then 2800 ATK after the End Phase.\\n6. The effect of \"Forbidden Chalice\" expires during the End Phase like any other effect. Normal rules of priority apply, and the turn player must resolve effects first in the case of dual passing.\\n7. If a monster like \"Submarineroid\" attacks directly, and \"Forbidden Chalice\" is activated during the Damage Step, resolve the attack. A replay does not occur."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Target 1 face-up monster on the field; until the End Phase, that target gains 400 ATK, also negate its effects.",
+    "Meadowlands": "① Target 1 face-up monster on the field; until the End Phase, that target gains 400 ATK, also negate its effects.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

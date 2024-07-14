@@ -1,0 +1,44 @@
+{
+  "id": 46303688,
+  "name": "Roulette Barrel",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 2000,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can only use Roulette Barrel's effect once per turn.\n●You have to roll a die twice, not once. You must roll the die twice in a row, not once in Main Phase 1 and once in Main Phase 2, etc.\n●You CAN select a die roll result which doesn't match the Level Stars of a face-up monster. But if the die roll you select does match a monster, you MUST destroy a face-up monster with the correct number of Level Stars.\n●Roulette Barrel can destroy itself with its effect.\n●You cannot destroy a monster with 7 or more stars with Roulette Barrel's effect.",
+    "Goat": "●You can only use Roulette Barrel's effect once per turn.\n●You have to roll a die twice, not once. You must roll the die twice in a row, not once in MP 1 and once in MP 2, etc.\n●You CAN select a die roll result which doesn't match the Lv Stars of a face-up monster. But if the die roll you select does match a monster, you MUST destroy a face-up monster with the correct number of Lv Stars.\n●Roulette Barrel can destroy itself with its effect.\n●You cannot destroy a monster with 7 or more stars with Roulette Barrel's effect.\n●Q: With “Roulette Barrel”, does “Dice Re-Roll” allow you to redo both dice rolls or only one of them? \nA: You would perform both dice rolls again. You do not select just 1 of them to re-roll. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can only use 'Roulette Barrel''s effect once per turn.\n● You have to roll a die twice, not once. You must roll the die twice in a row, not once in Main Phase 1 and once in Main Phase 2, etc.\n● You CAN select a die roll result which doesn't match the LV Stars of a face-up monster. But if the die roll you select does match a monster, you MUST destroy a face-up monster with the correct number of LV Stars.\n● 'Roulette Barrel' can destroy itself with its effect.\n● You can't destroy a monster with 7 or more stars with 'Roulette Barrel''s effect.",
+    "TeleDAD": "● You can only use 'Roulette Barrel''s effect once per turn.\n● You have to roll a die twice, not once. You must roll the die twice in a row, not once in Main Phase 1 and once in Main Phase 2, etc.\n● You CAN select a die roll result which doesn't match the LV Stars of a face-up monster. But if the die roll you select does match a monster, you MUST destroy a face-up monster with the correct number of LV Stars.\n● 'Roulette Barrel' can destroy itself with its effect.\n● You can't destroy a monster with 7 or more stars with 'Roulette Barrel''s effect.",
+    "Gladiator": "● You can only use 'Roulette Barrel''s effect once per turn.\n● You have to roll a die twice, not once. You must roll the die twice in a row, not once in Main Phase 1 and once in Main Phase 2, etc.\n● You CAN select a die roll result which doesn't match the LV Stars of a face-up monster. But if the die roll you select does match a monster, you MUST destroy a face-up monster with the correct number of LV Stars.\n● 'Roulette Barrel' can destroy itself with its effect.\n● You can't destroy a monster with 7 or more stars with 'Roulette Barrel''s effect.",
+    "ReturnDAD": "● You can only use 'Roulette Barrel''s effect once per turn.\n● You have to roll a die twice, not once. You must roll the die twice in a row, not once in Main Phase 1 and once in Main Phase 2, etc.\n● You CAN select a die roll result which doesn't match the LV Stars of a face-up monster. But if the die roll you select does match a monster, you MUST destroy a face-up monster with the correct number of LV Stars.\n● 'Roulette Barrel' can destroy itself with its effect.\n● You can't destroy a monster with 7 or more stars with 'Roulette Barrel''s effect.",
+    "Trooper": "● You can only use 'Roulette Barrel''s effect once per turn.\n● You have to roll a die twice, not once. You must roll the die twice in a row, not once in Main Phase 1 and once in Main Phase 2, etc.\n● You CAN select a die roll result which doesn't match the LV Stars of a face-up monster. But if the die roll you select does match a monster, you MUST destroy a face-up monster with the correct number of LV Stars.\n● 'Roulette Barrel' can destroy itself with its effect.\n● You can't destroy a monster with 7 or more stars with 'Roulette Barrel''s effect.",
+    "Circle": "● You can only use 'Roulette Barrel''s effect once per turn.\n● You have to roll a die twice, not once. You must roll the die twice in a row, not once in Main Phase 1 and once in Main Phase 2, etc.\n● You CAN select a die roll result which doesn't match the LV Stars of a face-up monster. But if the die roll you select does match a monster, you MUST destroy a face-up monster with the correct number of LV Stars.\n● 'Roulette Barrel' can destroy itself with its effect.\n● You can't destroy a monster with 7 or more stars with 'Roulette Barrel''s effect.",
+    "Stein": "● You can only use 'Roulette Barrel''s effect once per turn.\n● You have to roll a die twice, not once. You must roll the die twice in a row, not once in Main Phase 1 and once in Main Phase 2, etc.\n● You CAN select a die roll result which doesn't match the LV Stars of a face-up monster. But if the die roll you select does match a monster, you MUST destroy a face-up monster with the correct number of LV Stars.\n● 'Roulette Barrel' can destroy itself with its effect.\n● You can't destroy a monster with 7 or more stars with 'Roulette Barrel''s effect.",
+    "Base": "1. You can only use the effect of \"Roulette Barrel\" once per turn.\\n2. You have to roll a die twice, not once. You must roll the die twice in a row, not once in Main Phase 1 and once in Main Phase 2, etc.\\n3. You CAN select a die roll result which doesn't match the Level Stars of a face-up monster. But if the die roll you select does match a monster, you MUST destroy a face-up monster with the correct number of Level Stars.\\n4. \"Roulette Barrel\" can destroy itself with its effect.\\n5. You cannot destroy a monster with 7 or more stars with the effect of \"Roulette Barrel\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

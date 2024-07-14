@@ -1,0 +1,40 @@
+{
+  "id": 9267769,
+  "name": "Flashbang",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn.\n●If Flashbang is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as Don Zaloog.\n●If Flashbang is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as Goblin Attack Force.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “Flashbang” is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as “Don Zaloog”.\n● If “Flashbang” is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as “Goblin Attack Force”.",
+    "TeleDAD": "● If “Flashbang” is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as “Don Zaloog”.\n● If “Flashbang” is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as “Goblin Attack Force”.",
+    "Gladiator": "● If “Flashbang” is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as “Don Zaloog”.\n● If “Flashbang” is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as “Goblin Attack Force”.",
+    "ReturnDAD": "● If “Flashbang” is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as “Don Zaloog”.\n● If “Flashbang” is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as “Goblin Attack Force”.",
+    "Trooper": "● If “Flashbang” is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as “Don Zaloog”.\n● If “Flashbang” is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as “Goblin Attack Force”.",
+    "Circle": "● If “Flashbang” is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as “Don Zaloog”.\n● If “Flashbang” is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as “Goblin Attack Force”.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Flashbang\" is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as \"Don Zaloog\".\\n2. If \"Flashbang\" is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as \"Goblin Attack Force\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

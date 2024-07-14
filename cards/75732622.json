@@ -1,0 +1,44 @@
+{
+  "id": 75732622,
+  "name": "Grinder Golem",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 3000,
+    "def": 300,
+    "level": 8,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot Special Summon Grinder Golem if you do not have 2 open Monster Zone Spaces for the Grinder Tokens.\n●If your opponent negates the Special Summon of Grinder Golem, the Grinder Tokens remain on your side of the field and you cannot Normal Summon or Set that turn.\n●If you Special Summon Grinder Golem while King Tiger Wanghu is face-up on the field, its effect activates to destroy the Grinder Tokens after Grinder Golem is Special Summoned.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't Special Summon 'Grinder Golem' if you do not have 2 open Monster Zone Spaces for the 'Grinder Tokens'.\n● If your opponent negates the Special Summon of 'Grinder Golem', the 'Grinder Tokens' remain on your side of the field and you can't Normal Summon or Set that turn.\n● If you Special Summon 'Grinder Golem' while 'King Tiger Wanghu' is applying, its effect activates to destroy the 'Grinder Tokens' after 'Grinder Golem' is Special Summoned.",
+    "TeleDAD": "● You can't Special Summon 'Grinder Golem' if you do not have 2 open Monster Zone Spaces for the 'Grinder Tokens'.\n● If your opponent negates the Special Summon of 'Grinder Golem', the 'Grinder Tokens' remain on your side of the field and you can't Normal Summon or Set that turn.\n● If you Special Summon 'Grinder Golem' while 'King Tiger Wanghu' is applying, its effect activates to destroy the 'Grinder Tokens' after 'Grinder Golem' is Special Summoned.",
+    "Gladiator": "● You can't Special Summon 'Grinder Golem' if you do not have 2 open Monster Zone Spaces for the 'Grinder Tokens'.\n● If your opponent negates the Special Summon of 'Grinder Golem', the 'Grinder Tokens' remain on your side of the field and you can't Normal Summon or Set that turn.\n● If you Special Summon 'Grinder Golem' while 'King Tiger Wanghu' is applying, its effect activates to destroy the 'Grinder Tokens' after 'Grinder Golem' is Special Summoned.",
+    "ReturnDAD": "● You can't Special Summon 'Grinder Golem' if you do not have 2 open Monster Zone Spaces for the 'Grinder Tokens'.\n● If your opponent negates the Special Summon of 'Grinder Golem', the 'Grinder Tokens' remain on your side of the field and you can't Normal Summon or Set that turn.\n● If you Special Summon 'Grinder Golem' while 'King Tiger Wanghu' is applying, its effect activates to destroy the 'Grinder Tokens' after 'Grinder Golem' is Special Summoned.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You cannot Special Summon \"Grinder Golem\" if you do not have 2 open Monster Zone Spaces for the \"Grinder Tokens\".\\n2. If your opponent negates the Special Summon of \"Grinder Golem\", the \"Grinder Tokens\" remain on your side of the field and you cannot Normal Summon or Set that turn.\\n3. If you Special Summon \"Grinder Golem\" while \"King Tiger Wanghu\" is face-up on the field, its effect activates to destroy the \"Grinder Tokens\" after \"Grinder Golem\" is Special Summoned."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

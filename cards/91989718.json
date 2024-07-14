@@ -1,0 +1,40 @@
+{
+  "id": 91989718,
+  "name": "Attack Reflector Unit",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Tribute 1 Cyber Dragon. Special Summon 1 Cyber Barrier Dragon from your hand or Deck.\n●Tributing 1 Cyber Dragon monster is a cost.\n●You can Tribute a face-down “Cyber Dragon” to activate “Attack Reflector Unit”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can Tribute a face-down “Cyber Dragon” to activate “Attack Reflector Unit”.",
+    "TeleDAD": "● You can Tribute a face-down “Cyber Dragon” to activate “Attack Reflector Unit”.",
+    "Gladiator": "● You can Tribute a face-down “Cyber Dragon” to activate “Attack Reflector Unit”.",
+    "ReturnDAD": "● You can Tribute a face-down “Cyber Dragon” to activate “Attack Reflector Unit”.",
+    "Trooper": "● You can Tribute a face-down “Cyber Dragon” to activate “Attack Reflector Unit”.",
+    "Circle": "● You can Tribute a face-down “Cyber Dragon” to activate “Attack Reflector Unit”.",
+    "Stein": "● You can Tribute a face-down “Cyber Dragon” to activate “Attack Reflector Unit”.",
+    "Base": "1. You can Tribute a face-down \"Cyber Dragon\" to activate \"Attack Reflector Unit\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 56916805,
+  "name": "Energy Drain",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●When Hayabusa Knight, boosted by Energy Drain, attacks, and the opponent's hand is reduced during the battle, the ATK of Hayabusa Knight for the second attack is not changed because the effect of Energy Drain is determined when Energy Drain resolves.",
+    "Goat": "●When Hayabusa Knight, boosted by Energy Drain, attacks, and the opponent's hand is reduced during the battle, the ATK of Hayabusa Knight for the second attack is not changed because the effect of Energy Drain is determined when Energy Drain resolves.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Hayabusa Knight', boosted by 'Energy Drain', attacks, and the opponent's hand is reduced during the battle, the ATK of 'Hayabusa Knight' for the second attack isn't changed because the effect of 'Energy Drain' is determined when 'Energy Drain' resolves.",
+    "TeleDAD": "● When 'Hayabusa Knight', boosted by 'Energy Drain', attacks, and the opponent's hand is reduced during the battle, the ATK of 'Hayabusa Knight' for the second attack isn't changed because the effect of 'Energy Drain' is determined when 'Energy Drain' resolves.",
+    "Gladiator": "● When 'Hayabusa Knight', boosted by 'Energy Drain', attacks, and the opponent's hand is reduced during the battle, the ATK of 'Hayabusa Knight' for the second attack isn't changed because the effect of 'Energy Drain' is determined when 'Energy Drain' resolves.",
+    "ReturnDAD": "● When 'Hayabusa Knight', boosted by 'Energy Drain', attacks, and the opponent's hand is reduced during the battle, the ATK of 'Hayabusa Knight' for the second attack isn't changed because the effect of 'Energy Drain' is determined when 'Energy Drain' resolves.",
+    "Trooper": "● When 'Hayabusa Knight', boosted by 'Energy Drain', attacks, and the opponent's hand is reduced during the battle, the ATK of 'Hayabusa Knight' for the second attack isn't changed because the effect of 'Energy Drain' is determined when 'Energy Drain' resolves.",
+    "Circle": "● When 'Hayabusa Knight', boosted by 'Energy Drain', attacks, and the opponent's hand is reduced during the battle, the ATK of 'Hayabusa Knight' for the second attack isn't changed because the effect of 'Energy Drain' is determined when 'Energy Drain' resolves.",
+    "Stein": "● When 'Hayabusa Knight', boosted by 'Energy Drain', attacks, and the opponent's hand is reduced during the battle, the ATK of 'Hayabusa Knight' for the second attack isn't changed because the effect of 'Energy Drain' is determined when 'Energy Drain' resolves.",
+    "Base": "1. When \"Hayabusa Knight\", boosted by \"Energy Drain\", attacks, and the opponent's hand is reduced during the battle, the ATK of \"Hayabusa Knight\" for the second attack is not changed because the effect of \"Energy Drain\" is determined when \"Energy Drain\" resolves."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

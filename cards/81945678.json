@@ -1,0 +1,40 @@
+{
+  "id": 81945678,
+  "name": "Joker's Wild",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings available for this card.",
+    "Goat": "No rulings available for this card.",
+    "HAT": "No rulings available for this card.",
+    "Vegas": "No rulings available for this card.",
+    "Meadowlands": "No rulings available for this card.",
+    "FireWater": "No rulings available for this card.",
+    "Cat": "No rulings available for this card.",
+    "TeleDAD": "No rulings available for this card.",
+    "Gladiator": "No rulings available for this card.",
+    "ReturnDAD": "No rulings available for this card.",
+    "Trooper": "No rulings available for this card.",
+    "Circle": "No rulings available for this card.",
+    "Stein": "No rulings available for this card.",
+    "Base": "No rulings available for this card."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

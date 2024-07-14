@@ -1,0 +1,44 @@
+{
+  "id": 82116191,
+  "name": "Gigantic Cephalotus",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1850,
+    "def": 700,
+    "level": 4,
+    "race": "Plant",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Skill Drain is active, Gigantic Cephalotus loses any ATK gained by its effect. The ATK is not regained when Skill Drain is negated or removed from the field.\n●The destroyed Plant-Type monster must be a Plant-Type monster both on the field and in the GY, or Gigantic Cephalotus' effect is not applied.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Skill Drain' is applying, 'Gigantic Cephalotus' loses any ATK gained by its effect. The ATK isn't regained when 'Skill Drain' is negated or removed from the field.\n● The destroyed Plant must be a Plant both on the field and in the GY, or 'Gigantic Cephalotus'' effect isn't applied.",
+    "TeleDAD": "● If 'Skill Drain' is applying, 'Gigantic Cephalotus' loses any ATK gained by its effect. The ATK isn't regained when 'Skill Drain' is negated or removed from the field.\n● The destroyed Plant must be a Plant both on the field and in the GY, or 'Gigantic Cephalotus'' effect isn't applied.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Skill Drain\" is active, \"Gigantic Cephalotus\" loses any ATK gained by its effect. The ATK is not regained when \"Skill Drain\" is negated or removed from the field.\\n2. The destroyed Plant-Type monster must be a Plant-Type monster both on the field and in the GY, or the effect of \"Gigantic Cephalotus\" is not applied."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

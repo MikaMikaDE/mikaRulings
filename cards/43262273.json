@@ -1,0 +1,40 @@
+{
+  "id": 43262273,
+  "name": "Appointer of the Red Lotus",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Pay 2000 Life Points and reveal all cards in your hand. Look at your opponent's hand and select 1 card. Remove that card from play until the End Phase of your opponent’s next turn.\n●Paying 2000 Life Points and revealing all cards in your hand (minimum 1) is a cost.\n●The selected card is removed from play face-up.\n●If the removed card is returned to the hand or field and then removed from play again before the End Phase, it will not return to your opponent’s hand during the End Phase.\n●If “Imperial Iron Wall” is Chained to this card, you will choose 1 card in your opponent’s hand but it will not be removed from play.\n●Returning the removed card to your opponent’s hand does not start a Chain.\n●The card returns during the End Phase of your opponent’s next turn. If you activate it during your opponent’s turn, the card still won’t return until your opponent’s next turn.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "[Revised Text] The text is of this card was revised in the SOVR Sneak Peek Rulings document found of the yugioh-card.com website. The Card should be ruled using this text:\\n\\nPay 2000 Life Points and reveal all cards in your hand. Look at your opponent's hand and select 1 card. Remove that card from play until your opponent's next End Phase.\\n1. Paying 2000 Life Points and revealing all cards in your hand is a cost. Returning the removed card to your opponent's hand does not start a Chain.\\n2. You cannot activate this card if you have no cards in your hand.\\n3. If the card removed by \"Appointer of the Red Lotus\" is returned to the hand or field and then removed from play again before the End Phase, it will not return to your opponent's hand during the End Phase.\\n4. If \"Imperial Iron Wall\" is Chained to this card, you will choose 1 card in your opponent's hand but it will not be removed from play.\\n5. The card returns during the End Phase of your opponent's next turn. If you activate it during your opponent's turn, the card still won't return until your opponent's next turn."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

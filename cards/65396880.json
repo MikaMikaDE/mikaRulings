@@ -1,0 +1,40 @@
+{
+  "id": 65396880,
+  "name": "Huge Revolution",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●When your opponent chains Book of Moon to your Huge Revolution and flips 1 of the 3 monsters face-down, Huge Revolution has already been activated correctly so the effect of Huge Revolution resolves.\n●When your opponent chains Ring of Destruction to your Huge Revolution and destroys 1 of the 3 monsters, Huge Revolution has already been activated correctly so the effect of Huge Revolution resolves.\n●Huge Revolution destroys both face-up and face-down cards.\n●If your opponent activates Huge Revolution and you have Pandemonium Watchbear and Pandemonium, your Pandemonium card is not destroyed.",
+    "Goat": "●When your opponent chains Book of Moon to your Huge Revolution and flips 1 of the 3 monsters face-down, Huge Revolution has already been activated correctly so the effect of Huge Revolution resolves.\n●When your opponent chains Ring of Destruction to your Huge Revolution and destroys 1 of the 3 monsters, Huge Revolution has already been activated correctly so the effect of Huge Revolution resolves.\n●Huge Revolution destroys both face-up and face-down cards.\n●If your opponent activates Huge Revolution and you have Pandemonium Watchbear and Pandemonium, your Pandemonium card is not destroyed.\n●Q: If someone activates “Huge Revolution” and the opponent Chains with “Raigeki Break” or “Ring of Destruction” on one of the pieces, what happens with “Huge Revolution”? \nA: Huge Revolution resolves normally as the conditions of its activation were correct when it was activated.  02/01/04",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When your opponent chains 'Book of Moon' to your 'Huge Revolution' and flips 1 of the 3 monsters face-down, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● When your opponent chains 'Ring of Destruction' to your 'Huge Revolution' and destroys 1 of the 3 monsters, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● 'Huge Revolution' destroys both face-up and face-down cards.\n● If your opponent activates 'Huge Revolution' and you have 'Pandemonium Watchbear' and 'Pandemonium', your 'Pandemonium' card isn't destroyed.",
+    "TeleDAD": "● When your opponent chains 'Book of Moon' to your 'Huge Revolution' and flips 1 of the 3 monsters face-down, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● When your opponent chains 'Ring of Destruction' to your 'Huge Revolution' and destroys 1 of the 3 monsters, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● 'Huge Revolution' destroys both face-up and face-down cards.\n● If your opponent activates 'Huge Revolution' and you have 'Pandemonium Watchbear' and 'Pandemonium', your 'Pandemonium' card isn't destroyed.",
+    "Gladiator": "● When your opponent chains 'Book of Moon' to your 'Huge Revolution' and flips 1 of the 3 monsters face-down, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● When your opponent chains 'Ring of Destruction' to your 'Huge Revolution' and destroys 1 of the 3 monsters, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● 'Huge Revolution' destroys both face-up and face-down cards.\n● If your opponent activates 'Huge Revolution' and you have 'Pandemonium Watchbear' and 'Pandemonium', your 'Pandemonium' card isn't destroyed.",
+    "ReturnDAD": "● When your opponent chains 'Book of Moon' to your 'Huge Revolution' and flips 1 of the 3 monsters face-down, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● When your opponent chains 'Ring of Destruction' to your 'Huge Revolution' and destroys 1 of the 3 monsters, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● 'Huge Revolution' destroys both face-up and face-down cards.\n● If your opponent activates 'Huge Revolution' and you have 'Pandemonium Watchbear' and 'Pandemonium', your 'Pandemonium' card isn't destroyed.",
+    "Trooper": "● When your opponent chains 'Book of Moon' to your 'Huge Revolution' and flips 1 of the 3 monsters face-down, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● When your opponent chains 'Ring of Destruction' to your 'Huge Revolution' and destroys 1 of the 3 monsters, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● 'Huge Revolution' destroys both face-up and face-down cards.\n● If your opponent activates 'Huge Revolution' and you have 'Pandemonium Watchbear' and 'Pandemonium', your 'Pandemonium' card isn't destroyed.",
+    "Circle": "● When your opponent chains 'Book of Moon' to your 'Huge Revolution' and flips 1 of the 3 monsters face-down, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● When your opponent chains 'Ring of Destruction' to your 'Huge Revolution' and destroys 1 of the 3 monsters, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● 'Huge Revolution' destroys both face-up and face-down cards.\n● If your opponent activates 'Huge Revolution' and you have 'Pandemonium Watchbear' and 'Pandemonium', your 'Pandemonium' card isn't destroyed.",
+    "Stein": "● When your opponent chains 'Book of Moon' to your 'Huge Revolution' and flips 1 of the 3 monsters face-down, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● When your opponent chains 'Ring of Destruction' to your 'Huge Revolution' and destroys 1 of the 3 monsters, 'Huge Revolution' has already been activated correctly so the effect of 'Huge Revolution' resolves.\n● 'Huge Revolution' destroys both face-up and face-down cards.\n● If your opponent activates 'Huge Revolution' and you have 'Pandemonium Watchbear' and 'Pandemonium', your 'Pandemonium' card isn't destroyed.",
+    "Base": "1. When your opponent chains \"Book of Moon\" to your \"Huge Revolution\" and flips 1 of the 3 monsters face-down, \"Huge Revolution\" has already been activated correctly so the effect of \"Huge Revolution\" resolves.\\n2. When your opponent chains \"Ring of Destruction\" to your \"Huge Revolution\" and destroys 1 of the 3 monsters, \"Huge Revolution\" has already been activated correctly so the effect of \"Huge Revolution\" resolves.\\n3. \"Huge Revolution\" destroys both face-up and face-down cards.\\n4. If your opponent activates \"Huge Revolution\" and you have \"Pandemonium Watchbear\" and \"Pandemonium\", your \"Pandemonium\" card is not destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

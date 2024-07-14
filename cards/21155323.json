@@ -1,0 +1,44 @@
+{
+  "id": 21155323,
+  "name": "Goggle Golem",
+  "Stats": {
+    "type": "Gemini Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 500,
+    "level": 4,
+    "race": "Rock",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Goggle Golem gains ATK from Rush Recklessly, etc. and then is Normal Summoned again, the ATK increase is recalculated after applying its new original ATK.\n●If Goggle Golem has its ATK halved by Shrink and it is Normal Summoned again, its ATK will be half its new original ATK, or 1050. (This is the same whether Shrink's effect was applied before or after Goggle Golem was Normal Summoned again.)",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Goggle Golem' gains ATK from 'Rush Recklessly', etc. and then is Normal Summoned again, the ATK increase is recalculated after applying its new original ATK.\n● If 'Goggle Golem' has its ATK halved by 'Shrink' and it is Normal Summoned again, its ATK will be half its new original ATK, or 1050. (This is the same whether 'Shrink's' effect was applied before or after 'Goggle Golem' was Normal Summoned again.)\n● ",
+    "TeleDAD": "● If 'Goggle Golem' gains ATK from 'Rush Recklessly', etc. and then is Normal Summoned again, the ATK increase is recalculated after applying its new original ATK.\n● If 'Goggle Golem' has its ATK halved by 'Shrink' and it is Normal Summoned again, its ATK will be half its new original ATK, or 1050. (This is the same whether 'Shrink's' effect was applied before or after 'Goggle Golem' was Normal Summoned again.)\n● ",
+    "Gladiator": "● If 'Goggle Golem' gains ATK from 'Rush Recklessly', etc. and then is Normal Summoned again, the ATK increase is recalculated after applying its new original ATK.\n● If 'Goggle Golem' has its ATK halved by 'Shrink' and it is Normal Summoned again, its ATK will be half its new original ATK, or 1050. (This is the same whether 'Shrink's' effect was applied before or after 'Goggle Golem' was Normal Summoned again.)\n● ",
+    "ReturnDAD": "● If 'Goggle Golem' gains ATK from 'Rush Recklessly', etc. and then is Normal Summoned again, the ATK increase is recalculated after applying its new original ATK.\n● If 'Goggle Golem' has its ATK halved by 'Shrink' and it is Normal Summoned again, its ATK will be half its new original ATK, or 1050. (This is the same whether 'Shrink's' effect was applied before or after 'Goggle Golem' was Normal Summoned again.)\n● ",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● If 'Goggle Golem' gains ATK from 'Rush Recklessly', etc. and then is Normal Summoned again, the ATK increase is recalculated after applying its new original ATK.\n● If 'Goggle Golem' has its ATK halved by 'Shrink' and it is Normal Summoned again, its ATK will be half its new original ATK, or 1050. (This is the same whether 'Shrink's' effect was applied before or after 'Goggle Golem' was Normal Summoned again.)\n● ",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Goggle Golem\" gains ATK from \"Rush Recklessly\", etc. and then is Normal Summoned again, the ATK increase is recalculated after applying its new original ATK.\\n2. If \"Goggle Golem\" has its ATK halved by \"Shrink\" and it is Normal Summoned again, its ATK will be half its new original ATK, or 1050. (This is the same whether the effect of \"Shrink\" was applied before or after \"Goggle Golem\" was Normal Summoned again.)"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

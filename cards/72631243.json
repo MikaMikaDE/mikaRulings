@@ -1,0 +1,44 @@
+{
+  "id": 72631243,
+  "name": "Energy Bravery",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 1200,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you Summon a Gemini monster from your GY with “Swing of Memories” while “Energy Bravery” is on the field, and you Normal Summon that monster again, it will not be destroyed during the End Phase.\n●If a Gemini monster that is being treated as an Effect Monster is destroyed at the same time as “Energy Bravery” the effect of “Energy Bravery” will still apply and protect the Gemini monster.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you Summon a Gemini monster from your GY with \"Swing of Memories\" while \"Energy Bravery\" is on the field, and you Normal Summon that monster again, it will not be destroyed during the End Phase.\\n2. If a Gemini monster that is being treated as an Effect Monster is destroyed at the same time as \"Energy Bravery\" the effect of \"Energy Bravery\" will still apply and protect the Gemini monster."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

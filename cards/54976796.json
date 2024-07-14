@@ -1,0 +1,40 @@
+{
+  "id": 54976796,
+  "name": "Level Limit - Area A",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●If this card is face-up on the field and a face-down Level 3 or lower monster is attacked, after it is flipped face-up it will be changed to Attack Position before damage calculation.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If this card is applying and a face-down LV 3 or lower monster is attacked, after it is flipped face-up it will be changed to Attack Position before damage calculation.",
+    "TeleDAD": "● If this card is applying and a face-down LV 3 or lower monster is attacked, after it is flipped face-up it will be changed to Attack Position before damage calculation.",
+    "Gladiator": "● If this card is applying and a face-down LV 3 or lower monster is attacked, after it is flipped face-up it will be changed to Attack Position before damage calculation.",
+    "ReturnDAD": "● If this card is applying and a face-down LV 3 or lower monster is attacked, after it is flipped face-up it will be changed to Attack Position before damage calculation.",
+    "Trooper": "● If this card is applying and a face-down LV 3 or lower monster is attacked, after it is flipped face-up it will be changed to Attack Position before damage calculation.",
+    "Circle": "● If this card is applying and a face-down LV 3 or lower monster is attacked, after it is flipped face-up it will be changed to Attack Position before damage calculation.",
+    "Stein": "● If this card is applying and a face-down LV 3 or lower monster is attacked, after it is flipped face-up it will be changed to Attack Position before damage calculation.",
+    "Base": "1. If this card is face-up on the field and a face-down Level 3 or lower monster is attacked, after it is flipped face-up it will be changed to Attack Position before damage calculation."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 67934141,
+  "name": "Ultimate Baseball Kid",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 1000,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●Ultimate Baseball Kid’s ATK increase includes FIRE monsters on your opponent’s side of the field.\n●You can only send FIRE monsters on your side of the field to the GY for Ultimate Baseball Kid’s second effect, not monsters in the hand, Deck, Side Deck, Extra Deck, Removed Zone, or on your opponent’s side of the field.\n●You can send monsters to the GY for Ultimate Baseball Kid’s second effect that have been changed to FIRE Attribute by DNA Transplant or Scroll of Bewitchment.\n●You cannot send a face-down FIRE monster to the GY to activate Ultimate Baseball Kid’s effect.\n●If 2 Ultimate Baseball Kids are on the field, and no other FIRE monsters, each of them has an ATK of 1500.",
+    "Goat": "●Ultimate Baseball Kid’s ATK increase includes FIRE monsters on your opponent’s side of the field.\n●You can only send FIRE monsters on your side of the field to the GY for Ultimate Baseball Kid’s second effect, not monsters in the hand, Deck, Side Deck, Fusion Deck, removed from play, or on your opponent’s side of the field.\n●You can send monsters to the GY for Ultimate Baseball Kid’s second effect that have been changed to FIRE Attribute by DNA Transplant or Scroll of Bewitchment.\n●You cannot send a face-down FIRE monster to the GY to activate Ultimate Baseball Kid’s effect.\n●If 2 Ultimate Baseball Kids are on the field, and no other FIRE monsters, each of them has an ATK of 1500.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Ultimate Baseball Kid'’s ATK increase includes FIRE monsters on your opponent’s side of the field.\n● You can only send FIRE monsters on your side of the field to the GY for 'Ultimate Baseball Kid’s' second effect, not monsters in the hand, Deck, Side Deck, Extra Deck, Removed Zone, or on your opponent’s side of the field. \n● You can send monsters to the GY for 'Ultimate Baseball Kid'’s second effect that have been changed to FIRE Attribute by 'DNA Transplant' or 'Scroll of Bewitchment'.\n● You can't send a face-down FIRE monster to the GY to activate 'Ultimate Baseball Kid’s effect'.\n● If 2 'Ultimate Baseball Kids' are on the field, and no other FIRE monsters, each of them has an ATK of 1500.",
+    "TeleDAD": "● 'Ultimate Baseball Kid'’s ATK increase includes FIRE monsters on your opponent’s side of the field.\n● You can only send FIRE monsters on your side of the field to the GY for 'Ultimate Baseball Kid’s' second effect, not monsters in the hand, Deck, Side Deck, Extra Deck, Removed Zone, or on your opponent’s side of the field. \n● You can send monsters to the GY for 'Ultimate Baseball Kid'’s second effect that have been changed to FIRE Attribute by 'DNA Transplant' or 'Scroll of Bewitchment'.\n● You can't send a face-down FIRE monster to the GY to activate 'Ultimate Baseball Kid’s effect'.\n● If 2 'Ultimate Baseball Kids' are on the field, and no other FIRE monsters, each of them has an ATK of 1500.",
+    "Gladiator": "● 'Ultimate Baseball Kid'’s ATK increase includes FIRE monsters on your opponent’s side of the field.\n● You can only send FIRE monsters on your side of the field to the GY for 'Ultimate Baseball Kid'’s second effect, not monsters in the hand, Deck, Side Deck, Fusion Deck, removed from play, or on your opponent’s side of the field.\n● You can send monsters to the GY for 'Ultimate Baseball Kid'’s second effect that have been changed to FIRE Attribute by 'DNA Transplant' or 'Scroll of Bewitchment'.\n● You can't send a face-down FIRE monster to the GY to activate 'Ultimate Baseball Kid’s effect'.\n● If 2 'Ultimate Baseball Kids' are on the field, and no other FIRE monsters, each of them has an ATK of 1500.",
+    "ReturnDAD": "● 'Ultimate Baseball Kid'’s ATK increase includes FIRE monsters on your opponent’s side of the field.\n● You can only send FIRE monsters on your side of the field to the GY for 'Ultimate Baseball Kid'’s second effect, not monsters in the hand, Deck, Side Deck, Fusion Deck, removed from play, or on your opponent’s side of the field.\n● You can send monsters to the GY for 'Ultimate Baseball Kid'’s second effect that have been changed to FIRE Attribute by 'DNA Transplant' or 'Scroll of Bewitchment'.\n● You can't send a face-down FIRE monster to the GY to activate 'Ultimate Baseball Kid’s effect'.\n● If 2 'Ultimate Baseball Kids' are on the field, and no other FIRE monsters, each of them has an ATK of 1500.",
+    "Trooper": "● 'Ultimate Baseball Kid'’s ATK increase includes FIRE monsters on your opponent’s side of the field.\n● You can only send FIRE monsters on your side of the field to the GY for 'Ultimate Baseball Kid'’s second effect, not monsters in the hand, Deck, Side Deck, Fusion Deck, removed from play, or on your opponent’s side of the field.\n● You can send monsters to the GY for 'Ultimate Baseball Kid'’s second effect that have been changed to FIRE Attribute by 'DNA Transplant' or 'Scroll of Bewitchment'.\n● You can't send a face-down FIRE monster to the GY to activate 'Ultimate Baseball Kid’s effect'.\n● If 2 'Ultimate Baseball Kids' are on the field, and no other FIRE monsters, each of them has an ATK of 1500.",
+    "Circle": "● 'Ultimate Baseball Kid'’s ATK increase includes FIRE monsters on your opponent’s side of the field.\n● You can only send FIRE monsters on your side of the field to the GY for 'Ultimate Baseball Kid'’s second effect, not monsters in the hand, Deck, Side Deck, Fusion Deck, removed from play, or on your opponent’s side of the field.\n● You can send monsters to the GY for 'Ultimate Baseball Kid'’s second effect that have been changed to FIRE Attribute by 'DNA Transplant' or 'Scroll of Bewitchment'.\n● You can't send a face-down FIRE monster to the GY to activate 'Ultimate Baseball Kid’s effect'.\n● If 2 'Ultimate Baseball Kids' are on the field, and no other FIRE monsters, each of them has an ATK of 1500.",
+    "Stein": "● 'Ultimate Baseball Kid'’s ATK increase includes FIRE monsters on your opponent’s side of the field.\n● You can only send FIRE monsters on your side of the field to the GY for 'Ultimate Baseball Kid'’s second effect, not monsters in the hand, Deck, Side Deck, Fusion Deck, removed from play, or on your opponent’s side of the field.\n● You can send monsters to the GY for 'Ultimate Baseball Kid'’s second effect that have been changed to FIRE Attribute by 'DNA Transplant' or 'Scroll of Bewitchment'.\n● You can't send a face-down FIRE monster to the GY to activate 'Ultimate Baseball Kid’s effect'.\n● If 2 'Ultimate Baseball Kids' are on the field, and no other FIRE monsters, each of them has an ATK of 1500.",
+    "Base": "1. The ATK increase of \"Ultimate Baseball Kid\" increase includes FIRE monsters on your opponent's side of the field.\\n2. You can only send FIRE monsters on your side of the field to the GY for the second effect of \"Ultimate Baseball Kid\", not monsters in the hand, Deck, Side Deck, Extra Deck, Removed Zone, or on your opponent's side of the field.\\n3. You can send monsters to the GY for the second effect of \"Ultimate Baseball Kid\" that have been changed to FIRE Attribute by \"DNA Transplant\" or \"Scroll of Bewitchment\".\\n4. You cannot send a face-down FIRE monster to the GY to activate the effect of \"Ultimate Baseball Kid\".\\n5. If 2 copies of \"Ultimate Baseball Kid\" are on the field, and no other FIRE monsters, each of them has an ATK of 1500."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

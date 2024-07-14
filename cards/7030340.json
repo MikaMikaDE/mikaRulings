@@ -1,0 +1,40 @@
+{
+  "id": 7030340,
+  "name": "Factory of 100 Machines",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "\n●Factory of 100 Machines targets 1 Machine-Type monster you control.\n●Removing all Morphtronic monsters in your GY from play is not a cost. If an effect is chained that removes the targeted Machine-Type monster from the field, you must still remove all Morphtronic monsters in your GY from play when Factory of 100 Machines resolves.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Factory of 100 Machines' targets 1 Machine you control.\n● Removing all 'Morphtronic' monsters in your GY from play isn't a cost. If an effect is chained that removes the targeted Machine from the field, you must still remove all 'Morphtronic' monsters in your GY from play when 'Factory of 100 Machines' resolves.",
+    "TeleDAD": "● 'Factory of 100 Machines' targets 1 Machine you control.\n● Removing all 'Morphtronic' monsters in your GY from play isn't a cost. If an effect is chained that removes the targeted Machine from the field, you must still remove all 'Morphtronic' monsters in your GY from play when 'Factory of 100 Machines' resolves.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

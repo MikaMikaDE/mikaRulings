@@ -1,0 +1,40 @@
+{
+  "id": 66395299,
+  "name": "Doppelganger",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Doppelganger’s” effect starts a Chain after the effect that inflicted damage resolves.\n●If you take damage from two or more effects in the same Chain, “Doppelganger’s” effect will activate once for each of those effects after the Chain resolves. Then, “Doppelganger’s” effects will form a new Chain.\n●You cannot activate “Doppelganger” (flip it face-up) during the Damage Step.\n●“Doppelganger’s” effect will activate during the Damage Step if it was face-up on the field.\n●If “Cannon Soldier”, etc. is Tributed as a cost to activate its own effect to inflict damage, “Doppelganger’s” effect will still activate.\n●If you take damage from multiple monsters’ Continuous Effects at the same time, like “Rapid-Fire Magician”, “Doppelganger’s” effect only activates once, and inflicts damage equal to the damage from only 1 of those monster’s Continuous Effects.\n●You can activate (flip face-up) “Doppelganger”, and activate its effect as part of the same Chain Link, after a monster’s effect that inflicts damage to you resolves.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Doppelganger’s” effect starts a Chain after the effect that inflicted damage resolves.\n● If you take damage from two or more effects in the same Chain, “Doppelganger’s” effect will activate once for each of those effects after the Chain resolves. Then, “Doppelganger’s” effects will form a new Chain.\n● You can't activate “Doppelganger” (flip it face-up) during the Damage Step.\n● “Doppelganger’s” effect will activate during the Damage Step if it was applying. \n● If “Cannon Soldier”, etc. is Tributed as a cost to activate its own effect to inflict damage, “Doppelganger’s” effect will still activate.\n● If you take damage from multiple monsters’ Continuous Effects at the same time, like “Rapid-Fire Magician”, “Doppelganger’s” effect only activates once, and inflicts damage equal to the damage from only 1 of those monster’s Continuous Effects.\n● You can activate (flip face-up) “Doppelganger”, and activate its effect as part of the same Chain Link, after a monster’s effect that inflicts damage to you resolves.",
+    "TeleDAD": "● “Doppelganger’s” effect starts a Chain after the effect that inflicted damage resolves.\n● If you take damage from two or more effects in the same Chain, “Doppelganger’s” effect will activate once for each of those effects after the Chain resolves. Then, “Doppelganger’s” effects will form a new Chain.\n● You can't activate “Doppelganger” (flip it face-up) during the Damage Step.\n● “Doppelganger’s” effect will activate during the Damage Step if it was applying. \n● If “Cannon Soldier”, etc. is Tributed as a cost to activate its own effect to inflict damage, “Doppelganger’s” effect will still activate.\n● If you take damage from multiple monsters’ Continuous Effects at the same time, like “Rapid-Fire Magician”, “Doppelganger’s” effect only activates once, and inflicts damage equal to the damage from only 1 of those monster’s Continuous Effects.\n● You can activate (flip face-up) “Doppelganger”, and activate its effect as part of the same Chain Link, after a monster’s effect that inflicts damage to you resolves.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Doppelganger\" starts a Chain after the effect that inflicted damage resolves.\\n2. If you take damage from two or more effects in the same Chain, the effect of \"Doppelganger\" will activate once for each of those effects after the Chain resolves. Then, the effects of \"Doppelganger\" will form a new Chain.\\n3. You cannot activate \"Doppelganger\" (flip it face-up) during the Damage Step.\\n4. The effect of \"Doppelganger\" will activate during the Damage Step if it was face-up on the field.\\n5. If \"Cannon Soldier\", etc. is Tributed as a cost to activate its own effect to inflict damage, the effect of \"Doppelganger\" will still activate.\\n6. If you take damage from multiple monsters' Continuous Effects at the same time, like \"Rapid-Fire Magician\", the effect of \"Doppelganger\" only activates once, and inflicts damage equal to the damage from only 1 of those monster's Continuous Effects.\\n7. You can activate (flip face-up) \"Doppelganger\", and activate its effect as part of the same Chain Link, after a monster's effect that inflicts damage to you resolves."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

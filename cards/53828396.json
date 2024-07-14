@@ -1,0 +1,44 @@
+{
+  "id": 53828396,
+  "name": "Adhesive Explosive",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1000,
+    "level": 3,
+    "race": "Machine",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "(1) If an opponent's monster attacks this face-down Defense Position card, this card becomes an Equip Card equipped to the attacking monster, without applying damage calculation. (2) Destroy the equipped monster during the Standby Phase of your opponent's next turn.\n●The (1) mandatory Trigger Effect activates & resolves on the field.\n●This effect activates in Substep 3 - Before Damage Calculation.\n●If “Mystic Swordsman LV2” attacks, its effect will not activate.\n●If “Drillroid” attacks it, its effect will activate.\n●If this face-down card is attacked by “Horus the Black Flame Dragon LV6” or “Guardian Kay’est”, it will still be equipped to the attacker, but it will not destroy the equipped monster during the Standby Phase.\n●The (2) Continuous-like Effect applies on the field.\n●This effect is treated as the effect of an Equip Spell Card.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Adhesive Explosive” activates its effect as soon as it’s flipped face-up. So if “Mystic Swordsman LV2” attacks it, its effect will not activate, but if “Drillroid” attacks it, its effect will activate.\n● If this face-down card is attacked by “Horus the Black Flame Dragon LV6” or “Guardian Kay’est”, it will still be equipped to the attacker, but it will not destroy the equipped monster during the Standby Phase.",
+    "TeleDAD": "● “Adhesive Explosive” activates its effect as soon as it’s flipped face-up. So if “Mystic Swordsman LV2” attacks it, its effect will not activate, but if “Drillroid” attacks it, its effect will activate.\n● If this face-down card is attacked by “Horus the Black Flame Dragon LV6” or “Guardian Kay’est”, it will still be equipped to the attacker, but it will not destroy the equipped monster during the Standby Phase.",
+    "Gladiator": "● “Adhesive Explosive” activates its effect as soon as it’s flipped face-up. So if “Mystic Swordsman LV2” attacks it, its effect will not activate, but if “Drillroid” attacks it, its effect will activate.\n● If this face-down card is attacked by “Horus the Black Flame Dragon LV6” or “Guardian Kay’est”, it will still be equipped to the attacker, but it will not destroy the equipped monster during the Standby Phase.",
+    "ReturnDAD": "● “Adhesive Explosive” activates its effect as soon as it’s flipped face-up. So if “Mystic Swordsman LV2” attacks it, its effect will not activate, but if “Drillroid” attacks it, its effect will activate.\n● If this face-down card is attacked by “Horus the Black Flame Dragon LV6” or “Guardian Kay’est”, it will still be equipped to the attacker, but it will not destroy the equipped monster during the Standby Phase.",
+    "Trooper": "● “Adhesive Explosive” activates its effect as soon as it’s flipped face-up. So if “Mystic Swordsman LV2” attacks it, its effect will not activate, but if “Drillroid” attacks it, its effect will activate.\n● If this face-down card is attacked by “Horus the Black Flame Dragon LV6” or “Guardian Kay’est”, it will still be equipped to the attacker, but it will not destroy the equipped monster during the Standby Phase.",
+    "Circle": "● “Adhesive Explosive” activates its effect as soon as it’s flipped face-up. So if “Mystic Swordsman LV2” attacks it, its effect will not activate, but if “Drillroid” attacks it, its effect will activate.\n● If this face-down card is attacked by “Horus the Black Flame Dragon LV6” or “Guardian Kay’est”, it will still be equipped to the attacker, but it will not destroy the equipped monster during the Standby Phase.",
+    "Stein": "● “Adhesive Explosive” activates its effect as soon as it’s flipped face-up. So if “Mystic Swordsman LV2” attacks it, its effect will not activate, but if “Drillroid” attacks it, its effect will activate.\n● If this face-down card is attacked by “Horus the Black Flame Dragon LV6” or “Guardian Kay’est”, it will still be equipped to the attacker, but it will not destroy the equipped monster during the Standby Phase.",
+    "Base": "1. \"Adhesive Explosive\" activates its effect as soon as it's flipped face-up. So if \"Mystic Swordsman LV2\" attacks it, its effect will not activate, but if \"Drillroid\" attacks it, its effect will activate.\\n2. If this face-down card is attacked by \"Horus the Black Flame Dragon LV6\" or \"Guardian Kay'est\", it will still be equipped to the attacker, but it will not destroy the equipped monster during the Standby Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

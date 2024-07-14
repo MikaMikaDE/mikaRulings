@@ -1,0 +1,40 @@
+{
+  "id": 32441317,
+  "name": "De-Synchro",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●De-Synchro targets 1 face-up Synchro Monster.\n●If a Synchro Material Monster used in the Synchro Summon is removed from the GY, it cannot be Special Summoned with De-Synchro, even if it is returned to the GY.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'De-Synchro' targets 1 face-up Synchro Monster.\n● If a Synchro Material Monster used in the Synchro Summon is removed from the GY, it can't be Special Summoned with 'De-Synchro', even if it is returned to the GY.",
+    "TeleDAD": "● 'De-Synchro' targets 1 face-up Synchro Monster.\n● If a Synchro Material Monster used in the Synchro Summon is removed from the GY, it can't be Special Summoned with 'De-Synchro', even if it is returned to the GY.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"De-Synchro\" targets 1 face-up Synchro Monster.\\n2. If a Synchro Material Monster used in the Synchro Summon is removed from the GY, it cannot be Special Summoned with \"De-Synchro\", even if it is returned to the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

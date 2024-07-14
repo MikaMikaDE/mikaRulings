@@ -1,0 +1,44 @@
+{
+  "id": 8396952,
+  "name": "Arcana Force I - The Magician",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1100,
+    "def": 1100,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) When this card is Summoned, toss a coin: ● Heads: When a Spell Card is activated, this card's ATK becomes double its original ATK until the End Phase of that turn. ● Tails: When a Spell Card is activated, your opponent gains 500 Life Points. \n●The (1) Trigger Effect is mandatory, it activates & resolves on the field.\n●When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by Skill Drain, but this card will not forget which effect is gained while face-up.\n●The heads/tails effects of Arcana Force I - The Magician are Continuous Effects and are applied immediately after the Spell Card resolves.\n●The (HEADS) Continuous Effect applies while this card is face-up on the field.\n●The heads effect of Arcana Force I - The Magician does not change its original ATK. It creates a new current ATK equal to twice its original ATK. Any other increases or decreases of ATK are reapplied to this new ATK value.\n●If Arcana Force I - The Magician is affected by a Spell Card that changes its ATK, like “Shrink” or “Rush Recklessly,” first the Spell Card’s effect is applied, then “Arcana Force I – The Magician’s” effect is applied, changing its current ATK to twice its original ATK, or 2200.\n●The (TAILS) Continuous Effect applies while this card is face-up on the field.\n●Your opponent gains 500 Life Points when an activated Spell resolves. This does not start a Chain.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The heads/tails effects of 'Arcana Force I - The Magician' are Continuous Effects and are applied immediately after the Spell Card resolves.\n● The heads effect of 'Arcana Force I - The Magician' does not change its original ATK. It creates a new current ATK equal to twice its original ATK. Any other increases or decreases of ATK are reapplied to this new ATK value.\n● If 'Arcana Force I - The Magician' is affected by a Spell Card that changes its ATK, like “Shrink” or “Rush Recklessly,” first the Spell Card’s effect is applied, then “Arcana Force I – The Magician’s” effect is applied, changing its current ATK to twice its original ATK, or 2200.",
+    "TeleDAD": "● The heads/tails effects of 'Arcana Force I - The Magician' are Continuous Effects and are applied immediately after the Spell Card resolves.\n● The heads effect of 'Arcana Force I - The Magician' does not change its original ATK. It creates a new current ATK equal to twice its original ATK. Any other increases or decreases of ATK are reapplied to this new ATK value.\n● If 'Arcana Force I - The Magician' is affected by a Spell Card that changes its ATK, like “Shrink” or “Rush Recklessly,” first the Spell Card’s effect is applied, then “Arcana Force I – The Magician’s” effect is applied, changing its current ATK to twice its original ATK, or 2200.",
+    "Gladiator": "● The heads/tails effects of 'Arcana Force I - The Magician' are Continuous Effects and are applied immediately after the Spell Card resolves.\n● The heads effect of 'Arcana Force I - The Magician' does not change its original ATK. It creates a new current ATK equal to twice its original ATK. Any other increases or decreases of ATK are reapplied to this new ATK value.\n● If 'Arcana Force I - The Magician' is affected by a Spell Card that changes its ATK, like “Shrink” or “Rush Recklessly,” first the Spell Card’s effect is applied, then “Arcana Force I – The Magician’s” effect is applied, changing its current ATK to twice its original ATK, or 2200.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The heads/tails effects of \"Arcana Force I - The Magician\" are Continuous Effects and are applied immediately after the Spell Card resolves.\\n2. The heads effect of \"Arcana Force I - The Magician\" does not change its original ATK. It creates a new current ATK equal to twice its original ATK. Any other increases or decreases of ATK are reapplied to this new ATK value.\\n3. If \"Arcana Force I - The Magician\" is affected by a Spell Card that changes its ATK, like \"Shrink\" or \"Rush Recklessly\", first the Spell Card's effect is applied, then the effect of \"Arcana Force I - The Magician\" is applied, changing its current ATK to twice its original ATK, or 2200."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 94656263,
+  "name": "Kagetokage",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1100,
+    "def": 1500,
+    "level": 4,
+    "race": "Reptile",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● This card can always be Summoned by card effects, even if it wasn't summoned properly (this is an erratum).\n● When you Normal Summon a Level 4, you must declare all your triggers at once.\nEG: You Normal Summon \"Tin Goldfish\". You must declare whether you want to use both effects (Kagetokage and Goldfish in either order), one of those effects, or neither effect. \nAfterwards, your opponent can activate a Fast Effect, like a Trap Card.\nAfterwards (even if they don't use anything) you can no longer activate kage's effect.\n● You can read about this card's summoning procedure here: [link being updated]post/kagetokage",
+    "Vegas": "● This card can always be Summoned by card effects, even if it wasn't summoned properly (this is an erratum).\n● When you Normal Summon a Level 4, you must declare all your triggers at once.\nEG: You Normal Summon \"Tin Goldfish\". You must declare whether you want to use both effects (Kagetokage and Goldfish in either order), one of those effects, or neither effect. \nAfterwards, your opponent can activate a Fast Effect, like a Trap Card.\nAfterwards (even if they don't use anything) you can no longer activate kage's effect.\n● You can read about this card's summoning procedure here: [link being updated]post/kagetokage",
+    "Meadowlands": "● This card can always be Summoned by card effects, even if it wasn't summoned properly (this is an erratum).\n● When you Normal Summon a Level 4, you must declare all your triggers at once.\nEG: You Normal Summon \"Tin Goldfish\". You must declare whether you want to use both effects (Kagetokage and Goldfish in either order), one of those effects, or neither effect. \nAfterwards, your opponent can activate a Fast Effect, like a Trap Card.\nAfterwards (even if they don't use anything) you can no longer activate kage's effect.\n● You can read about this card's summoning procedure here: [link being updated]post/kagetokage",
+    "FireWater": "● This card can always be Summoned by card effects, even if it wasn't summoned properly (this is an erratum).\n● When you Normal Summon a Level 4, you must declare all your triggers at once.\nEG: You Normal Summon \"Tin Goldfish\". You must declare whether you want to use both effects (Kagetokage and Goldfish in either order), one of those effects, or neither effect. \nAfterwards, your opponent can activate a Fast Effect, like a Trap Card.\nAfterwards (even if they don't use anything) you can no longer activate kage's effect.\n● You can read about this card's summoning procedure here: [link being updated]post/kagetokage",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "Ⓢ Can't be Normal Summoned/Set. \nⒸ Can't be used as Synchro Material.\n① When you Normal Summon a Level 4 monster:\nYou can Special Summon this card from your hand.",
+    "Meadowlands": "Ⓢ Can't be Normal Summoned/Set. \nⒸ Can't be used as Synchro Material.\n① When you Normal Summon a Level 4 monster:\nYou can Special Summon this card from your hand.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

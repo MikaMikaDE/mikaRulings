@@ -1,0 +1,44 @@
+{
+  "id": 74298287,
+  "name": "Mermail Abyssdine",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 200,
+    "level": 3,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings currently available.",
+    "Vegas": "No rulings currently available.",
+    "Meadowlands": "No rulings currently available.",
+    "FireWater": "No rulings currently available.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① When this card is added from your Deck/GY to your hand by an effect: You can Special Summon it from your hand. \n(Activate and to resolve this effect only if you control a \"Mermail\" monster). \n② When this card is Special Summoned by the effect of a \"Mermail\" monster: \nYou can target 1 Level 3 or lower \"Mermail\" monster in your GY; Special Summon that target. \n(You can only use 1 \"Mermail Abyssdine\" effect per turn, and only once that turn).",
+    "Meadowlands": "① When this card is added from your Deck/GY to your hand by an effect: You can Special Summon it from your hand. \n(Activate and to resolve this effect only if you control a \"Mermail\" monster). \n② When this card is Special Summoned by the effect of a \"Mermail\" monster: \nYou can target 1 Level 3 or lower \"Mermail\" monster in your GY; Special Summon that target. \n(You can only use 1 \"Mermail Abyssdine\" effect per turn, and only once that turn).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

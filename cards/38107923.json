@@ -1,0 +1,44 @@
+{
+  "id": 38107923,
+  "name": "Dark Nephthys",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 1600,
+    "level": 8,
+    "race": "Winged Beast",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Dark Nephthys' first effect is an Ignition Effect. Removing DARK monsters from play is a cost.\n●You can activate Dark Nephthys' first effect while Banisher of the Light or Macro Cosmos is face-up, but Dark Nephthys will be removed from play.\n●Dark Nephthys effect to Special Summon itself starts a Chain.\n●The owner of Dark Nephthys Special Summons it, even if their opponent activated its first effect.\n●Dark Nephthys' third effect activates whenever it is Special Summoned, including by another card's effect. It is not optional.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Dark Nephthys'' first effect is an Ignition Effect. Removing DARK monsters from play is a cost.\n● You can activate 'Dark Nephthys'' first effect while 'Banisher of the Light' or 'Macro Cosmos' is face-up, but 'Dark Nephthys' will be removed from play.\n● 'Dark Nephthys' effect to Special Summon itself starts a Chain.\n● The owner of 'Dark Nephthys' Special Summons it, even if their opponent activated its first effect.\n● 'Dark Nephthys'' third effect activates whenever it is Special Summoned, including by another card's effect. It isn't optional.",
+    "TeleDAD": "● 'Dark Nephthys'' first effect is an Ignition Effect. Removing DARK monsters from play is a cost.\n● You can activate 'Dark Nephthys'' first effect while 'Banisher of the Light' or 'Macro Cosmos' is face-up, but 'Dark Nephthys' will be removed from play.\n● 'Dark Nephthys' effect to Special Summon itself starts a Chain.\n● The owner of 'Dark Nephthys' Special Summons it, even if their opponent activated its first effect.\n● 'Dark Nephthys'' third effect activates whenever it is Special Summoned, including by another card's effect. It isn't optional.",
+    "Gladiator": "● 'Dark Nephthys'' first effect is an Ignition Effect. Removing DARK monsters from play is a cost.\n● You can activate 'Dark Nephthys'' first effect while 'Banisher of the Light' or 'Macro Cosmos' is face-up, but 'Dark Nephthys' will be removed from play.\n● 'Dark Nephthys' effect to Special Summon itself starts a Chain.\n● The owner of 'Dark Nephthys' Special Summons it, even if their opponent activated its first effect.\n● 'Dark Nephthys'' third effect activates whenever it is Special Summoned, including by another card's effect. It isn't optional.",
+    "ReturnDAD": "● 'Dark Nephthys'' first effect is an Ignition Effect. Removing DARK monsters from play is a cost.\n● You can activate 'Dark Nephthys'' first effect while 'Banisher of the Light' or 'Macro Cosmos' is face-up, but 'Dark Nephthys' will be removed from play.\n● 'Dark Nephthys' effect to Special Summon itself starts a Chain.\n● The owner of 'Dark Nephthys' Special Summons it, even if their opponent activated its first effect.\n● 'Dark Nephthys'' third effect activates whenever it is Special Summoned, including by another card's effect. It isn't optional.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The first effect of \"Dark Nephthys\" is an Ignition Effect. Removing DARK monsters from play is a cost.\\n2. You can activate the first effect of \"Dark Nephthys\" while \"Banisher of the Light\" or \"Macro Cosmos\" is face-up, but \"Dark Nephthys\" will be removed from play.\\n3. \"Dark Nephthys\" effect to Special Summon itself starts a Chain.\\n4. The owner of \"Dark Nephthys\" Special Summons it, even if their opponent activated its first effect.\\n5. The third effect of \"Dark Nephthys\" activates whenever it is Special Summoned, including by another card's effect. It is not optional."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

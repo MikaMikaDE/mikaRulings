@@ -1,0 +1,40 @@
+{
+  "id": 37694547,
+  "name": "Geartown",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Field"
+  },
+  "Rulings": {
+    "Tengu": "● You can't Tribute Set using the ① effect.\n\n● In Edison, there can only ever be 1 face-up Field Spell on the field.\n● If you control this, and you activate another Field Spell:\n This card is destroyed, and its ② misses its timing.\n● If you control this, and your opponent activates another Field Spell:\n This card is destroyed, and its ② activates (it does not miss its timing).\n● If you Set another Field Spell while this card is in the Field Spell Zone (face-up or face-down), this card is destroyed, and its ② effect can be activated.\nYou can read more about Timing here:\nhttps://edisonformat.net/rules/compendium/missing-the-timing",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Geartown's' first effect does not start a Chain. \n● You can still choose to Tribute the usual number of monsters when Tribute Summoning an 'Ancient Gear' monster.\n● You can Summon a LV 5 or 6 'Ancient Gear' monster without offering a Tribute.\n● When 'Geartown' is destroyed and sent to the GY, only its owner can activate its effect.\n● If your 'Geartown' is destroyed in your hand or Deck and sent to your GY, you can activate its effect.\n● While 'Geartown' is applying, you can Tribute 'Ancient Gear Castle' with 1 Counter to Tribute Summon 'Ancient Gear Golem'.\n● If 'Geartown' is Special Summoned with 'Magical Hats', you can activate its effect when it is destroyed.\n● If you activate 'Geartown' and an effect is chained that destroys it, you can't activate its effect when it is destroyed.\n● If your opponent activates a Field Spell Card and your 'Geartown' is destroyed, you can activate its effect.\n● If you control 'Geartown' and you activate a new Field Spell Card, you can't activate 'Geartown's' effect when it is destroyed because it misses the timing. However, if you Set a new Field Spell Card, you can activate 'Geartown's' effect when it is destroyed.",
+    "TeleDAD": "● 'Geartown's' first effect does not start a Chain. \n● You can still choose to Tribute the usual number of monsters when Tribute Summoning an 'Ancient Gear' monster.\n● You can Summon a LV 5 or 6 'Ancient Gear' monster without offering a Tribute.\n● When 'Geartown' is destroyed and sent to the GY, only its owner can activate its effect.\n● If your 'Geartown' is destroyed in your hand or Deck and sent to your GY, you can activate its effect.\n● While 'Geartown' is applying, you can Tribute 'Ancient Gear Castle' with 1 Counter to Tribute Summon 'Ancient Gear Golem'.\n● If 'Geartown' is Special Summoned with 'Magical Hats', you can activate its effect when it is destroyed.\n● If you activate 'Geartown' and an effect is chained that destroys it, you can't activate its effect when it is destroyed.\n● If your opponent activates a Field Spell Card and your 'Geartown' is destroyed, you can activate its effect.\n● If you control 'Geartown' and you activate a new Field Spell Card, you can't activate 'Geartown's' effect when it is destroyed because it misses the timing. However, if you Set a new Field Spell Card, you can activate 'Geartown's' effect when it is destroyed.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The first effect of \"Geartown\" does not start a Chain.\\n2. You can still choose to Tribute the usual number of monsters when Tribute Summoning an 'Ancient Gear' monster.\\n3. You can Summon a Level 5 or 6 'Ancient Gear' monster without offering a Tribute.\\n4. When \"Geartown\" is destroyed and sent to the GY, only its owner can activate its effect.\\n5. If your \"Geartown\" is destroyed in your hand or Deck and sent to your GY, you can activate its effect.\\n6. While \"Geartown\" is active, you can Tribute \"Ancient Gear Castle\" with 1 Counter to Tribute Summon \"Ancient Gear Golem\".\\n7. If \"Geartown\" is Special Summoned with \"Magical Hats\", you can activate its effect when it is destroyed.\\n8. If you activate \"Geartown\" and an effect is chained that destroys it, you cannot activate its effect when it is destroyed.\\n9. If your opponent activates a Field Spell Card and your \"Geartown\" is destroyed, you can activate its effect.\\n10. If you control \"Geartown\" and you activate a new Field Spell Card, you cannot activate the effect of \"Geartown\" when it is destroyed because it misses the timing. However, if you Set a new Field Spell Card, you can activate the effect of \"Geartown\" when it is destroyed."
+  },
+  "PSCT": {
+    "Tengu": "① \"Ancient Gear\" monsters can be Tribute Summoned face-up for 1 less Tribute. \n② When destroyed and sent to the GY: You can Special Summon 1 \"Ancient Gear\" monster from your hand/Deck/GY.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 57585212,
+  "name": "Self-Destruct Button",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "●If you activate Self-Destruction Button, and an effect is chained so that the different in LP is less than 7000, Self-Destruction Button still resolves because its conditions were correct at the time of activation.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you activate 'Self-Destruction Button', and an effect is chained so that the different in LP is less than 7000, 'Self-Destruction Button' still resolves because its conditions were correct at the time of activation.",
+    "TeleDAD": "● If you activate 'Self-Destruction Button', and an effect is chained so that the different in LP is less than 7000, 'Self-Destruction Button' still resolves because its conditions were correct at the time of activation.",
+    "Gladiator": "● If you activate 'Self-Destruction Button', and an effect is chained so that the different in LP is less than 7000, 'Self-Destruction Button' still resolves because its conditions were correct at the time of activation.",
+    "ReturnDAD": "● If you activate 'Self-Destruction Button', and an effect is chained so that the different in LP is less than 7000, 'Self-Destruction Button' still resolves because its conditions were correct at the time of activation.",
+    "Trooper": "● If you activate 'Self-Destruction Button', and an effect is chained so that the different in LP is less than 7000, 'Self-Destruction Button' still resolves because its conditions were correct at the time of activation.",
+    "Circle": "● If you activate 'Self-Destruction Button', and an effect is chained so that the different in LP is less than 7000, 'Self-Destruction Button' still resolves because its conditions were correct at the time of activation.",
+    "Stein": "● If you activate 'Self-Destruction Button', and an effect is chained so that the different in LP is less than 7000, 'Self-Destruction Button' still resolves because its conditions were correct at the time of activation.",
+    "Base": "1. If you activate \"Self-Destruction Button\", and an effect is chained so that the different in Life Points is less than 7000, \"Self-Destruction Button\" still resolves because its conditions were correct at the time of activation."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 34002992,
+  "name": "Rainbow Life",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Discarding 1 card is a cost to activate Rainbow LIfe.\n●Rainbow Life's effect is applied to Battle Damage and damage from effects.\n●After activating Rainbow Life, if you activate an effect that inflicts damage to both your and your opponent's Life Points, your opponent will receive damage and you will gain Life Points.\n●After activating Rainbow Life, you cannot chain Barrel Behind the Door to an effect that would inflict damage to your Life Points because you will gain Life Points instead.\n●If you activate Rainbow Life and your opponent has Bad Reaction to Simochi active, whenever you would gain Life Points with Rainbow Life you will receive damage instead.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Discarding 1 card is a cost to activate 'Rainbow LIfe'.\n● 'Rainbow Life's' effect is applied to Battle Damage and damage from effects.\n● After activating 'Rainbow Life', if you activate an effect that inflicts damage to both your and your opponent's LP, your opponent will receive damage and you will gain LP.\n● After activating 'Rainbow Life', you can't chain 'Barrel Behind the Door' to an effect that would inflict damage to your LP because you will gain LP instead.\n● If you activate 'Rainbow Life' and your opponent has 'Bad Reaction to Simochi' applying, whenever you would gain LP with 'Rainbow Life' you will receive damage instead.",
+    "TeleDAD": "● Discarding 1 card is a cost to activate 'Rainbow LIfe'.\n● 'Rainbow Life's' effect is applied to Battle Damage and damage from effects.\n● After activating 'Rainbow Life', if you activate an effect that inflicts damage to both your and your opponent's LP, your opponent will receive damage and you will gain LP.\n● After activating 'Rainbow Life', you can't chain 'Barrel Behind the Door' to an effect that would inflict damage to your LP because you will gain LP instead.\n● If you activate 'Rainbow Life' and your opponent has 'Bad Reaction to Simochi' applying, whenever you would gain LP with 'Rainbow Life' you will receive damage instead.",
+    "Gladiator": "● Discarding 1 card is a cost to activate 'Rainbow LIfe'.\n● 'Rainbow Life's' effect is applied to Battle Damage and damage from effects.\n● After activating 'Rainbow Life', if you activate an effect that inflicts damage to both your and your opponent's LP, your opponent will receive damage and you will gain LP.\n● After activating 'Rainbow Life', you can't chain 'Barrel Behind the Door' to an effect that would inflict damage to your LP because you will gain LP instead.\n● If you activate 'Rainbow Life' and your opponent has 'Bad Reaction to Simochi' applying, whenever you would gain LP with 'Rainbow Life' you will receive damage instead.",
+    "ReturnDAD": "● Discarding 1 card is a cost to activate 'Rainbow LIfe'.\n● 'Rainbow Life's' effect is applied to Battle Damage and damage from effects.\n● After activating 'Rainbow Life', if you activate an effect that inflicts damage to both your and your opponent's LP, your opponent will receive damage and you will gain LP.\n● After activating 'Rainbow Life', you can't chain 'Barrel Behind the Door' to an effect that would inflict damage to your LP because you will gain LP instead.\n● If you activate 'Rainbow Life' and your opponent has 'Bad Reaction to Simochi' applying, whenever you would gain LP with 'Rainbow Life' you will receive damage instead.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Discarding 1 card is a cost to activate \"Rainbow LIfe\".\\n2. The effect of \"Rainbow Life\" is applied to Battle Damage and damage from effects.\\n3. After activating \"Rainbow Life\", if you activate an effect that inflicts damage to both your and your opponent's Life Points, your opponent will receive damage and you will gain Life Points.\\n4. After activating \"Rainbow Life\", you cannot chain \"Barrel Behind the Door\" to an effect that would inflict damage to your Life Points because you will gain Life Points instead.\\n5. If you activate \"Rainbow Life\" and your opponent has \"Bad Reaction to Simochi\" active, whenever you would gain Life Points with \"Rainbow Life\" you will receive damage instead."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 84926738,
+  "name": "The Immortal of Thunder",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 1300,
+    "level": 4,
+    "race": "Thunder",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●The owner of The Immortal of Thunder loses 5000 Life Points.\n●If The Immortal of Thunder is destroyed while face-down, its owner does not lose 5000 Life Points.\n●If your opponent takes control of your face-down The Immortal of Thunder and Flip Summons it, they gain 3000 Life Points. When it is sent to the GY, you lose 5000 Life Points.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The owner of 'The Immortal of Thunder' loses 5000 LP.\n● If 'The Immortal of Thunder' is destroyed while face-down, its owner does not lose 5000 LP.\n● If your opponent takes control of your face-down 'The Immortal of Thunder' and Flip Summons it, they gain 3000 LP. When it is sent to the GY, you lose 5000 LP.",
+    "TeleDAD": "● The owner of 'The Immortal of Thunder' loses 5000 LP.\n● If 'The Immortal of Thunder' is destroyed while face-down, its owner does not lose 5000 LP.\n● If your opponent takes control of your face-down 'The Immortal of Thunder' and Flip Summons it, they gain 3000 LP. When it is sent to the GY, you lose 5000 LP.",
+    "Gladiator": "● The owner of 'The Immortal of Thunder' loses 5000 LP.\n● If 'The Immortal of Thunder' is destroyed while face-down, its owner does not lose 5000 LP.\n● If your opponent takes control of your face-down 'The Immortal of Thunder' and Flip Summons it, they gain 3000 LP. When it is sent to the GY, you lose 5000 LP.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The owner of \"The Immortal of Thunder\" loses 5000 Life Points.\\n2. If \"The Immortal of Thunder\" is destroyed while face-down, its owner does not lose 5000 Life Points.\\n3. If your opponent takes control of your face-down \"The Immortal of Thunder\" and Flip Summons it, they gain 3000 Life Points. When it is sent to the GY, you lose 5000 Life Points."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

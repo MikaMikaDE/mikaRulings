@@ -1,0 +1,44 @@
+{
+  "id": 13821299,
+  "name": "Trap Eater",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 1900,
+    "def": 1600,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "(C) This card cannot be Normal Summoned or Set. (S) This card cannot be Special Summoned except by sending 1 face-up Trap Card your opponent controls to the GY.\n●The (C) Condition cannot be negated.\n●The (S) Summon Effect does not start a Chain.\n●Sending 1 face-up Trap Card your opponent controls to the GY is a cost.\n●You cannot Summon “Trap Eater” by sending “Macro Cosmos” to the GY\n●If “Macro Cosmos” & “Imperial Iron Wall” are on the field, you cannot send “Imperial Iron Wall” to the GY to Summon “Trap Eater”, but you can send “Macro Cosmos” to the GY.\n●While “Skill Drain” negates “Vanity’s Fiend”, you can send Skill Drain to Special Summon this card.\n●If Royal Decree negates “Rivalry of Warlords”, you can send “Royal Decree” to Summon this card; but if your other face-up monster is not Fiend-Type then “Trap Eater” will be sent to the GY.\n●If “Royal Oppression” is sent to the GY, its effect cannot be used to negate the Summon.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Vanity's Fiend\" or \"Fossil Dyna Pachycephalo\" are on the field, but \"Skill Drain\" is preventing their effects from blocking Special Summons, you can Summon \"Trap Eater\" even by sending \"Skill Drain\" to the GY.\\n2. You cannot Summon \"Trap Eater\" by sending \"Macro Cosmos\" to the GY, since \"Macro Cosmos\" will not allow cards to be sent to the GY. If \"Macro Cosmos\" and \"Imperial Iron Wall\" are both on the field, you cannot send \"Imperial Iron Wall\" to the GY to Summon \"Trap Eater\", but you can send \"Macro Cosmos\" to the GY to Summon \"Trap Eater\".\\n3. If \"Rivalry of Warlords\" is on the field but is being blocked by \"Royal Decree\", and you send \"Royal Decree\" to the GY to Summon \"Trap Eater\", the Summon will be successful. However, if you control another Type of monster besides that of \"Trap Eater\", then \"Trap Eater\" will be sent to the GY.\\n4. If you Summon \"Trap Eater\" by sending \"Royal Oppression\" to the GY, the effect of \"Royal Oppression\" cannot be used in response since it is no longer on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

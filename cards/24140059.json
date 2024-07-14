@@ -1,0 +1,44 @@
+{
+  "id": 24140059,
+  "name": "A Cat of Ill Omen",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 300,
+    "level": 2,
+    "race": "Beast",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "FLIP: Select 1 Trap Card from your Deck and place it on top of your Deck. If Necrovalley is on the field, you can add the selected Trap Card to your hand instead.\n●Show the card to your opponent.\n●If Imperial Order & Necrovalley are both active, and A Cat of Ill Omen is flipped, you add the card to your hand because Necrovalley is face-up on the field, even though its effect is negated.\n●If Mystical Space Typhoon is chained to the effect to destroy Necrovalley, so that Necrovalley is not on the field when this effect resolves, you cannot place the card in your hand.\n●You select the card for this effect when the effect resolves, not when it activates.",
+    "Goat": "●Show the card to your opponent.\n●If Imperial Order & Necrovalley are both applying, and A Cat of Ill Omen is flipped, you add the card to your hand because Necrovalley is face-up on the field, even though its effect is negated.\n●If Mystical Space Typhoon is chained to the effect to destroy Necrovalley, so that Necrovalley is not on the field when this effect resolves, you cannot place the card in your hand.\n●You select the card for this effect when the effect resolves, not when it activates.\n●\n●Q: If “Necrovalley” is not applying on the field when resolving the effect of “A Cat of Ill Omen”, does the card being placed on top of the Deck have to be revealed to the opponent? \nA: You must reveal the selected card to your opponent to verify that it is a legal choice.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Show the card to your opponent.\n● If 'Imperial Order' & 'Necrovalley' are both applying, and 'A Cat of Ill Omen' is flipped, you add the card to your hand because 'Necrovalley' is applying, even though its effect is negated.\n● If 'Mystical Space Typhoon' is chained to the effect to destroy 'Necrovalley', so that 'Necrovalley' isn't on the field when this effect resolves, you can't place the card in your hand.\n● You select the card for this effect when the effect resolves, not when it activates.",
+    "TeleDAD": "● Show the card to your opponent.\n● If 'Imperial Order' & 'Necrovalley' are both applying, and 'A Cat of Ill Omen' is flipped, you add the card to your hand because 'Necrovalley' is applying, even though its effect is negated.\n● If 'Mystical Space Typhoon' is chained to the effect to destroy 'Necrovalley', so that 'Necrovalley' isn't on the field when this effect resolves, you can't place the card in your hand.\n● You select the card for this effect when the effect resolves, not when it activates.",
+    "Gladiator": "● Show the card to your opponent.\n● If 'Imperial Order' & 'Necrovalley' are both applying, and 'A Cat of Ill Omen' is flipped, you add the card to your hand because 'Necrovalley' is applying, even though its effect is negated.\n● If 'Mystical Space Typhoon' is chained to the effect to destroy 'Necrovalley', so that 'Necrovalley' isn't on the field when this effect resolves, you can't place the card in your hand.\n● You select the card for this effect when the effect resolves, not when it activates.",
+    "ReturnDAD": "● Show the card to your opponent.\n● If 'Imperial Order' & 'Necrovalley' are both applying, and 'A Cat of Ill Omen' is flipped, you add the card to your hand because 'Necrovalley' is applying, even though its effect is negated.\n● If 'Mystical Space Typhoon' is chained to the effect to destroy 'Necrovalley', so that 'Necrovalley' isn't on the field when this effect resolves, you can't place the card in your hand.\n● You select the card for this effect when the effect resolves, not when it activates.",
+    "Trooper": "● Show the card to your opponent.\n● If 'Imperial Order' & 'Necrovalley' are both applying, and 'A Cat of Ill Omen' is flipped, you add the card to your hand because 'Necrovalley' is applying, even though its effect is negated.\n● If 'Mystical Space Typhoon' is chained to the effect to destroy 'Necrovalley', so that 'Necrovalley' isn't on the field when this effect resolves, you can't place the card in your hand.\n● You select the card for this effect when the effect resolves, not when it activates.",
+    "Circle": "● Show the card to your opponent.\n● If 'Imperial Order' & 'Necrovalley' are both applying, and 'A Cat of Ill Omen' is flipped, you add the card to your hand because 'Necrovalley' is applying, even though its effect is negated.\n● If 'Mystical Space Typhoon' is chained to the effect to destroy 'Necrovalley', so that 'Necrovalley' isn't on the field when this effect resolves, you can't place the card in your hand.\n● You select the card for this effect when the effect resolves, not when it activates.",
+    "Stein": "● Show the card to your opponent.\n● If 'Imperial Order' & 'Necrovalley' are both applying, and 'A Cat of Ill Omen' is flipped, you add the card to your hand because 'Necrovalley' is applying, even though its effect is negated.\n● If 'Mystical Space Typhoon' is chained to the effect to destroy 'Necrovalley', so that 'Necrovalley' isn't on the field when this effect resolves, you can't place the card in your hand.\n● You select the card for this effect when the effect resolves, not when it activates.",
+    "Base": "1. Show the card to your opponent.\\n2. If \"Imperial Order\" & \"Necrovalley\" are both active, and \"A Cat of Ill Omen\" is flipped, you add the card to your hand because \"Necrovalley\" is face-up on the field, even though its effect is negated.\\n3. If \"Mystical Space Typhoon\" is chained to the effect to destroy \"Necrovalley\", so that \"Necrovalley\" is not on the field when this effect resolves, you cannot place the card in your hand.\\n4. You select the card for this effect when the effect resolves, not when it activates."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

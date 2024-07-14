@@ -1,0 +1,40 @@
+{
+  "id": 23282832,
+  "name": "Over Limit",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Over Limit” cannot be activated if there are no Normal Monsters with 1000 or less ATK in the GY that were destroyed in battle during the turn.\n●If a Normal Monster with 1000 or less ATK that was destroyed in battle is removed from the GY and later in the same turn it is returned to the GY by other means (Tributed, etc.), it cannot be Special Summoned with “Over Limit”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Over Limit” can't be activated if there are no Normal Monsters with 1000 or less ATK in the GY that were destroyed in battle during the turn.\n● If a Normal Monster with 1000 or less ATK that was destroyed in battle is removed from the GY and later in the same turn it is returned to the GY by other means (Tributed, etc.), it can't be Special Summoned with “Over Limit”.",
+    "TeleDAD": "● “Over Limit” can't be activated if there are no Normal Monsters with 1000 or less ATK in the GY that were destroyed in battle during the turn.\n● If a Normal Monster with 1000 or less ATK that was destroyed in battle is removed from the GY and later in the same turn it is returned to the GY by other means (Tributed, etc.), it can't be Special Summoned with “Over Limit”.",
+    "Gladiator": "● “Over Limit” can't be activated if there are no Normal Monsters with 1000 or less ATK in the GY that were destroyed in battle during the turn.\n● If a Normal Monster with 1000 or less ATK that was destroyed in battle is removed from the GY and later in the same turn it is returned to the GY by other means (Tributed, etc.), it can't be Special Summoned with “Over Limit”.",
+    "ReturnDAD": "● “Over Limit” can't be activated if there are no Normal Monsters with 1000 or less ATK in the GY that were destroyed in battle during the turn.\n● If a Normal Monster with 1000 or less ATK that was destroyed in battle is removed from the GY and later in the same turn it is returned to the GY by other means (Tributed, etc.), it can't be Special Summoned with “Over Limit”.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● “Over Limit” can't be activated if there are no Normal Monsters with 1000 or less ATK in the GY that were destroyed in battle during the turn.\n● If a Normal Monster with 1000 or less ATK that was destroyed in battle is removed from the GY and later in the same turn it is returned to the GY by other means (Tributed, etc.), it can't be Special Summoned with “Over Limit”.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Over Limit\" cannot be activated if there are no Normal Monsters with 1000 or less ATK in the GY that were destroyed in battle during the turn.\\n2. If a Normal Monster with 1000 or less ATK that was destroyed in battle is removed from the GY and later in the same turn it is returned to the GY by other means (Tributed, etc.), it cannot be Special Summoned with \"Over Limit\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

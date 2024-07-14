@@ -1,0 +1,40 @@
+{
+  "id": 22431243,
+  "name": "Ultra Evolution Pill",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can Tribute a face-down Reptile-Type monster when you activate Ultra Evolution Pill.",
+    "Goat": "●If “The Immortal of Thunder” was destroyed in battle by “Dark Ruler Ha Des”, would the effect of losing LP be negated? \nA: Yes it would, but keep in mind that if “The Immortal of Thunder” was flipped due to the attack from “Dark Ruler Ha Des” the flip-effect would be negated as well. \n●  \n●Q: Can “The Immortal of Thunder” be flipped and the controller’s gets 3000 LP, and then has “Skill Drain” applying when this monster is sent from the Field to the GY to avoid losing 5000 LP? \nA: No. The effect of “The Immortal of Thunder” activates while it is in the GY after having been sent to the GY. Since it would not be face-up on the field, “Skill Drain” will not negate it. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can Tribute a face-down Reptile when you activate 'Ultra Evolution Pill'.",
+    "TeleDAD": "● You can Tribute a face-down Reptile when you activate 'Ultra Evolution Pill'.",
+    "Gladiator": "● You can Tribute a face-down Reptile when you activate 'Ultra Evolution Pill'.",
+    "ReturnDAD": "● You can Tribute a face-down Reptile when you activate 'Ultra Evolution Pill'.",
+    "Trooper": "● You can Tribute a face-down Reptile when you activate 'Ultra Evolution Pill'.",
+    "Circle": "● You can Tribute a face-down Reptile when you activate 'Ultra Evolution Pill'.",
+    "Stein": "● You can Tribute a face-down Reptile when you activate 'Ultra Evolution Pill'.",
+    "Base": "1. You can Tribute a face-down Reptile-Type monster when you activate \"Ultra Evolution Pill\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 20436034,
+  "name": "Ring of Magnetism",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●If there is a monster equipped with Ring of Magnetism on the opponent’s side of the field, if your monsters are going to attack they must attack the equipped monster. Even Toon Monsters, Inaba White Rabbit, and monsters like Jinzo #7 and Queen’s Double that can normally Attack Directly must attack the equipped monster.\n●If you have two or more monsters on your side of the field equipped with your Ring of Magnetism cards, you choose which monster will be attacked.",
+    "Goat": "●If there is a monster equipped with Ring of Magnetism on the opponent’s side of the field, if your monsters are going to attack they must attack the equipped monster. Even Toon Monsters, Inaba White Rabbit, and monsters like Jinzo #7 and Queen’s Double that can normally Attack Directly must attack the equipped monster.\n●If you have two or more monsters on your side of the field equipped with your Ring of Magnetism cards, you choose which monster will be attacked.\n●Q: If my monster equipped with “Ring of Magnetism” is forced to the opponent’s side of the field, through “Creature Swap” or “Snatch Steal”, do I have to attack that monster? \nA: You would have to attack that Monster. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If there is a monster equipped with 'Ring of Magnetism' on the opponent’s side of the field, if your monsters are going to attack they must attack the equipped monster.Even Toon Monsters, 'Inaba White Rabbit', and monsters like 'Jinzo #7' and 'Queen’s Double' that can normally Attack Directly must attack the equipped monster.\n● If you have two or more monsters on your side of the field equipped with your 'Ring of Magnetism' cards, you choose which monster will be attacked.",
+    "TeleDAD": "● If there is a monster equipped with 'Ring of Magnetism' on the opponent’s side of the field, if your monsters are going to attack they must attack the equipped monster.Even Toon Monsters, 'Inaba White Rabbit', and monsters like 'Jinzo #7' and 'Queen’s Double' that can normally Attack Directly must attack the equipped monster.\n● If you have two or more monsters on your side of the field equipped with your 'Ring of Magnetism' cards, you choose which monster will be attacked.",
+    "Gladiator": "● If there is a monster equipped with 'Ring of Magnetism' on the opponent’s side of the field, if your monsters are going to attack they must attack the equipped monster.Even Toon Monsters, 'Inaba White Rabbit', and monsters like 'Jinzo #7' and 'Queen’s Double' that can normally Attack Directly must attack the equipped monster.\n● If you have two or more monsters on your side of the field equipped with your 'Ring of Magnetism' cards, you choose which monster will be attacked.",
+    "ReturnDAD": "● If there is a monster equipped with 'Ring of Magnetism' on the opponent’s side of the field, if your monsters are going to attack they must attack the equipped monster.Even Toon Monsters, 'Inaba White Rabbit', and monsters like 'Jinzo #7' and 'Queen’s Double' that can normally Attack Directly must attack the equipped monster.\n● If you have two or more monsters on your side of the field equipped with your 'Ring of Magnetism' cards, you choose which monster will be attacked.",
+    "Trooper": "● If there is a monster equipped with 'Ring of Magnetism' on the opponent’s side of the field, if your monsters are going to attack they must attack the equipped monster.Even Toon Monsters, 'Inaba White Rabbit', and monsters like 'Jinzo #7' and 'Queen’s Double' that can normally Attack Directly must attack the equipped monster.\n● If you have two or more monsters on your side of the field equipped with your 'Ring of Magnetism' cards, you choose which monster will be attacked.",
+    "Circle": "● If there is a monster equipped with 'Ring of Magnetism' on the opponent’s side of the field, if your monsters are going to attack they must attack the equipped monster.Even Toon Monsters, 'Inaba White Rabbit', and monsters like 'Jinzo #7' and 'Queen’s Double' that can normally Attack Directly must attack the equipped monster.\n● If you have two or more monsters on your side of the field equipped with your 'Ring of Magnetism' cards, you choose which monster will be attacked.",
+    "Stein": "● If there is a monster equipped with 'Ring of Magnetism' on the opponent’s side of the field, if your monsters are going to attack they must attack the equipped monster.Even Toon Monsters, 'Inaba White Rabbit', and monsters like 'Jinzo #7' and 'Queen’s Double' that can normally Attack Directly must attack the equipped monster.\n● If you have two or more monsters on your side of the field equipped with your 'Ring of Magnetism' cards, you choose which monster will be attacked.",
+    "Base": "1. If there is a monster equipped with \"Ring of Magnetism\" on the opponent's side of the field, if your monsters are going to attack they must attack the equipped monster. Even Toon Monsters, \"Inaba White Rabbit\", and monsters like \"Jinzo #7\" and \"Queen's Double\" that can normally Attack Directly must attack the equipped monster.\\n2. If you have two or more monsters on your side of the field equipped with your \"Ring of Magnetism\" cards, you choose which monster will be attacked."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

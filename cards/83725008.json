@@ -1,0 +1,44 @@
+{
+  "id": 83725008,
+  "name": "Jenis, Lightsworn Mender",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 2100,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Jenis, Lightsworn Mender's' effect only activates once during the End Phase, even if cards were sent from your Deck to the GY by the effects of multiple 'Lightsworn' monsters.\n● If 'Jenis, Lightsworn Mender' is Summoned after card(s) are sent from your Deck to the GY by the effect of a 'Lightsworn' Monster, 'Jenis, Lightsworn Mender's' effect still activates in the End Phase.\n● The damage and Life Point gain with 'Jenis, Lightsworn Mender' happen at the same time, so it is possible to start a new Chain with 'Numinous Healer' or 'Attack and Receive', etc.",
+    "TeleDAD": "● 'Jenis, Lightsworn Mender's' effect only activates once during the End Phase, even if cards were sent from your Deck to the GY by the effects of multiple 'Lightsworn' monsters.\n● If 'Jenis, Lightsworn Mender' is Summoned after card(s) are sent from your Deck to the GY by the effect of a 'Lightsworn' Monster, 'Jenis, Lightsworn Mender's' effect still activates in the End Phase.\n● The damage and Life Point gain with 'Jenis, Lightsworn Mender' happen at the same time, so it is possible to start a new Chain with 'Numinous Healer' or 'Attack and Receive', etc.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Jenis, Lightsworn Mender\" only activates once during the End Phase, even if cards were sent from your Deck to the GY by the effects of multiple 'Lightsworn' monsters.\\n2. If \"Jenis, Lightsworn Mender\" is Summoned after card(s) are sent from your Deck to the GY by the effect of a 'Lightsworn' Monster, the effect of \"Jenis, Lightsworn Mender\" still activates in the End Phase.\\n3. The damage and Life Point gain with \"Jenis, Lightsworn Mender\" happen at the same time, so it is possible to start a new Chain with \"Numinous Healer\" or \"Attack and Receive\", etc."
+  },
+  "PSCT": {
+    "Tengu": "① During the End Phase, if a card(s) was sent from your Deck a GY by the effect of a \"Lightsworn\" card this turn: Your opponent takes 500 damage, and if they do, you gain 500 LP.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

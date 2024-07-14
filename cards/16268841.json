@@ -1,0 +1,44 @@
+{
+  "id": 16268841,
+  "name": "Zolga",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 1200,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●When your opponent Tribute Summons with your Zolga using Soul Exchange, the controller of Zolga increases his Life Points.\n●When your opponent takes your Zolga with Change of Heart and Tribute Summons with it, your opponent (the controller of Zolga when it was Tributed) increases his Life Points.\n●When a Tribute Summon using Zolga is negated by Solemn Judgment, you don't increase your Life Points.\n●The effect of Zolga can be chained to, and is Step 1 of a chain after a successful Summon. Effects like Trap Hole would be Step 2.\n●When you Tribute Summon with 2 Zolgas, both Zolgas effects are activated.",
+    "Goat": "●When your opponent Tribute Summons with your Zolga using Soul Exchange, the controller of Zolga increases his LP.\n●When your opponent takes your Zolga with Change of Heart and Tribute Summons with it, your opponent (the controller of Zolga when it was Tributed) increases his LP.\n●When a Tribute Summon using Zolga is negated by Solemn Judgment, you don't increase your LP.\n●The effect of Zolga can be chained to, and is Step 1 of a chain after a successful Summon. Effects like Trap Hole would be Step 2.\n●When you Tribute Summon with 2 Zolgas, both Zolgas effects are activated. \n●Q: Does “Zolga’s” LP increase effect also apply to Ritual Tribute requirements? \nA: Nope. “Zolga”’s effect only applies to a Tribute Summon or Set. A Ritual Summon, although requiring Tributes, only counts as a Ritual Summon/Special Summon. \n●Q: When does “Zolga’s” effect activate? Can you chain to it? \nA: The effect of Zolga activates after the Tribute Summoned monster has been successfully Tribute Summoned. (Not negated by Horn of Heaven or Solemn Judgement.) You can chain to the effect of Zolga, but if Jinzo is the monster that was Tribute Summoned you would not be able to activate any Traps.   \n●Q: When is “Zolga’s” effect activated and will it be negated by “Skill Drain”? \nA: After the monster is offered for the Tribute Summon. Skill Drain will not be able to negate this. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When your opponent Tribute Summons with your 'Zolga' using 'Soul Exchange', the controller of 'Zolga' increases his LP.\n● When your opponent takes your 'Zolga' with 'Change of Heart' and Tribute Summons with it, your opponent (the controller of 'Zolga' when it was Tributed) increases his LP.\n● When a Tribute Summon using 'Zolga' is negated by 'Solemn Judgment', you don't increase your LP.\n● The effect of 'Zolga' can be chained to, and is Step 1 of a chain after a successful Summon. Effects like 'Trap Hole' would be Step 2.\n● When you Tribute Summon with 2 'Zolgas', both 'Zolgas' effects are activated.",
+    "TeleDAD": "● When your opponent Tribute Summons with your 'Zolga' using 'Soul Exchange', the controller of 'Zolga' increases his LP.\n● When your opponent takes your 'Zolga' with 'Change of Heart' and Tribute Summons with it, your opponent (the controller of 'Zolga' when it was Tributed) increases his LP.\n● When a Tribute Summon using 'Zolga' is negated by 'Solemn Judgment', you don't increase your LP.\n● The effect of 'Zolga' can be chained to, and is Step 1 of a chain after a successful Summon. Effects like 'Trap Hole' would be Step 2.\n● When you Tribute Summon with 2 'Zolgas', both 'Zolgas' effects are activated.",
+    "Gladiator": "● When your opponent Tribute Summons with your 'Zolga' using 'Soul Exchange', the controller of 'Zolga' increases his LP.\n● When your opponent takes your 'Zolga' with 'Change of Heart' and Tribute Summons with it, your opponent (the controller of 'Zolga' when it was Tributed) increases his LP.\n● When a Tribute Summon using 'Zolga' is negated by 'Solemn Judgment', you don't increase your LP.\n● The effect of 'Zolga' can be chained to, and is Step 1 of a chain after a successful Summon. Effects like 'Trap Hole' would be Step 2.\n● When you Tribute Summon with 2 'Zolgas', both 'Zolgas' effects are activated.",
+    "ReturnDAD": "● When your opponent Tribute Summons with your 'Zolga' using 'Soul Exchange', the controller of 'Zolga' increases his LP.\n● When your opponent takes your 'Zolga' with 'Change of Heart' and Tribute Summons with it, your opponent (the controller of 'Zolga' when it was Tributed) increases his LP.\n● When a Tribute Summon using 'Zolga' is negated by 'Solemn Judgment', you don't increase your LP.\n● The effect of 'Zolga' can be chained to, and is Step 1 of a chain after a successful Summon. Effects like 'Trap Hole' would be Step 2.\n● When you Tribute Summon with 2 'Zolgas', both 'Zolgas' effects are activated.",
+    "Trooper": "● When your opponent Tribute Summons with your 'Zolga' using 'Soul Exchange', the controller of 'Zolga' increases his LP.\n● When your opponent takes your 'Zolga' with 'Change of Heart' and Tribute Summons with it, your opponent (the controller of 'Zolga' when it was Tributed) increases his LP.\n● When a Tribute Summon using 'Zolga' is negated by 'Solemn Judgment', you don't increase your LP.\n● The effect of 'Zolga' can be chained to, and is Step 1 of a chain after a successful Summon. Effects like 'Trap Hole' would be Step 2.\n● When you Tribute Summon with 2 'Zolgas', both 'Zolgas' effects are activated.",
+    "Circle": "● When your opponent Tribute Summons with your 'Zolga' using 'Soul Exchange', the controller of 'Zolga' increases his LP.\n● When your opponent takes your 'Zolga' with 'Change of Heart' and Tribute Summons with it, your opponent (the controller of 'Zolga' when it was Tributed) increases his LP.\n● When a Tribute Summon using 'Zolga' is negated by 'Solemn Judgment', you don't increase your LP.\n● The effect of 'Zolga' can be chained to, and is Step 1 of a chain after a successful Summon. Effects like 'Trap Hole' would be Step 2.\n● When you Tribute Summon with 2 'Zolgas', both 'Zolgas' effects are activated.",
+    "Stein": "● When your opponent Tribute Summons with your 'Zolga' using 'Soul Exchange', the controller of 'Zolga' increases his LP.\n● When your opponent takes your 'Zolga' with 'Change of Heart' and Tribute Summons with it, your opponent (the controller of 'Zolga' when it was Tributed) increases his LP.\n● When a Tribute Summon using 'Zolga' is negated by 'Solemn Judgment', you don't increase your LP.\n● The effect of 'Zolga' can be chained to, and is Step 1 of a chain after a successful Summon. Effects like 'Trap Hole' would be Step 2.\n● When you Tribute Summon with 2 'Zolgas', both 'Zolgas' effects are activated.",
+    "Base": "1. When your opponent Tribute Summons with your \"Zolga\" using \"Soul Exchange\", the controller of \"Zolga\" increases his Life Points.\\n2. When your opponent takes your \"Zolga\" with \"Change of Heart\" and Tribute Summons with it, your opponent (the controller of \"Zolga\" when it was Tributed) increases his Life Points.\\n3. When a Tribute Summon using \"Zolga\" is negated by \"Solemn Judgment\", you don't increase your Life Points.\\n4. The effect of \"Zolga\" can be chained to, and is Step 1 of a chain after a successful Summon. Effects like \"Trap Hole\" would be Step 2.\\n5. When you Tribute Summon with 2 copies of \"Zolga\", the effects of both copies of \"Zolga\" are activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

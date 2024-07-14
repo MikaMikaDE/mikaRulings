@@ -1,0 +1,40 @@
+{
+  "id": 313513,
+  "name": "Spell Gear",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●'Ancient Gear' cards means any card you control that has Ancient Gear in its card name.\n●You cannot activate Spell Gear if you do not have any Ancient Gear Golem remaining in your Deck.\n●If an effect is chained that prevents you from Special Summoning Ancient Gear Golem, you still cannot Normal Summon or Set until the end of your next turn.\n●The effect that prohibits Normal Summons or Sets until the end of your next turn is not a restriction on this card’s activation. So you can activate this card if you Normal Summoned earlier in the turn. But you cannot Normal Summon or Set after it is activated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● ''Ancient Gear' cards' means any card you control that has 'Ancient Gear' in its card name.\n● You can't activate 'Spell Gear' if you do not have any 'Ancient Gear Golem' remaining in your Deck.\n● If an effect is chained that prevents you from Special Summoning 'Ancient Gear Golem', you still can't Normal Summon or Set until the end of your next turn.\n● The effect that prohibits Normal Summons or Sets until the end of your next turn isn't a restriction on this card’s activation. So you can activate this card if you Normal Summoned earlier in the turn. But you can't Normal Summon or Set after it is activated.",
+    "TeleDAD": "● ''Ancient Gear' cards' means any card you control that has 'Ancient Gear' in its card name.\n● You can't activate 'Spell Gear' if you do not have any 'Ancient Gear Golem' remaining in your Deck.\n● If an effect is chained that prevents you from Special Summoning 'Ancient Gear Golem', you still can't Normal Summon or Set until the end of your next turn.\n● The effect that prohibits Normal Summons or Sets until the end of your next turn isn't a restriction on this card’s activation. So you can activate this card if you Normal Summoned earlier in the turn. But you can't Normal Summon or Set after it is activated.",
+    "Gladiator": "● ''Ancient Gear' cards' means any card you control that has 'Ancient Gear' in its card name.\n● You can't activate 'Spell Gear' if you do not have any 'Ancient Gear Golem' remaining in your Deck.\n● If an effect is chained that prevents you from Special Summoning 'Ancient Gear Golem', you still can't Normal Summon or Set until the end of your next turn.\n● The effect that prohibits Normal Summons or Sets until the end of your next turn isn't a restriction on this card’s activation. So you can activate this card if you Normal Summoned earlier in the turn. But you can't Normal Summon or Set after it is activated.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. 'Ancient Gear' cards means any card you control that has 'Ancient Gear' in its card name.\\n2. You cannot activate \"Spell Gear\" if you do not have any \"Ancient Gear Golem\" remaining in your Deck.\\n3. If an effect is chained that prevents you from Special Summoning \"Ancient Gear Golem\", you still cannot Normal Summon or Set until the end of your next turn.\\n4. The effect that prohibits Normal Summons or Sets until the end of your next turn is not a restriction on this card's activation. So you can activate this card if you Normal Summoned earlier in the turn. But you cannot Normal Summon or Set after it is activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 25862681,
+  "name": "Ancient Fairy Dragon",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2100,
+    "def": 3000,
+    "level": 7,
+    "race": "Dragon",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "And if you do\" effects are simultaneous. \"Then\" effects are sequential.\nSimultaneous effects do not cause cards to miss their timing.\nSequential effects can cause cards to miss their timing.\n● If \"Geartown\" is destroyed, and no Field Spell is searched, you CAN activate Geartown's effect.\n● If \"Geartown\" is destroyed, and a Field Spell is searched, you CAN'T activate Geartown's effect.\nYou can read more about Timing here:\nhttps://edisonformat.net/rules/compendium/missing-the-timing",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect to destroy a Field Spell Card does not target.\\n2. If you activate the effect of \"Ancient Fairy Dragon\" to destroy a Field Spell Card, you must both destroy a Field Spell Card and gain 1000 Life Points in order to add a Field Spell Card to your hand.\\n3. The effect of \"Ancient Fairy Dragon\" can destroy Set Field Spell Cards.\\n4. If there are 2 Field Spell Cards on the field the effect of \"Ancient Fairy Dragon\" will destroy both of them."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1+ non-Tuner monsters\n① Once per turn: You can Special Summon 1 Level 4 or lower monster from your hand \n(You can't conduct your Battle Phase the turn you activate this effect). \n② Once per turn: You can destroy a card in the Field Spell Card Zone, and if you do, gain 1000 LP, \nthen you can add 1 Field Spell from your Deck to your hand.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

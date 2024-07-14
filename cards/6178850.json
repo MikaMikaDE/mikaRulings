@@ -1,0 +1,40 @@
+{
+  "id": 6178850,
+  "name": "Fighting Spirit",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●Destroying Fighting Spirit when the equipped monster would be destroyed does not use the Chain.\n●Fighting Spirit is destroyed when the equipped monster would be sent to the GY by battle. If this effect is used, Fighting Spirit will not be on the field at the end of the Damage Step and could not be targeted by effects that activate at the end of the Damage Step.\n●If a Hyper Hammerhead destroyed by battle is equipped with Fighting Spirit and it is destroyed instead, Hyper Hammerhead remains on the field and its effect activates.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Destroying 'Fighting Spirit' when the equipped monster would be destroyed does not use the Chain.\n● 'Fighting Spirit' is destroyed when the equipped monster would be sent to the GY by battle. If this effect is used, 'Fighting Spirit' will not be on the field at the end of the Damage Step and could not be targeted by effects that activate at the end of the Damage Step.\n● If a 'Hyper Hammerhead' destroyed by battle is equipped with 'Fighting Spirit' and it is destroyed instead, 'Hyper Hammerhead' remains on the field and its effect activates.",
+    "TeleDAD": "● Destroying 'Fighting Spirit' when the equipped monster would be destroyed does not use the Chain.\n● 'Fighting Spirit' is destroyed when the equipped monster would be sent to the GY by battle. If this effect is used, 'Fighting Spirit' will not be on the field at the end of the Damage Step and could not be targeted by effects that activate at the end of the Damage Step.\n● If a 'Hyper Hammerhead' destroyed by battle is equipped with 'Fighting Spirit' and it is destroyed instead, 'Hyper Hammerhead' remains on the field and its effect activates.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Destroying \"Fighting Spirit\" when the equipped monster would be destroyed does not use the Chain.\\n2. \"Fighting Spirit\" is destroyed when the equipped monster would be sent to the GY by battle. If this effect is used, \"Fighting Spirit\" will not be on the field at the end of the Damage Step and could not be targeted by effects that activate at the end of the Damage Step.\\n3. If a \"Hyper Hammerhead\" destroyed by battle is equipped with \"Fighting Spirit\" and it is destroyed instead, \"Hyper Hammerhead\" remains on the field and its effect activates."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

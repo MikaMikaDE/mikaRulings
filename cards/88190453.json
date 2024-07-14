@@ -1,0 +1,44 @@
+{
+  "id": 88190453,
+  "name": "Chain Thrasher",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 600,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●When this card makes an additional attack, the opponent can activate “Disappear” to remove the other “Chain Thrasher” from the GY, and the attack stops. Do not proceed to the Damage Step.\n●If you have 1 “Chain Thrasher” in the GY and 1 on the field equipped with “Twin Swords of Flashing Light – Tryce”, its still only gets 2 attacks.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When this card makes an additional attack, the opponent can activate “Disappear” to remove the other “Chain Thrasher” from the GY, and the attack stops. Do not proceed to the Damage Step.\n● If you have 1 “Chain Thrasher” in the GY and 1 on the field equipped with “Twin Swords of Flashing Light – Tryce”, its still only gets 2 attacks.",
+    "TeleDAD": "● When this card makes an additional attack, the opponent can activate “Disappear” to remove the other “Chain Thrasher” from the GY, and the attack stops. Do not proceed to the Damage Step.\n● If you have 1 “Chain Thrasher” in the GY and 1 on the field equipped with “Twin Swords of Flashing Light – Tryce”, its still only gets 2 attacks.",
+    "Gladiator": "● When this card makes an additional attack, the opponent can activate “Disappear” to remove the other “Chain Thrasher” from the GY, and the attack stops. Do not proceed to the Damage Step.\n● If you have 1 “Chain Thrasher” in the GY and 1 on the field equipped with “Twin Swords of Flashing Light – Tryce”, its still only gets 2 attacks.",
+    "ReturnDAD": "● When this card makes an additional attack, the opponent can activate “Disappear” to remove the other “Chain Thrasher” from the GY, and the attack stops. Do not proceed to the Damage Step.\n● If you have 1 “Chain Thrasher” in the GY and 1 on the field equipped with “Twin Swords of Flashing Light – Tryce”, its still only gets 2 attacks.",
+    "Trooper": "● When this card makes an additional attack, the opponent can activate “Disappear” to remove the other “Chain Thrasher” from the GY, and the attack stops. Do not proceed to the Damage Step.\n● If you have 1 “Chain Thrasher” in the GY and 1 on the field equipped with “Twin Swords of Flashing Light – Tryce”, its still only gets 2 attacks.",
+    "Circle": "● When this card makes an additional attack, the opponent can activate “Disappear” to remove the other “Chain Thrasher” from the GY, and the attack stops. Do not proceed to the Damage Step.\n● If you have 1 “Chain Thrasher” in the GY and 1 on the field equipped with “Twin Swords of Flashing Light – Tryce”, its still only gets 2 attacks.",
+    "Stein": "● When this card makes an additional attack, the opponent can activate “Disappear” to remove the other “Chain Thrasher” from the GY, and the attack stops. Do not proceed to the Damage Step.\n● If you have 1 “Chain Thrasher” in the GY and 1 on the field equipped with “Twin Swords of Flashing Light – Tryce”, its still only gets 2 attacks.",
+    "Base": "1. When this card makes an additional attack, the opponent can activate \"Disappear\" to remove the other \"Chain Thrasher\" from the GY, and the attack stops. Do not proceed to the Damage Step.\\n2. If you have 1 \"Chain Thrasher\" in the GY and 1 on the field equipped with \"Twin Swords of Flashing Light - Tryce\", its still only gets 2 attacks."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

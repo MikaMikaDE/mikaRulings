@@ -1,0 +1,40 @@
+{
+  "id": 2926176,
+  "name": "Curse of Royal",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can only activate Curse of Royal as a chain to a Spell or Trap Card that would destroy 1 (and ONLY 1) Spell or Trap Card.\n●You can use Curse of Royal against cards like Magic Jammer, Seven Tools of the Bandit, Solemn Judgment, Curse of Royal, Mystical Space Typhoon, Dust Tornado, Magic Drain, Riryoku Field, Judgment of Anubis, etc.\n●You cannot use Curse of Royal against Heavy Storm or Harpie’s Feather Duster.",
+    "Goat": "●You can only activate Curse of Royal as a chain to a Spell/Trap Card that would destroy 1 (and ONLY 1) Spell/Trap Card.\n●You can use Curse of Royal against cards like Magic Jammer, Seven Tools of the Bandit, Solemn Judgment, Curse of Royal, Mystical Space Typhoon, Dust Tornado, Magic Drain, Riryoku Field, Judgment of Anubis, etc.\n●You cannot use Curse of Royal against Heavy Storm or Harpie’s Feather Duster.\n●You can activate Curse of Royal as a chain to a Spell/Trap Card that would destroy 1 (and ONLY 1) Spell/Trap Card. \n●You can use Curse of Royal against Magic Jammer, Seven Tools of the Bandit, Solemn Judgment, Curse of Royal, Mystical Space Typhoon, Dust Tornado, Magic Drain, Riryoku Field, etc. \n●You cannot use Curse of Royal against Heavy Storm or Harpie's Feather Duster. \n●Curse of Royal can only be used against S/T Cards.\n●Q: Can you flip “Curse of Royal” to negate and destroy “Raigeki” if one of your monsters has an equip card attached that would be destroyed once the monster is destroyed? \nA:  No, because “Raigeki” does not specifically destroy one Spell/Trap card in your Spell/Trap card zone. You can use it against Spell/Trap cards like “Magic Jammer,” “Seven Tools of the Bandit,” “Solemn Judgment,” “Curse of Royal,” “Mystical Space Typhoon,” “Dust Tornado,” “Magic Drain,” and “Riryoku Field.” [It cannot be used against monster's effects] \n●Q: Player A attacks with a 4 star monster. Player B flips “Gravity Bind” Player A activates a set “Raigeki Break,” discards a card, and declares “Gravity Bind” as the target. Player B chains with “Curse of Royal” because “Raigeki Break” designated a Spell/Trap as the card to be destroyed. Can this be done? Is “Raigeki Break” a valid card for “Curse of Royal's” criteria? Nowhere does the text on “Raigeki Break”state it should specifically destroy 1 S/T, but it's very possible that the end result would be 1 S/T destroyed. \nA: If “Raigeki Break” targets a Spell/Trap card then “Curse of Royal” may be activated in response to negate its activation and destroy it. “Raigeki Break” does target one specific card. Since that card was a Trap Card, “Curse of Royal” was able to stop it.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can only activate 'Curse of Royal' as a chain to a Spell/Trap Card that would destroy 1 (and ONLY 1) Spell/Trap Card.\n● You can use Curse of Royal against cards like 'Magic Jammer', 'Seven Tools of the Bandit', 'Solemn Judgment', 'Curse of Royal', 'Mystical Space Typhoon', 'Dust Tornado', 'Magic Drain', 'Riryoku Field', 'Judgment of Anubis', etc.\n● You can't use 'Curse of Royal' against 'Heavy Storm' or 'Harpie’s Feather Duster'.",
+    "TeleDAD": "● You can only activate 'Curse of Royal' as a chain to a Spell/Trap Card that would destroy 1 (and ONLY 1) Spell/Trap Card.\n● You can use Curse of Royal against cards like 'Magic Jammer', 'Seven Tools of the Bandit', 'Solemn Judgment', 'Curse of Royal', 'Mystical Space Typhoon', 'Dust Tornado', 'Magic Drain', 'Riryoku Field', 'Judgment of Anubis', etc.\n● You can't use 'Curse of Royal' against 'Heavy Storm' or 'Harpie’s Feather Duster'.",
+    "Gladiator": "● You can only activate 'Curse of Royal' as a chain to a Spell/Trap Card that would destroy 1 (and ONLY 1) Spell/Trap Card.\n● You can use Curse of Royal against cards like 'Magic Jammer', 'Seven Tools of the Bandit', 'Solemn Judgment', 'Curse of Royal', 'Mystical Space Typhoon', 'Dust Tornado', 'Magic Drain', 'Riryoku Field', 'Judgment of Anubis', etc.\n● You can't use 'Curse of Royal' against 'Heavy Storm' or 'Harpie’s Feather Duster'.",
+    "ReturnDAD": "● You can only activate 'Curse of Royal' as a chain to a Spell/Trap Card that would destroy 1 (and ONLY 1) Spell/Trap Card.\n● You can use Curse of Royal against cards like 'Magic Jammer', 'Seven Tools of the Bandit', 'Solemn Judgment', 'Curse of Royal', 'Mystical Space Typhoon', 'Dust Tornado', 'Magic Drain', 'Riryoku Field', 'Judgment of Anubis', etc.\n● You can't use 'Curse of Royal' against 'Heavy Storm' or 'Harpie’s Feather Duster'.",
+    "Trooper": "● You can only activate 'Curse of Royal' as a chain to a Spell/Trap Card that would destroy 1 (and ONLY 1) Spell/Trap Card.\n● You can use Curse of Royal against cards like 'Magic Jammer', 'Seven Tools of the Bandit', 'Solemn Judgment', 'Curse of Royal', 'Mystical Space Typhoon', 'Dust Tornado', 'Magic Drain', 'Riryoku Field', 'Judgment of Anubis', etc.\n● You can't use 'Curse of Royal' against 'Heavy Storm' or 'Harpie’s Feather Duster'.",
+    "Circle": "● You can only activate 'Curse of Royal' as a chain to a Spell/Trap Card that would destroy 1 (and ONLY 1) Spell/Trap Card.\n● You can use Curse of Royal against cards like 'Magic Jammer', 'Seven Tools of the Bandit', 'Solemn Judgment', 'Curse of Royal', 'Mystical Space Typhoon', 'Dust Tornado', 'Magic Drain', 'Riryoku Field', 'Judgment of Anubis', etc.\n● You can't use 'Curse of Royal' against 'Heavy Storm' or 'Harpie’s Feather Duster'.",
+    "Stein": "● You can only activate 'Curse of Royal' as a chain to a Spell/Trap Card that would destroy 1 (and ONLY 1) Spell/Trap Card.\n● You can use Curse of Royal against cards like 'Magic Jammer', 'Seven Tools of the Bandit', 'Solemn Judgment', 'Curse of Royal', 'Mystical Space Typhoon', 'Dust Tornado', 'Magic Drain', 'Riryoku Field', 'Judgment of Anubis', etc.\n● You can't use 'Curse of Royal' against 'Heavy Storm' or 'Harpie’s Feather Duster'.",
+    "Base": "1. You can only activate \"Curse of Royal\" as a chain to a Spell or Trap Card that would destroy 1 (and ONLY 1) Spell or Trap Card.\\n2. You can use \"Curse of Royal\" against cards like \"Magic Jammer\", \"Seven Tools of the Bandit\", \"Solemn Judgment\", \"Curse of Royal\", \"Mystical Space Typhoon\", \"Dust Tornado\", \"Magic Drain\", \"Riryoku Field\", \"Judgment of Anubis\", etc.\\n3. You cannot use \"Curse of Royal\" against \"Heavy Storm\" or \"Harpie's Feather Duster\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

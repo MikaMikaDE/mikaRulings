@@ -1,0 +1,40 @@
+{
+  "id": 54109233,
+  "name": "Infinite Dismissal",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Level 3 or lower Monster Cards Normal Summoned or Flip Summoned before Infinite Dismissal is activated are destroyed if they were Normal Summoned or Flip Summoned during the same turn Infinite Dismissal is activated.",
+    "Goat": "● If “Infinite Dismissal” is applying on the field and I Flip Summon “Swarm of Scarabs” in MP 1 and then I use it's effect to flip it back face-down in MP 2, will it be destroyed in the End Phase? \nA: No. It resets when it flips back down.  02/02/04 \n●Q: “Infinite Dismissal” states that all monsters summoned that are level 3 or below are destroyed at the End Phase of the turn.. would this have priority over a summoned “Yata-Garasu,” or would “Yata-Garasu” return to your hand before “Infinite Dismissal” could destroy it? \nA: The Turn Player will decide which effect is resolved first. They will most likely choose to return their “Yata-Garasu first.”  ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● LV 3 or lower Monster Cards Normal Summoned or Flip Summoned before 'Infinite Dismissal' is activated are destroyed if they were Normal Summoned or Flip Summoned during the same turn 'Infinite Dismissal' is activated.",
+    "TeleDAD": "● LV 3 or lower Monster Cards Normal Summoned or Flip Summoned before 'Infinite Dismissal' is activated are destroyed if they were Normal Summoned or Flip Summoned during the same turn 'Infinite Dismissal' is activated.",
+    "Gladiator": "● LV 3 or lower Monster Cards Normal Summoned or Flip Summoned before 'Infinite Dismissal' is activated are destroyed if they were Normal Summoned or Flip Summoned during the same turn 'Infinite Dismissal' is activated.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Level 3 or lower Monster Cards Normal Summoned or Flip Summoned before \"Infinite Dismissal\" is activated are destroyed if they were Normal Summoned or Flip Summoned during the same turn \"Infinite Dismissal\" is activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

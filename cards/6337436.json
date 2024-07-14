@@ -1,0 +1,44 @@
+{
+  "id": 6337436,
+  "name": "Rapid-Fire Magician",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card’s effect is a Continuous Effect that cannot be chained to.\n●The 400 points of damage is inflicted after the effect of the Normal Spell Card is resolved. So if the opponent had 300 Life Points, and you activated “Rain of Mercy” while you had “Rapid-Fire Magician” face-up on the field, the opponent would gain 1000 Life Points, and then take the 400 points of damage, leaving them at 900 Life Points.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s effect is a Continuous Effect that can't be chained to.\n● The 400 damage is inflicted after the effect of the Normal Spell Card is resolved. So if the opponent had 300 LP, and you activated “Rain of Mercy” while you had “Rapid-Fire Magician” applying, the opponent would gain 1000 LP, and then take the 400 damage, leaving them at 900 LP.",
+    "TeleDAD": "● This card’s effect is a Continuous Effect that can't be chained to.\n● The 400 damage is inflicted after the effect of the Normal Spell Card is resolved. So if the opponent had 300 LP, and you activated “Rain of Mercy” while you had “Rapid-Fire Magician” applying, the opponent would gain 1000 LP, and then take the 400 damage, leaving them at 900 LP.",
+    "Gladiator": "● This card’s effect is a Continuous Effect that can't be chained to.\n● The 400 damage is inflicted after the effect of the Normal Spell Card is resolved. So if the opponent had 300 LP, and you activated “Rain of Mercy” while you had “Rapid-Fire Magician” applying, the opponent would gain 1000 LP, and then take the 400 damage, leaving them at 900 LP.",
+    "ReturnDAD": "● This card’s effect is a Continuous Effect that can't be chained to.\n● The 400 damage is inflicted after the effect of the Normal Spell Card is resolved. So if the opponent had 300 LP, and you activated “Rain of Mercy” while you had “Rapid-Fire Magician” applying, the opponent would gain 1000 LP, and then take the 400 damage, leaving them at 900 LP.",
+    "Trooper": "● This card’s effect is a Continuous Effect that can't be chained to.\n● The 400 damage is inflicted after the effect of the Normal Spell Card is resolved. So if the opponent had 300 LP, and you activated “Rain of Mercy” while you had “Rapid-Fire Magician” applying, the opponent would gain 1000 LP, and then take the 400 damage, leaving them at 900 LP.",
+    "Circle": "● This card’s effect is a Continuous Effect that can't be chained to.\n● The 400 damage is inflicted after the effect of the Normal Spell Card is resolved. So if the opponent had 300 LP, and you activated “Rain of Mercy” while you had “Rapid-Fire Magician” applying, the opponent would gain 1000 LP, and then take the 400 damage, leaving them at 900 LP.",
+    "Stein": "● This card’s effect is a Continuous Effect that can't be chained to.\n● The 400 damage is inflicted after the effect of the Normal Spell Card is resolved. So if the opponent had 300 LP, and you activated “Rain of Mercy” while you had “Rapid-Fire Magician” applying, the opponent would gain 1000 LP, and then take the 400 damage, leaving them at 900 LP.",
+    "Base": "1. This card's effect is a Continuous Effect that cannot be chained to.\\n2. The 400 points of damage is inflicted after the effect of the Normal Spell Card is resolved. So if the opponent had 300 Life Points, and you activated \"Rain of Mercy\" while you had \"Rapid-Fire Magician\" face-up on the field, the opponent would gain 1000 Life Points, and then take the 400 points of damage, leaving them at 900 Life Points."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

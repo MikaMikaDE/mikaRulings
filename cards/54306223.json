@@ -1,0 +1,40 @@
+{
+  "id": 54306223,
+  "name": "Venom Swamp",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Field"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card’s effect to place a Venom Counter on each face-up monster starts a Chain.\n●This card’s effect to destroy a monster whose ATK is reduced to 0 does not start a Chain.\n●If a monster’s original ATK is 0, or its ATK has been reduced to 0 by another card effect(s) and a Venom Counter is placed on it, it will not be destroyed by “Venom Swamp”.\n●If Venom Swamp is negated by Imperial Order, etc., Venom Counters placed by its effect remain in play.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s effect to place a Venom Counter on each face-up monster starts a Chain.\n● This card’s effect to destroy a monster whose ATK is reduced to 0 does not start a Chain.\n● If a monster’s original ATK is 0, or its ATK has been reduced to 0 by another card effect(s) and a Venom Counter is placed on it, it will not be destroyed by “Venom Swamp”.\n● If 'Venom Swamp' is negated by 'Imperial Order', etc., Venom Counters placed by its effect remain in play.",
+    "TeleDAD": "● This card’s effect to place a Venom Counter on each face-up monster starts a Chain.\n● This card’s effect to destroy a monster whose ATK is reduced to 0 does not start a Chain.\n● If a monster’s original ATK is 0, or its ATK has been reduced to 0 by another card effect(s) and a Venom Counter is placed on it, it will not be destroyed by “Venom Swamp”.\n● If 'Venom Swamp' is negated by 'Imperial Order', etc., Venom Counters placed by its effect remain in play.",
+    "Gladiator": "● This card’s effect to place a Venom Counter on each face-up monster starts a Chain.\n● This card’s effect to destroy a monster whose ATK is reduced to 0 does not start a Chain.\n● If a monster’s original ATK is 0, or its ATK has been reduced to 0 by another card effect(s) and a Venom Counter is placed on it, it will not be destroyed by “Venom Swamp”.\n● If 'Venom Swamp' is negated by 'Imperial Order', etc., Venom Counters placed by its effect remain in play.",
+    "ReturnDAD": "● This card’s effect to place a Venom Counter on each face-up monster starts a Chain.\n● This card’s effect to destroy a monster whose ATK is reduced to 0 does not start a Chain.\n● If a monster’s original ATK is 0, or its ATK has been reduced to 0 by another card effect(s) and a Venom Counter is placed on it, it will not be destroyed by “Venom Swamp”.\n● If 'Venom Swamp' is negated by 'Imperial Order', etc., Venom Counters placed by its effect remain in play.",
+    "Trooper": "● This card’s effect to place a Venom Counter on each face-up monster starts a Chain.\n● This card’s effect to destroy a monster whose ATK is reduced to 0 does not start a Chain.\n● If a monster’s original ATK is 0, or its ATK has been reduced to 0 by another card effect(s) and a Venom Counter is placed on it, it will not be destroyed by “Venom Swamp”.",
+    "Circle": "● This card’s effect to place a Venom Counter on each face-up monster starts a Chain.\n● This card’s effect to destroy a monster whose ATK is reduced to 0 does not start a Chain.\n● If a monster’s original ATK is 0, or its ATK has been reduced to 0 by another card effect(s) and a Venom Counter is placed on it, it will not be destroyed by “Venom Swamp”.\n● If 'Venom Swamp' is negated by 'Imperial Order', etc., Venom Counters placed by its effect remain in play.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card's effect to place a Venom Counter on each face-up monster starts a Chain.\\n2. This card's effect to destroy a monster whose ATK is reduced to 0 does not start a Chain.\\n3. If a monster's original ATK is 0, or its ATK has been reduced to 0 by another card effect(s) and a Venom Counter is placed on it, it will not be destroyed by \"Venom Swamp\".\\n4. If \"Venom Swamp\" is negated by \"Imperial Order\", etc., Venom Counters placed by its effect remain in play."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

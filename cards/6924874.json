@@ -1,0 +1,44 @@
+{
+  "id": 6924874,
+  "name": "Harpie's Pet Baby Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 600,
+    "level": 4,
+    "race": "Dragon",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●These effects accumulate, so if you have 3 “Harpie Lady” on the field all 3 effects are applied. Only face-up Harpies count, though.\n●If you activate the 3rd effect of “Harpie’s Pet Baby Dragon” and the opponent chains an effect to destroy 1 of your other “Harpie” monsters, leaving you with only 2, the effect still resolves properly because the conditions were correct when it was activated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● These effects accumulate, so if you have 3 “Harpie Lady” on the field all 3 effects are applied. Only face-up Harpies count, though.\n● If you activate the 3rd effect of “Harpie’s Pet Baby Dragon” and the opponent chains an effect to destroy 1 of your other “Harpie” monsters, leaving you with only 2, the effect still resolves properly because the conditions were correct when it was activated.",
+    "TeleDAD": "● These effects accumulate, so if you have 3 “Harpie Lady” on the field all 3 effects are applied. Only face-up Harpies count, though.\n● If you activate the 3rd effect of “Harpie’s Pet Baby Dragon” and the opponent chains an effect to destroy 1 of your other “Harpie” monsters, leaving you with only 2, the effect still resolves properly because the conditions were correct when it was activated.",
+    "Gladiator": "● These effects accumulate, so if you have 3 “Harpie Lady” on the field all 3 effects are applied. Only face-up Harpies count, though.\n● If you activate the 3rd effect of “Harpie’s Pet Baby Dragon” and the opponent chains an effect to destroy 1 of your other “Harpie” monsters, leaving you with only 2, the effect still resolves properly because the conditions were correct when it was activated.",
+    "ReturnDAD": "● These effects accumulate, so if you have 3 “Harpie Lady” on the field all 3 effects are applied. Only face-up Harpies count, though.\n● If you activate the 3rd effect of “Harpie’s Pet Baby Dragon” and the opponent chains an effect to destroy 1 of your other “Harpie” monsters, leaving you with only 2, the effect still resolves properly because the conditions were correct when it was activated.",
+    "Trooper": "● These effects accumulate, so if you have 3 “Harpie Lady” on the field all 3 effects are applied. Only face-up Harpies count, though.\n● If you activate the 3rd effect of “Harpie’s Pet Baby Dragon” and the opponent chains an effect to destroy 1 of your other “Harpie” monsters, leaving you with only 2, the effect still resolves properly because the conditions were correct when it was activated.",
+    "Circle": "● These effects accumulate, so if you have 3 “Harpie Lady” on the field all 3 effects are applied. Only face-up Harpies count, though.\n● If you activate the 3rd effect of “Harpie’s Pet Baby Dragon” and the opponent chains an effect to destroy 1 of your other “Harpie” monsters, leaving you with only 2, the effect still resolves properly because the conditions were correct when it was activated.",
+    "Stein": "● These effects accumulate, so if you have 3 “Harpie Lady” on the field all 3 effects are applied. Only face-up Harpies count, though.\n● If you activate the 3rd effect of “Harpie’s Pet Baby Dragon” and the opponent chains an effect to destroy 1 of your other “Harpie” monsters, leaving you with only 2, the effect still resolves properly because the conditions were correct when it was activated.",
+    "Base": "1. These effects accumulate, so if you have 3 \"Harpie Lady\" on the field all 3 effects are applied. Only face-up Harpies count, though.\\n2. If you activate the 3rd effect of \"Harpie's Pet Baby Dragon\" and the opponent chains an effect to destroy 1 of your other \"Harpie\" monsters, leaving you with only 2, the effect still resolves properly because the conditions were correct when it was activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

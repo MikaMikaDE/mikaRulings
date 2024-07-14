@@ -1,0 +1,44 @@
+{
+  "id": 40348946,
+  "name": "Hyper Synchron",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 800,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●If “DNA Surgery” is making all monsters on the field into Dragons, and “Hyper Synchron” is used to Synchro Summon a monster that was not originally a Dragon, the effects of “Hyper Synchron” still activate. So the Synchro Monster gains 800 ATK and is removed during the End Phase.\n●If the Synchro Monster is flipped face-down, the effects of “Hyper Synchron” are wiped, so the Synchro Monster will not gain 800 ATK or be removed from play.\n●If the End Phase is skipped, the Synchro Monster will be removed during the next End Phase. If “Imperial Iron Wall” is active, the Synchro Monster will not be removed. However, if “Imperial Iron Wall” is destroyed, the Synchro Monster will be removed during the next End Phase.\n●If the Synchro Monster is not removed from play for some reason, it still retains the +800 ATK. The +800 ATK boost and the condition to remove the Synchro Monster from play resolve as a single Trigger Effect.\n●This is not an effect that targets. Removing the Synchro Monster from play during the End Phase does not start a chain.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"DNA Surgery\" is making all monsters on the field into Dragons, and \"Hyper Synchron\" is used to Synchro Summon a monster that was not originally a Dragon, the effects of \"Hyper Synchron\" still activate. So the Synchro Monster gains 800 ATK and is removed during the End Phase.\\n2. If the Synchro Monster is flipped face-down, the effects of \"Hyper Synchron\" are wiped, so the Synchro Monster will not gain 800 ATK or be removed from play.\\n3. If the End Phase is skipped, the Synchro Monster will be removed during the next End Phase.\\n4. If \"Imperial Iron Wall\" is active, the Synchro Monster will not be removed. However, if \"Imperial Iron Wall\" is destroyed, the Synchro Monster will be removed during the next End Phase.\\n5. If the Synchro Monster is not removed from play for some reason, it still retains the +800 ATK.\\n6. The +800 ATK boost and the condition to remove the Synchro Monster from play resolve as a single Trigger Effect. This is not an effect that targets.\\n7. Removing the Synchro Monster from play during the End Phase does not start a chain."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

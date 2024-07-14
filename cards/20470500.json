@@ -1,0 +1,44 @@
+{
+  "id": 20470500,
+  "name": "Armed Sea Hunter",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 400,
+    "level": 4,
+    "race": "Sea Serpent",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "(1) If you control another face-up WATER monster, negate the effects of the monster that battled with this card, after damage calculation. (2) If this card would be destroyed, you can destroy 1 face-up Level 3 or lower WATER monster you control instead.\n●The (1) Trigger Effect is mandatory, it activates & resolves on the field.\n●This effect activates in Substep 5 - After Damage Calculation.\n●This effect does not target.\n●This effect activates even if “Armed Sea Hunter” is destroyed by the battle.\n●This effect is continuously applied to the destroyed monster, even in the GY. If it destroys “Treeborn Frog,” its effect in the GY can be activated, but it will resolve negated.\n●The (2) Continuous Effect applies while is card is face-up on the field, it does not start a Chain.\n●You can't choose to destroy monsters that can't be destroyed (due to “Aegis of the Ocean Dragon Lord”) as substitute for this card.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect does not target.\\n2. You cannot choose to destroy monsters that cannot be destroyed due to the effect of \"Aegis of the Ocean Dragon Lord\" instead of destroying \"Armed Sea Hunter\".\\n3. The effect of \"Armed Sea Hunter\" to negate effects will still activate even if \"Armed Sea Hunter\" is destroyed by the battle.\\n4. The effect of \"Armed Sea Hunter\" to negate effects is continuously applied. If it destroys a monster like \"Treeborn Frog\", the effect of \"Treeborn Frog\" that activates in the GY will be negated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

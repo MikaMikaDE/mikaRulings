@@ -1,0 +1,44 @@
+{
+  "id": 17259470,
+  "name": "Zombie Master",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 0,
+    "level": 4,
+    "race": "Zombie",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● You can't activate this effect unless there is a level 4 or lower Zombie in either GY. \nWhen this effect resolves, you can target the discarded card if it is a level 4 or lower Zombie.\n● If that target isn't a Zombie when this effect resolves, it isn't summoned.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s effect targets 1 LV 4 or lower Zombie-Type Monster when activated.\n● If you activate “Zombie Master’s” effect, and an effect is chained that removes “Zombie Master” from the field or flips it face-down, the effect disappears and you can't Special Summon the targeted monster.\n● You can Special Summon the monster sent to the GY as a cost to activate this effect.\n● You can't activate 'Zombie Master's' effect if there are no LV 4 or lower Zombies in the GY, even if you would discard one to activate the effect.",
+    "TeleDAD": "● This card’s effect targets 1 LV 4 or lower Zombie-Type Monster when activated.\n● If you activate “Zombie Master’s” effect, and an effect is chained that removes “Zombie Master” from the field or flips it face-down, the effect disappears and you can't Special Summon the targeted monster.\n● You can Special Summon the monster sent to the GY as a cost to activate this effect.\n● You can't activate 'Zombie Master's' effect if there are no LV 4 or lower Zombies in the GY, even if you would discard one to activate the effect.",
+    "Gladiator": "● This card’s effect targets 1 LV 4 or lower Zombie-Type Monster when activated.\n● If you activate “Zombie Master’s” effect, and an effect is chained that removes “Zombie Master” from the field or flips it face-down, the effect disappears and you can't Special Summon the targeted monster.\n● You can Special Summon the monster sent to the GY as a cost to activate this effect.\n● You can't activate 'Zombie Master's' effect if there are no LV 4 or lower Zombies in the GY, even if you would discard one to activate the effect.",
+    "ReturnDAD": "● This card’s effect targets 1 LV 4 or lower Zombie-Type Monster when activated.\n● If you activate “Zombie Master’s” effect, and an effect is chained that removes “Zombie Master” from the field or flips it face-down, the effect disappears and you can't Special Summon the targeted monster.\n● You can discard and summon the same Zombie, even if there are no other cards in your GY.",
+    "Trooper": "● This card’s effect targets 1 LV 4 or lower Zombie-Type Monster when activated.\n● If you activate “Zombie Master’s” effect, and an effect is chained that removes “Zombie Master” from the field or flips it face-down, the effect disappears and you can't Special Summon the targeted monster.\n● You can discard and summon the same Zombie, even if there are no other cards in your GY.",
+    "Circle": "● This card’s effect targets 1 LV 4 or lower Zombie-Type Monster when activated.\n● If you activate “Zombie Master’s” effect, and an effect is chained that removes “Zombie Master” from the field or flips it face-down, the effect disappears and you can't Special Summon the targeted monster.\n● You can discard and summon the same Zombie, even if there are no other cards in your GY.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card's effect targets 1 Level 4 or lower Zombie-Type Monster when activated.\\n2. If you activate the effect of \"Zombie Master\", and an effect is chained that removes \"Zombie Master\" from the field or flips it face-down, the effect disappears and you cannot Special Summon the targeted monster.\\n3. You can Special Summon the monster sent to the GY as a cost to activate this effect.\\n4. You cannot activate the effect of \"Zombie Master\" if there are no Level 4 or lower Zombie-Type monsters in the GY, even if you would discard one to activate the effect."
+  },
+  "PSCT": {
+    "Tengu": "① Once per turn: You can send 1 monster from your hand to the GY, then target 1 Level 4 or lower Zombie in any GY; \nSpecial Summon that target. \n(activate and resolve only if this card is face-up on the field).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

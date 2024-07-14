@@ -1,0 +1,40 @@
+{
+  "id": 77561728,
+  "name": "Disturbance Strategy",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can chain Disturbance Strategy to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\n●You can also chain Disturbance Strategy to Polymerization and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of Polymerization disappears.",
+    "Goat": "●You can chain Disturbance Strategy to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\n●You can also chain Disturbance Strategy to Polymerization and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of Polymerization disappears.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can chain 'Disturbance Strategy' to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\n● You can also chain 'Disturbance Strategy' to 'Polymerization' and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of 'Polymerization' disappears.",
+    "TeleDAD": "● You can chain 'Disturbance Strategy' to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\n● You can also chain 'Disturbance Strategy' to 'Polymerization' and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of 'Polymerization' disappears.",
+    "Gladiator": "● You can chain 'Disturbance Strategy' to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\n● You can also chain 'Disturbance Strategy' to 'Polymerization' and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of 'Polymerization' disappears.",
+    "ReturnDAD": "● You can chain 'Disturbance Strategy' to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\n● You can also chain 'Disturbance Strategy' to 'Polymerization' and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of 'Polymerization' disappears.",
+    "Trooper": "● You can chain 'Disturbance Strategy' to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\n● You can also chain 'Disturbance Strategy' to 'Polymerization' and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of 'Polymerization' disappears.",
+    "Circle": "● You can chain 'Disturbance Strategy' to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\n● You can also chain 'Disturbance Strategy' to 'Polymerization' and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of 'Polymerization' disappears.",
+    "Stein": "● You can chain 'Disturbance Strategy' to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\n● You can also chain 'Disturbance Strategy' to 'Polymerization' and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of 'Polymerization' disappears.",
+    "Base": "1. You can chain \"Disturbance Strategy\" to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\\n2. You can also chain \"Disturbance Strategy\" to \"Polymerization\" and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of \"Polymerization\" disappears."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

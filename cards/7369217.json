@@ -1,0 +1,44 @@
+{
+  "id": 7369217,
+  "name": "Metallizing Parasite - Lunatite",
+  "Stats": {
+    "type": "Union Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 500,
+    "level": 7,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "(1) Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to a face-up monster on your side of the field as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. (2) While equipped to a monster by this card's effect, that monster will be unaffected by the effects of Spell Cards controlled by your opponent. (C) (1 monster can only be equipped with 1 Union Monster at a time. If the monster that this card is equipped to is destroyed as a result of battle, destroy this card instead.)\n●While Metallizing Parasite - Lunatite is equipped to a monster, and Final Destiny is activated, all monsters are destroyed except for the monster equipped with Metallizing Parasite - Lunatite.\n●If you equip Metallizing Parasite - Lunatite to a monster that has been affected by Limiter Removal, the monster is still destroyed during the End Phase by Limiter Removal's effect.",
+    "Goat": "●While Metallizing Parasite - Lunatite is equipped to a monster, and Final Destiny is activated, all monsters are destroyed except for the monster equipped with Metallizing Parasite - Lunatite.\n●If you equip Metallizing Parasite - Lunatite to a monster that has been affected by Limiter Removal, the monster is still destroyed during the End Phase by Limiter Removal's effect. If you equip two copies of Metalmorph to a single monster, its ATK/DEF will be increase by 600 and the second effect will add half of your attack target’s ATK to the equipped monster’s ATK twice.\n●The second effect of this card only increases the equipped monster’s ATK when it is the attacking monster (during your Battle Phase) not when it is being attacked during your opponent’s Battle Phase.\n●If Reverse Trap is activated, a monster equipped with Metalmorph will have its ATK/DEF decreased by 300 points, but the second effect of Metalmorph will be unaffected and still increase the equipped monster’s ATK by an amount equal to half of the attacked monster’s ATK.\n●Q: When is the right time to activate “Metalmorph?” \nA: You can activate this card anytime it would be legal to activate a Trap Card. You can activate this card during the Damage Step because it modifies the ATK/DEF of a monster. \n● \n●Q: Can I equip two “Metalmorphs” to the same monster? If so, is the effect cumulative? \nA: You can more then 1 “Metalmorph” to the same monster. The effects are cumulative. \n●  \n●Q: During an attack, when does the increase of ATK to the monster equipped with “Metalmorph” occur? \nA: The half attack increase to ATK occurs during the Damage Step. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● While 'Metallizing Parasite - Lunatite' is equipped to a monster, and 'Final Destiny' is activated, all monsters are destroyed except for the monster equipped with 'Metallizing Parasite - Lunatite'.\n● If you equip 'Metallizing Parasite - Lunatite' to a monster that has been affected by 'Limiter Removal', the monster is still destroyed during the End Phase by 'Limiter Removal''s effect.",
+    "TeleDAD": "● While 'Metallizing Parasite - Lunatite' is equipped to a monster, and 'Final Destiny' is activated, all monsters are destroyed except for the monster equipped with 'Metallizing Parasite - Lunatite'.\n● If you equip 'Metallizing Parasite - Lunatite' to a monster that has been affected by 'Limiter Removal', the monster is still destroyed during the End Phase by 'Limiter Removal''s effect.",
+    "Gladiator": "● While 'Metallizing Parasite - Lunatite' is equipped to a monster, and 'Final Destiny' is activated, all monsters are destroyed except for the monster equipped with 'Metallizing Parasite - Lunatite'.\n● If you equip 'Metallizing Parasite - Lunatite' to a monster that has been affected by 'Limiter Removal', the monster is still destroyed during the End Phase by 'Limiter Removal''s effect.",
+    "ReturnDAD": "● While 'Metallizing Parasite - Lunatite' is equipped to a monster, and 'Final Destiny' is activated, all monsters are destroyed except for the monster equipped with 'Metallizing Parasite - Lunatite'.\n● If you equip 'Metallizing Parasite - Lunatite' to a monster that has been affected by 'Limiter Removal', the monster is still destroyed during the End Phase by 'Limiter Removal''s effect.",
+    "Trooper": "● While 'Metallizing Parasite - Lunatite' is equipped to a monster, and 'Final Destiny' is activated, all monsters are destroyed except for the monster equipped with 'Metallizing Parasite - Lunatite'.\n● If you equip 'Metallizing Parasite - Lunatite' to a monster that has been affected by 'Limiter Removal', the monster is still destroyed during the End Phase by 'Limiter Removal''s effect.",
+    "Circle": "● While 'Metallizing Parasite - Lunatite' is equipped to a monster, and 'Final Destiny' is activated, all monsters are destroyed except for the monster equipped with 'Metallizing Parasite - Lunatite'.\n● If you equip 'Metallizing Parasite - Lunatite' to a monster that has been affected by 'Limiter Removal', the monster is still destroyed during the End Phase by 'Limiter Removal''s effect.",
+    "Stein": "● While 'Metallizing Parasite - Lunatite' is equipped to a monster, and 'Final Destiny' is activated, all monsters are destroyed except for the monster equipped with 'Metallizing Parasite - Lunatite'.\n● If you equip 'Metallizing Parasite - Lunatite' to a monster that has been affected by 'Limiter Removal', the monster is still destroyed during the End Phase by 'Limiter Removal''s effect.",
+    "Base": "1. While \"Metallizing Parasite - Lunatite\" is equipped to a monster, and \"Final Destiny\" is activated, all monsters are destroyed except for the monster equipped with \"Metallizing Parasite - Lunatite\".\\n2. If you equip \"Metallizing Parasite - Lunatite\" to a monster that has been affected by \"Limiter Removal\", the monster is still destroyed during the End Phase by the effect of \"Limiter Removal\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

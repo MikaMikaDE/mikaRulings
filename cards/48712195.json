@@ -1,0 +1,40 @@
+{
+  "id": 48712195,
+  "name": "Card Trader",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Shuffling 1 card into your Deck is a cost.\n● Using this effect starts a Chain.\n● If you have your opponent’s card in your hand and return it to their Deck to pay the cost of this effect, you still Draw as normal.\n● If your opponent controls “Protector of the Sanctuary”, you can't activate this effect. \n● ",
+    "TeleDAD": "● Shuffling 1 card into your Deck is a cost.\n● Using this effect starts a Chain.\n● If you have your opponent’s card in your hand and return it to their Deck to pay the cost of this effect, you still Draw as normal.\n● If your opponent controls “Protector of the Sanctuary”, you can't activate this effect. \n● ",
+    "Gladiator": "● Shuffling 1 card into your Deck is a cost.\n● Using this effect starts a Chain.\n● If you have your opponent’s card in your hand and return it to their Deck to pay the cost of this effect, you still Draw as normal.\n● If your opponent controls “Protector of the Sanctuary”, you can't activate this effect. \n● ",
+    "ReturnDAD": "● Shuffling 1 card into your Deck is a cost.\n● Using this effect starts a Chain.\n● If you have your opponent’s card in your hand and return it to their Deck to pay the cost of this effect, you still Draw as normal.\n● If your opponent controls “Protector of the Sanctuary”, you can't activate this effect. \n● ",
+    "Trooper": "● Shuffling 1 card into your Deck is a cost.\n● Using this effect starts a Chain.\n● If you have your opponent’s card in your hand and return it to their Deck to pay the cost of this effect, you still Draw as normal.\n● If your opponent controls “Protector of the Sanctuary”, you can't activate this effect. \n● ",
+    "Circle": "● Shuffling 1 card into your Deck is a cost.\n● Using this effect starts a Chain.\n● If you have your opponent’s card in your hand and return it to their Deck to pay the cost of this effect, you still Draw as normal.\n● If your opponent controls “Protector of the Sanctuary”, you can't activate this effect. \n● ",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Shuffling 1 card into your Deck is a cost.\\n2. Using this effect starts a Chain.\\n3. If you have your opponent's card in your hand and return it to their Deck to pay the cost of this effect, you still Draw as normal.\\n4. If your opponent controls \"Protector of the Sanctuary\", you cannot activate this effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

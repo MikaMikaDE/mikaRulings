@@ -1,0 +1,40 @@
+{
+  "id": 50323155,
+  "name": "Black Horn of Heaven",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n● \"Immediately after you do\" effects, like that of \"Formula Synchron\", as long as Formula was CL1.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “XX-Saber Boggart Knight”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n● \"Immediately after you do\" effects, like that of \"Formula Synchron\", as long as Formula was CL1.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Tin Goldfish”.",
+    "Vegas": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n● \"Immediately after you do\" effects, like that of \"Formula Synchron\", as long as Formula was CL1.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Tin Goldfish”.",
+    "Meadowlands": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n● \"Immediately after you do\" effects, like that of \"Formula Synchron\", as long as Formula was CL1.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Tin Goldfish”.",
+    "FireWater": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n● \"Immediately after you do\" effects, like that of \"Formula Synchron\", as long as Formula was CL1.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Tin Goldfish”.",
+    "Cat": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Call of the Haunted”.\n● \"Immediately after you do\" effects, even if that effect was CL1.",
+    "TeleDAD": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Call of the Haunted”.\n● \"Immediately after you do\" effects, even if that effect was CL1.",
+    "Gladiator": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Call of the Haunted”.\n● \"Immediately after you do\" effects, even if that effect was CL1.",
+    "ReturnDAD": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Call of the Haunted”.\n● \"Immediately after you do\" effects, even if that effect was CL1.",
+    "Trooper": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Call of the Haunted”.\n● \"Immediately after you do\" effects, even if that effect was CL1.",
+    "Circle": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Call of the Haunted”.\n● \"Immediately after you do\" effects, even if that effect was CL1.",
+    "Stein": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Call of the Haunted”.\n● \"Immediately after you do\" effects, even if that effect was CL1.",
+    "Base": "1. Like \"Horn of Heaven\", this card cannot be used against \"Premature Burial\", etc. It can be used against inherent Special Summon effects like \"Cyber Dragon\" or \"Dark Necrofear\".\\n2. You cannot activate \"Black Horn of Heaven\" when you Special Summon \"Lava Golem\" onto your opponent's side of the field."
+  },
+  "PSCT": {
+    "Tengu": "①When your opponent would Special Summon exactly 1 monster: Negate the Special Summon, and if you do, destroy it.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "①When your opponent would Special Summon exactly 1 monster: Negate the Special Summon, and if you do, destroy it.",
+    "Meadowlands": "①When your opponent would Special Summon exactly 1 monster: Negate the Special Summon, and if you do, destroy it.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

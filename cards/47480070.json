@@ -1,0 +1,44 @@
+{
+  "id": 47480070,
+  "name": "Amazoness Paladin",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 300,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(1) Increase the ATK of this monster by 100 for each monster on your side of the field that includes Amazoness in its name, or is named Amazon Archer.\n●The (1) Continuous Effect applies while this card is face-up on the field.\n●Amazoness Paladin counts herself in her effect, so even by herself she gains +100 ATK.",
+    "Goat": "●Amazoness Paladin counts herself in her effect, so even by herself she gains +100 ATK.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Amazoness Paladin' counts herself in her effect, so even by herself she gains +100 ATK.",
+    "TeleDAD": "● 'Amazoness Paladin' counts herself in her effect, so even by herself she gains +100 ATK.",
+    "Gladiator": "● 'Amazoness Paladin' counts herself in her effect, so even by herself she gains +100 ATK.",
+    "ReturnDAD": "● 'Amazoness Paladin' counts herself in her effect, so even by herself she gains +100 ATK.",
+    "Trooper": "● 'Amazoness Paladin' counts herself in her effect, so even by herself she gains +100 ATK.",
+    "Circle": "● 'Amazoness Paladin' counts herself in her effect, so even by herself she gains +100 ATK.",
+    "Stein": "● 'Amazoness Paladin' counts herself in her effect, so even by herself she gains +100 ATK.",
+    "Base": "1. \"Amazoness Paladin\" itself counts for its ATK gaining effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 65830223,
+  "name": "Coffin Seller",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Coffin Seller applies its effect when monster(s) are sent from the hand, Deck, or the field to the GY.\n●If multiple monsters are sent to the GY at the same time (due to Dark Hole, etc.) then inflict 300 damage only because it is considered as 1 time.\n●Multiple copies of Coffin Seller are cumulative.",
+    "Goat": "●Coffin Seller applies its effect when monster(s) are sent from the hand, Deck, or the field to the GY.\n●If multiple monsters are sent to the GY at the same time (due to Dark Hole, etc.) then inflict 300 damage only because it is considered as 1 time.\n●Multiple copies of Coffin Seller are cumulative.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Coffin Seller' applies its effect when monster(s) are sent from the hand, Deck, or the field to the GY.\n● If multiple monsters are sent to the GY at the same time (due to 'Dark Hole', etc.) then inflict 300 damage only because it is considered as 1 time.\n● Multiple copies of 'Coffin Seller' are cumulative.",
+    "TeleDAD": "● 'Coffin Seller' applies its effect when monster(s) are sent from the hand, Deck, or the field to the GY.\n● If multiple monsters are sent to the GY at the same time (due to 'Dark Hole', etc.) then inflict 300 damage only because it is considered as 1 time.\n● Multiple copies of 'Coffin Seller' are cumulative.",
+    "Gladiator": "● 'Coffin Seller' applies its effect when monster(s) are sent from the hand, Deck, or the field to the GY.\n● If multiple monsters are sent to the GY at the same time (due to 'Dark Hole', etc.) then inflict 300 damage only because it is considered as 1 time.\n● Multiple copies of 'Coffin Seller' are cumulative.",
+    "ReturnDAD": "● 'Coffin Seller' applies its effect when monster(s) are sent from the hand, Deck, or the field to the GY.\n● If multiple monsters are sent to the GY at the same time (due to 'Dark Hole', etc.) then inflict 300 damage only because it is considered as 1 time.\n● Multiple copies of 'Coffin Seller' are cumulative.",
+    "Trooper": "● 'Coffin Seller' applies its effect when monster(s) are sent from the hand, Deck, or the field to the GY.\n● If multiple monsters are sent to the GY at the same time (due to 'Dark Hole', etc.) then inflict 300 damage only because it is considered as 1 time.\n● Multiple copies of 'Coffin Seller' are cumulative.",
+    "Circle": "● 'Coffin Seller' applies its effect when monster(s) are sent from the hand, Deck, or the field to the GY.\n● If multiple monsters are sent to the GY at the same time (due to 'Dark Hole', etc.) then inflict 300 damage only because it is considered as 1 time.\n● Multiple copies of 'Coffin Seller' are cumulative.",
+    "Stein": "● 'Coffin Seller' applies its effect when monster(s) are sent from the hand, Deck, or the field to the GY.\n● If multiple monsters are sent to the GY at the same time (due to 'Dark Hole', etc.) then inflict 300 damage only because it is considered as 1 time.\n● Multiple copies of 'Coffin Seller' are cumulative.",
+    "Base": "1. \"Coffin Seller\" applies its effect when monster(s) are sent from the hand, Deck, or the field to the GY.\\n2. If multiple monsters are sent to the GY at the same time (due to \"Dark Hole\", etc.) then inflict 300 damage only because it is considered as 1 time.\\n3. Multiple copies of \"Coffin Seller\" are cumulative."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

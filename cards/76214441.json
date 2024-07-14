@@ -1,0 +1,44 @@
+{
+  "id": 76214441,
+  "name": "Lifeforce Harmonizer",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 400,
+    "level": 2,
+    "race": "Psychic",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "(1) When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it.\n●The (1) Quick Effect can be activated during either player’s turn.\n●This effect can only respond to the activation of a card that is confirmed to inflict damage at resolution.\n●You can use “Lifeforce Harmonizer” on your opponent’s card that inflicts damage to themselves, such as “Zombie Mammoth” if there is a situation where it will inflict damage to the opponent.\n●This effect can be activated if Caius the Shadow Monarch targets a face-up DARK monster.\n●This effect cannot respond to a card / effect that does not / might not inflict damage at resolution.\n●It cannot be used against the activation of “Wave-Motion Cannon” or the activation of the effect of “Wave-Motion Cannon”.\n●It cannot be used against “Thestalos the Firestorm Monarch” since you don’t know if damage will be inflicted.\n●If you control “Des Wombat” and it is preventing you from taking damage, you cannot activate “Lifeforce Harmonizer”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This is a Multi-Trigger Effect that can be activated during either player's turn.\\n2. This effect can only be chained to the activation of a card that is confirmed to inflict damage at resolution. It cannot be used against the activation of \"Wave-Motion Cannon\" or the activation of the effect of \"Wave-Motion Cannon\". It cannot be used against \"Thestalos the Firestorm Monarch\" since you don't know if damage will be inflicted.\\n3. If you control \"Des Wombat\" and it is preventing you from taking damage, you cannot activate \"Lifeforce Harmonizer\".\\n4. You can use \"Lifeforce Harmonizer\" on your opponent's card that inflicts damage to themselves, such as \"Zombie Mammoth\" if there is a situation where it will inflict damage to the opponent."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

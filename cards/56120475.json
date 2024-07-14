@@ -1,0 +1,40 @@
+{
+  "id": 56120475,
+  "name": "Sakuretsu Armor",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Sakuretsu Armor targets 1 monster.\n●If the turn player chains Book of Moon to Sakuretsu Armor to flip the attacking monster face-down, then the attacking monster is not destroyed by Sakuretsu Armor.",
+    "Goat": "●If both players have activated a “Royal Decree”, which “Royal Decree” would be in effect on the field? \nA: The most recent Royal Decree would be in effect. \n●Q: If “Royal Decree” is activated while both “Jinzo” and “Skill Drain” are on the field, what happens? A: As soon as Jinzo was able to do so he negated both face-up traps simultaneously. (right after Royal Decree resolved)",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Sakuretsu Armor' targets 1 monster.\n● If the turn player chains 'Book of Moon' to 'Sakuretsu Armor' to flip the attacking monster face-down, then the attacking monster isn't destroyed by 'Sakuretsu Armor'.",
+    "TeleDAD": "● 'Sakuretsu Armor' targets 1 monster.\n● If the turn player chains 'Book of Moon' to 'Sakuretsu Armor' to flip the attacking monster face-down, then the attacking monster isn't destroyed by 'Sakuretsu Armor'.",
+    "Gladiator": "● 'Sakuretsu Armor' targets 1 monster.\n● If the turn player chains 'Book of Moon' to 'Sakuretsu Armor' to flip the attacking monster face-down, then the attacking monster isn't destroyed by 'Sakuretsu Armor'.",
+    "ReturnDAD": "● 'Sakuretsu Armor' targets 1 monster.\n● If the turn player chains 'Book of Moon' to 'Sakuretsu Armor' to flip the attacking monster face-down, then the attacking monster isn't destroyed by 'Sakuretsu Armor'.",
+    "Trooper": "● 'Sakuretsu Armor' targets 1 monster.\n● If the turn player chains 'Book of Moon' to 'Sakuretsu Armor' to flip the attacking monster face-down, then the attacking monster isn't destroyed by 'Sakuretsu Armor'.",
+    "Circle": "● 'Sakuretsu Armor' targets 1 monster.\n● If the turn player chains 'Book of Moon' to 'Sakuretsu Armor' to flip the attacking monster face-down, then the attacking monster isn't destroyed by 'Sakuretsu Armor'.",
+    "Stein": "● 'Sakuretsu Armor' targets 1 monster.\n● If the turn player chains 'Book of Moon' to 'Sakuretsu Armor' to flip the attacking monster face-down, then the attacking monster isn't destroyed by 'Sakuretsu Armor'.",
+    "Base": "1. \"Sakuretsu Armor\" targets 1 monster.\\n2. If the turn player chains \"Book of Moon\" to \"Sakuretsu Armor\" to flip the attacking monster face-down, then the attacking monster is not destroyed by \"Sakuretsu Armor\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

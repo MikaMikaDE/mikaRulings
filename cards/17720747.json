@@ -1,0 +1,44 @@
+{
+  "id": 17720747,
+  "name": "Witch of the Black Rose",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 1200,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●“This card cannot be Special Summoned” is not treated as an effect.\n●If you have no cards in your Deck when you activate the effect of “Witch of the Black Rose,” you will lose the Duel.\n●If you activate the effect of “Witch of the Black Rose” while you have no cards in your hand and you draw “Infernity Archfiend,” you can activate the effect of “Infernity Archfiend.” You resolve the effect of “Witch of the Black Rose” like this: -Draw 1 card. If it is a monster, the effect is over. -If not, destroy “Witch of the Black Rose” and send the card drawn to the GY. (Destroying and sending the card occur at the same time.)",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. 'This card cannot be Special Summoned' is not treated as an effect.\\n2. If you have no cards in your Deck when you activate the effect of \"Witch of the Black Rose\", you will lose the Duel.\\n3. If you activate the effect of \"Witch of the Black Rose\" while you have no cards in your hand and you draw \"Infernity Archfiend\", you can activate the effect of \"Infernity Archfiend\".\\n\\nThis was an update to a previous ruling stating that Archfiend could activate normally. This updated pdf has since been removed from the official site, and replaced with the older version with the previous ruling. OCG database agrees with Archfiend being allowed to activate.\\n4. You resolve the effect of \"Witch of the Black Rose\" like this:\\n[*] Draw 1 card. If it is a monster, the effect is over.\\n[*] If not, destroy \"Witch of the Black Rose\" and send the card drawn to the GY. (Destroying and sending the card occur at the same time.)"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 71564252,
+  "name": "Thunder King Rai-Oh",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1900,
+    "def": 800,
+    "level": 4,
+    "race": "Thunder",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● The ② effect can only negate the Summon of a monster while there is no ongoing chain. \n(It can negate a Synchro Summon, or the Special Summon of Cyber Dragon by its own procedure.\nIt cannot negate the Summon of a monster being Summoned by a card effect, such as by “Call of the Haunted”).\nIt cannot negate the Summon of a monster being Summoned by a lingering effect, like “Future Fusion”).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● This effect can only negate the Summon of a monster while there is no ongoing chain.\n(It can negate a Synchro/Xyz Summon, or the Special Summon of Cyber Dragon by its own procedure.\nIt can't negate the Summon of a monster being Summoned by a card effect, such as by “Tin Goldfish”).\n● While this effect is applying, neither player can activate \"Pot of Duality\".",
+    "Vegas": "● This effect can only negate the Summon of a monster while there is no ongoing chain.\n(It can negate a Synchro/Xyz Summon, or the Special Summon of Cyber Dragon by its own procedure.\nIt can't negate the Summon of a monster being Summoned by a card effect, such as by “Tin Goldfish”).\n● While this effect is applying, neither player can activate \"Pot of Duality\".",
+    "Meadowlands": "● This effect can only negate the Summon of a monster while there is no ongoing chain.\n(It can negate a Synchro/Xyz Summon, or the Special Summon of Cyber Dragon by its own procedure.\nIt can't negate the Summon of a monster being Summoned by a card effect, such as by “Tin Goldfish”).\n● While this effect is applying, neither player can activate \"Pot of Duality\".",
+    "FireWater": "● This effect can only negate the Summon of a monster while there is no ongoing chain.\n(It can negate a Synchro/Xyz Summon, or the Special Summon of Cyber Dragon by its own procedure.\nIt can't negate the Summon of a monster being Summoned by a card effect, such as by “Tin Goldfish”).\n● While this effect is applying, neither player can activate \"Pot of Duality\".",
+    "Cat": "● \n● ",
+    "TeleDAD": "● \n● ",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Sending this card to the GY is a cost to activate that effect. It does not target.\\n2. You activate the Summon negating effect at the same time you would use \"Solemn Judgment\", \"Horn of Heaven\", or \"Black Horn of Heaven\" to negate a Special Summon that does not start a Chain.\\n3. \"Thunder King Rai-Oh\" cannot negate the Special Summon of a monster due to the effect of another card, like \"Call of the Haunted\" or \"Polymerization\".\\n4. You cannot activate \"Reinforcement of the Army\" while the effect of \"Thunder King Rai-Oh\" is active. If \"Reinforcement of the Army\" is activated and an effect is Chained to Summon \"Thunder King Rai-Oh\" then the effect of \"Reinforcement of the Army\" is negated.\\n5. You can still activate cards like \"Gold Sarcophagus\" that do not directly add cards from your Deck to your hand.\\n6. You can activate cards like \"Emblem of the Dragon Destroyer\", but you must add the \"Buster Blader\" from your GY to your hand because you cannot add cards from your Deck to your hand except by drawing them.\\n7. The effect of \"Crystal Seer\" will still activate even if \"Thunder King Rai-Oh\" is on the field. If \"Thunder King Rai-Oh\" is still on the field when the effect of \"Crystal Seer\" resolves, the card that would be added to your hand goes to the GY instead.\\n8. If your opponent controls 3 monsters, including \"Thunder King Rai-Oh\" and you Tribute the other 2 to Special Summon \"Lava Golem\" to your opponent's side of the field, your opponent can use the effect of \"Thunder King Rai-Oh\" to negate the Special Summon.\\n9. The effect of \"Sangan\" will still activate if it sent to the GY while \"Thunder King Rai-Oh\" is on the field. It will resolve without effect since you cannot add a card to your hand.\\n10. You cannot use the effect of \"Elemental HERO Stratos\" to add a monster to your hand while the effect of \"Thunder King Rai-Oh\" is active. You can use the effect to destroy Spell or Trap Cards.\\n11. You cannot activate \"Morphtronic Forcefield\" while \"Thunder King Rai-Oh\" is face-up on the field. If, somehow, \"Thunder King Rai-Oh\" becomes face-up on the field before \"Morphtronic Forcefield\" resolves, the activation of the Spell or Trap Card that \"Morphtronic Forcefield\" was Chained to will still be negated, but you cannot add a 'Morphtronic' card to your hand.\\n12. You can negate the Special Summon of \"Machina Fortress\" or \"Endymion, the Master Magician\" due to their own effects with the effect of \"Thunder King Rai-Oh\"."
+  },
+  "PSCT": {
+    "Tengu": "① Neither player can add cards from their Deck to their hand except by drawing them. \n② When your opponent would Special Summon a monster (Quick effect): \nYou can send this face-up card to the GY; \nnegate the Summon, and if you do, destroy it.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "Neither player can add cards from their Deck to their hand except by drawing them. During either player's turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the GY; negate the Special Summon, and if you do, destroy it.",
+    "Meadowlands": "Neither player can add cards from their Deck to their hand except by drawing them. During either player's turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the GY; negate the Special Summon, and if you do, destroy it.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 89399912,
+  "name": "Tempest, Dragon Ruler of Storms",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 2200,
+    "level": 7,
+    "race": "Dragon",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● You can only \"use\" one of these effects per turn.\nThis means that, even if the activation or effect of one of these effects was negated, you still can't activate any of the others that turn.",
+    "Vegas": "● You can only \"use\" one of these effects per turn.\nThis means that, even if the activation or effect of one of these effects was negated, you still can't activate any of the others that turn.",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "● You can only \"use\" one of these effects per turn.\nThis means that, even if the activation or effect of one of these effects was negated, you still can't activate any of the others that turn.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① You can banish 2 other monsters (WINDs and/or Dragons) from your hand and/or GY; \nSpecial Summon this card from your hand/GY. \n② During your opponent's End Phase, if this card was Special Summoned: Return it to the hand. \n③ If this card is banished: You can add 1 WIND Dragon from your Deck to your hand. \n④ You can discard this card and 1 WIND to the GY; add 1 Dragon from your Deck to your hand.\n(You can only use 1 \"Tempest, Dragon Ruler of Storms\" effect per turn, and only once that turn).",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

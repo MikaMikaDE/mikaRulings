@@ -1,0 +1,44 @@
+{
+  "id": 41158734,
+  "name": "Apocatequil",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 1200,
+    "level": 4,
+    "race": "Thunder",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) While this card is face-up on the field, it is Level 5 if you control a face-up Tuner monster. (2) When this card on the field is destroyed and sent to the GY, you can select and Special Summon 1 Oracle of the Sun from your GY.\n●The (1) Continuous Effect applies while this card is face-up on the field.\n●If “Level Eater” reduced this card's Level to 4: it becomes Level 3 when the Tuner is flipped face-down / leaves the field; it becomes Level 5 if another Tuner is Summoned face-up.\n●The (2) Trigger Effect is optional. It activates & resolves in the GY.\n●This effect targets 1 “Oracle of the Sun” in your GY.\n●This effect can activate in the Damage Step.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect to Special Summon 1 \"Oracle of the Sun\" targets the \"Oracle of the Sun\".\\n2. This effect to Special Summon activates even during the Damage Step.\\n3. If \"Apocatequil\" is Level 5 due to its effect and you choose to lower it to Special Summon \"Level Eater\", \"Apocatequil\" becomes Level 4. If the Tuner is removed from the field, it becomes Level 3. If you Summon another Tuner, \"Apocatequil\" becomes Level 5 again."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

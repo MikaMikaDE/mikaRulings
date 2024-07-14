@@ -1,0 +1,44 @@
+{
+  "id": 6133894,
+  "name": "Mazera DeVille",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 2300,
+    "level": 8,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● The only way you can Special Summon this card is via its own procedure.\nEven if it was initially summoned that way, you still can't summon it with card effects.",
+    "Goat": "●You cannot use Monster Reborn, etc. on Mazera DeVille even if he is Special Summoned properly, because he cannot be Special Summoned, EXCEPT by....\n●If you Special Summon Mazera DeVille, his effect activates, and your opponent chains Mystical Space Typhoon to destroy Pandemonium in a chain, Mazera Deville's effect disappears because his effect needs Pandemonium on the field when the effect resolves, not just when it activates (just like The Agent of Judgment - Saturn).\n●If your opponent has less than 3 cards in his hand, he must discard his entire hand.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't use 'Monster Reborn', etc. on 'Mazera DeVille' even if he is Special Summoned properly, because he 'can't be Special Summoned, EXCEPT by...'.\n● If you Special Summon 'Mazera DeVille', his effect activates, and your opponent chains 'Mystical Space Typhoon' to destroy 'Pandemonium' in a chain, 'Mazera Deville''s effect disappears because his effect needs 'Pandemonium' on the field when the effect resolves, not just when it activates (just like 'The Agent of Judgment - Saturn').\n● If your opponent has less than 3 cards in his hand, he must discard his entire hand.",
+    "TeleDAD": "● You can't use 'Monster Reborn', etc. on 'Mazera DeVille' even if he is Special Summoned properly, because he 'can't be Special Summoned, EXCEPT by...'.\n● If you Special Summon 'Mazera DeVille', his effect activates, and your opponent chains 'Mystical Space Typhoon' to destroy 'Pandemonium' in a chain, 'Mazera Deville''s effect disappears because his effect needs 'Pandemonium' on the field when the effect resolves, not just when it activates (just like 'The Agent of Judgment - Saturn').\n● If your opponent has less than 3 cards in his hand, he must discard his entire hand.",
+    "Gladiator": "● You can't use 'Monster Reborn', etc. on 'Mazera DeVille' even if he is Special Summoned properly, because he 'can't be Special Summoned, EXCEPT by...'.\n● If you Special Summon 'Mazera DeVille', his effect activates, and your opponent chains 'Mystical Space Typhoon' to destroy 'Pandemonium' in a chain, 'Mazera Deville''s effect disappears because his effect needs 'Pandemonium' on the field when the effect resolves, not just when it activates (just like 'The Agent of Judgment - Saturn').\n● If your opponent has less than 3 cards in his hand, he must discard his entire hand.",
+    "ReturnDAD": "● You can't use 'Monster Reborn', etc. on 'Mazera DeVille' even if he is Special Summoned properly, because he 'can't be Special Summoned, EXCEPT by...'.\n● If you Special Summon 'Mazera DeVille', his effect activates, and your opponent chains 'Mystical Space Typhoon' to destroy 'Pandemonium' in a chain, 'Mazera Deville''s effect disappears because his effect needs 'Pandemonium' on the field when the effect resolves, not just when it activates (just like 'The Agent of Judgment - Saturn').\n● If your opponent has less than 3 cards in his hand, he must discard his entire hand.",
+    "Trooper": "● You can't use 'Monster Reborn', etc. on 'Mazera DeVille' even if he is Special Summoned properly, because he 'can't be Special Summoned, EXCEPT by...'.\n● If you Special Summon 'Mazera DeVille', his effect activates, and your opponent chains 'Mystical Space Typhoon' to destroy 'Pandemonium' in a chain, 'Mazera Deville''s effect disappears because his effect needs 'Pandemonium' on the field when the effect resolves, not just when it activates (just like 'The Agent of Judgment - Saturn').\n● If your opponent has less than 3 cards in his hand, he must discard his entire hand.",
+    "Circle": "● You can't use 'Monster Reborn', etc. on 'Mazera DeVille' even if he is Special Summoned properly, because he 'can't be Special Summoned, EXCEPT by...'.\n● If you Special Summon 'Mazera DeVille', his effect activates, and your opponent chains 'Mystical Space Typhoon' to destroy 'Pandemonium' in a chain, 'Mazera Deville''s effect disappears because his effect needs 'Pandemonium' on the field when the effect resolves, not just when it activates (just like 'The Agent of Judgment - Saturn').\n● If your opponent has less than 3 cards in his hand, he must discard his entire hand.",
+    "Stein": "● You can't use 'Monster Reborn', etc. on 'Mazera DeVille' even if he is Special Summoned properly, because he 'can't be Special Summoned, EXCEPT by...'.\n● If you Special Summon 'Mazera DeVille', his effect activates, and your opponent chains 'Mystical Space Typhoon' to destroy 'Pandemonium' in a chain, 'Mazera Deville''s effect disappears because his effect needs 'Pandemonium' on the field when the effect resolves, not just when it activates (just like 'The Agent of Judgment - Saturn').\n● If your opponent has less than 3 cards in his hand, he must discard his entire hand.",
+    "Base": "1. You cannot use \"Monster Reborn\", etc. on \"Mazera DeVille\" even if he is Special Summoned properly, because he 'cannot be Special Summoned, EXCEPT by...'.\\n2. If you Special Summon \"Mazera DeVille\", his effect activates, and your opponent chains \"Mystical Space Typhoon\" to destroy \"Pandemonium\" in a chain, the effect of \"Mazera DeVille\" disappears because his effect needs \"Pandemonium\" on the field when the effect resolves, not just when it activates (just like \"The Agent of Judgment - Saturn\").\\n3. If your opponent has less than 3 cards in his hand, he must discard his entire hand."
+  },
+  "PSCT": {
+    "Tengu": "© Can't be Normal Summoned/Set. \n© Must be Special Summoned by tributing 1 face-up \"Warrior of Zera\" you control,\nwhile \"Pandemonium\" is face-up on the field.\n① If this card is Special Summoned: Your opponent discards 3 random cards (their entire hand, if less than 3).\n(Activate and resolve only if you control \"Pandemonium\").",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

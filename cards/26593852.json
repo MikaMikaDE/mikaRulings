@@ -1,0 +1,44 @@
+{
+  "id": 26593852,
+  "name": "Ally of Justice Catastor",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2200,
+    "def": 1200,
+    "level": 5,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● The start of the Damage Step occurs before set monsters are flipped face-up. \n(If this card attacks a Set monster, this card's effect doesn’t activate.)",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect or \"Ally of Justice Catastor\" activates at the very start of the Damage Step before face-down monsters are flipped face-up.\\n2. If \"Ally of Justice Catastor\" or the opponent's monster is face-down at the start of the Damage Step, the effect of \"Ally of Justice Catastor\" will not apply.\\n3. If \"Ally of Justice Catastor\" battles a monster that can be treated as both DARK and another Attribute, such as \"Dark Simorgh\", the effect of \"Ally of Justice Catastor\" will activate and destroy the monster.\\n4. If \"Ally of Justice Catastor\" battles a monster like \"D.D. Warrior\" the monster will be destroyed by the effect of \"Ally of Justice Catastor\" without damage calculation. The effect of \"D.D. Warrior\" that would activate after damage calculation will not activate.\\n5. If \"Ally of Justice Catastor\" battles \"Neo-Spacian Grand Mole\", the mandatory effect of Catastor will activate first and become Chain Link 1 and the effect of \"Neo-Spacian Grand Mole\" will be Chained to it.\\n6. If the monster that \"Ally of Justice Catastor\" is battling survives the effect of Catastor because of \"Heavy Mech Support Platform\" or \"Spirit of the Six Samurai\", damage calculation will be carried out normally.\\n7. [FORUM] The effects of \"Ally of Justice Catastor\" and \"Neo-Spacian Grand Mole\" activate before a monster is flipped face-up on the damage step. This means that if either monster is face-down, that monster's effect will miss the timing.\\n8. [FORUM] If \"Ally of Justice Catastor\" attacks a \"Gachi Gachi Gantetsu\" with 2 Xyz Materials, you would be able detach the Xyz Materials twice during this battle. The first time would be when the effect of \"Ally of Justice Catastor\" resolves. Since the effect of Gachi Gachi Gantetsu does not negate the attack, the second time would be when Gachi Gachi Gantetsu would be destroyed by battle."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1 or more non-Tuners \n① At the start of the Damage Step, \nif this card battles a non-DARK monster: \nDestroy that monster.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

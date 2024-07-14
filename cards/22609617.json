@@ -1,0 +1,44 @@
+{
+  "id": 22609617,
+  "name": "Mataza the Zapper",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1300,
+    "def": 800,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot use Change of Heart on a face-up Mataza the Zapper.\n●If you take control of a face-down Mataza the Zapper and flip it face-up, it stays on your side of the field and doesn't return to the original controller.\n●If you use Monster Reborn on Mataza the Zapper while Remove Brainwashing is active, control of Mataza the Zapper does not return to the original owner.\n●While Skill Drain is active, you can take control of Mataza the Zapper from your opponent.",
+    "Goat": "●You cannot use Change of Heart on a face-up Mataza the Zapper.\n●If you take control of a face-down Mataza the Zapper and flip it face-up, it stays on your side of the field and doesn't return to the original controller.\n●If you use Monster Reborn on Mataza the Zapper while Remove Brainwashing is applying, control of Mataza the Zapper does not return to the original owner.\n●While Skill Drain is applying, you can take control of Mataza the Zapper from your opponent.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't use 'Change of Heart' on a face-up 'Mataza the Zapper'.\n● If you take control of a face-down 'Mataza the Zapper' and flip it face-up, it stays on your side of the field and doesn't return to the original controller.\n● If you use 'Monster Reborn' on 'Mataza the Zapper' while 'Remove Brainwashing' is applying, control of 'Mataza the Zapper' does not return to the original owner.\n● While 'Skill Drain' is applying, you can take control of 'Mataza the Zapper' from your opponent.",
+    "TeleDAD": "● You can't use 'Change of Heart' on a face-up 'Mataza the Zapper'.\n● If you take control of a face-down 'Mataza the Zapper' and flip it face-up, it stays on your side of the field and doesn't return to the original controller.\n● If you use 'Monster Reborn' on 'Mataza the Zapper' while 'Remove Brainwashing' is applying, control of 'Mataza the Zapper' does not return to the original owner.\n● While 'Skill Drain' is applying, you can take control of 'Mataza the Zapper' from your opponent.",
+    "Gladiator": "● You can't use 'Change of Heart' on a face-up 'Mataza the Zapper'.\n● If you take control of a face-down 'Mataza the Zapper' and flip it face-up, it stays on your side of the field and doesn't return to the original controller.\n● If you use 'Monster Reborn' on 'Mataza the Zapper' while 'Remove Brainwashing' is applying, control of 'Mataza the Zapper' does not return to the original owner.\n● While 'Skill Drain' is applying, you can take control of 'Mataza the Zapper' from your opponent.",
+    "ReturnDAD": "● You can't use 'Change of Heart' on a face-up 'Mataza the Zapper'.\n● If you take control of a face-down 'Mataza the Zapper' and flip it face-up, it stays on your side of the field and doesn't return to the original controller.\n● If you use 'Monster Reborn' on 'Mataza the Zapper' while 'Remove Brainwashing' is applying, control of 'Mataza the Zapper' does not return to the original owner.\n● While 'Skill Drain' is applying, you can take control of 'Mataza the Zapper' from your opponent.",
+    "Trooper": "● You can't use 'Change of Heart' on a face-up 'Mataza the Zapper'.\n● If you take control of a face-down 'Mataza the Zapper' and flip it face-up, it stays on your side of the field and doesn't return to the original controller.\n● If you use 'Monster Reborn' on 'Mataza the Zapper' while 'Remove Brainwashing' is applying, control of 'Mataza the Zapper' does not return to the original owner.\n● While 'Skill Drain' is applying, you can take control of 'Mataza the Zapper' from your opponent.",
+    "Circle": "● You can't use 'Change of Heart' on a face-up 'Mataza the Zapper'.\n● If you take control of a face-down 'Mataza the Zapper' and flip it face-up, it stays on your side of the field and doesn't return to the original controller.\n● If you use 'Monster Reborn' on 'Mataza the Zapper' while 'Remove Brainwashing' is applying, control of 'Mataza the Zapper' does not return to the original owner.\n● While 'Skill Drain' is applying, you can take control of 'Mataza the Zapper' from your opponent.",
+    "Stein": "● You can't use 'Change of Heart' on a face-up 'Mataza the Zapper'.\n● If you take control of a face-down 'Mataza the Zapper' and flip it face-up, it stays on your side of the field and doesn't return to the original controller.\n● If you use 'Monster Reborn' on 'Mataza the Zapper' while 'Remove Brainwashing' is applying, control of 'Mataza the Zapper' does not return to the original owner.\n● While 'Skill Drain' is applying, you can take control of 'Mataza the Zapper' from your opponent.",
+    "Base": "1. You cannot use \"Change of Heart\" on a face-up \"Mataza the Zapper\".\\n2. If you take control of a face-down \"Mataza the Zapper\" and flip it face-up, it stays on your side of the field and doesn't return to the original controller.\\n3. If you use \"Monster Reborn\" on \"Mataza the Zapper\" while \"Remove Brainwashing\" is active, control of \"Mataza the Zapper\" does not return to the original owner.\\n4. While \"Skill Drain\" is active, you can take control of \"Mataza the Zapper\" from your opponent."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

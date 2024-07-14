@@ -1,0 +1,40 @@
+{
+  "id": 3055837,
+  "name": "Trap of Board Eraser",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot activate this card when your opponent does not have a hand.\n●For other rulings, see Barrel Behind the Door.",
+    "Goat": "●You cannot activate this card when your opponent does not have a hand.\n●For other rulings, see Barrel Behind the Door.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate this card when your opponent does not have a hand.\n● For other rulings, see 'Barrel Behind the Door'.",
+    "TeleDAD": "● You can't activate this card when your opponent does not have a hand.\n● For other rulings, see 'Barrel Behind the Door'.",
+    "Gladiator": "● You can't activate this card when your opponent does not have a hand.\n● For other rulings, see 'Barrel Behind the Door'.",
+    "ReturnDAD": "● You can't activate this card when your opponent does not have a hand.\n● For other rulings, see 'Barrel Behind the Door'.",
+    "Trooper": "● You can't activate this card when your opponent does not have a hand.\n● For other rulings, see 'Barrel Behind the Door'.",
+    "Circle": "● You can't activate this card when your opponent does not have a hand.\n● For other rulings, see 'Barrel Behind the Door'.",
+    "Stein": "● You can't activate this card when your opponent does not have a hand.\n● For other rulings, see 'Barrel Behind the Door'.",
+    "Base": "1. You cannot activate this card when your opponent does not have a hand.\\n2. For other rulings, see \"Barrel Behind the Door\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

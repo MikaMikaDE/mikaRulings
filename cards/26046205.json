@@ -1,0 +1,44 @@
+{
+  "id": 26046205,
+  "name": "Vengeful Shinobi",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 400,
+    "def": 800,
+    "level": 2,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Vengeful Shinobi's effect is a Trigger Effect.\n●If an effect is Chained to Vengeful Shinobi's effect, and changes it to Defense Position or removes it from the field, you still draw a card.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Vengeful Shinobi's' effect is a Trigger Effect.\n● If an effect is Chained to 'Vengeful Shinobi's' effect, and changes it to Defense Position or removes it from the field, you still draw a card.",
+    "TeleDAD": "● 'Vengeful Shinobi's' effect is a Trigger Effect.\n● If an effect is Chained to 'Vengeful Shinobi's' effect, and changes it to Defense Position or removes it from the field, you still draw a card.",
+    "Gladiator": "● 'Vengeful Shinobi's' effect is a Trigger Effect.\n● If an effect is Chained to 'Vengeful Shinobi's' effect, and changes it to Defense Position or removes it from the field, you still draw a card.",
+    "ReturnDAD": "● 'Vengeful Shinobi's' effect is a Trigger Effect.\n● If an effect is Chained to 'Vengeful Shinobi's' effect, and changes it to Defense Position or removes it from the field, you still draw a card.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Vengeful Shinobi\" is a Trigger Effect.\\n2. If an effect is Chained to the effect of \"Vengeful Shinobi\", and changes it to Defense Position or removes it from the field, you still draw a card."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

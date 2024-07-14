@@ -1,0 +1,44 @@
+{
+  "id": 25551951,
+  "name": "Blowback Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2300,
+    "def": 1200,
+    "level": 6,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Blowback Dragon's effect does target. The target is the selected card.\n●If your opponent uses Blowback Dragon on a Trap Card, you can use Fake Trap to save it.\n●You select the target of Blowback Dragon's effect when you activate the effect, BEFORE flipping the coins.",
+    "Goat": "●Blowback Dragon's effect does target. The target is the selected card.\n●If your opponent uses Blowback Dragon on a Trap Card, you can use Fake Trap to save it.\n●You select the target of Blowback Dragon's effect when you activate the effect, BEFORE flipping the coins.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Blowback Dragon''s effect does target. The target is the selected card.\n● If your opponent uses 'Blowback Dragon' on a Trap Card, you can use 'Fake Trap' to save it.\n● You select the target of 'Blowback Dragon''s effect when you activate the effect, BEFORE flipping the coins.",
+    "TeleDAD": "● 'Blowback Dragon''s effect does target. The target is the selected card.\n● If your opponent uses 'Blowback Dragon' on a Trap Card, you can use 'Fake Trap' to save it.\n● You select the target of 'Blowback Dragon''s effect when you activate the effect, BEFORE flipping the coins.",
+    "Gladiator": "● 'Blowback Dragon''s effect does target. The target is the selected card.\n● If your opponent uses 'Blowback Dragon' on a Trap Card, you can use 'Fake Trap' to save it.\n● You select the target of 'Blowback Dragon''s effect when you activate the effect, BEFORE flipping the coins.",
+    "ReturnDAD": "● 'Blowback Dragon''s effect does target. The target is the selected card.\n● If your opponent uses 'Blowback Dragon' on a Trap Card, you can use 'Fake Trap' to save it.\n● You select the target of 'Blowback Dragon''s effect when you activate the effect, BEFORE flipping the coins.",
+    "Trooper": "● 'Blowback Dragon''s effect does target. The target is the selected card.\n● If your opponent uses 'Blowback Dragon' on a Trap Card, you can use 'Fake Trap' to save it.\n● You select the target of 'Blowback Dragon''s effect when you activate the effect, BEFORE flipping the coins.",
+    "Circle": "● 'Blowback Dragon''s effect does target. The target is the selected card.\n● If your opponent uses 'Blowback Dragon' on a Trap Card, you can use 'Fake Trap' to save it.\n● You select the target of 'Blowback Dragon''s effect when you activate the effect, BEFORE flipping the coins.",
+    "Stein": "● 'Blowback Dragon''s effect does target. The target is the selected card.\n● If your opponent uses 'Blowback Dragon' on a Trap Card, you can use 'Fake Trap' to save it.\n● You select the target of 'Blowback Dragon''s effect when you activate the effect, BEFORE flipping the coins.",
+    "Base": "1. The effect of \"Blowback Dragon\" does target. The target is the selected card.\\n2. If your opponent uses \"Blowback Dragon\" on a Trap Card, you can use \"Fake Trap\" to save it.\\n3. You select the target of the effect of \"Blowback Dragon\" when you activate the effect, BEFORE flipping the coins."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

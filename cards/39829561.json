@@ -1,0 +1,44 @@
+{
+  "id": 39829561,
+  "name": "Destiny HERO - Departed",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 0,
+    "level": 2,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●When Destiny Hero - Departed is sent to the GY to pay a cost, it is not removed from play.\n●Destiny Hero - Departed's first effect is a Trigger Effect. It is not optional.\n●Destiny Hero - Departed's effect is not activated while King Tiger Wanghu is face-up on the field because an infinite loop would result. If Destiny Hero - Departed's ATK would become greater than 1400 when Special Summoned, because of another card's effect, it is Special Summoned.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Destiny Hero - Departed' is sent to the GY to pay a cost, it isn't removed from play.\n● 'Destiny Hero - Departed's' first effect is a Trigger Effect. It isn't optional.\n● 'Destiny Hero - Departed's' effect isn't activated while 'King Tiger Wanghu' is applying because an infinite loop would result. If 'Destiny Hero - Departed's' ATK would become greater than 1400 when Special Summoned, because of another card's effect, it is Special Summoned.",
+    "TeleDAD": "● When 'Destiny Hero - Departed' is sent to the GY to pay a cost, it isn't removed from play.\n● 'Destiny Hero - Departed's' first effect is a Trigger Effect. It isn't optional.\n● 'Destiny Hero - Departed's' effect isn't activated while 'King Tiger Wanghu' is applying because an infinite loop would result. If 'Destiny Hero - Departed's' ATK would become greater than 1400 when Special Summoned, because of another card's effect, it is Special Summoned.",
+    "Gladiator": "● When 'Destiny Hero - Departed' is sent to the GY to pay a cost, it isn't removed from play.\n● 'Destiny Hero - Departed's' first effect is a Trigger Effect. It isn't optional.\n● 'Destiny Hero - Departed's' effect isn't activated while 'King Tiger Wanghu' is applying because an infinite loop would result. If 'Destiny Hero - Departed's' ATK would become greater than 1400 when Special Summoned, because of another card's effect, it is Special Summoned.",
+    "ReturnDAD": "● When 'Destiny Hero - Departed' is sent to the GY to pay a cost, it isn't removed from play.\n● 'Destiny Hero - Departed's' first effect is a Trigger Effect. It isn't optional.\n● 'Destiny Hero - Departed's' effect isn't activated while 'King Tiger Wanghu' is applying because an infinite loop would result. If 'Destiny Hero - Departed's' ATK would become greater than 1400 when Special Summoned, because of another card's effect, it is Special Summoned.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. When \"Destiny HERO - Departed\" is sent to the GY to pay a cost, it is not removed from play.\\n2. The first effect of \"Destiny HERO - Departed\" is a Trigger Effect. It is not optional.\\n3. The effect of \"Destiny HERO - Departed\" is not activated while \"King Tiger Wanghu\" is face-up on the field because an infinite loop would result. If the ATK of \"Destiny HERO - Departed\" would become greater than 1400 when Special Summoned, because of another card's effect, it is Special Summoned."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

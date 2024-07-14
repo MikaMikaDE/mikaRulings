@@ -1,0 +1,40 @@
+{
+  "id": 65384019,
+  "name": "Alchemy Cycle",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "The original ATK of all face-up monsters you control becomes 0, until the End Phase. Each time a monster that had its original ATK reduced to 0 by this effect is destroyed by battle and sent to the GY, draw 1 card.\n●Monsters with an original ATK that is already 0 are not affected by Alchemy Cycle. You will not draw a card when they are destroyed by battle.\n●The effect to draw 1 card starts a Chain.\n●Monsters Summoned or flipped face-up after Alchemy Cycle resolves will not have their original ATK become 0.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Monsters with an original ATK that is already 0 are not affected by 'Alchemy Cycle'. You will not draw a card when they are destroyed by battle.\n● The effect to draw 1 card starts a Chain.\n● Monsters Summoned or flipped face-up after 'Alchemy Cycle' resolves will not have their original ATK become 0.",
+    "TeleDAD": "● Monsters with an original ATK that is already 0 are not affected by 'Alchemy Cycle'. You will not draw a card when they are destroyed by battle.\n● The effect to draw 1 card starts a Chain.\n● Monsters Summoned or flipped face-up after 'Alchemy Cycle' resolves will not have their original ATK become 0.",
+    "Gladiator": "● Monsters with an original ATK that is already 0 are not affected by 'Alchemy Cycle'. You will not draw a card when they are destroyed by battle.\n● The effect to draw 1 card starts a Chain.\n● Monsters Summoned or flipped face-up after 'Alchemy Cycle' resolves will not have their original ATK become 0.",
+    "ReturnDAD": "● Monsters with an original ATK that is already 0 are not affected by 'Alchemy Cycle'. You will not draw a card when they are destroyed by battle.\n● The effect to draw 1 card starts a Chain.\n● Monsters Summoned or flipped face-up after 'Alchemy Cycle' resolves will not have their original ATK become 0.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Monsters with an original ATK that is already 0 are not affected by \"Alchemy Cycle\". You will not draw a card when they are destroyed by battle.\\n2. The effect to draw 1 card starts a Chain.\\n3. Monsters Summoned or flipped face-up after \"Alchemy Cycle\" resolves will not have their original ATK become 0."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

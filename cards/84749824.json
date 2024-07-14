@@ -1,0 +1,40 @@
+{
+  "id": 84749824,
+  "name": "Solemn Warning",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings currently available.",
+    "Vegas": "No rulings currently available.",
+    "Meadowlands": "No rulings currently available.",
+    "FireWater": "No rulings currently available.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You cannot negate the activation of a card that cannot Special Summon a monster, such as \"Lightning Vortex\".\\n2. You can negate the activation of \"Macro Cosmos\" with this card.\\n3. [FORUM] Since this card is a Counter Trap Card, so it can be activated in the Damage Step, such as when the effect of \"Gorz the Emissary of Darkness\" is activated.\\n4. [FORUM] You would not be able to activate a 2nd copy of \"Solemn Warning\" to negate a summon. One of the basic rules of Counter Trap Cards is that they must be activated in the Chain link just after the effect it is trying to counter. For example, the following chain to negate a Summon is not legal: \"Solemn Warning\" -> \"Seven Tools of the Bandit\" -> \"Solemn Warning\"\\n5. [FORUM] In order to negate a Summon through an effect, you would have to chain \"Solemn Warning\" to the activation of the effect that is Special Summoning a Monster. If you allow the effect to resolve, you are no longer able to chain \"Solemn Warning\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "When a monster would be Summoned, OR when a Spell Card, Trap Card, or monster effect is activated that includes an effect that Special Summons a monster(s): Pay 2000 Life Points; negate the Summon or activation, and if you do, destroy that card.",
+    "Meadowlands": "When a monster would be Summoned, OR when a Spell Card, Trap Card, or monster effect is activated that includes an effect that Special Summons a monster(s): Pay 2000 Life Points; negate the Summon or activation, and if you do, destroy that card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

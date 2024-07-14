@@ -1,0 +1,40 @@
+{
+  "id": 59237154,
+  "name": "Shifting Shadows",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you have only 1 face-down Defense Position monster you cannot activate the effect of Shifting Shadows.\n●If you control a monster that is targeted by your opponent's Nightmare Wheel, and you flip it face-down with Book of Moon, and control at least 1 other face-down Defense Position monster, you can activate the effect of “Shifting Shadows”. However, afterwards you must tell your opponent which monster is targeted by “Nightmare Wheel”.",
+    "Goat": "●If you have only 1 face-down Defense Position monster you cannot activate the effect of Shifting Shadows.\n●If you control a monster that is targeted by your opponent's Nightmare Wheel, and you flip it face-down with Book of Moon, and control at least 1 other face-down Defense Position monster, you can activate the effect of “Shifting Shadows”. However, afterwards you must tell your opponent which monster is targeted by “Nightmare Wheel”.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have only 1 face-down Defense Position monster you can't activate the effect of 'Shifting Shadows'.\n● If you control a monster that is targeted by your opponent's 'Nightmare Wheel', and you flip it face-down with 'Book of Moon', and control at least 1 other face-down Defense Position monster, you can activate the effect of “Shifting Shadows”. However, afterwards you must tell your opponent which monster is targeted by “Nightmare Wheel”.",
+    "TeleDAD": "● If you have only 1 face-down Defense Position monster you can't activate the effect of 'Shifting Shadows'.\n● If you control a monster that is targeted by your opponent's 'Nightmare Wheel', and you flip it face-down with 'Book of Moon', and control at least 1 other face-down Defense Position monster, you can activate the effect of “Shifting Shadows”. However, afterwards you must tell your opponent which monster is targeted by “Nightmare Wheel”.",
+    "Gladiator": "● If you have only 1 face-down Defense Position monster you can't activate the effect of 'Shifting Shadows'.\n● If you control a monster that is targeted by your opponent's 'Nightmare Wheel', and you flip it face-down with 'Book of Moon', and control at least 1 other face-down Defense Position monster, you can activate the effect of “Shifting Shadows”. However, afterwards you must tell your opponent which monster is targeted by “Nightmare Wheel”.",
+    "ReturnDAD": "● If you have only 1 face-down Defense Position monster you can't activate the effect of 'Shifting Shadows'.\n● If you control a monster that is targeted by your opponent's 'Nightmare Wheel', and you flip it face-down with 'Book of Moon', and control at least 1 other face-down Defense Position monster, you can activate the effect of “Shifting Shadows”. However, afterwards you must tell your opponent which monster is targeted by “Nightmare Wheel”.",
+    "Trooper": "● If you have only 1 face-down Defense Position monster you can't activate the effect of 'Shifting Shadows'.\n● If you control a monster that is targeted by your opponent's 'Nightmare Wheel', and you flip it face-down with 'Book of Moon', and control at least 1 other face-down Defense Position monster, you can activate the effect of “Shifting Shadows”. However, afterwards you must tell your opponent which monster is targeted by “Nightmare Wheel”.",
+    "Circle": "● If you have only 1 face-down Defense Position monster you can't activate the effect of 'Shifting Shadows'.\n● If you control a monster that is targeted by your opponent's 'Nightmare Wheel', and you flip it face-down with 'Book of Moon', and control at least 1 other face-down Defense Position monster, you can activate the effect of “Shifting Shadows”. However, afterwards you must tell your opponent which monster is targeted by “Nightmare Wheel”.",
+    "Stein": "● If you have only 1 face-down Defense Position monster you can't activate the effect of 'Shifting Shadows'.\n● If you control a monster that is targeted by your opponent's 'Nightmare Wheel', and you flip it face-down with 'Book of Moon', and control at least 1 other face-down Defense Position monster, you can activate the effect of “Shifting Shadows”. However, afterwards you must tell your opponent which monster is targeted by “Nightmare Wheel”.",
+    "Base": "1. If you have only 1 face-down Defense Position monster you cannot activate the effect of \"Shifting Shadows\".\\n2. If you control a monster that is targeted by your opponent's \"Nightmare Wheel\", and you flip it face-down with \"Book of Moon\", and control at least 1 other face-down Defense Position monster, you can activate the effect of \"Shifting Shadows\". However, afterwards you must tell your opponent which monster is targeted by \"Nightmare Wheel\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 10667321,
+  "name": "Ancient Rules",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Special Summon 1 Level 5 or higher Normal Monster from your hand.\n●If an effect is chained to the activation of “Ancient Rules” that causes you to discard the only Level 5 or higher Normal Monster(s) in your hand, your opponent may look at your hand to confirm this when “Ancient Rules” resolves.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If an effect is chained to the activation of “Ancient Rules” that causes you to discard the only LV 5 or higher Normal Monster(s) in your hand, your opponent may look at your hand to confirm this when “Ancient Rules” resolves.",
+    "TeleDAD": "● If an effect is chained to the activation of “Ancient Rules” that causes you to discard the only LV 5 or higher Normal Monster(s) in your hand, your opponent may look at your hand to confirm this when “Ancient Rules” resolves.",
+    "Gladiator": "● If an effect is chained to the activation of “Ancient Rules” that causes you to discard the only LV 5 or higher Normal Monster(s) in your hand, your opponent may look at your hand to confirm this when “Ancient Rules” resolves.",
+    "ReturnDAD": "● If an effect is chained to the activation of “Ancient Rules” that causes you to discard the only LV 5 or higher Normal Monster(s) in your hand, your opponent may look at your hand to confirm this when “Ancient Rules” resolves.",
+    "Trooper": "● If an effect is chained to the activation of “Ancient Rules” that causes you to discard the only LV 5 or higher Normal Monster(s) in your hand, your opponent may look at your hand to confirm this when “Ancient Rules” resolves.",
+    "Circle": "● If an effect is chained to the activation of “Ancient Rules” that causes you to discard the only LV 5 or higher Normal Monster(s) in your hand, your opponent may look at your hand to confirm this when “Ancient Rules” resolves.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If an effect is chained to the activation of \"Ancient Rules\" that causes you to discard the only Level 5 or higher Normal Monster(s) in your hand, your opponent may look at your hand to confirm this when \"Ancient Rules\" resolves."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

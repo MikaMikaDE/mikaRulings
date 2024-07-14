@@ -1,0 +1,40 @@
+{
+  "id": 80402389,
+  "name": "Verdant Sanctuary",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "● If a Set insect is attacked, this effect will not activate. \n(It needs to be face-up when targeted for the attack).\n● If 2 insects are destroyed at the same time, this effect triggers twice.\n● You search equal to the original Level of the Insect in the GY, not its level on the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect can be used during the Damage Step.\\n2. Since \"Verdant Sanctuary\" activates when an Insect is destroyed and sent to the GY, the effect is based on the original Level of the destroyed Insect in the GY, not its Level on the field.\\n3. If multiple Insects are destroyed simultaneously, a replacement Insect can be added to the hand for each Insect destroyed. Each of these is a separate link on a chain. If 2 Insects are destroyed, a 2-Link chain is formed, etc. Be sure to specifically announce which Level is for each step. (Example: a Level 3 Insect and a Level 4 insect are destroyed. Clearly state which of those is Chain Link 1. Then continue and announce which is Chain Link 2.)\\n4. The effect of \"Verdant Sanctuary\" is an effect controlled and activated by the player who controls the \"Verdant Sanctuary\" card. If the opponent's Insect is destroyed, the controller of \"Verdant Sanctuary\" must ask the opponent whether they wish to activate the effect of \"Verdant Sanctuary\"."
+  },
+  "PSCT": {
+    "Tengu": "① When a face-up Insect is destroyed by battle or effect and sent to the GY: \nIts controller can add 1 Insect monster with the same Level from their Deck to their hand.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

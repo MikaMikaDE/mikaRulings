@@ -1,0 +1,44 @@
+{
+  "id": 95526884,
+  "name": "Hyper Psychic Blaster",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 3000,
+    "def": 2500,
+    "level": 9,
+    "race": "Psychic",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "● If the opponent's monster is no longer on the field (if it was destroyed by battle, or if it was a token), use its original DEF.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Compute the Life Points you gain based on the attacked monster's DEF at the end of the Damage Step. If the attacked monster is no longer on the field, refer to its original DEF.\\n2. Even if \"Hyper Psychic Blaster\" is removed from the field before the end of the Damage Step (example: by a Flip Effect), its effect to gain Life Points still activates."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1 or more non-Tuner Psychics\n① Inflicts Piercing Damage.\n② At the end of the Damage Step, if this card attacked a monster with DEF lower than this card's ATK:\nGain LP equal to the difference.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

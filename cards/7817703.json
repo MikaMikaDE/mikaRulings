@@ -1,0 +1,40 @@
+{
+  "id": 7817703,
+  "name": "Morphtronic Engine",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Morphtronic Engine” makes the equipped monster’s current ATK equal to twice its original ATK. The new ATK value is not considered to be the monster’s original ATK.\n●If the Level of the equipped Morphtronic monster changes to a value other than 3, Morphtronic Engine is destroyed.\n●If your second Standby Phase after activating Morphtronic Engine is skipped, or if the Morphtronic Engine cannot be destroyed (due to Magic Reflector, etc.), Morphtronic Engine is not destroyed and remains equipped to the Morphtronic monster. The monster's original ATK remains doubled.\n●The effect to destroy the equipped Morphtronic monster during your second Standby Phase after activating Morphtronic Engine starts a Chain.\n●If a Morphtronic monster is equipped with 2 or more copies of Morphtronic Engine, the additional copies are redundant because only the monster's original ATK is doubled.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Morphtronic Engine” makes the equipped monster’s current ATK equal to twice its original ATK. The new ATK value isn't considered to be the monster’s original ATK.\n● If the LV of the equipped 'Morphtronic' monster changes to a value other than 3, 'Morphtronic Engine' is destroyed.\n● If your second Standby Phase after activating 'Morphtronic Engine' is skipped, or if the 'Morphtronic Engine' can't be destroyed (due to 'Magic Reflector', etc.), 'Morphtronic Engine' isn't destroyed and remains equipped to the 'Morphtronic' monster. The monster's original ATK remains doubled.\n● The effect to destroy the equipped 'Morphtronic' monster during your second Standby Phase after activating 'Morphtronic Engine' starts a Chain.\n● If a 'Morphtronic' monster is equipped with 2 or more copies of 'Morphtronic Engine', the additional copies are redundant because only the monster's original ATK is doubled.",
+    "TeleDAD": "● The effect of “Morphtronic Engine” makes the equipped monster’s current ATK equal to twice its original ATK. The new ATK value isn't considered to be the monster’s original ATK.\n● If the LV of the equipped 'Morphtronic' monster changes to a value other than 3, 'Morphtronic Engine' is destroyed.\n● If your second Standby Phase after activating 'Morphtronic Engine' is skipped, or if the 'Morphtronic Engine' can't be destroyed (due to 'Magic Reflector', etc.), 'Morphtronic Engine' isn't destroyed and remains equipped to the 'Morphtronic' monster. The monster's original ATK remains doubled.\n● The effect to destroy the equipped 'Morphtronic' monster during your second Standby Phase after activating 'Morphtronic Engine' starts a Chain.\n● If a 'Morphtronic' monster is equipped with 2 or more copies of 'Morphtronic Engine', the additional copies are redundant because only the monster's original ATK is doubled.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Morphtronic Engine\" makes the equipped monster's current ATK equal to twice its original ATK. The new ATK value is not considered to be the monster's original ATK.\\n2. If the Level of the equipped 'Morphtronic' monster changes to a value other than 3, \"Morphtronic Engine\" is destroyed.\\n3. If your second Standby Phase after activating \"Morphtronic Engine\" is skipped, or if the \"Morphtronic Engine\" cannot be destroyed (due to \"Magic Reflector\", etc.), \"Morphtronic Engine\" is not destroyed and remains equipped to the 'Morphtronic' monster. The monster's original ATK remains doubled.\\n4. The effect to destroy the equipped 'Morphtronic' monster during your second Standby Phase after activating \"Morphtronic Engine\" starts a Chain.\\n5. If a 'Morphtronic' monster is equipped with 2 or more copies of \"Morphtronic Engine\", the additional copies are redundant because only the monster's original ATK is doubled."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

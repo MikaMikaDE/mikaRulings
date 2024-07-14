@@ -1,0 +1,44 @@
+{
+  "id": 64910482,
+  "name": "T.G. Cyber Magician",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": "Spellcaster",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. No part of this effect is affected by \"Skill Drain\".\\n2. You don't have to use monsters in your hand as Synchro Material Monsters.\\n3. You can use a mix of monsters on the field and \"T.G.\" monsters in your hand as Synchro Material Monsters.\\n4. If you target your opponent's \"T.G. Cyber Magician\" with \"Synchro Material\", you cannot use \"T.G.\" monsters in your hand as Synchro Material Monsters.\\n5. You can use \"T.G.\" monsters in your hand as Synchro Material Monsters when you Synchro Summon with this card due to \"Urgent Tuning\".\\n6. The following rules apply to \"T.G. Cyber Magician\", \"T.G. Striker\", \"T.G. Warwolf\", and \"T.G. Rush Rhino\".\\n\\nIf this card is destroyed while face-down, its effect to add a \"T.G.\" monster to your hand still activates during the End Phase.\\n\\nThe effect to add 1 \"T.G.\" monster from your Deck to your hand activates in the GY, during your End Phase, only if this card is still in the GY. It does not need to be in the GY when the effect resolves.\\n\\nIf your opponent controls this card when it is destroyed, its effect to add a \"T.G.\" monster to your hand still activates."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

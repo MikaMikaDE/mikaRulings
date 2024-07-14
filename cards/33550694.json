@@ -1,0 +1,40 @@
+{
+  "id": 33550694,
+  "name": "Fusion Gate",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Field"
+  },
+  "Rulings": {
+    "Tengu": "(1) As long as this card remains face-up on the field, a Fusion Monster can be Fusion Summoned without using Polymerization. The Fusion Material monsters used in the Fusion Summon are not sent to the GY, but are removed from play.\n●The (1) Ignition-like Effect activates & resolves on the field.\n●Both Players can activate this effect on their turn.\n●This effect can be activated more than once per turn.\n●There is no activation cost. Fusion Material monsters are banished when this effect resolves.\n●This effect can be negated by Royal Oppression, and this card will be destroyed.\n●Fusion Summoned monster can later be Special Summoned from the GY / banished.",
+    "Goat": "●Fusion Monsters Special Summoned without Polymerization while Fusion Gate is on the field are still considered properly Summoned by a Fusion Summon. So they may be the target of Monster Reborn, Call of the Haunted, etc. (This does not apply to Fusion Monsters Special Summoned by the effects of other cards, such as Magicial Scientist or Summoner of Illusions.)",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Fusion Monsters Special Summoned without 'Polymerization' while 'Fusion Gate' is on the field are still considered properly Summoned by a Fusion Summon. So they may be the target of 'Monster Reborn', 'Call of the Haunted', etc. (This does not apply to Fusion Monsters Special Summoned by the effects of other cards, such as 'Magicial Scientist' or 'Summoner of Illusions'.)\n● ",
+    "TeleDAD": "● Fusion Monsters Special Summoned without 'Polymerization' while 'Fusion Gate' is on the field are still considered properly Summoned by a Fusion Summon. So they may be the target of 'Monster Reborn', 'Call of the Haunted', etc. (This does not apply to Fusion Monsters Special Summoned by the effects of other cards, such as 'Magicial Scientist' or 'Summoner of Illusions'.)\n● ",
+    "Gladiator": "● Fusion Monsters Special Summoned without 'Polymerization' while 'Fusion Gate' is on the field are still considered properly Summoned by a Fusion Summon. So they may be the target of 'Monster Reborn', 'Call of the Haunted', etc. (This does not apply to Fusion Monsters Special Summoned by the effects of other cards, such as 'Magicial Scientist' or 'Summoner of Illusions'.)\n● ",
+    "ReturnDAD": "● Fusion Monsters Special Summoned without 'Polymerization' while 'Fusion Gate' is on the field are still considered properly Summoned by a Fusion Summon. So they may be the target of 'Monster Reborn', 'Call of the Haunted', etc. (This does not apply to Fusion Monsters Special Summoned by the effects of other cards, such as 'Magicial Scientist' or 'Summoner of Illusions'.)\n● ",
+    "Trooper": "● Fusion Monsters Special Summoned without 'Polymerization' while 'Fusion Gate' is on the field are still considered properly Summoned by a Fusion Summon. So they may be the target of 'Monster Reborn', 'Call of the Haunted', etc. (This does not apply to Fusion Monsters Special Summoned by the effects of other cards, such as 'Magicial Scientist' or 'Summoner of Illusions'.)\n● ",
+    "Circle": "● Fusion Monsters Special Summoned without 'Polymerization' while 'Fusion Gate' is on the field are still considered properly Summoned by a Fusion Summon. So they may be the target of 'Monster Reborn', 'Call of the Haunted', etc. (This does not apply to Fusion Monsters Special Summoned by the effects of other cards, such as 'Magicial Scientist' or 'Summoner of Illusions'.)\n● ",
+    "Stein": "● Fusion Monsters Special Summoned without 'Polymerization' while 'Fusion Gate' is on the field are still considered properly Summoned by a Fusion Summon. So they may be the target of 'Monster Reborn', 'Call of the Haunted', etc. (This does not apply to Fusion Monsters Special Summoned by the effects of other cards, such as 'Magicial Scientist' or 'Summoner of Illusions'.)\n● ",
+    "Base": "1. Fusion Monsters Special Summoned without \"Polymerization\" while \"Fusion Gate\" is on the field are still considered properly Summoned by a Fusion Summon. So they may be the target of \"Monster Reborn\", \"Call of the Haunted\", etc. (This does not apply to Fusion Monsters Special Summoned by the effects of other cards, such as \"Magical Scientist\" or \"Summoner of Illusions\".)\\n2. [FORUM] Either player can activate this effect. Note that since this card uses Problem-Solving Text, the presence of a colon also means that using this effect starts a chain."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

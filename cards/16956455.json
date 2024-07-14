@@ -1,0 +1,44 @@
+{
+  "id": 16956455,
+  "name": "Chiron the Mage",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 1000,
+    "level": 4,
+    "race": "Beast-Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Discarding 1 Spell Card is a cost to activate this effect.\n●If you activate the effect of “Chiron the Mage”, then flip it face-down, then flip it face-up all in the same turn, you can activate its effect again.\n●The restriction that you can only activate this effect once per turn is a condition, not an effect. So if “Skill Drain” is on the field, you can pay the cost once per turn (for no effect), but not pay the cost continuously in the same turn.",
+    "Goat": "●Discarding 1 Spell Card is a cost to activate this effect.\n●If you activate the effect of “Chiron the Mage”, then flip it face-down, then flip it face-up all in the same turn, you can activate its effect again.\n●The restriction that you can only activate this effect once per turn is a condition, not an effect. So if “Skill Drain” is on the field, you can pay the cost once per turn (for no effect), but not pay the cost continuously in the same turn.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Discarding 1 Spell Card is a cost to activate this effect.\n● If you activate the effect of “Chiron the Mage”, then flip it face-down, then flip it face-up all in the same turn, you can activate its effect again.\n● The restriction that you can only activate this effect once per turn is a condition, not an effect. So if “Skill Drain” is on the field, you can pay the cost once per turn (for no effect), but not pay the cost continuously in the same turn.",
+    "TeleDAD": "● Discarding 1 Spell Card is a cost to activate this effect.\n● If you activate the effect of “Chiron the Mage”, then flip it face-down, then flip it face-up all in the same turn, you can activate its effect again.\n● The restriction that you can only activate this effect once per turn is a condition, not an effect. So if “Skill Drain” is on the field, you can pay the cost once per turn (for no effect), but not pay the cost continuously in the same turn.",
+    "Gladiator": "● Discarding 1 Spell Card is a cost to activate this effect.\n● If you activate the effect of “Chiron the Mage”, then flip it face-down, then flip it face-up all in the same turn, you can activate its effect again.\n● The restriction that you can only activate this effect once per turn is a condition, not an effect. So if “Skill Drain” is on the field, you can pay the cost once per turn (for no effect), but not pay the cost continuously in the same turn.",
+    "ReturnDAD": "● Discarding 1 Spell Card is a cost to activate this effect.\n● If you activate the effect of “Chiron the Mage”, then flip it face-down, then flip it face-up all in the same turn, you can activate its effect again.\n● The restriction that you can only activate this effect once per turn is a condition, not an effect. So if “Skill Drain” is on the field, you can pay the cost once per turn (for no effect), but not pay the cost continuously in the same turn.",
+    "Trooper": "● Discarding 1 Spell Card is a cost to activate this effect.\n● If you activate the effect of “Chiron the Mage”, then flip it face-down, then flip it face-up all in the same turn, you can activate its effect again.\n● The restriction that you can only activate this effect once per turn is a condition, not an effect. So if “Skill Drain” is on the field, you can pay the cost once per turn (for no effect), but not pay the cost continuously in the same turn.",
+    "Circle": "● Discarding 1 Spell Card is a cost to activate this effect.\n● If you activate the effect of “Chiron the Mage”, then flip it face-down, then flip it face-up all in the same turn, you can activate its effect again.\n● The restriction that you can only activate this effect once per turn is a condition, not an effect. So if “Skill Drain” is on the field, you can pay the cost once per turn (for no effect), but not pay the cost continuously in the same turn.",
+    "Stein": "● Discarding 1 Spell Card is a cost to activate this effect.\n● If you activate the effect of “Chiron the Mage”, then flip it face-down, then flip it face-up all in the same turn, you can activate its effect again.\n● The restriction that you can only activate this effect once per turn is a condition, not an effect. So if “Skill Drain” is on the field, you can pay the cost once per turn (for no effect), but not pay the cost continuously in the same turn.",
+    "Base": "1. Discarding 1 Spell Card is a cost to activate this effect.\\n2. If you activate the effect of \"Chiron the Mage\", then flip it face-down, then flip it face-up all in the same turn, you can activate its effect again.\\n3. The restriction that you can only activate this effect once per turn is a condition, not an effect. So if \"Skill Drain\" is on the field, you can pay the cost once per turn (for no effect), but not pay the cost continuously in the same turn."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

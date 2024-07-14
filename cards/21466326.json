@@ -1,0 +1,40 @@
+{
+  "id": 21466326,
+  "name": "Blasting the Ruins",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Even if you activate Blasting the Ruins and an effect is chained that reduces your GY to less than 30 cards, Blasting the Ruins still resolves because the condition was correct at the time of activation.",
+    "Goat": "●Even if you activate Blasting the Ruins and an effect is chained that reduces your GY to less than 30 cards, Blasting the Ruins still resolves because the condition was correct at the time of activation.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Even if you activate 'Blasting the Ruins' and an effect is chained that reduces your GY to less than 30 cards, 'Blasting the Ruins' still resolves because the condition was correct at the time of activation.",
+    "TeleDAD": "● Even if you activate 'Blasting the Ruins' and an effect is chained that reduces your GY to less than 30 cards, 'Blasting the Ruins' still resolves because the condition was correct at the time of activation.",
+    "Gladiator": "● Even if you activate 'Blasting the Ruins' and an effect is chained that reduces your GY to less than 30 cards, 'Blasting the Ruins' still resolves because the condition was correct at the time of activation.",
+    "ReturnDAD": "● Even if you activate 'Blasting the Ruins' and an effect is chained that reduces your GY to less than 30 cards, 'Blasting the Ruins' still resolves because the condition was correct at the time of activation.",
+    "Trooper": "● Even if you activate 'Blasting the Ruins' and an effect is chained that reduces your GY to less than 30 cards, 'Blasting the Ruins' still resolves because the condition was correct at the time of activation.",
+    "Circle": "● Even if you activate 'Blasting the Ruins' and an effect is chained that reduces your GY to less than 30 cards, 'Blasting the Ruins' still resolves because the condition was correct at the time of activation.",
+    "Stein": "● Even if you activate 'Blasting the Ruins' and an effect is chained that reduces your GY to less than 30 cards, 'Blasting the Ruins' still resolves because the condition was correct at the time of activation.",
+    "Base": "1. Even if you activate \"Blasting the Ruins\" and an effect is chained that reduces your GY to less than 30 cards, \"Blasting the Ruins\" still resolves because the condition was correct at the time of activation."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

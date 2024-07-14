@@ -1,0 +1,40 @@
+{
+  "id": 41925941,
+  "name": "Bark of Dark Ruler",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card targets your opponent’s monster that is battling your Fiend-Type monster.\n●Paying Life Points for this card is a cost.\n●You cannot pay more Life Points than necessary. This means that if the target monster has ATK 1500 / DEF 1800, the highest amount of Life Points you can pay is 1800. The target monster will then be an ATK 0 / DEF 0. If the target monster has ATK 1850 / DEF 500, the most you can pay is 1800. This is because you have to play in multiples of 100, and paying 1900 would be paying more than necessary. So you may pay 1800 Life Points and the target monster would become an ATK 50 / DEF 0.",
+    "Goat": "●This card targets your opponent’s monster that is battling your Fiend monster.\n●Paying LP for this card is a cost.\n●You cannot pay more LP than necessary. This means that if the target monster has ATK 1500 / DEF 1800, the highest amount of LP you can pay is 1800. The target monster will then be an ATK 0 / DEF 0. If the target monster has ATK 1850 / DEF 500, the most you can pay is 1800. This is because you have to play in multiples of 100, and paying 1900 would be paying more than necessary. So you may pay 1800 LP and the target monster would become an ATK 50 / DEF 0.\n●“Bark of Dark Ruler” is a targeting effect.\n●Payment of LP is a cost to activate “Bark of Dark Ruler.”\n●Bark of Dark Ruler” may be activated in the Damage Step before Damage Calculation.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card targets your opponent’s monster that is battling your Fiend.\n● Paying LP for this card is a cost. \n● You can't pay more LP than necessary. This means that if the target monster has ATK 1500 / DEF 1800, the highest amount of LP you can pay is 1800. The target monster will then be an ATK 0 / DEF 0. If the target monster has ATK 1850 / DEF 500, the most you can pay is 1800. This is because you have to play in multiples of 100, and paying 1900 would be paying more than necessary. So you may pay 1800 LP and the target monster would become an ATK 50 / DEF 0.",
+    "TeleDAD": "● This card targets your opponent’s monster that is battling your Fiend.\n● Paying LP for this card is a cost. \n● You can't pay more LP than necessary. This means that if the target monster has ATK 1500 / DEF 1800, the highest amount of LP you can pay is 1800. The target monster will then be an ATK 0 / DEF 0. If the target monster has ATK 1850 / DEF 500, the most you can pay is 1800. This is because you have to play in multiples of 100, and paying 1900 would be paying more than necessary. So you may pay 1800 LP and the target monster would become an ATK 50 / DEF 0.",
+    "Gladiator": "● This card targets your opponent’s monster that is battling your Fiend.\n● Paying LP for this card is a cost. \n● You can't pay more LP than necessary. This means that if the target monster has ATK 1500 / DEF 1800, the highest amount of LP you can pay is 1800. The target monster will then be an ATK 0 / DEF 0. If the target monster has ATK 1850 / DEF 500, the most you can pay is 1800. This is because you have to play in multiples of 100, and paying 1900 would be paying more than necessary. So you may pay 1800 LP and the target monster would become an ATK 50 / DEF 0.",
+    "ReturnDAD": "● This card targets your opponent’s monster that is battling your Fiend.\n● Paying LP for this card is a cost. \n● You can't pay more LP than necessary. This means that if the target monster has ATK 1500 / DEF 1800, the highest amount of LP you can pay is 1800. The target monster will then be an ATK 0 / DEF 0. If the target monster has ATK 1850 / DEF 500, the most you can pay is 1800. This is because you have to play in multiples of 100, and paying 1900 would be paying more than necessary. So you may pay 1800 LP and the target monster would become an ATK 50 / DEF 0.",
+    "Trooper": "● This card targets your opponent’s monster that is battling your Fiend.\n● Paying LP for this card is a cost. \n● You can't pay more LP than necessary. This means that if the target monster has ATK 1500 / DEF 1800, the highest amount of LP you can pay is 1800. The target monster will then be an ATK 0 / DEF 0. If the target monster has ATK 1850 / DEF 500, the most you can pay is 1800. This is because you have to play in multiples of 100, and paying 1900 would be paying more than necessary. So you may pay 1800 LP and the target monster would become an ATK 50 / DEF 0.",
+    "Circle": "● This card targets your opponent’s monster that is battling your Fiend.\n● Paying LP for this card is a cost. \n● You can't pay more LP than necessary. This means that if the target monster has ATK 1500 / DEF 1800, the highest amount of LP you can pay is 1800. The target monster will then be an ATK 0 / DEF 0. If the target monster has ATK 1850 / DEF 500, the most you can pay is 1800. This is because you have to play in multiples of 100, and paying 1900 would be paying more than necessary. So you may pay 1800 LP and the target monster would become an ATK 50 / DEF 0.",
+    "Stein": "● This card targets your opponent’s monster that is battling your Fiend.\n● Paying LP for this card is a cost. \n● You can't pay more LP than necessary. This means that if the target monster has ATK 1500 / DEF 1800, the highest amount of LP you can pay is 1800. The target monster will then be an ATK 0 / DEF 0. If the target monster has ATK 1850 / DEF 500, the most you can pay is 1800. This is because you have to play in multiples of 100, and paying 1900 would be paying more than necessary. So you may pay 1800 LP and the target monster would become an ATK 50 / DEF 0.",
+    "Base": "1. This card targets your opponent's monster that is battling your Fiend-Type monster.\\n2. Paying Life Points for this card is a cost.\\n3. You cannot pay more Life Points than necessary. This means that if the target monster has ATK 1500 / DEF 1800, the highest amount of Life Points you can pay is 1800. The target monster will then be an ATK 0 / DEF 0. If the target monster has ATK 1850 / DEF 500, the most you can pay is 1800. This is because you have to play in multiples of 100, and paying 1900 would be paying more than necessary. So you may pay 1800 Life Points and the target monster would become an ATK 50 / DEF 0."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

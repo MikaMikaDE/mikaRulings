@@ -1,0 +1,44 @@
+{
+  "id": 88236094,
+  "name": "Aswan Apparition",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 500,
+    "level": 3,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "(1) If this card inflicts Battle Damage to your opponent's Life Points, you can return 1 Trap Card from your GY to the top of your Deck.\n●The (1) Trigger Effect is optional, it activates & resolves on the field.\n●This effect activates in Substep 5 - After Damage Calculation.\n●This effect targets a card in the GY, it will be negated by Necrovalley.",
+    "Goat": "●Aswan Apparition's effect is resolved after damage calculation.\n●Aswan Apparition's effect does target a card in the GY, so the effect will be negated if The End of Anubis is face-up on the field.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Aswan Apparition''s effect is resolved after damage calculation.\n● 'Aswan Apparition''s effect does target a card in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "TeleDAD": "● 'Aswan Apparition''s effect is resolved after damage calculation.\n● 'Aswan Apparition''s effect does target a card in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "Gladiator": "● 'Aswan Apparition''s effect is resolved after damage calculation.\n● 'Aswan Apparition''s effect does target a card in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "ReturnDAD": "● 'Aswan Apparition''s effect is resolved after damage calculation.\n● 'Aswan Apparition''s effect does target a card in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "Trooper": "● 'Aswan Apparition''s effect is resolved after damage calculation.\n● 'Aswan Apparition''s effect does target a card in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "Circle": "● 'Aswan Apparition''s effect is resolved after damage calculation.\n● 'Aswan Apparition''s effect does target a card in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "Stein": "● 'Aswan Apparition''s effect is resolved after damage calculation.\n● 'Aswan Apparition''s effect does target a card in the GY, so the effect will be negated if 'The End of Anubis' is applying.",
+    "Base": "1. The effect of \"Aswan Apparition\" is resolved after damage calculation.\\n2. The effect of \"Aswan Apparition\" does target a card in the GY, so the effect will be negated if \"The End of Anubis\" is face-up on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 21768554,
+  "name": "Mass Hypnosis",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can only select as many monsters with A-Counters as you have empty Monster Card Zones.\n●If a monster you control with the effect of Mass Hypnosis loses it’s A-Counter, then control is returned to the opponent.\n●If a monster you control with the effect of Mass Hypnosis is flipped face-down, then you will keep continue to control it, even though it no longer has A-Counters and even if Mass Hypnosis is removed from the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can only select as many monsters with A-Counters as you have empty Monster Card Zones.\n● If a monster you control with the effect of 'Mass Hypnosis' loses it’s A-Counter, then control is returned to the opponent.\n● If a monster you control with the effect of 'Mass Hypnosis' is flipped face-down, then you will keep continue to control it, even though it no longer has A-Counters and even if 'Mass Hypnosis' leaves the field.",
+    "TeleDAD": "● You can only select as many monsters with A-Counters as you have empty Monster Card Zones.\n● If a monster you control with the effect of 'Mass Hypnosis' loses it’s A-Counter, then control is returned to the opponent.\n● If a monster you control with the effect of 'Mass Hypnosis' is flipped face-down, then you will keep continue to control it, even though it no longer has A-Counters and even if 'Mass Hypnosis' leaves the field.",
+    "Gladiator": "● You can only select as many monsters with A-Counters as you have empty Monster Card Zones.\n● If a monster you control with the effect of 'Mass Hypnosis' loses it’s A-Counter, then control is returned to the opponent.\n● If a monster you control with the effect of 'Mass Hypnosis' is flipped face-down, then you will keep continue to control it, even though it no longer has A-Counters and even if 'Mass Hypnosis' leaves the field.",
+    "ReturnDAD": "● You can only select as many monsters with A-Counters as you have empty Monster Card Zones.\n● If a monster you control with the effect of 'Mass Hypnosis' loses it’s A-Counter, then control is returned to the opponent.\n● If a monster you control with the effect of 'Mass Hypnosis' is flipped face-down, then you will keep continue to control it, even though it no longer has A-Counters and even if 'Mass Hypnosis' leaves the field.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● You can only select as many monsters with A-Counters as you have empty Monster Card Zones.\n● If a monster you control with the effect of 'Mass Hypnosis' loses it’s A-Counter, then control is returned to the opponent.\n● If a monster you control with the effect of 'Mass Hypnosis' is flipped face-down, then you will keep continue to control it, even though it no longer has A-Counters and even if 'Mass Hypnosis' leaves the field.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can only select as many monsters with A-Counters as you have empty Monster Card Zones.\\n2. If a monster you control with the effect of \"Mass Hypnosis\" loses it's A-Counter, then control is returned to the opponent.\\n3. If a monster you control with the effect of \"Mass Hypnosis\" is flipped face-down, then you will keep continue to control it, even though it no longer has A-Counters and even if \"Mass Hypnosis\" is removed from the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

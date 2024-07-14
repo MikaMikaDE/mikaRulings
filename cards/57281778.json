@@ -1,0 +1,44 @@
+{
+  "id": 57281778,
+  "name": "Ryu Kokki",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 2000,
+    "level": 6,
+    "race": "Zombie",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "(1) If this card battles a Warrior or Spellcaster-Type monster, destroy that monster at the end of the Damage Step.\n●The (1) mandatory Trigger Effect activates in Substep 7 - End of the Damage Step.\n●If Ryu Kokki was destroyed by battle, this effect still activates.\n●The monster's current Type must be Warrior / Spellcaster in order for this effect to activate.\n●VS. Goyo Guardian: The effects of Goyo Guardian and Ryu Kokki form a single chain during Substep 7 of the Damage Step when they battle. Kokki's mandatory trigger effect will be Chain Link 1.\n●If Ryu Kokki battles with Dark Magician of Chaos, Ryu Kokki is destroyed and removed from play by Dark Magician of Chaos' effect, and Dark Magician of Chaos is removed from play because it is destroyed by Ryu Kokki's effect and removed by its own effect.",
+    "Goat": "●If Ryu Kokki battles with Dark Magician of Chaos, Ryu Kokki is destroyed and removed from play by Dark Magician of Chaos' effect, and Dark Magician of Chaos is removed from play because it is destroyed by Ryu Kokki's effect and removed by its own effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Ryu Kokki' battles with 'Dark Magician of Chaos', 'Ryu Kokki' is destroyed and removed from play by 'Dark Magician of Chaos'' effect, and 'Dark Magician of Chaos' is removed from play because it is destroyed by 'Ryu Kokki''s effect and removed by its own effect.",
+    "TeleDAD": "● If 'Ryu Kokki' battles with 'Dark Magician of Chaos', 'Ryu Kokki' is destroyed and removed from play by 'Dark Magician of Chaos'' effect, and 'Dark Magician of Chaos' is removed from play because it is destroyed by 'Ryu Kokki''s effect and removed by its own effect.",
+    "Gladiator": "● If 'Ryu Kokki' battles with 'Dark Magician of Chaos', 'Ryu Kokki' is destroyed and removed from play by 'Dark Magician of Chaos'' effect, and 'Dark Magician of Chaos' is removed from play because it is destroyed by 'Ryu Kokki''s effect and removed by its own effect.",
+    "ReturnDAD": "● If 'Ryu Kokki' battles with 'Dark Magician of Chaos', 'Ryu Kokki' is destroyed and removed from play by 'Dark Magician of Chaos'' effect, and 'Dark Magician of Chaos' is removed from play because it is destroyed by 'Ryu Kokki''s effect and removed by its own effect.",
+    "Trooper": "● If 'Ryu Kokki' battles with 'Dark Magician of Chaos', 'Ryu Kokki' is destroyed and removed from play by 'Dark Magician of Chaos'' effect, and 'Dark Magician of Chaos' is removed from play because it is destroyed by 'Ryu Kokki''s effect and removed by its own effect.",
+    "Circle": "● If 'Ryu Kokki' battles with 'Dark Magician of Chaos', 'Ryu Kokki' is destroyed and removed from play by 'Dark Magician of Chaos'' effect, and 'Dark Magician of Chaos' is removed from play because it is destroyed by 'Ryu Kokki''s effect and removed by its own effect.",
+    "Stein": "● If 'Ryu Kokki' battles with 'Dark Magician of Chaos', 'Ryu Kokki' is destroyed and removed from play by 'Dark Magician of Chaos'' effect, and 'Dark Magician of Chaos' is removed from play because it is destroyed by 'Ryu Kokki''s effect and removed by its own effect.",
+    "Base": "1. If \"Ryu Kokki\" battles with \"Dark Magician of Chaos\", \"Ryu Kokki\" is destroyed and removed from play by the effect of \"Dark Magician of Chaos\", and \"Dark Magician of Chaos\" is removed from play because it is destroyed by the effect of \"Ryu Kokki\" and removed by its own effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

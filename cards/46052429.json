@@ -1,0 +1,40 @@
+{
+  "id": 46052429,
+  "name": "Advanced Ritual Art",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Ritual"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● You can't banish \"Djinn Releaser of Rituals\" when resolving this card.\n● This card can Ritual Summon any Ritual Monster.\n● If \"Dimensional Fissure\" is applying, the sent monsters are banished, and you still Ritual Summon.\n● The monsters sent count towards the number of monsters \"used\" for that Ritual Summon.",
+    "Vegas": "● You can't banish \"Djinn Releaser of Rituals\" when resolving this card.\n● This card can Ritual Summon any Ritual Monster.\n● If \"Dimensional Fissure\" is applying, the sent monsters are banished, and you still Ritual Summon.\n● The monsters sent count towards the number of monsters \"used\" for that Ritual Summon.",
+    "Meadowlands": "● You can't banish \"Djinn Releaser of Rituals\" when resolving this card.\n● This card can Ritual Summon any Ritual Monster.\n● If \"Dimensional Fissure\" is applying, the sent monsters are banished, and you still Ritual Summon.\n● The monsters sent count towards the number of monsters \"used\" for that Ritual Summon.",
+    "FireWater": "● You can't banish \"Djinn Releaser of Rituals\" when resolving this card.\n● This card can Ritual Summon any Ritual Monster.\n● If \"Dimensional Fissure\" is applying, the sent monsters are banished, and you still Ritual Summon.\n● The monsters sent count towards the number of monsters \"used\" for that Ritual Summon.",
+    "Cat": "● This effect does not target anything.\n● You choose the Ritual Monster you want to Ritual Summon when the effect resolves.",
+    "TeleDAD": "● This effect does not target anything.\n● You choose the Ritual Monster you want to Ritual Summon when the effect resolves.",
+    "Gladiator": "● This effect does not target anything.\n● You choose the Ritual Monster you want to Ritual Summon when the effect resolves.",
+    "ReturnDAD": "● This effect does not target anything.\n● You choose the Ritual Monster you want to Ritual Summon when the effect resolves.",
+    "Trooper": "● This effect does not target anything.\n● You choose the Ritual Monster you want to Ritual Summon when the effect resolves.",
+    "Circle": "● This effect does not target anything.\n● You choose the Ritual Monster you want to Ritual Summon when the effect resolves.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect does not target anything.\\n2. You choose the Ritual Monster you want to Ritual Summon when the effect resolves."
+  },
+  "PSCT": {
+    "Tengu": "① Send any number of Normal Monsters from your Deck to the GY, and if you do, Ritual Summon 1 Ritual Monster from your hand, whose Level exactly equals their combined Levels.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Send Normal Monsters from your Deck to the GY, then Ritual Summon any 1 Ritual Monster from your hand, whose Level exactly equals the total Level of those sent monsters.",
+    "Meadowlands": "① Send Normal Monsters from your Deck to the GY, then Ritual Summon any 1 Ritual Monster from your hand, whose Level exactly equals the total Level of those sent monsters.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

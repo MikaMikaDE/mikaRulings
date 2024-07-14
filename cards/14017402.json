@@ -1,0 +1,44 @@
+{
+  "id": 14017402,
+  "name": "Dragon Knight Draco-Equiste",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 3200,
+    "def": 2000,
+    "level": 10,
+    "race": "Dragon",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you properly Summoned this card, you can Special Summon it from the GY later with \"Call of the Haunted\", etc.\\n2. The effect to copy a Dragon-Type Synchro Monster's effect targets that monster. Removing the monster from play happens at resolution, it is not a cost.\\n3. You can target a Dragon-Type Synchro Monster in your opponent's GY.\\n4. If you copy the effect of \"Stardust Dragon\" and then Tribute this card to activate that effect, you cannot Special Summon this card back from the GY during the End Phase.\\n5. If you copy the effect of \"Majestic Star Dragon\", then when you return \"Dragon Knight Draco-Equiste\" to the Extra Deck during your End Phase, you will also Special Summon \"Stardust Dragon\" from the GY.\\n6. If both players control \"Dragon Knight Draco-Equiste\" and you activate \"Ceasefire\", you will take the damage from your \"Ceasefire\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

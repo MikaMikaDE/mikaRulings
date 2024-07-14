@@ -1,0 +1,40 @@
+{
+  "id": 95281259,
+  "name": "The Warrior Returning Alive",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You may select a Warrior-Type Fusion Monster or Synchro Monster in your GY, but it will be returned to the Extra Deck instead of your hand.\n●You may select any Warrior-Type monster to return to your hand, regardless of its Summoning requirements. So you may select a Black Luster Soldier - Envoy of the Beginning even if it was never properly Summoned.",
+    "Goat": "●You may select a Warrior Fusion Monster in your GY, but it will be returned to the Fusion Deck instead of your hand.\n●You may select any Warrior monster to return to your hand, regardless of its Summoning requirements. So you may select a Black Luster Soldier - Envoy of the Beginning even if it was never properly Summoned.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You may select a Warrior-Type Fusion Monster or Synchro Monster in your GY, but it will be returned to the Extra Deck instead of your hand.\n● You may select any Warrior to return to your hand, regardless of its Summoning requirements. So you may select a 'Black Luster Soldier - Envoy of the Beginning' even if it was never properly Summoned.",
+    "TeleDAD": "● You may select a Warrior-Type Fusion Monster or Synchro Monster in your GY, but it will be returned to the Extra Deck instead of your hand.\n● You may select any Warrior to return to your hand, regardless of its Summoning requirements. So you may select a 'Black Luster Soldier - Envoy of the Beginning' even if it was never properly Summoned.",
+    "Gladiator": "● You may select a Warrior-Type Fusion Monster in your GY, but it will be returned to the Fusion Deck instead of your hand.\n● You may select any Warrior to return to your hand, regardless of its Summoning requirements. So you may select a 'Black Luster Soldier - Envoy of the Beginning' even if it was never properly Summoned.",
+    "ReturnDAD": "● You may select a Warrior-Type Fusion Monster in your GY, but it will be returned to the Fusion Deck instead of your hand.\n● You may select any Warrior to return to your hand, regardless of its Summoning requirements. So you may select a 'Black Luster Soldier - Envoy of the Beginning' even if it was never properly Summoned.",
+    "Trooper": "● You may select a Warrior-Type Fusion Monster in your GY, but it will be returned to the Fusion Deck instead of your hand.\n● You may select any Warrior to return to your hand, regardless of its Summoning requirements. So you may select a 'Black Luster Soldier - Envoy of the Beginning' even if it was never properly Summoned.",
+    "Circle": "● You may select a Warrior-Type Fusion Monster in your GY, but it will be returned to the Fusion Deck instead of your hand.\n● You may select any Warrior to return to your hand, regardless of its Summoning requirements. So you may select a 'Black Luster Soldier - Envoy of the Beginning' even if it was never properly Summoned.",
+    "Stein": "● You may select a Warrior-Type Fusion Monster in your GY, but it will be returned to the Fusion Deck instead of your hand.\n● You may select any Warrior to return to your hand, regardless of its Summoning requirements. So you may select a 'Black Luster Soldier - Envoy of the Beginning' even if it was never properly Summoned.",
+    "Base": "1. You may select a Warrior-Type Fusion Monster or Synchro Monster in your GY, but it will be returned to the Extra Deck instead of your hand.\\n2. You may select any Warrior-Type monster to return to your hand, regardless of its Summoning requirements. So you may select a \"Black Luster Soldier - Envoy of the Beginning\" even if it was never properly Summoned."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

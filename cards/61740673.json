@@ -1,0 +1,40 @@
+{
+  "id": 61740673,
+  "name": "Imperial Order",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●When Imperial Order is activated, Mystical Space Typhoon can be chained to destroy it.\n●If you chain Imperial Order when a Spell Card is activated, Imperial Order will resolve first and negate the Spell Card.\n●If you activate Imperial Order while Equip Spell Cards are equipped to monsters, the Equip Spell Cards remain equipped to the monsters but their effects are negated.\n●Imperial Order cannot be activated in the Damage Step, so you cannot activate it to negate Rush Recklessly, etc. in the Damage Step.\n●Spell Cards can still be activated while Imperial Order is active, but their effects are negated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Imperial Order' is activated, 'Mystical Space Typhoon' can be chained to destroy it.\n● If you chain 'Imperial Order' when a Spell Card is activated, 'Imperial Order' will resolve first and negate the Spell Card.\n● If you activate 'Imperial Order' while Equip Spell Cards are equipped to monsters, the Equip Spell Cards remain equipped to the monsters but their effects are negated.\n● 'Imperial Order' can't be activated in the Damage Step, so you can't activate it to negate 'Rush Recklessly', etc. in the Damage Step.\n● Spell Cards can still be activated while 'Imperial Order' is applying, but their effects are negated.",
+    "TeleDAD": "● When 'Imperial Order' is activated, 'Mystical Space Typhoon' can be chained to destroy it.\n● If you chain 'Imperial Order' when a Spell Card is activated, 'Imperial Order' will resolve first and negate the Spell Card.\n● If you activate 'Imperial Order' while Equip Spell Cards are equipped to monsters, the Equip Spell Cards remain equipped to the monsters but their effects are negated.\n● 'Imperial Order' can't be activated in the Damage Step, so you can't activate it to negate 'Rush Recklessly', etc. in the Damage Step.\n● Spell Cards can still be activated while 'Imperial Order' is applying, but their effects are negated.",
+    "Gladiator": "● When 'Imperial Order' is activated, 'Mystical Space Typhoon' can be chained to destroy it.\n● If you chain 'Imperial Order' when a Spell Card is activated, 'Imperial Order' will resolve first and negate the Spell Card.\n● If you activate 'Imperial Order' while Equip Spell Cards are equipped to monsters, the Equip Spell Cards remain equipped to the monsters but their effects are negated.\n● 'Imperial Order' can't be activated in the Damage Step, so you can't activate it to negate 'Rush Recklessly', etc. in the Damage Step.\n● Spell Cards can still be activated while 'Imperial Order' is applying, but their effects are negated.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. When \"Imperial Order\" is activated, \"Mystical Space Typhoon\" can be chained to destroy it.\\n2. If you chain \"Imperial Order\" when a Spell Card is activated, \"Imperial Order\" will resolve first and negate the Spell Card.\\n3. If you activate \"Imperial Order\" while Equip Spell Cards are equipped to monsters, the Equip Spell Cards remain equipped to the monsters but their effects are negated.\\n4. \"Imperial Order\" cannot be activated in the Damage Step, so you cannot activate it to negate \"Rush Recklessly\", etc. in the Damage Step.\\n5. Spell Cards can still be activated while \"Imperial Order\" is active, but their effects are negated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

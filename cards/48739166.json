@@ -1,0 +1,44 @@
+{
+  "id": 48739166,
+  "name": "Number 101: Silent Honor ARK",
+  "Stats": {
+    "type": "XYZ Monster",
+    "frameType": "xyz",
+    "atk": 2100,
+    "def": 1000,
+    "level": 4,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If that target is changed to Defense Position, it is still attached as a Material.",
+    "Vegas": "● If that target is changed to Defense Position, it is still attached as a Material.",
+    "Meadowlands": "● If that target is changed to Defense Position, it is still attached as a Material.",
+    "FireWater": "● If that target is changed to Defense Position, it is still attached as a Material.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "2 Level 4 monsters\n① You can detach 2 Materials from this card, then target 1 opponent's Special Summoned Attack Position monster; attach it to this card as material \n(You can only use this effect of \"Number 101: Silent Honor ARK\" once per turn). \n② If this card would be destroyed, you can detach 1 material from it, instead.",
+    "Meadowlands": "2 Level 4 monsters\n① You can detach 2 Materials from this card, then target 1 opponent's Special Summoned Attack Position monster; attach it to this card as material \n(You can only use this effect of \"Number 101: Silent Honor ARK\" once per turn). \n② If this card would be destroyed, you can detach 1 material from it, instead.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

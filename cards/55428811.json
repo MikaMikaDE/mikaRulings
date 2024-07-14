@@ -1,0 +1,40 @@
+{
+  "id": 55428811,
+  "name": "Fifth Hope",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If this card is sent to the GY by the effect of Destiny Hero - Diamond Dude, even if you have no cards on your side of the field and in your hand when its effect is activated during your next Main Phase, you can only draw 2 cards. The extra draw effect only applies when you activate the card Fifth Hope itself, not just its effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If this card is sent to the GY by the effect of 'Destiny Hero - Diamond Dude', even if you have no cards on your side of the field and in your hand when its effect is activated during your next Main Phase, you can only draw 2 cards. The extra draw effect only applies when you activate the card 'Fifth Hope' itself, not just its effect.",
+    "TeleDAD": "● If this card is sent to the GY by the effect of 'Destiny Hero - Diamond Dude', even if you have no cards on your side of the field and in your hand when its effect is activated during your next Main Phase, you can only draw 2 cards. The extra draw effect only applies when you activate the card 'Fifth Hope' itself, not just its effect.",
+    "Gladiator": "● If this card is sent to the GY by the effect of 'Destiny Hero - Diamond Dude', even if you have no cards on your side of the field and in your hand when its effect is activated during your next Main Phase, you can only draw 2 cards. The extra draw effect only applies when you activate the card 'Fifth Hope' itself, not just its effect.",
+    "ReturnDAD": "● If this card is sent to the GY by the effect of 'Destiny Hero - Diamond Dude', even if you have no cards on your side of the field and in your hand when its effect is activated during your next Main Phase, you can only draw 2 cards. The extra draw effect only applies when you activate the card 'Fifth Hope' itself, not just its effect.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● If this card is sent to the GY by the effect of 'Destiny Hero - Diamond Dude', even if you have no cards on your side of the field and in your hand when its effect is activated during your next Main Phase, you can only draw 2 cards. The extra draw effect only applies when you activate the card 'Fifth Hope' itself, not just its effect.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If this card is sent to the GY by the effect of \"Destiny HERO - Diamond Dude\", even if you have no cards on your side of the field and in your hand when its effect is activated during your next Main Phase, you can only draw 2 cards. The extra draw effect only applies when you activate the card \"Fifth Hope\" itself, not just its effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

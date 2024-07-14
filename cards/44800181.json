@@ -1,0 +1,44 @@
+{
+  "id": 44800181,
+  "name": "Combo Master",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2200,
+    "def": 1500,
+    "level": 5,
+    "race": "Warrior",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Combo Master” must be face-up on the field when the chain occurs in order to be able to attack twice. If a chain occurs, and then this monster is flipped face-down and then face-up again, it cannot attack twice. (Unless a new chain occured after it was flipped face-up.)\n●If a chain occurred, then “Skill Drain” was activated, but then “Skill Drain” was destroyed, this monster can attack twice. (This monster’s perception that a chain occurred is not reset.)",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Combo Master” must be applying when the chain occurs in order to be able to attack twice. If a chain occurs, and then this monster is flipped face-down and then face-up again, it can't attack twice. (Unless a new chain occured after it was flipped face-up.)\n● If a chain occurred, then “Skill Drain” was activated, but then “Skill Drain” was destroyed, this monster can attack twice. (This monster’s perception that a chain occurred isn't reset.)\n● ",
+    "TeleDAD": "● “Combo Master” must be applying when the chain occurs in order to be able to attack twice. If a chain occurs, and then this monster is flipped face-down and then face-up again, it can't attack twice. (Unless a new chain occured after it was flipped face-up.)\n● If a chain occurred, then “Skill Drain” was activated, but then “Skill Drain” was destroyed, this monster can attack twice. (This monster’s perception that a chain occurred isn't reset.)\n● ",
+    "Gladiator": "● “Combo Master” must be applying when the chain occurs in order to be able to attack twice. If a chain occurs, and then this monster is flipped face-down and then face-up again, it can't attack twice. (Unless a new chain occured after it was flipped face-up.)\n● If a chain occurred, then “Skill Drain” was activated, but then “Skill Drain” was destroyed, this monster can attack twice. (This monster’s perception that a chain occurred isn't reset.)\n● ",
+    "ReturnDAD": "● “Combo Master” must be applying when the chain occurs in order to be able to attack twice. If a chain occurs, and then this monster is flipped face-down and then face-up again, it can't attack twice. (Unless a new chain occured after it was flipped face-up.)\n● If a chain occurred, then “Skill Drain” was activated, but then “Skill Drain” was destroyed, this monster can attack twice. (This monster’s perception that a chain occurred isn't reset.)\n● ",
+    "Trooper": "● “Combo Master” must be applying when the chain occurs in order to be able to attack twice. If a chain occurs, and then this monster is flipped face-down and then face-up again, it can't attack twice. (Unless a new chain occured after it was flipped face-up.)\n● If a chain occurred, then “Skill Drain” was activated, but then “Skill Drain” was destroyed, this monster can attack twice. (This monster’s perception that a chain occurred isn't reset.)\n● ",
+    "Circle": "● “Combo Master” must be applying when the chain occurs in order to be able to attack twice. If a chain occurs, and then this monster is flipped face-down and then face-up again, it can't attack twice. (Unless a new chain occured after it was flipped face-up.)\n● If a chain occurred, then “Skill Drain” was activated, but then “Skill Drain” was destroyed, this monster can attack twice. (This monster’s perception that a chain occurred isn't reset.)\n● ",
+    "Stein": "● “Combo Master” must be applying when the chain occurs in order to be able to attack twice. If a chain occurs, and then this monster is flipped face-down and then face-up again, it can't attack twice. (Unless a new chain occured after it was flipped face-up.)\n● If a chain occurred, then “Skill Drain” was activated, but then “Skill Drain” was destroyed, this monster can attack twice. (This monster’s perception that a chain occurred isn't reset.)\n● ",
+    "Base": "1. \"Combo Master\" must be face-up on the field when the chain occurs in order to be able to attack twice. If a chain occurs, and then this monster is flipped face-down and then face-up again, it cannot attack twice. (Unless a new chain occurred after it was flipped face-up.)\\n2. If a chain occurred, then \"Skill Drain\" was activated, but then \"Skill Drain\" was destroyed, this monster can attack twice. (This monster's perception that a chain occurred is not reset.)"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 21770260,
+  "name": "Jam Breeding Machine",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●You may Set monsters when you have this card active on your side of the field, but you cannot Flip Summon them.\n●You may Summon a monster and then activate this card.\n●You cannot activate Scapegoat if you have this card active on your side of the field.\n●If the effect of Cyber Jar is activated when you have this card active on your side of the field, monsters that you pick up which could normally be Summoned by the effect of Cyber Jar are destroyed instead. Other monsters, such as Level 5 and above monsters, and monsters that can only be Special Summoned, are still added to your hand.",
+    "Goat": "●If you have two Jam Breeding Machines on your side of the field you cannot Summon any monsters, even Slime Tokens.\n●You may Set monsters when you have this card applying on your side of the field, but you cannot Flip Summon them.\n●You may Summon a monster and then activate this card.\n●You cannot activate Scapegoat if you have this card applying on your side of the field.\n●If the effect of Cyber Jar is activated when you have this card applying on your side of the field, monsters that you pick up which could normally be Summoned by the effect of Cyber Jar are destroyed instead. Other monsters, such as Lv 5 and above monsters, and monsters that can only be Special Summoned, are still added to your hand. \n●Q: If I have two “Jam Breeding Machines” out, do I Special Summon 1 or 2 tokens? \nA: If you have two “Jam Breeding Machines,” you cannot summon anything, including Slime Tokens.  12/08/03",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You may Set monsters when you have this card applying on your side of the field, but you can't Flip Summon them.\n● You may Summon a monster and then activate this card.\n● You can't activate 'Scapegoat' if you have this card applying on your side of the field.\n● If the effect of 'Cyber Jar' is activated when you have this card applying on your side of the field, monsters that you pick up which could normally be Summoned by the effect of 'Cyber Jar' are destroyed instead. Other monsters, such as LV 5 and above monsters, and monsters that can only be Special Summoned, are still added to your hand.",
+    "TeleDAD": "● You may Set monsters when you have this card applying on your side of the field, but you can't Flip Summon them.\n● You may Summon a monster and then activate this card.\n● You can't activate 'Scapegoat' if you have this card applying on your side of the field.\n● If the effect of 'Cyber Jar' is activated when you have this card applying on your side of the field, monsters that you pick up which could normally be Summoned by the effect of 'Cyber Jar' are destroyed instead. Other monsters, such as LV 5 and above monsters, and monsters that can only be Special Summoned, are still added to your hand.",
+    "Gladiator": "● You may Set monsters when you have this card applying on your side of the field, but you can't Flip Summon them.\n● You may Summon a monster and then activate this card.\n● You can't activate 'Scapegoat' if you have this card applying on your side of the field.\n● If the effect of 'Cyber Jar' is activated when you have this card applying on your side of the field, monsters that you pick up which could normally be Summoned by the effect of 'Cyber Jar' are destroyed instead. Other monsters, such as LV 5 and above monsters, and monsters that can only be Special Summoned, are still added to your hand.",
+    "ReturnDAD": "● You may Set monsters when you have this card applying on your side of the field, but you can't Flip Summon them.\n● You may Summon a monster and then activate this card.\n● You can't activate 'Scapegoat' if you have this card applying on your side of the field.\n● If the effect of 'Cyber Jar' is activated when you have this card applying on your side of the field, monsters that you pick up which could normally be Summoned by the effect of 'Cyber Jar' are destroyed instead. Other monsters, such as LV 5 and above monsters, and monsters that can only be Special Summoned, are still added to your hand.",
+    "Trooper": "● You may Set monsters when you have this card applying on your side of the field, but you can't Flip Summon them.\n● You may Summon a monster and then activate this card.\n● You can't activate 'Scapegoat' if you have this card applying on your side of the field.\n● If the effect of 'Cyber Jar' is activated when you have this card applying on your side of the field, monsters that you pick up which could normally be Summoned by the effect of 'Cyber Jar' are destroyed instead. Other monsters, such as LV 5 and above monsters, and monsters that can only be Special Summoned, are still added to your hand.",
+    "Circle": "● You may Set monsters when you have this card applying on your side of the field, but you can't Flip Summon them.\n● You may Summon a monster and then activate this card.\n● You can't activate 'Scapegoat' if you have this card applying on your side of the field.\n● If the effect of 'Cyber Jar' is activated when you have this card applying on your side of the field, monsters that you pick up which could normally be Summoned by the effect of 'Cyber Jar' are destroyed instead. Other monsters, such as LV 5 and above monsters, and monsters that can only be Special Summoned, are still added to your hand.",
+    "Stein": "● You may Set monsters when you have this card applying on your side of the field, but you can't Flip Summon them.\n● You may Summon a monster and then activate this card.\n● You can't activate 'Scapegoat' if you have this card applying on your side of the field.\n● If the effect of 'Cyber Jar' is activated when you have this card applying on your side of the field, monsters that you pick up which could normally be Summoned by the effect of 'Cyber Jar' are destroyed instead. Other monsters, such as LV 5 and above monsters, and monsters that can only be Special Summoned, are still added to your hand.",
+    "Base": "1. You may Set monsters when you have this card active on your side of the field, but you cannot Flip Summon them.\\n2. You may Summon a monster and then activate this card.\\n3. You cannot activate \"Scapegoat\" if you have this card active on your side of the field.\\n4. If the effect of \"Cyber Jar\" is activated when you have this card active on your side of the field, monsters that you pick up which could normally be Summoned by the effect of \"Cyber Jar\" are destroyed instead. Other monsters, such as Level 5 and above monsters, and monsters that can only be Special Summoned, are still added to your hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

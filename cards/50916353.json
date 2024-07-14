@@ -1,0 +1,44 @@
+{
+  "id": 50916353,
+  "name": "Chthonian Soldier",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1400,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●The damage dealt by this card’s effect is Effect Damage, not Battle Damage.\n●This card’s effect is a Trigger Effect. It activates in the GY.\n●If the opponent takes control of your “Chthonian Soldier” with “Snatch Steal” and you attack it next turn, its effect will not activate because when it is sent to your GY, it was not your opponent’s monster that attacked it.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The damage dealt by this card’s effect is Effect Damage, not Battle Damage.\n● This card’s effect is a Trigger Effect. It activates in the GY.\n● If the opponent takes control of your “Chthonian Soldier” with “Snatch Steal” and you attack it next turn, its effect will not activate because when it is sent to your GY, it was not your opponent’s monster that attacked it.",
+    "TeleDAD": "● The damage dealt by this card’s effect is Effect Damage, not Battle Damage.\n● This card’s effect is a Trigger Effect. It activates in the GY.\n● If the opponent takes control of your “Chthonian Soldier” with “Snatch Steal” and you attack it next turn, its effect will not activate because when it is sent to your GY, it was not your opponent’s monster that attacked it.",
+    "Gladiator": "● The damage dealt by this card’s effect is Effect Damage, not Battle Damage.\n● This card’s effect is a Trigger Effect. It activates in the GY.\n● If the opponent takes control of your “Chthonian Soldier” with “Snatch Steal” and you attack it next turn, its effect will not activate because when it is sent to your GY, it was not your opponent’s monster that attacked it.",
+    "ReturnDAD": "● The damage dealt by this card’s effect is Effect Damage, not Battle Damage.\n● This card’s effect is a Trigger Effect. It activates in the GY.\n● If the opponent takes control of your “Chthonian Soldier” with “Snatch Steal” and you attack it next turn, its effect will not activate because when it is sent to your GY, it was not your opponent’s monster that attacked it.",
+    "Trooper": "● The damage dealt by this card’s effect is Effect Damage, not Battle Damage.\n● This card’s effect is a Trigger Effect. It activates in the GY.\n● If the opponent takes control of your “Chthonian Soldier” with “Snatch Steal” and you attack it next turn, its effect will not activate because when it is sent to your GY, it was not your opponent’s monster that attacked it.",
+    "Circle": "● The damage dealt by this card’s effect is Effect Damage, not Battle Damage.\n● This card’s effect is a Trigger Effect. It activates in the GY.\n● If the opponent takes control of your “Chthonian Soldier” with “Snatch Steal” and you attack it next turn, its effect will not activate because when it is sent to your GY, it was not your opponent’s monster that attacked it.",
+    "Stein": "● The damage dealt by this card’s effect is Effect Damage, not Battle Damage.\n● This card’s effect is a Trigger Effect. It activates in the GY.\n● If the opponent takes control of your “Chthonian Soldier” with “Snatch Steal” and you attack it next turn, its effect will not activate because when it is sent to your GY, it was not your opponent’s monster that attacked it.",
+    "Base": "1. The damage dealt by this card's effect is Effect Damage, not Battle Damage.\\n2. This card's effect is a Trigger Effect. It activates in the GY.\\n3. If the opponent takes control of your \"Chthonian Soldier\" with \"Snatch Steal\" and you attack it next turn, its effect will not activate because when it is sent to your GY, it was not your opponent's monster that attacked it."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

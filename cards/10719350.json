@@ -1,0 +1,40 @@
+{
+  "id": 10719350,
+  "name": "Fire Formation - Tensu",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● Continuous Spell/Trap cards must remain face-up for their effects to be applied. \nIf this card is destroyed, before you use the additional normal summon, you don't get to use it.",
+    "Vegas": "● Continuous Spell/Trap cards must remain face-up for their effects to be applied. \nIf this card is destroyed, before you use the additional normal summon, you don't get to use it.",
+    "Meadowlands": "● Continuous Spell/Trap cards must remain face-up for their effects to be applied. \nIf this card is destroyed, before you use the additional normal summon, you don't get to use it.",
+    "FireWater": "● Continuous Spell/Trap cards must remain face-up for their effects to be applied. \nIf this card is destroyed, before you use the additional normal summon, you don't get to use it.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① During your Main Phase, you can Normal Summon 1 Beast-Warrior in addition to your Normal Summon/Set. \n(You can only gain this effect once per turn.) \n② All Beast-Warriors you control gain 100 ATK.",
+    "Meadowlands": "① During your Main Phase, you can Normal Summon 1 Beast-Warrior in addition to your Normal Summon/Set. \n(You can only gain this effect once per turn.) \n② All Beast-Warriors you control gain 100 ATK.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 21593977,
+  "name": "Makyura the Destructor",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card's effect is a Continuous Effect.\n●You cannot activate a Raigeki Break in your hand by discard Makyura the Destructor as a cost.",
+    "Goat": "●This card's effect is a Continuous Effect.\n●You cannot activate a Raigeki Break in your hand by discarding Makyura the Destructor as a cost.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card's effect is a Continuous Effect.\n● You can't activate a 'Raigeki Break' in your hand by discard 'Makyura the Destructor' as a cost. \n● ",
+    "TeleDAD": "● This card's effect is a Continuous Effect.\n● You can't activate a 'Raigeki Break' in your hand by discard 'Makyura the Destructor' as a cost. \n● ",
+    "Gladiator": "● This card's effect is a Continuous Effect.\n● You can't activate a 'Raigeki Break' in your hand by discard 'Makyura the Destructor' as a cost. \n● ",
+    "ReturnDAD": "● This card's effect is a Continuous Effect.\n● You can't activate a 'Raigeki Break' in your hand by discard 'Makyura the Destructor' as a cost. \n● ",
+    "Trooper": "● This card's effect is a Continuous Effect.\n● You can't activate a 'Raigeki Break' in your hand by discard 'Makyura the Destructor' as a cost. \n● ",
+    "Circle": "● This card's effect is a Continuous Effect.\n● You can't activate a 'Raigeki Break' in your hand by discard 'Makyura the Destructor' as a cost. \n● ",
+    "Stein": "● This card's effect is a Continuous Effect.\n● You can't activate a 'Raigeki Break' in your hand by discard 'Makyura the Destructor' as a cost. \n● ",
+    "Base": "1. You cannot activate a \"Raigeki Break\" in your hand by discard \"Makyura the Destructor\" as a cost."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

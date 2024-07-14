@@ -1,0 +1,44 @@
+{
+  "id": 59464593,
+  "name": "Armed Dragon LV10",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 3000,
+    "def": 2000,
+    "level": 10,
+    "race": "Dragon",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "(C) This card cannot be Normal Summoned or Set. (U) This card cannot be Special Summoned except by Tributing 1 Armed Dragon LV7 on your side of the field. (1) By sending 1 card from your hand to the GY, destroy all face-up monsters on your opponent's side of the field.\n●The (C) Condition cannot be negated.\n●The (U) Unclassified Effect applies in the hand (this Special Summon doesn't start a Chain).\n●You can't Special Summon Armed Dragon LV10 with Level Up! because Armed Dragon LV7 doesn't mention Armed Dragon LV7 in its card text.\n●Can't be Special Summoned from the GY / banished, even if it was properly Summoned.\n●The (1) Ignition Effect activates & resolves on the field.\n●Sending 1 Monster Card from your hand is a cost. This effect can't activate while Macro Cosmos is active, since you can't pay the cost.\n●Face-down monsters are not destroyed.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

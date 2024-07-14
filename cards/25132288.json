@@ -1,0 +1,44 @@
+{
+  "id": 25132288,
+  "name": "Light End Dragon",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2600,
+    "def": 2100,
+    "level": 8,
+    "race": "Dragon",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● If this card can't lose 500 ATK and 500 DEF,  the other monster doesn't lose any ATK/DEF.\n● This card's ATK/DEF loss is permanent (until this card is flipped face-down or leaves the field).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Light End Dragon\" does not target.\\n2. You cannot activate the effect of \"Light End Dragon\" when it attacks a face-down monster.\\n3. You cannot activate the effect of \"Light End Dragon\" or \"Dark End Dragon\" if their ATK or DEF are less than 500.\\n4. When you attack a monster with less than 1500 ATK and DEF, you can activate the effect of \"Light End Dragon\". You cannot activate the effect if the attack target's ATK and DEF are both already 0.\\n5. If you attack with \"Light End Dragon\" and activate its effect, and your opponent chains a card that will negate the attack, like \"Magic Cylinder\", the effect of \"Light End Dragon\" is still applied. So \"Light End Dragon\" loses 500 ATK & DEF, and the attack target still loses 1500 ATK & DEF until the End Phase.\\n6. If \"Skill Drain\" is activated, the ATK and DEF of \"Light End Dragon\" and \"Dark End Dragon\" will be restored to their original values. If \"Skill Drain\" is destroyed, they will still remain at those original values until lowered again.\\n7. If \"Light End Dragon\" or \"Dark End Dragon\" activate their effects, but an effect like \"Shrink\" is chained, so that when the effect resolves, they have less than 500 ATK or DEF, you cannot reduce their ATK and DEF by 500 to resolve the effect, so the effect is not applied.\\n8. If \"Light End Dragon\" or \"Dark End Dragon\" activate their effects, but an effect is chained that causes the opponent's monster to leave the field, \"Light End Dragon\" / \"Dark End Dragon\" still lose 500 ATK and DEF.\\n9. You can use monsters with multiple Attributes, like \"Sphere of Chaos\", to Synchro Summon \"Light End Dragon\" or \"Dark End Dragon\"."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1 or more non-Tuner LIGHTs\n① If an attack is declared involving this monster: You can have this card lose 500 ATK/DEF, and if you do, this turn, the monster it is battling loses 1500 ATK/DEF.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

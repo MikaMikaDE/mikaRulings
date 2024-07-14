@@ -1,0 +1,40 @@
+{
+  "id": 29735721,
+  "name": "Spell Vanishing",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "\n●When you activate Spell Vanishing, you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card.",
+    "Goat": "●When you activate Spell Vanishing, you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card. 1/05/2004\n●Q: “Spell Vanishing” doesn't state to shuffle the decks after played. Do I shuffle anyways? \nA: Anytime you search your deck for a card or place a card into your deck you MUST shuffle your deck when finished, even if the effect did not tell you to. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When you activate 'Spell Vanishing', you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card.",
+    "TeleDAD": "● When you activate 'Spell Vanishing', you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card.",
+    "Gladiator": "● When you activate 'Spell Vanishing', you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card.",
+    "ReturnDAD": "● When you activate 'Spell Vanishing', you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card.",
+    "Trooper": "● When you activate 'Spell Vanishing', you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card.",
+    "Circle": "● When you activate 'Spell Vanishing', you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card.",
+    "Stein": "● When you activate 'Spell Vanishing', you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card.",
+    "Base": "1. When you activate \"Spell Vanishing\", you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 10352095,
+  "name": "Scroll of Bewitchment",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you switch the target of this card with Collected Power or Tailor of the Fickle you do not select a new Attribute.\n●The newly equipped monster becomes the Attribute that was originally selected when Scroll of Bewitchment was activated, even if it is the same as the monster’s original Attribute.",
+    "Goat": "●If you switch the target of this card with Collected Power or Tailor of the Fickle you do not select a new Attribute. The newly equipped monster becomes the Attribute that was originally selected when Scroll of Bewitchment was activated, even if it is the same as the monster’s original Attribute.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you switch the target of this card with 'Collected Power' or 'Tailor of the Fickle' you do not select a new Attribute. The newly equipped monster becomes the Attribute that was originally selected when 'Scroll of Bewitchment' was activated, even if it is the same as the monster’s original Attribute.",
+    "TeleDAD": "● If you switch the target of this card with 'Collected Power' or 'Tailor of the Fickle' you do not select a new Attribute. The newly equipped monster becomes the Attribute that was originally selected when 'Scroll of Bewitchment' was activated, even if it is the same as the monster’s original Attribute.",
+    "Gladiator": "● If you switch the target of this card with 'Collected Power' or 'Tailor of the Fickle' you do not select a new Attribute. The newly equipped monster becomes the Attribute that was originally selected when 'Scroll of Bewitchment' was activated, even if it is the same as the monster’s original Attribute.",
+    "ReturnDAD": "● If you switch the target of this card with 'Collected Power' or 'Tailor of the Fickle' you do not select a new Attribute. The newly equipped monster becomes the Attribute that was originally selected when 'Scroll of Bewitchment' was activated, even if it is the same as the monster’s original Attribute.",
+    "Trooper": "● If you switch the target of this card with 'Collected Power' or 'Tailor of the Fickle' you do not select a new Attribute. The newly equipped monster becomes the Attribute that was originally selected when 'Scroll of Bewitchment' was activated, even if it is the same as the monster’s original Attribute.",
+    "Circle": "● If you switch the target of this card with 'Collected Power' or 'Tailor of the Fickle' you do not select a new Attribute. The newly equipped monster becomes the Attribute that was originally selected when 'Scroll of Bewitchment' was activated, even if it is the same as the monster’s original Attribute.",
+    "Stein": "● If you switch the target of this card with 'Collected Power' or 'Tailor of the Fickle' you do not select a new Attribute. The newly equipped monster becomes the Attribute that was originally selected when 'Scroll of Bewitchment' was activated, even if it is the same as the monster’s original Attribute.",
+    "Base": "1. If you switch the target of this card with \"Collected Power\" or \"Tailor of the Fickle\" you do not select a new Attribute. The newly equipped monster becomes the Attribute that was originally selected when \"Scroll of Bewitchment\" was activated, even if it is the same as the monster's original Attribute."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

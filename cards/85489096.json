@@ -1,0 +1,44 @@
+{
+  "id": 85489096,
+  "name": "Arsenal Summoner",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 1600,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "FLIP: Add 1 card that includes Guardian in its card name from your Deck to your hand. You cannot add Celtic Guardian, Winged Dragon, Guardian of the Fortress #1, Winged Dragon, Guardian of the Fortress #2, Guardian of of the Labyrinth, or The Reliable Guardian.\n●The FLIP Effect is mandatory, it activates & resolves on the field.\n●You must show your opponent the card you retrieved with Arsenal Summoner.\n●If you don't have any Guardian monsters you can retrieve when you activate Arsenal Summoner's effect, you must show your Deck to your opponent to prove it.\n●You can add a card to your hand with Guardian in its name as long as it's not listed on Arsenal Summoner, such as Guardian of the Throne Room or Guardian Sphinx.",
+    "Goat": "●You can add a card to your hand with Guardian in its name as long as it's not listed on Arsenal Summoner, such as Guardian of the Throne Room or Guardian Sphinx.\n●You must show your opponent the card you retrieved with Arsenal Summoner.\n●If you don't have any Guardian monsters you can retrieve when you activate Arsenal Summoner's effect, you must show your Deck to your opponent to prove it.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can add a card to your hand with 'Guardian' in its name as long as it's not listed on 'Arsenal Summoner', such as 'Guardian of the Throne Room' or 'Guardian Sphinx'.\n● You must show your opponent the card you retrieved with 'Arsenal Summoner'.\n● If you don't have any 'Guardian' monsters you can retrieve when you activate 'Arsenal Summoner''s effect, you must show your Deck to your opponent to prove it.",
+    "TeleDAD": "● You can add a card to your hand with 'Guardian' in its name as long as it's not listed on 'Arsenal Summoner', such as 'Guardian of the Throne Room' or 'Guardian Sphinx'.\n● You must show your opponent the card you retrieved with 'Arsenal Summoner'.\n● If you don't have any 'Guardian' monsters you can retrieve when you activate 'Arsenal Summoner''s effect, you must show your Deck to your opponent to prove it.",
+    "Gladiator": "● You can add a card to your hand with 'Guardian' in its name as long as it's not listed on 'Arsenal Summoner', such as 'Guardian of the Throne Room' or 'Guardian Sphinx'.\n● You must show your opponent the card you retrieved with 'Arsenal Summoner'.\n● If you don't have any 'Guardian' monsters you can retrieve when you activate 'Arsenal Summoner''s effect, you must show your Deck to your opponent to prove it.",
+    "ReturnDAD": "● You can add a card to your hand with 'Guardian' in its name as long as it's not listed on 'Arsenal Summoner', such as 'Guardian of the Throne Room' or 'Guardian Sphinx'.\n● You must show your opponent the card you retrieved with 'Arsenal Summoner'.\n● If you don't have any 'Guardian' monsters you can retrieve when you activate 'Arsenal Summoner''s effect, you must show your Deck to your opponent to prove it.",
+    "Trooper": "● You can add a card to your hand with 'Guardian' in its name as long as it's not listed on 'Arsenal Summoner', such as 'Guardian of the Throne Room' or 'Guardian Sphinx'.\n● You must show your opponent the card you retrieved with 'Arsenal Summoner'.\n● If you don't have any 'Guardian' monsters you can retrieve when you activate 'Arsenal Summoner''s effect, you must show your Deck to your opponent to prove it.",
+    "Circle": "● You can add a card to your hand with 'Guardian' in its name as long as it's not listed on 'Arsenal Summoner', such as 'Guardian of the Throne Room' or 'Guardian Sphinx'.\n● You must show your opponent the card you retrieved with 'Arsenal Summoner'.\n● If you don't have any 'Guardian' monsters you can retrieve when you activate 'Arsenal Summoner''s effect, you must show your Deck to your opponent to prove it.",
+    "Stein": "● You can add a card to your hand with 'Guardian' in its name as long as it's not listed on 'Arsenal Summoner', such as 'Guardian of the Throne Room' or 'Guardian Sphinx'.\n● You must show your opponent the card you retrieved with 'Arsenal Summoner'.\n● If you don't have any 'Guardian' monsters you can retrieve when you activate 'Arsenal Summoner''s effect, you must show your Deck to your opponent to prove it.",
+    "Base": "1. You can add a card to your hand with 'Guardian' in its name as long as it's not listed on \"Arsenal Summoner\", such as \"Guardian of the Throne Room\" or \"Guardian Sphinx\".\\n2. You must show your opponent the card you retrieved with \"Arsenal Summoner\".\\n3. If you don't have any 'Guardian' monsters you can retrieve when you activate the effect of \"Arsenal Summoner\", you must show your Deck to your opponent to prove it."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

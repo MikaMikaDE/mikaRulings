@@ -1,0 +1,44 @@
+{
+  "id": 99284890,
+  "name": "Avatar of The Pot",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1300,
+    "level": 3,
+    "race": "Rock",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(1) By sending 1 Pot of Greed from your hand to the GY, draw 3 cards from your Deck.\n●The (1) Ignition Effect activates & resolves on the field.\n●Sending Pot of Greed to the GY is a cost.\n●If you have your opponent's Pot of Greed in your hand because of Exchange or Graverobber, you CAN send your opponent's Pot of Greed to the GY to activate your Avatar of the Pot's effect. But if you did this with Graverobber, you take 2000 points of damage to do so.\n●You cannot activate Avatar of the Pot's effect while Banisher of the Light is in play.",
+    "Goat": "●Sending Pot of Greed to the GY is a cost.\n●If you have your opponent's Pot of Greed in your hand because of Exchange or Graverobber, you CAN send your opponent's Pot of Greed to the GY to activate your Avatar of the Pot's effect. But if you did this with Graverobber, you take 2000 points of damage to do so.\n●You cannot activate Avatar of the Pot's effect while Banisher of the Light is in play.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Sending 'Pot of Greed' to the GY is a cost.\n● If you have your opponent's 'Pot of Greed' in your hand because of 'Exchange' or 'Graverobber', you CAN send your opponent's 'Pot of Greed' to the GY to activate your 'Avatar of the Pot''s effect. But if you did this with 'Graverobber', you take 2000 damage to do so.\n● You can't activate 'Avatar of the Pot''s effect while 'Banisher of the Light' is in play.",
+    "TeleDAD": "● Sending 'Pot of Greed' to the GY is a cost.\n● If you have your opponent's 'Pot of Greed' in your hand because of 'Exchange' or 'Graverobber', you CAN send your opponent's 'Pot of Greed' to the GY to activate your 'Avatar of the Pot''s effect. But if you did this with 'Graverobber', you take 2000 damage to do so.\n● You can't activate 'Avatar of the Pot''s effect while 'Banisher of the Light' is in play.",
+    "Gladiator": "● Sending 'Pot of Greed' to the GY is a cost.\n● If you have your opponent's 'Pot of Greed' in your hand because of 'Exchange' or 'Graverobber', you CAN send your opponent's 'Pot of Greed' to the GY to activate your 'Avatar of the Pot''s effect. But if you did this with 'Graverobber', you take 2000 damage to do so.\n● You can't activate 'Avatar of the Pot''s effect while 'Banisher of the Light' is in play.",
+    "ReturnDAD": "● Sending 'Pot of Greed' to the GY is a cost.\n● If you have your opponent's 'Pot of Greed' in your hand because of 'Exchange' or 'Graverobber', you CAN send your opponent's 'Pot of Greed' to the GY to activate your 'Avatar of the Pot''s effect. But if you did this with 'Graverobber', you take 2000 damage to do so.\n● You can't activate 'Avatar of the Pot''s effect while 'Banisher of the Light' is in play.",
+    "Trooper": "● Sending 'Pot of Greed' to the GY is a cost.\n● If you have your opponent's 'Pot of Greed' in your hand because of 'Exchange' or 'Graverobber', you CAN send your opponent's 'Pot of Greed' to the GY to activate your 'Avatar of the Pot''s effect. But if you did this with 'Graverobber', you take 2000 damage to do so.\n● You can't activate 'Avatar of the Pot''s effect while 'Banisher of the Light' is in play.",
+    "Circle": "● Sending 'Pot of Greed' to the GY is a cost.\n● If you have your opponent's 'Pot of Greed' in your hand because of 'Exchange' or 'Graverobber', you CAN send your opponent's 'Pot of Greed' to the GY to activate your 'Avatar of the Pot''s effect. But if you did this with 'Graverobber', you take 2000 damage to do so.\n● You can't activate 'Avatar of the Pot''s effect while 'Banisher of the Light' is in play.",
+    "Stein": "● Sending 'Pot of Greed' to the GY is a cost.\n● If you have your opponent's 'Pot of Greed' in your hand because of 'Exchange' or 'Graverobber', you CAN send your opponent's 'Pot of Greed' to the GY to activate your 'Avatar of the Pot''s effect. But if you did this with 'Graverobber', you take 2000 damage to do so.\n● You can't activate 'Avatar of the Pot''s effect while 'Banisher of the Light' is in play.",
+    "Base": "1. Sending \"Pot of Greed\" to the GY is a cost.\\n2. If you have your opponent's \"Pot of Greed\" in your hand because of \"Exchange\" or \"Graverobber\", you CAN send your opponent's \"Pot of Greed\" to the GY to activate your effect of \"Avatar of the Pot\". But if you did this with \"Graverobber\", you take 2000 points of damage to do so.\\n3. You cannot activate the effect of \"Avatar of the Pot\" while \"Banisher of the Light\" is in play."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

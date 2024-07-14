@@ -1,0 +1,44 @@
+{
+  "id": 4694209,
+  "name": "Card Guard",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 500,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "(1) When this card is Normal or Special Summoned, place 1 Guard Counter on it. (2) This card gains 300 ATK for each Guard Counter it has. (3) Once per turn, you can remove 1 Guard Counter from this card and place it on 1 other face-up card you control. (C) If that card would be destroyed, remove the Guard Counter instead.\n●The (1) mandatory Trigger Effect will only place a Guard Counter on it if is still face-up.\n●The (2) Continuous Effect only affects itself while it has a Guard Counter on it.\n●A different Monster with a Guard Counter on it does not gains 300 ATK.\n●The (3) Ignition Effect MOVES the Guard Counter when the effect resolves.\n●There is no cost associate with this effect.\n●Moving the Guard Counter causes the (C) Condition to apply.\n●The (C) Condition does not activate.\n●It does not prevent cards from being destroyed by unpaid maintenance costs (ex: Mirror Wall).\n●It does not prevent cards from destorying themselves by Continuous / Continuous-like Effects (ex: Giant Kozaky, Different Dimension Capsule, Call of the Haunted).\n●This Condition applies even if Card Guard leaves the field.\n●Guard Counters disappear if the monster is flipped face-down / leaves the field.\n●This Conditino does not apply while Card Guard is holding the Guard Counter it generated.\n●Two Card Guards can use their effects to switch Guard Counters such that they gain the protective Condition.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

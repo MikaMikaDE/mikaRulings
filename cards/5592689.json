@@ -1,0 +1,44 @@
+{
+  "id": 5592689,
+  "name": "Samsara Lotus",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": "Plant",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Both of Samsara Lotus' effects are Trigger Effects.\n●If you chain a Quick-Play Spell Card from your hand to your Samsara Lotus' Special Summon effect, Samsara Lotus' effect disappears.\n●If Book of Moon, etc., is chained to Samsara Lotus' damage inflicting effect and flips it face-down, the effect disappears.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Both of 'Samsara Lotus'' effects are Trigger Effects.\n● If you chain a Quick-Play Spell Card from your hand to your 'Samsara Lotus'' Special Summon effect, 'Samsara Lotus'' effect disappears.\n● If 'Book of Moon', etc., is chained to 'Samsara Lotus'' damage inflicting effect and flips it face-down, the effect disappears.",
+    "TeleDAD": "● Both of 'Samsara Lotus'' effects are Trigger Effects.\n● If you chain a Quick-Play Spell Card from your hand to your 'Samsara Lotus'' Special Summon effect, 'Samsara Lotus'' effect disappears.\n● If 'Book of Moon', etc., is chained to 'Samsara Lotus'' damage inflicting effect and flips it face-down, the effect disappears.",
+    "Gladiator": "● Both of 'Samsara Lotus'' effects are Trigger Effects.\n● If you chain a Quick-Play Spell Card from your hand to your 'Samsara Lotus'' Special Summon effect, 'Samsara Lotus'' effect disappears.\n● If 'Book of Moon', etc., is chained to 'Samsara Lotus'' damage inflicting effect and flips it face-down, the effect disappears.",
+    "ReturnDAD": "● Both of 'Samsara Lotus'' effects are Trigger Effects.\n● If you chain a Quick-Play Spell Card from your hand to your 'Samsara Lotus'' Special Summon effect, 'Samsara Lotus'' effect disappears.\n● If 'Book of Moon', etc., is chained to 'Samsara Lotus'' damage inflicting effect and flips it face-down, the effect disappears.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Both of the effects of \"Samsara Lotus\" are Trigger Effects.\\n2. If you chain a Quick-Play Spell Card from your hand to your Special Summon effect of \"Samsara Lotus\", the effect of \"Samsara Lotus\" disappears.\\n3. If \"Book of Moon\", etc., is chained to the damage inflicting effect of \"Samsara Lotus\" and flips it face-down, the effect disappears."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

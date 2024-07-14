@@ -1,0 +1,44 @@
+{
+  "id": 4906301,
+  "name": "Necro Gardna",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 600,
+    "def": 1300,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● You can activate this effect at any time, except during the Damage Step, Main Phase 2, or the End Phase.\n● If you activate this in response to an Attack, or during the Battle Step when a monster is attacking, that current attack is negated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Necro Gardna's' effect is a Quick Effect.\n● You can activate this card’s effect at any time during your opponent’s turn, any time before the end of their Battle Phase. It can't be activated during the Damage Step. \n● You can activate 'Necro Gardna's' effect before your opponent declares any attacks. If you do, the first attack your opponent makes will be negated.\n● 'Necro Gardna's' effect does not target.",
+    "TeleDAD": "● 'Necro Gardna's' effect is a Quick Effect.\n● You can activate this card’s effect at any time during your opponent’s turn, any time before the end of their Battle Phase. It can't be activated during the Damage Step. \n● You can activate 'Necro Gardna's' effect before your opponent declares any attacks. If you do, the first attack your opponent makes will be negated.\n● 'Necro Gardna's' effect does not target.",
+    "Gladiator": "● This card’s effect can be activated at any time during the Battle Step, including when an attack is declared, but not in the Damage Step. This effect is a Milti-Trigger (Quick) Effect.",
+    "ReturnDAD": "● This card’s effect can be activated at any time during the Battle Step, including when an attack is declared, but not in the Damage Step.",
+    "Trooper": "● This card’s effect can be activated at any time during the Battle Step, including when an attack is declared, but not in the Damage Step.",
+    "Circle": "● This card’s effect can be activated at any time during the Battle Step, including when an attack is declared, but not in the Damage Step.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Necro Gardna\" is a Quick Effect.\\n2. You can activate this card's effect at any time during your opponent's turn, any time before the end of their Battle Phase. It cannot be activated during the Damage Step.\\n3. You can activate the effect of \"Necro Gardna\" before your opponent declares any attacks. If you do, the first attack your opponent makes will be negated.\\n4. The effect of \"Necro Gardna\" does not target."
+  },
+  "PSCT": {
+    "Tengu": "① During your opponent's turn (Quick): You can banish this card from your GY; \nnegate the next attack this turn from a monster your opponent controls.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

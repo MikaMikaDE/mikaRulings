@@ -1,0 +1,44 @@
+{
+  "id": 51735257,
+  "name": "Number 50: Blackship of Corn",
+  "Stats": {
+    "type": "XYZ Monster",
+    "frameType": "xyz",
+    "atk": 2100,
+    "def": 1500,
+    "level": 4,
+    "race": "Plant",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● Even if that target is flipped face-down as Chain Link 2, it is still destroyed.",
+    "Vegas": "● Even if that target is flipped face-down as Chain Link 2, it is still destroyed.",
+    "Meadowlands": "● Even if that target is flipped face-down as Chain Link 2, it is still destroyed.",
+    "FireWater": "● Even if that target is flipped face-down as Chain Link 2, it is still destroyed.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "2 Level 4 monsters\n① Once per turn: You can detach 1 Material from this card, \nthen target 1 face-up monster your opponent controls with ATK less than or equal to this card's; \nsend it to the GY, and if you do, inflict 1000 damage to your opponent. \n(This card can't attack the turn you activate this effect).",
+    "Meadowlands": "2 Level 4 monsters\n① Once per turn: You can detach 1 Material from this card, \nthen target 1 face-up monster your opponent controls with ATK less than or equal to this card's; \nsend it to the GY, and if you do, inflict 1000 damage to your opponent. \n(This card can't attack the turn you activate this effect).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

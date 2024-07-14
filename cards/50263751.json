@@ -1,0 +1,44 @@
+{
+  "id": 50263751,
+  "name": "Greed Quasar",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 7,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●The Level of “Greed Quasar” increases at the same timing that monsters destroyed by battle are sent to the GY.\n●This card cannot be searched from the Deck by cards like “Sangan” that search based on ATK/DEF. If “Greed Quasar” is flipped face-down, its effect is reset and any increased Levels are lost. If “Skill Drain” is activated, “Greed Quasar” loses any extra Levels it has. Even if “Skill Drain” is destroyed, the extra Levels remain lost.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The Level of \"Greed Quasar\" increases at the same timing that monsters destroyed by battle are sent to the GY.\\n2. This card cannot be searched from the Deck by cards like \"Sangan\" that search based on ATK/DEF.\\n3. If \"Greed Quasar\" is flipped face-down, its effect is reset and any increased Levels are lost.\\n4. If \"Skill Drain\" is activated, \"Greed Quasar\" loses any extra Levels it has. Even if \"Skill Drain\" is destroyed, the extra Levels remain lost."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

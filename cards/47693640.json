@@ -1,0 +1,44 @@
+{
+  "id": 47693640,
+  "name": "Zombie Tiger",
+  "Stats": {
+    "type": "Union Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 1600,
+    "level": 3,
+    "race": "Zombie",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(1) Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your Decayed Commander as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. (2) While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 500 points, and each time it destroys 1 of your opponent's monsters, your opponent discards 1 card randomly from his/her hand. (C) (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)\n●When a monster equipped with Zombie Tiger destroys another monster, the discard effect is applied before the destroyed monster is sent to the GY.",
+    "Goat": "●When a monster equipped with Zombie Tiger destroys another monster, the discard effect is applied before the destroyed monster is sent to the GY. \n●The effect of “Zombie Tiger” applies only while it is equipped to “Decayed Commander.”",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When a monster equipped with 'Zombie Tiger' destroys another monster, the discard effect is applied before the destroyed monster is sent to the GY.",
+    "TeleDAD": "● When a monster equipped with 'Zombie Tiger' destroys another monster, the discard effect is applied before the destroyed monster is sent to the GY.",
+    "Gladiator": "● When a monster equipped with 'Zombie Tiger' destroys another monster, the discard effect is applied before the destroyed monster is sent to the GY.",
+    "ReturnDAD": "● When a monster equipped with 'Zombie Tiger' destroys another monster, the discard effect is applied before the destroyed monster is sent to the GY.",
+    "Trooper": "● When a monster equipped with 'Zombie Tiger' destroys another monster, the discard effect is applied before the destroyed monster is sent to the GY.",
+    "Circle": "● When a monster equipped with 'Zombie Tiger' destroys another monster, the discard effect is applied before the destroyed monster is sent to the GY.",
+    "Stein": "● When a monster equipped with 'Zombie Tiger' destroys another monster, the discard effect is applied before the destroyed monster is sent to the GY.",
+    "Base": "1. When a monster equipped with \"Zombie Tiger\" destroys another monster, the discard effect is applied before the destroyed monster is sent to the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

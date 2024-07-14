@@ -1,0 +1,40 @@
+{
+  "id": 20374520,
+  "name": "Begone, Knave!",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Gemini Elf attacks a Defense Position Battle Footballer, and Gemini Elf's controller takes 200 damage, then Begone, Knave!'s effect will send Battle Footballer back to its owner's hand.\n●The effect of Begone, Knave! can be on a chain.\n●The effect of Begone, Knave! is applied to the monster that inflicts Battle Damage to the player, so if Amazoness Swords Woman battles a stronger monster, Amazoness Swords Woman would normally be returned to the owner's hand, but because she is destroyed and sent to the GY, she will not be returned.",
+    "Goat": "●If Gemini Elf attacks a Defense Position Battle Footballer, and Gemini Elf's controller takes 200 damage, then Begone, Knave!'s effect will send Battle Footballer back to its owner's hand.\n●The effect of Begone, Knave! can be on a chain.\n●The effect of Begone, Knave! is applied to the monster that inflicts Battle Damage to the player, so if Amazoness Swords Woman battles a stronger monster, Amazoness Swords Woman would normally be returned to the owner's hand, but because she is destroyed and sent to the GY, she will not be returned.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Gemini Elf' attacks a Defense Position 'Battle Footballer', and 'Gemini Elf''s controller takes 200 damage, then 'Begone, Knave!''s effect will send 'Battle Footballer' back to its owner's hand.\n● The effect of 'Begone, Knave!' can be on a chain.\n● The effect of 'Begone, Knave!' is applied to the monster that inflicts Battle Damage to the player, so if 'Amazoness Swords Woman' battles a stronger monster, 'Amazoness Swords Woman' would normally be returned to the owner's hand, but because she is destroyed and sent to the GY, she will not be returned.",
+    "TeleDAD": "● If 'Gemini Elf' attacks a Defense Position 'Battle Footballer', and 'Gemini Elf''s controller takes 200 damage, then 'Begone, Knave!''s effect will send 'Battle Footballer' back to its owner's hand.\n● The effect of 'Begone, Knave!' can be on a chain.\n● The effect of 'Begone, Knave!' is applied to the monster that inflicts Battle Damage to the player, so if 'Amazoness Swords Woman' battles a stronger monster, 'Amazoness Swords Woman' would normally be returned to the owner's hand, but because she is destroyed and sent to the GY, she will not be returned.",
+    "Gladiator": "● If 'Gemini Elf' attacks a Defense Position 'Battle Footballer', and 'Gemini Elf''s controller takes 200 damage, then 'Begone, Knave!''s effect will send 'Battle Footballer' back to its owner's hand.\n● The effect of 'Begone, Knave!' can be on a chain.\n● The effect of 'Begone, Knave!' is applied to the monster that inflicts Battle Damage to the player, so if 'Amazoness Swords Woman' battles a stronger monster, 'Amazoness Swords Woman' would normally be returned to the owner's hand, but because she is destroyed and sent to the GY, she will not be returned.",
+    "ReturnDAD": "● If 'Gemini Elf' attacks a Defense Position 'Battle Footballer', and 'Gemini Elf''s controller takes 200 damage, then 'Begone, Knave!''s effect will send 'Battle Footballer' back to its owner's hand.\n● The effect of 'Begone, Knave!' can be on a chain.\n● The effect of 'Begone, Knave!' is applied to the monster that inflicts Battle Damage to the player, so if 'Amazoness Swords Woman' battles a stronger monster, 'Amazoness Swords Woman' would normally be returned to the owner's hand, but because she is destroyed and sent to the GY, she will not be returned.",
+    "Trooper": "● If 'Gemini Elf' attacks a Defense Position 'Battle Footballer', and 'Gemini Elf''s controller takes 200 damage, then 'Begone, Knave!''s effect will send 'Battle Footballer' back to its owner's hand.\n● The effect of 'Begone, Knave!' can be on a chain.\n● The effect of 'Begone, Knave!' is applied to the monster that inflicts Battle Damage to the player, so if 'Amazoness Swords Woman' battles a stronger monster, 'Amazoness Swords Woman' would normally be returned to the owner's hand, but because she is destroyed and sent to the GY, she will not be returned.",
+    "Circle": "● If 'Gemini Elf' attacks a Defense Position 'Battle Footballer', and 'Gemini Elf''s controller takes 200 damage, then 'Begone, Knave!''s effect will send 'Battle Footballer' back to its owner's hand.\n● The effect of 'Begone, Knave!' can be on a chain.\n● The effect of 'Begone, Knave!' is applied to the monster that inflicts Battle Damage to the player, so if 'Amazoness Swords Woman' battles a stronger monster, 'Amazoness Swords Woman' would normally be returned to the owner's hand, but because she is destroyed and sent to the GY, she will not be returned.",
+    "Stein": "● If 'Gemini Elf' attacks a Defense Position 'Battle Footballer', and 'Gemini Elf''s controller takes 200 damage, then 'Begone, Knave!''s effect will send 'Battle Footballer' back to its owner's hand.\n● The effect of 'Begone, Knave!' can be on a chain.\n● The effect of 'Begone, Knave!' is applied to the monster that inflicts Battle Damage to the player, so if 'Amazoness Swords Woman' battles a stronger monster, 'Amazoness Swords Woman' would normally be returned to the owner's hand, but because she is destroyed and sent to the GY, she will not be returned.",
+    "Base": "1. If \"Gemini Elf\" attacks a Defense Position \"Battle Footballer\", and the controller of \"Gemini Elf\" takes 200 damage, then the effect of \"Begone, Knave!\" will send \"Battle Footballer\" back to its owner's hand.\\n2. The effect of \"Begone, Knave!\" can be on a chain.\\n3. The effect of \"Begone, Knave!\" is applied to the monster that inflicts Battle Damage to the player, so if \"Amazoness Swords Woman\" battles a stronger monster, \"Amazoness Swords Woman\" would normally be returned to the owner's hand, but because she is destroyed and sent to the GY, she will not be returned."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

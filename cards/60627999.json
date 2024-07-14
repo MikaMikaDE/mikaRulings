@@ -1,0 +1,40 @@
+{
+  "id": 60627999,
+  "name": "Sanguine Swamp",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "(1) If you control any other Spell or Trap Cards, destroy this card. (2) Face-down Spell and Trap Cards cannot be activated. (3) Destroy this card during your 2nd Standby Phase after activation.\n●The (1), (2), and (3) Continuous-like Effects do not start a Chain.\n●If you activate Sanguine Swamp while you control face-down Spell or Trap Card(s), it is destroyed after it resolves.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Sanguine Swamp's' effect that destroys itself during the Standby Phase does not start a Chain.\n● If you activate 'Sanguine Swamp' while you control face-down Spell/Trap Card(s), it is destroyed after it resolves.",
+    "TeleDAD": "● 'Sanguine Swamp's' effect that destroys itself during the Standby Phase does not start a Chain.\n● If you activate 'Sanguine Swamp' while you control face-down Spell/Trap Card(s), it is destroyed after it resolves.",
+    "Gladiator": "● 'Sanguine Swamp's' effect that destroys itself during the Standby Phase does not start a Chain.\n● If you activate 'Sanguine Swamp' while you control face-down Spell/Trap Card(s), it is destroyed after it resolves.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Sanguine Swamp\" that destroys itself during the Standby Phase does not start a Chain.\\n2. If you activate \"Sanguine Swamp\" while you control face-down Spell or Trap Card(s), it is destroyed after it resolves."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 32543380,
+  "name": "Volcanic Doomfire",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 3000,
+    "def": 1800,
+    "level": 8,
+    "race": "Pyro",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card can be Special Summoned from the GY, as long as it was properly Special Summon first, and then sent to the GY.\n●Monster Tokens destroyed by this card’s effect “…destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect” count as monsters, and 500 damage will be inflicted per Token.\n●This card’s effect “When this card destroys a monster and sends it to the GY…” only activates when this card destroys a monster by battle.\n●If you control Volcanic Doomfire and another monster equipped with Ring of Magnetism, all your opponent's monsters must declare an attack, and the attack target for all of them will be changed to the monster equipped with Ring of Magnetism.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card can be Special Summoned from the GY, as long as it was properly Special Summon first, and then sent to the GY.\n● Monster Tokens destroyed by this card’s effect “…destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect” count as monsters, and 500 damage will be inflicted per Token.\n● This card’s effect “When this card destroys a monster and sends it to the GY…” only activates when this card destroys a monster by battle.\n● If you control 'Volcanic Doomfire' and another monster equipped with 'Ring of Magnetism', all your opponent's monsters must declare an attack, and the attack target for all of them will be changed to the monster equipped with 'Ring of Magnetism'.",
+    "TeleDAD": "● This card can be Special Summoned from the GY, as long as it was properly Special Summon first, and then sent to the GY.\n● Monster Tokens destroyed by this card’s effect “…destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect” count as monsters, and 500 damage will be inflicted per Token.\n● This card’s effect “When this card destroys a monster and sends it to the GY…” only activates when this card destroys a monster by battle.\n● If you control 'Volcanic Doomfire' and another monster equipped with 'Ring of Magnetism', all your opponent's monsters must declare an attack, and the attack target for all of them will be changed to the monster equipped with 'Ring of Magnetism'.",
+    "Gladiator": "● This card can be Special Summoned from the GY, as long as it was properly Special Summon first, and then sent to the GY.\n● Monster Tokens destroyed by this card’s effect “…destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect” count as monsters, and 500 damage will be inflicted per Token.\n● This card’s effect “When this card destroys a monster and sends it to the GY…” only activates when this card destroys a monster by battle.\n● If you control 'Volcanic Doomfire' and another monster equipped with 'Ring of Magnetism', all your opponent's monsters must declare an attack, and the attack target for all of them will be changed to the monster equipped with 'Ring of Magnetism'.",
+    "ReturnDAD": "● This card can be Special Summoned from the GY, as long as it was properly Special Summon first, and then sent to the GY.\n● Monster Tokens destroyed by this card’s effect “…destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect” count as monsters, and 500 damage will be inflicted per Token.\n● This card’s effect “When this card destroys a monster and sends it to the GY…” only activates when this card destroys a monster by battle.\n● If you control 'Volcanic Doomfire' and another monster equipped with 'Ring of Magnetism', all your opponent's monsters must declare an attack, and the attack target for all of them will be changed to the monster equipped with 'Ring of Magnetism'.",
+    "Trooper": "● This card can be Special Summoned from the GY, as long as it was properly Special Summon first, and then sent to the GY.\n● Monster Tokens destroyed by this card’s effect “…destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect” count as monsters, and 500 damage will be inflicted per Token.\n● This card’s effect “When this card destroys a monster and sends it to the GY…” only activates when this card destroys a monster by battle.",
+    "Circle": "● This card can be Special Summoned from the GY, as long as it was properly Special Summon first, and then sent to the GY.\n● Monster Tokens destroyed by this card’s effect “…destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect” count as monsters, and 500 damage will be inflicted per Token.\n● This card’s effect “When this card destroys a monster and sends it to the GY…” only activates when this card destroys a monster by battle.\n● If you control 'Volcanic Doomfire' and another monster equipped with 'Ring of Magnetism', all your opponent's monsters must declare an attack, and the attack target for all of them will be changed to the monster equipped with 'Ring of Magnetism'.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card can be Special Summoned from the GY, as long as it was properly Special Summon first, and then sent to the GY.\\n2. Monster Tokens destroyed by this card's effect \"…destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect\" count as monsters, and 500 damage will be inflicted per Token.\\n3. This card's effect \"When this card destroys a monster and sends it to the GY…\" only activates when this card destroys a monster by battle.\\n4. If you control \"Volcanic Doomfire\" and another monster equipped with \"Ring of Magnetism\", all your opponent's monsters must declare an attack, and the attack target for all of them will be changed to the monster equipped with \"Ring of Magnetism\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

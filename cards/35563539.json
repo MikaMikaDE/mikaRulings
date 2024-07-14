@@ -1,0 +1,40 @@
+{
+  "id": 35563539,
+  "name": "Mystical Refpanel",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● https://ygorganization.com/mysticalrefpanel/",
+    "Vegas": "● https://ygorganization.com/mysticalrefpanel/",
+    "Meadowlands": "● https://ygorganization.com/mysticalrefpanel/",
+    "FireWater": "● https://ygorganization.com/mysticalrefpanel/",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Mystical Refpanel\" can be Chained to cards that do the following:\\n1.1. Increase 1 player's Life Points.\\n1.2. Inflict Direct Damage to 1 player's Life Points.\\n1.3. Allow 1 player to draw a card(s) from the top of their Deck to their hand.\\n1.4. Cause 1 player to discard from their hand.\\n1.5. Modify the actions 1 player can take, such as \"Mesmeric Control\".\\n2. If you Chain \"Mystical Refpanel\" to your opponent's Spell, then it is still considered to be your opponent's effect regardless of which player it ends up applying to.\\n3. You cannot Chain \"Mystical Refpanel\" to cards like \"Card Destruction\" or \"Upstart Goblin\" that target multiple players. You cannot use it against Equip, Continuous, or Field Spells.\\n\\nIt CANNOT be Chained to cards like \"Share The Pain\", \"Raigeki\", or \"Harpie's Feather Duster\".\\n\\nIt CANNOT be Chained to Spells that would send cards from a player's Deck to the GY, even if that Spell would do one of the above things. (Examples, \"Foolish Burial\", \"Solar Recharge\")\\n\\nIt CANNOT be Chained to the effect of a Spell Card that was sent to the GY and then later activated by \"Destiny HERO - Diamond Dude\" if that Spell Card would do one of the above.\\n4. You CAN Chain \"Mystical Refpanel\" to \"Pot of Duality\". If you Chain \"Mystical Refpanel\" to your opponent's \"Pot of Duality\", you will reveal the top 3 cards of your Deck and add 1 to your hand, but your opponent will be the one who cannot Special Summon that turn.\\n5. [FORUM] \"Mystical Refpanel\" can be chained to \"Into the Void\". The player that draws will be the player that discards during the End Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "If a Normal or Quick-Play Spell with 1 of the following effects is activated: \nThat spell affects the other player, instead.\n● Increase exactly 1 Player’s LP.\n● Inflict Damage to exactly 1 Player.\n● Allow 1 Player to add a card(s) from the top of their Deck to their hand.\n● Cause 1 Player to discard from their hand.\n● Modify the actions 1 player can take.",
+    "Meadowlands": "If a Normal or Quick-Play Spell with 1 of the following effects is activated: \nThat spell affects the other player, instead.\n● Increase exactly 1 Player’s LP.\n● Inflict Damage to exactly 1 Player.\n● Allow 1 Player to add a card(s) from the top of their Deck to their hand.\n● Cause 1 Player to discard from their hand.\n● Modify the actions 1 player can take.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

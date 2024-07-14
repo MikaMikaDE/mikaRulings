@@ -1,0 +1,40 @@
+{
+  "id": 80368942,
+  "name": "Cocoon Party",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot activate this card if you have no Neo-Spacian monsters in your GY and/or no Chrysalis monsters in your Deck.\n●You cannot activate this card if there are fewer Chrysalis monsters in your Deck than there are Neo-Spacian monsters with different names in your GY.\n●You cannot activate this card if you have fewer open Monster Card Zones than the number of Neo-Spacian monsters with different names in your GY.\n●Neo-Spacian Marine Dolphin counts as 2 Neo-Spacian monsters with different names for this card's effect. If you have 1 Neo-Spacian Marine Dolphin in your GY, you can Special Summon 2 Chrysalis monsters from your Deck.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate this card if you have no 'Neo-Spacian' monsters in your GY and/or no 'Chrysalis' monsters in your Deck.\n● You can't activate this card if there are fewer 'Chrysalis' monsters in your Deck than there are 'Neo-Spacian' monsters with different names in your GY.\n● You can't activate this card if you have fewer open Monster Card Zones than the number of 'Neo-Spacian' monsters with different names in your GY.\n● 'Neo-Spacian Marine Dolphin' counts as 2 'Neo-Spacian' monsters with different names for this card's effect. If you have 1 'Neo-Spacian Marine Dolphin' in your GY, you can Special Summon 2 'Chrysalis' monsters from your Deck.",
+    "TeleDAD": "● You can't activate this card if you have no 'Neo-Spacian' monsters in your GY and/or no 'Chrysalis' monsters in your Deck.\n● You can't activate this card if there are fewer 'Chrysalis' monsters in your Deck than there are 'Neo-Spacian' monsters with different names in your GY.\n● You can't activate this card if you have fewer open Monster Card Zones than the number of 'Neo-Spacian' monsters with different names in your GY.\n● 'Neo-Spacian Marine Dolphin' counts as 2 'Neo-Spacian' monsters with different names for this card's effect. If you have 1 'Neo-Spacian Marine Dolphin' in your GY, you can Special Summon 2 'Chrysalis' monsters from your Deck.",
+    "Gladiator": "● You can't activate this card if you have no 'Neo-Spacian' monsters in your GY and/or no 'Chrysalis' monsters in your Deck.\n● You can't activate this card if there are fewer 'Chrysalis' monsters in your Deck than there are 'Neo-Spacian' monsters with different names in your GY.\n● You can't activate this card if you have fewer open Monster Card Zones than the number of 'Neo-Spacian' monsters with different names in your GY.\n● 'Neo-Spacian Marine Dolphin' counts as 2 'Neo-Spacian' monsters with different names for this card's effect. If you have 1 'Neo-Spacian Marine Dolphin' in your GY, you can Special Summon 2 'Chrysalis' monsters from your Deck.",
+    "ReturnDAD": "● You can't activate this card if you have no 'Neo-Spacian' monsters in your GY and/or no 'Chrysalis' monsters in your Deck.\n● You can't activate this card if there are fewer 'Chrysalis' monsters in your Deck than there are 'Neo-Spacian' monsters with different names in your GY.\n● You can't activate this card if you have fewer open Monster Card Zones than the number of 'Neo-Spacian' monsters with different names in your GY.\n● 'Neo-Spacian Marine Dolphin' counts as 2 'Neo-Spacian' monsters with different names for this card's effect. If you have 1 'Neo-Spacian Marine Dolphin' in your GY, you can Special Summon 2 'Chrysalis' monsters from your Deck.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● You can't activate this card if you have no 'Neo-Spacian' monsters in your GY and/or no 'Chrysalis' monsters in your Deck.\n● You can't activate this card if there are fewer 'Chrysalis' monsters in your Deck than there are 'Neo-Spacian' monsters with different names in your GY.\n● You can't activate this card if you have fewer open Monster Card Zones than the number of 'Neo-Spacian' monsters with different names in your GY.\n● 'Neo-Spacian Marine Dolphin' counts as 2 'Neo-Spacian' monsters with different names for this card's effect. If you have 1 'Neo-Spacian Marine Dolphin' in your GY, you can Special Summon 2 'Chrysalis' monsters from your Deck.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You cannot activate this card if you have no \"Neo-Spacian\" monsters in your GY and/or no \"Chrysalis\" monsters in your Deck.\\n2. You cannot activate this card if there are fewer \"Chrysalis\" monsters in your Deck than there are \"Neo-Spacian\" monsters with different names in your GY.\\n3. You cannot activate this card if you have fewer open Monster Card Zones than the number of \"Neo-Spacian\" monsters with different names in your GY.\\n4. \"Neo-Spacian Marine Dolphin\" counts as 2 \"Neo-Spacian\" monsters with different names for this card's effect. If you have 1 \"Neo-Spacian Marine Dolphin\" in your GY, you can Special Summon 2 \"Chrysalis\" monsters from your Deck."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

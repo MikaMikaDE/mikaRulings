@@ -1,0 +1,40 @@
+{
+  "id": 72881007,
+  "name": "Crystal Abundance",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Sending 4 Crystal Beast Monster Cards from your Spell & Trap Card Zone to the GY is a cost to activate this card.\n●You can activate this card when there are no cards on your opponent’s side of the field. However, you cannot Special Summon any “Crystal Beast” monsters from your GY if you do.\n●You cannot activate this card while Macro Cosmos is active.\n●You can activate this card while Dimensional Fissure is active. The Crystal Beast Monster Cards sent to pay the cost are sent to the GY, not removed from play.\n●You can chain the effect of Royal Oppression to this card to negate the Special Summons.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Sending 4 'Crystal Beast' Monster Cards from your Spell & Trap Card Zone to the GY is a cost to activate this card.\n● You can activate this card when there are no cards on your opponent’s side of the field. However, you can't Special Summon any “Crystal Beast” monsters from your GY if you do.\n● You can't activate this card while 'Macro Cosmos' is applying.\n● You can activate this card while 'Dimensional Fissure' is applying. The 'Crystal Beast' Monster Cards sent to pay the cost are sent to the GY, not removed from play.\n● You can chain the effect of 'Royal Oppression' to this card to negate the Special Summons.",
+    "TeleDAD": "● Sending 4 'Crystal Beast' Monster Cards from your Spell & Trap Card Zone to the GY is a cost to activate this card.\n● You can activate this card when there are no cards on your opponent’s side of the field. However, you can't Special Summon any “Crystal Beast” monsters from your GY if you do.\n● You can't activate this card while 'Macro Cosmos' is applying.\n● You can activate this card while 'Dimensional Fissure' is applying. The 'Crystal Beast' Monster Cards sent to pay the cost are sent to the GY, not removed from play.\n● You can chain the effect of 'Royal Oppression' to this card to negate the Special Summons.",
+    "Gladiator": "● Sending 4 'Crystal Beast' Monster Cards from your Spell & Trap Card Zone to the GY is a cost to activate this card.\n● You can activate this card when there are no cards on your opponent’s side of the field. However, you can't Special Summon any “Crystal Beast” monsters from your GY if you do.\n● You can't activate this card while 'Macro Cosmos' is applying.\n● You can activate this card while 'Dimensional Fissure' is applying. The 'Crystal Beast' Monster Cards sent to pay the cost are sent to the GY, not removed from play.\n● You can chain the effect of 'Royal Oppression' to this card to negate the Special Summons.",
+    "ReturnDAD": "● Sending 4 'Crystal Beast' Monster Cards from your Spell & Trap Card Zone to the GY is a cost to activate this card.\n● You can activate this card when there are no cards on your opponent’s side of the field. However, you can't Special Summon any “Crystal Beast” monsters from your GY if you do.\n● You can't activate this card while 'Macro Cosmos' is applying.\n● You can activate this card while 'Dimensional Fissure' is applying. The 'Crystal Beast' Monster Cards sent to pay the cost are sent to the GY, not removed from play.\n● You can chain the effect of 'Royal Oppression' to this card to negate the Special Summons.",
+    "Trooper": "● You can activate this card when there are no cards on your opponent’s side of the field. However, you can't Special Summon any “Crystal Beast” monsters from your GY if you do.",
+    "Circle": "● Sending 4 'Crystal Beast' Monster Cards from your Spell & Trap Card Zone to the GY is a cost to activate this card.\n● You can activate this card when there are no cards on your opponent’s side of the field. However, you can't Special Summon any “Crystal Beast” monsters from your GY if you do.\n● You can't activate this card while 'Macro Cosmos' is applying.\n● You can activate this card while 'Dimensional Fissure' is applying. The 'Crystal Beast' Monster Cards sent to pay the cost are sent to the GY, not removed from play.\n● You can chain the effect of 'Royal Oppression' to this card to negate the Special Summons.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Sending 4 'Crystal Beast' Monster Cards from your Spell & Trap Card Zone to the GY is a cost to activate this card.\\n2. You can activate this card when there are no cards on your opponent's side of the field. However, you cannot Special Summon any 'Crystal Beast' monsters from your GY if you do.\\n3. You cannot activate this card while \"Macro Cosmos\" is active.\\n4. You can activate this card while \"Dimensional Fissure\" is active. The 'Crystal Beast' Monster Cards sent to pay the cost are sent to the GY, not removed from play.\\n5. You can chain the effect of \"Royal Oppression\" to this card to negate the Special Summons."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

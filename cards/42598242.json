@@ -1,0 +1,40 @@
+{
+  "id": 42598242,
+  "name": "Special Hurricane",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Special Hurricane will destroy face-down monsters that were Special Summoned.\n●If a monster is Special Summoned, then removed from the field with Interdimensional Matter Transporter, and returns to the field, Special Hurricane WILL destroy it if activated after it returns to the field.",
+    "Goat": "●Special Hurricane will destroy face-down monsters that were Special Summoned.\n●If a monster is Special Summoned, then removed from the field with Interdimensional Matter Transporter, and returns to the field, Special Hurricane WILL destroy it if activated after it returns to the field.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Special Hurricane' will destroy face-down monsters that were Special Summoned.\n● If a monster is Special Summoned, then removed from the field with 'Interdimensional Matter Transporter', and returns to the field, 'Special Hurricane' WILL destroy it if activated after it returns to the field.",
+    "TeleDAD": "● 'Special Hurricane' will destroy face-down monsters that were Special Summoned.\n● If a monster is Special Summoned, then removed from the field with 'Interdimensional Matter Transporter', and returns to the field, 'Special Hurricane' WILL destroy it if activated after it returns to the field.",
+    "Gladiator": "● 'Special Hurricane' will destroy face-down monsters that were Special Summoned.\n● If a monster is Special Summoned, then removed from the field with 'Interdimensional Matter Transporter', and returns to the field, 'Special Hurricane' WILL destroy it if activated after it returns to the field.",
+    "ReturnDAD": "● 'Special Hurricane' will destroy face-down monsters that were Special Summoned.\n● If a monster is Special Summoned, then removed from the field with 'Interdimensional Matter Transporter', and returns to the field, 'Special Hurricane' WILL destroy it if activated after it returns to the field.",
+    "Trooper": "● 'Special Hurricane' will destroy face-down monsters that were Special Summoned.\n● If a monster is Special Summoned, then removed from the field with 'Interdimensional Matter Transporter', and returns to the field, 'Special Hurricane' WILL destroy it if activated after it returns to the field.",
+    "Circle": "● 'Special Hurricane' will destroy face-down monsters that were Special Summoned.\n● If a monster is Special Summoned, then removed from the field with 'Interdimensional Matter Transporter', and returns to the field, 'Special Hurricane' WILL destroy it if activated after it returns to the field.",
+    "Stein": "● 'Special Hurricane' will destroy face-down monsters that were Special Summoned.\n● If a monster is Special Summoned, then removed from the field with 'Interdimensional Matter Transporter', and returns to the field, 'Special Hurricane' WILL destroy it if activated after it returns to the field.",
+    "Base": "1. \"Special Hurricane\" will destroy face-down monsters that were Special Summoned.\\n2. If a monster is Special Summoned, then removed from the field with \"Interdimensional Matter Transporter\", and returns to the field, \"Special Hurricane\" WILL destroy it if activated after it returns to the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

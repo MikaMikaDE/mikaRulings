@@ -1,0 +1,44 @@
+{
+  "id": 75043725,
+  "name": "Emissary of the Afterlife",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 600,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If neither player has a Level 3 or lower Normal Monster in their Deck, the effect of Emissary of the Afterlife disappears BUT both players get to look at their opponent's Decks before they are shuffled.\n●If only 1 player as a Level 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\n●You select monsters when the effect resolves. The effect of Emissary of the Afterlife does not target.",
+    "Goat": "●If neither player has a Lv 3 or lower Normal Monster in their Deck, the effect of Emissary of the Afterlife disappears BUT both players get to look at their opponent's Decks before they are shuffled.\n●If only 1 player as a Lv 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\n●You select monsters when the effect resolves. The effect of Emissary of the Afterlife does not target.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If neither player has a LV 3 or lower Normal Monster in their Deck, the effect of 'Emissary of the Afterlife' disappears BUT both players get to look at their opponent's Decks before they are shuffled.\n● If only 1 player as a LV 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\n● You select monsters when the effect resolves. The effect of 'Emissary of the Afterlife' does not target.",
+    "TeleDAD": "● If neither player has a LV 3 or lower Normal Monster in their Deck, the effect of 'Emissary of the Afterlife' disappears BUT both players get to look at their opponent's Decks before they are shuffled.\n● If only 1 player as a LV 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\n● You select monsters when the effect resolves. The effect of 'Emissary of the Afterlife' does not target.",
+    "Gladiator": "● If neither player has a LV 3 or lower Normal Monster in their Deck, the effect of 'Emissary of the Afterlife' disappears BUT both players get to look at their opponent's Decks before they are shuffled.\n● If only 1 player as a LV 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\n● You select monsters when the effect resolves. The effect of 'Emissary of the Afterlife' does not target.",
+    "ReturnDAD": "● If neither player has a LV 3 or lower Normal Monster in their Deck, the effect of 'Emissary of the Afterlife' disappears BUT both players get to look at their opponent's Decks before they are shuffled.\n● If only 1 player as a LV 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\n● You select monsters when the effect resolves. The effect of 'Emissary of the Afterlife' does not target.",
+    "Trooper": "● If neither player has a LV 3 or lower Normal Monster in their Deck, the effect of 'Emissary of the Afterlife' disappears BUT both players get to look at their opponent's Decks before they are shuffled.\n● If only 1 player as a LV 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\n● You select monsters when the effect resolves. The effect of 'Emissary of the Afterlife' does not target.",
+    "Circle": "● If neither player has a LV 3 or lower Normal Monster in their Deck, the effect of 'Emissary of the Afterlife' disappears BUT both players get to look at their opponent's Decks before they are shuffled.\n● If only 1 player as a LV 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\n● You select monsters when the effect resolves. The effect of 'Emissary of the Afterlife' does not target.",
+    "Stein": "● If neither player has a LV 3 or lower Normal Monster in their Deck, the effect of 'Emissary of the Afterlife' disappears BUT both players get to look at their opponent's Decks before they are shuffled.\n● If only 1 player as a LV 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\n● You select monsters when the effect resolves. The effect of 'Emissary of the Afterlife' does not target.",
+    "Base": "1. If neither player has a Level 3 or lower Normal Monster in their Deck, the effect of \"Emissary of the Afterlife\" disappears BUT both players get to look at their opponent's Decks before they are shuffled.\\n2. If only 1 player as a Level 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\\n3. You select monsters when the effect resolves. The effect of \"Emissary of the Afterlife\" does not target."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

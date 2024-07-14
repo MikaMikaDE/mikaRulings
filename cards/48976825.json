@@ -1,0 +1,40 @@
+{
+  "id": 48976825,
+  "name": "Burial from a Different Dimension",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You may select cards from either players Removed Zone. They will be returned to their respective owner's GYs.",
+    "TeleDAD": "● You may select cards from either players Removed Zone. They will be returned to their respective owner's GYs.",
+    "Gladiator": "● You may select cards from either players Removed Zone. They will be returned to their respective owner's GYs.",
+    "ReturnDAD": "● You may select cards from either players Removed Zone. They will be returned to their respective owner's GYs.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● You may select cards from either players Removed Zone. They will be returned to their respective owner's GYs.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You may select cards from either players Removed Zone. They will be returned to their respective owner's GYs."
+  },
+  "PSCT": {
+    "Tengu": "① Target up to 3 banished monsters; return them to the GY.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

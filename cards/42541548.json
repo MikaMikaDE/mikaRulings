@@ -1,0 +1,44 @@
+{
+  "id": 42541548,
+  "name": "Coach Goblin",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1500,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●You have to show your opponent the card that you return to the bottom of your Deck.",
+    "Goat": "●You have to show your opponent the card that you return to the bottom of your Deck.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You have to show your opponent the card that you return to the bottom of your Deck.",
+    "TeleDAD": "● You have to show your opponent the card that you return to the bottom of your Deck.",
+    "Gladiator": "● You have to show your opponent the card that you return to the bottom of your Deck.",
+    "ReturnDAD": "● You have to show your opponent the card that you return to the bottom of your Deck.",
+    "Trooper": "● You have to show your opponent the card that you return to the bottom of your Deck.",
+    "Circle": "● You have to show your opponent the card that you return to the bottom of your Deck.",
+    "Stein": "● You have to show your opponent the card that you return to the bottom of your Deck.",
+    "Base": "1. You have to show your opponent the card that you return to the bottom of your Deck."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

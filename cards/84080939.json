@@ -1,0 +1,44 @@
+{
+  "id": 84080939,
+  "name": "The Forgiving Maiden",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 850,
+    "def": 2000,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●The Forgiving Maiden's effect can be activated before or after your monster(s) are destroyed in battle, similar to Last Will.",
+    "Goat": "● Are “Lady Panther”, “The Forgiving Maiden”, “Fairy Guardian” or “Crimson Sentry” Multitrigger Effects? \n● A: Nope. Those are all single-trigger Cost Effect monsters. Their Spell Speed is 1, and their effects can only be activated during your own MP 1 or 2. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'The Forgiving Maiden's' effect can be activated before or after your monster(s) are destroyed in battle, similar to 'Last Will'.",
+    "TeleDAD": "● 'The Forgiving Maiden's' effect can be activated before or after your monster(s) are destroyed in battle, similar to 'Last Will'.",
+    "Gladiator": "● 'The Forgiving Maiden's' effect can be activated before or after your monster(s) are destroyed in battle, similar to 'Last Will'.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"The Forgiving Maiden\" can be activated before or after your monster(s) are destroyed in battle, similar to \"Last Will\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

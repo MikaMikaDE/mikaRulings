@@ -1,0 +1,44 @@
+{
+  "id": 57774843,
+  "name": "Judgment Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 3000,
+    "def": 2600,
+    "level": 8,
+    "race": "Dragon",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● If “Book of Moon” is chained to this card’s ① effect, this card doesn’t destroy itself.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Paying 1000 LP is a cost.\n● If an effect is chained that flips 'Judgment Dragon' face-down, it isn't destroyed by its effect.\n● See “Jain, Lightsworn Paladin” for additional rulings.",
+    "TeleDAD": "● Paying 1000 LP is a cost.\n● If an effect is chained that flips 'Judgment Dragon' face-down, it isn't destroyed by its effect.\n● See “Jain, Lightsworn Paladin” for additional rulings.",
+    "Gladiator": "● Paying 1000 LP is a cost.\n● If an effect is chained that flips 'Judgment Dragon' face-down, it isn't destroyed by its effect.\n● See “Jain, Lightsworn Paladin” for additional rulings.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Paying 1000 Life Points is a cost.\\n2. If an effect is chained that flips \"Judgment Dragon\" face-down, it is not destroyed by its effect.\\n3. See \"Jain, Lightsworn Paladin\" for additional rulings."
+  },
+  "PSCT": {
+    "Tengu": "Ⓢ Cannot be Normal Summoned/Set. \nⓈ Must be Special Summoned (from your hand)     by having 4 or more \"Lightsworn\" monsters with different names in your GY. \n① You can pay 1000 LP; \ndestroy all other cards on the field. \n② During your End Phase: \nSend the top 4 cards of your Deck to the GY.\n(Activate & Resolve only if face-up on the field).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

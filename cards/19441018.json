@@ -1,0 +1,44 @@
+{
+  "id": 19441018,
+  "name": "Batteryman Industrial Strength",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2600,
+    "def": 0,
+    "level": 8,
+    "race": "Thunder",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● The only way you can Special Summon this card is via its own procedure.\nEven if it was initially summoned that way, you still can't summon it with card effects.\n● If one target leaves the field before this resolves, the other is still destroyed.\n● This effect must target exactly 2 cards. It cannot target only 1 card.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Removing 1 Thunder from play is a cost to activate this effect.\n● 'Batteryman Industrial Strength's' effect can't be activated unless there is at least 1 monster and at least 1 Spell/Trap Card on the field. \n● If an effect is chained that removes one of the targets from the field, the remaining target is destroyed.",
+    "TeleDAD": "● Removing 1 Thunder from play is a cost to activate this effect.\n● 'Batteryman Industrial Strength's' effect can't be activated unless there is at least 1 monster and at least 1 Spell/Trap Card on the field. \n● If an effect is chained that removes one of the targets from the field, the remaining target is destroyed.",
+    "Gladiator": "● Removing 1 Thunder from play is a cost to activate this effect.\n● 'Batteryman Industrial Strength's' effect can't be activated unless there is at least 1 monster and at least 1 Spell/Trap Card on the field. \n● If an effect is chained that removes one of the targets from the field, the remaining target is destroyed.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Removing 1 Thunder-Type monster from play is a cost to activate this effect.\\n2. The effect of \"Batteryman Industrial Strength\" cannot be activated unless there is at least 1 monster and at least 1 Spell or Trap Card on the field.\\n3. If an effect is chained that removes one of the targets from the field, the remaining target is destroyed."
+  },
+  "PSCT": {
+    "Tengu": "© Can't be Normal Summoned/Set. \n© Must be Special Summoned (from your hand) by banishing 2 \"Batteryman\" monsters from your GY.\n① Once per turn: You can banish 1 Thunder from your GY, then target 1 monster and 1 Spell/Trap on the field;\ndestroy them.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 3078576,
+  "name": "Yata-Garasu",
+  "Stats": {
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "atk": 200,
+    "def": 100,
+    "level": 2,
+    "race": "Fiend",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●If the Battle Damage caused by this card is reduced to 0 (with the effect of Kuriboh, Waboku, etc.) its effect is not activated.\n●If this face-down Defense Position card is attacked by a monster with 0 ATK, its effect will activate, since Battle Damage was inflicted to the attacking player.",
+    "Goat": "●If the Battle Damage caused by this card is reduced to 0 (with the effect of Kuriboh, Waboku, etc.) its effect is not activated.\n●If this face-down Defense Position card is attacked by a monster with 0 ATK, its effect will activate, since Battle Damage was inflicted to the attacking player. “Yata-Garasu’s” effect will activate when it infl icts any damage as a result of battle. \n●Q: If the player that controls “Yata-Garasu” repeatedly attacks his/her opponent's LP to inflict Battle Damage over a period of so many turns and/or until his/her opponent's LP reaches 0, will it be considered stalling? \nA: Playing out the Yata-Garasu effect is NOT considered stalling. However, your opponent must be allowed to concede if he/she chooses and there is no foreseeable manner to avoid a game loss. But there should not be any coercion on either player's part to sit through the effect multiple times or to be forced to play it out needlessly. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If the Battle Damage caused by this card is reduced to 0 (with the effect of 'Kuriboh', 'Waboku', etc.) its effect isn't activated.\n● If this face-down Defense Position card is attacked by a monster with 0 ATK, its effect will activate, since Battle Damage was inflicted to the attacking player.",
+    "TeleDAD": "● If the Battle Damage caused by this card is reduced to 0 (with the effect of 'Kuriboh', 'Waboku', etc.) its effect isn't activated.\n● If this face-down Defense Position card is attacked by a monster with 0 ATK, its effect will activate, since Battle Damage was inflicted to the attacking player.",
+    "Gladiator": "● If the Battle Damage caused by this card is reduced to 0 (with the effect of 'Kuriboh', 'Waboku', etc.) its effect isn't activated.\n● If this face-down Defense Position card is attacked by a monster with 0 ATK, its effect will activate, since Battle Damage was inflicted to the attacking player.",
+    "ReturnDAD": "● If the Battle Damage caused by this card is reduced to 0 (with the effect of 'Kuriboh', 'Waboku', etc.) its effect isn't activated.\n● If this face-down Defense Position card is attacked by a monster with 0 ATK, its effect will activate, since Battle Damage was inflicted to the attacking player.",
+    "Trooper": "● If the Battle Damage caused by this card is reduced to 0 (with the effect of 'Kuriboh', 'Waboku', etc.) its effect isn't activated.\n● If this face-down Defense Position card is attacked by a monster with 0 ATK, its effect will activate, since Battle Damage was inflicted to the attacking player.",
+    "Circle": "● If the Battle Damage caused by this card is reduced to 0 (with the effect of 'Kuriboh', 'Waboku', etc.) its effect isn't activated.\n● If this face-down Defense Position card is attacked by a monster with 0 ATK, its effect will activate, since Battle Damage was inflicted to the attacking player.",
+    "Stein": "● If the Battle Damage caused by this card is reduced to 0 (with the effect of 'Kuriboh', 'Waboku', etc.) its effect isn't activated.\n● If this face-down Defense Position card is attacked by a monster with 0 ATK, its effect will activate, since Battle Damage was inflicted to the attacking player.",
+    "Base": "1. If the Battle Damage caused by this card is reduced to 0 (with the effect of \"Kuriboh\", \"Waboku\", etc.) its effect is not activated.\\n2. If this face-down Defense Position card is attacked by a monster with 0 ATK, its effect will activate, since Battle Damage was inflicted to the attacking player.\\n3. The following rules apply to all Spirit Monsters:\\n4. Spirit is not a monster Type; you cannot declare \"Spirit\" for the effect of \"DNA Surgery\".\\n5. Spirit Monsters are still Effect Monsters.\\n6. A Spirit Monster must be face-up on the field during the End Phase for it to return to the owner's hand. If it was destroyed or removed from play, it will not return to the owner's hand.\\n7. A Spirit Monster will return to the owner's hand during the End Phase, even if the opponent played it from their hand (through the effect of \"Exchange\".)"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

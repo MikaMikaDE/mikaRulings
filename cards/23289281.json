@@ -1,0 +1,44 @@
+{
+  "id": 23289281,
+  "name": "Karate Man",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1000,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Revese Trap's effect is not applied because doubled and halved are not considered as increasing or decreasing.\n●If Karate Man is equipped with Megamorph, and Megamorph is halving Karate Man's ATK, and you use Karate Man's effect, Karate Man's ATK is 2000. If you use Karate Man's effect, and THEN equip him with Megamorph after that, and Megamorph would halve his ATK, then his ATK is 500.\n●If the effect of Shrink is applied after Karate Man's effect has been used, its ATK will become 500. If Karate Man is affected by Shrink, then its effect is activated, its ATK will become 2000.",
+    "Goat": "●If Karate Man is equipped with Megamorph and its ATK is being halved, if you then activate its effect, its ATK is 2000. If you activate its effect and then equip it with Megamorph while your LP are greater than your opponent’s, its ATK is 500. If Karate Man is equipped with Megamorph and you activate its effect, or if you activate its effect and then equip it with Megamorph while your LP are less than your opponent’s, its ATK is 2000.  \n●Q: Would “Messenger of Peace” effectively stop “Karate Man” from using his effect? \nA: “Karate Man's” effect is Spell Speed 1, and it can only be activated during one of your own Main Phases. Since “Karate Man's” ATK would be over 1500 before you declare the attack, you definitely cannot attack after using “Karate Man's” effect if “Messenger of Peace” is on the field. Similarly, as “Karate Man” is a Spell Speed 1 effect, it cannot be used during the opponent's turn at all. So, if a “Gemini Elf” (for example) attacks your “Karate Man,” you don't get to use the effect and “Karate Man” is destroyed from battle. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Revese Trap's' effect isn't applied because 'doubled and halved' are not considered as increasing or decreasing. \n● If Karate Man is equipped with Megamorph, and Megamorph is halving Karate Man's ATK, and you use Karate Man's effect, Karate Man's ATK is 2000. If you use Karate Man's effect, and THEN equip him with Megamorph after that, and Megamorph would halve his ATK, then his ATK is 500.\n● If the effect of 'Shrink' is applied after 'Karate Man's' effect has been used, its ATK will become 500. If 'Karate Man' is affected by 'Shrink', then its effect is activated, its ATK will become 2000.",
+    "TeleDAD": "● 'Revese Trap's' effect isn't applied because 'doubled and halved' are not considered as increasing or decreasing. \n● If Karate Man is equipped with Megamorph, and Megamorph is halving Karate Man's ATK, and you use Karate Man's effect, Karate Man's ATK is 2000. If you use Karate Man's effect, and THEN equip him with Megamorph after that, and Megamorph would halve his ATK, then his ATK is 500.\n● If the effect of 'Shrink' is applied after 'Karate Man's' effect has been used, its ATK will become 500. If 'Karate Man' is affected by 'Shrink', then its effect is activated, its ATK will become 2000.",
+    "Gladiator": "● 'Revese Trap's' effect isn't applied because 'doubled and halved' are not considered as increasing or decreasing. \n● If Karate Man is equipped with Megamorph, and Megamorph is halving Karate Man's ATK, and you use Karate Man's effect, Karate Man's ATK is 2000. If you use Karate Man's effect, and THEN equip him with Megamorph after that, and Megamorph would halve his ATK, then his ATK is 500.\n● If the effect of 'Shrink' is applied after 'Karate Man's' effect has been used, its ATK will become 500. If 'Karate Man' is affected by 'Shrink', then its effect is activated, its ATK will become 2000.",
+    "ReturnDAD": "● 'Revese Trap's' effect isn't applied because 'doubled and halved' are not considered as increasing or decreasing. \n● If Karate Man is equipped with Megamorph, and Megamorph is halving Karate Man's ATK, and you use Karate Man's effect, Karate Man's ATK is 2000. If you use Karate Man's effect, and THEN equip him with Megamorph after that, and Megamorph would halve his ATK, then his ATK is 500.\n● If the effect of 'Shrink' is applied after 'Karate Man's' effect has been used, its ATK will become 500. If 'Karate Man' is affected by 'Shrink', then its effect is activated, its ATK will become 2000.",
+    "Trooper": "● If 'Karate Man' is equipped with 'Megamorph' and its ATK is being halved, if you then activate its effect, its ATK is 2000.If you activate its effect and then equip it with 'Megamorph' while your LP are greater than your opponent’s, its ATK is 500.If 'Karate Man' is equipped with 'Megamorph' and you activate its effect, or if you activate its effect and then equip it with 'Megamorph' while your LP are less than your opponent’s, its ATK is 2000.",
+    "Circle": "● 'Revese Trap's' effect isn't applied because 'doubled and halved' are not considered as increasing or decreasing. \n● If Karate Man is equipped with Megamorph, and Megamorph is halving Karate Man's ATK, and you use Karate Man's effect, Karate Man's ATK is 2000. If you use Karate Man's effect, and THEN equip him with Megamorph after that, and Megamorph would halve his ATK, then his ATK is 500.\n● If the effect of 'Shrink' is applied after 'Karate Man's' effect has been used, its ATK will become 500. If 'Karate Man' is affected by 'Shrink', then its effect is activated, its ATK will become 2000.",
+    "Stein": "● If 'Karate Man' is equipped with 'Megamorph' and its ATK is being halved, if you then activate its effect, its ATK is 2000.If you activate its effect and then equip it with 'Megamorph' while your LP are greater than your opponent’s, its ATK is 500.If 'Karate Man' is equipped with 'Megamorph' and you activate its effect, or if you activate its effect and then equip it with 'Megamorph' while your LP are less than your opponent’s, its ATK is 2000.",
+    "Base": "1. The effect of \"Revese Trap\" is not applied because 'doubled and halved' are not considered as increasing or decreasing.\\n2. If \"Karate Man\" is equipped with \"Megamorph\", and \"Megamorph\" is halving the ATK of \"Karate Man\", and you use the effect of \"Karate Man\", the ATK of \"Karate Man\" is 2000. If you use the effect of \"Karate Man\", and THEN equip him with \"Megamorph\" after that, and \"Megamorph\" would halve his ATK, then his ATK is 500.\\n3. If the effect of \"Shrink\" is applied after the effect of \"Karate Man\" has been used, its ATK will become 500. If \"Karate Man\" is affected by \"Shrink\", then its effect is activated, its ATK will become 2000."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 81913510,
+  "name": "NEX",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot activate NEX if there is no Fusion Monster in your Extra Deck with the same name as a Neo-Spacian monster you control.\n●If Neo-Spacian Dark Panther copies the name of Neo-Spacian Aqua Dolphin, it can be sent to the GY for NEX, but no monster can be Special Summoned from your Extra Deck. Neo-Spacian Dark Panther is in the GY, its name is no longer treated as Neo-Spacian Aqua Dolphin, and there is no Fusion Monster whose name is or is treated as Neo-Spacian Dark Panther.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate 'NEX' if there is no Fusion Monster in your Extra Deck with the same name as a 'Neo-Spacian' monster you control.\n● If 'Neo-Spacian Dark Panther' copies the name of 'Neo-Spacian Aqua Dolphin', it can be sent to the GY for 'NEX', but no monster can be Special Summoned from your Extra Deck. 'Neo-Spacian Dark Panther' is in the GY, its name is no longer treated as 'Neo-Spacian Aqua Dolphin', and there is no Fusion Monster whose name is or is treated as 'Neo-Spacian Dark Panther'.",
+    "TeleDAD": "● You can't activate 'NEX' if there is no Fusion Monster in your Extra Deck with the same name as a 'Neo-Spacian' monster you control.\n● If 'Neo-Spacian Dark Panther' copies the name of 'Neo-Spacian Aqua Dolphin', it can be sent to the GY for 'NEX', but no monster can be Special Summoned from your Extra Deck. 'Neo-Spacian Dark Panther' is in the GY, its name is no longer treated as 'Neo-Spacian Aqua Dolphin', and there is no Fusion Monster whose name is or is treated as 'Neo-Spacian Dark Panther'.",
+    "Gladiator": "● You can't activate 'NEX' if there is no Fusion Monster in your Fusion Deck with the same name as a 'Neo-Spacian' monster you control.\n● If 'Neo-Spacian Dark Panther' copies the name of 'Neo-Spacian Aqua Dolphin', it can be sent to the GY for 'NEX', but no monster can be Special Summoned from your Fusion Deck. 'Neo-Spacian Dark Panther' is in the GY, its name is no longer treated as 'Neo-Spacian Aqua Dolphin', and there is no Fusion Monster whose name is or is treated as 'Neo-Spacian Dark Panther'.",
+    "ReturnDAD": "● You can't activate 'NEX' if there is no Fusion Monster in your Fusion Deck with the same name as a 'Neo-Spacian' monster you control.\n● If 'Neo-Spacian Dark Panther' copies the name of 'Neo-Spacian Aqua Dolphin', it can be sent to the GY for 'NEX', but no monster can be Special Summoned from your Fusion Deck. 'Neo-Spacian Dark Panther' is in the GY, its name is no longer treated as 'Neo-Spacian Aqua Dolphin', and there is no Fusion Monster whose name is or is treated as 'Neo-Spacian Dark Panther'.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● You can't activate 'NEX' if there is no Fusion Monster in your Fusion Deck with the same name as a 'Neo-Spacian' monster you control.\n● If 'Neo-Spacian Dark Panther' copies the name of 'Neo-Spacian Aqua Dolphin', it can be sent to the GY for 'NEX', but no monster can be Special Summoned from your Fusion Deck. 'Neo-Spacian Dark Panther' is in the GY, its name is no longer treated as 'Neo-Spacian Aqua Dolphin', and there is no Fusion Monster whose name is or is treated as 'Neo-Spacian Dark Panther'.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You cannot activate \"NEX\" if there is no Fusion Monster in your Extra Deck with the same name as a \"Neo-Spacian\" monster you control.\\n2. If \"Neo-Spacian Dark Panther\" copies the name of \"Neo-Spacian Aqua Dolphin\", it can be sent to the GY for \"NEX\", but no monster can be Special Summoned from your Extra Deck. \"Neo-Spacian Dark Panther\" is in the GY, its name is no longer treated as \"Neo-Spacian Aqua Dolphin\", and there is no Fusion Monster whose name is or is treated as \"Neo-Spacian Dark Panther\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

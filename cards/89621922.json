@@ -1,0 +1,44 @@
+{
+  "id": 89621922,
+  "name": "Neo-Spacian Flare Scarab",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 500,
+    "level": 3,
+    "race": "Insect",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●If your opponent has “Embodiment of Apophis” on the field as a monster, it is still treated as 1 Trap Card, so “Neo-Spacian Flare Scarab” gains 400 ATK.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If your opponent has “Embodiment of Apophis” on the field as a monster, it is still treated as 1 Trap Card, so “Neo-Spacian Flare Scarab” gains 400 ATK.",
+    "TeleDAD": "● If your opponent has “Embodiment of Apophis” on the field as a monster, it is still treated as 1 Trap Card, so “Neo-Spacian Flare Scarab” gains 400 ATK.",
+    "Gladiator": "● If your opponent has “Embodiment of Apophis” on the field as a monster, it is still treated as 1 Trap Card, so “Neo-Spacian Flare Scarab” gains 400 ATK.",
+    "ReturnDAD": "● If your opponent has “Embodiment of Apophis” on the field as a monster, it is still treated as 1 Trap Card, so “Neo-Spacian Flare Scarab” gains 400 ATK.",
+    "Trooper": "● If your opponent has “Embodiment of Apophis” on the field as a monster, it is still treated as 1 Trap Card, so “Neo-Spacian Flare Scarab” gains 400 ATK.",
+    "Circle": "● If your opponent has “Embodiment of Apophis” on the field as a monster, it is still treated as 1 Trap Card, so “Neo-Spacian Flare Scarab” gains 400 ATK.",
+    "Stein": "● If your opponent has “Embodiment of Apophis” on the field as a monster, it is still treated as 1 Trap Card, so “Neo-Spacian Flare Scarab” gains 400 ATK.",
+    "Base": "1. If your opponent has \"Embodiment of Apophis\" on the field as a monster, it is still treated as 1 Trap Card, so \"Neo-Spacian Flare Scarab\" gains 400 ATK."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

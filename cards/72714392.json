@@ -1,0 +1,44 @@
+{
+  "id": 72714392,
+  "name": "Blackwing - Vayu the Emblem of Honor",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 0,
+    "level": 1,
+    "race": "Winged Beast",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● This card’s ① effect is an effect, so it can be negated by effects (for example, by Shura).\n● If “Royal Oppression” is chained to this card’s ② effect, this card is not banished, since the effect to banish both monsters is negated. This effect can then activate again that same turn.\n● The monsters summoned this way are not Synchro Summoned monsters.\nThis means that they can't be summoned by card effects if later sent to the GY/Banished (Goyo Guardian cannot Summon a monster summoned this way).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect targets 1 'Blackwing' monster in your GY.\\n2. Special Summoning a monster with this effect is not considered a Synchro Summon.\\n3. You can activate this effect even if \"Discord\" is active.\\n4. If the effect of \"Blackwing - Vayu the Emblem of Honor\" is being negated by \"Skill Drain\" you can use it for a Synchro Summon while it is on the field.\\n5. If the Synchro Monster you want to Summon with the effect of \"Blackwing - Vayu the Emblem of Honor\" is no longer in your Extra Deck when the effect resolves, you must Special Summon another appropriate Synchro Monster instead. If you do not have one, your opponent can check your Extra Deck to verify.\\n6. If an effect causes you to have no cards in your Extra Deck when the effect of \"Blackwing - Vayu the Emblem of Honor\" resolves, you still remove from play \"Blackwing - Vayu the Emblem of Honor\" and the selected 'Blackwing' monster.\\n7. If Vayu or the targeted 'Blackwing' monster isn't in the GY when this effect resolves, the effect is not applied."
+  },
+  "PSCT": {
+    "Tengu": "① Cannot be used as Synchro Material. \n② If this card is in your GY: \nYou can target 1 non-Tuner \"Blackwing\" monster in your GY; \nbanish both this card and the target, and if you do, Special Summon 1 \"Blackwing” Synchro from your Extra Deck, whose Level equals the total Levels of those monsters (negate its effects).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

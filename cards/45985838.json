@@ -1,0 +1,44 @@
+{
+  "id": 45985838,
+  "name": "Solar Flare Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 1000,
+    "level": 4,
+    "race": "Pyro",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you have 2 Solar Flare Dragons, or a Solar Flare Dragon equipped with Raregold Armor and another Pyro-Type monster, your opponent cannot attack.\n●Even if Solar Flare Dragon's Type is changed, as long as there is another Pyro-Type monster on your side of the field, Solar Flare Dragon cannot be attacked.\n●You can apply Barrel Behind the Door to the effect of Solar Flare Dragon.",
+    "Goat": "●If you have 2 Solar Flare Dragons, or a Solar Flare Dragon equipped with Raregold Armor and another Pyro monster, your opponent cannot attack.\n●Even if Solar Flare Dragon's Type is changed, as long as there is another Pyro monster on your side of the field, Solar Flare Dragon cannot be attacked.\n●You can apply Barrel Behind the Door to the effect of Solar Flare Dragon.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have 2 'Solar Flare Dragons', or a 'Solar Flare Dragon' equipped with 'Raregold Armor' and another Pyro, your opponent can't attack.\n● Even if 'Solar Flare Dragon''s Type is changed, as long as there is another Pyro on your side of the field, 'Solar Flare Dragon' can't be attacked.\n● You can apply 'Barrel Behind the Door' to the effect of 'Solar Flare Dragon'.",
+    "TeleDAD": "● If you have 2 'Solar Flare Dragons', or a 'Solar Flare Dragon' equipped with 'Raregold Armor' and another Pyro, your opponent can't attack.\n● Even if 'Solar Flare Dragon''s Type is changed, as long as there is another Pyro on your side of the field, 'Solar Flare Dragon' can't be attacked.\n● You can apply 'Barrel Behind the Door' to the effect of 'Solar Flare Dragon'.",
+    "Gladiator": "● If you have 2 'Solar Flare Dragons', or a 'Solar Flare Dragon' equipped with 'Raregold Armor' and another Pyro, your opponent can't attack.\n● Even if 'Solar Flare Dragon''s Type is changed, as long as there is another Pyro on your side of the field, 'Solar Flare Dragon' can't be attacked.\n● You can apply 'Barrel Behind the Door' to the effect of 'Solar Flare Dragon'.",
+    "ReturnDAD": "● If you have 2 'Solar Flare Dragons', or a 'Solar Flare Dragon' equipped with 'Raregold Armor' and another Pyro, your opponent can't attack.\n● Even if 'Solar Flare Dragon''s Type is changed, as long as there is another Pyro on your side of the field, 'Solar Flare Dragon' can't be attacked.\n● You can apply 'Barrel Behind the Door' to the effect of 'Solar Flare Dragon'.",
+    "Trooper": "● If you have 2 'Solar Flare Dragons', or a 'Solar Flare Dragon' equipped with 'Raregold Armor' and another Pyro, your opponent can't attack.\n● Even if 'Solar Flare Dragon''s Type is changed, as long as there is another Pyro on your side of the field, 'Solar Flare Dragon' can't be attacked.\n● You can apply 'Barrel Behind the Door' to the effect of 'Solar Flare Dragon'.",
+    "Circle": "● If you have 2 'Solar Flare Dragons', or a 'Solar Flare Dragon' equipped with 'Raregold Armor' and another Pyro, your opponent can't attack.\n● Even if 'Solar Flare Dragon''s Type is changed, as long as there is another Pyro on your side of the field, 'Solar Flare Dragon' can't be attacked.\n● You can apply 'Barrel Behind the Door' to the effect of 'Solar Flare Dragon'.",
+    "Stein": "● If you have 2 'Solar Flare Dragons', or a 'Solar Flare Dragon' equipped with 'Raregold Armor' and another Pyro, your opponent can't attack.\n● Even if 'Solar Flare Dragon''s Type is changed, as long as there is another Pyro on your side of the field, 'Solar Flare Dragon' can't be attacked.\n● You can apply 'Barrel Behind the Door' to the effect of 'Solar Flare Dragon'.",
+    "Base": "1. If you have 2 copies of \"Solar Flare Dragon\", or a \"Solar Flare Dragon\" equipped with \"Raregold Armor\" and another Pyro-Type monster, your opponent cannot attack.\\n2. Even if the Type of \"Solar Flare Dragon\" is changed, as long as there is another Pyro-Type monster on your side of the field, \"Solar Flare Dragon\" cannot be attacked.\\n3. You can apply \"Barrel Behind the Door\" to the effect of \"Solar Flare Dragon\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

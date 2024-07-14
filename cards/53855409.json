@@ -1,0 +1,44 @@
+{
+  "id": 53855409,
+  "name": "Doppelwarrior",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 800,
+    "level": 2,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You cannot activate the effect to Special Summon this card from your hand during the Damage Step.\\n2. You can activate the effect to Special Summon this card from your hand during either player's turn.\\n3. You can only activate the effect of 1 copy of \"Doppelwarrior\" when a monster is Special Summoned from your GY even if you have more than 1 \"Doppelwarrior\" in your hand.\\n4. You can Special Summon \"Doppelwarrior\" from your hand when your opponent Special Summons a monster from your GY to their side of the field with \"Monster Reborn\".\\n5. You cannot activate the effect to Summon 'Doppel Tokens' if you do not have at least 2 open Monster Card Zones.\\n6. You cannot choose to Summon only 1 or 0 'Doppel Tokens'. You must Summon 2 if you activate the effect.\\n7. If you use multiple copies of \"Doppelwarrior\" as Synchro Material Monsters you can activate both of their effects.\\n8. The owner of \"Doppelwarrior\" is the player who can activate its effect, even if the opponent uses it as a Synchro Material Monster due to \"Synchro Material\".\\n9. The effect to Special Summon 'Doppel Tokens' activates in the GY, so you can activate it even if the effect of \"Doppelwarrior\" is being negated by \"Junk Synchron\".\\n10. [FORUM] If \"Doppelwarrior\" and \"Dandylion\" are used in the Synchro Summon of \"Trishula, Dragon of the Ice Barrier\", the Turn Player would be able to activate all three Trigger effects, placing the effect of \"Dandylion\" first on the Chain (Mandatory), followed by the other two effects (the Turn Player will choose the order of which effect goes on Chain link 2 and which would go on Chain link 3).\\n11. [FORUM] If the Synchro Summon is not successful, the effect of \"Doppelwarrior\" will not activate."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

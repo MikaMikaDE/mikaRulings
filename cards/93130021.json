@@ -1,0 +1,44 @@
+{
+  "id": 93130021,
+  "name": "Victory Viper XX03",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1000,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle. \n● If this card's ATK/DEF/etc change, the token's also change. If this card leaves the field or is flipped face-down, the token is removed from the field (but not \"destroyed\").",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “Victory Viper XX03” leaves the field or is flipped face-down, all of its Option Tokens disappear. (Note that they are not “destroyed”.)\n● “Victory Viper XX03’s” effect activates during the Damage Step when the monster it destroys in battle is sent to the GY.",
+    "TeleDAD": "● If “Victory Viper XX03” leaves the field or is flipped face-down, all of its Option Tokens disappear. (Note that they are not “destroyed”.)\n● “Victory Viper XX03’s” effect activates during the Damage Step when the monster it destroys in battle is sent to the GY.",
+    "Gladiator": "● If “Victory Viper XX03” leaves the field or is flipped face-down, all of its Option Tokens disappear. (Note that they are not “destroyed”.)\n● “Victory Viper XX03’s” effect activates during the Damage Step when the monster it destroys in battle is sent to the GY.",
+    "ReturnDAD": "● If “Victory Viper XX03” leaves the field or is flipped face-down, all of its Option Tokens disappear. (Note that they are not “destroyed”.)\n● “Victory Viper XX03’s” effect activates during the Damage Step when the monster it destroys in battle is sent to the GY.",
+    "Trooper": "● If “Victory Viper XX03” leaves the field or is flipped face-down, all of its Option Tokens disappear. (Note that they are not “destroyed”.)\n● “Victory Viper XX03’s” effect activates during the Damage Step when the monster it destroys in battle is sent to the GY.",
+    "Circle": "● If “Victory Viper XX03” leaves the field or is flipped face-down, all of its Option Tokens disappear. (Note that they are not “destroyed”.)\n● “Victory Viper XX03’s” effect activates during the Damage Step when the monster it destroys in battle is sent to the GY.",
+    "Stein": "● If “Victory Viper XX03” leaves the field or is flipped face-down, all of its Option Tokens disappear. (Note that they are not “destroyed”.)\n● “Victory Viper XX03’s” effect activates during the Damage Step when the monster it destroys in battle is sent to the GY.",
+    "Base": "1. If \"Victory Viper XX03\" leaves the field or is flipped face-down, all of its Option Tokens disappear. (Note that they are not 'destroyed'.)\\n2. The effect of \"Victory Viper XX03\" activates during the Damage Step when the monster it destroys in battle is sent to the GY."
+  },
+  "PSCT": {
+    "Tengu": "① If this card destroys an opponent's monster by battle: Activate 1 of these effects;\n● This card gains 400 ATK.\n● Target 1 face-up Spell/Trap; destroy that target.\n● Special Summon 1 \"Option Token\" (It always has the same Type/Attribute/Level/AT/DEF as this card).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

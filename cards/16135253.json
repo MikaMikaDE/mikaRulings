@@ -1,0 +1,44 @@
+{
+  "id": 16135253,
+  "name": "Agido",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 1300,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(1) When this card is destroyed and sent to the GY as a result of battle, roll a six-sided die. You can Special Summon 1 Fairy-Type monster from your GY whose Level is equal to the number rolled. (If the result is 6, you can Special Summon a Level 6 or higher monster.)\n●The (1) mandatory Trigger Effect activates & resolves in the GY.\n●This effect activates in Substep 7 - End of the Damage Step.\n●Agido can Special Summon itself.\n●This effect does not target.",
+    "Goat": "●Agido can Special Summon itself.\n●Agido's effect does not target.\n●While Necrovalley is applying, the effect of Agido will activate, but will be negated.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Agido' can Special Summon itself.\n● 'Agido''s effect does not target.\n● While 'Necrovalley' is applying, the effect of 'Agido' will activate, but will be negated.",
+    "TeleDAD": "● 'Agido' can Special Summon itself.\n● 'Agido''s effect does not target.\n● While 'Necrovalley' is applying, the effect of 'Agido' will activate, but will be negated.",
+    "Gladiator": "● 'Agido' can Special Summon itself.\n● 'Agido''s effect does not target.\n● While 'Necrovalley' is applying, the effect of 'Agido' will activate, but will be negated.",
+    "ReturnDAD": "● 'Agido' can Special Summon itself.\n● 'Agido''s effect does not target.\n● While 'Necrovalley' is applying, the effect of 'Agido' will activate, but will be negated.",
+    "Trooper": "● 'Agido' can Special Summon itself.\n● 'Agido''s effect does not target.\n● While 'Necrovalley' is applying, the effect of 'Agido' will activate, but will be negated.",
+    "Circle": "● 'Agido' can Special Summon itself.\n● 'Agido''s effect does not target.\n● While 'Necrovalley' is applying, the effect of 'Agido' will activate, but will be negated.",
+    "Stein": "● 'Agido' can Special Summon itself.\n● 'Agido''s effect does not target.\n● While 'Necrovalley' is applying, the effect of 'Agido' will activate, but will be negated.",
+    "Base": "1. \"Agido\" can Special Summon itself.\\n2. The effect of \"Agido\" does not target.\\n3. While \"Necrovalley\" is active, the effect of \"Agido\" will activate, but will be negated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

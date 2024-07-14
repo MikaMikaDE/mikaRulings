@@ -1,0 +1,40 @@
+{
+  "id": 12580477,
+  "name": "Raigeki",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If there are no monsters on your opponent’s side of the field you may not activate Raigeki.",
+    "Goat": "●If there are no monsters on your opponent’s side of the field you may not activate Raigeki.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If there are no monsters on your opponent’s side of the field you may not activate 'Raigeki'.",
+    "TeleDAD": "● If there are no monsters on your opponent’s side of the field you may not activate 'Raigeki'.",
+    "Gladiator": "● If there are no monsters on your opponent’s side of the field you may not activate 'Raigeki'.",
+    "ReturnDAD": "● If there are no monsters on your opponent’s side of the field you may not activate 'Raigeki'.",
+    "Trooper": "● If there are no monsters on your opponent’s side of the field you may not activate 'Raigeki'.",
+    "Circle": "● If there are no monsters on your opponent’s side of the field you may not activate 'Raigeki'.",
+    "Stein": "● If there are no monsters on your opponent’s side of the field you may not activate 'Raigeki'.",
+    "Base": "1. If there are no monsters on your opponent's side of the field you may not activate \"Raigeki\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

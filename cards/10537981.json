@@ -1,0 +1,40 @@
+{
+  "id": 10537981,
+  "name": "Return Soul",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card targets up to 3 cards in either player's GY. You may choose 2 from one player's GY, and 1 from the other's.\n●If one or more of the targeted cards are removed from the GY by an effect Chained to this card, the remaining targets will still be returned to the Deck(s).\n●A monster destroyed in the hand or Deck can be chosen as a target for this card.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card targets up to 3 cards in either player's GY. You may choose 2 from one player's GY, and 1 from the other's.\n● If one or more of the targeted cards are removed from the GY by an effect Chained to this card, the remaining targets will still be returned to the Deck(s).\n● A monster destroyed in the hand or Deck can be chosen as a target for this card.",
+    "TeleDAD": "● This card targets up to 3 cards in either player's GY. You may choose 2 from one player's GY, and 1 from the other's.\n● If one or more of the targeted cards are removed from the GY by an effect Chained to this card, the remaining targets will still be returned to the Deck(s).\n● A monster destroyed in the hand or Deck can be chosen as a target for this card.",
+    "Gladiator": "● This card targets up to 3 cards in either player's GY. You may choose 2 from one player's GY, and 1 from the other's.\n● If one or more of the targeted cards are removed from the GY by an effect Chained to this card, the remaining targets will still be returned to the Deck(s).\n● A monster destroyed in the hand or Deck can be chosen as a target for this card.",
+    "ReturnDAD": "● This card targets up to 3 cards in either player's GY. You may choose 2 from one player's GY, and 1 from the other's.\n● If one or more of the targeted cards are removed from the GY by an effect Chained to this card, the remaining targets will still be returned to the Deck(s).\n● A monster destroyed in the hand or Deck can be chosen as a target for this card.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● This card targets up to 3 cards in either player's GY. You may choose 2 from one player's GY, and 1 from the other's.\n● If one or more of the targeted cards are removed from the GY by an effect Chained to this card, the remaining targets will still be returned to the Deck(s).\n● A monster destroyed in the hand or Deck can be chosen as a target for this card.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card targets up to 3 cards in either player's GY. You may choose 2 from one player's GY, and 1 from the other's.\\n2. If one or more of the targeted cards are removed from the GY by an effect Chained to this card, the remaining targets will still be returned to the Deck(s).\\n3. A monster destroyed in the hand or Deck can be chosen as a target for this card."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 67468948,
+  "name": "Layard the Liberator",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 1500,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Layard the Liberator” is a Continuous Effect, and cannot be chained to. You will add 2 of your Fairy-Type monsters to your hand immediately after a Counter Trap’s effects have resolved.\n●“Layard the Liberator’s” effect will not activate if you have only 1 Fairy-Type monster removed from play.\n●This effect targets 2 Fairy-Type monsters.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Layard the Liberator” is a Continuous Effect, and can't be chained to. You will add 2 of your Fairys to your hand immediately after a Counter Trap’s effects have resolved.\n● “Layard the Liberator’s” effect will not activate if you have only 1 Fairy removed from play.\n● This effect targets 2 Fairys.",
+    "TeleDAD": "● The effect of “Layard the Liberator” is a Continuous Effect, and can't be chained to. You will add 2 of your Fairys to your hand immediately after a Counter Trap’s effects have resolved.\n● “Layard the Liberator’s” effect will not activate if you have only 1 Fairy removed from play.\n● This effect targets 2 Fairys.",
+    "Gladiator": "● The effect of “Layard the Liberator” is a Continuous Effect, and can't be chained to. You will add 2 of your Fairys to your hand immediately after a Counter Trap’s effects have resolved.\n● “Layard the Liberator’s” effect will not activate if you have only 1 Fairy removed from play.\n● This effect targets 2 Fairys.",
+    "ReturnDAD": "● The effect of “Layard the Liberator” is a Continuous Effect, and can't be chained to. You will add 2 of your Fairys to your hand immediately after a Counter Trap’s effects have resolved.\n● “Layard the Liberator’s” effect will not activate if you have only 1 Fairy removed from play.\n● This effect targets 2 Fairys.",
+    "Trooper": "● The effect of “Layard the Liberator” is a Continuous Effect, and can't be chained to. You will add 2 of your Fairys to your hand immediately after a Counter Trap’s effects have resolved.\n● “Layard the Liberator’s” effect will not activate if you have only 1 Fairy removed from play.\n● This effect targets 2 Fairys.",
+    "Circle": "● The effect of “Layard the Liberator” is a Continuous Effect, and can't be chained to. You will add 2 of your Fairys to your hand immediately after a Counter Trap’s effects have resolved.\n● “Layard the Liberator’s” effect will not activate if you have only 1 Fairy removed from play.\n● This effect targets 2 Fairys.",
+    "Stein": "● The effect of “Layard the Liberator” is a Continuous Effect, and can't be chained to. You will add 2 of your Fairys to your hand immediately after a Counter Trap’s effects have resolved.\n● “Layard the Liberator’s” effect will not activate if you have only 1 Fairy removed from play.\n● This effect targets 2 Fairys.",
+    "Base": "1. The effect of \"Layard the Liberator\" is a Continuous Effect, and cannot be chained to. You will add 2 of your Fairy-Type monsters to your hand immediately after a Counter Trap's effects have resolved.\\n2. The effect of \"Layard the Liberator\" will not activate if you have only 1 Fairy-Type monster removed from play.\\n3. This effect targets 2 Fairy-Type monsters."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

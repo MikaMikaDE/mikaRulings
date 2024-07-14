@@ -1,0 +1,40 @@
+{
+  "id": 41620959,
+  "name": "Dragon Shrine",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If you send a Gemini Monster, that monster is treated as a Normal Monster while in the GY, so you can send 1 more Dragon afterwards.",
+    "Vegas": "● If you send a Gemini Monster, that monster is treated as a Normal Monster while in the GY, so you can send 1 more Dragon afterwards.",
+    "Meadowlands": "● If you send a Gemini Monster, that monster is treated as a Normal Monster while in the GY, so you can send 1 more Dragon afterwards.",
+    "FireWater": "● If you send a Gemini Monster, that monster is treated as a Normal Monster while in the GY, so you can send 1 more Dragon afterwards.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Send 1 Dragon from your Deck to the GY, then, if that monster in your GY is a Dragon Normal Monster, \nyou can send 1 more Dragon monster from your Deck to the GY. \n(You can only activate 1 \"Dragon Shrine\" per turn).",
+    "Meadowlands": "① Send 1 Dragon from your Deck to the GY, then, if that monster in your GY is a Dragon Normal Monster, \nyou can send 1 more Dragon monster from your Deck to the GY. \n(You can only activate 1 \"Dragon Shrine\" per turn).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

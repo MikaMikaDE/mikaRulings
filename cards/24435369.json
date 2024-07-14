@@ -1,0 +1,44 @@
+{
+  "id": 24435369,
+  "name": "Mermaid Knight",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 700,
+    "level": 4,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●Mermaid Knight can attack twice if Maiden of the Aqua is making the field treated as Umi.\n●If you declare your second attack with Mermaid Knight, and Umi is destroyed during the Battle Step, a replay occurs and you cannot attack a second time with Mermaid Knight.\n●If there is no Umi on the field and Mermaid Knight attacks, then you Special Summon Maiden of the Aqua to treat the field as Umi, you can attack a second time.",
+    "Goat": "●Mermaid Knight can attack twice if Maiden of the Aqua is making the field treated as Umi.\n●If you declare your second attack with Mermaid Knight, and Umi is destroyed during the Battle Step, a replay occurs and you cannot attack a second time with Mermaid Knight.\n●If there is no Umi on the field and Mermaid Knight attacks, then you Special Summon Maiden of the Aqua to treat the field as Umi, you can attack a second time.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Mermaid Knight' can attack twice if 'Maiden of the Aqua' is making the field treated as 'Umi'.\n● If you declare your second attack with 'Mermaid Knight', and 'Umi' is destroyed during the Battle Step, a replay occurs and you can't attack a second time with 'Mermaid Knight'.\n● If there is no 'Umi' on the field and 'Mermaid Knight' attacks, then you Special Summon 'Maiden of the Aqua' to treat the field as 'Umi', you can attack a second time.",
+    "TeleDAD": "● 'Mermaid Knight' can attack twice if 'Maiden of the Aqua' is making the field treated as 'Umi'.\n● If you declare your second attack with 'Mermaid Knight', and 'Umi' is destroyed during the Battle Step, a replay occurs and you can't attack a second time with 'Mermaid Knight'.\n● If there is no 'Umi' on the field and 'Mermaid Knight' attacks, then you Special Summon 'Maiden of the Aqua' to treat the field as 'Umi', you can attack a second time.",
+    "Gladiator": "● 'Mermaid Knight' can attack twice if 'Maiden of the Aqua' is making the field treated as 'Umi'.\n● If you declare your second attack with 'Mermaid Knight', and 'Umi' is destroyed during the Battle Step, a replay occurs and you can't attack a second time with 'Mermaid Knight'.\n● If there is no 'Umi' on the field and 'Mermaid Knight' attacks, then you Special Summon 'Maiden of the Aqua' to treat the field as 'Umi', you can attack a second time.",
+    "ReturnDAD": "● 'Mermaid Knight' can attack twice if 'Maiden of the Aqua' is making the field treated as 'Umi'.\n● If you declare your second attack with 'Mermaid Knight', and 'Umi' is destroyed during the Battle Step, a replay occurs and you can't attack a second time with 'Mermaid Knight'.\n● If there is no 'Umi' on the field and 'Mermaid Knight' attacks, then you Special Summon 'Maiden of the Aqua' to treat the field as 'Umi', you can attack a second time.",
+    "Trooper": "● 'Mermaid Knight' can attack twice if 'Maiden of the Aqua' is making the field treated as 'Umi'.\n● If you declare your second attack with 'Mermaid Knight', and 'Umi' is destroyed during the Battle Step, a replay occurs and you can't attack a second time with 'Mermaid Knight'.\n● If there is no 'Umi' on the field and 'Mermaid Knight' attacks, then you Special Summon 'Maiden of the Aqua' to treat the field as 'Umi', you can attack a second time.",
+    "Circle": "● 'Mermaid Knight' can attack twice if 'Maiden of the Aqua' is making the field treated as 'Umi'.\n● If you declare your second attack with 'Mermaid Knight', and 'Umi' is destroyed during the Battle Step, a replay occurs and you can't attack a second time with 'Mermaid Knight'.\n● If there is no 'Umi' on the field and 'Mermaid Knight' attacks, then you Special Summon 'Maiden of the Aqua' to treat the field as 'Umi', you can attack a second time.",
+    "Stein": "● 'Mermaid Knight' can attack twice if 'Maiden of the Aqua' is making the field treated as 'Umi'.\n● If you declare your second attack with 'Mermaid Knight', and 'Umi' is destroyed during the Battle Step, a replay occurs and you can't attack a second time with 'Mermaid Knight'.\n● If there is no 'Umi' on the field and 'Mermaid Knight' attacks, then you Special Summon 'Maiden of the Aqua' to treat the field as 'Umi', you can attack a second time.",
+    "Base": "1. \"Mermaid Knight\" can attack twice if \"Maiden of the Aqua\" is making the field treated as \"Umi\".\\n2. If you declare your second attack with \"Mermaid Knight\", and \"Umi\" is destroyed during the Battle Step, a replay occurs and you cannot attack a second time with \"Mermaid Knight\".\\n3. If there is no \"Umi\" on the field and \"Mermaid Knight\" attacks, then you Special Summon \"Maiden of the Aqua\" to treat the field as \"Umi\", you can attack a second time."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 51945556,
+  "name": "Zaborg the Thunder Monarch",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 1000,
+    "level": 5,
+    "race": "Thunder",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● This effect is mandatory.",
+    "Goat": "●You have to destroy 1 monster. If there are no other monsters then you have to destroy Zaborg the Thunder Monarch.\n●Zaborg the Thunder Monarch's effect targets.\n●If you target Chaos Command Magician with Zaborg the Thunder Monarch's effect, the effect is negated.\n●If you Tribute Set Zaborg the Thunder Monarch face-down the effect is not activated.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You have to destroy 1 monster. If there are no other monsters then you have to destroy 'Zaborg the Thunder Monarch'.\n● 'Zaborg the Thunder Monarch''s effect targets.\n● If you target 'Chaos Command Magician' with 'Zaborg the Thunder Monarch''s effect, the effect is negated.\n● If you Tribute Set 'Zaborg the Thunder Monarch' face-down the effect isn't activated.",
+    "TeleDAD": "● You have to destroy 1 monster. If there are no other monsters then you have to destroy 'Zaborg the Thunder Monarch'.\n● 'Zaborg the Thunder Monarch''s effect targets.\n● If you target 'Chaos Command Magician' with 'Zaborg the Thunder Monarch''s effect, the effect is negated.\n● If you Tribute Set 'Zaborg the Thunder Monarch' face-down the effect isn't activated.",
+    "Gladiator": "● You have to destroy 1 monster. If there are no other monsters then you have to destroy 'Zaborg the Thunder Monarch'.\n● 'Zaborg the Thunder Monarch''s effect targets.\n● If you target 'Chaos Command Magician' with 'Zaborg the Thunder Monarch''s effect, the effect is negated.\n● If you Tribute Set 'Zaborg the Thunder Monarch' face-down the effect isn't activated.",
+    "ReturnDAD": "● You have to destroy 1 monster. If there are no other monsters then you have to destroy 'Zaborg the Thunder Monarch'.\n● 'Zaborg the Thunder Monarch''s effect targets.\n● If you target 'Chaos Command Magician' with 'Zaborg the Thunder Monarch''s effect, the effect is negated.\n● If you Tribute Set 'Zaborg the Thunder Monarch' face-down the effect isn't activated.",
+    "Trooper": "● You have to destroy 1 monster. If there are no other monsters then you have to destroy 'Zaborg the Thunder Monarch'.\n● 'Zaborg the Thunder Monarch''s effect targets.\n● If you target 'Chaos Command Magician' with 'Zaborg the Thunder Monarch''s effect, the effect is negated.\n● If you Tribute Set 'Zaborg the Thunder Monarch' face-down the effect isn't activated.",
+    "Circle": "● You have to destroy 1 monster. If there are no other monsters then you have to destroy 'Zaborg the Thunder Monarch'.\n● 'Zaborg the Thunder Monarch''s effect targets.\n● If you target 'Chaos Command Magician' with 'Zaborg the Thunder Monarch''s effect, the effect is negated.\n● If you Tribute Set 'Zaborg the Thunder Monarch' face-down the effect isn't activated.",
+    "Stein": "● You have to destroy 1 monster. If there are no other monsters then you have to destroy 'Zaborg the Thunder Monarch'.\n● 'Zaborg the Thunder Monarch''s effect targets.\n● If you target 'Chaos Command Magician' with 'Zaborg the Thunder Monarch''s effect, the effect is negated.\n● If you Tribute Set 'Zaborg the Thunder Monarch' face-down the effect isn't activated.",
+    "Base": "1. You have to destroy 1 monster. If there are no other monsters then you have to destroy \"Zaborg the Thunder Monarch\".\\n2. The effect of \"Zaborg the Thunder Monarch\" targets.\\n3. If you target \"Chaos Command Magician\" with the effect of \"Zaborg the Thunder Monarch\", the effect is negated.\\n4. If you Tribute Set \"Zaborg the Thunder Monarch\" face-down the effect is not activated."
+  },
+  "PSCT": {
+    "Tengu": "① If Tribute Summoned: Target 1 monster on the field; destroy it.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

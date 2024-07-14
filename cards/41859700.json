@@ -1,0 +1,44 @@
+{
+  "id": 41859700,
+  "name": "Burning Algae",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 1500,
+    "level": 3,
+    "race": "Pyro",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●Burning Algae's effect activates when sent to the GY from the field, your hand, or your Deck.\n●Burning Algae's effect activates in the GY, so when a face-down Burning Algae is sent to the GY, or Burning Algae in your opponent's hand is sent to your GY, the effect is activated.\n●Burning Algae's effect cannot be negated by Skill Drain.\n●When you Tribute Burning Algae to Tribute Summon Dark Magician of Chaos, Burning Algae's effect is Step 1 of a chain and Dark Magician of Chaos' effect is Step 2.",
+    "Goat": "●Burning Algae's effect activates when sent to the GY from the field, your hand, or your Deck.\n●Burning Algae's effect activates in the GY, so when a face-down Burning Algae is sent to the GY, or Burning Algae in your opponent's hand is sent to your GY, the effect is activated.\n●Burning Algae's effect cannot be negated by Skill Drain.\n●When you Tribute Burning Algae to Tribute Summon Dark Magician of Chaos, Burning Algae's effect is Step 1 of a chain and Dark Magician of Chaos' effect is Step 2.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Burning Algae''s effect activates when sent to the GY from the field, your hand, or your Deck.\n● 'Burning Algae''s effect activates in the GY, so when a face-down 'Burning Algae' is sent to the GY, or 'Burning Algae' in your opponent's hand is sent to your GY, the effect is activated.\n● 'Burning Algae''s effect can't be negated by 'Skill Drain'.\n● When you Tribute 'Burning Algae' to Tribute Summon 'Dark Magician of Chaos', 'Burning Algae''s effect is Step 1 of a chain and 'Dark Magician of Chaos'' effect is Step 2.",
+    "TeleDAD": "● 'Burning Algae''s effect activates when sent to the GY from the field, your hand, or your Deck.\n● 'Burning Algae''s effect activates in the GY, so when a face-down 'Burning Algae' is sent to the GY, or 'Burning Algae' in your opponent's hand is sent to your GY, the effect is activated.\n● 'Burning Algae''s effect can't be negated by 'Skill Drain'.\n● When you Tribute 'Burning Algae' to Tribute Summon 'Dark Magician of Chaos', 'Burning Algae''s effect is Step 1 of a chain and 'Dark Magician of Chaos'' effect is Step 2.",
+    "Gladiator": "● 'Burning Algae''s effect activates when sent to the GY from the field, your hand, or your Deck.\n● 'Burning Algae''s effect activates in the GY, so when a face-down 'Burning Algae' is sent to the GY, or 'Burning Algae' in your opponent's hand is sent to your GY, the effect is activated.\n● 'Burning Algae''s effect can't be negated by 'Skill Drain'.\n● When you Tribute 'Burning Algae' to Tribute Summon 'Dark Magician of Chaos', 'Burning Algae''s effect is Step 1 of a chain and 'Dark Magician of Chaos'' effect is Step 2.",
+    "ReturnDAD": "● 'Burning Algae''s effect activates when sent to the GY from the field, your hand, or your Deck.\n● 'Burning Algae''s effect activates in the GY, so when a face-down 'Burning Algae' is sent to the GY, or 'Burning Algae' in your opponent's hand is sent to your GY, the effect is activated.\n● 'Burning Algae''s effect can't be negated by 'Skill Drain'.\n● When you Tribute 'Burning Algae' to Tribute Summon 'Dark Magician of Chaos', 'Burning Algae''s effect is Step 1 of a chain and 'Dark Magician of Chaos'' effect is Step 2.",
+    "Trooper": "● 'Burning Algae''s effect activates when sent to the GY from the field, your hand, or your Deck.\n● 'Burning Algae''s effect activates in the GY, so when a face-down 'Burning Algae' is sent to the GY, or 'Burning Algae' in your opponent's hand is sent to your GY, the effect is activated.\n● 'Burning Algae''s effect can't be negated by 'Skill Drain'.\n● When you Tribute 'Burning Algae' to Tribute Summon 'Dark Magician of Chaos', 'Burning Algae''s effect is Step 1 of a chain and 'Dark Magician of Chaos'' effect is Step 2.",
+    "Circle": "● 'Burning Algae''s effect activates when sent to the GY from the field, your hand, or your Deck.\n● 'Burning Algae''s effect activates in the GY, so when a face-down 'Burning Algae' is sent to the GY, or 'Burning Algae' in your opponent's hand is sent to your GY, the effect is activated.\n● 'Burning Algae''s effect can't be negated by 'Skill Drain'.\n● When you Tribute 'Burning Algae' to Tribute Summon 'Dark Magician of Chaos', 'Burning Algae''s effect is Step 1 of a chain and 'Dark Magician of Chaos'' effect is Step 2.",
+    "Stein": "● 'Burning Algae''s effect activates when sent to the GY from the field, your hand, or your Deck.\n● 'Burning Algae''s effect activates in the GY, so when a face-down 'Burning Algae' is sent to the GY, or 'Burning Algae' in your opponent's hand is sent to your GY, the effect is activated.\n● 'Burning Algae''s effect can't be negated by 'Skill Drain'.\n● When you Tribute 'Burning Algae' to Tribute Summon 'Dark Magician of Chaos', 'Burning Algae''s effect is Step 1 of a chain and 'Dark Magician of Chaos'' effect is Step 2.",
+    "Base": "1. The effect of \"Burning Algae\" activates when sent to the GY from the field, your hand, or your Deck.\\n2. The effect of \"Burning Algae\" activates in the GY, so when a face-down \"Burning Algae\" is sent to the GY, or \"Burning Algae\" in your opponent's hand is sent to your GY, the effect is activated.\\n3. The effect of \"Burning Algae\" cannot be negated by \"Skill Drain\".\\n4. When you Tribute \"Burning Algae\" to Tribute Summon \"Dark Magician of Chaos\", the effect of \"Burning Algae\" is link 1 of a chain and the effect of \"Dark Magician of Chaos\" is link 2."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

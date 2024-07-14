@@ -1,0 +1,44 @@
+{
+  "id": 75285069,
+  "name": "Moisture Creature",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 2900,
+    "level": 9,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can Summon Moisture Creature by Tributing 2 monsters, but the effect will not be activated.\n●You cannot Summon Moisture Creature by Tributing 3 monsters if there are no Spell or Trap Cards on your opponent’s side of the field.\n●If you activate the effect of Moisture Creature and your opponent chains Book of Moon to the effect, the effect still resolves and all Spell and Trap Cards on your opponent’s side of the field are destroyed.",
+    "Goat": "●You can Summon Moisture Creature by Tributing 2 monsters, but the effect will not be activated.\n●You cannot Summon Moisture Creature by Tributing 3 monsters if there are no Spell/Trap Cards on your opponent’s side of the field.\n●If you activate the effect of Moisture Creature and your opponent chains Book of Moon to the effect, the effect still resolves and all Spell/Trap Cards on your opponent’s side of the field are destroyed.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can Summon 'Moisture Creature' by Tributing 2 monsters, but the effect will not be activated.\n●You can't Summon 'Moisture Creature' by Tributing 3 monsters if there are no Spell/Trap Cards on your opponent’s side of the field.\n● If you activate the effect of 'Moisture Creature' and your opponent chains 'Book of Moon' to the effect, the effect still resolves and all Spell/Trap Cards on your opponent’s side of the field are destroyed.",
+    "TeleDAD": "● You can Summon 'Moisture Creature' by Tributing 2 monsters, but the effect will not be activated.\n●You can't Summon 'Moisture Creature' by Tributing 3 monsters if there are no Spell/Trap Cards on your opponent’s side of the field.\n● If you activate the effect of 'Moisture Creature' and your opponent chains 'Book of Moon' to the effect, the effect still resolves and all Spell/Trap Cards on your opponent’s side of the field are destroyed.",
+    "Gladiator": "● You can Summon 'Moisture Creature' by Tributing 2 monsters, but the effect will not be activated.\n●You can't Summon 'Moisture Creature' by Tributing 3 monsters if there are no Spell/Trap Cards on your opponent’s side of the field.\n● If you activate the effect of 'Moisture Creature' and your opponent chains 'Book of Moon' to the effect, the effect still resolves and all Spell/Trap Cards on your opponent’s side of the field are destroyed.",
+    "ReturnDAD": "● You can Summon 'Moisture Creature' by Tributing 2 monsters, but the effect will not be activated.\n●You can't Summon 'Moisture Creature' by Tributing 3 monsters if there are no Spell/Trap Cards on your opponent’s side of the field.\n● If you activate the effect of 'Moisture Creature' and your opponent chains 'Book of Moon' to the effect, the effect still resolves and all Spell/Trap Cards on your opponent’s side of the field are destroyed.",
+    "Trooper": "● You can Summon 'Moisture Creature' by Tributing 2 monsters, but the effect will not be activated.\n●You can't Summon 'Moisture Creature' by Tributing 3 monsters if there are no Spell/Trap Cards on your opponent’s side of the field.\n● If you activate the effect of 'Moisture Creature' and your opponent chains 'Book of Moon' to the effect, the effect still resolves and all Spell/Trap Cards on your opponent’s side of the field are destroyed.",
+    "Circle": "● You can Summon 'Moisture Creature' by Tributing 2 monsters, but the effect will not be activated.\n●You can't Summon 'Moisture Creature' by Tributing 3 monsters if there are no Spell/Trap Cards on your opponent’s side of the field.\n● If you activate the effect of 'Moisture Creature' and your opponent chains 'Book of Moon' to the effect, the effect still resolves and all Spell/Trap Cards on your opponent’s side of the field are destroyed.",
+    "Stein": "● You can Summon 'Moisture Creature' by Tributing 2 monsters, but the effect will not be activated.\n●You can't Summon 'Moisture Creature' by Tributing 3 monsters if there are no Spell/Trap Cards on your opponent’s side of the field.\n● If you activate the effect of 'Moisture Creature' and your opponent chains 'Book of Moon' to the effect, the effect still resolves and all Spell/Trap Cards on your opponent’s side of the field are destroyed.",
+    "Base": "1. You can Summon \"Moisture Creature\" by Tributing 2 monsters, but the effect will not be activated.\\n2. You cannot Summon \"Moisture Creature\" by Tributing 3 monsters if there are no Spell or Trap Cards on your opponent's side of the field.\\n3. If you activate the effect of \"Moisture Creature\" and your opponent chains \"Book of Moon\" to the effect, the effect still resolves and all Spell and Trap Cards on your opponent's side of the field are destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

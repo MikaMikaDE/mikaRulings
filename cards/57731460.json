@@ -1,0 +1,44 @@
+{
+  "id": 57731460,
+  "name": "Gladiator Beast Equeste",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": "Winged Beast",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "The ② effect:\n● It can't be activated unless there is a “Gladiator Beast” monster in your Deck.\n● It can activate and resolve while “Skill Drain” is applying (without being negated).\n● It can be negated by “Royal Oppression” (If it is, this card remains in the Deck (it is not destroyed)).\n● “Battling” requires this card to be involved in Damage Calculation\n(If this card's attack is negated, the ② effect can't activate).\n● If multiple “Gladiator Beast” effects are activated at the end of the Battle Phase, \nthey don’t go on the same Chain (they each activate, one after another, each on their own Chain).\n\nVs \"Rivalry of Warlords\"/\"Gozen Match\":\n● If you have a Gladiator Beast of the same Type/Attribute in your Deck, you can activate the ② effect.\nIf you do, you can Summon any Gladiator Beast of any Attribute.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● *See 'Gladiator Beast Alexander' for additional rulings.\n● 'Gladiator Beast Equeste's' effect targets 1 'Gladiator Beast' card in your GY.\n● 'Gladiator Beast Equeste's' effect can return cards like 'Gladiator Beast's Battle Manica' or 'Gladiator Beast's Respite' to your hand, because they have 'Gladiator Beast' in their card name.",
+    "TeleDAD": "● *See 'Gladiator Beast Alexander' for additional rulings.\n● 'Gladiator Beast Equeste's' effect targets 1 'Gladiator Beast' card in your GY.\n● 'Gladiator Beast Equeste's' effect can return cards like 'Gladiator Beast's Battle Manica' or 'Gladiator Beast's Respite' to your hand, because they have 'Gladiator Beast' in their card name.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. *See \"Gladiator Beast Alexander\" for additional rulings.\\n2. The effect of \"Gladiator Beast Equeste\" targets 1 'Gladiator Beast' card in your GY."
+  },
+  "PSCT": {
+    "Tengu": "① If this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: \nYou can target 1 \"Gladiator Beast\" card in your GY; \nreturn it to your hand. \n② At the end of the Battle Phase, if this battled: \nYou can shuffle it into the Deck; \nSpecial Summon 1 \"Gladiator Beast\" monster from your Deck (except “Gladiator Beast Equeste”).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

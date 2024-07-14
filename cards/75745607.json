@@ -1,0 +1,44 @@
+{
+  "id": 75745607,
+  "name": "Hino-Kagu-Tsuchi",
+  "Stats": {
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 2900,
+    "level": 8,
+    "race": "Pyro",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●When your Hino-Kagu-Tsuchi inflicts Battle Damage to your opponent, he / she discards his / her hand before drawing in their next Draw Phase. If their next Draw Phase is skipped, they discard at the start of the Standby Phase. If the Draw Phase and Standby Phase are skipped, they discard at the start of Main Phase 1.\n●The opponent cannot activate any effects at the start of their turn before they discard their hand for the effect of Hino-Kagu-Tsuchi.",
+    "Goat": "●When your Hino-Kagu-Tsuchi inflicts Battle Damage to your opponent, he / she discards his / her hand before drawing in their next DP. If their next DP is skipped, they discard at the start of the SP. If the DP and SP are skipped, they discard at the start of MP 1.\n●The opponent cannot activate any effects at the start of their turn before they discard their hand for the effect of Hino-Kagu-Tsuchi.\n●There are no chainable events before you Draw a card (and Hino Kagu-Tsuchi does not need to be errata'd). You cannot activate anything prior to Drawing a card. Hino Kagu-Tsuchi is not activating prior to the Draw. It is resolving. In any case, the effect of Hino Kagu-Tsuchi will resolve but, quite frankly, doesn't even care if it is at the beginning of your DP. If your DP is skipped it will happen at the beginning of your SP. If your DP and your SP are skipped, it will happen at the beginning of your MP 1. And so on and so forth. \n●Q: If “Hino-Kagu-Tsuchi” inflicts Battle Damage, and later in the turn, “Skill Drain” is activated, will “Hino-Kagu-Tsuchi’s” effect be negated? \nA: No, when it dealt damage, that condition was met and they will discard. bishop 02/23/04",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When your 'Hino-Kagu-Tsuchi' inflicts Battle Damage to your opponent, he / she discards his / her hand before drawing in their next Draw Phase. If their next Draw Phase is skipped, they discard at the start of the Standby Phase. If the Draw Phase and Standby Phase are skipped, they discard at the start of Main Phase 1.\n● The opponent can't activate any effects at the start of their turn before they discard their hand for the effect of 'Hino-Kagu-Tsuchi'.",
+    "TeleDAD": "● When your 'Hino-Kagu-Tsuchi' inflicts Battle Damage to your opponent, he / she discards his / her hand before drawing in their next Draw Phase. If their next Draw Phase is skipped, they discard at the start of the Standby Phase. If the Draw Phase and Standby Phase are skipped, they discard at the start of Main Phase 1.\n● The opponent can't activate any effects at the start of their turn before they discard their hand for the effect of 'Hino-Kagu-Tsuchi'.",
+    "Gladiator": "● When your 'Hino-Kagu-Tsuchi' inflicts Battle Damage to your opponent, he / she discards his / her hand before drawing in their next Draw Phase. If their next Draw Phase is skipped, they discard at the start of the Standby Phase. If the Draw Phase and Standby Phase are skipped, they discard at the start of Main Phase 1.\n● The opponent can't activate any effects at the start of their turn before they discard their hand for the effect of 'Hino-Kagu-Tsuchi'.",
+    "ReturnDAD": "● When your 'Hino-Kagu-Tsuchi' inflicts Battle Damage to your opponent, he / she discards his / her hand before drawing in their next Draw Phase. If their next Draw Phase is skipped, they discard at the start of the Standby Phase. If the Draw Phase and Standby Phase are skipped, they discard at the start of Main Phase 1.\n● The opponent can't activate any effects at the start of their turn before they discard their hand for the effect of 'Hino-Kagu-Tsuchi'.",
+    "Trooper": "● When your 'Hino-Kagu-Tsuchi' inflicts Battle Damage to your opponent, he / she discards his / her hand before drawing in their next Draw Phase. If their next Draw Phase is skipped, they discard at the start of the Standby Phase. If the Draw Phase and Standby Phase are skipped, they discard at the start of Main Phase 1.\n● The opponent can't activate any effects at the start of their turn before they discard their hand for the effect of 'Hino-Kagu-Tsuchi'.",
+    "Circle": "● When your 'Hino-Kagu-Tsuchi' inflicts Battle Damage to your opponent, he / she discards his / her hand before drawing in their next Draw Phase. If their next Draw Phase is skipped, they discard at the start of the Standby Phase. If the Draw Phase and Standby Phase are skipped, they discard at the start of Main Phase 1.\n● The opponent can't activate any effects at the start of their turn before they discard their hand for the effect of 'Hino-Kagu-Tsuchi'.",
+    "Stein": "● When your 'Hino-Kagu-Tsuchi' inflicts Battle Damage to your opponent, he / she discards his / her hand before drawing in their next Draw Phase. If their next Draw Phase is skipped, they discard at the start of the Standby Phase. If the Draw Phase and Standby Phase are skipped, they discard at the start of Main Phase 1.\n● The opponent can't activate any effects at the start of their turn before they discard their hand for the effect of 'Hino-Kagu-Tsuchi'.",
+    "Base": "1. When your \"Hino-Kagu-Tsuchi\" inflicts Battle Damage to your opponent, he / she discards his / her hand before drawing in their next Draw Phase. If their next Draw Phase is skipped, they discard at the start of the Standby Phase. If the Draw Phase and Standby Phase are skipped, they discard at the start of Main Phase 1.\\n2. The opponent cannot activate any effects at the start of their turn before they discard their hand for the effect of \"Hino-Kagu-Tsuchi\".\\n3. The following rules apply to all Spirit Monsters:\\n4. Spirit is not a monster Type; you cannot declare \"Spirit\" for the effect of \"DNA Surgery\".\\n5. Spirit Monsters are still Effect Monsters.\\n6. A Spirit Monster must be face-up on the field during the End Phase for it to return to the owner's hand. If it was destroyed or removed from play, it will not return to the owner's hand.\\n7. A Spirit Monster will return to the owner's hand during the End Phase, even if the opponent played it from their hand (through the effect of \"Exchange\".)"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

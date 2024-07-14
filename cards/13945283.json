@@ -1,0 +1,44 @@
+{
+  "id": 13945283,
+  "name": "Wall of Illusion",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1850,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If the monster battling with Wall of Illusion is somehow destroyed during Damage Calculation, it is sent to the GY and NOT returned to the owner’s hand.",
+    "Goat": "●If the monster battling with Wall of Illusion is somehow destroyed during Damage Calculation, it is sent to the GY and NOT returned to the owner’s hand. \n●Q: If “Wall of Illusion” is face-down on the field and a monster attacks it and destroys it, does “Wall of Illusion’s” effect still come into play? It's effect reads: ‘When this card is attacked, return the attacking monster to it's owners hand, Battle Damage is calculated normally.’? \nA: Effects are resolved in the Resolve effects step of the Damage Step. Sending a monster to the GY does not occur until after that is finished. This is why the effect of Wall of Illusion will still activate if destroyed unless otherwise negated by another card's effect. \n● 01/29/04 \n●Q: If “Chaos Command Magician” attacks “Wall of Illusion,” would the effect of “Chaos Command Magician” negate the effect of “Wall of Illusion?” \nA: “Wall of Illusion's” effect does not designate a target. “Chaos Command Magician” will return to the owners hand after damage calculation. \n●  \n●Q: If “Dark Ruler Ha Des” or “Terrorking Archfiend” attack a face-down “Wall of Illusion” does “Wall of Illusion's” effect happen or is it negated? \nA: As long as Dark Ruler Ha-Des or Terrorking Archfiend destroys the Wall of Illusion, its effect is negated and your Dark Ruler Ha Des or Terrorking Archfiend does not return to your hand. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If the monster battling with 'Wall of Illusion' is somehow destroyed during Damage Calculation, it is sent to the GY and NOT returned to the owner’s hand.",
+    "TeleDAD": "● If the monster battling with 'Wall of Illusion' is somehow destroyed during Damage Calculation, it is sent to the GY and NOT returned to the owner’s hand.",
+    "Gladiator": "● If the monster battling with 'Wall of Illusion' is somehow destroyed during Damage Calculation, it is sent to the GY and NOT returned to the owner’s hand.",
+    "ReturnDAD": "● If the monster battling with 'Wall of Illusion' is somehow destroyed during Damage Calculation, it is sent to the GY and NOT returned to the owner’s hand.",
+    "Trooper": "● If the monster battling with 'Wall of Illusion' is somehow destroyed during Damage Calculation, it is sent to the GY and NOT returned to the owner’s hand.",
+    "Circle": "● If the monster battling with 'Wall of Illusion' is somehow destroyed during Damage Calculation, it is sent to the GY and NOT returned to the owner’s hand.",
+    "Stein": "● If the monster battling with 'Wall of Illusion' is somehow destroyed during Damage Calculation, it is sent to the GY and NOT returned to the owner’s hand.",
+    "Base": "1. If the monster battling with \"Wall of Illusion\" is somehow destroyed during Damage Calculation, it is sent to the GY and NOT returned to the owner's hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

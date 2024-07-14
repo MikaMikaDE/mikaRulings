@@ -1,0 +1,40 @@
+{
+  "id": 57103969,
+  "name": "Fire Formation - Tenki",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● Continuous Spell/Trap cards must remain face-up for their effects to be applied. \nIf \"Mystical Space Typhoon\" is chained to this card, you do not search a Beast-Warrior.",
+    "Vegas": "● Continuous Spell/Trap cards must remain face-up for their effects to be applied. \nIf \"Mystical Space Typhoon\" is chained to this card, you do not search a Beast-Warrior.",
+    "Meadowlands": "● Continuous Spell/Trap cards must remain face-up for their effects to be applied. \nIf \"Mystical Space Typhoon\" is chained to this card, you do not search a Beast-Warrior.",
+    "FireWater": "● Continuous Spell/Trap cards must remain face-up for their effects to be applied. \nIf \"Mystical Space Typhoon\" is chained to this card, you do not search a Beast-Warrior.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① When this card is activated: You can add 1 Level 4 or lower Beast-Warrior from your Deck to your hand. \n② All Beast-Warriors you control gain 100 ATK. \n(You can only activate 1 \"Fire Formation - Tenki\" per turn).",
+    "Meadowlands": "① When this card is activated: You can add 1 Level 4 or lower Beast-Warrior from your Deck to your hand. \n② All Beast-Warriors you control gain 100 ATK. \n(You can only activate 1 \"Fire Formation - Tenki\" per turn).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

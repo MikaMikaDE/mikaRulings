@@ -1,0 +1,40 @@
+{
+  "id": 16762927,
+  "name": "Gravekeeper's Servant",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you have 2 of this card on the field, their effects are cumulative.\n●If your opponent has no cards left in his/her Deck, he/she cannot declare an attack while this card is on your side of the field.",
+    "Goat": "●If you have 2 of this card on the field, their effects are cumulative.\n●If your opponent has no cards left in his/her Deck, he/she cannot declare an attack while this card is on your side of the field.\n●Q: If an attack is negated while “Gravekeeper’s Servant” is applying, do you still need to discard a card? \nA: When you declare an attack you discard for Gravekeeper's Servant's effect. Even if the attack is negated. bishop 02/23/04",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have 2 of this card on the field, their effects are cumulative.\n● If your opponent has no cards left in his/her Deck, he/she can't declare an attack while this card is on your side of the field.",
+    "TeleDAD": "● If you have 2 of this card on the field, their effects are cumulative.\n● If your opponent has no cards left in his/her Deck, he/she can't declare an attack while this card is on your side of the field.",
+    "Gladiator": "● If you have 2 of this card on the field, their effects are cumulative.\n● If your opponent has no cards left in his/her Deck, he/she can't declare an attack while this card is on your side of the field.",
+    "ReturnDAD": "● If you have 2 of this card on the field, their effects are cumulative.\n● If your opponent has no cards left in his/her Deck, he/she can't declare an attack while this card is on your side of the field.",
+    "Trooper": "● If you have 2 of this card on the field, their effects are cumulative.\n● If your opponent has no cards left in his/her Deck, he/she can't declare an attack while this card is on your side of the field.",
+    "Circle": "● If you have 2 of this card on the field, their effects are cumulative.\n● If your opponent has no cards left in his/her Deck, he/she can't declare an attack while this card is on your side of the field.",
+    "Stein": "● If you have 2 of this card on the field, their effects are cumulative.\n● If your opponent has no cards left in his/her Deck, he/she can't declare an attack while this card is on your side of the field.",
+    "Base": "1. If you have 2 of this card on the field, their effects are cumulative.\\n2. If your opponent has no cards left in his/her Deck, he/she cannot declare an attack while this card is on your side of the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

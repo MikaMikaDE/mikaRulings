@@ -1,0 +1,44 @@
+{
+  "id": 70780151,
+  "name": "Thought Ruler Archfiend",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2700,
+    "def": 2300,
+    "level": 8,
+    "race": "Psychic",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● The ② effect can only negate cards, not effects. It can also only negate cards which target exactly 1 Psychic (and no other cards).\n● The ② effect can negate cards which target Psychics anywhere, even in either GY.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can chain 'Thought Ruler Archfiend's' effect when a Psychic in the GY is targeted.\n● “Thought Ruler Archfiend’s” effect can be activated during the Damage Step.",
+    "TeleDAD": "● You can chain 'Thought Ruler Archfiend's' effect when a Psychic in the GY is targeted.\n● “Thought Ruler Archfiend’s” effect can be activated during the Damage Step.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can chain the effect of \"Thought Ruler Archfiend\" when a Psychic-Type monster in the GY is targeted.\\n2. The effect of \"Thought Ruler Archfiend\" can be activated during the Damage Step."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1+ non-Tuner monsters\n① If this card destroys a monster by battle and sends it to the GY: \nGain LP equal to that monster's original ATK in the GY. \n② If a Spell/Trap Card is activated that targets 1 exactly Psychic (anywhere) (Quick): You can pay 1000LP;\nnegate the activation, and if you do, destroy it.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

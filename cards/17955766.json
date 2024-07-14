@@ -1,0 +1,44 @@
+{
+  "id": 17955766,
+  "name": "Neo-Spacian Aqua Dolphin",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 600,
+    "def": 800,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●This effect does not target.\n●When this effect resolves you look at your opponent’s hand. If there are no Monster Cards, do nothing. If the opponent does have a Monster Card, and you have a monster on the field with greater or equal ATK, you will destroy the opponent’s Monster Card and inflict the 500 damage at the same time.\n●If the selected Monster Card in your opponent’s hand has ATK ?, since it is undetermined, you cannot control a monster with greater or equal ATK, and you will take 500 damage.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This effect does not target.\n● When this effect resolves you look at your opponent’s hand. If there are no Monster Cards, do nothing. If the opponent does have a Monster Card, and you have a monster on the field with greater or equal ATK, you will destroy the opponent’s Monster Card and inflict the 500 damage at the same time.\n● If the selected Monster Card in your opponent’s hand has ATK ?, since it is undetermined, you can't control a monster with greater or equal ATK, and you will take 500 damage.",
+    "TeleDAD": "● This effect does not target.\n● When this effect resolves you look at your opponent’s hand. If there are no Monster Cards, do nothing. If the opponent does have a Monster Card, and you have a monster on the field with greater or equal ATK, you will destroy the opponent’s Monster Card and inflict the 500 damage at the same time.\n● If the selected Monster Card in your opponent’s hand has ATK ?, since it is undetermined, you can't control a monster with greater or equal ATK, and you will take 500 damage.",
+    "Gladiator": "● This effect does not target.\n● When this effect resolves you look at your opponent’s hand. If there are no Monster Cards, do nothing. If the opponent does have a Monster Card, and you have a monster on the field with greater or equal ATK, you will destroy the opponent’s Monster Card and inflict the 500 damage at the same time.\n● If the selected Monster Card in your opponent’s hand has ATK ?, since it is undetermined, you can't control a monster with greater or equal ATK, and you will take 500 damage.",
+    "ReturnDAD": "● This effect does not target.\n● When this effect resolves you look at your opponent’s hand. If there are no Monster Cards, do nothing. If the opponent does have a Monster Card, and you have a monster on the field with greater or equal ATK, you will destroy the opponent’s Monster Card and inflict the 500 damage at the same time.\n● If the selected Monster Card in your opponent’s hand has ATK ?, since it is undetermined, you can't control a monster with greater or equal ATK, and you will take 500 damage.",
+    "Trooper": "● This effect does not target.\n● When this effect resolves you look at your opponent’s hand. If there are no Monster Cards, do nothing. If the opponent does have a Monster Card, and you have a monster on the field with greater or equal ATK, you will destroy the opponent’s Monster Card and inflict the 500 damage at the same time.\n● If the selected Monster Card in your opponent’s hand has ATK ?, since it is undetermined, you can't control a monster with greater or equal ATK, and you will take 500 damage.",
+    "Circle": "● This effect does not target.\n● When this effect resolves you look at your opponent’s hand. If there are no Monster Cards, do nothing. If the opponent does have a Monster Card, and you have a monster on the field with greater or equal ATK, you will destroy the opponent’s Monster Card and inflict the 500 damage at the same time.\n● If the selected Monster Card in your opponent’s hand has ATK ?, since it is undetermined, you can't control a monster with greater or equal ATK, and you will take 500 damage.",
+    "Stein": "● This effect does not target.\n● When this effect resolves you look at your opponent’s hand. If there are no Monster Cards, do nothing. If the opponent does have a Monster Card, and you have a monster on the field with greater or equal ATK, you will destroy the opponent’s Monster Card and inflict the 500 damage at the same time.\n● If the selected Monster Card in your opponent’s hand has ATK ?, since it is undetermined, you can't control a monster with greater or equal ATK, and you will take 500 damage.",
+    "Base": "1. This effect does not target.\\n2. When this effect resolves you look at your opponent's hand. If there are no Monster Cards, do nothing. If the opponent does have a Monster Card, and you have a monster on the field with greater or equal ATK, you will destroy the opponent's Monster Card and inflict the 500 damage at the same time.\\n3. If the selected Monster Card in your opponent's hand has ATK ?, since it is undetermined, you cannot control a monster with greater or equal ATK, and you will take 500 damage."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

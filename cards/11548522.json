@@ -1,0 +1,44 @@
+{
+  "id": 11548522,
+  "name": "Outstanding Dog Marron",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": "Beast",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●When Outstanding Dog Marron is sent to the GY during a chain, its effect is activated after the current chain resolves (just like Witch of the Black Forest).\n●When Mystical Knight of Jackal attacks Outstanding Dog Marron and destroys it, the effects are simultaneous. So Mystical Knight of Jackal's effect is Step 1 of a chain and Outstanding Dog Marron is Step 2. Outstanding Dog Marron is returned to the Deck and Mystical Knight of Jackal's effect disappears.",
+    "Goat": "●When Outstanding Dog Marron is sent to the GY during a chain, its effect is activated after the current chain resolves (just like Witch of the Black Forest).\n●When Mystical Knight of Jackal attacks Outstanding Dog Marron and destroys it, the effects are simultaneous. So Mystical Knight of Jackal's effect is Step 1 of a chain and Outstanding Dog Marron is Step 2. Outstanding Dog Marron is returned to the Deck and Mystical Knight of Jackal's effect disappears.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Outstanding Dog Marron' is sent to the GY during a chain, its effect is activated after the current chain resolves (just like 'Witch of the Black Forest').\n● When 'Mystical Knight of Jackal' attacks 'Outstanding Dog Marron' and destroys it, the effects are simultaneous. So 'Mystical Knight of Jackal''s effect is Step 1 of a chain and 'Outstanding Dog Marron' is Step 2. 'Outstanding Dog Marron' is returned to the Deck and 'Mystical Knight of Jackal''s effect disappears.",
+    "TeleDAD": "● When 'Outstanding Dog Marron' is sent to the GY during a chain, its effect is activated after the current chain resolves (just like 'Witch of the Black Forest').\n● When 'Mystical Knight of Jackal' attacks 'Outstanding Dog Marron' and destroys it, the effects are simultaneous. So 'Mystical Knight of Jackal''s effect is Step 1 of a chain and 'Outstanding Dog Marron' is Step 2. 'Outstanding Dog Marron' is returned to the Deck and 'Mystical Knight of Jackal''s effect disappears.",
+    "Gladiator": "● When 'Outstanding Dog Marron' is sent to the GY during a chain, its effect is activated after the current chain resolves (just like 'Witch of the Black Forest').\n● When 'Mystical Knight of Jackal' attacks 'Outstanding Dog Marron' and destroys it, the effects are simultaneous. So 'Mystical Knight of Jackal''s effect is Step 1 of a chain and 'Outstanding Dog Marron' is Step 2. 'Outstanding Dog Marron' is returned to the Deck and 'Mystical Knight of Jackal''s effect disappears.",
+    "ReturnDAD": "● When 'Outstanding Dog Marron' is sent to the GY during a chain, its effect is activated after the current chain resolves (just like 'Witch of the Black Forest').\n● When 'Mystical Knight of Jackal' attacks 'Outstanding Dog Marron' and destroys it, the effects are simultaneous. So 'Mystical Knight of Jackal''s effect is Step 1 of a chain and 'Outstanding Dog Marron' is Step 2. 'Outstanding Dog Marron' is returned to the Deck and 'Mystical Knight of Jackal''s effect disappears.",
+    "Trooper": "● When 'Outstanding Dog Marron' is sent to the GY during a chain, its effect is activated after the current chain resolves (just like 'Witch of the Black Forest').\n● When 'Mystical Knight of Jackal' attacks 'Outstanding Dog Marron' and destroys it, the effects are simultaneous. So 'Mystical Knight of Jackal''s effect is Step 1 of a chain and 'Outstanding Dog Marron' is Step 2. 'Outstanding Dog Marron' is returned to the Deck and 'Mystical Knight of Jackal''s effect disappears.",
+    "Circle": "● When 'Outstanding Dog Marron' is sent to the GY during a chain, its effect is activated after the current chain resolves (just like 'Witch of the Black Forest').\n● When 'Mystical Knight of Jackal' attacks 'Outstanding Dog Marron' and destroys it, the effects are simultaneous. So 'Mystical Knight of Jackal''s effect is Step 1 of a chain and 'Outstanding Dog Marron' is Step 2. 'Outstanding Dog Marron' is returned to the Deck and 'Mystical Knight of Jackal''s effect disappears.",
+    "Stein": "● When 'Outstanding Dog Marron' is sent to the GY during a chain, its effect is activated after the current chain resolves (just like 'Witch of the Black Forest').\n● When 'Mystical Knight of Jackal' attacks 'Outstanding Dog Marron' and destroys it, the effects are simultaneous. So 'Mystical Knight of Jackal''s effect is Step 1 of a chain and 'Outstanding Dog Marron' is Step 2. 'Outstanding Dog Marron' is returned to the Deck and 'Mystical Knight of Jackal''s effect disappears.",
+    "Base": "1. When \"Outstanding Dog Marron\" is sent to the GY during a chain, its effect is activated after the current chain resolves (just like \"Witch of the Black Forest\").\\n2. When \"Mystical Knight of Jackal\" attacks \"Outstanding Dog Marron\" and destroys it, the effects are simultaneous. So the effect of \"Mystical Knight of Jackal\" is Step 1 of a chain and \"Outstanding Dog Marron\" is Step 2. \"Outstanding Dog Marron\" is returned to the Deck and the effect of \"Mystical Knight of Jackal\" disappears."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

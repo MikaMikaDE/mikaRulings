@@ -1,0 +1,44 @@
+{
+  "id": 85507811,
+  "name": "Elemental HERO Glow Neos",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 2500,
+    "def": 2000,
+    "level": 7,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card’s final effect is an Ignition Effect. It targets 1 card controlled by the opponent.\n●If you target a Token Monster with this effect, the additional effect (“This card cannot battle this turn.”) is not applied because the Token is not treated as a monster after it is destroyed.\n●If you destroy a monster that is being treated as an Equip Spell Card by the effect of “Relinquished”, it is treated as a monster after it is destroyed so the additional effect for destroying a Monster Card is applied.\n●If you destroy “Embodiment of Apophis”, it is treated as a Trap Card after it is destroyed, so the additional effect for destroying a Trap Card is applied.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s final effect is an Ignition Effect. It targets 1 card controlled by the opponent.\n● If you target a Token Monster with this effect, the additional effect (“This card can't battle this turn.”) isn't applied because the Token isn't treated as a monster after it is destroyed.\n● If you destroy a monster that is being treated as an Equip Spell Card by the effect of “Relinquished”, it is treated as a monster after it is destroyed so the additional effect for destroying a Monster Card is applied.\n● If you destroy “Embodiment of Apophis”, it is treated as a Trap Card after it is destroyed, so the additional effect for destroying a Trap Card is applied.",
+    "TeleDAD": "● This card’s final effect is an Ignition Effect. It targets 1 card controlled by the opponent.\n● If you target a Token Monster with this effect, the additional effect (“This card can't battle this turn.”) isn't applied because the Token isn't treated as a monster after it is destroyed.\n● If you destroy a monster that is being treated as an Equip Spell Card by the effect of “Relinquished”, it is treated as a monster after it is destroyed so the additional effect for destroying a Monster Card is applied.\n● If you destroy “Embodiment of Apophis”, it is treated as a Trap Card after it is destroyed, so the additional effect for destroying a Trap Card is applied.",
+    "Gladiator": "● This card’s final effect is an Ignition Effect. It targets 1 card controlled by the opponent.\n● If you target a Token Monster with this effect, the additional effect (“This card can't battle this turn.”) isn't applied because the Token isn't treated as a monster after it is destroyed.\n● If you destroy a monster that is being treated as an Equip Spell Card by the effect of “Relinquished”, it is treated as a monster after it is destroyed so the additional effect for destroying a Monster Card is applied.\n● If you destroy “Embodiment of Apophis”, it is treated as a Trap Card after it is destroyed, so the additional effect for destroying a Trap Card is applied.",
+    "ReturnDAD": "● This card’s final effect is an Ignition Effect. It targets 1 card controlled by the opponent.\n● If you target a Token Monster with this effect, the additional effect (“This card can't battle this turn.”) isn't applied because the Token isn't treated as a monster after it is destroyed.\n● If you destroy a monster that is being treated as an Equip Spell Card by the effect of “Relinquished”, it is treated as a monster after it is destroyed so the additional effect for destroying a Monster Card is applied.\n● If you destroy “Embodiment of Apophis”, it is treated as a Trap Card after it is destroyed, so the additional effect for destroying a Trap Card is applied.",
+    "Trooper": "● This card’s final effect is an Ignition Effect. It targets 1 card controlled by the opponent.\n● If you target a Token Monster with this effect, the additional effect (“This card can't battle this turn.”) isn't applied because the Token isn't treated as a monster after it is destroyed.\n● If you destroy a monster that is being treated as an Equip Spell Card by the effect of “Relinquished”, it is treated as a monster after it is destroyed so the additional effect for destroying a Monster Card is applied.\n● If you destroy “Embodiment of Apophis”, it is treated as a Trap Card after it is destroyed, so the additional effect for destroying a Trap Card is applied.",
+    "Circle": "● This card’s final effect is an Ignition Effect. It targets 1 card controlled by the opponent.\n● If you target a Token Monster with this effect, the additional effect (“This card can't battle this turn.”) isn't applied because the Token isn't treated as a monster after it is destroyed.\n● If you destroy a monster that is being treated as an Equip Spell Card by the effect of “Relinquished”, it is treated as a monster after it is destroyed so the additional effect for destroying a Monster Card is applied.\n● If you destroy “Embodiment of Apophis”, it is treated as a Trap Card after it is destroyed, so the additional effect for destroying a Trap Card is applied.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card's final effect is an Ignition Effect. It targets 1 card controlled by the opponent.\\n2. If you target a Token Monster with this effect, the additional effect (\"This card cannot battle this turn.\") is not applied because the Token is not treated as a monster after it is destroyed.\\n3. If you destroy a monster that is being treated as an Equip Spell Card by the effect of \"Relinquished\", it is treated as a monster after it is destroyed so the additional effect for destroying a Monster Card is applied.\\n4. If you destroy \"Embodiment of Apophis\", it is treated as a Trap Card after it is destroyed, so the additional effect for destroying a Trap Card is applied."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

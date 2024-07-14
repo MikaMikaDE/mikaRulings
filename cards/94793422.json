@@ -1,0 +1,40 @@
+{
+  "id": 94793422,
+  "name": "Rod of the Mind's Eye",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●The damage caused by Rod of the Mind's Eye is Battle Damage, so it can be reduced to zero with Waboku or Kuriboh.\n●When you equip Rod of the Mind's Eye to Susa Soldier or Shadowknight Archfiend, the Battle Damage is 1000 points.\n●When Gravekeeper's Vassal is equipped with Rod of the Mind's Eye, the effect is not activated because the damage caused by Gravekeeper's Vassal is effect damage.",
+    "Goat": "●The damage caused by Rod of the Mind's Eye is Battle Damage, so it can be reduced to zero with Waboku or Kuriboh.\n●When you equip Rod of the Mind's Eye to Susa Soldier or Shadowknight Archfiend, the Battle Damage is 1000 points.\n●When Gravekeeper's Vassal is equipped with Rod of the Mind's Eye, the effect is not activated because the damage caused by Gravekeeper's Vassal is effect damage.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The damage caused by 'Rod of the Mind's Eye' is Battle Damage, so it can be reduced to zero with 'Waboku' or 'Kuriboh'.\n● When you equip 'Rod of the Mind's Eye' to 'Susa Soldier' or 'Shadowknight Archfiend', the Battle Damage is 1000 points.\n● When 'Gravekeeper's Vassal' is equipped with 'Rod of the Mind's Eye', the effect isn't activated because the damage caused by 'Gravekeeper's Vassal' is effect damage.",
+    "TeleDAD": "● The damage caused by 'Rod of the Mind's Eye' is Battle Damage, so it can be reduced to zero with 'Waboku' or 'Kuriboh'.\n● When you equip 'Rod of the Mind's Eye' to 'Susa Soldier' or 'Shadowknight Archfiend', the Battle Damage is 1000 points.\n● When 'Gravekeeper's Vassal' is equipped with 'Rod of the Mind's Eye', the effect isn't activated because the damage caused by 'Gravekeeper's Vassal' is effect damage.",
+    "Gladiator": "● The damage caused by 'Rod of the Mind's Eye' is Battle Damage, so it can be reduced to zero with 'Waboku' or 'Kuriboh'.\n● When you equip 'Rod of the Mind's Eye' to 'Susa Soldier' or 'Shadowknight Archfiend', the Battle Damage is 1000 points.\n● When 'Gravekeeper's Vassal' is equipped with 'Rod of the Mind's Eye', the effect isn't activated because the damage caused by 'Gravekeeper's Vassal' is effect damage.",
+    "ReturnDAD": "● The damage caused by 'Rod of the Mind's Eye' is Battle Damage, so it can be reduced to zero with 'Waboku' or 'Kuriboh'.\n● When you equip 'Rod of the Mind's Eye' to 'Susa Soldier' or 'Shadowknight Archfiend', the Battle Damage is 1000 points.\n● When 'Gravekeeper's Vassal' is equipped with 'Rod of the Mind's Eye', the effect isn't activated because the damage caused by 'Gravekeeper's Vassal' is effect damage.",
+    "Trooper": "● The damage caused by 'Rod of the Mind's Eye' is Battle Damage, so it can be reduced to zero with 'Waboku' or 'Kuriboh'.\n● When you equip 'Rod of the Mind's Eye' to 'Susa Soldier' or 'Shadowknight Archfiend', the Battle Damage is 1000 points.\n● When 'Gravekeeper's Vassal' is equipped with 'Rod of the Mind's Eye', the effect isn't activated because the damage caused by 'Gravekeeper's Vassal' is effect damage.",
+    "Circle": "● The damage caused by 'Rod of the Mind's Eye' is Battle Damage, so it can be reduced to zero with 'Waboku' or 'Kuriboh'.\n● When you equip 'Rod of the Mind's Eye' to 'Susa Soldier' or 'Shadowknight Archfiend', the Battle Damage is 1000 points.\n● When 'Gravekeeper's Vassal' is equipped with 'Rod of the Mind's Eye', the effect isn't activated because the damage caused by 'Gravekeeper's Vassal' is effect damage.",
+    "Stein": "● The damage caused by 'Rod of the Mind's Eye' is Battle Damage, so it can be reduced to zero with 'Waboku' or 'Kuriboh'.\n● When you equip 'Rod of the Mind's Eye' to 'Susa Soldier' or 'Shadowknight Archfiend', the Battle Damage is 1000 points.\n● When 'Gravekeeper's Vassal' is equipped with 'Rod of the Mind's Eye', the effect isn't activated because the damage caused by 'Gravekeeper's Vassal' is effect damage.",
+    "Base": "1. The damage caused by \"Rod of the Mind's Eye\" is Battle Damage, so it can be reduced to zero with \"Waboku\" or \"Kuriboh\".\\n2. When you equip \"Rod of the Mind's Eye\" to \"Susa Soldier\" or \"Shadowknight Archfiend\", the Battle Damage is 1000 points.\\n3. When \"Gravekeeper's Vassal\" is equipped with \"Rod of the Mind's Eye\", the effect is not activated because the damage caused by \"Gravekeeper's Vassal\" is effect damage."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

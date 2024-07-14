@@ -1,0 +1,44 @@
+{
+  "id": 3784434,
+  "name": "Rampaging Rhynos",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 1500,
+    "level": 3,
+    "race": "Beast-Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Rampaging Rhynos” cannot move into a Monster Card Zone targeted by “Ground Collapse”.\n●If you activate the effect of a face-up “Rampaging Rhynos”, and “Book of Moon” is chained to this effect, the face-down “Rampaging Rhynos” will still move.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Rampaging Rhynos” can't move into a Monster Card Zone targeted by “Ground Collapse”.\n● If you activate the effect of a face-up “Rampaging Rhynos”, and “Book of Moon” is chained to this effect, the face-down “Rampaging Rhynos” will still move.",
+    "TeleDAD": "● “Rampaging Rhynos” can't move into a Monster Card Zone targeted by “Ground Collapse”.\n● If you activate the effect of a face-up “Rampaging Rhynos”, and “Book of Moon” is chained to this effect, the face-down “Rampaging Rhynos” will still move.",
+    "Gladiator": "● “Rampaging Rhynos” can't move into a Monster Card Zone targeted by “Ground Collapse”.\n● If you activate the effect of a face-up “Rampaging Rhynos”, and “Book of Moon” is chained to this effect, the face-down “Rampaging Rhynos” will still move.",
+    "ReturnDAD": "● “Rampaging Rhynos” can't move into a Monster Card Zone targeted by “Ground Collapse”.\n● If you activate the effect of a face-up “Rampaging Rhynos”, and “Book of Moon” is chained to this effect, the face-down “Rampaging Rhynos” will still move.",
+    "Trooper": "● “Rampaging Rhynos” can't move into a Monster Card Zone targeted by “Ground Collapse”.\n● If you activate the effect of a face-up “Rampaging Rhynos”, and “Book of Moon” is chained to this effect, the face-down “Rampaging Rhynos” will still move.",
+    "Circle": "● “Rampaging Rhynos” can't move into a Monster Card Zone targeted by “Ground Collapse”.\n● If you activate the effect of a face-up “Rampaging Rhynos”, and “Book of Moon” is chained to this effect, the face-down “Rampaging Rhynos” will still move.",
+    "Stein": "● “Rampaging Rhynos” can't move into a Monster Card Zone targeted by “Ground Collapse”.\n● If you activate the effect of a face-up “Rampaging Rhynos”, and “Book of Moon” is chained to this effect, the face-down “Rampaging Rhynos” will still move.",
+    "Base": "1. \"Rampaging Rhynos\" cannot move into a Monster Card Zone targeted by \"Ground Collapse\".\\n2. If you activate the effect of a face-up \"Rampaging Rhynos\", and \"Book of Moon\" is chained to this effect, the face-down \"Rampaging Rhynos\" will still move."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

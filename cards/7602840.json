@@ -1,0 +1,44 @@
+{
+  "id": 7602840,
+  "name": "UFOroid",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1200,
+    "level": 6,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●If “UFOroid” attacks an Attack Position “Pyramid Turtle”, first the turn player decides whether to activate the effect of “UFOroid” or not, and if he does, it will be Chain Link 1. If he doesn’t, the opponent has a chance to activate “Pyramid Turtle’s” effect and be Chain Link 1. If he does, it is too late for the turn player to decide to activate “UFOroid’s” effect.\n●If you do not choose to Special Summon a Machine, this card’s effect will not activate or start a chain.",
+    "Goat": "●If “UFOroid” attacks an Attack Position “Pyramid Turtle”, first the turn player decides whether to activate the effect of “UFOroid” or not, and if he does, it will be Chain Link 1. If he doesn’t, the opponent has a chance to activate “Pyramid Turtle’s” effect and be Chain Link 1. If he does, it is too late for the turn player to decide to activate “UFOroid’s” effect.\n●If you do not choose to Special Summon a Machine, this card’s effect will not activate or start a chain.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “UFOroid” attacks an Attack Position “Pyramid Turtle”, first the turn player decides whether to activate the effect of “UFOroid” or not, and if he does, it will be Chain Link 1. If he doesn’t, the opponent has a chance to activate “Pyramid Turtle’s” effect and be Chain Link 1. If he does, it is too late for the turn player to decide to activate “UFOroid’s” effect.\n● If you do not choose to Special Summon a Machine, this card’s effect will not activate or start a chain.",
+    "TeleDAD": "● If “UFOroid” attacks an Attack Position “Pyramid Turtle”, first the turn player decides whether to activate the effect of “UFOroid” or not, and if he does, it will be Chain Link 1. If he doesn’t, the opponent has a chance to activate “Pyramid Turtle’s” effect and be Chain Link 1. If he does, it is too late for the turn player to decide to activate “UFOroid’s” effect.\n● If you do not choose to Special Summon a Machine, this card’s effect will not activate or start a chain.",
+    "Gladiator": "● If “UFOroid” attacks an Attack Position “Pyramid Turtle”, first the turn player decides whether to activate the effect of “UFOroid” or not, and if he does, it will be Chain Link 1. If he doesn’t, the opponent has a chance to activate “Pyramid Turtle’s” effect and be Chain Link 1. If he does, it is too late for the turn player to decide to activate “UFOroid’s” effect.\n● If you do not choose to Special Summon a Machine, this card’s effect will not activate or start a chain.",
+    "ReturnDAD": "● If “UFOroid” attacks an Attack Position “Pyramid Turtle”, first the turn player decides whether to activate the effect of “UFOroid” or not, and if he does, it will be Chain Link 1. If he doesn’t, the opponent has a chance to activate “Pyramid Turtle’s” effect and be Chain Link 1. If he does, it is too late for the turn player to decide to activate “UFOroid’s” effect.\n● If you do not choose to Special Summon a Machine, this card’s effect will not activate or start a chain.",
+    "Trooper": "● If “UFOroid” attacks an Attack Position “Pyramid Turtle”, first the turn player decides whether to activate the effect of “UFOroid” or not, and if he does, it will be Chain Link 1. If he doesn’t, the opponent has a chance to activate “Pyramid Turtle’s” effect and be Chain Link 1. If he does, it is too late for the turn player to decide to activate “UFOroid’s” effect.\n● If you do not choose to Special Summon a Machine, this card’s effect will not activate or start a chain.",
+    "Circle": "● If “UFOroid” attacks an Attack Position “Pyramid Turtle”, first the turn player decides whether to activate the effect of “UFOroid” or not, and if he does, it will be Chain Link 1. If he doesn’t, the opponent has a chance to activate “Pyramid Turtle’s” effect and be Chain Link 1. If he does, it is too late for the turn player to decide to activate “UFOroid’s” effect.\n● If you do not choose to Special Summon a Machine, this card’s effect will not activate or start a chain.",
+    "Stein": "● If “UFOroid” attacks an Attack Position “Pyramid Turtle”, first the turn player decides whether to activate the effect of “UFOroid” or not, and if he does, it will be Chain Link 1. If he doesn’t, the opponent has a chance to activate “Pyramid Turtle’s” effect and be Chain Link 1. If he does, it is too late for the turn player to decide to activate “UFOroid’s” effect.\n● If you do not choose to Special Summon a Machine, this card’s effect will not activate or start a chain.",
+    "Base": "1. If \"UFOroid\" attacks an Attack Position \"Pyramid Turtle\", first the turn player decides whether to activate the effect of \"UFOroid\" or not, and if he does, it will be Chain Link 1. If he doesn't, the opponent has a chance to activate the effect of \"Pyramid Turtle\" and be Chain Link 1. If he does, it is too late for the turn player to decide to activate the effect of \"UFOroid\".\\n2. If you do not choose to Special Summon a Machine, this card's effect will not activate or start a chain."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

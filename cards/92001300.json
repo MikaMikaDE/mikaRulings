@@ -1,0 +1,40 @@
+{
+  "id": 92001300,
+  "name": "Ancient Gear Castle",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "(1) Face-up Ancient Gear monsters gain 300 ATK. (2) Each time a monster(s) is Normal Summoned or Set, put 1 counter on this card. (3) If you Tribute Summon an Ancient Gear monster, you can substitute this card for a Tribute(s), if the number of counters is equal to or greater than the number of required Tribute(s).\n●The (1) Continuous-like Effect applies to Ancient Gear monsters on BOTH sides of the field.\n●The (2) Continuous-like Effect does not start a Chain.\n●“Set” means to Set from the hand.\n●This card gains counters when a monster is Normal Summoned or Set (from the hand), even if a card effect performs the action (such as Ultimate Offering).\n●This card does not gain counters when a monster is Set by a card effect (by “Book of Moon”).\n●This card does not gain counters when a monster is Special Summoned face-down (by “The Shallow Grave”).\n●The (3) Continuous-like Effect does not start a Chain.\n●While Geartown is active, you can Tribute Ancient Gear Castle with 1 Counter to Tribute Summon Ancient Gear Golem.\n●This is not an extra Normal Summon, it only substitutes the monster(s) to be Tributed.\n●This effect does not apply for a Tribute Set.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● For “Ancient Gear Castle”, “Set” means to Set from the hand. It does not include using “Book of Moon” or “Guardian Sphinx” to flip a monster face-down, or Special Summoning a monster in face-down Defense Position with “Cyber Jar” or “The Shallow Grave”.",
+    "TeleDAD": "● For “Ancient Gear Castle”, “Set” means to Set from the hand. It does not include using “Book of Moon” or “Guardian Sphinx” to flip a monster face-down, or Special Summoning a monster in face-down Defense Position with “Cyber Jar” or “The Shallow Grave”.",
+    "Gladiator": "● For “Ancient Gear Castle”, “Set” means to Set from the hand. It does not include using “Book of Moon” or “Guardian Sphinx” to flip a monster face-down, or Special Summoning a monster in face-down Defense Position with “Cyber Jar” or “The Shallow Grave”.",
+    "ReturnDAD": "● For “Ancient Gear Castle”, “Set” means to Set from the hand. It does not include using “Book of Moon” or “Guardian Sphinx” to flip a monster face-down, or Special Summoning a monster in face-down Defense Position with “Cyber Jar” or “The Shallow Grave”.",
+    "Trooper": "● For “Ancient Gear Castle”, “Set” means to Set from the hand. It does not include using “Book of Moon” or “Guardian Sphinx” to flip a monster face-down, or Special Summoning a monster in face-down Defense Position with “Cyber Jar” or “The Shallow Grave”.",
+    "Circle": "● For “Ancient Gear Castle”, “Set” means to Set from the hand. It does not include using “Book of Moon” or “Guardian Sphinx” to flip a monster face-down, or Special Summoning a monster in face-down Defense Position with “Cyber Jar” or “The Shallow Grave”.",
+    "Stein": "● For “Ancient Gear Castle”, “Set” means to Set from the hand. It does not include using “Book of Moon” or “Guardian Sphinx” to flip a monster face-down, or Special Summoning a monster in face-down Defense Position with “Cyber Jar” or “The Shallow Grave”.",
+    "Base": "1. For \"Ancient Gear Castle\", 'Set' means to Set from the hand. It does not include using \"Book of Moon\" or \"Guardian Sphinx\" to flip a monster face-down, or Special Summoning a monster in face-down Defense Position with \"Cyber Jar\" or \"The Shallow Grave\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

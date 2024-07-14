@@ -1,0 +1,44 @@
+{
+  "id": 33184167,
+  "name": "Tribe-Infecting Virus",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 1000,
+    "level": 4,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●You declare the Type when you activate the effect and discard for the cost, not when the effect resolves, so your opponent can chain after you have announced which Type will be destroyed.\n●You CAN declare a Type that exists only on your opponent's side of the field. You CANNOT declare a Type that is not face-up on the field at all.\n●You can use this effect repeatedly as long as you can keep paying the cost.",
+    "Goat": "●You declare the Type when you activate the effect and discard for the cost, not when the effect resolves, so your opponent can chain after you have announced which Type will be destroyed.\n●You CAN declare a Type that exists only on your opponent's side of the field. You CANNOT declare a Type that is not face-up on the field at all.\n●You can use this effect repeatedly as long as you can keep paying the cost.\n●Q: Player A activates the effect of “Tribe-Infecting Virus” and declares one Type. Player B chains the effect with “DNA Surgery” declaring a different Type. Will the effect of “Tribe-Infecting Virus” resolve with no effect since the Type of all monsters has changed? \nA: Correct. The Type declared when Tribe-Infecting Virus' effect was activated no longer exists on the field due to DNA Surgery, so its effect will disappear. The monster would not be destroyed. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You declare the Type when you activate the effect and discard for the cost, not when the effect resolves, so your opponent can chain after you have announced which Type will be destroyed.\n● You CAN declare a Type that exists only on your opponent's field. You CANNOT declare a Type that isn't applying at all.\n● You can use this effect repeatedly as long as you can keep paying the cost.",
+    "TeleDAD": "● You declare the Type when you activate the effect and discard for the cost, not when the effect resolves, so your opponent can chain after you have announced which Type will be destroyed.\n● You CAN declare a Type that exists only on your opponent's field. You CANNOT declare a Type that isn't applying at all.\n● You can use this effect repeatedly as long as you can keep paying the cost.",
+    "Gladiator": "● You declare the Type when you activate the effect and discard for the cost, not when the effect resolves, so your opponent can chain after you have announced which Type will be destroyed.\n● You CAN declare a Type that exists only on your opponent's field. You CANNOT declare a Type that isn't applying at all.\n● You can use this effect repeatedly as long as you can keep paying the cost.",
+    "ReturnDAD": "● You declare the Type when you activate the effect and discard for the cost, not when the effect resolves, so your opponent can chain after you have announced which Type will be destroyed.\n● You CAN declare a Type that exists only on your opponent's field. You CANNOT declare a Type that isn't applying at all.\n● You can use this effect repeatedly as long as you can keep paying the cost.",
+    "Trooper": "● You declare the Type when you activate the effect and discard for the cost, not when the effect resolves, so your opponent can chain after you have announced which Type will be destroyed.\n● You CAN declare a Type that exists only on your opponent's field. You CANNOT declare a Type that isn't applying at all.\n● You can use this effect repeatedly as long as you can keep paying the cost.",
+    "Circle": "● You declare the Type when you activate the effect and discard for the cost, not when the effect resolves, so your opponent can chain after you have announced which Type will be destroyed.\n● You CAN declare a Type that exists only on your opponent's field. You CANNOT declare a Type that isn't applying at all.\n● You can use this effect repeatedly as long as you can keep paying the cost.",
+    "Stein": "● You declare the Type when you activate the effect and discard for the cost, not when the effect resolves, so your opponent can chain after you have announced which Type will be destroyed.\n● You CAN declare a Type that exists only on your opponent's field. You CANNOT declare a Type that isn't applying at all.\n● You can use this effect repeatedly as long as you can keep paying the cost.",
+    "Base": "1. You declare the Type when you activate the effect and discard for the cost, not when the effect resolves, so your opponent can chain after you have announced which Type will be destroyed.\\n2. You CAN declare a Type that exists only on your opponent's side of the field. You CANNOT declare a Type that is not face-up on the field at all.\\n3. You can use this effect repeatedly as long as you can keep paying the cost."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

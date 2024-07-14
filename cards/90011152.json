@@ -1,0 +1,40 @@
+{
+  "id": 90011152,
+  "name": "Ojama Country",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Field"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Ojamuscle” is considered to be an “Ojama” card, so you can send it from your hand to the GY for the cost of the first effect. If you control “Ojamuscle” and it is a monster (for example, with “Magical Hats”), it is considered an “Ojama” monster for the second effect.\n●Sending an “Ojama” card to the GY is a cost to activate “Ojama Country’s” Special Summon effect. It targets 1 “Ojama” monster in your GY, and cannot be activated if there are no “Ojama” monsters in your GY. If there is an “Ojama” monster in your GY, you can discard an “Ojama” monster and Special Summon that same “Ojama” monster.\n●The ATK/DEF switch is applied to monsters controlled by both players. Only the controller of “Ojama Country” can activate its Special Summon effect.\n●If “Gladiator Beast Hoplomus” is Special Summoned by a Gladiator Beast while “Ojama Country” is active, it has 2400 original ATK and 700 original DEF.\n●The switched original ATK and DEF are considered the new original ATK and DEF.\n●If Curse of Anubis is activated while the effect of Ojama Country is already in effect, the switched original DEF (which used to be its original ATK) will be 0. If Ojama Country” is activated while Curse of Anubis is already in effect, the 0\n●original DEF (from the effect of Curse of Anubis) will be its original ATK, so the ATK will be 0.\n●Example: If “Ojama Country” is already active, and “Curse of Anubis” is activated, “Sangan” would have ATK 600 / DEF 0. While Curse of Anubis is already active, and Ojama Country is activated. Sangan would have ATK 0 / DEF 1000.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Ojamuscle\" is considered to be an 'Ojama' card, so you can send it from your hand to the GY for the cost of the first effect. If you control \"Ojamuscle\" and it is a monster (for example, with \"Magical Hats\"), it is considered an 'Ojama' monster for the second effect.\\n2. Sending an 'Ojama' card to the GY is a cost to activate the Special Summon effect of \"Ojama Country\" effect. It targets 1 'Ojama' monster in your GY, and cannot be activated if there are no 'Ojama' monsters in your GY. If there is an 'Ojama' monster in your GY, you can discard an 'Ojama' monster and Special Summon that same 'Ojama' monster.\\n3. The ATK/DEF switch is applied to monsters controlled by both players. Only the controller of \"Ojama Country\" can activate its Special Summon effect.\\n4. If \"Gladiator Beast Hoplomus\" is Special Summoned by a Gladiator Beast while \"Ojama Country\" is active, it has 2400 original ATK and 700 original DEF.\\n5. The switched original ATK and DEF are considered the new original ATK and DEF.\\n6. If \"Curse of Anubis\" is activated while the effect of \"Ojama Country\" is already in effect, the switched original DEF (which used to be its original ATK) will be 0. If \"Ojama Country\" is activated while \"Curse of Anubis\" is already in effect, the 0 original DEF (from the effect of \"Curse of Anubis\") will be its original ATK, so the ATK will be 0.\\n\\nExample: If \"Ojama Country\" is already active, and \"Curse of Anubis\" is activated, \"Sangan\" would have ATK 600 / DEF 0.\\n7. While \"Curse of Anubis\" is already active, and \"Ojama Country\" is activated. \"Sangan\" would have ATK 0 / DEF 1000."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 45906428,
+  "name": "Miracle Fusion",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "● Banishing is not a cost.\nBanishing happens as part of this effect.\nIf \"Imperial Iron Wall\" is chained to this card, this card resolves without effect.\n● You can always use face-down monsters as Fusion Material.\n● When this card resolves, you must Fusion Summon if able to.\n● Banishing and summoning are sequential. Summoning is the last thing to happen.",
+    "Goat": "●If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Miracle Fusion” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you cannot activate it.\n●“Miracle Fusion” is a card that targets monsters, either on the field and/or in the GY.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Miracle Fusion” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● You can use fusion substitute monsters like “King of the Swamp” and “Goddess with the Third Eye” for “Miracle Fusion”.\n● “Miracle Fusion” does not target. You select and remove the monsters during resolution.",
+    "TeleDAD": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Miracle Fusion” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● You can use fusion substitute monsters like “King of the Swamp” and “Goddess with the Third Eye” for “Miracle Fusion”.\n● “Miracle Fusion” does not target. You select and remove the monsters during resolution.",
+    "Gladiator": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Miracle Fusion” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● You can use fusion substitute monsters like “King of the Swamp” and “Goddess with the Third Eye” for “Miracle Fusion”.\n● “Miracle Fusion” does not target. You select and remove the monsters during resolution.",
+    "ReturnDAD": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Miracle Fusion” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● You can use fusion substitute monsters like “King of the Swamp” and “Goddess with the Third Eye” for “Miracle Fusion”.\n● “Miracle Fusion” does not target. You select and remove the monsters during resolution.",
+    "Trooper": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Miracle Fusion” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● “Miracle Fusion” is a card that targets monsters, either on the field and/or in the GY.",
+    "Circle": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Miracle Fusion” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● You can use fusion substitute monsters like “King of the Swamp” and “Goddess with the Third Eye” for “Miracle Fusion”.\n● “Miracle Fusion” does not target. You select and remove the monsters during resolution.",
+    "Stein": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Miracle Fusion” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● “Miracle Fusion” is a card that targets monsters, either on the field and/or in the GY.",
+    "Base": "1. If \"Kycoo the Ghost Destroyer\" is on your opponent's side of the field, you can activate \"Miracle Fusion\" if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you cannot activate it.\\n2. You can use fusion substitute monsters like \"King of the Swamp\" and \"Goddess with the Third Eye\" for \"Miracle Fusion\".\\n3. \"Miracle Fusion\" does not target. You select and remove the monsters during resolution."
+  },
+  "PSCT": {
+    "Tengu": "① Banish Fusion Materials from your field/GY, then Fusion Summon 1 appropriate \"Elemental HERO\" Fusion Monster from your Extra Deck.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

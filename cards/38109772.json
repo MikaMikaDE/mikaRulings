@@ -1,0 +1,44 @@
+{
+  "id": 38109772,
+  "name": "Dragonic Knight",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 2300,
+    "level": 7,
+    "race": "Dragon",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●Dragonic Knight's Quick Effect is chained to the effect of your opponent's Monster Card that would destroy your card(s). The card(s) targeted by the effect of your opponent's Monster Card are sent to the GY as a cost.\n●Dragonic Knight's effect can only be activated if the effect of your opponent Monster Card targets card(s) you control. When your opponent activates the effect of Sacred Phoenix of Nephthys to destroy every Spell and Trap Card on the field, you cannot chain Dragonic Knight's effect, because the effect of Sacred Phoenix of Nephthys does not target your Spell or Trap Cards on the field.\n●If the effect of your opponent's Monster Card targets a card you control and a card your opponent controls, you can chain Dragonic Knight's effect by sending only your targeted card to the GY.\n●Dragonic Knight's effect must be immediately chained to the effect of your opponent's Monster Card that targets card(s) you control. You cannot activate the effect of another card and then chain Dragonic Knight's effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Dragonic Knight's' Quick Effect is chained to the effect of your opponent's Monster Card that would destroy your card(s). The card(s) targeted by the effect of your opponent's Monster Card are sent to the GY as a cost.\n● 'Dragonic Knight's' effect can only be activated if the effect of your opponent Monster Card targets card(s) you control. When your opponent activates the effect of 'Sacred Phoenix of Nephthys' to destroy every Spell/Trap Card on the field, you can't chain 'Dragonic Knight's' effect, because the effect of 'Sacred Phoenix of Nephthys' does not target your Spell/Trap Cards on the field.\n● If the effect of your opponent's Monster Card targets a card you control and a card your opponent controls, you can chain 'Dragonic Knight's' effect by sending only your targeted card to the GY.\n● 'Dragonic Knight's' effect must be immediately chained to the effect of your opponent's Monster Card that targets card(s) you control. You can't activate the effect of another card and then chain 'Dragonic Knight's' effect.",
+    "TeleDAD": "● 'Dragonic Knight's' Quick Effect is chained to the effect of your opponent's Monster Card that would destroy your card(s). The card(s) targeted by the effect of your opponent's Monster Card are sent to the GY as a cost.\n● 'Dragonic Knight's' effect can only be activated if the effect of your opponent Monster Card targets card(s) you control. When your opponent activates the effect of 'Sacred Phoenix of Nephthys' to destroy every Spell/Trap Card on the field, you can't chain 'Dragonic Knight's' effect, because the effect of 'Sacred Phoenix of Nephthys' does not target your Spell/Trap Cards on the field.\n● If the effect of your opponent's Monster Card targets a card you control and a card your opponent controls, you can chain 'Dragonic Knight's' effect by sending only your targeted card to the GY.\n● 'Dragonic Knight's' effect must be immediately chained to the effect of your opponent's Monster Card that targets card(s) you control. You can't activate the effect of another card and then chain 'Dragonic Knight's' effect.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

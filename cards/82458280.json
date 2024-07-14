@@ -1,0 +1,44 @@
+{
+  "id": 82458280,
+  "name": "Magic Hole Golem",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 2000,
+    "level": 3,
+    "race": "Rock",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●This effect targets 1 face-up monster you control.\n●If you use “Shrink” on a monster whose ATK is halved by “Magic Hole Golem” the ATK becomes half of its original ATK. After “Shrink” is no longer applied, the ATK becomes the same as before “Magical Hole Golem” was activated.\n●If you control 2 “Magic Hole Golems” and target different monsters with their effects, neither monster can attack.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect targets 1 face-up monster you control.\\n2. If you use \"Shrink\" on a monster whose ATK is halved by \"Magic Hole Golem\" the ATK becomes half of its original ATK.\\n3. After \"Shrink\" is no longer applied, the ATK becomes the same as before \"Magical Hole Golem\" was activated.\\n4. If you control 2 copies of \"Magic Hole Golem\" and target different monsters with their effects, neither monster can attack.\\n\\nRuling #4 Should be outdated, although not explicitly addressed. You should not be able to activate the effect of a second Magic Hole Golem, since its effect grants the ability to attack directly and its target would be incapable of attacking in the first place. Sources: OCG database stating Golem cannot be activated in Main Phase 2, OCG database Inzektor Hopper stating two cannot be used.)"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 40240595,
+  "name": "Cocoon of Evolution",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 2000,
+    "level": 3,
+    "race": "Insect",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Cocoon of Evolution is Summoned or Set it is treated as a monster, if played as an Equip Spell Card it is treated as an Equip Spell Card as long as it remains on the field and could be destroyed with Mystical Space Typhoon. Once on the field it cannot be switched from monster to Spell Card or vice versa. Cocoon of Evolution is NOT a Union Monster.",
+    "Goat": "●If Cocoon of Evolution is Summoned or Set it is treated as a monster, if played as an Equip Spell Card it is treated as an Equip Spell Card as long as it remains on the field and could be destroyed with Mystical Space Typhoon. Once on the field it cannot be switched from monster to Spell Card or vice versa. Cocoon of Evolution is NOT a Union Monster.\n●The action of Equipping “Cocoon of Evolution” to a face up “Petit Moth” uses that player’s Normal Summon or Set for the Turn.\n●When Equipped to “Petit Moth,” “Cocoon of Evolution” is an Equip Spell Card.\n●If “Cocoon of Evolution” is negated by “Imperial Order” while equipped to “Petit Moth,” the ATK/DEF of “Petit Moth” are not changed by the effect of “Cocoon of Evolution.”",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Cocoon of Evolution' is Summoned or Set it is treated as a monster, if played as an Equip Spell Card it is treated as an Equip Spell Card as long as it remains on the field and could be destroyed with 'Mystical Space Typhoon'.Once on the field it can't be switched from monster to Spell Card or vice versa.'Cocoon of Evolution' is NOT a Union Monster.",
+    "TeleDAD": "● If 'Cocoon of Evolution' is Summoned or Set it is treated as a monster, if played as an Equip Spell Card it is treated as an Equip Spell Card as long as it remains on the field and could be destroyed with 'Mystical Space Typhoon'.Once on the field it can't be switched from monster to Spell Card or vice versa.'Cocoon of Evolution' is NOT a Union Monster.",
+    "Gladiator": "● If 'Cocoon of Evolution' is Summoned or Set it is treated as a monster, if played as an Equip Spell Card it is treated as an Equip Spell Card as long as it remains on the field and could be destroyed with 'Mystical Space Typhoon'.Once on the field it can't be switched from monster to Spell Card or vice versa.'Cocoon of Evolution' is NOT a Union Monster.",
+    "ReturnDAD": "● If 'Cocoon of Evolution' is Summoned or Set it is treated as a monster, if played as an Equip Spell Card it is treated as an Equip Spell Card as long as it remains on the field and could be destroyed with 'Mystical Space Typhoon'.Once on the field it can't be switched from monster to Spell Card or vice versa.'Cocoon of Evolution' is NOT a Union Monster.",
+    "Trooper": "● If 'Cocoon of Evolution' is Summoned or Set it is treated as a monster, if played as an Equip Spell Card it is treated as an Equip Spell Card as long as it remains on the field and could be destroyed with 'Mystical Space Typhoon'.Once on the field it can't be switched from monster to Spell Card or vice versa.'Cocoon of Evolution' is NOT a Union Monster.",
+    "Circle": "● If 'Cocoon of Evolution' is Summoned or Set it is treated as a monster, if played as an Equip Spell Card it is treated as an Equip Spell Card as long as it remains on the field and could be destroyed with 'Mystical Space Typhoon'.Once on the field it can't be switched from monster to Spell Card or vice versa.'Cocoon of Evolution' is NOT a Union Monster.",
+    "Stein": "● If 'Cocoon of Evolution' is Summoned or Set it is treated as a monster, if played as an Equip Spell Card it is treated as an Equip Spell Card as long as it remains on the field and could be destroyed with 'Mystical Space Typhoon'.Once on the field it can't be switched from monster to Spell Card or vice versa.'Cocoon of Evolution' is NOT a Union Monster.",
+    "Base": "1. If \"Cocoon of Evolution\" is Summoned or Set it is treated as a monster, if played as an Equip Spell Card it is treated as an Equip Spell Card as long as it remains on the field and could be destroyed with \"Mystical Space Typhoon\". Once on the field it cannot be switched from monster to Spell Card or vice versa. \"Cocoon of Evolution\" is NOT a Union Monster."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 35149085,
+  "name": "Beast Soul Swap",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●The Beast-Type monster is Special Summoned from your hand.\n●You can Special Summon the same Beast-Type monster you returned to your hand with the same effect of Beast Soul Swap.\n●You can use Beast Soul Swap to return a non-Beast-Type monster on the field that has been changed to Beast-Type with DNA Surgery.\n●This card targets the 1 face-up Beast-Type monster you returned to the hand.",
+    "Goat": "●You can Special Summon the same Beast monster you returned to your hand with the same effect of “Beast Soul Swap”.\n●You can use “Beast Soul Swap” to return a non-Beast monster on the field that has been changed to Beast with “DNA Surgery”.\n●This card targets the 1 face-up Beast monster you returned to the hand.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The Beast is Special Summoned from your hand.\n● You can Special Summon the same Beast you returned to your hand with the same effect of 'Beast Soul Swap'.\n● You can use 'Beast Soul Swap' to return a non-Beast on the field that has been changed to Beast-Type with 'DNA Surgery'.\n● This card targets the 1 face-up Beast you returned to the hand.",
+    "TeleDAD": "● The Beast is Special Summoned from your hand.\n● You can Special Summon the same Beast you returned to your hand with the same effect of 'Beast Soul Swap'.\n● You can use 'Beast Soul Swap' to return a non-Beast on the field that has been changed to Beast-Type with 'DNA Surgery'.\n● This card targets the 1 face-up Beast you returned to the hand.",
+    "Gladiator": "● The Beast is Special Summoned from your hand.\n● You can Special Summon the same Beast you returned to your hand with the same effect of 'Beast Soul Swap'.\n● You can use 'Beast Soul Swap' to return a non-Beast on the field that has been changed to Beast-Type with 'DNA Surgery'.\n● This card targets the 1 face-up Beast you returned to the hand.",
+    "ReturnDAD": "● The Beast is Special Summoned from your hand.\n● You can Special Summon the same Beast you returned to your hand with the same effect of 'Beast Soul Swap'.\n● You can use 'Beast Soul Swap' to return a non-Beast on the field that has been changed to Beast-Type with 'DNA Surgery'.\n● This card targets the 1 face-up Beast you returned to the hand.",
+    "Trooper": "● The Beast is Special Summoned from your hand.\n● You can Special Summon the same Beast you returned to your hand with the same effect of 'Beast Soul Swap'.\n● You can use 'Beast Soul Swap' to return a non-Beast on the field that has been changed to Beast-Type with 'DNA Surgery'.\n● This card targets the 1 face-up Beast you returned to the hand.",
+    "Circle": "● The Beast is Special Summoned from your hand.\n● You can Special Summon the same Beast you returned to your hand with the same effect of 'Beast Soul Swap'.\n● You can use 'Beast Soul Swap' to return a non-Beast on the field that has been changed to Beast-Type with 'DNA Surgery'.\n● This card targets the 1 face-up Beast you returned to the hand.",
+    "Stein": "● The Beast is Special Summoned from your hand.\n● You can Special Summon the same Beast you returned to your hand with the same effect of 'Beast Soul Swap'.\n● You can use 'Beast Soul Swap' to return a non-Beast on the field that has been changed to Beast-Type with 'DNA Surgery'.\n● This card targets the 1 face-up Beast you returned to the hand.",
+    "Base": "1. The Beast-Type monster is Special Summoned from your hand.\\n2. You can Special Summon the same Beast-Type monster you returned to your hand with the same effect of \"Beast Soul Swap\".\\n3. You can use \"Beast Soul Swap\" to return a non-Beast-Type monster on the field that has been changed to Beast-Type with \"DNA Surgery\".\\n4. This card targets the 1 face-up Beast-Type monster you returned to the hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 12958919,
+  "name": "Phantom Skyblaster",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1100,
+    "def": 800,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "(1) When you Normal or Flip Summon this card, you can Special Summon any number of Skyblaster Tokens (Fiend-Type/DARK/Level 4/ATK 500/DEF 500), but not more than the number of monsters you control. (2) During your Standby Phase, you can inflict 300 damage to your opponent for each Skyblaster monster you control. If you activate this effect, Skyblaster monsters you control cannot attack this turn.\n●The (1) optional Trigger Effect must Special Summon at least 1 Skyblaster Token.\n●If you control no monsters when this effect resolves, no Tokens are Special Summoned.\n●The (2) optional Trigger Effect activates & resolves on the field.\n●This effect only inflicts damage for your face-up Skyblaster monsters.\n●Skyblaster monsters Summoned later in the turn also cannot attack.\n●If this effect is activated, your Skyblaster monsters cannot attack this turn.\n●If this effect is negated (by Skill Drain), your Skyblaster monsters cannot attack this turn.\n●If the activation of this effect is negated (by Divine Wrath), your Skyblaster monsters can attack this turn.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When you activate 'Phantom Skyblaster's' effect, you must Special Summon at least 1 'Skyblaster Token', if able.\n● 'Phantom Skyblaster's' effect disappears if you do not have any monsters on your side of the field when its effect resolves.\n● If you activate 'Phantom Skyblaster's' damage inflicting effect, 'Skyblaster' monsters Summoned later in the turn also can't attack.",
+    "TeleDAD": "● When you activate 'Phantom Skyblaster's' effect, you must Special Summon at least 1 'Skyblaster Token', if able.\n● 'Phantom Skyblaster's' effect disappears if you do not have any monsters on your side of the field when its effect resolves.\n● If you activate 'Phantom Skyblaster's' damage inflicting effect, 'Skyblaster' monsters Summoned later in the turn also can't attack.",
+    "Gladiator": "● When you activate 'Phantom Skyblaster's' effect, you must Special Summon at least 1 'Skyblaster Token', if able.\n● 'Phantom Skyblaster's' effect disappears if you do not have any monsters on your side of the field when its effect resolves.\n● If you activate 'Phantom Skyblaster's' damage inflicting effect, 'Skyblaster' monsters Summoned later in the turn also can't attack.",
+    "ReturnDAD": "● When you activate 'Phantom Skyblaster's' effect, you must Special Summon at least 1 'Skyblaster Token', if able.\n● 'Phantom Skyblaster's' effect disappears if you do not have any monsters on your side of the field when its effect resolves.\n● If you activate 'Phantom Skyblaster's' damage inflicting effect, 'Skyblaster' monsters Summoned later in the turn also can't attack.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. When you activate the effect of \"Phantom Skyblaster\", you must Special Summon at least 1 'Skyblaster Token', if able.\\n2. The effect of \"Phantom Skyblaster\" disappears if you do not have any monsters on your side of the field when its effect resolves.\\n3. If you activate the damage inflicting effect of \"Phantom Skyblaster\", 'Skyblaster' monsters Summoned later in the turn also cannot attack."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

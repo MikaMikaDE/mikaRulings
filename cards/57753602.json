@@ -1,0 +1,40 @@
+{
+  "id": 57753602,
+  "name": "Gem Flash Energy",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card’s effect is activated during your Standby Phase, and starts a Chain.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s effect is activated during your Standby Phase, and starts a Chain.",
+    "TeleDAD": "● This card’s effect is activated during your Standby Phase, and starts a Chain.",
+    "Gladiator": "● This card’s effect is activated during your Standby Phase, and starts a Chain.",
+    "ReturnDAD": "● This card’s effect is activated during your Standby Phase, and starts a Chain.",
+    "Trooper": "● This card’s effect is activated during your Standby Phase, and starts a Chain.",
+    "Circle": "● This card’s effect is activated during your Standby Phase, and starts a Chain.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card's effect is activated during your Standby Phase, and starts a Chain."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

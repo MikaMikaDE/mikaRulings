@@ -1,0 +1,44 @@
+{
+  "id": 90464188,
+  "name": "Obsidian Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 2100,
+    "level": 4,
+    "race": "Rock",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Obsidian Dragon's effect is a Continuous Effect.\n●Equip Spell Cards equipped during a previous turn will be negated and destroyed by Obsidian Dragon's effect.\n●When a Union Monster is equipped to a DARK monster you control, it is negated and destroyed by Obsidian Dragon's effect after equipping to the DARK monster.\n●If you use Snatch Steal to take control of your opponent's DARK monster while you control Obsidian Dragon, Snatch Steal is negated and destroyed, and the DARK monster is returned to your opponent.\n●If you use Brain Control to take control of your opponent's DARK monster while you control Obsidian Dragon, the effect of Brain Control is not negated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Obsidian Dragon's' effect is a Continuous Effect.\n● Equip Spell Cards equipped during a previous turn will be negated and destroyed by 'Obsidian Dragon's' effect.\n● When a Union Monster is equipped to a DARK monster you control, it is negated and destroyed by 'Obsidian Dragon's' effect after equipping to the DARK monster.\n● If you use 'Snatch Steal' to take control of your opponent's DARK monster while you control 'Obsidian Dragon', 'Snatch Steal' is negated and destroyed, and the DARK monster is returned to your opponent.\n● If you use 'Brain Control' to take control of your opponent's DARK monster while you control 'Obsidian Dragon', the effect of 'Brain Control' isn't negated.",
+    "TeleDAD": "● 'Obsidian Dragon's' effect is a Continuous Effect.\n● Equip Spell Cards equipped during a previous turn will be negated and destroyed by 'Obsidian Dragon's' effect.\n● When a Union Monster is equipped to a DARK monster you control, it is negated and destroyed by 'Obsidian Dragon's' effect after equipping to the DARK monster.\n● If you use 'Snatch Steal' to take control of your opponent's DARK monster while you control 'Obsidian Dragon', 'Snatch Steal' is negated and destroyed, and the DARK monster is returned to your opponent.\n● If you use 'Brain Control' to take control of your opponent's DARK monster while you control 'Obsidian Dragon', the effect of 'Brain Control' isn't negated.",
+    "Gladiator": "● 'Obsidian Dragon's' effect is a Continuous Effect.\n● Equip Spell Cards equipped during a previous turn will be negated and destroyed by 'Obsidian Dragon's' effect.\n● When a Union Monster is equipped to a DARK monster you control, it is negated and destroyed by 'Obsidian Dragon's' effect after equipping to the DARK monster.\n● If you use 'Snatch Steal' to take control of your opponent's DARK monster while you control 'Obsidian Dragon', 'Snatch Steal' is negated and destroyed, and the DARK monster is returned to your opponent.\n● If you use 'Brain Control' to take control of your opponent's DARK monster while you control 'Obsidian Dragon', the effect of 'Brain Control' isn't negated.",
+    "ReturnDAD": "● 'Obsidian Dragon's' effect is a Continuous Effect.\n● Equip Spell Cards equipped during a previous turn will be negated and destroyed by 'Obsidian Dragon's' effect.\n● When a Union Monster is equipped to a DARK monster you control, it is negated and destroyed by 'Obsidian Dragon's' effect after equipping to the DARK monster.\n● If you use 'Snatch Steal' to take control of your opponent's DARK monster while you control 'Obsidian Dragon', 'Snatch Steal' is negated and destroyed, and the DARK monster is returned to your opponent.\n● If you use 'Brain Control' to take control of your opponent's DARK monster while you control 'Obsidian Dragon', the effect of 'Brain Control' isn't negated.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Obsidian Dragon\" is a Continuous Effect.\\n2. Equip Spell Cards equipped during a previous turn will be negated and destroyed by the effect of \"Obsidian Dragon\".\\n3. When a Union Monster is equipped to a DARK monster you control, it is negated and destroyed by the effect of \"Obsidian Dragon\" after equipping to the DARK monster.\\n4. If you use \"Snatch Steal\" to take control of your opponent's DARK monster while you control \"Obsidian Dragon\", \"Snatch Steal\" is negated and destroyed, and the DARK monster is returned to your opponent.\\n5. If you use \"Brain Control\" to take control of your opponent's DARK monster while you control \"Obsidian Dragon\", the effect of \"Brain Control\" is not negated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

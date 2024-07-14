@@ -1,0 +1,44 @@
+{
+  "id": 32296881,
+  "name": "Bountiful Artemis",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 1700,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) Draw 1 card from your Deck each time a Counter Trap Card is activated.\n●The (1) Continuous Effect does not start a chain.\n●Bountiful Artemis must be face-up on the field in order to apply this effect.\n●This effect will not apply for any Counter Trap Cards which might negate the Summon of Artemis.\n●You will draw 1 card immediately after a Counter Trap’s effects have resolved.\n●This effect will activate even if your opponent is the one who resolved the effect of a Counter Trap.\n●If “Seven Tools of the Bandit” negates the activation of another Counter Trap Card (ex: “Magic Jammer”), you do not draw a card for “Magic Jammer” since its activation was negated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Bountiful Artemis” is a Continuous Effect, and can't be chained to. You will draw 1 card immediately after a Counter Trap’s effects have resolved.\n● Your “Bountiful Artemis’s” effect will activate even if your opponent is the one who activated the Counter Trap.\n● If “Seven Tools of the Bandit” is used to negate the activation of another Trap Card, such as “Magic Jammer”, you will not draw a card for “Magic Jammer” since its activation was negated.",
+    "TeleDAD": "● The effect of “Bountiful Artemis” is a Continuous Effect, and can't be chained to. You will draw 1 card immediately after a Counter Trap’s effects have resolved.\n● Your “Bountiful Artemis’s” effect will activate even if your opponent is the one who activated the Counter Trap.\n● If “Seven Tools of the Bandit” is used to negate the activation of another Trap Card, such as “Magic Jammer”, you will not draw a card for “Magic Jammer” since its activation was negated.",
+    "Gladiator": "● The effect of “Bountiful Artemis” is a Continuous Effect, and can't be chained to. You will draw 1 card immediately after a Counter Trap’s effects have resolved.\n● Your “Bountiful Artemis’s” effect will activate even if your opponent is the one who activated the Counter Trap.\n● If “Seven Tools of the Bandit” is used to negate the activation of another Trap Card, such as “Magic Jammer”, you will not draw a card for “Magic Jammer” since its activation was negated.",
+    "ReturnDAD": "● The effect of “Bountiful Artemis” is a Continuous Effect, and can't be chained to. You will draw 1 card immediately after a Counter Trap’s effects have resolved.\n● Your “Bountiful Artemis’s” effect will activate even if your opponent is the one who activated the Counter Trap.\n● If “Seven Tools of the Bandit” is used to negate the activation of another Trap Card, such as “Magic Jammer”, you will not draw a card for “Magic Jammer” since its activation was negated.",
+    "Trooper": "● The effect of “Bountiful Artemis” is a Continuous Effect, and can't be chained to. You will draw 1 card immediately after a Counter Trap’s effects have resolved.\n● Your “Bountiful Artemis’s” effect will activate even if your opponent is the one who activated the Counter Trap.\n● If “Seven Tools of the Bandit” is used to negate the activation of another Trap Card, such as “Magic Jammer”, you will not draw a card for “Magic Jammer” since its activation was negated.",
+    "Circle": "● The effect of “Bountiful Artemis” is a Continuous Effect, and can't be chained to. You will draw 1 card immediately after a Counter Trap’s effects have resolved.\n● Your “Bountiful Artemis’s” effect will activate even if your opponent is the one who activated the Counter Trap.\n● If “Seven Tools of the Bandit” is used to negate the activation of another Trap Card, such as “Magic Jammer”, you will not draw a card for “Magic Jammer” since its activation was negated.",
+    "Stein": "● The effect of “Bountiful Artemis” is a Continuous Effect, and can't be chained to. You will draw 1 card immediately after a Counter Trap’s effects have resolved.\n● Your “Bountiful Artemis’s” effect will activate even if your opponent is the one who activated the Counter Trap.\n● If “Seven Tools of the Bandit” is used to negate the activation of another Trap Card, such as “Magic Jammer”, you will not draw a card for “Magic Jammer” since its activation was negated.",
+    "Base": "1. The effect of \"Bountiful Artemis\" is a Continuous Effect, and cannot be chained to. You will draw 1 card immediately after a Counter Trap's effects have resolved.\\n2. Your effect of \"Bountiful Artemis\" will activate even if your opponent is the one who activated the Counter Trap.\\n3. If \"Seven Tools of the Bandit\" is used to negate the activation of another Trap Card, such as \"Magic Jammer\", you will not draw a card for \"Magic Jammer\" since its activation was negated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 59839761,
+  "name": "Delta Crow - Anti Reverse",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot activate “Delta Crow – Anti Reverse” from your hand if you control 4 or 5 “Blackwing” monsters.\n●If you control exactly 3 “Blackwing” monsters, you can activate “Delta Crow – Anti Reverse” from your hand during your turn or during your opponent’s turn.\n●The number of “Blackwing” monsters on the field is only an activation requirement. If the number of Blackwings is no longer correct when “Delta Crow – Anti Reverse” resolves, its effect is still applied. “Delta Crow – Anti Reverse” only destroys face-down Spell and Trap Cards. If those cards are chained in response, they are not destroyed.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You cannot activate \"Delta Crow - Anti Reverse\" from your hand if you control 4 or 5 'Blackwing' monsters.\\n2. If you control exactly 3 'Blackwing' monsters, you can activate \"Delta Crow - Anti Reverse\" from your hand during your turn or during your opponent's turn.\\n3. The number of 'Blackwing' monsters on the field is only an activation requirement. If the number of Blackwings is no longer correct when \"Delta Crow - Anti Reverse\" resolves, its effect is still applied.\\n4. \"Delta Crow - Anti Reverse\" only destroys face-down Spell and Trap Cards. If those cards are chained in response, they are not destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

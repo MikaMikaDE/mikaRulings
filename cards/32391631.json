@@ -1,0 +1,40 @@
+{
+  "id": 32391631,
+  "name": "Savage Colosseum",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Field"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of gain Life Points and the effect to destroy monsters both start a Chain.\n●Monsters that are unaffected by Spell Cards, such as “Horus the Black Flame Dragon LV6,” do not have to attack and are not destroyed if they do not attack.\n●If an attacking monster is removed from the field before the end of the Damage Step, the monster’s controller will not gain Life Points.\n●The player who controls the monster at the end of the Damage Step is the one who will gain Life Points.\n●If “Savage Colosseum” is not on the field or is being negated when its effects would activate, they are not applied.\n●If a monster declares an attack, but is flipped face-down by “Book of Moon” and later flipped face-up by “Book of Taiyou” it will not be destroyed by “Savage Colosseum.”\n●The effect to destroy monsters activates every End Phase even if there aren’t any monsters that did not declare an attack.\n●If a monster is Special Summoned during the End Phase after the effect of “Savage Colosseum” has activated and resolved, the effect of “Savage Colosseum” will not activate again during the same End Phase.\n●The effect of “Savage Colosseum” is activated by its controller.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of gain Life Points and the effect to destroy monsters both start a Chain.\\n2. Monsters that are unaffected by Spell Cards, such as \"Horus the Black Flame Dragon LV6\", do not have to attack and are not destroyed if they do not attack. If an attacking monster is removed from the field before the end of the Damage Step, the monster's controller will not gain Life Points.\\n3. The player who controls the monster at the end of the Damage Step is the one who will gain Life Points.\\n4. If \"Savage Colosseum\" is not on the field or is being negated when its effects would activate, they are not applied.\\n5. If a monster declares an attack, but is flipped face-down by \"Book of Moon\" and later flipped face-up by \"Book of Taiyou\" it will not be destroyed by \"Savage Colosseum\".\\n6. The effect to destroy monsters activates every End Phase even if there aren't any monsters that did not declare an attack.\\n7. If a monster is Special Summoned during the End Phase after the effect of \"Savage Colosseum\" has activated and resolved, the effect of \"Savage Colosseum\" will not activate again during the same End Phase.\\n8. The effect of \"Savage Colosseum\" is activated by its controller."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

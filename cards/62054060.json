@@ -1,0 +1,44 @@
+{
+  "id": 62054060,
+  "name": "Sage of Stillness",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 1000,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This effect activates at the same time that the monster destroyed by battle is sent to the GY.\n● This effect will activate even if this card destroys a Monster Token, because the text does not require the destroyed monster to be sent to the GY.\n● If this card destroys “Embodiment of Apophis”, this effect will activate.\n● This effect will activate if you destroy your monster controlled by your opponent.\n● The effects of face-up Continuous Cards can be activated even while the effect of this card is being applied.",
+    "TeleDAD": "● This effect activates at the same time that the monster destroyed by battle is sent to the GY.\n● This effect will activate even if this card destroys a Monster Token, because the text does not require the destroyed monster to be sent to the GY.\n● If this card destroys “Embodiment of Apophis”, this effect will activate.\n● This effect will activate if you destroy your monster controlled by your opponent.\n● The effects of face-up Continuous Cards can be activated even while the effect of this card is being applied.",
+    "Gladiator": "● This effect activates at the same time that the monster destroyed by battle is sent to the GY.\n● This effect will activate even if this card destroys a Monster Token, because the text does not require the destroyed monster to be sent to the GY.\n● If this card destroys “Embodiment of Apophis”, this effect will activate.\n● This effect will activate if you destroy your monster controlled by your opponent.\n● The effects of face-up Continuous Cards can be activated even while the effect of this card is being applied.",
+    "ReturnDAD": "● This effect activates at the same time that the monster destroyed by battle is sent to the GY.\n● This effect will activate even if this card destroys a Monster Token, because the text does not require the destroyed monster to be sent to the GY.\n● If this card destroys “Embodiment of Apophis”, this effect will activate.\n● This effect will activate if you destroy your monster controlled by your opponent.\n● The effects of face-up Continuous Cards can be activated even while the effect of this card is being applied.",
+    "Trooper": "● This effect activates at the same time that the monster destroyed by battle is sent to the GY.\n● This effect will activate even if this card destroys a Monster Token, because the text does not require the destroyed monster to be sent to the GY.\n● If this card destroys “Embodiment of Apophis”, this effect will activate.\n● This effect will activate if you destroy your monster controlled by your opponent.\n● The effects of face-up Continuous Cards can be activated even while the effect of this card is being applied.",
+    "Circle": "● This effect activates at the same time that the monster destroyed by battle is sent to the GY.\n● This effect will activate even if this card destroys a Monster Token, because the text does not require the destroyed monster to be sent to the GY.\n● If this card destroys “Embodiment of Apophis”, this effect will activate.\n● This effect will activate if you destroy your monster controlled by your opponent.\n● The effects of face-up Continuous Cards can be activated even while the effect of this card is being applied.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect activates at the same time that the monster destroyed by battle is sent to the GY.\\n2. This effect will activate even if this card destroys a Monster Token, because the text does not require the destroyed monster to be sent to the GY.\\n3. If this card destroys \"Embodiment of Apophis\", this effect will activate.\\n4. This effect will activate if you destroy your monster controlled by your opponent.\\n5. The effects of face-up Continuous Cards can be activated even while the effect of this card is being applied."
+  },
+  "PSCT": {
+    "Tengu": "① If this card destroys an opponent's monster by battle: \nYour opponent can't activate Trap Cards during the next turn.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 73906480,
+  "name": "Bujincarnation",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If you can't summon 1 of the targets, you summon neither.",
+    "Vegas": "● If you can't summon 1 of the targets, you summon neither.",
+    "Meadowlands": "● If you can't summon 1 of the targets, you summon neither.",
+    "FireWater": "● If you can't summon 1 of the targets, you summon neither.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① If only your opponent controls a monster: \nTarget 1 \"Bujin\" monster in your GY, and 1 of your banished \"Bujin\" monsters; Special Summon both targets. \n(They can't be used as Xyz Material, except for a Beast/Beast-Warrior/Winged-Beast).",
+    "Meadowlands": "① If only your opponent controls a monster: \nTarget 1 \"Bujin\" monster in your GY, and 1 of your banished \"Bujin\" monsters; Special Summon both targets. \n(They can't be used as Xyz Material, except for a Beast/Beast-Warrior/Winged-Beast).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

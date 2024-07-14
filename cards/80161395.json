@@ -1,0 +1,40 @@
+{
+  "id": 80161395,
+  "name": "Mystik Wok",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "\n●Tributing a monster for Mystik Wok is a cost, so you can Tribute The Legendary Fisherman or The Agent of Force - Mars.\n●The ATK or DEF is the current number, not the original number.\n●You select ATK or DEF when Mystik Wok is activated.\n●You can Tribute face-down monsters, or your opponent's monster using Soul Exchange.",
+    "Goat": "●Tributing a monster for Mystik Wok is a cost, so you can Tribute The Legendary Fisherman or The Agent of Force - Mars.\n●The ATK/DEF is the current number, not the original number.\n●You select ATK/DEF when Mystik Wok is activated.\n●You can Tribute face-down monsters, or your opponent's monster using Soul Exchange.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Tributing a monster for 'Mystik Wok' is a cost, so you can Tribute 'The Legendary Fisherman' or 'The Agent of Force - Mars'.\n● The ATK or DEF is the current number, not the original number.\n● You select ATK or DEF when 'Mystik Wok' is activated.\n● You can Tribute face-down monsters, or your opponent's monster using 'Soul Exchange'.",
+    "TeleDAD": "● Tributing a monster for 'Mystik Wok' is a cost, so you can Tribute 'The Legendary Fisherman' or 'The Agent of Force - Mars'.\n● The ATK or DEF is the current number, not the original number.\n● You select ATK or DEF when 'Mystik Wok' is activated.\n● You can Tribute face-down monsters, or your opponent's monster using 'Soul Exchange'.",
+    "Gladiator": "● Tributing a monster for 'Mystik Wok' is a cost, so you can Tribute 'The Legendary Fisherman' or 'The Agent of Force - Mars'.\n● The ATK or DEF is the current number, not the original number.\n● You select ATK or DEF when 'Mystik Wok' is activated.\n● You can Tribute face-down monsters, or your opponent's monster using 'Soul Exchange'.",
+    "ReturnDAD": "● Tributing a monster for 'Mystik Wok' is a cost, so you can Tribute 'The Legendary Fisherman' or 'The Agent of Force - Mars'.\n● The ATK or DEF is the current number, not the original number.\n● You select ATK or DEF when 'Mystik Wok' is activated.\n● You can Tribute face-down monsters, or your opponent's monster using 'Soul Exchange'.",
+    "Trooper": "● Tributing a monster for 'Mystik Wok' is a cost, so you can Tribute 'The Legendary Fisherman' or 'The Agent of Force - Mars'.\n● The ATK or DEF is the current number, not the original number.\n● You select ATK or DEF when 'Mystik Wok' is activated.\n● You can Tribute face-down monsters, or your opponent's monster using 'Soul Exchange'.",
+    "Circle": "● Tributing a monster for 'Mystik Wok' is a cost, so you can Tribute 'The Legendary Fisherman' or 'The Agent of Force - Mars'.\n● The ATK or DEF is the current number, not the original number.\n● You select ATK or DEF when 'Mystik Wok' is activated.\n● You can Tribute face-down monsters, or your opponent's monster using 'Soul Exchange'.",
+    "Stein": "● Tributing a monster for 'Mystik Wok' is a cost, so you can Tribute 'The Legendary Fisherman' or 'The Agent of Force - Mars'.\n● The ATK or DEF is the current number, not the original number.\n● You select ATK or DEF when 'Mystik Wok' is activated.\n● You can Tribute face-down monsters, or your opponent's monster using 'Soul Exchange'.",
+    "Base": "1. Tributing a monster for \"Mystik Wok\" is a cost, so you can Tribute \"The Legendary Fisherman\" or \"The Agent of Force - Mars\".\\n2. The ATK or DEF is the current number, not the original number.\\n3. You select ATK or DEF when \"Mystik Wok\" is activated.\\n4. You can Tribute face-down monsters, or your opponent's monster using \"Soul Exchange\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

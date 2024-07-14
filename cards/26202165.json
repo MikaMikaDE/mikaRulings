@@ -1,0 +1,44 @@
+{
+  "id": 26202165,
+  "name": "Sangan",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 600,
+    "level": 3,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● This card’s effect can be activated multiple times per turn. You may use the effects of cards searched this way the same turn that you searched them.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Sangan' only activates when it is sent from the field to the GY, not from your hand or Deck, and not if it is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Sangan' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to 'Sangan'’s effect.",
+    "TeleDAD": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Sangan' only activates when it is sent from the field to the GY, not from your hand or Deck, and not if it is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Sangan' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to 'Sangan'’s effect.",
+    "Gladiator": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Sangan' only activates when it is sent from the field to the GY, not from your hand or Deck, and not if it is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Sangan' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to 'Sangan'’s effect.",
+    "ReturnDAD": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Sangan' only activates when it is sent from the field to the GY, not from your hand or Deck, and not if it is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Sangan' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to 'Sangan'’s effect.",
+    "Trooper": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Sangan' only activates when it is sent from the field to the GY, not from your hand or Deck, and not if it is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Sangan' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to 'Sangan'’s effect.",
+    "Circle": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Sangan' only activates when it is sent from the field to the GY, not from your hand or Deck, and not if it is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Sangan' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to 'Sangan'’s effect.",
+    "Stein": "● You must show your opponent the monster you select from your Deck for this card’s effect.If you have no eligible monsters, your opponent gets to see your Deck to verify.\n● The effect of 'Sangan' only activates when it is sent from the field to the GY, not from your hand or Deck, and not if it is removed from play.\n● If the Summon of this card is negated with 'Horn of Heaven' or 'Solemn Judgment' you do not get its effect.\n● If you control your opponent’s 'Sangan' and it is destroyed, your opponent gets the effect since it activates in his/her GY.\n● You can chain to 'Sangan'’s effect.",
+    "Base": "1. You must show your opponent the monster you select from your Deck for this card's effect. If you have no eligible monsters, your opponent gets to see your Deck to verify.\\n2. The effect of \"Sangan\" only activates when it is sent from the field to the GY, not from your hand or Deck, and not if it is removed from play.\\n3. If the Summon of this card is negated with \"Horn of Heaven\" or \"Solemn Judgment\" you do not get its effect.\\n4. If you control your opponent's \"Sangan\" and it is destroyed, your opponent gets the effect since it activates in his/her GY.\\n5. You can chain to the effect of \"Sangan\"."
+  },
+  "PSCT": {
+    "Tengu": "① If this card is sent from the field to the GY: \nAdd 1 monster with 1500 or less ATK from your Deck to your hand.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 52090844,
+  "name": "Bowganian",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1300,
+    "def": 1000,
+    "level": 3,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can use Barrel Behind the Door against Bowganian's effect.\n●Bowganian's effect is a Trigger Effect.",
+    "Goat": "●You can use Barrel Behind the Door against Bowganian's effect.\n●Bowganian's effect is a Trigger Effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can use 'Barrel Behind the Door' against 'Bowganian''s effect.\n● 'Bowganian''s effect is a Trigger Effect.",
+    "TeleDAD": "● You can use 'Barrel Behind the Door' against 'Bowganian''s effect.\n● 'Bowganian''s effect is a Trigger Effect.",
+    "Gladiator": "● You can use 'Barrel Behind the Door' against 'Bowganian''s effect.\n● 'Bowganian''s effect is a Trigger Effect.",
+    "ReturnDAD": "● You can use 'Barrel Behind the Door' against 'Bowganian''s effect.\n● 'Bowganian''s effect is a Trigger Effect.",
+    "Trooper": "● You can use 'Barrel Behind the Door' against 'Bowganian''s effect.\n● 'Bowganian''s effect is a Trigger Effect.",
+    "Circle": "● You can use 'Barrel Behind the Door' against 'Bowganian''s effect.\n● 'Bowganian''s effect is a Trigger Effect.",
+    "Stein": "● You can use 'Barrel Behind the Door' against 'Bowganian''s effect.\n● 'Bowganian''s effect is a Trigger Effect.",
+    "Base": "1. You can use \"Barrel Behind the Door\" against the effect of \"Bowganian\".\\n2. The effect of \"Bowganian\" is a Trigger Effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

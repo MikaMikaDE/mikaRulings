@@ -1,0 +1,44 @@
+{
+  "id": 12435193,
+  "name": "Koa'ki Meiru Drago",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1900,
+    "def": 1600,
+    "level": 4,
+    "race": "Dragon",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "● While the ① is applying, \"Future Fusion\" cannot be activated unless a non-LIGHT/DARK is revealed from the Extra Deck.\n● While the ① is applying, \"Future Fusion\" cannot Special Summon a LIGHT-DARK monster during the second Standby Phase. In this case, the Fusion Monster will never be Special Summoned (it will not \"try again\" the next Standby Phase).\n● The Ⓜ is a Maintenance Cost. It does not activate, and cannot be negated. \n● If Iron Core cannot be sent to the GY (EG if \"Macro Cosmos\" is applying), and no Dragon can be revealed, this card is destroyed.\n● If \"Mind on Air\" is applying, you can't reveal a Dragon, so you must send an Iron Core to the GY or else destroy this card.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The first sentence of this card is a maintenance cost, not an effect. It does not start a Chain.\\n2. LIGHT and DARK monsters cannot be Special Summoned, face-up or face-down, while \"Koa'ki Meiru Drago\" is on the field."
+  },
+  "PSCT": {
+    "Tengu": "① Neither player can attempt to Special Summon LIGHTs and DARKs.\nⓂ During your End Phase, destroy this card, \nunless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the GY, or reveal 1 Dragon in your hand.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 69832741,
+  "name": "Spirit Elimination",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●During the turn that Spirit Elimination is activated; all monsters removed from play must be from your side of the field. This means that you cannot activated Soul Release and remove two monsters from your side of the field and three from your GY.\n●Any conditions set on the Monster Cards that would be removed from the GY must still be fulfilled on the Monsters removed from your side of the field. For example, to Special Summon Dark Necrofear you must remove 3 Fiend-Type Monsters from your side of the field.\n●You can activate Spirit Elimination while Necrovalley is active.",
+    "Goat": "●During the turn that Spirit Elimination is activated; all monsters removed from play must be from your side of the field. This means that you cannot activated Soul Release and remove two monsters from your side of the field and three from your GY.\n●Any conditions set on the Monster Cards that would be removed from the GY must still be fulfilled on the Monsters removed from your side of the field. For example, to Special Summon Dark Necrofear you must remove 3 Fiends from your side of the field.\n●You can activate Spirit Elimination while Necrovalley is applying. \n●Q: Can you remove any monsters from play for monsters like “Dark Necrofear”? \nA: If the condition requires specific types of cards, those same type of cards must be removed from the field. Example: Dark Necrofear requires Fiend. It must be Fiend that you remove from the field in substitution of a Fiend in the GY. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● During the turn that 'Spirit Elimination' is activated; all monsters removed from play must be from your side of the field. This means that you can't activated 'Soul Release' and remove two monsters from your side of the field and three from your GY.\n● Any conditions set on the Monster Cards that would be removed from the GY must still be fulfilled on the Monsters removed from your side of the field. For example, to Special Summon 'Dark Necrofear' you must remove 3 Fiend-Type Monsters from your side of the field.\n● You can activate 'Spirit Elimination' while 'Necrovalley' is applying.",
+    "TeleDAD": "● During the turn that 'Spirit Elimination' is activated; all monsters removed from play must be from your side of the field. This means that you can't activated 'Soul Release' and remove two monsters from your side of the field and three from your GY.\n● Any conditions set on the Monster Cards that would be removed from the GY must still be fulfilled on the Monsters removed from your side of the field. For example, to Special Summon 'Dark Necrofear' you must remove 3 Fiend-Type Monsters from your side of the field.\n● You can activate 'Spirit Elimination' while 'Necrovalley' is applying.",
+    "Gladiator": "● During the turn that 'Spirit Elimination' is activated; all monsters removed from play must be from your side of the field. This means that you can't activated 'Soul Release' and remove two monsters from your side of the field and three from your GY.\n● Any conditions set on the Monster Cards that would be removed from the GY must still be fulfilled on the Monsters removed from your side of the field. For example, to Special Summon 'Dark Necrofear' you must remove 3 Fiend-Type Monsters from your side of the field.\n● You can activate 'Spirit Elimination' while 'Necrovalley' is applying.",
+    "ReturnDAD": "● During the turn that 'Spirit Elimination' is activated; all monsters removed from play must be from your side of the field. This means that you can't activated 'Soul Release' and remove two monsters from your side of the field and three from your GY.\n● Any conditions set on the Monster Cards that would be removed from the GY must still be fulfilled on the Monsters removed from your side of the field. For example, to Special Summon 'Dark Necrofear' you must remove 3 Fiend-Type Monsters from your side of the field.\n● You can activate 'Spirit Elimination' while 'Necrovalley' is applying.",
+    "Trooper": "● During the turn that 'Spirit Elimination' is activated; all monsters removed from play must be from your side of the field. This means that you can't activated 'Soul Release' and remove two monsters from your side of the field and three from your GY.\n● Any conditions set on the Monster Cards that would be removed from the GY must still be fulfilled on the Monsters removed from your side of the field. For example, to Special Summon 'Dark Necrofear' you must remove 3 Fiend-Type Monsters from your side of the field.\n● You can activate 'Spirit Elimination' while 'Necrovalley' is applying.",
+    "Circle": "● During the turn that 'Spirit Elimination' is activated; all monsters removed from play must be from your side of the field. This means that you can't activated 'Soul Release' and remove two monsters from your side of the field and three from your GY.\n● Any conditions set on the Monster Cards that would be removed from the GY must still be fulfilled on the Monsters removed from your side of the field. For example, to Special Summon 'Dark Necrofear' you must remove 3 Fiend-Type Monsters from your side of the field.\n● You can activate 'Spirit Elimination' while 'Necrovalley' is applying.",
+    "Stein": "● During the turn that 'Spirit Elimination' is activated; all monsters removed from play must be from your side of the field. This means that you can't activated 'Soul Release' and remove two monsters from your side of the field and three from your GY.\n● Any conditions set on the Monster Cards that would be removed from the GY must still be fulfilled on the Monsters removed from your side of the field. For example, to Special Summon 'Dark Necrofear' you must remove 3 Fiend-Type Monsters from your side of the field.\n● You can activate 'Spirit Elimination' while 'Necrovalley' is applying.",
+    "Base": "1. During the turn that \"Spirit Elimination\" is activated; all monsters removed from play must be from your side of the field. This means that you cannot activated \"Soul Release\" and remove two monsters from your side of the field and three from your GY.\\n2. Any conditions set on the Monster Cards that would be removed from the GY must still be fulfilled on the Monsters removed from your side of the field. For example, to Special Summon \"Dark Necrofear\" you must remove 3 Fiend-Type Monsters from your side of the field.\\n3. You can activate \"Spirit Elimination\" while \"Necrovalley\" is active."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

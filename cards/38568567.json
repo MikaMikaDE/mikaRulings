@@ -1,0 +1,40 @@
+{
+  "id": 38568567,
+  "name": "Wonder Clover",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Sending a Plant from your hand to the GY is a cost to activate “Wonder Clover.”\n●“Wonder Clover” targets 1 monster you control.\n●Monsters that are unaffected by the effects of Spell Cards, like “Horus the Black Flame Dragon LV6,” can still attack even if “Wonder Clover” is preventing other monsters from attacking.\n●You cannot target a monster with “Wonder Clover” if it is already affected by a card like “Twin Swords of Flashing Light – Tryce.”\n●If “Imperial Order” is activated, you still cannot attack with other monsters.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Sending a Plant from your hand to the GY is a cost to activate \"Wonder Clover\". \"Wonder Clover\" targets 1 monster you control.\\n2. Monsters that are unaffected by the effects of Spell Cards, like \"Horus the Black Flame Dragon LV6\", can still attack even if \"Wonder Clover\" is preventing other monsters from attacking.\\n3. You cannot target a monster with \"Wonder Clover\" if it is already affected by a card like \"Twin Swords of Flashing Light - Tryce\".\\n4. If \"Imperial Order\" is activated, you still cannot attack with other monsters."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

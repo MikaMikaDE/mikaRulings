@@ -1,0 +1,44 @@
+{
+  "id": 99747800,
+  "name": "Legendary Fiend",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 1800,
+    "level": 6,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●When Legendary Fiend is removed from the field or flipped face-down, the ATK gain disappears.\n●When control of Legendary Fiend shifts to another player, the ATK gain is still applied.\n●When Legendary Fiend is equipped with Megamorph, first double or halve its original ATK and then reapply the ATK gain.\n●If you Special Summon Legendary Fiend during your Standby Phase, its effect activates during that same Standby Phase.\n●If Legendary Fiend is equipped with your opponent's Blast Sphere, you can choose to activate Legendary Fiend's effect or pass to your opponent. If they decide to pass, you must activate Legendary Fiend's effect.\n●While Skill Drain is active, the ATK gain disappears. When Skill Drain is negated or removed from the field, the ATK gain is not reapplied.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Legendary Fiend' leaves the field or flipped face-down, the ATK gain disappears.\n● When control of 'Legendary Fiend' shifts to another player, the ATK gain is still applied.\n● When 'Legendary Fiend' is equipped with 'Megamorph', first double or halve its original ATK and then reapply the ATK gain.\n● If you Special Summon 'Legendary Fiend' during your Standby Phase, its effect activates during that same Standby Phase.\n● If 'Legendary Fiend' is equipped with your opponent's 'Blast Sphere', you can choose to activate 'Legendary Fiend's' effect or pass to your opponent. If they decide to pass, you must activate 'Legendary Fiend's' effect.\n● While 'Skill Drain' is applying, the ATK gain disappears. When 'Skill Drain' is negated or removed from the field, the ATK gain isn't reapplied.",
+    "TeleDAD": "● When 'Legendary Fiend' leaves the field or flipped face-down, the ATK gain disappears.\n● When control of 'Legendary Fiend' shifts to another player, the ATK gain is still applied.\n● When 'Legendary Fiend' is equipped with 'Megamorph', first double or halve its original ATK and then reapply the ATK gain.\n● If you Special Summon 'Legendary Fiend' during your Standby Phase, its effect activates during that same Standby Phase.\n● If 'Legendary Fiend' is equipped with your opponent's 'Blast Sphere', you can choose to activate 'Legendary Fiend's' effect or pass to your opponent. If they decide to pass, you must activate 'Legendary Fiend's' effect.\n● While 'Skill Drain' is applying, the ATK gain disappears. When 'Skill Drain' is negated or removed from the field, the ATK gain isn't reapplied.",
+    "Gladiator": "● When 'Legendary Fiend' leaves the field or flipped face-down, the ATK gain disappears.\n● When control of 'Legendary Fiend' shifts to another player, the ATK gain is still applied.\n● When 'Legendary Fiend' is equipped with 'Megamorph', first double or halve its original ATK and then reapply the ATK gain.\n● If you Special Summon 'Legendary Fiend' during your Standby Phase, its effect activates during that same Standby Phase.\n● If 'Legendary Fiend' is equipped with your opponent's 'Blast Sphere', you can choose to activate 'Legendary Fiend's' effect or pass to your opponent. If they decide to pass, you must activate 'Legendary Fiend's' effect.\n● While 'Skill Drain' is applying, the ATK gain disappears. When 'Skill Drain' is negated or removed from the field, the ATK gain isn't reapplied.",
+    "ReturnDAD": "● When 'Legendary Fiend' leaves the field or flipped face-down, the ATK gain disappears.\n● When control of 'Legendary Fiend' shifts to another player, the ATK gain is still applied.\n● When 'Legendary Fiend' is equipped with 'Megamorph', first double or halve its original ATK and then reapply the ATK gain.\n● If you Special Summon 'Legendary Fiend' during your Standby Phase, its effect activates during that same Standby Phase.\n● If 'Legendary Fiend' is equipped with your opponent's 'Blast Sphere', you can choose to activate 'Legendary Fiend's' effect or pass to your opponent. If they decide to pass, you must activate 'Legendary Fiend's' effect.\n● While 'Skill Drain' is applying, the ATK gain disappears. When 'Skill Drain' is negated or removed from the field, the ATK gain isn't reapplied.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. When \"Legendary Fiend\" is removed from the field or flipped face-down, the ATK gain disappears.\\n2. When control of \"Legendary Fiend\" shifts to another player, the ATK gain is still applied.\\n3. When \"Legendary Fiend\" is equipped with \"Megamorph\", first double or halve its original ATK and then reapply the ATK gain.\\n4. If you Special Summon \"Legendary Fiend\" during your Standby Phase, its effect activates during that same Standby Phase.\\n5. If \"Legendary Fiend\" is equipped with your opponent's \"Blast Sphere\", you can choose to activate the effect of \"Legendary Fiend\" or pass to your opponent. If they decide to pass, you must activate the effect of \"Legendary Fiend\".\\n6. While \"Skill Drain\" is active, the ATK gain disappears. When \"Skill Drain\" is negated or removed from the field, the ATK gain is not reapplied."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

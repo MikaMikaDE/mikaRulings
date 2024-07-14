@@ -1,0 +1,44 @@
+{
+  "id": 95360850,
+  "name": "Shield Warrior",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 1600,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Shield Warrior's effect is a Quick Effect. Removing Shield Warrior from play is a cost. This effect does not target.\n●You cannot activate Shield Warrior's effect if your monster would not be destroyed by the battle.\n●If a monster you control is forced to battle another monster you control by the effect of your opponent's Ancient Lamp, when you activate Shield Warrior's effect during damage calculation, both of your monsters are not destroyed.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Shield Warrior's' effect is a Quick Effect. Removing 'Shield Warrior' from play is a cost. This effect does not target.\n● You can't activate 'Shield Warrior's' effect if your monster would not be destroyed by the battle.\n● If a monster you control is forced to battle another monster you control by the effect of your opponent's 'Ancient Lamp', when you activate 'Shield Warrior's' effect during damage calculation, both of your monsters are not destroyed.",
+    "TeleDAD": "● 'Shield Warrior's' effect is a Quick Effect. Removing 'Shield Warrior' from play is a cost. This effect does not target.\n● You can't activate 'Shield Warrior's' effect if your monster would not be destroyed by the battle.\n● If a monster you control is forced to battle another monster you control by the effect of your opponent's 'Ancient Lamp', when you activate 'Shield Warrior's' effect during damage calculation, both of your monsters are not destroyed.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Shield Warrior\" is a Quick Effect. Removing \"Shield Warrior\" from play is a cost. This effect does not target.\\n2. You cannot activate the effect of \"Shield Warrior\" if your monster would not be destroyed by the battle.\\n3. If a monster you control is forced to battle another monster you control by the effect of your opponent's \"Ancient Lamp\", when you activate the effect of \"Shield Warrior\" during damage calculation, both of your monsters are not destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

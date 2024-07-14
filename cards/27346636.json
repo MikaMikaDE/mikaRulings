@@ -1,0 +1,44 @@
+{
+  "id": 27346636,
+  "name": "Gladiator Beast Heraklinos",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 3000,
+    "def": 2800,
+    "level": 8,
+    "race": "Beast-Warrior",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "● If this card was originally Special Summoned by its own procedure, it can still later be Summoned by card effects.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● See 'Gladiator Beast Alexander' for additional rulings.",
+    "TeleDAD": "● See 'Gladiator Beast Alexander' for additional rulings.",
+    "Gladiator": "● See 'Gladiator Beast Alexander' for additional rulings.",
+    "ReturnDAD": "● See 'Gladiator Beast Alexander' for additional rulings.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● See 'Gladiator Beast Alexander' for additional rulings.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. See \"Gladiator Beast Alexander\" for additional rulings."
+  },
+  "PSCT": {
+    "Tengu": "Gladiator Beast Laquari\" + 2 \"Gladiator Beast\" monsters\nⓈ Must first be Special Summoned (from your Extra Deck) \nby shuffling the above cards you control into the Deck (You don't use \"Polymerization\"). \n① If a Spell/Trap Card is activated (Quick): You can discard 1 card; \nnegate the activation, and if you do, destroy it. \n(This card must be face-up on the field to activate and resolve this effect).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

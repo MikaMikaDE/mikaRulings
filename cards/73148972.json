@@ -1,0 +1,40 @@
+{
+  "id": 73148972,
+  "name": "Ruthless Denial",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You must select 1 monster you control when you activate this card.\n●Sending the targeted monster to the GY is part of this card's effect. If that monster is removed from the field by an effect chained to Ruthless Denial, the effect to discard 1 card from your opponent's hand will not be applied.\n●If an effect chained to Ruthless Denial reduces the cards in your opponent's hand to 0, Ruthless Denial's effect cannot be applied, so you do not send the targeted monster to the GY.\n●Both cards are considered to be sent to the GY simulataneously.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You must select 1 monster you control when you activate this card.\n● Sending the targeted monster to the GY is part of this card's effect. If that monster leaves the field by an effect chained to 'Ruthless Denial', the effect to discard 1 card from your opponent's hand will not be applied.\n● If an effect chained to 'Ruthless Denial' reduces the cards in your opponent's hand to 0, 'Ruthless Denial's' effect can't be applied, so you do not send the targeted monster to the GY.\n● Both cards are considered to be sent to the GY simulataneously.",
+    "TeleDAD": "● You must select 1 monster you control when you activate this card.\n● Sending the targeted monster to the GY is part of this card's effect. If that monster leaves the field by an effect chained to 'Ruthless Denial', the effect to discard 1 card from your opponent's hand will not be applied.\n● If an effect chained to 'Ruthless Denial' reduces the cards in your opponent's hand to 0, 'Ruthless Denial's' effect can't be applied, so you do not send the targeted monster to the GY.\n● Both cards are considered to be sent to the GY simulataneously.",
+    "Gladiator": "● You must select 1 monster you control when you activate this card.\n● Sending the targeted monster to the GY is part of this card's effect. If that monster leaves the field by an effect chained to 'Ruthless Denial', the effect to discard 1 card from your opponent's hand will not be applied.\n● If an effect chained to 'Ruthless Denial' reduces the cards in your opponent's hand to 0, 'Ruthless Denial's' effect can't be applied, so you do not send the targeted monster to the GY.\n● Both cards are considered to be sent to the GY simulataneously.",
+    "ReturnDAD": "● You must select 1 monster you control when you activate this card.\n● Sending the targeted monster to the GY is part of this card's effect. If that monster leaves the field by an effect chained to 'Ruthless Denial', the effect to discard 1 card from your opponent's hand will not be applied.\n● If an effect chained to 'Ruthless Denial' reduces the cards in your opponent's hand to 0, 'Ruthless Denial's' effect can't be applied, so you do not send the targeted monster to the GY.\n● Both cards are considered to be sent to the GY simulataneously.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● You must select 1 monster you control when you activate this card.\n● Sending the targeted monster to the GY is part of this card's effect. If that monster leaves the field by an effect chained to 'Ruthless Denial', the effect to discard 1 card from your opponent's hand will not be applied.\n● If an effect chained to 'Ruthless Denial' reduces the cards in your opponent's hand to 0, 'Ruthless Denial's' effect can't be applied, so you do not send the targeted monster to the GY.\n● Both cards are considered to be sent to the GY simulataneously.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You must select 1 monster you control when you activate this card.\\n2. Sending the targeted monster to the GY is part of this card's effect. If that monster is removed from the field by an effect chained to \"Ruthless Denial\", the effect to discard 1 card from your opponent's hand will not be applied.\\n3. If an effect chained to \"Ruthless Denial\" reduces the cards in your opponent's hand to 0, the effect of \"Ruthless Denial\" cannot be applied, so you do not send the targeted monster to the GY.\\n4. Both cards are considered to be sent to the GY simulataneously."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

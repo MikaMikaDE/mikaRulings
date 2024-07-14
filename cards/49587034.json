@@ -1,0 +1,40 @@
+{
+  "id": 49587034,
+  "name": "Lightforce Sword",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you chain Lightforce Sword to your opponent's Ritual Spell Card and remove from play the only Ritual Monster they could Ritual Summon, the Ritual Spell Card's effect disappears.\n●If the Standby Phase of your opponent's 4th turn is skipped, the card remains removed from play face-down.\n●If your opponent adds 1 of your Spell Cards to their hand with Graverobber and it is removed from play with Lightforce Sword, during the Standby Phase of your opponent's 4th turn it is placed into your GY instead of your opponent's hand.",
+    "Goat": "●Lightforce Sword” does not remain on the field for the duration of its effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you chain 'Lightforce Sword' to your opponent's Ritual Spell Card and remove from play the only Ritual Monster they could Ritual Summon, the Ritual Spell Card's effect disappears.\n● If the Standby Phase of your opponent's 4th turn is skipped, the card remains removed from play face-down.\n● If your opponent adds 1 of your Spell Cards to their hand with 'Graverobber' and it is removed from play with 'Lightforce Sword', during the Standby Phase of your opponent's 4th turn it is placed into your GY instead of your opponent's hand.",
+    "TeleDAD": "● If you chain 'Lightforce Sword' to your opponent's Ritual Spell Card and remove from play the only Ritual Monster they could Ritual Summon, the Ritual Spell Card's effect disappears.\n● If the Standby Phase of your opponent's 4th turn is skipped, the card remains removed from play face-down.\n● If your opponent adds 1 of your Spell Cards to their hand with 'Graverobber' and it is removed from play with 'Lightforce Sword', during the Standby Phase of your opponent's 4th turn it is placed into your GY instead of your opponent's hand.",
+    "Gladiator": "● If you chain 'Lightforce Sword' to your opponent's Ritual Spell Card and remove from play the only Ritual Monster they could Ritual Summon, the Ritual Spell Card's effect disappears.\n● If the Standby Phase of your opponent's 4th turn is skipped, the card remains removed from play face-down.\n● If your opponent adds 1 of your Spell Cards to their hand with 'Graverobber' and it is removed from play with 'Lightforce Sword', during the Standby Phase of your opponent's 4th turn it is placed into your GY instead of your opponent's hand.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you chain \"Lightforce Sword\" to your opponent's Ritual Spell Card and remove from play the only Ritual Monster they could Ritual Summon, the Ritual Spell Card's effect disappears.\\n2. If the Standby Phase of your opponent's 4th turn is skipped, the card remains removed from play face-down.\\n3. If your opponent adds 1 of your Spell Cards to their hand with \"Graverobber\" and it is removed from play with \"Lightforce Sword\", during the Standby Phase of your opponent's 4th turn it is placed into your GY instead of your opponent's hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

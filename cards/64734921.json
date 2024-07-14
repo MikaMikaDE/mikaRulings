@@ -1,0 +1,44 @@
+{
+  "id": 64734921,
+  "name": "The Agent of Creation - Venus",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 0,
+    "level": 3,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can activate The Agent of Creation - Venus' effect multiple times in the same turn.\n●You get the Mystical Shine Ball when The Agent of Creation - Venus' effect resolves.\n●You have to shuffle your Deck after searching for the Mystical Shine Ball.\n●After Summoning The Agent of Creation - Venus, you can activate its effect before your opponent can activate Trap Hole.\n●You cannot activate The Agent of Creation - Venus' effect if there are no Mystical Shine Balls in your hand or Deck.",
+    "Goat": "●You can activate The Agent of Creation - Venus' effect multiple times in the same turn.\n●You get the Mystical Shine Ball when The Agent of Creation - Venus' effect resolves.\n●You have to shuffle your Deck after searching for the Mystical Shine Ball.\n●After Summoning The Agent of Creation - Venus, you can activate its effect before your opponent can activate Trap Hole.\n●You cannot activate The Agent of Creation - Venus' effect if there are no Mystical Shine Balls in your hand or Deck.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can activate 'The Agent of Creation - Venus'' effect multiple times in the same turn.\n● You get the 'Mystical Shine Ball' when 'The Agent of Creation - Venus'' effect resolves.\n● You have to shuffle your Deck after searching for the 'Mystical Shine Ball'.\n● After Summoning 'The Agent of Creation - Venus', you can activate its effect before your opponent can activate 'Trap Hole'.\n● You can't activate 'The Agent of Creation - Venus'' effect if there are no 'Mystical Shine Balls' in your hand or Deck.",
+    "TeleDAD": "● You can activate 'The Agent of Creation - Venus'' effect multiple times in the same turn.\n● You get the 'Mystical Shine Ball' when 'The Agent of Creation - Venus'' effect resolves.\n● You have to shuffle your Deck after searching for the 'Mystical Shine Ball'.\n● After Summoning 'The Agent of Creation - Venus', you can activate its effect before your opponent can activate 'Trap Hole'.\n● You can't activate 'The Agent of Creation - Venus'' effect if there are no 'Mystical Shine Balls' in your hand or Deck.",
+    "Gladiator": "● You can activate 'The Agent of Creation - Venus'' effect multiple times in the same turn.\n● You get the 'Mystical Shine Ball' when 'The Agent of Creation - Venus'' effect resolves.\n● You have to shuffle your Deck after searching for the 'Mystical Shine Ball'.\n● After Summoning 'The Agent of Creation - Venus', you can activate its effect before your opponent can activate 'Trap Hole'.\n● You can't activate 'The Agent of Creation - Venus'' effect if there are no 'Mystical Shine Balls' in your hand or Deck.",
+    "ReturnDAD": "● You can activate 'The Agent of Creation - Venus'' effect multiple times in the same turn.\n● You get the 'Mystical Shine Ball' when 'The Agent of Creation - Venus'' effect resolves.\n● You have to shuffle your Deck after searching for the 'Mystical Shine Ball'.\n● After Summoning 'The Agent of Creation - Venus', you can activate its effect before your opponent can activate 'Trap Hole'.\n● You can't activate 'The Agent of Creation - Venus'' effect if there are no 'Mystical Shine Balls' in your hand or Deck.",
+    "Trooper": "● You can activate 'The Agent of Creation - Venus'' effect multiple times in the same turn.\n● You get the 'Mystical Shine Ball' when 'The Agent of Creation - Venus'' effect resolves.\n● You have to shuffle your Deck after searching for the 'Mystical Shine Ball'.\n● After Summoning 'The Agent of Creation - Venus', you can activate its effect before your opponent can activate 'Trap Hole'.\n● You can't activate 'The Agent of Creation - Venus'' effect if there are no 'Mystical Shine Balls' in your hand or Deck.",
+    "Circle": "● You can activate 'The Agent of Creation - Venus'' effect multiple times in the same turn.\n● You get the 'Mystical Shine Ball' when 'The Agent of Creation - Venus'' effect resolves.\n● You have to shuffle your Deck after searching for the 'Mystical Shine Ball'.\n● After Summoning 'The Agent of Creation - Venus', you can activate its effect before your opponent can activate 'Trap Hole'.\n● You can't activate 'The Agent of Creation - Venus'' effect if there are no 'Mystical Shine Balls' in your hand or Deck.",
+    "Stein": "● You can activate 'The Agent of Creation - Venus'' effect multiple times in the same turn.\n● You get the 'Mystical Shine Ball' when 'The Agent of Creation - Venus'' effect resolves.\n● You have to shuffle your Deck after searching for the 'Mystical Shine Ball'.\n● After Summoning 'The Agent of Creation - Venus', you can activate its effect before your opponent can activate 'Trap Hole'.\n● You can't activate 'The Agent of Creation - Venus'' effect if there are no 'Mystical Shine Balls' in your hand or Deck.",
+    "Base": "1. You can activate the effect of \"The Agent of Creation - Venus\" multiple times in the same turn.\\n2. You get the \"Mystical Shine Ball\" when the effect of \"The Agent of Creation - Venus\" resolves.\\n3. You have to shuffle your Deck after searching for the \"Mystical Shine Ball\".\\n4. You cannot activate the effect of \"The Agent of Creation - Venus\" if there are no copies of \"Mystical Shine Ball\" in your hand or Deck."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

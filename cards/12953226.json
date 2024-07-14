@@ -1,0 +1,44 @@
+{
+  "id": 12953226,
+  "name": "Nuvia the Wicked",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2000,
+    "def": 800,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Light of Intervention is on the field this card cannot be Set and if Normal Summoned in face-up Defense Position it will be destroyed.",
+    "Goat": "●If Light of Intervention is on the field this card cannot be Set and if Normal Summoned in face-up Defense Position it will be destroyed. \n●Q: Would “Nuvia the Wicked” still be destroyed if Normal Summoned while “Skill Drain” is applying on the field and will it be destroyed once “Skill Drain” is removed from the field? \nA: Nuvia the Wicked would not be destroyed if Normal Summoned while Skill Drain is applying. When you Normal Summon Nuvia the Wicked its effect activates. If Skill Drain's effect is negated or Skill Drain is removed from the field before Nuvia the Wicked's effect resolves, Nuvia the Wicked would be destroyed when its effect resolves. Nuvia the Wicked's Normal Summon effect is a trigger, and as such it can be chained to. Skill Drain wont negate the activation of Nuvia the Wicked's effect but it will negate the effect when it resolves. So if the opponent were to chain Mystical Space Typhoon to the effect and destroy the Skill Drain, Nuvia the Wicked would be destroyed when the its effect resolves. If Nuvia the Wicked is on the field past its Normal Summon effect having resolved it will not matter if Skill Drain is destroyed. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Light of Intervention' is on the field this card can't be Set and if Normal Summoned in face-up Defense Position it will be destroyed.",
+    "TeleDAD": "● If 'Light of Intervention' is on the field this card can't be Set and if Normal Summoned in face-up Defense Position it will be destroyed.",
+    "Gladiator": "● If 'Light of Intervention' is on the field this card can't be Set and if Normal Summoned in face-up Defense Position it will be destroyed.",
+    "ReturnDAD": "● If 'Light of Intervention' is on the field this card can't be Set and if Normal Summoned in face-up Defense Position it will be destroyed.",
+    "Trooper": "● If 'Light of Intervention' is on the field this card can't be Set and if Normal Summoned in face-up Defense Position it will be destroyed.",
+    "Circle": "● If 'Light of Intervention' is on the field this card can't be Set and if Normal Summoned in face-up Defense Position it will be destroyed.",
+    "Stein": "● If 'Light of Intervention' is on the field this card can't be Set and if Normal Summoned in face-up Defense Position it will be destroyed.",
+    "Base": "1. If \"Light of Intervention\" is on the field this card cannot be Set and if Normal Summoned in face-up Defense Position it will be destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

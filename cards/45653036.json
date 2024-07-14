@@ -1,0 +1,40 @@
+{
+  "id": 45653036,
+  "name": "Rain Storm",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Rain Storm” targets the selected face-up “Cloudian” monster.\n●You select which of “Rain Storm’s” effects to apply when resolving “Rain Storm”.\n●The ATK of the selected “Cloudian” monster remains decreased as long the “Cloudian” monster remains face-up on the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Rain Storm” targets the selected face-up “Cloudian” monster.\n● You select which of “Rain Storm’s” effects to apply when resolving “Rain Storm”.\n● The ATK of the selected “Cloudian” monster remains decreased as long the “Cloudian” monster remains applying.",
+    "TeleDAD": "● The effect of “Rain Storm” targets the selected face-up “Cloudian” monster.\n● You select which of “Rain Storm’s” effects to apply when resolving “Rain Storm”.\n● The ATK of the selected “Cloudian” monster remains decreased as long the “Cloudian” monster remains applying.",
+    "Gladiator": "● The effect of “Rain Storm” targets the selected face-up “Cloudian” monster.\n● You select which of “Rain Storm’s” effects to apply when resolving “Rain Storm”.\n● The ATK of the selected “Cloudian” monster remains decreased as long the “Cloudian” monster remains applying.",
+    "ReturnDAD": "● The effect of “Rain Storm” targets the selected face-up “Cloudian” monster.\n● You select which of “Rain Storm’s” effects to apply when resolving “Rain Storm”.\n● The ATK of the selected “Cloudian” monster remains decreased as long the “Cloudian” monster remains applying.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● The effect of “Rain Storm” targets the selected face-up “Cloudian” monster.\n● You select which of “Rain Storm’s” effects to apply when resolving “Rain Storm”.\n● The ATK of the selected “Cloudian” monster remains decreased as long the “Cloudian” monster remains applying.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Rain Storm\" targets the selected face-up 'Cloudian' monster.\\n2. You select which of the effects of \"Rain Storm\" to apply when resolving \"Rain Storm\".\\n3. The ATK of the selected 'Cloudian' monster remains decreased as long the 'Cloudian' monster remains face-up on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

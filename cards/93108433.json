@@ -1,0 +1,40 @@
+{
+  "id": 93108433,
+  "name": "Monster Recovery",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you select a Fusion Monster or Synchro Monster, it returns to its owner's Extra Deck.\n●If you select your opponent's monster that you currently control, it is returned to your opponent's Deck.\n●You can select a Monster Token. It is removed from the field instead, because it cannot be shuffled into the Deck.",
+    "Goat": "“Monster Recovery” may be activated on a Token.\n● “Monster Recovery” may not be activated in the Damage Step.\n●If “Monster Recovery” is activated on an opponent’s monster that the player controls, that monster will return to the opponent’s Deck and the opponent will shuffle, but not draw. \n●If “Monster Recovery” is activated on an opponent’s monster that the player controls, the player who activated “Monster Recovery” will still return their hand to the Deck and draw the appropriate number of cards.\n●Q: What would happen if I attacked my opponents “Gemini Elf” with my “Jinzo,” and they flipped “Monster Recovery?” Would they still lose LP? Or would the attack be negated? \nA: A replay would be triggered, and “Jinzo” is able to choose a new attack target, or attack directly if your opponent has no other monsters on the field. The original attack against “Gemini Elf” is treated as if it never happened, and the Damage Step was never reached, so no damage occurred from that first declared attack against “Gemini Elf.” \n●Steve Okegawa,  \n●Q: Can you use “Monster Recovery” on a Sheep Token? \nA: You may use Monster Recovery on a Sheep Token (or any other kind of Token for that matter). ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you select a Fusion Monster or Synchro Monster, it returns to its owner's Extra Deck.\n● If you select your opponent's monster that you currently control, it is returned to your opponent's Deck.\n● You can select a Monster Token. It leaves the field instead, because it can't be shuffled into the Deck.",
+    "TeleDAD": "● If you select a Fusion Monster or Synchro Monster, it returns to its owner's Extra Deck.\n● If you select your opponent's monster that you currently control, it is returned to your opponent's Deck.\n● You can select a Monster Token. It leaves the field instead, because it can't be shuffled into the Deck.",
+    "Gladiator": "● If you select a Fusion Monster, it returns to its owner's Fusion Deck.\n● If you select your opponent's monster that you currently control, it is returned to your opponent's Deck.\n● You can select a Monster Token. It leaves the field instead, because it can't be shuffled into the Deck.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you select a Fusion Monster or Synchro Monster, it returns to its owner's Extra Deck.\\n2. You can select a Monster Token. It is removed from the field instead, because it cannot be shuffled into the Deck."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

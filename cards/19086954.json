@@ -1,0 +1,44 @@
+{
+  "id": 19086954,
+  "name": "Second Goblin",
+  "Stats": {
+    "type": "Union Effect Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "(1) Once per turn, you can equip this card to an Indomitable Fighter Lei Lei you control, OR unequip it to Special Summon this card in face-up Attack Position. (2) When equipped to a monster by this card's effect, you can change that monster's battle position once per turn. (C) (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)\n●The effect of changing a monster's Battle Position can only be used once per turn.",
+    "Goat": "●The effect of changing a monster's Battle Position can only be used once per turn.A “Giant Orc” equipped with “Second Goblin” may be changed to attack position after being changed to defense position through its effect, as long as “Second Goblin’s” effect has not been used.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of changing a monster's Battle Position can only be used once per turn.",
+    "TeleDAD": "● The effect of changing a monster's Battle Position can only be used once per turn.",
+    "Gladiator": "● The effect of changing a monster's Battle Position can only be used once per turn.",
+    "ReturnDAD": "● The effect of changing a monster's Battle Position can only be used once per turn.",
+    "Trooper": "● The effect of changing a monster's Battle Position can only be used once per turn.",
+    "Circle": "● The effect of changing a monster's Battle Position can only be used once per turn.",
+    "Stein": "● The effect of changing a monster's Battle Position can only be used once per turn.",
+    "Base": "1. The effect of changing a monster's Battle Position can only be used once per turn."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

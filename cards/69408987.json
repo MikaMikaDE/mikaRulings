@@ -1,0 +1,40 @@
+{
+  "id": 69408987,
+  "name": "Spider Web",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Field"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effects of this card do not start a Chain. They apply to both players’ monsters.\n●If “Total Defense Shogun” attacks while in Defense Position, the effect of “Spider Web” is not applied.\n●If a monster affected by “Spider Web” is flipped face-down, the effect of “Spider Web” is no longer applied to it.\n●If “Spider Web” is negated by “Seal of Wickedness,” monsters affected by “Spider Web” can change their Battle Positions.\n●If “Seal of Wickedness” is destroyed, monsters affected by “Spider Web” will not be able to change Battle Positions.\n●If “Spider Web” is removed from the field, monsters affected by it can change Battle Positions.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effects of this card do not start a Chain. They apply to both players' monsters.\\n2. If \"Total Defense Shogun\" attacks while in Defense Position, the effect of \"Spider Web\" is not applied.\\n3. If a monster affected by \"Spider Web\" is flipped face-down, the effect of \"Spider Web\" is no longer applied to it.\\n4. If \"Spider Web\" is negated by \"Seal of Wickedness\", monsters affected by \"Spider Web\" can change their Battle Positions.\\n5. If \"Seal of Wickedness\" is destroyed, monsters affected by \"Spider Web\" will not be able to change Battle Positions.\\n6. If \"Spider Web\" is removed from the field, monsters affected by it can change Battle Positions."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

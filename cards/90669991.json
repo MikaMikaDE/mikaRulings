@@ -1,0 +1,40 @@
+{
+  "id": 90669991,
+  "name": "Pineapple Blast",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●When Ring of Destruction or Call of the Haunted is chained to Pineapple Blast, and the number of monsters on the field is changed, count the number of monsters at resolution of Pineapple Blast's effect, not at activation.\n●If, when Pineapple Blast resolves, you have no monsters, all of your opponent's monsters are destroyed too.\n●If you Summon a monster and want to activate Pineapple Blast, and your opponent wants to use Trap Hole, Pineapple Blast is Step 1 of the chain and Trap Hole is Step 2.",
+    "Goat": "●When Ring of Destruction or Call of the Haunted is chained to Pineapple Blast, and the number of monsters on the field is changed, count the number of monsters at resolution of Pineapple Blast's effect, not at activation.\n●If, when Pineapple Blast resolves, you have no monsters, all of your opponent's monsters are destroyed too.\n●If you Summon a monster and want to activate Pineapple Blast, and your opponent wants to use Trap Hole, Pineapple Blast is Step 1 of the chain and Trap Hole is Step 2.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Ring of Destruction' or 'Call of the Haunted' is chained to 'Pineapple Blast', and the number of monsters on the field is changed, count the number of monsters at resolution of 'Pineapple Blast''s effect, not at activation.\n● If, when 'Pineapple Blast' resolves, you have no monsters, all of your opponent's monsters are destroyed too.\n● If you Summon a monster and want to activate 'Pineapple Blast', and your opponent wants to use 'Trap Hole', 'Pineapple Blast' is Step 1 of the chain and 'Trap Hole' is Step 2.",
+    "TeleDAD": "● When 'Ring of Destruction' or 'Call of the Haunted' is chained to 'Pineapple Blast', and the number of monsters on the field is changed, count the number of monsters at resolution of 'Pineapple Blast''s effect, not at activation.\n● If, when 'Pineapple Blast' resolves, you have no monsters, all of your opponent's monsters are destroyed too.\n● If you Summon a monster and want to activate 'Pineapple Blast', and your opponent wants to use 'Trap Hole', 'Pineapple Blast' is Step 1 of the chain and 'Trap Hole' is Step 2.",
+    "Gladiator": "● When 'Ring of Destruction' or 'Call of the Haunted' is chained to 'Pineapple Blast', and the number of monsters on the field is changed, count the number of monsters at resolution of 'Pineapple Blast''s effect, not at activation.\n● If, when 'Pineapple Blast' resolves, you have no monsters, all of your opponent's monsters are destroyed too.\n● If you Summon a monster and want to activate 'Pineapple Blast', and your opponent wants to use 'Trap Hole', 'Pineapple Blast' is Step 1 of the chain and 'Trap Hole' is Step 2.",
+    "ReturnDAD": "● When 'Ring of Destruction' or 'Call of the Haunted' is chained to 'Pineapple Blast', and the number of monsters on the field is changed, count the number of monsters at resolution of 'Pineapple Blast''s effect, not at activation.\n● If, when 'Pineapple Blast' resolves, you have no monsters, all of your opponent's monsters are destroyed too.\n● If you Summon a monster and want to activate 'Pineapple Blast', and your opponent wants to use 'Trap Hole', 'Pineapple Blast' is Step 1 of the chain and 'Trap Hole' is Step 2.",
+    "Trooper": "● When 'Ring of Destruction' or 'Call of the Haunted' is chained to 'Pineapple Blast', and the number of monsters on the field is changed, count the number of monsters at resolution of 'Pineapple Blast''s effect, not at activation.\n● If, when 'Pineapple Blast' resolves, you have no monsters, all of your opponent's monsters are destroyed too.\n● If you Summon a monster and want to activate 'Pineapple Blast', and your opponent wants to use 'Trap Hole', 'Pineapple Blast' is Step 1 of the chain and 'Trap Hole' is Step 2.",
+    "Circle": "● When 'Ring of Destruction' or 'Call of the Haunted' is chained to 'Pineapple Blast', and the number of monsters on the field is changed, count the number of monsters at resolution of 'Pineapple Blast''s effect, not at activation.\n● If, when 'Pineapple Blast' resolves, you have no monsters, all of your opponent's monsters are destroyed too.\n● If you Summon a monster and want to activate 'Pineapple Blast', and your opponent wants to use 'Trap Hole', 'Pineapple Blast' is Step 1 of the chain and 'Trap Hole' is Step 2.",
+    "Stein": "● When 'Ring of Destruction' or 'Call of the Haunted' is chained to 'Pineapple Blast', and the number of monsters on the field is changed, count the number of monsters at resolution of 'Pineapple Blast''s effect, not at activation.\n● If, when 'Pineapple Blast' resolves, you have no monsters, all of your opponent's monsters are destroyed too.\n● If you Summon a monster and want to activate 'Pineapple Blast', and your opponent wants to use 'Trap Hole', 'Pineapple Blast' is Step 1 of the chain and 'Trap Hole' is Step 2.",
+    "Base": "1. When \"Ring of Destruction\" or \"Call of the Haunted\" is chained to \"Pineapple Blast\", and the number of monsters on the field is changed, count the number of monsters at resolution of the effect of \"Pineapple Blast\", not at activation.\\n2. If, when \"Pineapple Blast\" resolves, you have no monsters, all of your opponent's monsters are destroyed too.\\n3. If you Summon a monster and want to activate \"Pineapple Blast\", and your opponent wants to use \"Trap Hole\", \"Pineapple Blast\" is Step 1 of the chain and \"Trap Hole\" is Step 2."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

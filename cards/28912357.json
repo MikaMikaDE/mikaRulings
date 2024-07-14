@@ -1,0 +1,44 @@
+{
+  "id": 28912357,
+  "name": "Gear Gigant X",
+  "Stats": {
+    "type": "XYZ Monster",
+    "frameType": "xyz",
+    "atk": 2300,
+    "def": 1500,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● This card's ② effect can miss the timing.\n● If this card returns from the field to the Extra Deck, its ② still Triggers.",
+    "Vegas": "● This card's ② effect can miss the timing.\n● If this card returns from the field to the Extra Deck, its ② still Triggers.",
+    "Meadowlands": "● This card's ② effect can miss the timing.\n● If this card returns from the field to the Extra Deck, its ② still Triggers.",
+    "FireWater": "● This card's ② effect can miss the timing.\n● If this card returns from the field to the Extra Deck, its ② still Triggers.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "2 Level 4 Machines\n① Once per turn: You can detach 1 Material from this card; add 1 Level 4 or lower Machine from your Deck/GY to your hand. \n② When this face-up card leaves the field: You can target 1 Level 3 or lower \"Geargia\" monster in your GY; Special Summon that target.",
+    "Meadowlands": "2 Level 4 Machines\n① Once per turn: You can detach 1 Material from this card; add 1 Level 4 or lower Machine from your Deck/GY to your hand. \n② When this face-up card leaves the field: You can target 1 Level 3 or lower \"Geargia\" monster in your GY; Special Summon that target.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

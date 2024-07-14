@@ -1,0 +1,44 @@
+{
+  "id": 75487237,
+  "name": "Mid Shield Gardna",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 1800,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●The first effect of “Mid-Shield Gardna” is an Ignition Effect. The second is a Trigger Effect. You can chain to these effects. You can activate “Divine Wrath” against these effects.",
+    "Goat": "●The first effect of “Mid-Shield Gardna” is an Ignition Effect. The second is a Trigger Effect. You can chain to these effects. You can activate “Divine Wrath” against these effects.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The first effect of “Mid-Shield Gardna” is an Ignition Effect. The second is a Trigger Effect. You can chain to these effects. You can activate “Divine Wrath” against these effects.",
+    "TeleDAD": "● The first effect of “Mid-Shield Gardna” is an Ignition Effect. The second is a Trigger Effect. You can chain to these effects. You can activate “Divine Wrath” against these effects.",
+    "Gladiator": "● The first effect of “Mid-Shield Gardna” is an Ignition Effect. The second is a Trigger Effect. You can chain to these effects. You can activate “Divine Wrath” against these effects.",
+    "ReturnDAD": "● The first effect of “Mid-Shield Gardna” is an Ignition Effect. The second is a Trigger Effect. You can chain to these effects. You can activate “Divine Wrath” against these effects.",
+    "Trooper": "● The first effect of “Mid-Shield Gardna” is an Ignition Effect. The second is a Trigger Effect. You can chain to these effects. You can activate “Divine Wrath” against these effects.",
+    "Circle": "● The first effect of “Mid-Shield Gardna” is an Ignition Effect. The second is a Trigger Effect. You can chain to these effects. You can activate “Divine Wrath” against these effects.",
+    "Stein": "● The first effect of “Mid-Shield Gardna” is an Ignition Effect. The second is a Trigger Effect. You can chain to these effects. You can activate “Divine Wrath” against these effects.",
+    "Base": "1. The first effect of \"Mid-Shield Gardna\" is an Ignition Effect. The second is a Trigger Effect. You can chain to these effects. You can activate \"Divine Wrath\" against these effects."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

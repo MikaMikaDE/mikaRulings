@@ -1,0 +1,44 @@
+{
+  "id": 97904474,
+  "name": "Handcuffs Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 1800,
+    "level": 5,
+    "race": "Dragon",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●Handcuffs Dragon’s effect does not target when it is activated. However, while equipped to a monster it targets the equipped monster.\n●If Handcuffs Dragon becomes equipped to a monster with its effect, Tailor of the Fickle cannot be used to equip it to another monster.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Handcuffs Dragon’s' effect does not target when it is activated. However, while equipped to a monster it targets the equipped monster.\n● If 'Handcuffs Dragon' becomes equipped to a monster with its effect, 'Tailor of the Fickle' can't be used to equip it to another monster.",
+    "TeleDAD": "● 'Handcuffs Dragon’s' effect does not target when it is activated. However, while equipped to a monster it targets the equipped monster.\n● If 'Handcuffs Dragon' becomes equipped to a monster with its effect, 'Tailor of the Fickle' can't be used to equip it to another monster.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Handcuffs Dragon\" does not target when it is activated. However, while equipped to a monster it targets the equipped monster.\\n2. If \"Handcuffs Dragon\" becomes equipped to a monster with its effect, \"Tailor of the Fickle\" cannot be used to equip it to another monster."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

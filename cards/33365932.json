@@ -1,0 +1,44 @@
+{
+  "id": 33365932,
+  "name": "Volcanic Shell",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 0,
+    "level": 1,
+    "race": "Pyro",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "● If this card leaves the GY before this effect finishes resolving, no card is searched.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If this card is removed from the GY after activating its effect, and return to the GY during the same turn, its effect can be activated again.\n● You can't activate this card’s effect if you have no “Volcanic Shells” in your Deck.",
+    "TeleDAD": "● If this card is removed from the GY after activating its effect, and return to the GY during the same turn, its effect can be activated again.\n● You can't activate this card’s effect if you have no “Volcanic Shells” in your Deck.",
+    "Gladiator": "● If this card is removed from the GY after activating its effect, and return to the GY during the same turn, its effect can be activated again.\n● You can't activate this card’s effect if you have no “Volcanic Shells” in your Deck.",
+    "ReturnDAD": "● If this card is removed from the GY after activating its effect, and return to the GY during the same turn, its effect can be activated again.\n● You can't activate this card’s effect if you have no “Volcanic Shells” in your Deck.",
+    "Trooper": "● If this card is removed from the GY after activating its effect, and return to the GY during the same turn, its effect can be activated again.\n● You can't activate this card’s effect if you have no “Volcanic Shells” in your Deck.",
+    "Circle": "● If this card is removed from the GY after activating its effect, and return to the GY during the same turn, its effect can be activated again.\n● You can't activate this card’s effect if you have no “Volcanic Shells” in your Deck.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If this card is removed from the GY after activating its effect, and return to the GY during the same turn, its effect can be activated again.\\n2. You cannot activate this card's effect if you have no copies of \"Volcanic Shell\" in your Deck."
+  },
+  "PSCT": {
+    "Tengu": "① Once per turn: You can pay 500 LP; add 1 \"Volcanic Shell\" from your Deck to your hand. \n(Activate and to resolve only if this card is in the GY).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

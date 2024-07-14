@@ -1,0 +1,44 @@
+{
+  "id": 52035300,
+  "name": "The Immortal Bushi",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 600,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●The Immortal Bushi's second effect is an Ignition Effect you activate during your Standby Phase.\n●If an effect chained to The Immortal Bushi's effect places a monster(s) onto your side of the field, The Immortal Bushi's effect disappears.\n●If an effect chained to The Immortal Bushi's effect removes The Immortal Bushi from play, its effect disappears.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'The Immortal Bushi's' second effect is an Ignition Effect you activate during your Standby Phase.\n● If an effect chained to 'The Immortal Bushi's' effect places a monster(s) onto your side of the field, 'The Immortal Bushi's' effect disappears.\n● If an effect chained to 'The Immortal Bushi's' effect removes 'The Immortal Bushi' from play, its effect disappears.",
+    "TeleDAD": "● 'The Immortal Bushi's' second effect is an Ignition Effect you activate during your Standby Phase.\n● If an effect chained to 'The Immortal Bushi's' effect places a monster(s) onto your side of the field, 'The Immortal Bushi's' effect disappears.\n● If an effect chained to 'The Immortal Bushi's' effect removes 'The Immortal Bushi' from play, its effect disappears.",
+    "Gladiator": "● 'The Immortal Bushi's' second effect is an Ignition Effect you activate during your Standby Phase.\n● If an effect chained to 'The Immortal Bushi's' effect places a monster(s) onto your side of the field, 'The Immortal Bushi's' effect disappears.\n● If an effect chained to 'The Immortal Bushi's' effect removes 'The Immortal Bushi' from play, its effect disappears.",
+    "ReturnDAD": "● 'The Immortal Bushi's' second effect is an Ignition Effect you activate during your Standby Phase.\n● If an effect chained to 'The Immortal Bushi's' effect places a monster(s) onto your side of the field, 'The Immortal Bushi's' effect disappears.\n● If an effect chained to 'The Immortal Bushi's' effect removes 'The Immortal Bushi' from play, its effect disappears.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The second effect of \"The Immortal Bushi\" is an Ignition Effect you activate during your Standby Phase.\n\\n2. If an effect chained to the effect of \"The Immortal Bushi\" places a monster(s) onto your side of the field, the effect of \"The Immortal Bushi\" disappears.\n\\n\n\\n3. If an effect chained to the effect of \"The Immortal Bushi\" removes \"The Immortal Bushi\" from play, its effect disappears."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

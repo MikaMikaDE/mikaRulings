@@ -1,0 +1,44 @@
+{
+  "id": 10456559,
+  "name": "T.A.D.P.O.L.E.",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you choose to activate the effect of “T.A.D.P.O.L.E.”, it can be chained to. If you activate the effect, you must add “T.A.D.P.O.L.E.(s)” to your hand.",
+    "Goat": "●If you choose to activate the effect of “T.A.D.P.O.L.E.”, it can be chained to. If you activate the effect, you must add “T.A.D.P.O.L.E.(s)” to your hand.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you choose to activate the effect of “T.A.D.P.O.L.E.”, it can be chained to. If you activate the effect, you must add “T.A.D.P.O.L.E.(s)” to your hand.",
+    "TeleDAD": "● If you choose to activate the effect of “T.A.D.P.O.L.E.”, it can be chained to. If you activate the effect, you must add “T.A.D.P.O.L.E.(s)” to your hand.",
+    "Gladiator": "● If you choose to activate the effect of “T.A.D.P.O.L.E.”, it can be chained to. If you activate the effect, you must add “T.A.D.P.O.L.E.(s)” to your hand.",
+    "ReturnDAD": "● If you choose to activate the effect of “T.A.D.P.O.L.E.”, it can be chained to. If you activate the effect, you must add “T.A.D.P.O.L.E.(s)” to your hand.",
+    "Trooper": "● If you choose to activate the effect of “T.A.D.P.O.L.E.”, it can be chained to. If you activate the effect, you must add “T.A.D.P.O.L.E.(s)” to your hand.",
+    "Circle": "● If you choose to activate the effect of “T.A.D.P.O.L.E.”, it can be chained to. If you activate the effect, you must add “T.A.D.P.O.L.E.(s)” to your hand.",
+    "Stein": "● If you choose to activate the effect of “T.A.D.P.O.L.E.”, it can be chained to. If you activate the effect, you must add “T.A.D.P.O.L.E.(s)” to your hand.",
+    "Base": "1. If you choose to activate the effect of \"T.A.D.P.O.L.E.\", it can be chained to. If you activate the effect, you must add \"T.A.D.P.O.L.E.\"(s) to your hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

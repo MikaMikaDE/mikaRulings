@@ -1,0 +1,44 @@
+{
+  "id": 74371660,
+  "name": "Mermail Abyssgaios",
+  "Stats": {
+    "type": "XYZ Monster",
+    "frameType": "xyz",
+    "atk": 2800,
+    "def": 1600,
+    "level": 7,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "The ② cannot be activated in the damage step.",
+    "Vegas": "The ② cannot be activated in the damage step.",
+    "Meadowlands": "The ② cannot be activated in the damage step.",
+    "FireWater": "The ② cannot be activated in the damage step.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "2 Level 7 WATERs\n① While this card has Material, Level 5 and higher monsters can't attack. \n② Once per turn (Quick): You can detach 1 Material from this card; \nthis turn, negate the effects of all face-up monsters your opponent currently controls that have less ATK than this card.",
+    "Meadowlands": "2 Level 7 WATERs\n① While this card has Material, Level 5 and higher monsters can't attack. \n② Once per turn (Quick): You can detach 1 Material from this card; \nthis turn, negate the effects of all face-up monsters your opponent currently controls that have less ATK than this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

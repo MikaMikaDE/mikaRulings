@@ -1,0 +1,40 @@
+{
+  "id": 88279736,
+  "name": "Robbin' Goblin",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.\n●This is a mandatory effect. It activates even if your opponent has no cards in hand.\n●This effect will not activate if you inflict 0 Battle Damage.\n●This effect activates in Substep 5 - After Damage Calculation (like Don Zaloog).",
+    "Goat": "●If you have Robbin’ Goblin on the field and attack with Kycoo the Ghost Destroyer or The Bistro Butcher both effects activate simultaneously. Since you control both effects you can choose the order that they go on a Chain, so you can have the opponent draw due to the effect of The Bistro Butcher and then discard for the effect of Robbin’ Goblin.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you have 'Robbin’ Goblin' on the field and attack with 'Kycoo the Ghost Destroyer' or 'The Bistro Butcher' both effects activate simultaneously.When attacking with 'The Bistro Butcher' you can choose the order that they go on a Chain, so you can have the opponent draw due to the effect of 'The Bistro Butcher' and then discard for the effect of 'Robbin’ Goblin'. When attacking with 'Kycoo the Ghost Destroyer', since its effect is optional, the effect of 'Robbin' Goblin' will Step 1 of the chain, and the effect of 'Kycoo the Ghost Destroyer' will be Step 2.",
+    "TeleDAD": "● If you have 'Robbin’ Goblin' on the field and attack with 'Kycoo the Ghost Destroyer' or 'The Bistro Butcher' both effects activate simultaneously.When attacking with 'The Bistro Butcher' you can choose the order that they go on a Chain, so you can have the opponent draw due to the effect of 'The Bistro Butcher' and then discard for the effect of 'Robbin’ Goblin'. When attacking with 'Kycoo the Ghost Destroyer', since its effect is optional, the effect of 'Robbin' Goblin' will Step 1 of the chain, and the effect of 'Kycoo the Ghost Destroyer' will be Step 2.",
+    "Gladiator": "● If you have 'Robbin’ Goblin' on the field and attack with 'Kycoo the Ghost Destroyer' or 'The Bistro Butcher' both effects activate simultaneously.When attacking with 'The Bistro Butcher' you can choose the order that they go on a Chain, so you can have the opponent draw due to the effect of 'The Bistro Butcher' and then discard for the effect of 'Robbin’ Goblin'. When attacking with 'Kycoo the Ghost Destroyer', since its effect is optional, the effect of 'Robbin' Goblin' will Step 1 of the chain, and the effect of 'Kycoo the Ghost Destroyer' will be Step 2.",
+    "ReturnDAD": "● If you have 'Robbin’ Goblin' on the field and attack with 'Kycoo the Ghost Destroyer' or 'The Bistro Butcher' both effects activate simultaneously.When attacking with 'The Bistro Butcher' you can choose the order that they go on a Chain, so you can have the opponent draw due to the effect of 'The Bistro Butcher' and then discard for the effect of 'Robbin’ Goblin'. When attacking with 'Kycoo the Ghost Destroyer', since its effect is optional, the effect of 'Robbin' Goblin' will Step 1 of the chain, and the effect of 'Kycoo the Ghost Destroyer' will be Step 2.",
+    "Trooper": "● If you have 'Robbin’ Goblin' on the field and attack with 'Kycoo the Ghost Destroyer' or 'The Bistro Butcher' both effects activate simultaneously.When attacking with 'The Bistro Butcher' you can choose the order that they go on a Chain, so you can have the opponent draw due to the effect of 'The Bistro Butcher' and then discard for the effect of 'Robbin’ Goblin'. When attacking with 'Kycoo the Ghost Destroyer', since its effect is optional, the effect of 'Robbin' Goblin' will Step 1 of the chain, and the effect of 'Kycoo the Ghost Destroyer' will be Step 2.",
+    "Circle": "● If you have 'Robbin’ Goblin' on the field and attack with 'Kycoo the Ghost Destroyer' or 'The Bistro Butcher' both effects activate simultaneously.When attacking with 'The Bistro Butcher' you can choose the order that they go on a Chain, so you can have the opponent draw due to the effect of 'The Bistro Butcher' and then discard for the effect of 'Robbin’ Goblin'. When attacking with 'Kycoo the Ghost Destroyer', since its effect is optional, the effect of 'Robbin' Goblin' will Step 1 of the chain, and the effect of 'Kycoo the Ghost Destroyer' will be Step 2.",
+    "Stein": "● If you have 'Robbin’ Goblin' on the field and attack with 'Kycoo the Ghost Destroyer' or 'The Bistro Butcher' both effects activate simultaneously.When attacking with 'The Bistro Butcher' you can choose the order that they go on a Chain, so you can have the opponent draw due to the effect of 'The Bistro Butcher' and then discard for the effect of 'Robbin’ Goblin'. When attacking with 'Kycoo the Ghost Destroyer', since its effect is optional, the effect of 'Robbin' Goblin' will Step 1 of the chain, and the effect of 'Kycoo the Ghost Destroyer' will be Step 2.",
+    "Base": "1. If you have \"Robbin' Goblin\" on the field and attack with \"Kycoo the Ghost Destroyer\" or \"The Bistro Butcher\" both effects activate simultaneously. When attacking with \"The Bistro Butcher\" you can choose the order that they go on a Chain, so you can have the opponent draw due to the effect of \"The Bistro Butcher\" and then discard for the effect of \"Robbin' Goblin\". When attacking with \"Kycoo the Ghost Destroyer\", since its effect is optional, the effect of \"Robbin' Goblin\" will Step 1 of the chain, and the effect of \"Kycoo the Ghost Destroyer\" will be Step 2.\\n2. [FORUM] If a direct attack is declared by the controller of \"Robbin' Goblin\" and the opponent has \"Gorz the Emissary of Darkness\" in hand, the effect of \"Robbin' Goblin\" will be Chain link 1 and the effect of \"Gorz the Emissary of Darkness\" will be Chain link 2. The mandatory effect of the turn player will be placed on the Chain first, followed by the option trigger effect of the opponent."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

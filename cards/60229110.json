@@ -1,0 +1,44 @@
+{
+  "id": 60229110,
+  "name": "Granmarg the Rock Monarch",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 1000,
+    "level": 6,
+    "race": "Rock",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "● If this effect targets a Set Spell/Trap, and that card is chained to this effect, it is not destroyed.",
+    "Goat": "●As with most targeting effects that have specific conditions, if the targeted card is flipped face-up in a chain (for example, if it is a monster and “Ceasefire” is activated, or if it is a Trap Card and is chained to the effect of “Granmarg the Rock Monarch”), then the effect of “Granmarg the Rock Monarch” disappears.\n●The effect of “Granmarg the Rock Monarch” is an effect that targets. You select the targets when you activate the effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● As with most targeting effects that have specific conditions, if the targeted card is flipped face-up in a chain (for example, if it is a monster and “Ceasefire” is activated, or if it is a Trap Card and is chained to the effect of “Granmarg the Rock Monarch”), then the effect of “Granmarg the Rock Monarch” disappears.\n● The effect of “Granmarg the Rock Monarch” is an effect that targets. You select the targets when you activate the effect.",
+    "TeleDAD": "● As with most targeting effects that have specific conditions, if the targeted card is flipped face-up in a chain (for example, if it is a monster and “Ceasefire” is activated, or if it is a Trap Card and is chained to the effect of “Granmarg the Rock Monarch”), then the effect of “Granmarg the Rock Monarch” disappears.\n● The effect of “Granmarg the Rock Monarch” is an effect that targets. You select the targets when you activate the effect.",
+    "Gladiator": "● As with most targeting effects that have specific conditions, if the targeted card is flipped face-up in a chain (for example, if it is a monster and “Ceasefire” is activated, or if it is a Trap Card and is chained to the effect of “Granmarg the Rock Monarch”), then the effect of “Granmarg the Rock Monarch” disappears.\n● The effect of “Granmarg the Rock Monarch” is an effect that targets. You select the targets when you activate the effect.",
+    "ReturnDAD": "● As with most targeting effects that have specific conditions, if the targeted card is flipped face-up in a chain (for example, if it is a monster and “Ceasefire” is activated, or if it is a Trap Card and is chained to the effect of “Granmarg the Rock Monarch”), then the effect of “Granmarg the Rock Monarch” disappears.\n● The effect of “Granmarg the Rock Monarch” is an effect that targets. You select the targets when you activate the effect.",
+    "Trooper": "● As with most targeting effects that have specific conditions, if the targeted card is flipped face-up in a chain (for example, if it is a monster and “Ceasefire” is activated, or if it is a Trap Card and is chained to the effect of “Granmarg the Rock Monarch”), then the effect of “Granmarg the Rock Monarch” disappears.\n● The effect of “Granmarg the Rock Monarch” is an effect that targets. You select the targets when you activate the effect.",
+    "Circle": "● As with most targeting effects that have specific conditions, if the targeted card is flipped face-up in a chain (for example, if it is a monster and “Ceasefire” is activated, or if it is a Trap Card and is chained to the effect of “Granmarg the Rock Monarch”), then the effect of “Granmarg the Rock Monarch” disappears.\n● The effect of “Granmarg the Rock Monarch” is an effect that targets. You select the targets when you activate the effect.",
+    "Stein": "● As with most targeting effects that have specific conditions, if the targeted card is flipped face-up in a chain (for example, if it is a monster and “Ceasefire” is activated, or if it is a Trap Card and is chained to the effect of “Granmarg the Rock Monarch”), then the effect of “Granmarg the Rock Monarch” disappears.\n● The effect of “Granmarg the Rock Monarch” is an effect that targets. You select the targets when you activate the effect.",
+    "Base": "1. As with most targeting effects that have specific conditions, if the targeted card is flipped face-up in a chain (for example, if it is a monster and \"Ceasefire\" is activated, or if it is a Trap Card and is chained to the effect of \"Granmarg the Rock Monarch\"), then the effect of \"Granmarg the Rock Monarch\" disappears.\\n2. The effect of \"Granmarg the Rock Monarch\" is an effect that targets. You select the targets when you activate the effect."
+  },
+  "PSCT": {
+    "Tengu": "① If Tribute Summoned: Target 1 Set card on the field; destroy that target.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

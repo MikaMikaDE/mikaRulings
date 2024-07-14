@@ -1,0 +1,40 @@
+{
+  "id": 33248692,
+  "name": "Option Hunter",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you send a monster to the GY for “Option Hunter” that has undetermined ATK, you gain 0 Life Points. (“King of the Skull Servants”, “Megarock Dragon”, “Maju Garzett”, etc.)\n●“Option Hunter” does not target.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you send a monster to the GY for “Option Hunter” that has undetermined ATK, you gain 0 LP. (“King of the Skull Servants”, “Megarock Dragon”, “Maju Garzett”, etc.)\n● “Option Hunter” does not target.",
+    "TeleDAD": "● If you send a monster to the GY for “Option Hunter” that has undetermined ATK, you gain 0 LP. (“King of the Skull Servants”, “Megarock Dragon”, “Maju Garzett”, etc.)\n● “Option Hunter” does not target.",
+    "Gladiator": "● If you send a monster to the GY for “Option Hunter” that has undetermined ATK, you gain 0 LP. (“King of the Skull Servants”, “Megarock Dragon”, “Maju Garzett”, etc.)\n● “Option Hunter” does not target.",
+    "ReturnDAD": "● If you send a monster to the GY for “Option Hunter” that has undetermined ATK, you gain 0 LP. (“King of the Skull Servants”, “Megarock Dragon”, “Maju Garzett”, etc.)\n● “Option Hunter” does not target.",
+    "Trooper": "● If you send a monster to the GY for “Option Hunter” that has undetermined ATK, you gain 0 LP. (“King of the Skull Servants”, “Megarock Dragon”, “Maju Garzett”, etc.)\n● “Option Hunter” does not target.",
+    "Circle": "● If you send a monster to the GY for “Option Hunter” that has undetermined ATK, you gain 0 LP. (“King of the Skull Servants”, “Megarock Dragon”, “Maju Garzett”, etc.)\n● “Option Hunter” does not target.",
+    "Stein": "● If you send a monster to the GY for “Option Hunter” that has undetermined ATK, you gain 0 LP. (“King of the Skull Servants”, “Megarock Dragon”, “Maju Garzett”, etc.)\n● “Option Hunter” does not target.",
+    "Base": "1. If you send a monster to the GY for \"Option Hunter\" that has undetermined ATK, you gain 0 Life Points. (\"King of the Skull Servants\", \"Megarock Dragon\", \"Maju Garzett\", etc.)\\n2. \"Option Hunter\" does not target."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

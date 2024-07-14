@@ -1,0 +1,40 @@
+{
+  "id": 71587526,
+  "name": "Karma Cut",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Discard 1 card. Remove from play 1 face-up monster your opponent controls. Then, remove from play any cards in your opponent's GY with the same name as that monster.\n●Discarding a card from your hand is a cost.\n●This card can be activated while your opponent controls Kycoo the Ghost Destroyer.\n●This effect targets 1 face-up monster your opponent controls.\n●If the target is flipped face-down, it is not removed from play, nor are any copies in their GY.\n●If you gain control of the target before this effect resolves, it is not removed from play.\n●If “Proto-Cyber Dragon” is removed from play, copies of “Cyber Dragon” are not affected.\n●“Harpie Lady”, “Harpie Lady 1”, “Harpie Lady 2”, “Harpie Lady 3”, or “Cyber Harpie Lady” have the same name in the GY. If one is removed from play, others in the GY are affected.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “Proto-Cyber Dragon” is removed from play by “Karma Cut”, only other “Proto-Cyber Dragon” cards will be removed from play. “Cyber Dragon” isn't affected.\n● If you target “Harpie Lady 1” with “Karma Cut”, any “Harpie Lady”, “Harpie Lady 1”, “Harpie Lady 2”, “Harpie Lady 3”, or “Cyber Harpie Lady” cards in the opponent’s GY will also be removed from play.\n● Discarding a card from your hand is a cost to activate “Karma Cut”.",
+    "TeleDAD": "● If “Proto-Cyber Dragon” is removed from play by “Karma Cut”, only other “Proto-Cyber Dragon” cards will be removed from play. “Cyber Dragon” isn't affected.\n● If you target “Harpie Lady 1” with “Karma Cut”, any “Harpie Lady”, “Harpie Lady 1”, “Harpie Lady 2”, “Harpie Lady 3”, or “Cyber Harpie Lady” cards in the opponent’s GY will also be removed from play.\n● Discarding a card from your hand is a cost to activate “Karma Cut”.",
+    "Gladiator": "● If “Proto-Cyber Dragon” is removed from play by “Karma Cut”, only other “Proto-Cyber Dragon” cards will be removed from play. “Cyber Dragon” isn't affected.\n● If you target “Harpie Lady 1” with “Karma Cut”, any “Harpie Lady”, “Harpie Lady 1”, “Harpie Lady 2”, “Harpie Lady 3”, or “Cyber Harpie Lady” cards in the opponent’s GY will also be removed from play.\n● Discarding a card from your hand is a cost to activate “Karma Cut”.",
+    "ReturnDAD": "● If “Proto-Cyber Dragon” is removed from play by “Karma Cut”, only other “Proto-Cyber Dragon” cards will be removed from play. “Cyber Dragon” isn't affected.\n● If you target “Harpie Lady 1” with “Karma Cut”, any “Harpie Lady”, “Harpie Lady 1”, “Harpie Lady 2”, “Harpie Lady 3”, or “Cyber Harpie Lady” cards in the opponent’s GY will also be removed from play.\n● Discarding a card from your hand is a cost to activate “Karma Cut”.",
+    "Trooper": "● If “Proto-Cyber Dragon” is removed from play by “Karma Cut”, only other “Proto-Cyber Dragon” cards will be removed from play. “Cyber Dragon” isn't affected.\n● If you target “Harpie Lady 1” with “Karma Cut”, any “Harpie Lady”, “Harpie Lady 1”, “Harpie Lady 2”, “Harpie Lady 3”, or “Cyber Harpie Lady” cards in the opponent’s GY will also be removed from play.\n● Discarding a card from your hand is a cost to activate “Karma Cut”.",
+    "Circle": "● If “Proto-Cyber Dragon” is removed from play by “Karma Cut”, only other “Proto-Cyber Dragon” cards will be removed from play. “Cyber Dragon” isn't affected.\n● If you target “Harpie Lady 1” with “Karma Cut”, any “Harpie Lady”, “Harpie Lady 1”, “Harpie Lady 2”, “Harpie Lady 3”, or “Cyber Harpie Lady” cards in the opponent’s GY will also be removed from play.\n● Discarding a card from your hand is a cost to activate “Karma Cut”.",
+    "Stein": "● If “Proto-Cyber Dragon” is removed from play by “Karma Cut”, only other “Proto-Cyber Dragon” cards will be removed from play. “Cyber Dragon” isn't affected.\n● If you target “Harpie Lady 1” with “Karma Cut”, any “Harpie Lady”, “Harpie Lady 1”, “Harpie Lady 2”, “Harpie Lady 3”, or “Cyber Harpie Lady” cards in the opponent’s GY will also be removed from play.\n● Discarding a card from your hand is a cost to activate “Karma Cut”.",
+    "Base": "1. If \"Proto-Cyber Dragon\" is removed from play by \"Karma Cut\", only other \"Proto-Cyber Dragon\" cards will be removed from play. \"Cyber Dragon\" is not affected.\\n2. If you target \"Harpie Lady 1\" with \"Karma Cut\", any \"Harpie Lady\", \"Harpie Lady 1\", \"Harpie Lady 2\", \"Harpie Lady 3\", or \"Cyber Harpie Lady\" cards in the opponent's GY will also be removed from play.\\n3. Discarding a card from your hand is a cost to activate \"Karma Cut\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

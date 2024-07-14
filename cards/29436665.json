@@ -1,0 +1,44 @@
+{
+  "id": 29436665,
+  "name": "Dark Eradicator Warlock",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2500,
+    "def": 2100,
+    "level": 7,
+    "race": "Spellcaster",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If a Normal Spell Card’s activation is negated (by “Magic Jammer” etc.), then no damage is dealt by “Dark Eradicator Warlock”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If a Normal Spell Card’s activation is negated (by “Magic Jammer” etc.), then no damage is dealt by “Dark Eradicator Warlock”.",
+    "TeleDAD": "● If a Normal Spell Card’s activation is negated (by “Magic Jammer” etc.), then no damage is dealt by “Dark Eradicator Warlock”.",
+    "Gladiator": "● If a Normal Spell Card’s activation is negated (by “Magic Jammer” etc.), then no damage is dealt by “Dark Eradicator Warlock”.",
+    "ReturnDAD": "● If a Normal Spell Card’s activation is negated (by “Magic Jammer” etc.), then no damage is dealt by “Dark Eradicator Warlock”.",
+    "Trooper": "● If a Normal Spell Card’s activation is negated (by “Magic Jammer” etc.), then no damage is dealt by “Dark Eradicator Warlock”.",
+    "Circle": "● If a Normal Spell Card’s activation is negated (by “Magic Jammer” etc.), then no damage is dealt by “Dark Eradicator Warlock”.",
+    "Stein": "● If a Normal Spell Card’s activation is negated (by “Magic Jammer” etc.), then no damage is dealt by “Dark Eradicator Warlock”.",
+    "Base": "1. If a Normal Spell Card's activation is negated (by \"Magic Jammer\" etc.), then no damage is dealt by \"Dark Eradicator Warlock\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

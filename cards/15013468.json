@@ -1,0 +1,44 @@
+{
+  "id": 15013468,
+  "name": "Andro Sphinx",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 3000,
+    "def": 2500,
+    "level": 10,
+    "race": "Beast",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) You can pay 500 Life Points to Special Summon this card when Pyramid of Light is on the field. (2) This card cannot attack during the turn that it is Normal Summoned or Special Summoned. (C) This card cannot be Special Summoned from the GY. (3) If this card destroys a Defense Position monster as a result of battle, inflict damage to your opponent's Life Points equal to half of the ATK of the destroyed monster.\n●The (1) Ignition Effect activates & resolves in the hand.\n●This card’s effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your Main Phase 1 or 2.\n●Paying 500 Life Points is a cost.\n●The (2) Continuous Effect applies while this card is face-up on the field.\n●This effect can be negated by Skill Drain.\n●The (C) Condition cannot be negated.\n●This card in the GY can't be Special Summoned face-down by The Shallow Grave.\n●This banished card can be Special Summoned by Return from the Different Dimension.\n●This card can be Special Summoned from the Deck by Reasoning.\n●The (3) Trigger Effect is mandatory.\n●This effect activates & resolves on the field in Substep 7 - End of the Damage Step.\n●This effect activates even if this card is flipped face-down / leaves the field.",
+    "Goat": "●This card’s effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your MP 1 or 2.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your Main Phase 1 or 2.",
+    "TeleDAD": "● This card’s effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your Main Phase 1 or 2.",
+    "Gladiator": "● This card’s effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your Main Phase 1 or 2.",
+    "ReturnDAD": "● This card’s effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your Main Phase 1 or 2.",
+    "Trooper": "● This card’s effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your Main Phase 1 or 2.",
+    "Circle": "● This card’s effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your Main Phase 1 or 2.",
+    "Stein": "● This card’s effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your Main Phase 1 or 2.",
+    "Base": "1. This card's effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your Main Phase 1 or 2."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

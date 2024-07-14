@@ -1,0 +1,44 @@
+{
+  "id": 90642597,
+  "name": "Future Samurai",
+  "Stats": {
+    "type": "Gemini Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●Future Samurai's effect is an Ignition Effect. Removing from play 1 monster from your GY is a cost.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Future Samurai's' effect is an Ignition Effect. Removing from play 1 monster from your GY is a cost.",
+    "TeleDAD": "● 'Future Samurai's' effect is an Ignition Effect. Removing from play 1 monster from your GY is a cost.",
+    "Gladiator": "● 'Future Samurai's' effect is an Ignition Effect. Removing from play 1 monster from your GY is a cost.",
+    "ReturnDAD": "● 'Future Samurai's' effect is an Ignition Effect. Removing from play 1 monster from your GY is a cost.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of\"Future Samurai\" is an Ignition Effect. Removing from play 1 monster from your GY is a cost."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

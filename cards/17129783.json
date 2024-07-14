@@ -1,0 +1,44 @@
+{
+  "id": 17129783,
+  "name": "Constellar Leonis",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1800,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● This is a continuous effect, so it can be negated by \"Effect Veiler\".\n● If you control this card and \"Constellar Pollux\", you only get 1 additional Summon, not 2.",
+    "Vegas": "● This is a continuous effect, so it can be negated by \"Effect Veiler\".\n● If you control this card and \"Constellar Pollux\", you only get 1 additional Summon, not 2.",
+    "Meadowlands": "● This is a continuous effect, so it can be negated by \"Effect Veiler\".\n● If you control this card and \"Constellar Pollux\", you only get 1 additional Summon, not 2.",
+    "FireWater": "● This is a continuous effect, so it can be negated by \"Effect Veiler\".\n● If you control this card and \"Constellar Pollux\", you only get 1 additional Summon, not 2.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① You can Normal Summon 1 \"Constellar\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+    "Meadowlands": "① You can Normal Summon 1 \"Constellar\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

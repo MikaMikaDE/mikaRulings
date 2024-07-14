@@ -1,0 +1,44 @@
+{
+  "id": 47030842,
+  "name": "Geargiaccelerator",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 800,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "This card's ① effect can miss the timing.",
+    "Vegas": "This card's ① effect can miss the timing.",
+    "Meadowlands": "This card's ① effect can miss the timing.",
+    "FireWater": "This card's ① effect can miss the timing.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "Ⓢ If you control a \"Geargia\" monster, you can Special Summon this card (from your hand) in Defense Position. \n① When this card is sent from the field to the GY: You can target 1 \"Geargia\" monster in your GY (except \"Geargiaccelerator\"); add it to your hand.",
+    "Meadowlands": "Ⓢ If you control a \"Geargia\" monster, you can Special Summon this card (from your hand) in Defense Position. \n① When this card is sent from the field to the GY: You can target 1 \"Geargia\" monster in your GY (except \"Geargiaccelerator\"); add it to your hand.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

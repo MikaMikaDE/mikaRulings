@@ -1,0 +1,44 @@
+{
+  "id": 23846921,
+  "name": "Arcana Force XXI - The World",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 3100,
+    "def": 3100,
+    "level": 8,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) When this card is Summoned, toss a coin: ● Heads: During your End Phase, you can send 2 monsters you control to the GY to skip your opponent's next turn. ● Tails: During your opponent's Draw Phase, add the top card of their GY to their hand.\n●The (1) Trigger Effect is mandatory, it activates & resolves on the field.\n●When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by Skill Drain, but this card will not forget which effect is gained while face-up.\n●The (HEADS) Trigger Effect is optional, it activates & resolves on the field.\n●Sending 2 monsters you control to the GY is a cost, you can send Arcana Force XXI - The World as one of those monsters.\n●This effect cannot activate while Macro Cosmos, since you can't pay the cost.\n●The (TAILS) Trigger Effect is mandatory, it activates & resolves on the field.\n●This effect does NOT target a card in your opponent's GY.\n●If the activation of this effect is negated (by Light and Darkness Dragon), this effect will activate again until it resolves (even if it resolves without effect due to Skill Drain).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Sending 2 monsters you control to the GY is a cost.\n● 'Arcana Force XXI - The World' can be sent to the GY, along with 1 other monster you control, to activate its heads effect.\n● You can't activate 'Arcana Force XXI - The World's' effect while 'Macro Cosmos,' etc. is applying.",
+    "TeleDAD": "● Sending 2 monsters you control to the GY is a cost.\n● 'Arcana Force XXI - The World' can be sent to the GY, along with 1 other monster you control, to activate its heads effect.\n● You can't activate 'Arcana Force XXI - The World's' effect while 'Macro Cosmos,' etc. is applying.",
+    "Gladiator": "● Sending 2 monsters you control to the GY is a cost.\n● 'Arcana Force XXI - The World' can be sent to the GY, along with 1 other monster you control, to activate its heads effect.\n● You can't activate 'Arcana Force XXI - The World's' effect while 'Macro Cosmos,' etc. is applying.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Sending 2 monsters you control to the GY is a cost.\\n2. \"Arcana Force XXI - The World\" can be sent to the GY, along with 1 other monster you control, to activate its heads effect.\\n3. You cannot activate the effect of \"Arcana Force XXI - The World\" while \"Macro Cosmos\", etc. is active."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

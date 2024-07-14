@@ -1,0 +1,44 @@
+{
+  "id": 90508760,
+  "name": "X-Saber Airbellum",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 200,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "● Your opponent can chain \"Gorz the Emissary of Darkness\" or \"Tragoedia\" to this effect. \nThis effect resolves (and the random card is chosen) after the Gorz/Tragoedia is Summoned.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect to discard a card only activates if you attack directly with \"X-Saber Airbellum\" and inflict at least 1 damage.\\n2. This effect will only activate if you attack your opponent directly and successfully inflict damage. If your opponent took 0 damage because of \"Waboku\", this effect will not activate.\\n3. [FORUM] If \"X-Saber Airbellum\" makes a direct attack on an opponent that controls no cards and has \"Gorz the Emissary of Darkness\" in hand, the effects of \"X-Saber Airbellum\" and \"Gorz the Emissary of Darkness\" form a chain with \"X-Saber Airbellum\" becoming Chain Link 1 and \"Gorz the Emissary of Darkness\" becoming Chain Link 2."
+  },
+  "PSCT": {
+    "Tengu": "① If this card inflicts Direct Battle Damage: Your opponent discards 1 random card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 86801871,
+  "name": "Cobra Jar",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 600,
+    "def": 300,
+    "level": 2,
+    "race": "Reptile",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●When the Poisonous Snake Token is destroyed as a result of battle, it is the opponent of Cobra Jar's controller that takes the damage; so even if the opponent had taken control of the Poisonous Snake Token with Change of Heart, he/she still takes the damage when it is destroyed.",
+    "Goat": "●When the Poisonous Snake Token is destroyed by battle, it is the opponent of Cobra Jar's controller that takes the damage; so even if the opponent had taken control of the Poisonous Snake Token with Change of Heart, he/she still takes the damage when it is destroyed.\n●If “Cobra Jar” is flipped while under the control of the other player through “Change of Heart,” the Snake Token produced by the effect will remain under the control of the player who flipped it.\n●If the Snake Token is taken control of via “Change of Heart” and destroyed, the opponent of the player who ‘created’ the Snake Token by the effect of “Cobra Jar” will take the LP damage.\n●Q: Scenario: Player A has a “Snake Token” and “Dream Clown” in ATK position. Player B plays “Change of Heart” on the Snake Token and attacks Player B's “Dream Clown”, destroying both monsters. Who would take the damage? \nA: When the “Poisonous Snake Token” is destroyed by battle the opponent of the person whom activated “Cobra Jar's” effect and created the token will take the damage. So even if the opponent had taken control of the “Snake Token” with “Change of Heart”, he/she would still receive the damage when the “Snake Token” is destroyed.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When the 'Poisonous Snake Token' is destroyed as a result of battle, it is the opponent of 'Cobra Jar''s controller that takes the damage; so even if the opponent had taken control of the 'Poisonous Snake Token' with 'Change of Heart', he/she still takes the damage when it is destroyed.",
+    "TeleDAD": "● When the 'Poisonous Snake Token' is destroyed as a result of battle, it is the opponent of 'Cobra Jar''s controller that takes the damage; so even if the opponent had taken control of the 'Poisonous Snake Token' with 'Change of Heart', he/she still takes the damage when it is destroyed.",
+    "Gladiator": "● When the 'Poisonous Snake Token' is destroyed as a result of battle, it is the opponent of 'Cobra Jar''s controller that takes the damage; so even if the opponent had taken control of the 'Poisonous Snake Token' with 'Change of Heart', he/she still takes the damage when it is destroyed.",
+    "ReturnDAD": "● When the 'Poisonous Snake Token' is destroyed as a result of battle, it is the opponent of 'Cobra Jar''s controller that takes the damage; so even if the opponent had taken control of the 'Poisonous Snake Token' with 'Change of Heart', he/she still takes the damage when it is destroyed.",
+    "Trooper": "● When the 'Poisonous Snake Token' is destroyed as a result of battle, it is the opponent of 'Cobra Jar''s controller that takes the damage; so even if the opponent had taken control of the 'Poisonous Snake Token' with 'Change of Heart', he/she still takes the damage when it is destroyed.",
+    "Circle": "● When the 'Poisonous Snake Token' is destroyed as a result of battle, it is the opponent of 'Cobra Jar''s controller that takes the damage; so even if the opponent had taken control of the 'Poisonous Snake Token' with 'Change of Heart', he/she still takes the damage when it is destroyed.",
+    "Stein": "● When the 'Poisonous Snake Token' is destroyed as a result of battle, it is the opponent of 'Cobra Jar''s controller that takes the damage; so even if the opponent had taken control of the 'Poisonous Snake Token' with 'Change of Heart', he/she still takes the damage when it is destroyed.",
+    "Base": "1. When the 'Poisonous Snake Token' is destroyed as a result of battle, it is the opponent of the controller of \"Cobra Jar\" that takes the damage; so even if the opponent had taken control of the 'Poisonous Snake Token' with \"Change of Heart\", he/she still takes the damage when it is destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

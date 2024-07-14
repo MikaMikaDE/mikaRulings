@@ -1,0 +1,44 @@
+{
+  "id": 95503687,
+  "name": "Lumina, Lightsworn Summoner",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1000,
+    "level": 3,
+    "race": "Spellcaster",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● You can only activate the ① effect if you already have a \"Lightsworn\" monster in your GY. However, when choosing a target, you can choose to target the card you discarded, instead. \n● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Discarding 1 card is a cost to activate this effect.\n● If you discard a LV 4 or lower 'Lightsworn' monster to activate 'Lumina, Lightsworn Summoner's' effect, you can Special Summon it.\n● You can't activate 'Lumina, Lightsworn Summoner's' effect if you do not have any LV 4 or lower 'Lightsworn' monsters in your GY, even if you would discard one to activate the effect.\n● If an effect is chained that removes 'Lumina, Lightsworn Summoner' from the field, the targeted 'Lightsworn' monster is still Special Summoned.\n● See “Jain, Lightsworn Paladin” for additional rulings.",
+    "TeleDAD": "● Discarding 1 card is a cost to activate this effect.\n● If you discard a LV 4 or lower 'Lightsworn' monster to activate 'Lumina, Lightsworn Summoner's' effect, you can Special Summon it.\n● You can't activate 'Lumina, Lightsworn Summoner's' effect if you do not have any LV 4 or lower 'Lightsworn' monsters in your GY, even if you would discard one to activate the effect.\n● If an effect is chained that removes 'Lumina, Lightsworn Summoner' from the field, the targeted 'Lightsworn' monster is still Special Summoned.\n● See “Jain, Lightsworn Paladin” for additional rulings.",
+    "Gladiator": "● Discarding 1 card is a cost to activate this effect.\n● If you discard a LV 4 or lower 'Lightsworn' monster to activate 'Lumina, Lightsworn Summoner's' effect, you can Special Summon it.\n● You can't activate 'Lumina, Lightsworn Summoner's' effect if you do not have any LV 4 or lower 'Lightsworn' monsters in your GY, even if you would discard one to activate the effect.\n● If an effect is chained that removes 'Lumina, Lightsworn Summoner' from the field, the targeted 'Lightsworn' monster is still Special Summoned.\n● See “Jain, Lightsworn Paladin” for additional rulings.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Discarding 1 card is a cost to activate this effect.\\n2. If you discard a Level 4 or lower 'Lightsworn' monster to activate the effect of \"Lumina, Lightsworn Summoner\", you can Special Summon it.\\n3. You cannot activate the effect of \"Lumina, Lightsworn Summoner\" if you do not have any Level 4 or lower 'Lightsworn' monsters in your GY, even if you would discard one to activate the effect.\\n4. If an effect is chained that removes \"Lumina, Lightsworn Summoner\" from the field, the targeted 'Lightsworn' monster is still Special Summoned.\\n5. See \"Jain, Lightsworn Paladin\" for additional rulings."
+  },
+  "PSCT": {
+    "Tengu": "① Once per turn: You can discard 1 card, then target 1 \"Lightsworn\" monster in your GY;\nSpecial Summon it.\n② During your End Phase: Send the top 3 cards of your Deck to the GY.\n(Activate & Resolve only if this card is face-up on the field).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

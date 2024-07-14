@@ -1,0 +1,44 @@
+{
+  "id": 22512237,
+  "name": "Mechanical Hound",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 1500,
+    "level": 7,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Activate” means make the card face-up, or activate it from your hand. If “Mechanical Hound” is face-up on the field, your opponent can still use the effects of Continuous Spell Cards that are already face-up on the field.",
+    "Goat": "“Activate” means make the card face-up, or activate it from your hand. If “Mechanical Hound” is face-up on the field, your opponent can still use the effects of Continuous Spell Cards that are already face-up on the field.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Activate” means make the card face-up, or activate it from your hand. If “Mechanical Hound” is applying, your opponent can still use the effects of Continuous Spell Cards that are already applying.",
+    "TeleDAD": "● “Activate” means make the card face-up, or activate it from your hand. If “Mechanical Hound” is applying, your opponent can still use the effects of Continuous Spell Cards that are already applying.",
+    "Gladiator": "● “Activate” means make the card face-up, or activate it from your hand. If “Mechanical Hound” is applying, your opponent can still use the effects of Continuous Spell Cards that are already applying.",
+    "ReturnDAD": "● “Activate” means make the card face-up, or activate it from your hand. If “Mechanical Hound” is applying, your opponent can still use the effects of Continuous Spell Cards that are already applying.",
+    "Trooper": "● “Activate” means make the card face-up, or activate it from your hand. If “Mechanical Hound” is applying, your opponent can still use the effects of Continuous Spell Cards that are already applying.",
+    "Circle": "● “Activate” means make the card face-up, or activate it from your hand. If “Mechanical Hound” is applying, your opponent can still use the effects of Continuous Spell Cards that are already applying.",
+    "Stein": "● “Activate” means make the card face-up, or activate it from your hand. If “Mechanical Hound” is applying, your opponent can still use the effects of Continuous Spell Cards that are already applying.",
+    "Base": "1. \"Activate\" means make the card face-up, or activate it from your hand. If \"Mechanical Hound\" is face-up on the field, your opponent can still use the effects of Continuous Spell Cards that are already face-up on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

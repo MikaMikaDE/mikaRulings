@@ -1,0 +1,44 @@
+{
+  "id": 42940404,
+  "name": "Machina Gearframe",
+  "Stats": {
+    "type": "Union Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 0,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "When equipping to a monster:\n● If the target is not a Machine, or is flipped face-down or leaves the field, \nthis card is destroyed.\n\nWhile equipped to a monster:\n● If the equipped monster is flipped face-down or leaves the field, this card is destroyed at the exact same time (by game mechanics).\n● This card is treated as an Equip Spell (and not a monster).\n\nWhen Summoning this equipped card:\n● If there is no empty Monster Zone when this effect resolves,\nthis card is sent to the GY.\n● If the equipped monster is flipped face-down or leaves the field, this card is destroyed at the exact same time (by game mechanics).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "When equipping to a monster:\n● If the target of is not a Machine when this effect resolves,\nthis card is destroyed.\n● If the target is flipped face-down or leaves the field,\nthis card remains in the Monster Zone (nothing happens).\n\nWhile equipped to a monster:\n● If the equipped monster is flipped face-down or leaves the field, this card is destroyed at the exact same time (by game mechanics).\n● This card is treated as an Equip Spell (and not a monster).\n\nWhen Summoning this equipped card:\n● If there is no empty Monster Zone when this effect resolves,\nthis card is sent to the GY.\n● If the equipped monster is flipped face-down or leaves the field, this card is destroyed at the exact same time (by game mechanics).",
+    "Vegas": "When equipping to a monster:\n● If the target of is not a Machine when this effect resolves,\nthis card is destroyed.\n● If the target is flipped face-down or leaves the field,\nthis card remains in the Monster Zone (nothing happens).\n\nWhile equipped to a monster:\n● If the equipped monster is flipped face-down or leaves the field, this card is destroyed at the exact same time (by game mechanics).\n● This card is treated as an Equip Spell (and not a monster).\n\nWhen Summoning this equipped card:\n● If there is no empty Monster Zone when this effect resolves,\nthis card is sent to the GY.\n● If the equipped monster is flipped face-down or leaves the field, this card is destroyed at the exact same time (by game mechanics).",
+    "Meadowlands": "When equipping to a monster:\n● If the target of is not a Machine when this effect resolves,\nthis card is destroyed.\n● If the target is flipped face-down or leaves the field,\nthis card remains in the Monster Zone (nothing happens).\n\nWhile equipped to a monster:\n● If the equipped monster is flipped face-down or leaves the field, this card is destroyed at the exact same time (by game mechanics).\n● This card is treated as an Equip Spell (and not a monster).\n\nWhen Summoning this equipped card:\n● If there is no empty Monster Zone when this effect resolves,\nthis card is sent to the GY.\n● If the equipped monster is flipped face-down or leaves the field, this card is destroyed at the exact same time (by game mechanics).",
+    "FireWater": "When equipping to a monster:\n● If the target of is not a Machine when this effect resolves,\nthis card is destroyed.\n● If the target is flipped face-down or leaves the field,\nthis card remains in the Monster Zone (nothing happens).\n\nWhile equipped to a monster:\n● If the equipped monster is flipped face-down or leaves the field, this card is destroyed at the exact same time (by game mechanics).\n● This card is treated as an Equip Spell (and not a monster).\n\nWhen Summoning this equipped card:\n● If there is no empty Monster Zone when this effect resolves,\nthis card is sent to the GY.\n● If the equipped monster is flipped face-down or leaves the field, this card is destroyed at the exact same time (by game mechanics).",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Equipping this card is an Ignition Effect of a monster. Special Summoning this Equipped Card is considered the effect of a Spell Card."
+  },
+  "PSCT": {
+    "Tengu": "① When Normal Summoned: You can add 1 \"Machina\" monster from your Deck to your hand, except \"Machina Gearframe\".\n② Once per turn, you can activate 1 of these effects;\n● Target 1 Machine you control;\nequip this monster to that target.\n● Unequip and Special Summon this card.\n③ If a monster equipped by this card's effect would be destroyed, destroy this card instead.\n© A monster can never be equipped with more than 1 Union Monster.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① When Normal Summoned: You can add 1 \"Machina\" monster from your Deck to your hand, except \"Machina Gearframe\".\n② Once per turn, you can activate 1 of these effects;\n● Target 1 Machine you control;\nequip this monster to that target.\n● Unequip and Special Summon this card.\n③ If a monster equipped by this card's effect would be destroyed, destroy this card instead.\n© A monster can never be equipped with more than 1 Union Monster.",
+    "Meadowlands": "① When Normal Summoned: You can add 1 \"Machina\" monster from your Deck to your hand, except \"Machina Gearframe\".\n② Once per turn, you can activate 1 of these effects;\n● Target 1 Machine you control;\nequip this monster to that target.\n● Unequip and Special Summon this card.\n③ If a monster equipped by this card's effect would be destroyed, destroy this card instead.\n© A monster can never be equipped with more than 1 Union Monster.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

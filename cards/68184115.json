@@ -1,0 +1,44 @@
+{
+  "id": 68184115,
+  "name": "Inzektor Dragonfly",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1800,
+    "level": 3,
+    "race": "Insect",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● The ① does not target.",
+    "Vegas": "● The ① does not target.",
+    "Meadowlands": "● The ① does not target.",
+    "FireWater": "● The ① does not target.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. [FORUM] Equipping an 'Inzektor' monster when the effect of \"Inzektor Dragonfly\" resolves is not activating a Spell Card. It's resolving a monster effect. So it cannot be negated by \"Legendary Six Samurai - Shi En\" or \"Naturia Beast\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Once per turn: You can equip 1 \"Inzektor\" monster from your hand/GY to this card. \n② While this card is equipped to a monster, that monster's Level is increased by 3.\n③ If an Equip Card(s) equipped to this card is sent to your GY (except in Damage Step): \nYou can Special Summon 1 \"Inzektor\" monster from your Deck (except \"Inzektor Dragonfly\").",
+    "Meadowlands": "① Once per turn: You can equip 1 \"Inzektor\" monster from your hand/GY to this card. \n② While this card is equipped to a monster, that monster's Level is increased by 3.\n③ If an Equip Card(s) equipped to this card is sent to your GY (except in Damage Step): \nYou can Special Summon 1 \"Inzektor\" monster from your Deck (except \"Inzektor Dragonfly\").",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

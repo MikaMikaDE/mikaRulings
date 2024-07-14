@@ -1,0 +1,40 @@
+{
+  "id": 34370473,
+  "name": "Gryphon's Feather Duster",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Gryphon's Feather Duster does not destroy itself.\n●When you destroy multiple cards at the same time with Gryphon's Feather Duster, you gain the Life Points as 1 lump sum, so your Fire Princess will only do 500 damage.",
+    "Goat": "●Gryphon's Feather Duster does not destroy itself.\n●When you destroy multiple cards at the same time with Gryphon's Feather Duster, you gain the LP as 1 lump sum, so your Fire Princess will only do 500 damage.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Gryphon's Feather Duster' does not destroy itself.\n● When you destroy multiple cards at the same time with 'Gryphon's Feather Duster', you gain the LP as 1 'lump sum', so your 'Fire Princess' will only do 500 damage.",
+    "TeleDAD": "● 'Gryphon's Feather Duster' does not destroy itself.\n● When you destroy multiple cards at the same time with 'Gryphon's Feather Duster', you gain the LP as 1 'lump sum', so your 'Fire Princess' will only do 500 damage.",
+    "Gladiator": "● 'Gryphon's Feather Duster' does not destroy itself.\n● When you destroy multiple cards at the same time with 'Gryphon's Feather Duster', you gain the LP as 1 'lump sum', so your 'Fire Princess' will only do 500 damage.",
+    "ReturnDAD": "● 'Gryphon's Feather Duster' does not destroy itself.\n● When you destroy multiple cards at the same time with 'Gryphon's Feather Duster', you gain the LP as 1 'lump sum', so your 'Fire Princess' will only do 500 damage.",
+    "Trooper": "● 'Gryphon's Feather Duster' does not destroy itself.\n● When you destroy multiple cards at the same time with 'Gryphon's Feather Duster', you gain the LP as 1 'lump sum', so your 'Fire Princess' will only do 500 damage.",
+    "Circle": "● 'Gryphon's Feather Duster' does not destroy itself.\n● When you destroy multiple cards at the same time with 'Gryphon's Feather Duster', you gain the LP as 1 'lump sum', so your 'Fire Princess' will only do 500 damage.",
+    "Stein": "● 'Gryphon's Feather Duster' does not destroy itself.\n● When you destroy multiple cards at the same time with 'Gryphon's Feather Duster', you gain the LP as 1 'lump sum', so your 'Fire Princess' will only do 500 damage.",
+    "Base": "1. \"Gryphon's Feather Duster\" does not destroy itself.\\n2. When you destroy multiple cards at the same time with \"Gryphon's Feather Duster\", you gain the Life Points as 1 \"lump sum\", so your \"Fire Princess\" will only do 500 damage."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

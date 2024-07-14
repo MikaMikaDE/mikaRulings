@@ -1,0 +1,40 @@
+{
+  "id": 85519211,
+  "name": "Minefield Eruption",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you activate “Minefield Eruption”, you inflict damage, then send your “Mine Golem”(s) to the GY. So your opponent has missed the timing and cannot activate “Numinous Healer”, etc.\n●The number of “Mine Golem” cards is considered when “Minefield Eruption” resolves, not when it is activated.",
+    "Goat": "●If you activate “Minefield Eruption”, you inflict damage, then send your “Mine Golem”(s) to the GY. So your opponent has missed the timing and cannot activate “Numinous Healer”, etc.\n●The number of “Mine Golem” cards is considered when “Minefield Eruption” resolves, not when it is activated.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you activate “Minefield Eruption”, you inflict damage, then send your “Mine Golem”(s) to the GY. So your opponent has missed the timing and can't activate “Numinous Healer”, etc.\n● The number of “Mine Golem” cards is considered when “Minefield Eruption” resolves, not when it is activated.",
+    "TeleDAD": "● If you activate “Minefield Eruption”, you inflict damage, then send your “Mine Golem”(s) to the GY. So your opponent has missed the timing and can't activate “Numinous Healer”, etc.\n● The number of “Mine Golem” cards is considered when “Minefield Eruption” resolves, not when it is activated.",
+    "Gladiator": "● If you activate “Minefield Eruption”, you inflict damage, then send your “Mine Golem”(s) to the GY. So your opponent has missed the timing and can't activate “Numinous Healer”, etc.\n● The number of “Mine Golem” cards is considered when “Minefield Eruption” resolves, not when it is activated.",
+    "ReturnDAD": "● If you activate “Minefield Eruption”, you inflict damage, then send your “Mine Golem”(s) to the GY. So your opponent has missed the timing and can't activate “Numinous Healer”, etc.\n● The number of “Mine Golem” cards is considered when “Minefield Eruption” resolves, not when it is activated.",
+    "Trooper": "● If you activate “Minefield Eruption”, you inflict damage, then send your “Mine Golem”(s) to the GY. So your opponent has missed the timing and can't activate “Numinous Healer”, etc.\n● The number of “Mine Golem” cards is considered when “Minefield Eruption” resolves, not when it is activated.",
+    "Circle": "● If you activate “Minefield Eruption”, you inflict damage, then send your “Mine Golem”(s) to the GY. So your opponent has missed the timing and can't activate “Numinous Healer”, etc.\n● The number of “Mine Golem” cards is considered when “Minefield Eruption” resolves, not when it is activated.",
+    "Stein": "● If you activate “Minefield Eruption”, you inflict damage, then send your “Mine Golem”(s) to the GY. So your opponent has missed the timing and can't activate “Numinous Healer”, etc.\n● The number of “Mine Golem” cards is considered when “Minefield Eruption” resolves, not when it is activated.",
+    "Base": "1. If you activate \"Minefield Eruption\", you inflict damage, then send your \"Mine Golem\"(s) to the GY. So your opponent has missed the timing and cannot activate \"Numinous Healer\", etc.\\n2. The number of \"Mine Golem\" cards is considered when \"Minefield Eruption\" resolves, not when it is activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

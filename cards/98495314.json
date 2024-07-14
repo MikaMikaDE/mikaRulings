@@ -1,0 +1,40 @@
+{
+  "id": 98495314,
+  "name": "Sword of Deep-Seated",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●Sword of Deep-Seated's second effect is a Trigger Effect.\n●If your Sangan equipped with your Sword of Deep-Seated is sent to the GY, the effect of Sangan and Sword of Deep-Seated form a Chain. You decide their order on the Chain.\n●If Sword of Deep-Seated is sent to the GY while resolving Reasoning, its effect starts a new Chain after you finish resolving Reasoning.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Sword of Deep-Seated's' second effect is a Trigger Effect.\n● If your 'Sangan' equipped with your 'Sword of Deep-Seated' is sent to the GY, the effect of 'Sangan' and 'Sword of Deep-Seated' form a Chain. You decide their order on the Chain.\n● If 'Sword of Deep-Seated' is sent to the GY while resolving 'Reasoning', its effect starts a new Chain after you finish resolving 'Reasoning'.",
+    "TeleDAD": "● 'Sword of Deep-Seated's' second effect is a Trigger Effect.\n● If your 'Sangan' equipped with your 'Sword of Deep-Seated' is sent to the GY, the effect of 'Sangan' and 'Sword of Deep-Seated' form a Chain. You decide their order on the Chain.\n● If 'Sword of Deep-Seated' is sent to the GY while resolving 'Reasoning', its effect starts a new Chain after you finish resolving 'Reasoning'.",
+    "Gladiator": "● 'Sword of Deep-Seated's' second effect is a Trigger Effect.\n● If your 'Sangan' equipped with your 'Sword of Deep-Seated' is sent to the GY, the effect of 'Sangan' and 'Sword of Deep-Seated' form a Chain. You decide their order on the Chain.\n● If 'Sword of Deep-Seated' is sent to the GY while resolving 'Reasoning', its effect starts a new Chain after you finish resolving 'Reasoning'.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The second effect of \"Sword of Deep-Seated\" is a Trigger Effect.\\n2. If your \"Sangan\" equipped with your \"Sword of Deep-Seated\" is sent to the GY, the effect of \"Sangan\" and \"Sword of Deep-Seated\" form a Chain. You decide their order on the Chain.\\n3. If \"Sword of Deep-Seated\" is sent to the GY while resolving \"Reasoning\", its effect starts a new Chain after you finish resolving \"Reasoning\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

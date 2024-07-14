@@ -1,0 +1,44 @@
+{
+  "id": 77044671,
+  "name": "Pyramid Turtle",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1400,
+    "level": 4,
+    "race": "Zombie",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "● This effect activates in the Damage Step, so it can never be negated by \"Royal Oppression\". \nCards like \"Bottomless Trap Hole\" and \"Torrential Tribute\" can never be used in response to this Summon.",
+    "Goat": "●You may Special Summon a high-level monster with Pyramid Turtle's effect (like Vampire Lord or Ryu Kokki), but not a Special-Summon only monster (like Spirit of the Pharaoh).\n●Q: If a player activates “Creature Swap”, gives their opponent “Pyramid Turtle”, and then destroys the “Pyramid Turtle” in battle, will the player be able to attack with the Special Summoned monster from “Pyramid Turtle’s” effect? \nA: Yes, in the situation presented the Zombie monster Special Summoned by the effect of Pyramid Turtle may attack during that same Battle Phase. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You may Special Summon a high-level monster with 'Pyramid Turtle''s effect (like 'Vampire Lord' or 'Ryu Kokki'), but not a Special-Summon only monster (like 'Spirit of the Pharaoh').",
+    "TeleDAD": "● You may Special Summon a high-level monster with 'Pyramid Turtle''s effect (like 'Vampire Lord' or 'Ryu Kokki'), but not a Special-Summon only monster (like 'Spirit of the Pharaoh').",
+    "Gladiator": "● You may Special Summon a high-level monster with 'Pyramid Turtle''s effect (like 'Vampire Lord' or 'Ryu Kokki'), but not a Special-Summon only monster (like 'Spirit of the Pharaoh').",
+    "ReturnDAD": "● You may Special Summon a high-level monster with 'Pyramid Turtle''s effect (like 'Vampire Lord' or 'Ryu Kokki'), but not a Special-Summon only monster (like 'Spirit of the Pharaoh').",
+    "Trooper": "● You may Special Summon a high-level monster with 'Pyramid Turtle''s effect (like 'Vampire Lord' or 'Ryu Kokki'), but not a Special-Summon only monster (like 'Spirit of the Pharaoh').",
+    "Circle": "● You may Special Summon a high-level monster with 'Pyramid Turtle''s effect (like 'Vampire Lord' or 'Ryu Kokki'), but not a Special-Summon only monster (like 'Spirit of the Pharaoh').",
+    "Stein": "● You may Special Summon a high-level monster with 'Pyramid Turtle''s effect (like 'Vampire Lord' or 'Ryu Kokki'), but not a Special-Summon only monster (like 'Spirit of the Pharaoh').",
+    "Base": "1. You may Special Summon a high-level monster with the effect of \"Pyramid Turtle\" (like \"Vampire Lord\" or \"Ryu Kokki\"), but not a Special-Summon only monster (like \"Spirit of the Pharaoh\")."
+  },
+  "PSCT": {
+    "Tengu": "① If destroyed by battle and sent to the GY:\nYou can Special Summon 1 Zombie with 2000 or less DEF from your Deck.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

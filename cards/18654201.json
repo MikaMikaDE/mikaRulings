@@ -1,0 +1,44 @@
+{
+  "id": 18654201,
+  "name": "Criosphinx",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 2400,
+    "level": 6,
+    "race": "Rock",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Criosphinx” is a Trigger Effect, and can be chained to. You can activate “Divine Wrath” against it. If a monster is returned to the hand in the middle of a chain, the effect of “Criosphinx” activates as a new chain after the previous chain has finished resolving.\n●If multiple copies of “Criosphinx” are in play and a monster is returned to the hand, all copies will activate. It forms a chain, with the turn player’s “Criosphinx” as chain link 1.\n●If multiple monsters are sent to the hand simultaneously (such as with “Guardian Sphinx”), the effect of “Criosphinx” only activates once, so only 1 card is sent to the GY.",
+    "Goat": "●The effect of “Criosphinx” is a Trigger Effect, and can be chained to. You can activate “Divine Wrath” against it. If a monster is returned to the hand in the middle of a chain, the effect of “Criosphinx” activates as a new chain after the previous chain has finished resolving.\n●If multiple copies of “Criosphinx” are in play and a monster is returned to the hand, all copies will activate. It forms a chain, with the turn player’s “Criosphinx” as chain link 1.\n●If multiple monsters are sent to the hand simultaneously (such as with “Guardian Sphinx”), the effect of “Criosphinx” only activates once, so only 1 card is discarded.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Criosphinx” is a Trigger Effect, and can be chained to. You can activate “Divine Wrath” against it. If a monster is returned to the hand in the middle of a chain, the effect of “Criosphinx” activates as a new chain after the previous chain has finished resolving.\n● If multiple copies of “Criosphinx” are in play and a monster is returned to the hand, all copies will activate. It forms a chain, with the turn player’s “Criosphinx” as chain link 1.\n● If multiple monsters are sent to the hand simultaneously (such as with “Guardian Sphinx”), the effect of “Criosphinx” only activates once, so only 1 card is sent to the GY.",
+    "TeleDAD": "● The effect of “Criosphinx” is a Trigger Effect, and can be chained to. You can activate “Divine Wrath” against it. If a monster is returned to the hand in the middle of a chain, the effect of “Criosphinx” activates as a new chain after the previous chain has finished resolving.\n● If multiple copies of “Criosphinx” are in play and a monster is returned to the hand, all copies will activate. It forms a chain, with the turn player’s “Criosphinx” as chain link 1.\n● If multiple monsters are sent to the hand simultaneously (such as with “Guardian Sphinx”), the effect of “Criosphinx” only activates once, so only 1 card is sent to the GY.",
+    "Gladiator": "● The effect of “Criosphinx” is a Trigger Effect, and can be chained to. You can activate “Divine Wrath” against it. If a monster is returned to the hand in the middle of a chain, the effect of “Criosphinx” activates as a new chain after the previous chain has finished resolving.\n● If multiple copies of “Criosphinx” are in play and a monster is returned to the hand, all copies will activate. It forms a chain, with the turn player’s “Criosphinx” as chain link 1.\n● If multiple monsters are sent to the hand simultaneously (such as with “Guardian Sphinx”), the effect of “Criosphinx” only activates once, so only 1 card is sent to the GY.",
+    "ReturnDAD": "● The effect of “Criosphinx” is a Trigger Effect, and can be chained to. You can activate “Divine Wrath” against it. If a monster is returned to the hand in the middle of a chain, the effect of “Criosphinx” activates as a new chain after the previous chain has finished resolving.\n● If multiple copies of “Criosphinx” are in play and a monster is returned to the hand, all copies will activate. It forms a chain, with the turn player’s “Criosphinx” as chain link 1.\n● If multiple monsters are sent to the hand simultaneously (such as with “Guardian Sphinx”), the effect of “Criosphinx” only activates once, so only 1 card is sent to the GY.",
+    "Trooper": "● The effect of “Criosphinx” is a Trigger Effect, and can be chained to. You can activate “Divine Wrath” against it. If a monster is returned to the hand in the middle of a chain, the effect of “Criosphinx” activates as a new chain after the previous chain has finished resolving.\n● If multiple copies of “Criosphinx” are in play and a monster is returned to the hand, all copies will activate. It forms a chain, with the turn player’s “Criosphinx” as chain link 1.\n● If multiple monsters are sent to the hand simultaneously (such as with “Guardian Sphinx”), the effect of “Criosphinx” only activates once, so only 1 card is sent to the GY.",
+    "Circle": "● The effect of “Criosphinx” is a Trigger Effect, and can be chained to. You can activate “Divine Wrath” against it. If a monster is returned to the hand in the middle of a chain, the effect of “Criosphinx” activates as a new chain after the previous chain has finished resolving.\n● If multiple copies of “Criosphinx” are in play and a monster is returned to the hand, all copies will activate. It forms a chain, with the turn player’s “Criosphinx” as chain link 1.\n● If multiple monsters are sent to the hand simultaneously (such as with “Guardian Sphinx”), the effect of “Criosphinx” only activates once, so only 1 card is sent to the GY.",
+    "Stein": "● The effect of “Criosphinx” is a Trigger Effect, and can be chained to. You can activate “Divine Wrath” against it. If a monster is returned to the hand in the middle of a chain, the effect of “Criosphinx” activates as a new chain after the previous chain has finished resolving.\n● If multiple copies of “Criosphinx” are in play and a monster is returned to the hand, all copies will activate. It forms a chain, with the turn player’s “Criosphinx” as chain link 1.\n● If multiple monsters are sent to the hand simultaneously (such as with “Guardian Sphinx”), the effect of “Criosphinx” only activates once, so only 1 card is sent to the GY.",
+    "Base": "1. The effect of \"Criosphinx\" is a Trigger Effect, and can be chained to. You can activate \"Divine Wrath\" against it. If a monster is returned to the hand in the middle of a chain, the effect of \"Criosphinx\" activates as a new chain after the previous chain has finished resolving.\\n2. If multiple copies of \"Criosphinx\" are in play and a monster is returned to the hand, all copies will activate. It forms a chain, with the turn player's \"Criosphinx\" as chain link 1.\\n3. If multiple monsters are sent to the hand simultaneously (such as with \"Guardian Sphinx\"), the effect of \"Criosphinx\" only activates once, so only 1 card is sent to the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 73580471,
+  "name": "Black Rose Dragon",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2400,
+    "def": 1800,
+    "level": 7,
+    "race": "Dragon",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "● If Synchro Summoned using \"Dandylion\", This ① effect can only be activated as Chain Link 2 (the tokens will be summoned after all cards are destroyed).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Removing 1 Plant in your GY from play is a cost.\n● 'Black Rose Dragon's' second effect targets 1 monster your opponent controls.\n● If the monster targeted by 'Black Rose Dragon's' second effect isn't changed to Attack Position by 'Black Rose Dragon's' effect, its ATK isn't reduced to 0.\n● If you target a face-down Defense Position monster, its Flip Effect will activate after 'Black Rose Dragon's' effect resolves.\n● After a monster's ATK is reduced to 0 by 'Black Rose Dragon's' second effect, if another effect increases its ATK it will be applied to the 0 ATK.\n● If 'Black Rose Dragon' activates its first effect, it is also destroyed.",
+    "TeleDAD": "● Removing 1 Plant in your GY from play is a cost.\n● 'Black Rose Dragon's' second effect targets 1 monster your opponent controls.\n● If the monster targeted by 'Black Rose Dragon's' second effect isn't changed to Attack Position by 'Black Rose Dragon's' effect, its ATK isn't reduced to 0.\n● If you target a face-down Defense Position monster, its Flip Effect will activate after 'Black Rose Dragon's' effect resolves.\n● After a monster's ATK is reduced to 0 by 'Black Rose Dragon's' second effect, if another effect increases its ATK it will be applied to the 0 ATK.\n● If 'Black Rose Dragon' activates its first effect, it is also destroyed.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Removing 1 Plant-Type monster in your GY from play is a cost.\\n2. The second effect of \"Black Rose Dragon\" targets 1 monster your opponent controls.\\n3. If the monster targeted by the second effect of \"Black Rose Dragon\" is not changed to Attack Position by the effect of \"Black Rose Dragon\", its ATK is not reduced to 0.\\n4. If you target a face-down Defense Position monster, its Flip Effect will activate after the effect of \"Black Rose Dragon\" resolves.\\n5. After a monster's ATK is reduced to 0 by the second effect of \"Black Rose Dragon\", if another effect increases its ATK it will be applied to the 0 ATK.\\n6. If \"Black Rose Dragon\" activates its first effect, it is also destroyed."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1+ non-Tuners\n① When Synchro Summoned: You can destroy all cards on the field. \n② Once per turn: You can banish 1 Plant from your GY, then target 1 opponent's Defense Position monster; \nchange that target to face-up Attack Position, and if you do, until the End Phase, its ATK becomes 0.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

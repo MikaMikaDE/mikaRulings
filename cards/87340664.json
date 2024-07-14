@@ -1,0 +1,44 @@
+{
+  "id": 87340664,
+  "name": "Atomic Firefly",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 200,
+    "level": 1,
+    "race": "Insect",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) When this face-up card on the field attacks or is attacked and it is destroyed as a result of battle, the player who destroyed it takes 1000 points of damage.\n●The (1) Trigger Effect is mandatory, it activates & resolves in the GY / banished.\n●The card text is very correct on the card mechanics; Atomic Firefly has to be face-up BEFORE the attack is declared.\n●This effect activates in Substep 7 - End of the Damage Step.\n●You can use Barrel Behind the Door against Atomic Firefly's effect.",
+    "Goat": "●The card text is very correct on the card mechanics; Atomic Firefly has to be face-up BEFORE the attack is declared.\n●Atomic Firefly's effect activates in the GY when Atomic Firefly is sent to the GY at the end of the attack, so Skill Drain will not negate its effect.\n●You can use Barrel Behind the Door against Atomic Firefly's effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The card text is very correct on the card mechanics; 'Atomic Firefly' has to be face-up BEFORE the attack is declared.\n● 'Atomic Firefly''s effect activates in the GY when 'Atomic Firefly' is sent to the GY at the end of the attack, so 'Skill Drain' will not negate its effect.\n● You can use 'Barrel Behind the Door' against 'Atomic Firefly''s effect.",
+    "TeleDAD": "● The card text is very correct on the card mechanics; 'Atomic Firefly' has to be face-up BEFORE the attack is declared.\n● 'Atomic Firefly''s effect activates in the GY when 'Atomic Firefly' is sent to the GY at the end of the attack, so 'Skill Drain' will not negate its effect.\n● You can use 'Barrel Behind the Door' against 'Atomic Firefly''s effect.",
+    "Gladiator": "● The card text is very correct on the card mechanics; 'Atomic Firefly' has to be face-up BEFORE the attack is declared.\n● 'Atomic Firefly''s effect activates in the GY when 'Atomic Firefly' is sent to the GY at the end of the attack, so 'Skill Drain' will not negate its effect.\n● You can use 'Barrel Behind the Door' against 'Atomic Firefly''s effect.",
+    "ReturnDAD": "● The card text is very correct on the card mechanics; 'Atomic Firefly' has to be face-up BEFORE the attack is declared.\n● 'Atomic Firefly''s effect activates in the GY when 'Atomic Firefly' is sent to the GY at the end of the attack, so 'Skill Drain' will not negate its effect.\n● You can use 'Barrel Behind the Door' against 'Atomic Firefly''s effect.",
+    "Trooper": "● The card text is very correct on the card mechanics; 'Atomic Firefly' has to be face-up BEFORE the attack is declared.\n● 'Atomic Firefly''s effect activates in the GY when 'Atomic Firefly' is sent to the GY at the end of the attack, so 'Skill Drain' will not negate its effect.\n● You can use 'Barrel Behind the Door' against 'Atomic Firefly''s effect.",
+    "Circle": "● The card text is very correct on the card mechanics; 'Atomic Firefly' has to be face-up BEFORE the attack is declared.\n● 'Atomic Firefly''s effect activates in the GY when 'Atomic Firefly' is sent to the GY at the end of the attack, so 'Skill Drain' will not negate its effect.\n● You can use 'Barrel Behind the Door' against 'Atomic Firefly''s effect.",
+    "Stein": "● The card text is very correct on the card mechanics; 'Atomic Firefly' has to be face-up BEFORE the attack is declared.\n● 'Atomic Firefly''s effect activates in the GY when 'Atomic Firefly' is sent to the GY at the end of the attack, so 'Skill Drain' will not negate its effect.\n● You can use 'Barrel Behind the Door' against 'Atomic Firefly''s effect.",
+    "Base": "1. The card text is very correct on the card mechanics; \"Atomic Firefly\" has to be face-up BEFORE the attack is declared.\\n2. The effect of \"Atomic Firefly\" activates in the GY when \"Atomic Firefly\" is sent to the GY at the end of the attack, so \"Skill Drain\" will not negate its effect.\\n3. You can use \"Barrel Behind the Door\" against the effect of \"Atomic Firefly\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

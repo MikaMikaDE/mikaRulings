@@ -1,0 +1,44 @@
+{
+  "id": 88472456,
+  "name": "Zombyra the Dark",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2100,
+    "def": 500,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If this monster is flipped face-down its effect is reset (its ATK will again be 2100).\n●You can damage your opponent’s Life Points by attacking an opponent’s monster with a lower ATK than Zombyra the Dark, but you cannot attack directly with him.\n●If Zombyra the Dark is the target of Dark Spirit of the Silent and your opponent controls no monsters, it may attack directly.\n●The reduction in ATK occurs immediately after the opposing monster is destroyed.",
+    "Goat": "●If this monster is Set its effect is reset (its ATK will again be 2100).\n●You can damage your opponent’s LP by attacking an opponent’s monster with a lower ATK than Zombyra the Dark, but you cannot attack directly with him.\n●If Zombyra the Dark is the target of Dark Spirit of the Silent and your opponent controls no monsters, it may attack directly.\n●The reduction in ATK occurs immediately after the opposing monster is destroyed.“Zombyra the Dark” equipped with “Shooting Star Bow - Ceal” may not attack directly.\n●Q: Will “Zombyra the Dark's” attack decrease from the modified ATK caused by “Adhesion Trap Hole” (1050), or will it decrease from the original ATK (2100) and then the effect from “Adhesion Trap Hole” take effect each time it destroys a monster. i.e., “Zombyra the Dark” destroys a monster. Is its ATK now 850 or 950? \nA: “Adhesion Trap Hole” will only cause the original ATK of the monster to be halved. So in “Zombyra the Dark's” case, “Adhesion Trap Hole” will cause it to be at 1050 ATK after being summoned. Then, “Zombyra the Dark's” effect will cause it to lose 200 ATK points each time it destroys a monster. After destroying 1 monster, “Zombyra the Dark's” ATK value will be 850.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If this monster is flipped face-down its effect is reset (its ATK will again be 2100).\n● You can damage your opponent’s LP by attacking an opponent’s monster with a lower ATK than 'Zombyra the Dark', but you can't attack directly with him.\n● If 'Zombyra the Dark' is the target of 'Dark Spirit of the Silent' and your opponent controls no monsters, it may attack directly.\n● The reduction in ATK occurs immediately after the opposing monster is destroyed.",
+    "TeleDAD": "● If this monster is flipped face-down its effect is reset (its ATK will again be 2100).\n● You can damage your opponent’s LP by attacking an opponent’s monster with a lower ATK than 'Zombyra the Dark', but you can't attack directly with him.\n● If 'Zombyra the Dark' is the target of 'Dark Spirit of the Silent' and your opponent controls no monsters, it may attack directly.\n● The reduction in ATK occurs immediately after the opposing monster is destroyed.",
+    "Gladiator": "● If this monster is flipped face-down its effect is reset (its ATK will again be 2100).\n● You can damage your opponent’s LP by attacking an opponent’s monster with a lower ATK than 'Zombyra the Dark', but you can't attack directly with him.\n● If 'Zombyra the Dark' is the target of 'Dark Spirit of the Silent' and your opponent controls no monsters, it may attack directly.\n● The reduction in ATK occurs immediately after the opposing monster is destroyed.",
+    "ReturnDAD": "● If this monster is flipped face-down its effect is reset (its ATK will again be 2100).\n● You can damage your opponent’s LP by attacking an opponent’s monster with a lower ATK than 'Zombyra the Dark', but you can't attack directly with him.\n● If 'Zombyra the Dark' is the target of 'Dark Spirit of the Silent' and your opponent controls no monsters, it may attack directly.\n● The reduction in ATK occurs immediately after the opposing monster is destroyed.",
+    "Trooper": "● If this monster is flipped face-down its effect is reset (its ATK will again be 2100).\n● You can damage your opponent’s LP by attacking an opponent’s monster with a lower ATK than 'Zombyra the Dark', but you can't attack directly with him.\n● If 'Zombyra the Dark' is the target of 'Dark Spirit of the Silent' and your opponent controls no monsters, it may attack directly.\n● The reduction in ATK occurs immediately after the opposing monster is destroyed.",
+    "Circle": "● If this monster is flipped face-down its effect is reset (its ATK will again be 2100).\n● You can damage your opponent’s LP by attacking an opponent’s monster with a lower ATK than 'Zombyra the Dark', but you can't attack directly with him.\n● If 'Zombyra the Dark' is the target of 'Dark Spirit of the Silent' and your opponent controls no monsters, it may attack directly.\n● The reduction in ATK occurs immediately after the opposing monster is destroyed.",
+    "Stein": "● If this monster is flipped face-down its effect is reset (its ATK will again be 2100).\n● You can damage your opponent’s LP by attacking an opponent’s monster with a lower ATK than 'Zombyra the Dark', but you can't attack directly with him.\n● If 'Zombyra the Dark' is the target of 'Dark Spirit of the Silent' and your opponent controls no monsters, it may attack directly.\n● The reduction in ATK occurs immediately after the opposing monster is destroyed.",
+    "Base": "1. If this monster is flipped face-down its effect is reset (its ATK will again be 2100).\\n2. You can damage your opponent's Life Points by attacking an opponent's monster with a lower ATK than \"Zombyra the Dark\", but you cannot attack directly with him.\\n3. If \"Zombyra the Dark\" is the target of \"Dark Spirit of the Silent\" and your opponent controls no monsters, it may attack directly.\\n4. The reduction in ATK occurs immediately after the opposing monster is destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 29071332,
+  "name": "Armory Arm",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 1800,
+    "def": 1200,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● If the destroyed monster isn't in the GY when this resolves, no damage is dealt (If the destroyed monster was a \"Colossal Fighter\" which targeted itself, no damage will be dealt).\n● You can equip this card to an opponent's monster. If you do, and that opponent's monster destroys your monster by battle, your opponent takes the damage (Arm is still your card, in your Spell/Trap Zone).\n● If control of the equipped monster is changed, this card does not change control.\n● The damage dealt it equal to the atk of the monster on the field. \nIf \"Tragoedia\" is destroyed, damage will be dealt equal to its atk on the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. [FORUM] You do not target the destroyed monster. The only thing that Armory Arm targets is the monster it equips to, and the effect itself does not target anything.\\n2. [FORUM] If a monster destroyed by the monster \"Armory Arm\" is equipped to is no longer in the GY when the effect of \"Armory Arm\" resolves to inflict damage, no damage will be inflicted since \"Armory Arm\" references the ATK of the monster \"the destroyed monster in the GY\".\\n\\nExample: If your Colossal Fighter were to be destroyed by a monster equipped with your Armory Arm, and you chose to activate the effect of Colossal Fighter, the chain forms like this:\\nChain Link 1: Armory Arm's damage-inflicting effect\\nChain Link 2: Colossal Fighter's summoning effect\\nIf Colossal Fighter revives himself, he's not there for Armory Arm to reference when Chain Link 1 resolves. So no damage will be inflicted."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1 or more non-Tuners\n① Once per turn: You can choose 1;\n● Target 1 monster on the field; \nequip this card to that target. \n● Unequip and Special it in Attack Position.\n② That equipped monster gains 1000 ATK. \n③ If that monster destroys a monster by battle and sends it to the GY:\nYour opponent takes damage equal to their destroyed monster’s ATK in the GY.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

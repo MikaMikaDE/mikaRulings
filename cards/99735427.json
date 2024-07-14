@@ -1,0 +1,40 @@
+{
+  "id": 99735427,
+  "name": "Shadow-Imprisoning Mirror",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "● This doesn't stop monster effects from activating.\nIt just negates any effect which does activate (on the field/GY).\n● Even if the Physical card is no longer on the field/GY, the effect is still negated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When determining if a monster’s effect should be negated by “Shadow-Imprisoning Mirror”, check the monster’s Attribute at the time its effect is resolved.\n● When a Non-DARK monster’s effect is activated while the monster and “Shadow-Imprisoning Mirror” are both applying, if you chain “DNA Transplant” and select “DARK”, the monster’s effect will be negated if the monster is still applying when its effect resolves because it is now a DARK monster.\n● “Shadow-Imprisoning Mirror” can't negate the Continuous Effects of DARK monsters.",
+    "TeleDAD": "● When determining if a monster’s effect should be negated by “Shadow-Imprisoning Mirror”, check the monster’s Attribute at the time its effect is resolved.\n● When a Non-DARK monster’s effect is activated while the monster and “Shadow-Imprisoning Mirror” are both applying, if you chain “DNA Transplant” and select “DARK”, the monster’s effect will be negated if the monster is still applying when its effect resolves because it is now a DARK monster.\n● “Shadow-Imprisoning Mirror” can't negate the Continuous Effects of DARK monsters.",
+    "Gladiator": "● When determining if a monster’s effect should be negated by “Shadow-Imprisoning Mirror”, check the monster’s Attribute at the time its effect is resolved.\n● When a Non-DARK monster’s effect is activated while the monster and “Shadow-Imprisoning Mirror” are both applying, if you chain “DNA Transplant” and select “DARK”, the monster’s effect will be negated if the monster is still applying when its effect resolves because it is now a DARK monster.\n● “Shadow-Imprisoning Mirror” can't negate the Continuous Effects of DARK monsters.",
+    "ReturnDAD": "● When determining if a monster’s effect should be negated by “Shadow-Imprisoning Mirror”, check the monster’s Attribute at the time its effect is resolved.\n● When a Non-DARK monster’s effect is activated while the monster and “Shadow-Imprisoning Mirror” are both applying, if you chain “DNA Transplant” and select “DARK”, the monster’s effect will be negated if the monster is still applying when its effect resolves because it is now a DARK monster.\n● “Shadow-Imprisoning Mirror” can't negate the Continuous Effects of DARK monsters.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● When determining if a monster’s effect should be negated by “Shadow-Imprisoning Mirror”, check the monster’s Attribute at the time its effect is resolved.\n● When a Non-DARK monster’s effect is activated while the monster and “Shadow-Imprisoning Mirror” are both applying, if you chain “DNA Transplant” and select “DARK”, the monster’s effect will be negated if the monster is still applying when its effect resolves because it is now a DARK monster.\n● “Shadow-Imprisoning Mirror” can't negate the Continuous Effects of DARK monsters.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. When determining if a monster's effect should be negated by \"Shadow-Imprisoning Mirror\", check the monster's Attribute at the time its effect is resolved.\\n2. When a Non-DARK monster's effect is activated while the monster and \"Shadow-Imprisoning Mirror\" are both face-up on the field, if you chain \"DNA Transplant\" and select \"DARK\", the monster's effect will be negated if the monster is still face-up on the field when its effect resolves because it is now a DARK monster.\\n3. \"Shadow-Imprisoning Mirror\" cannot negate the Continuous Effects of DARK monsters."
+  },
+  "PSCT": {
+    "Tengu": "① If the effect of a DARK monster is activated on the field/GY, negate that effect.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

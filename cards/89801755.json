@@ -1,0 +1,40 @@
+{
+  "id": 89801755,
+  "name": "Abyssal Designator",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Pay 1000 Life Points. Declare a Type and an Attribute. Your opponent must send 1 monster with both the declared Type and Attribute from their hand or Deck to the GY.\n●If your opponent sends a monster to the GY with the declared Type and Attribute, you cannot see their hand and Deck. But if they claim to have no such card, you can check their hand and Deck to confirm.",
+    "Goat": "●If your opponent sends a monster to the GY with the declared Type and Attribute, you cannot see their hand and Deck. But if they claim to have no such card, you can check their hand and Deck to confirm.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If your opponent sends a monster to the GY with the declared Type and Attribute, you can't see their hand and Deck. But if they claim to have no such card, you can check their hand and Deck to confirm.",
+    "TeleDAD": "● If your opponent sends a monster to the GY with the declared Type and Attribute, you can't see their hand and Deck. But if they claim to have no such card, you can check their hand and Deck to confirm.",
+    "Gladiator": "● If your opponent sends a monster to the GY with the declared Type and Attribute, you can't see their hand and Deck. But if they claim to have no such card, you can check their hand and Deck to confirm.",
+    "ReturnDAD": "● If your opponent sends a monster to the GY with the declared Type and Attribute, you can't see their hand and Deck. But if they claim to have no such card, you can check their hand and Deck to confirm.",
+    "Trooper": "● If your opponent sends a monster to the GY with the declared Type and Attribute, you can't see their hand and Deck. But if they claim to have no such card, you can check their hand and Deck to confirm.",
+    "Circle": "● If your opponent sends a monster to the GY with the declared Type and Attribute, you can't see their hand and Deck. But if they claim to have no such card, you can check their hand and Deck to confirm.",
+    "Stein": "● If your opponent sends a monster to the GY with the declared Type and Attribute, you can't see their hand and Deck. But if they claim to have no such card, you can check their hand and Deck to confirm.",
+    "Base": "1. If your opponent sends a monster to the GY with the declared Type and Attribute, you cannot see their hand and Deck. But if they claim to have no such card, you can check their hand and Deck to confirm."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

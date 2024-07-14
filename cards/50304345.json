@@ -1,0 +1,44 @@
+{
+  "id": 50304345,
+  "name": "Evil HERO Infernal Prodigy",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 600,
+    "level": 2,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● This card's Summon does not start a chain, so \"Thunder King Rai-Oh\" can negate it.\n● The ② will activate even if Prodigy was tributed while \"Macro Cosmos\" was applying.\n\nThe ② will not activate if:\n● This card changed location after being tributed (eg, if \"D.D. Crow\" removes it from the GY\n● This card was Set to Tribute Set a HERO monster.\n● The Tribute Summon was negated (eg by Solemn Judgment).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Evil Hero Infernal Prodigy's' effect to draw 1 card during the End Phase starts a Chain.\n● If 'Evil Hero Infernal Prodigy' is removed from play when Tributed (by 'Macro Cosmos', etc.) or after it is Tributed (by 'Soul Release', etc.), its effect will still activate in the End Phase. If it is returned to the GY with 'Burial from a Different Dimension', its effect will not activate during the End Phase.\n● If 'Evil Hero Infernal Prodigy' is Special Summoned, or returned to the hand or Deck, after it is Tributed, its effect will not activate during the End Phase.\n● If you Tribute 'Evil Hero Infernal Prodigy' to Set an 'Elemental Hero', 'Destiny Hero', or 'Evil Hero, its effect does not activate during the End Phase.\n● If the Tribute Summon is negated (with 'Solemn Judgment', etc.), 'Evil Hero Infernal Prodigy's' effect does not activate during the End Phase.",
+    "TeleDAD": "● 'Evil Hero Infernal Prodigy's' effect to draw 1 card during the End Phase starts a Chain.\n● If 'Evil Hero Infernal Prodigy' is removed from play when Tributed (by 'Macro Cosmos', etc.) or after it is Tributed (by 'Soul Release', etc.), its effect will still activate in the End Phase. If it is returned to the GY with 'Burial from a Different Dimension', its effect will not activate during the End Phase.\n● If 'Evil Hero Infernal Prodigy' is Special Summoned, or returned to the hand or Deck, after it is Tributed, its effect will not activate during the End Phase.\n● If you Tribute 'Evil Hero Infernal Prodigy' to Set an 'Elemental Hero', 'Destiny Hero', or 'Evil Hero, its effect does not activate during the End Phase.\n● If the Tribute Summon is negated (with 'Solemn Judgment', etc.), 'Evil Hero Infernal Prodigy's' effect does not activate during the End Phase.",
+    "Gladiator": "● 'Evil Hero Infernal Prodigy's' effect to draw 1 card during the End Phase starts a Chain.\n● If 'Evil Hero Infernal Prodigy' is removed from play when Tributed (by 'Macro Cosmos', etc.) or after it is Tributed (by 'Soul Release', etc.), its effect will still activate in the End Phase. If it is returned to the GY with 'Burial from a Different Dimension', its effect will not activate during the End Phase.\n● If 'Evil Hero Infernal Prodigy' is Special Summoned, or returned to the hand or Deck, after it is Tributed, its effect will not activate during the End Phase.\n● If you Tribute 'Evil Hero Infernal Prodigy' to Set an 'Elemental Hero', 'Destiny Hero', or 'Evil Hero, its effect does not activate during the End Phase.\n● If the Tribute Summon is negated (with 'Solemn Judgment', etc.), 'Evil Hero Infernal Prodigy's' effect does not activate during the End Phase.",
+    "ReturnDAD": "● 'Evil Hero Infernal Prodigy's' effect to draw 1 card during the End Phase starts a Chain.\n● If 'Evil Hero Infernal Prodigy' is removed from play when Tributed (by 'Macro Cosmos', etc.) or after it is Tributed (by 'Soul Release', etc.), its effect will still activate in the End Phase. If it is returned to the GY with 'Burial from a Different Dimension', its effect will not activate during the End Phase.\n● If 'Evil Hero Infernal Prodigy' is Special Summoned, or returned to the hand or Deck, after it is Tributed, its effect will not activate during the End Phase.\n● If you Tribute 'Evil Hero Infernal Prodigy' to Set an 'Elemental Hero', 'Destiny Hero', or 'Evil Hero, its effect does not activate during the End Phase.\n● If the Tribute Summon is negated (with 'Solemn Judgment', etc.), 'Evil Hero Infernal Prodigy's' effect does not activate during the End Phase.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Evil HERO Infernal Prodigy\" to draw 1 card during the End Phase starts a Chain.\\n2. If \"Evil HERO Infernal Prodigy\" is removed from play when Tributed (by \"Macro Cosmos\", etc.) or after it is Tributed (by \"Soul Release\", etc.), its effect will still activate in the End Phase. If it is returned to the GY with \"Burial from a Different Dimension\", its effect will not activate during the End Phase.\\n3. If \"Evil HERO Infernal Prodigy\" is Special Summoned, or returned to the hand or Deck, after it is Tributed, its effect will not activate during the End Phase.\\n4. If you Tribute \"Evil HERO Infernal Prodigy\" to Set an 'Elemental HERO', 'Destiny HERO', or 'Evil HERO', its effect does not activate during the End Phase.\\n5. If the Tribute Summon is negated (with \"Solemn Judgment\", etc.), the effect of \"Evil HERO Infernal Prodigy\" does not activate during the End Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

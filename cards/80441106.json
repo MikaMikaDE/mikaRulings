@@ -1,0 +1,44 @@
+{
+  "id": 80441106,
+  "name": "Keldo",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1600,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot activate Keldo's effect when there are not at least 2 cards in your opponent's GY.\n●The owner of the Deck shuffles it and the controller of Keldo cuts the Deck.",
+    "Goat": "●You cannot activate Keldo's effect when there are not at least 2 cards in your opponent's GY.\n●The owner of the Deck shuffles it and the controller of Keldo cuts the Deck.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate 'Keldo''s effect when there are not at least 2 cards in your opponent's GY.\n● The owner of the Deck shuffles it and the controller of 'Keldo' cuts the Deck.",
+    "TeleDAD": "● You can't activate 'Keldo''s effect when there are not at least 2 cards in your opponent's GY.\n● The owner of the Deck shuffles it and the controller of 'Keldo' cuts the Deck.",
+    "Gladiator": "● You can't activate 'Keldo''s effect when there are not at least 2 cards in your opponent's GY.\n● The owner of the Deck shuffles it and the controller of 'Keldo' cuts the Deck.",
+    "ReturnDAD": "● You can't activate 'Keldo''s effect when there are not at least 2 cards in your opponent's GY.\n● The owner of the Deck shuffles it and the controller of 'Keldo' cuts the Deck.",
+    "Trooper": "● You can't activate 'Keldo''s effect when there are not at least 2 cards in your opponent's GY.\n● The owner of the Deck shuffles it and the controller of 'Keldo' cuts the Deck.",
+    "Circle": "● You can't activate 'Keldo''s effect when there are not at least 2 cards in your opponent's GY.\n● The owner of the Deck shuffles it and the controller of 'Keldo' cuts the Deck.",
+    "Stein": "● You can't activate 'Keldo''s effect when there are not at least 2 cards in your opponent's GY.\n● The owner of the Deck shuffles it and the controller of 'Keldo' cuts the Deck.",
+    "Base": "1. You cannot activate the effect of \"Keldo\" when there are not at least 2 cards in your opponent's GY.\\n2. The owner of the Deck shuffles it and the controller of \"Keldo\" cuts the Deck."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

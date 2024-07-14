@@ -1,0 +1,44 @@
+{
+  "id": 48700891,
+  "name": "Memory Crusher",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 600,
+    "level": 3,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Memory Crusher’s” effect activates when battle damage is inflicted.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Memory Crusher’s” effect activates when battle damage is inflicted.",
+    "TeleDAD": "● “Memory Crusher’s” effect activates when battle damage is inflicted.",
+    "Gladiator": "● “Memory Crusher’s” effect activates when battle damage is inflicted.",
+    "ReturnDAD": "● “Memory Crusher’s” effect activates when battle damage is inflicted.",
+    "Trooper": "● “Memory Crusher’s” effect activates when battle damage is inflicted.",
+    "Circle": "● “Memory Crusher’s” effect activates when battle damage is inflicted.",
+    "Stein": "● “Memory Crusher’s” effect activates when battle damage is inflicted.",
+    "Base": "1. The effect of \"Memory Crusher\" activates when battle damage is inflicted."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

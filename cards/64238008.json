@@ -1,0 +1,40 @@
+{
+  "id": 64238008,
+  "name": "Linear Accelerator Cannon",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can Tribute a Trap Monster like “Embodiment of Apophis” for this effect, but no damage will be inflicted.\n●If you have already activated a Spell Card, you cannot activate Linear Accelerator Cannon on the same turn.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can Tribute a Trap Monster like “Embodiment of Apophis” for this effect, but no damage will be inflicted.\n● If you have already activated a Spell Card, you can't activate 'Linear Accelerator Cannon' on the same turn.",
+    "TeleDAD": "● You can Tribute a Trap Monster like “Embodiment of Apophis” for this effect, but no damage will be inflicted.\n● If you have already activated a Spell Card, you can't activate 'Linear Accelerator Cannon' on the same turn.",
+    "Gladiator": "● You can Tribute a Trap Monster like “Embodiment of Apophis” for this effect, but no damage will be inflicted.\n● If you have already activated a Spell Card, you can't activate 'Linear Accelerator Cannon' on the same turn.",
+    "ReturnDAD": "● You can Tribute a Trap Monster like “Embodiment of Apophis” for this effect, but no damage will be inflicted.\n● If you have already activated a Spell Card, you can't activate 'Linear Accelerator Cannon' on the same turn.",
+    "Trooper": "● You can Tribute a Trap Monster like “Embodiment of Apophis” for this effect, but no damage will be inflicted.",
+    "Circle": "● You can Tribute a Trap Monster like “Embodiment of Apophis” for this effect, but no damage will be inflicted.\n● If you have already activated a Spell Card, you can't activate 'Linear Accelerator Cannon' on the same turn.",
+    "Stein": "● You can Tribute a Trap Monster like “Embodiment of Apophis” for this effect, but no damage will be inflicted.",
+    "Base": "1. You can Tribute a Trap Monster like \"Embodiment of Apophis\" for this effect, but no damage will be inflicted.\\n2. If you have already activated a Spell Card, you cannot activate \"Linear Accelerator Cannon\" on the same turn."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 19827717,
+  "name": "Return of the Doomed",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card is activated during your Main Phase 1 or 2 and creates a state that lasts until the end of your turn. If Spell Canceller is Summoned after this card was activated, but during the same turn, the state it created is not negated and 1 monster will return to your hand if destroyed during this turn.\n●If Banisher of the Light is on the field, a monster that is destroyed will be removed from play and cannot return to your hand since it never went to the GY.",
+    "Goat": "●This card is activated during your MP 1 or 2 and creates a state that lasts until the end of your turn. If Spell Canceller is Summoned after this card was activated, but during the same turn, the state it created is not negated and 1 monster will return to your hand if destroyed during this turn.\n●If Banisher of the Light is on the field, a monster that is destroyed will be removed from play and cannot return to your hand since it never went to the GY.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card is activated during your Main Phase 1 or 2 and creates a state that lasts until the end of your turn. If 'Spell Canceller' is Summoned after this card was activated, but during the same turn, the state it created isn't negated and 1 monster will return to your hand if destroyed during this turn.\n● If 'Banisher of the Light' is on the field, a monster that is destroyed will be removed from play and can't return to your hand since it never went to the GY.",
+    "TeleDAD": "● This card is activated during your Main Phase 1 or 2 and creates a state that lasts until the end of your turn. If 'Spell Canceller' is Summoned after this card was activated, but during the same turn, the state it created isn't negated and 1 monster will return to your hand if destroyed during this turn.\n● If 'Banisher of the Light' is on the field, a monster that is destroyed will be removed from play and can't return to your hand since it never went to the GY.",
+    "Gladiator": "● This card is activated during your Main Phase 1 or 2 and creates a state that lasts until the end of your turn. If 'Spell Canceller' is Summoned after this card was activated, but during the same turn, the state it created isn't negated and 1 monster will return to your hand if destroyed during this turn.\n● If 'Banisher of the Light' is on the field, a monster that is destroyed will be removed from play and can't return to your hand since it never went to the GY.",
+    "ReturnDAD": "● This card is activated during your Main Phase 1 or 2 and creates a state that lasts until the end of your turn. If 'Spell Canceller' is Summoned after this card was activated, but during the same turn, the state it created isn't negated and 1 monster will return to your hand if destroyed during this turn.\n● If 'Banisher of the Light' is on the field, a monster that is destroyed will be removed from play and can't return to your hand since it never went to the GY.",
+    "Trooper": "● This card is activated during your Main Phase 1 or 2 and creates a state that lasts until the end of your turn. If 'Spell Canceller' is Summoned after this card was activated, but during the same turn, the state it created isn't negated and 1 monster will return to your hand if destroyed during this turn.\n● If 'Banisher of the Light' is on the field, a monster that is destroyed will be removed from play and can't return to your hand since it never went to the GY.",
+    "Circle": "● This card is activated during your Main Phase 1 or 2 and creates a state that lasts until the end of your turn. If 'Spell Canceller' is Summoned after this card was activated, but during the same turn, the state it created isn't negated and 1 monster will return to your hand if destroyed during this turn.\n● If 'Banisher of the Light' is on the field, a monster that is destroyed will be removed from play and can't return to your hand since it never went to the GY.",
+    "Stein": "● This card is activated during your Main Phase 1 or 2 and creates a state that lasts until the end of your turn. If 'Spell Canceller' is Summoned after this card was activated, but during the same turn, the state it created isn't negated and 1 monster will return to your hand if destroyed during this turn.\n● If 'Banisher of the Light' is on the field, a monster that is destroyed will be removed from play and can't return to your hand since it never went to the GY.",
+    "Base": "1. This card is activated during your Main Phase 1 or 2 and creates a state that lasts until the end of your turn. If \"Spell Canceller\" is Summoned after this card was activated, but during the same turn, the state it created is not negated and 1 monster will return to your hand if destroyed during this turn.\\n2. If \"Banisher of the Light\" is on the field, a monster that is destroyed will be removed from play and cannot return to your hand since it never went to the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

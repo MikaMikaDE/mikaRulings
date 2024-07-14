@@ -1,0 +1,40 @@
+{
+  "id": 20522190,
+  "name": "Dark Mirror Force",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Dark Mirror Force doesn't stop the attack.\n●Both face-up and face-down Defense Position monsters are removed from play.\n●You can't activate Dark Mirror Force if your opponent doesn't have any Defense Position monsters.",
+    "Goat": "●Dark Mirror Force doesn't stop the attack.\n●Both face-up and face-down Defense Position monsters are removed from play.\n●You can't activate Dark Mirror Force if your opponent doesn't have any Defense Position monsters.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Dark Mirror Force' doesn't stop the attack.\n● Both face-up and face-down Defense Position monsters are removed from play.\n● You can't activate 'Dark Mirror Force' if your opponent doesn't have any Defense Position monsters.",
+    "TeleDAD": "● 'Dark Mirror Force' doesn't stop the attack.\n● Both face-up and face-down Defense Position monsters are removed from play.\n● You can't activate 'Dark Mirror Force' if your opponent doesn't have any Defense Position monsters.",
+    "Gladiator": "● 'Dark Mirror Force' doesn't stop the attack.\n● Both face-up and face-down Defense Position monsters are removed from play.\n● You can't activate 'Dark Mirror Force' if your opponent doesn't have any Defense Position monsters.",
+    "ReturnDAD": "● 'Dark Mirror Force' doesn't stop the attack.\n● Both face-up and face-down Defense Position monsters are removed from play.\n● You can't activate 'Dark Mirror Force' if your opponent doesn't have any Defense Position monsters.",
+    "Trooper": "● 'Dark Mirror Force' doesn't stop the attack.\n● Both face-up and face-down Defense Position monsters are removed from play.\n● You can't activate 'Dark Mirror Force' if your opponent doesn't have any Defense Position monsters.",
+    "Circle": "● 'Dark Mirror Force' doesn't stop the attack.\n● Both face-up and face-down Defense Position monsters are removed from play.\n● You can't activate 'Dark Mirror Force' if your opponent doesn't have any Defense Position monsters.",
+    "Stein": "● 'Dark Mirror Force' doesn't stop the attack.\n● Both face-up and face-down Defense Position monsters are removed from play.\n● You can't activate 'Dark Mirror Force' if your opponent doesn't have any Defense Position monsters.",
+    "Base": "1. \"Dark Mirror Force\" doesn't stop the attack.\\n2. Both face-up and face-down Defense Position monsters are removed from play.\\n3. You can't activate \"Dark Mirror Force\" if your opponent doesn't have any Defense Position monsters."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

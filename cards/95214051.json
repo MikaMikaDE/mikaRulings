@@ -1,0 +1,40 @@
+{
+  "id": 95214051,
+  "name": "Jade Insect Whistle",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●The monster selected for Jade Insect Whistle is chosen when the effect resolves, not when it is activated, so Jade Insect Whistle doesn't target.\n●If your opponent claims to have no Insect-Type monsters in his/her Deck when your Jade Insect Whistle resolves, you can check the Deck to make sure.\n●A face-up Parasite Paracide can be selected with Jade Insect Whistle.",
+    "Goat": "●The monster selected for Jade Insect Whistle is chosen when the effect resolves, not when it is activated, so Jade Insect Whistle doesn't target.\n●If your opponent claims to have no Insect monsters in his/her Deck when your Jade Insect Whistle resolves, you can check the Deck to make sure.\nA face-up Parasite Paracide can be selected with Jade Insect Whistle.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The monster selected for 'Jade Insect Whistle' is chosen when the effect resolves, not when it is activated, so 'Jade Insect Whistle' doesn't target.\n● If your opponent claims to have no Insects in his/her Deck when your 'Jade Insect Whistle' resolves, you can check the Deck to make sure.\n● A face-up 'Parasite Paracide' can be selected with 'Jade Insect Whistle'.",
+    "TeleDAD": "● The monster selected for 'Jade Insect Whistle' is chosen when the effect resolves, not when it is activated, so 'Jade Insect Whistle' doesn't target.\n● If your opponent claims to have no Insects in his/her Deck when your 'Jade Insect Whistle' resolves, you can check the Deck to make sure.\n● A face-up 'Parasite Paracide' can be selected with 'Jade Insect Whistle'.",
+    "Gladiator": "● The monster selected for 'Jade Insect Whistle' is chosen when the effect resolves, not when it is activated, so 'Jade Insect Whistle' doesn't target.\n● If your opponent claims to have no Insects in his/her Deck when your 'Jade Insect Whistle' resolves, you can check the Deck to make sure.\n● A face-up 'Parasite Paracide' can be selected with 'Jade Insect Whistle'.",
+    "ReturnDAD": "● The monster selected for 'Jade Insect Whistle' is chosen when the effect resolves, not when it is activated, so 'Jade Insect Whistle' doesn't target.\n● If your opponent claims to have no Insects in his/her Deck when your 'Jade Insect Whistle' resolves, you can check the Deck to make sure.\n● A face-up 'Parasite Paracide' can be selected with 'Jade Insect Whistle'.",
+    "Trooper": "● The monster selected for 'Jade Insect Whistle' is chosen when the effect resolves, not when it is activated, so 'Jade Insect Whistle' doesn't target.\n● If your opponent claims to have no Insects in his/her Deck when your 'Jade Insect Whistle' resolves, you can check the Deck to make sure.\n● A face-up 'Parasite Paracide' can be selected with 'Jade Insect Whistle'.",
+    "Circle": "● The monster selected for 'Jade Insect Whistle' is chosen when the effect resolves, not when it is activated, so 'Jade Insect Whistle' doesn't target.\n● If your opponent claims to have no Insects in his/her Deck when your 'Jade Insect Whistle' resolves, you can check the Deck to make sure.\n● A face-up 'Parasite Paracide' can be selected with 'Jade Insect Whistle'.",
+    "Stein": "● The monster selected for 'Jade Insect Whistle' is chosen when the effect resolves, not when it is activated, so 'Jade Insect Whistle' doesn't target.\n● If your opponent claims to have no Insects in his/her Deck when your 'Jade Insect Whistle' resolves, you can check the Deck to make sure.\n● A face-up 'Parasite Paracide' can be selected with 'Jade Insect Whistle'.",
+    "Base": "1. The monster selected for \"Jade Insect Whistle\" is chosen when the effect resolves, not when it is activated, so \"Jade Insect Whistle\" doesn't target.\\n2. If your opponent claims to have no Insect-Type monsters in his/her Deck when your \"Jade Insect Whistle\" resolves, you can check the Deck to make sure.\\n3. A face-up \"Parasite Paracide\" can be selected with \"Jade Insect Whistle\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

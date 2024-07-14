@@ -1,0 +1,40 @@
+{
+  "id": 32062913,
+  "name": "Mega Ton Magical Cannon",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Removing Spell Counters is a cost. If you do not have 10 Spell Counters you cannot activate Mega-Ton Magical Cannon.",
+    "Goat": "●Removing Spell Counters is a cost. If you do not have 10 Spell Counters you cannot activate Mega-Ton Magical Cannon.\n●Q: Could a player play the “Mega Ton Magical Cannon,” add a Spell Counter to their “Royal Magical Library” and to their “Magical Marionette” (to make a total 10 Spell Counters) and then resolve “Mega Ton Magical Cannon's” effect (Remove 10 Spell Counters on your side of the field. Destroy all cards on your opponent's side of the field.)? \nA: No, you may not activate “Mega Ton Magical Cannon” if you do not have 10 Spell Counters on the field. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Removing Spell Counters is a cost. If you do not have 10 Spell Counters you can't activate 'Mega-Ton Magical Cannon'.",
+    "TeleDAD": "● Removing Spell Counters is a cost. If you do not have 10 Spell Counters you can't activate 'Mega-Ton Magical Cannon'.",
+    "Gladiator": "● Removing Spell Counters is a cost. If you do not have 10 Spell Counters you can't activate 'Mega-Ton Magical Cannon'.",
+    "ReturnDAD": "● Removing Spell Counters is a cost. If you do not have 10 Spell Counters you can't activate 'Mega-Ton Magical Cannon'.",
+    "Trooper": "● Removing Spell Counters is a cost. If you do not have 10 Spell Counters you can't activate 'Mega-Ton Magical Cannon'.",
+    "Circle": "● Removing Spell Counters is a cost. If you do not have 10 Spell Counters you can't activate 'Mega-Ton Magical Cannon'.",
+    "Stein": "● Removing Spell Counters is a cost. If you do not have 10 Spell Counters you can't activate 'Mega-Ton Magical Cannon'.",
+    "Base": "1. Removing Spell Counters is a cost. If you do not have 10 Spell Counters you cannot activate \"Mega-Ton Magical Cannon\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

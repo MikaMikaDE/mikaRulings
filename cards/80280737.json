@@ -1,0 +1,40 @@
+{
+  "id": 80280737,
+  "name": "Assault Mode Activate",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Tribute 1 Synchro Monster. Special Summon 1 /Assault Mode monster whose name includes the Tributed monster's name from your Deck in Attack Position.\n●Tributing a Synchro Monster is a cost.\n●You can Tribute your opponent’s Synchro Monster using “Soul Exchange”.\n●You can Tribute a face-down Synchro Monster.\n●You cannot activate “Assault Mode Activate” if you have no “/Assault Mode” monsters in your Deck.\n●If no copies of the appropriate “/Assault Mode” monster are left in your Deck when this card resolves, your opponent can verify by briefly inspecting your Deck to confirm. Don't reveal the Deck if 3 copies of that “/Assault Mode” monster are accounted for in your GY / field / banished.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Tributing a Synchro Monster is a cost. You can Tribute your opponent's Synchro Monster using \"Soul Exchange\".\\n2. You can Tribute a face-down Synchro Monster.\\n3. You cannot activate \"Assault Mode Activate\" if you have no '/Assault Mode' monsters in your Deck.\\n4. If you activate \"Assault Mode Activate\" but are unable to resolve its effect because of a lack of an appropriate '/Assault Mode' monster, your opponent can look through your Deck to confirm, unless you can show 3 copies of the appropriate '/Assault Mode' monster in your GY + field + removed zone."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 82994509,
+  "name": "Horseytail",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 400,
+    "def": 500,
+    "level": 2,
+    "race": "Plant",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Horseytail is declared with Prohibition after the Horsetail Token is Special Summoned, the discard effect is applied when Horseytail Token is destroyed.\n●If a Horseytail Token is Special Summoned onto your side of the field by the effect of your opponent's Horseytail, when it is destroyed by battle with a Plant-Type monster and you send a card from your hand to the GY, if you send Elephant Statue of Disaster to the GY, its effect does not activate.\n●Sending 1 card from your hand to the GY when Horseytail Token is destroyed by battle with a Plant-Type monster does not start a Chain.\n●If Remove Brainwashing or Owner's Seal is activated, control of the Horseytail Token is shifted to the player that activated the effect of Horseytail.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Horseytail' is declared with 'Prohibition' after the 'Horsetail Token' is Special Summoned, the discard effect is applied when 'Horseytail Token' is destroyed.\n● If a 'Horseytail Token' is Special Summoned onto your side of the field by the effect of your opponent's 'Horseytail', when it is destroyed by battle with a Plant and you send a card from your hand to the GY, if you send 'Elephant Statue of Disaster' to the GY, its effect does not activate.\n● Sending 1 card from your hand to the GY when 'Horseytail Token' is destroyed by battle with a Plant does not start a Chain.\n● If 'Remove Brainwashing' or 'Owner's Seal' is activated, control of the 'Horseytail Token' is shifted to the player that activated the effect of 'Horseytail'.",
+    "TeleDAD": "● If 'Horseytail' is declared with 'Prohibition' after the 'Horsetail Token' is Special Summoned, the discard effect is applied when 'Horseytail Token' is destroyed.\n● If a 'Horseytail Token' is Special Summoned onto your side of the field by the effect of your opponent's 'Horseytail', when it is destroyed by battle with a Plant and you send a card from your hand to the GY, if you send 'Elephant Statue of Disaster' to the GY, its effect does not activate.\n● Sending 1 card from your hand to the GY when 'Horseytail Token' is destroyed by battle with a Plant does not start a Chain.\n● If 'Remove Brainwashing' or 'Owner's Seal' is activated, control of the 'Horseytail Token' is shifted to the player that activated the effect of 'Horseytail'.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Horseytail\" is declared with \"Prohibition\" after the 'Horsetail Token' is Special Summoned, the discard effect is applied when 'Horseytail Token' is destroyed.\\n2. If a 'Horseytail Token' is Special Summoned onto your side of the field by the effect of your opponent's \"Horseytail\", when it is destroyed by battle with a Plant-Type monster and you send a card from your hand to the GY, if you send \"Elephant Statue of Disaster\" to the GY, its effect does not activate.\\n3. Sending 1 card from your hand to the GY when 'Horseytail Token' is destroyed by battle with a Plant-Type monster does not start a Chain.\\n4. If \"Remove Brainwashing\" or \"Owner's Seal\" is activated, control of the 'Horseytail Token' is shifted to the player that activated the effect of \"Horseytail\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

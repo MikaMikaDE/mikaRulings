@@ -1,0 +1,44 @@
+{
+  "id": 46263076,
+  "name": "Earthbound Immortal Ccapac Apu",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 3000,
+    "def": 2500,
+    "level": 10,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you control an Earthbound Immortal and no other monsters, your opponent cannot attack you, because they cannot select the Earthbound Immortal as an attack target. (Exception: they can attack with monsters that can attack directly, such as “Submarineroid.”)\n●If the only Earthbound Immortal on the field is an Equip Spell Card, it is not treated as a monster so you can Summon an Earthbound Immortal.\n●If you replace your opponent’s Field Spell Card by activating one of your own, there is a face-up Field Spell Card continuously on the field, so any Earthbound Immortal on the field would not be destroyed.\n●If you activate a new Field Spell Card, replacing your own Field Spell Card, there is a gap when no Field Spell Card is on the field, so any Earthbound Immortal would be destroyed.\n●If you Special Summon an Earthbound Immortal by chaining “Call of the Haunted” or “Revival of the Immortals” to the activation of a Field Spell Card, even though the Field Spell Card has not resolved when the Earthbound Immortal is Special Summoned as Chain Link 2, the Earthbound Immortal will remain on the field, undestroyed.\n●The effect of “Earthbound Immortal Ccapac Apu” that inflicts damage to the opponent activates at the end of the Damage Step, after the destroyed monster has been sent to the GY. So the damage is based off the ATK in the GY (the monster’s original ATK).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you control an Earthbound Immortal and no other monsters, your opponent cannot attack you, because they cannot select the Earthbound Immortal as an attack target. (Exception: they can attack with monsters that can attack directly, such as \"Submarineroid\".)\\n2. If the only Earthbound Immortal on the field is an Equip Spell Card, it is not treated as a monster so you can Summon an Earthbound Immortal.\\n3. If you replace your opponent's Field Spell Card by activating one of your own, there is a face-up Field Spell Card continuously on the field, so any Earthbound Immortal on the field would not be destroyed. If you activate a new Field Spell Card, replacing your own Field Spell Card, there is a gap when no Field Spell Card is on the field, so any Earthbound Immortal would be destroyed.\\n4. If you Special Summon an Earthbound Immortal by chaining \"Call of the Haunted\" or \"Revival of the Immortals\" to the activation of a Field Spell Card, even though the Field Spell Card has not resolved when the Earthbound Immortal is Special Summoned as Chain Link 2, the Earthbound Immortal will remain on the field, undestroyed.\\n5. The effect of \"Earthbound Immortal Ccapac Apu\" that inflicts damage to the opponent activates at the end of the Damage Step, after the destroyed monster has been sent to the GY. So the damage is based off the ATK in the GY (the monster's original ATK)."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

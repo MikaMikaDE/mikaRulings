@@ -1,0 +1,40 @@
+{
+  "id": 34906152,
+  "name": "Mass Driver",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Tributing a monster for Mass Driver is a cost.\n●You can use Mass Driver's effect repeatedly in the same turn as long as you can keep paying the cost.\n●The activation of Mass Driver's effect can be chained to.",
+    "Goat": "●Tributing a monster for Mass Driver is a cost.\n●You can use Mass Driver's effect repeatedly in the same turn as long as you can keep paying the cost.\n●The activation of Mass Driver's effect can be chained to.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Tributing a monster for 'Mass Driver' is a cost.\n● You can use 'Mass Driver''s effect repeatedly in the same turn as long as you can keep paying the cost.\n● The activation of 'Mass Driver''s effect can be chained to.",
+    "TeleDAD": "● Tributing a monster for 'Mass Driver' is a cost.\n● You can use 'Mass Driver''s effect repeatedly in the same turn as long as you can keep paying the cost.\n● The activation of 'Mass Driver''s effect can be chained to.",
+    "Gladiator": "● Tributing a monster for 'Mass Driver' is a cost.\n● You can use 'Mass Driver''s effect repeatedly in the same turn as long as you can keep paying the cost.\n● The activation of 'Mass Driver''s effect can be chained to.",
+    "ReturnDAD": "● Tributing a monster for 'Mass Driver' is a cost.\n● You can use 'Mass Driver''s effect repeatedly in the same turn as long as you can keep paying the cost.\n● The activation of 'Mass Driver''s effect can be chained to.",
+    "Trooper": "● Tributing a monster for 'Mass Driver' is a cost.\n● You can use 'Mass Driver''s effect repeatedly in the same turn as long as you can keep paying the cost.\n● The activation of 'Mass Driver''s effect can be chained to.",
+    "Circle": "● Tributing a monster for 'Mass Driver' is a cost.\n● You can use 'Mass Driver''s effect repeatedly in the same turn as long as you can keep paying the cost.\n● The activation of 'Mass Driver''s effect can be chained to.",
+    "Stein": "● Tributing a monster for 'Mass Driver' is a cost.\n● You can use 'Mass Driver''s effect repeatedly in the same turn as long as you can keep paying the cost.\n● The activation of 'Mass Driver''s effect can be chained to.",
+    "Base": "1. Tributing a monster for \"Mass Driver\" is a cost.\\n2. You can use the effect of \"Mass Driver\" repeatedly in the same turn as long as you can keep paying the cost.\\n3. The activation of the effect of \"Mass Driver\" can be chained to."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

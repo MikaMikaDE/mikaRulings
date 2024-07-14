@@ -1,0 +1,44 @@
+{
+  "id": 1412158,
+  "name": "Super Roboyarou",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 1200,
+    "def": 500,
+    "level": 6,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of this card to Special Summon Super Robolady is Spell Speed 1 and can only be activated during your Main Phase 1 or 2.\n●A Super Robolady Special Summoned by this card’s effect is not considered properly Summoned. So if it is destroyed, you cannot target it with Monster Reborn.",
+    "Goat": "●The effect of this card to Special Summon Super Robolady is Spell Speed 1 and can only be activated during your MP 1 or 2.\nA Super Robolady Special Summoned by this card’s effect is not considered properly Summoned. So if it is destroyed, you cannot target it with Monster Reborn.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of this card to Special Summon 'Super Robolady' is Spell Speed 1 and can only be activated during your Main Phase 1 or 2.\n● A 'Super Robolady' Special Summoned by this card’s effect isn't considered properly Summoned. So if it is destroyed, you can't target it with 'Monster Reborn'.",
+    "TeleDAD": "● The effect of this card to Special Summon 'Super Robolady' is Spell Speed 1 and can only be activated during your Main Phase 1 or 2.\n● A 'Super Robolady' Special Summoned by this card’s effect isn't considered properly Summoned. So if it is destroyed, you can't target it with 'Monster Reborn'.",
+    "Gladiator": "● The effect of this card to Special Summon 'Super Robolady' is Spell Speed 1 and can only be activated during your Main Phase 1 or 2.\n● A 'Super Robolady' Special Summoned by this card’s effect isn't considered properly Summoned. So if it is destroyed, you can't target it with 'Monster Reborn'.",
+    "ReturnDAD": "● The effect of this card to Special Summon 'Super Robolady' is Spell Speed 1 and can only be activated during your Main Phase 1 or 2.\n● A 'Super Robolady' Special Summoned by this card’s effect isn't considered properly Summoned. So if it is destroyed, you can't target it with 'Monster Reborn'.",
+    "Trooper": "● The effect of this card to Special Summon 'Super Robolady' is Spell Speed 1 and can only be activated during your Main Phase 1 or 2.\n● A 'Super Robolady' Special Summoned by this card’s effect isn't considered properly Summoned. So if it is destroyed, you can't target it with 'Monster Reborn'.",
+    "Circle": "● The effect of this card to Special Summon 'Super Robolady' is Spell Speed 1 and can only be activated during your Main Phase 1 or 2.\n● A 'Super Robolady' Special Summoned by this card’s effect isn't considered properly Summoned. So if it is destroyed, you can't target it with 'Monster Reborn'.",
+    "Stein": "● The effect of this card to Special Summon 'Super Robolady' is Spell Speed 1 and can only be activated during your Main Phase 1 or 2.\n● A 'Super Robolady' Special Summoned by this card’s effect isn't considered properly Summoned. So if it is destroyed, you can't target it with 'Monster Reborn'.",
+    "Base": "1. The effect of this card to Special Summon \"Super Robolady\" is Spell Speed 1 and can only be activated during your Main Phase 1 or 2.\\n2. A \"Super Robolady\" Special Summoned by this card's effect is not considered properly Summoned. So if it is destroyed, you cannot target it with \"Monster Reborn\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

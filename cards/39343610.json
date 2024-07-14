@@ -1,0 +1,44 @@
+{
+  "id": 39343610,
+  "name": "Darkblaze Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1000,
+    "level": 7,
+    "race": "Dragon",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●Darkblaze Dragon's effect doubles its original ATK and DEF to create a new current ATK and DEF.\n●Darkblaze Dragon's effect that doubles it original ATK and DEF to create a new current ATK and DEF disappears when Darkblaze Dragon is removed from the field or flipped face-down.\n●If Skill Drain is face-up on the field when Darkblaze Dragon is Special Summoned from the GY, or if Skill Drain is activated after Darkblaze Dragon is Special Summoned from the GY, Skill Drain will negate Darkblaze Dragon's effect that doubles its original ATK and DEF to create a new current ATK and DEF. If Skill Drain is later negated or removed from the field, the original ATK and DEF are not doubled again.\n●If Darkblaze Dragon has its original ATK and DEF doubled to create a new current ATK and DEF and Shrink is used on the “Darkblaze Dragon”, the current ATK of Darkblaze Dragon becomes half of its original ATK. (its ATK would be 600 and its DEF would be 2000)",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Darkblaze Dragon's' effect doubles its original ATK/DEF to create a new current ATK/DEF.\n● 'Darkblaze Dragon's' effect that doubles it original ATK/DEF to create a new current ATK/DEF disappears when 'Darkblaze Dragon' leaves the field or flipped face-down.\n● If 'Skill Drain' is applying when 'Darkblaze Dragon' is Special Summoned from the GY, or if 'Skill Drain' is activated after 'Darkblaze Dragon' is Special Summoned from the GY, 'Skill Drain' will negate 'Darkblaze Dragon's' effect that doubles its original ATK/DEF to create a new current ATK/DEF. If 'Skill Drain' is later negated or removed from the field, the original ATK/DEF are not doubled again.\n● If 'Darkblaze Dragon' has its original ATK/DEF doubled to create a new current ATK/DEF and 'Shrink' is used on the “Darkblaze Dragon”, the current ATK of 'Darkblaze Dragon' becomes half of its original ATK. (its ATK would be 600 and its DEF would be 2000)\n● ",
+    "TeleDAD": "● 'Darkblaze Dragon's' effect doubles its original ATK/DEF to create a new current ATK/DEF.\n● 'Darkblaze Dragon's' effect that doubles it original ATK/DEF to create a new current ATK/DEF disappears when 'Darkblaze Dragon' leaves the field or flipped face-down.\n● If 'Skill Drain' is applying when 'Darkblaze Dragon' is Special Summoned from the GY, or if 'Skill Drain' is activated after 'Darkblaze Dragon' is Special Summoned from the GY, 'Skill Drain' will negate 'Darkblaze Dragon's' effect that doubles its original ATK/DEF to create a new current ATK/DEF. If 'Skill Drain' is later negated or removed from the field, the original ATK/DEF are not doubled again.\n● If 'Darkblaze Dragon' has its original ATK/DEF doubled to create a new current ATK/DEF and 'Shrink' is used on the “Darkblaze Dragon”, the current ATK of 'Darkblaze Dragon' becomes half of its original ATK. (its ATK would be 600 and its DEF would be 2000)\n● ",
+    "Gladiator": "● 'Darkblaze Dragon's' effect doubles its original ATK/DEF to create a new current ATK/DEF.\n● 'Darkblaze Dragon's' effect that doubles it original ATK/DEF to create a new current ATK/DEF disappears when 'Darkblaze Dragon' leaves the field or flipped face-down.\n● If 'Skill Drain' is applying when 'Darkblaze Dragon' is Special Summoned from the GY, or if 'Skill Drain' is activated after 'Darkblaze Dragon' is Special Summoned from the GY, 'Skill Drain' will negate 'Darkblaze Dragon's' effect that doubles its original ATK/DEF to create a new current ATK/DEF. If 'Skill Drain' is later negated or removed from the field, the original ATK/DEF are not doubled again.\n● If 'Darkblaze Dragon' has its original ATK/DEF doubled to create a new current ATK/DEF and 'Shrink' is used on the “Darkblaze Dragon”, the current ATK of 'Darkblaze Dragon' becomes half of its original ATK. (its ATK would be 600 and its DEF would be 2000)\n● ",
+    "ReturnDAD": "● 'Darkblaze Dragon's' effect doubles its original ATK/DEF to create a new current ATK/DEF.\n● 'Darkblaze Dragon's' effect that doubles it original ATK/DEF to create a new current ATK/DEF disappears when 'Darkblaze Dragon' leaves the field or flipped face-down.\n● If 'Skill Drain' is applying when 'Darkblaze Dragon' is Special Summoned from the GY, or if 'Skill Drain' is activated after 'Darkblaze Dragon' is Special Summoned from the GY, 'Skill Drain' will negate 'Darkblaze Dragon's' effect that doubles its original ATK/DEF to create a new current ATK/DEF. If 'Skill Drain' is later negated or removed from the field, the original ATK/DEF are not doubled again.\n● If 'Darkblaze Dragon' has its original ATK/DEF doubled to create a new current ATK/DEF and 'Shrink' is used on the “Darkblaze Dragon”, the current ATK of 'Darkblaze Dragon' becomes half of its original ATK. (its ATK would be 600 and its DEF would be 2000)\n● ",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● 'Darkblaze Dragon's' effect doubles its original ATK/DEF to create a new current ATK/DEF.\n● 'Darkblaze Dragon's' effect that doubles it original ATK/DEF to create a new current ATK/DEF disappears when 'Darkblaze Dragon' leaves the field or flipped face-down.\n● If 'Skill Drain' is applying when 'Darkblaze Dragon' is Special Summoned from the GY, or if 'Skill Drain' is activated after 'Darkblaze Dragon' is Special Summoned from the GY, 'Skill Drain' will negate 'Darkblaze Dragon's' effect that doubles its original ATK/DEF to create a new current ATK/DEF. If 'Skill Drain' is later negated or removed from the field, the original ATK/DEF are not doubled again.\n● If 'Darkblaze Dragon' has its original ATK/DEF doubled to create a new current ATK/DEF and 'Shrink' is used on the “Darkblaze Dragon”, the current ATK of 'Darkblaze Dragon' becomes half of its original ATK. (its ATK would be 600 and its DEF would be 2000)\n● ",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Darkblaze Dragon\" doubles its original ATK and DEF to create a new current ATK and DEF.\\n2. The effect of \"Darkblaze Dragon\" that doubles it original ATK and DEF to create a new current ATK and DEF disappears when \"Darkblaze Dragon\" is removed from the field or flipped face-down.\\n3. If \"Skill Drain\" is face-up on the field when \"Darkblaze Dragon\" is Special Summoned from the GY, or if \"Skill Drain\" is activated after \"Darkblaze Dragon\" is Special Summoned from the GY, \"Skill Drain\" will negate the effect of \"Darkblaze Dragon\" that doubles its original ATK and DEF to create a new current ATK and DEF. If \"Skill Drain\" is later negated or removed from the field, the original ATK and DEF are not doubled again.\\n4. If \"Darkblaze Dragon\" has its original ATK and DEF doubled to create a new current ATK and DEF and \"Shrink\" is used on the \"Darkblaze Dragon\", the current ATK of \"Darkblaze Dragon\" becomes half of its original ATK. (its ATK would be 600 and its DEF would be 2000)"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

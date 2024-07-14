@@ -1,0 +1,40 @@
+{
+  "id": 23265313,
+  "name": "Cost Down",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●The Level of a monster which is Summoned using Cost Down is still decreased by 2 after Summoning. The 2 Level reduction lasts until the End Phase.\n●When you Ritual Summon while Cost Down is active, the Level Stars that you need is not changed, even if you are using Contract with the Abyss or Earth Chant.\n●You can use multiple Cost Downs in the same turn and their effects accumulate, so 3 Cost Downs lowers the level by 6 Stars.\n●While A Legendary Ocean and 1 Cost Down are active, your WATER monsters are reduced by 3 Stars.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The LV of a monster which is Summoned using 'Cost Down' is still decreased by 2 after Summoning. The 2 LV reduction lasts until the End Phase.\n● When you Ritual Summon while 'Cost Down' is applying, the LV Stars that you need isn't changed, even if you are using 'Contract with the Abyss' or 'Earth Chant'.\n● You can use multiple 'Cost Downs' in the same turn and their effects accumulate, so 3 'Cost Downs' lowers the level by 6 Stars.\n● While 'A Legendary Ocean' and 1 'Cost Down' are applying, your WATER monsters are reduced by 3 Stars.",
+    "TeleDAD": "● The LV of a monster which is Summoned using 'Cost Down' is still decreased by 2 after Summoning. The 2 LV reduction lasts until the End Phase.\n● When you Ritual Summon while 'Cost Down' is applying, the LV Stars that you need isn't changed, even if you are using 'Contract with the Abyss' or 'Earth Chant'.\n● You can use multiple 'Cost Downs' in the same turn and their effects accumulate, so 3 'Cost Downs' lowers the level by 6 Stars.\n● While 'A Legendary Ocean' and 1 'Cost Down' are applying, your WATER monsters are reduced by 3 Stars.",
+    "Gladiator": "● The LV of a monster which is Summoned using 'Cost Down' is still decreased by 2 after Summoning. The 2 LV reduction lasts until the End Phase.\n● When you Ritual Summon while 'Cost Down' is applying, the LV Stars that you need isn't changed, even if you are using 'Contract with the Abyss' or 'Earth Chant'.\n● You can use multiple 'Cost Downs' in the same turn and their effects accumulate, so 3 'Cost Downs' lowers the level by 6 Stars.\n● While 'A Legendary Ocean' and 1 'Cost Down' are applying, your WATER monsters are reduced by 3 Stars.",
+    "ReturnDAD": "● The LV of a monster which is Summoned using 'Cost Down' is still decreased by 2 after Summoning. The 2 LV reduction lasts until the End Phase.\n● When you Ritual Summon while 'Cost Down' is applying, the LV Stars that you need isn't changed, even if you are using 'Contract with the Abyss' or 'Earth Chant'.\n● You can use multiple 'Cost Downs' in the same turn and their effects accumulate, so 3 'Cost Downs' lowers the level by 6 Stars.\n● While 'A Legendary Ocean' and 1 'Cost Down' are applying, your WATER monsters are reduced by 3 Stars.",
+    "Trooper": "● The LV of a monster which is Summoned using 'Cost Down' is still decreased by 2 after Summoning. The 2 LV reduction lasts until the End Phase.\n● When you Ritual Summon while 'Cost Down' is applying, the LV Stars that you need isn't changed, even if you are using 'Contract with the Abyss' or 'Earth Chant'.\n● You can use multiple 'Cost Downs' in the same turn and their effects accumulate, so 3 'Cost Downs' lowers the level by 6 Stars.\n● While 'A Legendary Ocean' and 1 'Cost Down' are applying, your WATER monsters are reduced by 3 Stars.",
+    "Circle": "● The LV of a monster which is Summoned using 'Cost Down' is still decreased by 2 after Summoning. The 2 LV reduction lasts until the End Phase.\n● When you Ritual Summon while 'Cost Down' is applying, the LV Stars that you need isn't changed, even if you are using 'Contract with the Abyss' or 'Earth Chant'.\n● You can use multiple 'Cost Downs' in the same turn and their effects accumulate, so 3 'Cost Downs' lowers the level by 6 Stars.\n● While 'A Legendary Ocean' and 1 'Cost Down' are applying, your WATER monsters are reduced by 3 Stars.",
+    "Stein": "● The LV of a monster which is Summoned using 'Cost Down' is still decreased by 2 after Summoning. The 2 LV reduction lasts until the End Phase.\n● When you Ritual Summon while 'Cost Down' is applying, the LV Stars that you need isn't changed, even if you are using 'Contract with the Abyss' or 'Earth Chant'.\n● You can use multiple 'Cost Downs' in the same turn and their effects accumulate, so 3 'Cost Downs' lowers the level by 6 Stars.\n● While 'A Legendary Ocean' and 1 'Cost Down' are applying, your WATER monsters are reduced by 3 Stars.",
+    "Base": "1. The Level of a monster which is Summoned using \"Cost Down\" is still decreased by 2 after Summoning. The 2 Level reduction lasts until the End Phase.\\n2. When you Ritual Summon while \"Cost Down\" is active, the Level Stars that you need is not changed, even if you are using \"Contract with the Abyss\" or \"Earth Chant\".\\n3. You can use multiple copies of \"Cost Down\" in the same turn and their effects accumulate, so 3 copies of \"Cost Down\" lowers the level by 6 Stars.\\n4. While \"A Legendary Ocean\" and 1 \"Cost Down\" are active, your WATER monsters are reduced by 3 Stars."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

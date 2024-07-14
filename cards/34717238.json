@@ -1,0 +1,40 @@
+{
+  "id": 34717238,
+  "name": "Pulling the Rug",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "This card can only negate trigger effects which specifically activate when a monster is Normal Summoned. \n● It can negate the effects of cards like \"Caius the Shadow Monarch\", \"Armageddon Knight\" (if it was Normal Summoned), or \"Dark Verger\".\n● It cannot negate Ignition effects, even if activated with ignition Priority.\nIt can never negate the effect of \"Substitoad\", \"Dark Grepher\", nor \"D.D. Crow\".\n● It cannot negate an effect which activated because a monster was Special Summoned, even if that monster's effect states \"if this card is Normal/Special Summoned\".",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card does not target.\n● You can't Chain “Pulling the Rug” to an Ignition Effect that was activated when a monster was Normal Summoned. (“Exiled Force”, etc.)\n● “Pulling the Rug” can be activated when any Trigger Effect is activated due to a Normal Summon. Even if the Trigger Effect came from a different monster than the one that was Normal Summoned. (In this case, the monster that produced the Trigger Effect is destroyed, not the monster that was Normal Summoned.)\n● ",
+    "TeleDAD": "● This card does not target.\n● You can't Chain “Pulling the Rug” to an Ignition Effect that was activated when a monster was Normal Summoned. (“Exiled Force”, etc.)\n● “Pulling the Rug” can be activated when any Trigger Effect is activated due to a Normal Summon. Even if the Trigger Effect came from a different monster than the one that was Normal Summoned. (In this case, the monster that produced the Trigger Effect is destroyed, not the monster that was Normal Summoned.)\n● ",
+    "Gladiator": "● This card does not target.\n● You can't Chain “Pulling the Rug” to an Ignition Effect that was activated when a monster was Normal Summoned. (“Exiled Force”, etc.)\n● “Pulling the Rug” can be activated when any Trigger Effect is activated due to a Normal Summon. Even if the Trigger Effect came from a different monster than the one that was Normal Summoned. (In this case, the monster that produced the Trigger Effect is destroyed, not the monster that was Normal Summoned.)\n● ",
+    "ReturnDAD": "● This card does not target.\n● You can't Chain “Pulling the Rug” to an Ignition Effect that was activated when a monster was Normal Summoned. (“Exiled Force”, etc.)\n● “Pulling the Rug” can be activated when any Trigger Effect is activated due to a Normal Summon. Even if the Trigger Effect came from a different monster than the one that was Normal Summoned. (In this case, the monster that produced the Trigger Effect is destroyed, not the monster that was Normal Summoned.)\n● ",
+    "Trooper": "● You can't Chain “Pulling the Rug” to an Ignition Effect that was activated when a monster was Normal Summoned. (“Exiled Force”, etc.)\n● ",
+    "Circle": "● This card does not target.\n● You can't Chain “Pulling the Rug” to an Ignition Effect that was activated when a monster was Normal Summoned. (“Exiled Force”, etc.)\n● “Pulling the Rug” can be activated when any Trigger Effect is activated due to a Normal Summon. Even if the Trigger Effect came from a different monster than the one that was Normal Summoned. (In this case, the monster that produced the Trigger Effect is destroyed, not the monster that was Normal Summoned.)\n● ",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card does not target.\\n2. You cannot Chain \"Pulling the Rug\" to an Ignition Effect that was activated when a monster was Normal Summoned. (\"Exiled Force\", etc.)\\n3. \"Pulling the Rug\" can be activated when any Trigger Effect is activated due to a Normal Summon. Even if the Trigger Effect came from a different monster than the one that was Normal Summoned. (In this case, the monster that produced the Trigger Effect is destroyed, not the monster that was Normal Summoned.)"
+  },
+  "PSCT": {
+    "Tengu": "① If a Monster Effect is triggered because a monster was Normal Summoned: \nNegate the activation, and if you do, destroy the monster that activated that effect.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

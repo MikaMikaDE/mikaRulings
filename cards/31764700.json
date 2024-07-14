@@ -1,0 +1,44 @@
+{
+  "id": 31764700,
+  "name": "Yubel - The Ultimate Nightmare",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 12,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●When Yubel - The Ultimate Nightmare battles with a monster that cannot be destroyed by its effect, like Vennominaga, the Deity of Poisonous Snakes, Yubel - The Ultimate Nightmare's effect still inflicts damage but will not destroy the monster.\n●When Yubel - The Ultimate Nightmare destroys a monster in battle, its effect still inflicts damage but the effect to destroy the monster it battled with disappears.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Yubel - The Ultimate Nightmare' battles with a monster that can't be destroyed by its effect, like 'Vennominaga, the Deity of Poisonous Snakes', 'Yubel - The Ultimate Nightmare's' effect still inflicts damage but will not destroy the monster.\n● When 'Yubel - The Ultimate Nightmare' destroys a monster in battle, its effect still inflicts damage but the effect to destroy the monster it battled with disappears.",
+    "TeleDAD": "● When 'Yubel - The Ultimate Nightmare' battles with a monster that can't be destroyed by its effect, like 'Vennominaga, the Deity of Poisonous Snakes', 'Yubel - The Ultimate Nightmare's' effect still inflicts damage but will not destroy the monster.\n● When 'Yubel - The Ultimate Nightmare' destroys a monster in battle, its effect still inflicts damage but the effect to destroy the monster it battled with disappears.",
+    "Gladiator": "● When 'Yubel - The Ultimate Nightmare' battles with a monster that can't be destroyed by its effect, like 'Vennominaga, the Deity of Poisonous Snakes', 'Yubel - The Ultimate Nightmare's' effect still inflicts damage but will not destroy the monster.\n● When 'Yubel - The Ultimate Nightmare' destroys a monster in battle, its effect still inflicts damage but the effect to destroy the monster it battled with disappears.",
+    "ReturnDAD": "● When 'Yubel - The Ultimate Nightmare' battles with a monster that can't be destroyed by its effect, like 'Vennominaga, the Deity of Poisonous Snakes', 'Yubel - The Ultimate Nightmare's' effect still inflicts damage but will not destroy the monster.\n● When 'Yubel - The Ultimate Nightmare' destroys a monster in battle, its effect still inflicts damage but the effect to destroy the monster it battled with disappears.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. When \"Yubel - The Ultimate Nightmare\" battles with a monster that cannot be destroyed by its effect, like \"Vennominaga, the Deity of Poisonous Snakes\", the effect of \"Yubel - The Ultimate Nightmare\" still inflicts damage but will not destroy the monster.\\n2. When \"Yubel - The Ultimate Nightmare\" destroys a monster in battle, its effect still inflicts damage but the effect to destroy the monster it battled with disappears."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

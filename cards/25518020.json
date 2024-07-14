@@ -1,0 +1,40 @@
+{
+  "id": 25518020,
+  "name": "Machine Assembly Line",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "(1) All face-up Machine-Type monsters on the field gain 200 ATK. (2) Each time a Machine-Type monster(s) on the field is destroyed, place 2 Junk Counters on this card. (3) You can send this card to the GY to select and Special Summon 1 Machine-Type monster from your GY, whose Level is less than or equal to the number of Junk Counters on this card.\n●The (1) Continuous-like Effect applies to face-up Machine-Type monsters on BOTH sides of the field.\n●The (2) Continuous-like Effect does not start a Chain.\n●Junk Counters are placed when an effect resolves destroying a Machine-Type monster(s), or during the Damage Step when a Machine-Type monster is destroyed by battle.\n●If multiple Machine-Type monsters are destroyed at the same time, you only place 2 Junk Counters.\n●A Machine-Type monster treated as an Equip Card is destroyed, do not place any Junk Counters.\n●If a face-down Machine-Type monster is destroyed you do not place any Junk Counters.\n●The (3) Ignition-like Effect activates & resolves on the field.\n●Sending this card to the GY is a cost to activate the effect to Special Summon.\n●This effect targets a Machine-Type monster at activation.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect that places Junk Counters does not start a Chain.\\n2. Sending this card to the GY is a cost to activate the effect to Special Summon.\\n3. If multiple Machine-Type monsters are destroyed at the same time, you only place 2 Junk Counters.\\n4. If a Machine-Type monster being treated as an Equip Card is destroyed, you do not place any Junk Counters.\\n5. If a face-down Machine-Type monster is destroyed you do not place any Junk Counters."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 79814787,
+  "name": "The White Stone of Legend",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 250,
+    "level": 1,
+    "race": "Dragon",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(1) When this card is sent to the GY, add 1 Blue-Eyes White Dragon from your Deck to your hand.\n●This (1) mandatory Trigger Effect activates &  resolves in the GY.\n●This effect will activate even if no copies of Blue-Eyes White Dragon remain in your Deck. In this case: your opponent can briefly check your Deck to verify, unless all 3 copies of Blue-Eyes White Dragon can be accounted for in the GY / field / removed from play (face-up).\n●This effect will activate even when The White Stone of Legend was discarded for hand size. In this case: discarding for hand size is the very last action in the End Phase. Only mandatory effects and Counter Trap Cards can be activated beyond this point.\n●Example: It is Player A's End Phase and they have a Set Divine Wrath from a  previous turn. Player A discards two copies of The White Stone of Legend to bring their hand size down to 6 cards. However, The White Stone of Legend has a mandatory Trigger Effect to add a Blue-Eyes White Dragon from the Deck to the hand, and Player B controls a Doomcaliber Knight. Thus, a chain is built with both The White Stone of Legend's effects forming a chain as Chain Links 1 and 2, and Doomcaliber Knight Tributing itself as Chain Link 3. Player A activates Divine Wrath as Chain Link 4 and discards a card as cost. When resolving the chain, Divine Wrath will successfully negate the effect of Doomcaliber Knight, then both effects of The White Stone of Legend will add a copy of Blue-Eyes White Dragon to Player A's hand (should any remain in the Deck). Once the chain has resolved, no chains may be built (unless mandatory Trigger/Trigger-like Effects were activated) and Player A must once again discard down to their hand limit and the turn ends.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● This effect is mandatory.\n● This effect will activate even if discarded in the End Phase due to hand size.",
+    "Vegas": "● This effect is mandatory.\n● This effect will activate even if discarded in the End Phase due to hand size.",
+    "Meadowlands": "● This effect is mandatory.\n● This effect will activate even if discarded in the End Phase due to hand size.",
+    "FireWater": "● This effect is mandatory.\n● This effect will activate even if discarded in the End Phase due to hand size.",
+    "Cat": "● When resolving the effect of 'The White Stone of Legend', if you have no copies of 'Blue-Eyes White Dragon' left in your Deck your opponent can briefly check your Deck to verify, unless every copy of 'Blue-Eyes White Dragon' can be accounted for in the GY, Removed Zone, and on the field. (example: If all 3 'Blue-Eyes White Dragon' are in the GY, your opponent does not check your Deck) If a copy is in your hand, your opponent checks your Deck to verify (you can't reveal a 'Blue-Eyes White Dragon' in your hand).",
+    "TeleDAD": "● When resolving the effect of 'The White Stone of Legend', if you have no copies of 'Blue-Eyes White Dragon' left in your Deck your opponent can briefly check your Deck to verify, unless every copy of 'Blue-Eyes White Dragon' can be accounted for in the GY, Removed Zone, and on the field. (example: If all 3 'Blue-Eyes White Dragon' are in the GY, your opponent does not check your Deck) If a copy is in your hand, your opponent checks your Deck to verify (you can't reveal a 'Blue-Eyes White Dragon' in your hand).",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. When resolving the effect of \"The White Stone of Legend\", if you have no copies of \"Blue-Eyes White Dragon\" left in your Deck your opponent can briefly check your Deck to verify, unless every copy of \"Blue-Eyes White Dragon\" can be accounted for in the GY, Removed Zone, and on the field. (example: If all 3 \"Blue-Eyes White Dragon\" are in the GY, your opponent does not check your Deck) If a copy is in your hand, your opponent checks your Deck to verify (you cannot reveal a \"Blue-Eyes White Dragon\" in your hand)."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① If this card is sent to the GY: Add 1 \"Blue-Eyes White Dragon\" from your Deck to your hand.",
+    "Meadowlands": "① If this card is sent to the GY: Add 1 \"Blue-Eyes White Dragon\" from your Deck to your hand.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

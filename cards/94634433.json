@@ -1,0 +1,40 @@
+{
+  "id": 94634433,
+  "name": "Urgent Tuning",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Activate only during the Battle Phase. Synchro Summon 1 Synchro Monster. (Send the appropriate Synchro Material Monsters to the GY.)\n●This card does not target.\n●This card cannot be activated during the Damage Step.\n●The Synchro Summon occurs when this effect resolves, it does not occur immediately after this effect resolves. as seen in the most recent erratum.\n●Solemn Judgment cannot negate the Synchro Summon performed when this effect resolves.\n●If the number of monsters you control changes due to an effect chained to “Urgent Tuning”, and you do not have a Synchro Monster of a Level you could Summon when “Urgent Tuning” resolves, you must show your Extra Deck to your opponent to prove that you cannot Summon a monster. You do not have to show your Extra Deck to your opponent if you would not be able to Synchro Summon at all when “Urgent Tuning” resolves. (Because you control only 1 monster, or control only Tuner monsters, etc.)\n●You can use monsters that are not affected by Trap Cards, like “Elemental Hero Wildheart” as Synchro Material Monsters for “Urgent Tuning”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card does not target.\n● This card can't be activated during the Damage Step.\n● If the number of monsters you control changes due to an effect chained to “Urgent Tuning”, and you do not have a Synchro Monster of a LV you could Summon when “Urgent Tuning” resolves, you must show your Extra Deck to your opponent to prove that you can't Summon a monster. You do not have to show your Extra Deck to your opponent if you would not be able to Synchro Summon at all when “Urgent Tuning” resolves. (Because you control only 1 monster, or control only Tuner monsters, etc.)\n● You can use monsters that are not affected by Trap Cards, like “Elemental Hero Wildheart” as Synchro Material Monsters for “Urgent Tuning”.",
+    "TeleDAD": "● This card does not target.\n● This card can't be activated during the Damage Step.\n● If the number of monsters you control changes due to an effect chained to “Urgent Tuning”, and you do not have a Synchro Monster of a LV you could Summon when “Urgent Tuning” resolves, you must show your Extra Deck to your opponent to prove that you can't Summon a monster. You do not have to show your Extra Deck to your opponent if you would not be able to Synchro Summon at all when “Urgent Tuning” resolves. (Because you control only 1 monster, or control only Tuner monsters, etc.)\n● You can use monsters that are not affected by Trap Cards, like “Elemental Hero Wildheart” as Synchro Material Monsters for “Urgent Tuning”.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card does not target.\\n2. This card cannot be activated during the Damage Step.\\n3. If the number of monsters you control changes due to an effect chained to \"Urgent Tuning\", and you do not have a Synchro Monster of a Level you could Summon when \"Urgent Tuning\" resolves, you must show your Extra Deck to your opponent to prove that you cannot Summon a monster. You do not have to show your Extra Deck to your opponent if you would not be able to Synchro Summon at all when \"Urgent Tuning\" resolves. (Because you control only 1 monster, or control only Tuner monsters, etc.)\\n4. You can use monsters that are not affected by Trap Cards, like \"Elemental HERO Wildheart\" as Synchro Material Monsters for \"Urgent Tuning\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

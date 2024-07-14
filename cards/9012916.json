@@ -1,0 +1,44 @@
+{
+  "id": 9012916,
+  "name": "Black-Winged Dragon",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2800,
+    "def": 1600,
+    "level": 8,
+    "race": "Dragon",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Removing the Black Feather Counters is a cost.\\n2. The effect to inflict damage targets 1 face-up monster. The damage inflicted is equal to the amount of ATK lost by the target monster.\\n3. The targeted monster's ATK will remain decreased for as long as it is face-up on the field.\\n4. If \"Reverse Trap\" is activated, the ATK of \"Black-Winged Dragon\" will increase for each Black Feather Counter on it and an opponent's monster targeted by the effect will have its ATK increased. No damage will be inflicted in that case.\\n5. \"Black-Winged Dragon\" and \"Black-Winged Strafe\" are not 'Blackwing' cards. You cannot use \"Blackwing - Breeze the Zephyr\" as a Fusion Material Monster.\\n6. If you would be dealt effect damage by \"Gravekeeper's Vassal\" while you control \"Black-Winged Dragon\" you place the Black Feather Counter during Damage Calculation and the damage is reduced to 0.\\n7. If you control \"Black-Winged Dragon\" and \"Prime Material Dragon\" and an effect that would inflict damage to you is activated, you will gain Life Points instead and no Black Feather Counters will be placed.\\n8. If multiple Ojama Tokens are destroyed at the same time, you'll place a Black Feather Counter for each of them.\\n9. You can still activate \"Against The Wind\" while you control \"Black-Winged Dragon\", but you'll place a Black Feather Counter instead of taking damage and you won't add a 'Blackwing' monster to your hand.\\n10. You cannot target a monster with 0 ATK with the effect of \"Black-Winged Dragon\" because that monster's ATK cannot be reduced.\\n11. If you control more than 1 \"Black-Winged Dragon\" you'll only place 1 Black Feather Counter on 1 \"Black-Winged Dragon\" when you would take damage.\\n12. If \"Skill Drain\" is activated while \"Black-Winged Dragon\" has Black Feather Counters, all those Counters are removed and the ATK of \"Black-Winged Dragon\" returns to its original value.\\n13. If the monster targeted with the ATK reducing effect of \"Black-Winged Dragon\" is no longer face-up on the opponent's side of the field when the effect resolves then the effect is not applied.\\n14. The 'damage equal to the ATK lost' is equal to the actual amount lost by the target monster. If a monster with 1900 ATK has its ATK reduced to 0, the damage is 1900, even if 3 or more Black Feather Counters were removed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

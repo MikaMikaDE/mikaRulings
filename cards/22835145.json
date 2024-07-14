@@ -1,0 +1,44 @@
+{
+  "id": 22835145,
+  "name": "Blackwing - Blizzard the Far North",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 1300,
+    "def": 0,
+    "level": 2,
+    "race": "Winged Beast",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● If you control \"Black Whirlwind\", and have a \"Blackwing\" monster in your Deck with less than 1300 ATK:\nWhen you Summon this card, both its effect and \"Black Whirlwind\" will trigger. Since they are both optional effects, you can order them in any way you like. \nIf you order them as: Blizzard Chain Link 1, Whirlwind Chain Link 2, then your opponent can only respond to the newest chain link - Black Whirlwind's effect. \nThis means that cards like \"Royal Oppression\" and \"Pulling the Rug\" cannot be activated at this time - Those cards cannot be chained to Black Whirlwind's effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The restriction against Special Summoning \"Blackwing - Blizzard the Far North\" is not an 'effect'.\\n2. The effect of \"Blackwing - Blizzard the Far North\" targets 1 'Blackwing' monster in your GY."
+  },
+  "PSCT": {
+    "Tengu": "© Cannot be Special Summoned.\n① When Normal Summoned: You can target 1 Level 4 or lower \"Blackwing\" monster in your GY; \nSpecial Summon it in face-up Defense Position.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

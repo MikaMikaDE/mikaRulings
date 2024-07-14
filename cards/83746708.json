@@ -1,0 +1,40 @@
+{
+  "id": 83746708,
+  "name": "Mage Power",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●Mage Power includes itself, Field Spell Cards on your side of the field, and monsters acting like Equip Spell Cards, such as Union Monsters.\n●If you control Cannon Soldier equipped with Mage Power, and you activate Limiter Removal, then the ATK of Cannon Soldier is (1400 + 500 + 500) x 2 = 4800.",
+    "Goat": "●Mage Power includes itself, Field Spell Cards on your side of the field, and monsters acting like Equip Spell Cards, such as Union Monsters.\n●If you control Cannon Soldier equipped with Mage Power, and you activate Limiter Removal, then the ATK of Cannon Soldier is (1400 + 500 + 500) x 2 = 4800. Example: Player A controls 2 monsters. Player B activates “Change of Heart” to take control of one of them, then activates “Different Dimension Gate” to remove both from play. Both monsters are in Player A’s “removed zone” while removed from play (so Player A’s “Lost Guardian” would have 1400 DEF). When “Different Dimension Gate” is destroyed, the monster Player B took control of will return to Player B’s side of the field (if possible, if not it is destroyed) before returning to Player A’s side of the field.Mage Power counts itself toward its effect. (Example: if you Equip this Spell Card to your monster and Mage Power is the only Spell Card in your Spell/Trap Card Zone, the equipped monster would increase its ATK/DEF by 500 points.)\nA Field Spell Card in your Field Spell Card Zone is included in the effect of your Mage Power.\n●It does not matter if the Spell and/or Trap card(s) on your side of the field are face-up or face-down.\n●The only Spell/Trap cards included in the effect of Mage Power are the ones controlled by the person that is in control of the Mage Power. If your opponent takes control of your monster that is equipped with your Mage Power, Mage Power would still only count the Spell/Trap Cards on your side of the field. So if I have a Gemini Elf equipped with Mage Power and 2 Set Spell/Trap Cards and my opponent takes control of the equipped Gemini Elf, they would not count how many Spell/Trap cards are on their side of the field. Only the ones on my side of the field would be included in the effect of Mage Power.\n●Q: If “Mage Power” is on the field and its owner uses one of the set S/T during the Battle Phase (a “Seven Tools of the Bandit” Set a turn before, for example), does the monster equipped with “Mage Power” lose 500 ATK points? Does it matter if the card is being used to save or protect the monster “Mage Power” is equipped to? \nA: “Mage Power” will change the bonus if the number of Spell/Trap cards on the controller's side of the field changes. So in this case the monsters ATK would drop by 500. It does not matter why the Spell/Trap was activated. \n●  \n●Q: When the control of a monster changes while equipped with “Mage Power” or “United We Stand,” what side of the field is used for calculating the effect increases? \nA: The person who played the spell card. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Mage Power' includes itself, Field Spell Cards on your side of the field, and monsters acting like Equip Spell Cards, such as Union Monsters.\n● If you control 'Cannon Soldier' equipped with 'Mage Power', and you activate 'Limiter Removal', then the ATK of 'Cannon Soldier' is (1400 + 500 + 500) x 2 = 4800.",
+    "TeleDAD": "● 'Mage Power' includes itself, Field Spell Cards on your side of the field, and monsters acting like Equip Spell Cards, such as Union Monsters.\n● If you control 'Cannon Soldier' equipped with 'Mage Power', and you activate 'Limiter Removal', then the ATK of 'Cannon Soldier' is (1400 + 500 + 500) x 2 = 4800.",
+    "Gladiator": "● 'Mage Power' includes itself, Field Spell Cards on your side of the field, and monsters acting like Equip Spell Cards, such as Union Monsters.\n● If you control 'Cannon Soldier' equipped with 'Mage Power', and you activate 'Limiter Removal', then the ATK of 'Cannon Soldier' is (1400 + 500 + 500) x 2 = 4800.",
+    "ReturnDAD": "● 'Mage Power' includes itself, Field Spell Cards on your side of the field, and monsters acting like Equip Spell Cards, such as Union Monsters.\n● If you control 'Cannon Soldier' equipped with 'Mage Power', and you activate 'Limiter Removal', then the ATK of 'Cannon Soldier' is (1400 + 500 + 500) x 2 = 4800.",
+    "Trooper": "● 'Mage Power' includes itself, Field Spell Cards on your side of the field, and monsters acting like Equip Spell Cards, such as Union Monsters.\n● If you control 'Cannon Soldier' equipped with 'Mage Power', and you activate 'Limiter Removal', then the ATK of 'Cannon Soldier' is (1400 + 500 + 500) x 2 = 4800.",
+    "Circle": "● 'Mage Power' includes itself, Field Spell Cards on your side of the field, and monsters acting like Equip Spell Cards, such as Union Monsters.\n● If you control 'Cannon Soldier' equipped with 'Mage Power', and you activate 'Limiter Removal', then the ATK of 'Cannon Soldier' is (1400 + 500 + 500) x 2 = 4800.",
+    "Stein": "● 'Mage Power' includes itself, Field Spell Cards on your side of the field, and monsters acting like Equip Spell Cards, such as Union Monsters.\n● If you control 'Cannon Soldier' equipped with 'Mage Power', and you activate 'Limiter Removal', then the ATK of 'Cannon Soldier' is (1400 + 500 + 500) x 2 = 4800.",
+    "Base": "1. \"Mage Power\" includes itself, Field Spell Cards on your side of the field, and monsters acting like Equip Spell Cards, such as Union Monsters.\\n2. If you control \"Cannon Soldier\" equipped with \"Mage Power\", and you activate \"Limiter Removal\", then the ATK of \"Cannon Soldier\" is (1400 + 500 + 500) x 2 = 4800."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

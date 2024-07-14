@@ -1,0 +1,40 @@
+{
+  "id": 89405199,
+  "name": "Greed",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of Greed only applies to cards drawn while Greed was active. If Jar of Greed is chained to Greed's activation, Jar of Greed (Step 2) resolves and you draw 1 card for Jar of Greed before Greed’s effect (Step 1) was active, so no damage is inflicted during the End Phase. But if you chain Greed (Step 2) to Pot of Greed (Step 1), then Greed is active before Pot of Greed resolves, so the activator of Pot of Greed takes 1000 damage from Greed.\n●You can chain to the effect of Greed that inflicts damage.",
+    "Goat": "●The effect of Greed only applies to cards drawn while Greed was applying. If Jar of Greed is chained to Greed's activation, Jar of Greed (Step 2) resolves and you draw 1 card for Jar of Greed before Greed’s effect (Step 1) was applying, so no damage is inflicted during the End Phase. But if you chain Greed (Step 2) to Pot of Greed (Step 1), then Greed is applying before Pot of Greed resolves, so the activator of Pot of Greed takes 1000 damage from Greed.\n●You can chain to the effect of Greed that inflicts damage.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of 'Greed' only applies to cards drawn while 'Greed' was applying. If 'Jar of Greed' is chained to 'Greed''s activation, 'Jar of Greed' (Step 2) resolves and you draw 1 card for 'Jar of Greed' before 'Greed'’s effect (Step 1) was applying, so no damage is inflicted during the End Phase. But if you chain 'Greed' (Step 2) to 'Pot of Greed' (Step 1), then 'Greed' is applying before 'Pot of Greed' resolves, so the activator of 'Pot of Greed' takes 1000 damage from 'Greed'.\n● You can chain to the effect of 'Greed' that inflicts damage.",
+    "TeleDAD": "● The effect of 'Greed' only applies to cards drawn while 'Greed' was applying. If 'Jar of Greed' is chained to 'Greed''s activation, 'Jar of Greed' (Step 2) resolves and you draw 1 card for 'Jar of Greed' before 'Greed'’s effect (Step 1) was applying, so no damage is inflicted during the End Phase. But if you chain 'Greed' (Step 2) to 'Pot of Greed' (Step 1), then 'Greed' is applying before 'Pot of Greed' resolves, so the activator of 'Pot of Greed' takes 1000 damage from 'Greed'.\n● You can chain to the effect of 'Greed' that inflicts damage.",
+    "Gladiator": "● The effect of 'Greed' only applies to cards drawn while 'Greed' was applying. If 'Jar of Greed' is chained to 'Greed''s activation, 'Jar of Greed' (Step 2) resolves and you draw 1 card for 'Jar of Greed' before 'Greed'’s effect (Step 1) was applying, so no damage is inflicted during the End Phase. But if you chain 'Greed' (Step 2) to 'Pot of Greed' (Step 1), then 'Greed' is applying before 'Pot of Greed' resolves, so the activator of 'Pot of Greed' takes 1000 damage from 'Greed'.\n● You can chain to the effect of 'Greed' that inflicts damage.",
+    "ReturnDAD": "● The effect of 'Greed' only applies to cards drawn while 'Greed' was applying. If 'Jar of Greed' is chained to 'Greed''s activation, 'Jar of Greed' (Step 2) resolves and you draw 1 card for 'Jar of Greed' before 'Greed'’s effect (Step 1) was applying, so no damage is inflicted during the End Phase. But if you chain 'Greed' (Step 2) to 'Pot of Greed' (Step 1), then 'Greed' is applying before 'Pot of Greed' resolves, so the activator of 'Pot of Greed' takes 1000 damage from 'Greed'.\n● You can chain to the effect of 'Greed' that inflicts damage.",
+    "Trooper": "● The effect of 'Greed' only applies to cards drawn while 'Greed' was applying. If 'Jar of Greed' is chained to 'Greed''s activation, 'Jar of Greed' (Step 2) resolves and you draw 1 card for 'Jar of Greed' before 'Greed'’s effect (Step 1) was applying, so no damage is inflicted during the End Phase. But if you chain 'Greed' (Step 2) to 'Pot of Greed' (Step 1), then 'Greed' is applying before 'Pot of Greed' resolves, so the activator of 'Pot of Greed' takes 1000 damage from 'Greed'.\n● You can chain to the effect of 'Greed' that inflicts damage.",
+    "Circle": "● The effect of 'Greed' only applies to cards drawn while 'Greed' was applying. If 'Jar of Greed' is chained to 'Greed''s activation, 'Jar of Greed' (Step 2) resolves and you draw 1 card for 'Jar of Greed' before 'Greed'’s effect (Step 1) was applying, so no damage is inflicted during the End Phase. But if you chain 'Greed' (Step 2) to 'Pot of Greed' (Step 1), then 'Greed' is applying before 'Pot of Greed' resolves, so the activator of 'Pot of Greed' takes 1000 damage from 'Greed'.\n● You can chain to the effect of 'Greed' that inflicts damage.",
+    "Stein": "● The effect of 'Greed' only applies to cards drawn while 'Greed' was applying. If 'Jar of Greed' is chained to 'Greed''s activation, 'Jar of Greed' (Step 2) resolves and you draw 1 card for 'Jar of Greed' before 'Greed'’s effect (Step 1) was applying, so no damage is inflicted during the End Phase. But if you chain 'Greed' (Step 2) to 'Pot of Greed' (Step 1), then 'Greed' is applying before 'Pot of Greed' resolves, so the activator of 'Pot of Greed' takes 1000 damage from 'Greed'.\n● You can chain to the effect of 'Greed' that inflicts damage.",
+    "Base": "1. The effect of \"Greed\" only applies to cards drawn while \"Greed\" was active. If \"Jar of Greed\" is chained to the activation of \"Greed\", \"Jar of Greed\" (Step 2) resolves and you draw 1 card for \"Jar of Greed\" before the effect of \"Greed\" (Step 1) was active, so no damage is inflicted during the End Phase. But if you chain \"Greed\" (Step 2) to \"Pot of Greed\" (Step 1), then \"Greed\" is active before \"Pot of Greed\" resolves, so the activator of \"Pot of Greed\" takes 1000 damage from \"Greed\".\\n2. You can chain to the effect of \"Greed\" that inflicts damage."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

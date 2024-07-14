@@ -1,0 +1,40 @@
+{
+  "id": 69313735,
+  "name": "Checkmate",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Checkmate targets 1 Terrorking Archfiend on your side of the field as a target when it is activated.",
+    "Goat": "●Checkmate targets 1 Terrorking Archfiend on your side of the field as a target when it is activated.\n●“Checkmate” is a targeting effect, targeting a specific “Terrorking Archfiend.”\n●If “Terrorking Archfiend” is equipped with “Twin Swords of Flashing Light – Tryce” when “Checkmate’s” effect applies, “Terrorking Archfiend” may attack directly twice.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Checkmate' targets 1 'Terrorking Archfiend' on your side of the field as a target when it is activated.",
+    "TeleDAD": "● 'Checkmate' targets 1 'Terrorking Archfiend' on your side of the field as a target when it is activated.",
+    "Gladiator": "● 'Checkmate' targets 1 'Terrorking Archfiend' on your side of the field as a target when it is activated.",
+    "ReturnDAD": "● 'Checkmate' targets 1 'Terrorking Archfiend' on your side of the field as a target when it is activated.",
+    "Trooper": "● 'Checkmate' targets 1 'Terrorking Archfiend' on your side of the field as a target when it is activated.",
+    "Circle": "● 'Checkmate' targets 1 'Terrorking Archfiend' on your side of the field as a target when it is activated.",
+    "Stein": "● 'Checkmate' targets 1 'Terrorking Archfiend' on your side of the field as a target when it is activated.",
+    "Base": "1. \"Checkmate\" targets 1 \"Terrorking Archfiend\" on your side of the field as a target when it is activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

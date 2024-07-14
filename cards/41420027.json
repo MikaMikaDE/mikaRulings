@@ -1,0 +1,40 @@
+{
+  "id": 41420027,
+  "name": "Solemn Judgment",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "This effect can't negate monster effects that start a chain, even if that effect would special summon a monster.\nFor example, it cannot negate Gorz, The Emissary of Darkness' effect.",
+    "Goat": "“Solemn Judgment” can not be used to negate a Special Summon if that Special Summon occurs as a result of another card effect. \n●Special Summon monsters like “Dark Necrofear” that have their summons negated by “Solemn Judgment” are not considered properly summoned and may not be Special Summoned from the GY.\n●Q: If a person uses “Solemn Judgment” and the resulting LP results in a decimal, what happens? Does it round up or down? \nA: If equal or more than 0.5, round up. If less than 0.5, round down.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Solemn Judgment' can't negate a Special Summon if it results from the activated effect of a monster card, like 'Mystic Tomato', 'Light and Darkness Dragon', 'Van'Dalgyon the Dark Dragon Lord', 'Marauding Captain', 'Lonefire Blossom', etc.\n● 'Solemn Judgment' can negate the Special Summon of a monster that is Special Summoned through its own inherent Special Summon effect that does not start a Chain, like 'Cyber Dragon', 'The Fiend Megacyber', 'Dark Necrofear', 'Dark Armed Dragon', 'Judgment Dragon', 'Gladiator Beast Gyzarus', 'Elemental Hero Storm Neos', etc.\n● You can't negate the Special Summon of a monster after it is Special Summoned with a Spell/Trap Card, but you can use 'Solemn Judgment' to negate the activation of the Spell/Trap Card.\n● If halving your LP results in a fraction, your LP are rounded up.\n● 'Solemn Judgment' does not target the card it will destroy.",
+    "TeleDAD": "● 'Solemn Judgment' can't negate a Special Summon if it results from the activated effect of a monster card, like 'Mystic Tomato', 'Light and Darkness Dragon', 'Van'Dalgyon the Dark Dragon Lord', 'Marauding Captain', 'Lonefire Blossom', etc.\n● 'Solemn Judgment' can negate the Special Summon of a monster that is Special Summoned through its own inherent Special Summon effect that does not start a Chain, like 'Cyber Dragon', 'The Fiend Megacyber', 'Dark Necrofear', 'Dark Armed Dragon', 'Judgment Dragon', 'Gladiator Beast Gyzarus', 'Elemental Hero Storm Neos', etc.\n● You can't negate the Special Summon of a monster after it is Special Summoned with a Spell/Trap Card, but you can use 'Solemn Judgment' to negate the activation of the Spell/Trap Card.\n● If halving your LP results in a fraction, your LP are rounded up.\n● 'Solemn Judgment' does not target the card it will destroy.",
+    "Gladiator": "● 'Solemn Judgment' can't negate a Special Summon if it results from the activated effect of a monster card, like 'Mystic Tomato', 'Light and Darkness Dragon', 'Van'Dalgyon the Dark Dragon Lord', 'Marauding Captain', 'Lonefire Blossom', etc.\n● 'Solemn Judgment' can negate the Special Summon of a monster that is Special Summoned through its own inherent Special Summon effect that does not start a Chain, like 'Cyber Dragon', 'The Fiend Megacyber', 'Dark Necrofear', 'Dark Armed Dragon', 'Judgment Dragon', 'Gladiator Beast Gyzarus', 'Elemental Hero Storm Neos', etc.\n● You can't negate the Special Summon of a monster after it is Special Summoned with a Spell/Trap Card, but you can use 'Solemn Judgment' to negate the activation of the Spell/Trap Card.\n● If halving your LP results in a fraction, your LP are rounded up.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Solemn Judgment\" cannot negate a Special Summon if it results from the activated effect of a monster card, like \"Mystic Tomato\", \"Light and Darkness Dragon\", \"Van'Dalgyon the Dark Dragon Lord\", \"Marauding Captain\", \"Lonefire Blossom\", etc.\\n2. \"Solemn Judgment\" can negate the Special Summon of a monster that is Special Summoned through its own inherent Special Summon effect that does not start a Chain, like \"Cyber Dragon\", \"The Fiend Megacyber\", \"Dark Necrofear\", \"Dark Armed Dragon\", \"Judgment Dragon\", \"Gladiator Beast Gyzarus\", \"Elemental HERO Storm Neos\", etc.\\n3. You cannot negate the Special Summon of a monster after it is Special Summoned with a Spell or Trap Card, but you can use \"Solemn Judgment\" to negate the activation of the Spell or Trap Card.\\n4. If halving your Life Points results in a fraction, your Life Points are rounded up.\\n5. \"Solemn Judgment\" does not target the card it will destroy.\\n6. [FORUM] \"Solemn Judgment\" cannot negate monster effects, such as \"Gorz the Emissary of Darkness\", \"Tragoedia\", or \"Battle Fader\" being Special Summoned by their effects.\\n7. [FORUM] You are not able to activate \"Solemn Judgment\" in response to the activation of the 'Gladiator Beast' Monster's effect to Special Summon another 'Gladiator Beast' as \"Solemn Judgment\" cannot negate effects. You would activate \"Solemn Warning\" in response to the activation of the effect and NOT when the other 'Gladiator Beast' Monster is being Special Summoned."
+  },
+  "PSCT": {
+    "Tengu": "① If a monster(s) would be Summoned, \nOR if a Spell/Trap Card is activated: Pay half your LP; \nnegate the Summon/Activation, and if you do, destroy it.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

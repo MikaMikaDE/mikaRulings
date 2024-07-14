@@ -1,0 +1,40 @@
+{
+  "id": 1248895,
+  "name": "Chain Destruction",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can activate Chain Destruction when you or your opponent Summons the monster.\n●If you activate Chain Destruction when a Fusion Monster is Summoned, monsters in the Extra Deck with the same name as the Summoned monster are destroyed.\n●Chain Destruction targets the Summoned monster.\n●If an effect is chained that increases the Summoned monster's ATK above 2000 or removes it from the field, Chain Destruction's effect is still applied.",
+    "Goat": "“Chain Destruction” destroys the cards in the hand and the Deck that it sends to the GY.\n●“Chain Destruction” is a targeting effect.\nA player may target their own summoned monster with “Chain Destruction.”\n●Monsters Special Summoned face-up by monster effects may be targeted by “Chain Destruction.”\n●If “Chain Destruction” is activated in response to a Fusion monster being Special Summoned and that Fusion monster has less than 2000 ATK, all other copies of that Fusion monster in the affected player’s Fusion Deck are destroyed and sent to the GY.\n●If the ATK of a monster is increased above 2000 in a chain to the activation of “Chain Destruction,” “Chain Destruction” still resolves properly.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can activate 'Chain Destruction' when you or your opponent Summons the monster.\n● If you activate 'Chain Destruction' when a Fusion Monster is Summoned, monsters in the Extra Deck with the same name as the Summoned monster are destroyed.\n● 'Chain Destruction' targets the Summoned monster.\n● If an effect is chained that increases the Summoned monster's ATK above 2000 or removes it from the field, 'Chain Destruction's' effect is still applied.",
+    "TeleDAD": "● You can activate 'Chain Destruction' when you or your opponent Summons the monster.\n● If you activate 'Chain Destruction' when a Fusion Monster is Summoned, monsters in the Extra Deck with the same name as the Summoned monster are destroyed.\n● 'Chain Destruction' targets the Summoned monster.\n● If an effect is chained that increases the Summoned monster's ATK above 2000 or removes it from the field, 'Chain Destruction's' effect is still applied.",
+    "Gladiator": "● You can activate 'Chain Destruction' when you or your opponent Summons the monster.\n● If you activate 'Chain Destruction' when a Fusion Monster is Summoned, monsters in the Fusion Deck with the same name as the Summoned monster are destroyed.\n● 'Chain Destruction' targets the Summoned monster.\n● If an effect is chained that increases the Summoned monster's ATK above 2000 or removes it from the field, 'Chain Destruction's' effect is still applied.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can activate \"Chain Destruction\" when you or your opponent Summons the monster.\\n2. If you activate \"Chain Destruction\" when a Fusion Monster is Summoned, monsters in the Extra Deck with the same name as the Summoned monster are destroyed.\\n3. \"Chain Destruction\" targets the Summoned monster.\\n4. If an effect is chained that increases the Summoned monster's ATK above 2000 or removes it from the field, the effect of \"Chain Destruction\" is still applied."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

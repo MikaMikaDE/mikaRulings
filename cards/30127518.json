@@ -1,0 +1,40 @@
+{
+  "id": 30127518,
+  "name": "Darkfall",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect does not target.\\n2. Monster Tokens affected by this card will vanish.\\n3. You send the Special Summoned monsters to the GY first, then you send the monsters from your opponent's hand and Deck.\\n4. You can activate \"Darkfall\" when monsters that will be immediately destroyed by their own effects are Special Summoned. You'll still send monsters with the same name from the hand or Deck to the GY.\\n5. If Fusion or Synchro Monsters are Summoned and affected by this card, you send the extra copies from the Extra Deck to the GY.\\n6. If only 1 of the two or more monsters is on the field when this card resolves, it is still sent to the GY along with the other copies of it.\\n7. You can activate this card even if you Special Summon monsters at the same time as your opponent.\\n8. If you send \"The Lady in Wight\" to the GY with this effect, you only send cards with the printed name \"The Lady in Wight\" to the GY.\\n9. If you Special Summon \"Elemental HERO Wildheart\" along with other monsters and this card is used, \"Elemental HERO Wildheart\" is unaffected, but the rest of your monsters are.\\n10. You can still activate this card while \"Macro Cosmos\" is active. (Monsters that would be sent to the GY are removed from play.)\\n11. If you control \"Light of Intervention\" and your opponent uses \"Magical Hats\", you can use this card to eliminate the Spell/Trap Cards chosen to become monsters, but you won't send other cards of the same name to the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

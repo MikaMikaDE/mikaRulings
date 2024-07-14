@@ -1,0 +1,40 @@
+{
+  "id": 23440062,
+  "name": "Wicked Rebirth",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Paying 800 Life Points is a cost to activate “Wicked Rebirth.”\n●This card targets the Synchro Monster, both when you activate this card and while the monster is on the field.\n●If “Royal Decree” becomes active while “Wicked Rebirth” is active, the Synchro Monster’s effect is restored, and it can attack this turn.\n●If you Special Summon “Stardust Dragon” with “Wicked Rebirth,” you can Tribute “Stardust Dragon” for its effect. After it is Tributed, “Stardust Dragon” is no longer targeted by “Wicked Rebirth.” Therefore its effect is restored and applied normally (so it negates an effect and is Special Summoned back to the field during the End Phase).\n●The Special Summon of “Wicked Rebirth” is not a Synchro Summon, so it cannot be used to Special Summon monsters like “Trident Dragion.”",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Paying 800 Life Points is a cost to activate \"Wicked Rebirth\". This card targets the Synchro Monster, both when you activate this card and while the monster is on the field.\\n2. If \"Royal Decree\" becomes active while \"Wicked Rebirth\" is active, the Synchro Monster's effect is restored, and it can attack this turn.\\n3. If you Special Summon \"Stardust Dragon\" with \"Wicked Rebirth\", you can Tribute \"Stardust Dragon\" for its effect. After it is Tributed, \"Stardust Dragon\" is no longer targeted by \"Wicked Rebirth\". Therefore its effect is restored and applied normally (so it negates an effect and is Special Summoned back to the field during the End Phase).\\n4. The Special Summon of \"Wicked Rebirth\" is not a Synchro Summon, so it cannot be used to Special Summon monsters like \"Trident Dragion\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

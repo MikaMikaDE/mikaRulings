@@ -1,0 +1,44 @@
+{
+  "id": 59170782,
+  "name": "Mermail Abysstrite",
+  "Stats": {
+    "type": "XYZ Monster",
+    "frameType": "xyz",
+    "atk": 1600,
+    "def": 2800,
+    "level": 3,
+    "race": "Sea Serpent",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● The ② effect can miss its timing.",
+    "Vegas": "● The ② effect can miss its timing.",
+    "Meadowlands": "● The ② effect can miss its timing.",
+    "FireWater": "● The ② effect can miss its timing.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "3 Level 3 monsters\n① If exactly 1 face-up \"Mermail\" monster you control is targeted by an opponent's attack, or Spell/Trap effect, \nthat could have targeted this card (except during the Damage Step) (Quick): You can detach 1 Material from this card; \nthat attack/effect targets this card, instead. \n② When this card is destroyed and sent to the GY: \nYou can target 1 \"Mermail\" monster in your GY (except \"Mermail Abysstrite\"); Special Summon it.",
+    "Meadowlands": "3 Level 3 monsters\n① If exactly 1 face-up \"Mermail\" monster you control is targeted by an opponent's attack, or Spell/Trap effect, \nthat could have targeted this card (except during the Damage Step) (Quick): You can detach 1 Material from this card; \nthat attack/effect targets this card, instead. \n② When this card is destroyed and sent to the GY: \nYou can target 1 \"Mermail\" monster in your GY (except \"Mermail Abysstrite\"); Special Summon it.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

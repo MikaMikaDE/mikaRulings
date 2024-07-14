@@ -1,0 +1,44 @@
+{
+  "id": 17597059,
+  "name": "Byser Shock",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 600,
+    "level": 5,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can chain against the effect of Byser Shock.\n●A Trap Card like Ceasefire that is chained to the activation of Byser Shock’s effect is not returned to the hand.",
+    "Goat": "●You can chain against the effect of Byser Shock.\nA Trap Card like Ceasefire that is chained to the activation of Byser Shock’s effect is not returned to the hand.\n●“Byser Shock” does not get its effect if Special Summoned face-down. “Byser Shock,” if later Flip Summoned, it will have its effect resolve at that time. “Byser Shock” will not receive its effect if Flipped as a result of an attack or an effect.\n●If “Skill Drain” is applying or activated in a chain to “Byser Shock’s” effect, the effect of “Byser Shock” is negated.\n●Q: If “Byser Shock” is Special Summoned face down with “Spear Cretin,” when does it get its effect? \nA: The effect is written on the card and gives the specific requirements for it being activated (Normal Summon, Flip Summon, Special Summon). A Special Summoned Face Down “Byser Shock” does not have an effect. Also note here that a Flip by an attack meets none of those requirements.  12/04/2003",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can chain against the effect of 'Byser Shock'.\n● A Trap Card like 'Ceasefire' that is chained to the activation of 'Byser Shock'’s effect isn't returned to the hand.",
+    "TeleDAD": "● You can chain against the effect of 'Byser Shock'.\n● A Trap Card like 'Ceasefire' that is chained to the activation of 'Byser Shock'’s effect isn't returned to the hand.",
+    "Gladiator": "● You can chain against the effect of 'Byser Shock'.\n● A Trap Card like 'Ceasefire' that is chained to the activation of 'Byser Shock'’s effect isn't returned to the hand.",
+    "ReturnDAD": "● You can chain against the effect of 'Byser Shock'.\n● A Trap Card like 'Ceasefire' that is chained to the activation of 'Byser Shock'’s effect isn't returned to the hand.",
+    "Trooper": "● You can chain against the effect of 'Byser Shock'.\n● A Trap Card like 'Ceasefire' that is chained to the activation of 'Byser Shock'’s effect isn't returned to the hand.",
+    "Circle": "● You can chain against the effect of 'Byser Shock'.\n● A Trap Card like 'Ceasefire' that is chained to the activation of 'Byser Shock'’s effect isn't returned to the hand.",
+    "Stein": "● You can chain against the effect of 'Byser Shock'.\n● A Trap Card like 'Ceasefire' that is chained to the activation of 'Byser Shock'’s effect isn't returned to the hand.",
+    "Base": "1. You can chain against the effect of \"Byser Shock\".\\n2. A Trap Card like \"Ceasefire\" that is chained to the activation of the effect of \"Byser Shock\" is not returned to the hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 99458769,
+  "name": "Reign-Beaux, Overlord of Dark World",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2500,
+    "def": 1800,
+    "level": 7,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card has two separate effects. They form two separate Chains.\n●For the second effect of this card, you cannot choose a type of card that your opponent does not control. If your opponent has no monsters and no Spell or Trap Cards, the effect still activates, but disappears at resolution.\n●You decide whether to destroy all your opponent’s monsters, or all your opponent’s Spell and Trap Cards, when the effect resolves.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card has two separate effects. They form two separate Chains.\n● For the second effect of this card, you can't choose a type of card that your opponent does not control. If your opponent has no monsters and no Spell/Trap Cards, the effect still activates, but disappears at resolution.\n● You decide whether to destroy all your opponent’s monsters, or all your opponent’s Spell/Trap Cards, when the effect resolves.",
+    "TeleDAD": "● This card has two separate effects. They form two separate Chains.\n● For the second effect of this card, you can't choose a type of card that your opponent does not control. If your opponent has no monsters and no Spell/Trap Cards, the effect still activates, but disappears at resolution.\n● You decide whether to destroy all your opponent’s monsters, or all your opponent’s Spell/Trap Cards, when the effect resolves.",
+    "Gladiator": "● This card has two separate effects. They form two separate Chains.\n● For the second effect of this card, you can't choose a type of card that your opponent does not control. If your opponent has no monsters and no Spell/Trap Cards, the effect still activates, but disappears at resolution.\n● You decide whether to destroy all your opponent’s monsters, or all your opponent’s Spell/Trap Cards, when the effect resolves.",
+    "ReturnDAD": "● This card has two separate effects. They form two separate Chains.\n● For the second effect of this card, you can't choose a type of card that your opponent does not control. If your opponent has no monsters and no Spell/Trap Cards, the effect still activates, but disappears at resolution.\n● You decide whether to destroy all your opponent’s monsters, or all your opponent’s Spell/Trap Cards, when the effect resolves.",
+    "Trooper": "● This card has two separate effects. They form two separate Chains.\n● For the second effect of this card, you can't choose a type of card that your opponent does not control. If your opponent has no monsters and no Spell/Trap Cards, the effect still activates, but disappears at resolution.\n● You decide whether to destroy all your opponent’s monsters, or all your opponent’s Spell/Trap Cards, when the effect resolves.",
+    "Circle": "● This card has two separate effects. They form two separate Chains.\n● For the second effect of this card, you can't choose a type of card that your opponent does not control. If your opponent has no monsters and no Spell/Trap Cards, the effect still activates, but disappears at resolution.\n● You decide whether to destroy all your opponent’s monsters, or all your opponent’s Spell/Trap Cards, when the effect resolves.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card has two separate effects. They form two separate Chains.\\n2. For the second effect of this card, you cannot choose a type of card that your opponent does not control. If your opponent has no monsters and no Spell or Trap Cards, the effect still activates, but disappears at resolution.\\n3. You decide whether to destroy all your opponent's monsters, or all your opponent's Spell and Trap Cards, when the effect resolves."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

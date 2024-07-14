@@ -1,0 +1,40 @@
+{
+  "id": 90434926,
+  "name": "Veil of Darkness",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Reveal the drawn DARK monster when you activate the effect of Veil of Darkness. That DARK monster is sent to the GY when the effect is resolved.\n●You can activate the effect of Veil of Darkness when you draw a DARK monster with a card effect during your Draw Phase.\n●When you draw a DARK monster with the effect of Veil of Darkness, you can reveal the drawn DARK monster to activate the effect of Veil of Darkness' again.\n●Veil of Darkness' effect can only be activated during your own Draw Phase. This effect starts a chain.\n●Drawing is optional. You can choose to send the DARK monster to the GY, and then choose to not draw.\n●If the DARK monster is removed from play by Macro Cosmos, then you cannot draw.\n●If you control two copies of Veil of Darkness, both of them can be activated when you draw a DARK monster. However, the first copy sends the DARK monster to the GY, so the second copy cannot send it to the GY, so you cannot draw from the second copy.\n●If, during your Draw Phase, you draw a DARK monster because of Reload, you can activate Veil of Darkness. If you draw a DARK monster because of Veil of Darkness, you can activate the effect of Veil of Darkness again.\n●The effect of a monster like Sillva, Warlord of Dark World only activates when it is discarded to the GY from the hand by a card effect. The effects of Hand Destruction and Veil of Darkness send to the GY the cards - this is not the same as discard to the GY. Thus, if a monster like Sillva, Warlord of Dark World is sent to the GY by these effects, then you cannot activate its effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Reveal the drawn DARK monster when you activate the effect of 'Veil of Darkness'. That DARK monster is sent to the GY when the effect is resolved.\n● You can activate the effect of 'Veil of Darkness' when you draw a DARK monster with a card effect during your Draw Phase.\n● When you draw a DARK monster with the effect of 'Veil of Darkness', you can reveal the drawn DARK monster to activate the effect of 'Veil of Darkness'' again.\n● 'Veil of Darkness'' effect can only be activated during your own Draw Phase.",
+    "TeleDAD": "● Reveal the drawn DARK monster when you activate the effect of 'Veil of Darkness'. That DARK monster is sent to the GY when the effect is resolved.\n● You can activate the effect of 'Veil of Darkness' when you draw a DARK monster with a card effect during your Draw Phase.\n● When you draw a DARK monster with the effect of 'Veil of Darkness', you can reveal the drawn DARK monster to activate the effect of 'Veil of Darkness'' again.\n● 'Veil of Darkness'' effect can only be activated during your own Draw Phase.",
+    "Gladiator": "● Reveal the drawn DARK monster when you activate the effect of 'Veil of Darkness'. That DARK monster is sent to the GY when the effect is resolved.\n● You can activate the effect of 'Veil of Darkness' when you draw a DARK monster with a card effect during your Draw Phase.\n● When you draw a DARK monster with the effect of 'Veil of Darkness', you can reveal the drawn DARK monster to activate the effect of 'Veil of Darkness'' again.\n● 'Veil of Darkness'' effect can only be activated during your own Draw Phase.",
+    "ReturnDAD": "● Reveal the drawn DARK monster when you activate the effect of 'Veil of Darkness'. That DARK monster is sent to the GY when the effect is resolved.\n● You can activate the effect of 'Veil of Darkness' when you draw a DARK monster with a card effect during your Draw Phase.\n● When you draw a DARK monster with the effect of 'Veil of Darkness', you can reveal the drawn DARK monster to activate the effect of 'Veil of Darkness'' again.\n● 'Veil of Darkness'' effect can only be activated during your own Draw Phase.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Reveal the drawn DARK monster when you activate the effect of \"Veil of Darkness\". That DARK monster is sent to the GY when the effect is resolved.\\n2. You can activate the effect of \"Veil of Darkness\" when you draw a DARK monster with a card effect during your Draw Phase.\\n3. When you draw a DARK monster with the effect of \"Veil of Darkness\", you can reveal the drawn DARK monster to activate the effect of \"Veil of Darkness\" again.\\n4. The effect of \"Veil of Darkness\" can only be activated during your own Draw Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

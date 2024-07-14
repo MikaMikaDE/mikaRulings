@@ -1,0 +1,44 @@
+{
+  "id": 90790253,
+  "name": "Little-Winguard",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 1800,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "WIND"
+  },
+  "Rulings": {
+    "Tengu": "\n●Little-Winguard's effect can be chained to.\n●Effects like Spellbinding Circle do not prevent you from using Little-Winguard's effect.",
+    "Goat": "●Little-Winguard's effect can be chained to.\n●Effects like Spellbinding Circle do not prevent you from using Little-Winguard's effect. \n●Q: How does “Little Winguard” work, and how is it different from “Giant Orc”, since both cards refer to changing position during the End Phase of the turn? \nA: The difference is slight, but noticeable. Little Winguard's text states, Once per turn during your End Phase, you can change the battle position of this card. This effect SPECIFICALLY gives you the ability to change the card's battle position. Now, the text of Giant Orc: This position cannot be changed until the end of your next turn. This merely tells us that its position is 'locked' until the effect ends at the end of the player's next turn. Its effect does not specifically say you can change the position at the end of the turn. You would need to do a manual position change, which is not possible during the End Phase. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Little-Winguard''s effect can be chained to.\n● Effects like 'Spellbinding Circle' do not prevent you from using 'Little-Winguard''s effect.",
+    "TeleDAD": "● 'Little-Winguard''s effect can be chained to.\n● Effects like 'Spellbinding Circle' do not prevent you from using 'Little-Winguard''s effect.",
+    "Gladiator": "● 'Little-Winguard''s effect can be chained to.\n● Effects like 'Spellbinding Circle' do not prevent you from using 'Little-Winguard''s effect.",
+    "ReturnDAD": "● 'Little-Winguard''s effect can be chained to.\n● Effects like 'Spellbinding Circle' do not prevent you from using 'Little-Winguard''s effect.",
+    "Trooper": "● 'Little-Winguard''s effect can be chained to.\n● Effects like 'Spellbinding Circle' do not prevent you from using 'Little-Winguard''s effect.",
+    "Circle": "● 'Little-Winguard''s effect can be chained to.\n● Effects like 'Spellbinding Circle' do not prevent you from using 'Little-Winguard''s effect.",
+    "Stein": "● 'Little-Winguard''s effect can be chained to.\n● Effects like 'Spellbinding Circle' do not prevent you from using 'Little-Winguard''s effect.",
+    "Base": "1. The effect of \"Little-Winguard\" can be chained to.\\n2. Effects like \"Spellbinding Circle\" do not prevent you from using the effect of \"Little-Winguard\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

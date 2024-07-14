@@ -1,0 +1,40 @@
+{
+  "id": 63035430,
+  "name": "Skyscraper",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Field"
+  },
+  "Rulings": {
+    "Tengu": "● This effect can apply either before or after the 1 manual Chain in Damage Calculation.\n(it applies as soon as possible, but only once per battle).",
+    "Goat": "●The ATK increase of “Skyscraper” is a Continuous Effect and does not start a chain.\n●If “Skyscraper” is on the field and you attack a Defense Position monster with an “Elemental Hero” that has ATK lower than the ATK of the Defense Position monster, the “Elemental Hero” gains +1000 ATK even though it was attacking a Defense Position monster.\n●If your opponent’s monster’s ATK is increased during the damage step, like “Injection Fairy Lily” or “Covering Fire”, your “Elemental Hero” will gain the +1000 ATK for “Skyscraper”.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The ATK increase of “Skyscraper” is a Continuous Effect and does not start a chain.\n● If “Skyscraper” is on the field and you attack a Defense Position monster with an “Elemental Hero” that has ATK lower than the ATK of the Defense Position monster, the “Elemental Hero” gains +1000 ATK even though it was attacking a Defense Position monster.\n● If your opponent’s monster’s ATK is increased during the damage step, like “Injection Fairy Lily” or “Covering Fire”, your “Elemental Hero” will gain the +1000 ATK for “Skyscraper”.",
+    "TeleDAD": "● The ATK increase of “Skyscraper” is a Continuous Effect and does not start a chain.\n● If “Skyscraper” is on the field and you attack a Defense Position monster with an “Elemental Hero” that has ATK lower than the ATK of the Defense Position monster, the “Elemental Hero” gains +1000 ATK even though it was attacking a Defense Position monster.\n● If your opponent’s monster’s ATK is increased during the damage step, like “Injection Fairy Lily” or “Covering Fire”, your “Elemental Hero” will gain the +1000 ATK for “Skyscraper”.",
+    "Gladiator": "● The ATK increase of “Skyscraper” is a Continuous Effect and does not start a chain.\n● If “Skyscraper” is on the field and you attack a Defense Position monster with an “Elemental Hero” that has ATK lower than the ATK of the Defense Position monster, the “Elemental Hero” gains +1000 ATK even though it was attacking a Defense Position monster.\n● If your opponent’s monster’s ATK is increased during the damage step, like “Injection Fairy Lily” or “Covering Fire”, your “Elemental Hero” will gain the +1000 ATK for “Skyscraper”.",
+    "ReturnDAD": "● The ATK increase of “Skyscraper” is a Continuous Effect and does not start a chain.\n● If “Skyscraper” is on the field and you attack a Defense Position monster with an “Elemental Hero” that has ATK lower than the ATK of the Defense Position monster, the “Elemental Hero” gains +1000 ATK even though it was attacking a Defense Position monster.\n● If your opponent’s monster’s ATK is increased during the damage step, like “Injection Fairy Lily” or “Covering Fire”, your “Elemental Hero” will gain the +1000 ATK for “Skyscraper”.",
+    "Trooper": "● The ATK increase of “Skyscraper” is a Continuous Effect and does not start a chain.\n● If “Skyscraper” is on the field and you attack a Defense Position monster with an “Elemental Hero” that has ATK lower than the ATK of the Defense Position monster, the “Elemental Hero” gains +1000 ATK even though it was attacking a Defense Position monster.\n● If your opponent’s monster’s ATK is increased during the damage step, like “Injection Fairy Lily” or “Covering Fire”, your “Elemental Hero” will gain the +1000 ATK for “Skyscraper”.",
+    "Circle": "● The ATK increase of “Skyscraper” is a Continuous Effect and does not start a chain.\n● If “Skyscraper” is on the field and you attack a Defense Position monster with an “Elemental Hero” that has ATK lower than the ATK of the Defense Position monster, the “Elemental Hero” gains +1000 ATK even though it was attacking a Defense Position monster.\n● If your opponent’s monster’s ATK is increased during the damage step, like “Injection Fairy Lily” or “Covering Fire”, your “Elemental Hero” will gain the +1000 ATK for “Skyscraper”.",
+    "Stein": "● The ATK increase of “Skyscraper” is a Continuous Effect and does not start a chain.\n● If “Skyscraper” is on the field and you attack a Defense Position monster with an “Elemental Hero” that has ATK lower than the ATK of the Defense Position monster, the “Elemental Hero” gains +1000 ATK even though it was attacking a Defense Position monster.\n● If your opponent’s monster’s ATK is increased during the damage step, like “Injection Fairy Lily” or “Covering Fire”, your “Elemental Hero” will gain the +1000 ATK for “Skyscraper”.",
+    "Base": "1. The ATK increase of \"Skyscraper\" is a Continuous Effect and does not start a chain.\\n2. If \"Skyscraper\" is on the field and you attack a Defense Position monster with an 'Elemental HERO' that has ATK lower than the ATK of the Defense Position monster, the 'Elemental HERO' gains +1000 ATK even though it was attacking a Defense Position monster.\\n3. If your opponent's monster's ATK is increased during the damage step, like \"Injection Fairy Lily\" or \"Covering Fire\", your 'Elemental HERO' will gain the +1000 ATK for \"Skyscraper\"."
+  },
+  "PSCT": {
+    "Tengu": "① If an \"Elemental HERO\" monster attacks a monster with higher ATK, the attacking monster gains 1000 ATK during Damage Calculation only.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 17810268,
+  "name": "Cloudian - Acid Cloud",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 0,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●If “Cloudian – Acid Cloud” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “Cloudian – Acid Cloud” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.",
+    "TeleDAD": "● If “Cloudian – Acid Cloud” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.",
+    "Gladiator": "● If “Cloudian – Acid Cloud” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.",
+    "ReturnDAD": "● If “Cloudian – Acid Cloud” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● If “Cloudian – Acid Cloud” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Cloudian - Acid Cloud\" is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.\\n2. [FORUM] For cards like \"Cloudian - Acid Cloud\", its effect activates once it is Normal Summoned. Since it is face-up on the field and it looks for every face-up \"Cloudian\" monster, it will count itself."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

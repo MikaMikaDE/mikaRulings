@@ -1,0 +1,44 @@
+{
+  "id": 51858306,
+  "name": "Eclipse Wyvern",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 1000,
+    "level": 4,
+    "race": "Dragon",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If this card leaves the GY before the ① resolves, the ② won't activate.\nEG: \"D.D. Crow\" is chained to the ①. The card is banished, but not added to your hand.",
+    "Vegas": "● If this card leaves the GY before the ① resolves, the ② won't activate.\nEG: \"D.D. Crow\" is chained to the ①. The card is banished, but not added to your hand.",
+    "Meadowlands": "● If this card leaves the GY before the ① resolves, the ② won't activate.\nEG: \"D.D. Crow\" is chained to the ①. The card is banished, but not added to your hand.",
+    "FireWater": "● If this card leaves the GY before the ① resolves, the ② won't activate.\nEG: \"D.D. Crow\" is chained to the ①. The card is banished, but not added to your hand.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① If this card is sent to the GY: Banish 1 Level 7 or higher LIGHT or DARK Dragon from your Deck. \n② If this card is banished from your GY: You can add that banished monster to your hand.",
+    "Meadowlands": "① If this card is sent to the GY: Banish 1 Level 7 or higher LIGHT or DARK Dragon from your Deck. \n② If this card is banished from your GY: You can add that banished monster to your hand.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

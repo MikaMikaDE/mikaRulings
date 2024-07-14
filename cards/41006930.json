@@ -1,0 +1,44 @@
+{
+  "id": 41006930,
+  "name": "Strike Ninja",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 1200,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● You may activate the effects of multiple “Strike Ninja” in the same turn (but only one per copy).",
+    "Goat": "●You cannot activate Strike Ninja's effect during the Damage Step.\n●Strike Ninja is a Multi-Trigger effect so you can chain it to another Spell Speed 1 or 2 effect and can activate it outside your Main Phases, even during your opponent's turn (but not during the Damage Step).\n●You can only activate Strike Ninja's effect when Strike Ninja is face-up on the field.\n●Removing 2 DARK monsters for Strike Ninja's effect is a cost. If “Strike Ninja” attempts to return to the field when all monster zones are occupied, “Strike Ninja” is destroyed.\n●“Strike Ninja’s” effect only applies while “Strike Ninja” is face up on the field.\n●The effect of “Strike Ninja” returning to the field after being removed by its own effect is not a Special Summon.",
+    "HAT": "● You may activate the effects of multiple “Strike Ninja” in the same turn (but only one per copy).",
+    "Vegas": "● You may activate the effects of multiple “Strike Ninja” in the same turn (but only one per copy).",
+    "Meadowlands": "● You may activate the effects of multiple “Strike Ninja” in the same turn (but only one per copy).",
+    "FireWater": "● You may activate the effects of multiple “Strike Ninja” in the same turn (but only one per copy).",
+    "Cat": "● You can't activate 'Strike Ninja''s effect during the Damage Step.\n● 'Strike Ninja's' effect is a Quick Effect so you can chain it to another Spell Speed 1 or 2 effect and can activate it outside your Main Phases, even during your opponent's turn (but not during the Damage Step).\n● You can only activate 'Strike Ninja''s effect when 'Strike Ninja' is applying.\n● Removing 2 DARK monsters for 'Strike Ninja''s effect is a cost.",
+    "TeleDAD": "● You can't activate 'Strike Ninja''s effect during the Damage Step.\n● 'Strike Ninja's' effect is a Quick Effect so you can chain it to another Spell Speed 1 or 2 effect and can activate it outside your Main Phases, even during your opponent's turn (but not during the Damage Step).\n● You can only activate 'Strike Ninja''s effect when 'Strike Ninja' is applying.\n● Removing 2 DARK monsters for 'Strike Ninja''s effect is a cost.",
+    "Gladiator": "● You can't activate 'Strike Ninja''s effect during the Damage Step.\n● 'Strike Ninja' is a Multi-Trigger effect so you can chain it to another Spell Speed 1 or 2 effect and can activate it outside your Main Phases, even during your opponent's turn (but not during the Damage Step).\n● You can only activate 'Strike Ninja''s effect when 'Strike Ninja' is applying.\n● Removing 2 DARK monsters for 'Strike Ninja''s effect is a cost.",
+    "ReturnDAD": "● You can't activate 'Strike Ninja''s effect during the Damage Step.\n● 'Strike Ninja' is a Multi-Trigger effect so you can chain it to another Spell Speed 1 or 2 effect and can activate it outside your Main Phases, even during your opponent's turn (but not during the Damage Step).\n● You can only activate 'Strike Ninja''s effect when 'Strike Ninja' is applying.\n● Removing 2 DARK monsters for 'Strike Ninja''s effect is a cost.",
+    "Trooper": "● You can't activate 'Strike Ninja''s effect during the Damage Step.\n● 'Strike Ninja' is a Multi-Trigger effect so you can chain it to another Spell Speed 1 or 2 effect and can activate it outside your Main Phases, even during your opponent's turn (but not during the Damage Step).\n● You can only activate 'Strike Ninja''s effect when 'Strike Ninja' is applying.\n● Removing 2 DARK monsters for 'Strike Ninja''s effect is a cost.",
+    "Circle": "● You can't activate 'Strike Ninja''s effect during the Damage Step.\n● 'Strike Ninja' is a Multi-Trigger effect so you can chain it to another Spell Speed 1 or 2 effect and can activate it outside your Main Phases, even during your opponent's turn (but not during the Damage Step).\n● You can only activate 'Strike Ninja''s effect when 'Strike Ninja' is applying.\n● Removing 2 DARK monsters for 'Strike Ninja''s effect is a cost.",
+    "Stein": "● You can't activate 'Strike Ninja''s effect during the Damage Step.\n● 'Strike Ninja' is a Multi-Trigger effect so you can chain it to another Spell Speed 1 or 2 effect and can activate it outside your Main Phases, even during your opponent's turn (but not during the Damage Step).\n● You can only activate 'Strike Ninja''s effect when 'Strike Ninja' is applying.\n● Removing 2 DARK monsters for 'Strike Ninja''s effect is a cost.",
+    "Base": "1. You cannot activate the effect of \"Strike Ninja\" during the Damage Step.\\n2. The effect of \"Strike Ninja\" is a Quick Effect so you can chain it to another Spell Speed 1 or 2 effect and can activate it outside your Main Phases, even during your opponent's turn (but not during the Damage Step).\\n3. You can only activate the effect of \"Strike Ninja\" when \"Strike Ninja\" is face-up on the field.\\n4. Removing 2 DARK monsters for the effect of \"Strike Ninja\" is a cost."
+  },
+  "PSCT": {
+    "Tengu": "① Once per turn (Quick Effect): \nYou can banish 2 DARKs from your GY; \nbanish this face-up card (until the End Phase).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Once per turn (Quick Effect):\nYou can banish 2 DARKs from your GY;\nbanish this face-up card (until the End Phase).",
+    "Meadowlands": "① Once per turn (Quick Effect):\nYou can banish 2 DARKs from your GY;\nbanish this face-up card (until the End Phase).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

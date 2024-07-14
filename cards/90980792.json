@@ -1,0 +1,44 @@
+{
+  "id": 90980792,
+  "name": "Dark Jeroid",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1500,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If the monster selected by Dark Jeroid is removed from the field by Dimensionhole, or flipped face-down, or returned to the hand or Deck, or sent to the GY, etc., the effect of Dark Jeroid is reset and the selected monster no longer has a lowered ATK.\n●If Dark Jeroid is the only monster on the field when it is Summoned, it reduces its own ATK.\n●The ATK cannot go below zero.",
+    "Goat": "●If the monster selected by Dark Jeroid is removed from the field by Dimensionhole, or Set, or returned to the hand or Deck, or sent to the GY, etc., the effect of Dark Jeroid is reset and the selected monster no longer has a lowered ATK.\n●If Dark Jeroid is the only monster on the field when it is Summoned, it reduces its own ATK.\n●The ATK cannot go below zero.\n●Dark Jeroid’s effect is Targeting.\n●If “Dark Jeroid” is the only face-up monster when “Dark Jeroid” is Summoned, “Dark Jeroid” must target itself for its effect.\n●“Dark Jeroid” only gets its effect when it is Normal Summoned, Flip Summoned, or Special Summoned. It does not get its effect when it is Flipped.\n●“Dark Jeroid” does not get its effect if Flipped as a result of an Effect or as a result of Battle. \n●If the monster affected by “Dark Jeroid” is turned face-down or leaves the field, the effect of “Dark Jeroid” disappears.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If the monster selected by 'Dark Jeroid' leaves the field by 'Dimensionhole', or flipped face-down, or returned to the hand or Deck, or sent to the GY, etc., the effect of 'Dark Jeroid' is reset and the selected monster no longer has a lowered ATK.\n● If 'Dark Jeroid' is the only monster on the field when it is Summoned, it reduces its own ATK.\n● The ATK can't go below zero.",
+    "TeleDAD": "● If the monster selected by 'Dark Jeroid' leaves the field by 'Dimensionhole', or flipped face-down, or returned to the hand or Deck, or sent to the GY, etc., the effect of 'Dark Jeroid' is reset and the selected monster no longer has a lowered ATK.\n● If 'Dark Jeroid' is the only monster on the field when it is Summoned, it reduces its own ATK.\n● The ATK can't go below zero.",
+    "Gladiator": "● If the monster selected by 'Dark Jeroid' leaves the field by 'Dimensionhole', or flipped face-down, or returned to the hand or Deck, or sent to the GY, etc., the effect of 'Dark Jeroid' is reset and the selected monster no longer has a lowered ATK.\n● If 'Dark Jeroid' is the only monster on the field when it is Summoned, it reduces its own ATK.\n● The ATK can't go below zero.",
+    "ReturnDAD": "● If the monster selected by 'Dark Jeroid' leaves the field by 'Dimensionhole', or flipped face-down, or returned to the hand or Deck, or sent to the GY, etc., the effect of 'Dark Jeroid' is reset and the selected monster no longer has a lowered ATK.\n● If 'Dark Jeroid' is the only monster on the field when it is Summoned, it reduces its own ATK.\n● The ATK can't go below zero.",
+    "Trooper": "● If the monster selected by 'Dark Jeroid' leaves the field by 'Dimensionhole', or flipped face-down, or returned to the hand or Deck, or sent to the GY, etc., the effect of 'Dark Jeroid' is reset and the selected monster no longer has a lowered ATK.\n● If 'Dark Jeroid' is the only monster on the field when it is Summoned, it reduces its own ATK.\n● The ATK can't go below zero.",
+    "Circle": "● If the monster selected by 'Dark Jeroid' leaves the field by 'Dimensionhole', or flipped face-down, or returned to the hand or Deck, or sent to the GY, etc., the effect of 'Dark Jeroid' is reset and the selected monster no longer has a lowered ATK.\n● If 'Dark Jeroid' is the only monster on the field when it is Summoned, it reduces its own ATK.\n● The ATK can't go below zero.",
+    "Stein": "● If the monster selected by 'Dark Jeroid' leaves the field by 'Dimensionhole', or flipped face-down, or returned to the hand or Deck, or sent to the GY, etc., the effect of 'Dark Jeroid' is reset and the selected monster no longer has a lowered ATK.\n● If 'Dark Jeroid' is the only monster on the field when it is Summoned, it reduces its own ATK.\n● The ATK can't go below zero.",
+    "Base": "1. If the monster selected by \"Dark Jeroid\" is removed from the field by \"Dimensionhole\", or flipped face-down, or returned to the hand or Deck, or sent to the GY, etc., the effect of \"Dark Jeroid\" is reset and the selected monster no longer has a lowered ATK.\\n2. If \"Dark Jeroid\" is the only monster on the field when it is Summoned, it reduces its own ATK.\\n3. The ATK cannot go below zero."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

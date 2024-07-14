@@ -1,0 +1,40 @@
+{
+  "id": 53239672,
+  "name": "Spirit Barrier",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●You still perform damage calculation with Spirit Barrier even though the damage to the controller’s Life Points becomes zero.\n●If you have 1 monster on the field, and Airknight Parshath attack and destroys it, and would do extra damage, there is still a monster on the field when Airknight Parshath’s effect would activate and resolve, so Spirit Barrier’s effect is applied, Airknight Parshath inflicts zero damage to your Life Points, and your opponent does not draw 1 card for Airknight Parshath’s effect.",
+    "Goat": "●You still perform damage calculation with Spirit Barrier even though the damage to the controller’s LP becomes zero.\n●If you have 1 monster on the field, and Airknight Parshath attack and destroys it, and would do extra damage, there is still a monster on the field when Airknight Parshath’s effect would activate and resolve, so Spirit Barrier’s effect is applied, Airknight Parshath inflicts zero damage to your LP, and your opponent does not draw 1 card for Airknight Parshath’s effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You still perform damage calculation with 'Spirit Barrier' even though the damage to the controller’s LP becomes zero.\n● If you have 1 monster on the field, and 'Airknight Parshath' attack and destroys it, and would do extra damage, there is still a monster on the field when 'Airknight Parshath'’s effect would activate and resolve, so 'Spirit Barrier'’s effect is applied, 'Airknight Parshath' inflicts zero damage to your LP, and your opponent does not draw 1 card for 'Airknight Parshath'’s effect.",
+    "TeleDAD": "● You still perform damage calculation with 'Spirit Barrier' even though the damage to the controller’s LP becomes zero.\n● If you have 1 monster on the field, and 'Airknight Parshath' attack and destroys it, and would do extra damage, there is still a monster on the field when 'Airknight Parshath'’s effect would activate and resolve, so 'Spirit Barrier'’s effect is applied, 'Airknight Parshath' inflicts zero damage to your LP, and your opponent does not draw 1 card for 'Airknight Parshath'’s effect.",
+    "Gladiator": "● You still perform damage calculation with 'Spirit Barrier' even though the damage to the controller’s LP becomes zero.\n● If you have 1 monster on the field, and 'Airknight Parshath' attack and destroys it, and would do extra damage, there is still a monster on the field when 'Airknight Parshath'’s effect would activate and resolve, so 'Spirit Barrier'’s effect is applied, 'Airknight Parshath' inflicts zero damage to your LP, and your opponent does not draw 1 card for 'Airknight Parshath'’s effect.",
+    "ReturnDAD": "● You still perform damage calculation with 'Spirit Barrier' even though the damage to the controller’s LP becomes zero.\n● If you have 1 monster on the field, and 'Airknight Parshath' attack and destroys it, and would do extra damage, there is still a monster on the field when 'Airknight Parshath'’s effect would activate and resolve, so 'Spirit Barrier'’s effect is applied, 'Airknight Parshath' inflicts zero damage to your LP, and your opponent does not draw 1 card for 'Airknight Parshath'’s effect.",
+    "Trooper": "● You still perform damage calculation with 'Spirit Barrier' even though the damage to the controller’s LP becomes zero.\n● If you have 1 monster on the field, and 'Airknight Parshath' attack and destroys it, and would do extra damage, there is still a monster on the field when 'Airknight Parshath'’s effect would activate and resolve, so 'Spirit Barrier'’s effect is applied, 'Airknight Parshath' inflicts zero damage to your LP, and your opponent does not draw 1 card for 'Airknight Parshath'’s effect.",
+    "Circle": "● You still perform damage calculation with 'Spirit Barrier' even though the damage to the controller’s LP becomes zero.\n● If you have 1 monster on the field, and 'Airknight Parshath' attack and destroys it, and would do extra damage, there is still a monster on the field when 'Airknight Parshath'’s effect would activate and resolve, so 'Spirit Barrier'’s effect is applied, 'Airknight Parshath' inflicts zero damage to your LP, and your opponent does not draw 1 card for 'Airknight Parshath'’s effect.",
+    "Stein": "● You still perform damage calculation with 'Spirit Barrier' even though the damage to the controller’s LP becomes zero.\n● If you have 1 monster on the field, and 'Airknight Parshath' attack and destroys it, and would do extra damage, there is still a monster on the field when 'Airknight Parshath'’s effect would activate and resolve, so 'Spirit Barrier'’s effect is applied, 'Airknight Parshath' inflicts zero damage to your LP, and your opponent does not draw 1 card for 'Airknight Parshath'’s effect.",
+    "Base": "1. You still perform damage calculation with \"Spirit Barrier\" even though the damage to the controller's Life Points becomes zero.\\n2. If you have 1 monster on the field, and \"Airknight Parshath\" attack and destroys it, and would do extra damage, there is still a monster on the field when the effect of \"Airknight Parshath\" would activate and resolve, so the effect of \"Spirit Barrier\" is applied, \"Airknight Parshath\" inflicts zero damage to your Life Points, and your opponent does not draw 1 card for the effect of \"Airknight Parshath\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

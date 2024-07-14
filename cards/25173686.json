@@ -1,0 +1,40 @@
+{
+  "id": 25173686,
+  "name": "Straight Flush",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If your opponent controls an Embodiment of Apophis as a Monster Card, it is not counted as a card in the Spell & Trap Card Zone (even though 1 of those Zones cannot be used). So you could not activate Straight Flush.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If your opponent controls an 'Embodiment of Apophis' as a Monster Card, it isn't counted as a card in the Spell & Trap Card Zone (even though 1 of those Zones can't be used). So you could not activate 'Straight Flush'.",
+    "TeleDAD": "● If your opponent controls an 'Embodiment of Apophis' as a Monster Card, it isn't counted as a card in the Spell & Trap Card Zone (even though 1 of those Zones can't be used). So you could not activate 'Straight Flush'.",
+    "Gladiator": "● If your opponent controls an 'Embodiment of Apophis' as a Monster Card, it isn't counted as a card in the Spell & Trap Card Zone (even though 1 of those Zones can't be used). So you could not activate 'Straight Flush'.",
+    "ReturnDAD": "● If your opponent controls an 'Embodiment of Apophis' as a Monster Card, it isn't counted as a card in the Spell & Trap Card Zone (even though 1 of those Zones can't be used). So you could not activate 'Straight Flush'.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● If your opponent controls an 'Embodiment of Apophis' as a Monster Card, it isn't counted as a card in the Spell & Trap Card Zone (even though 1 of those Zones can't be used). So you could not activate 'Straight Flush'.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If your opponent controls an \"Embodiment of Apophis\" as a Monster Card, it is not counted as a card in the Spell & Trap Card Zone (even though 1 of those Zones cannot be used). So you could not activate \"Straight Flush\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 131182,
+  "name": "Miracle Flipper",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 500,
+    "level": 2,
+    "race": "Spellcaster",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Miracle Flipper is destroyed by a Spell or Trap Card while face-down, its effect to destroy 1 monster activates. This effect targets the monster to be destroyed.\n●If you have a Miracle Flipper face-up on your side of the field, you cannot Special Summon another copy of Miracle Flipper with Monster Reborn or The Shallow Grave.\n●If Miracle Flipper is removed from play when it is destroyed in battle, its effect will still activate and it will be Special Summoned onto the opponent's side of the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Miracle Flipper' is destroyed by a Spell/Trap Card while face-down, its effect to destroy 1 monster activates. This effect targets the monster to be destroyed.\n● If you have a 'Miracle Flipper' face-up on your side of the field, you can't Special Summon another copy of 'Miracle Flipper' with 'Monster Reborn' or 'The Shallow Grave'.\n● If 'Miracle Flipper' is removed from play when it is destroyed in battle, its effect will still activate and it will be Special Summoned onto the opponent's field.",
+    "TeleDAD": "● If 'Miracle Flipper' is destroyed by a Spell/Trap Card while face-down, its effect to destroy 1 monster activates. This effect targets the monster to be destroyed.\n● If you have a 'Miracle Flipper' face-up on your side of the field, you can't Special Summon another copy of 'Miracle Flipper' with 'Monster Reborn' or 'The Shallow Grave'.\n● If 'Miracle Flipper' is removed from play when it is destroyed in battle, its effect will still activate and it will be Special Summoned onto the opponent's field.",
+    "Gladiator": "● If 'Miracle Flipper' is destroyed by a Spell/Trap Card while face-down, its effect to destroy 1 monster activates. This effect targets the monster to be destroyed.\n● If you have a 'Miracle Flipper' face-up on your side of the field, you can't Special Summon another copy of 'Miracle Flipper' with 'Monster Reborn' or 'The Shallow Grave'.\n● If 'Miracle Flipper' is removed from play when it is destroyed in battle, its effect will still activate and it will be Special Summoned onto the opponent's field.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Miracle Flipper\" is destroyed by a Spell or Trap Card while face-down, its effect to destroy 1 monster activates. This effect targets the monster to be destroyed.\\n2. If you have a \"Miracle Flipper\" face-up on your side of the field, you cannot Special Summon another copy of \"Miracle Flipper\" with \"Monster Reborn\" or \"The Shallow Grave\".\\n3. If \"Miracle Flipper\" is removed from play when it is destroyed in battle, its effect will still activate and it will be Special Summoned onto the opponent's side of the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

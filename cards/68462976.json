@@ -1,0 +1,40 @@
+{
+  "id": 68462976,
+  "name": "Secret Village of the Spellcasters",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Field"
+  },
+  "Rulings": {
+    "Tengu": "(1) If you control a Spellcaster-Type monster and your opponent does not, your opponent cannot activate Spell Cards. (2) If you control no Spellcaster-Type monsters, you cannot activate Spell Cards.\n●The (1) Continuous-like Effect does not activate.\n●This effect applies if you have a face-up Spellcaster-Type monster and your opponent does not.\n●Your opponent can still Set Spell Cards face-down, but they cannot be activated (played face-up).\n●Your opponent can stil activate the effects of Spell Cards (ex: Magical Blast, Call of the Mummy).\n●The (2) Continuous-like Effect does not activate.\n●This effect applies if you do not control a face-up Spellcaster-Type monster.\n●You can still Set Spell Cards face-down, but they cannot be activated (played face-up).\n●You can still activate the effects of Spell Cards (ex: Magical Blast, Call of the Mummy).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Spell Cards can still be Set while 'Secret Villiage of the Spellcasters' is applying.\n● The effects of Continuous Spell Cards that were applying before 'Secret Villiage of the Spellcasters' resolved can still be activated.",
+    "TeleDAD": "● Spell Cards can still be Set while 'Secret Villiage of the Spellcasters' is applying.\n● The effects of Continuous Spell Cards that were applying before 'Secret Villiage of the Spellcasters' resolved can still be activated.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Spell Cards can still be Set while \"Secret Village of the Spellcasters\" is face-up on the field.\\n2. The effects of Continuous Spell Cards that were face-up on the field before \"Secret Village of the Spellcasters\" resolved can still be activated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

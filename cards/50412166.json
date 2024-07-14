@@ -1,0 +1,44 @@
+{
+  "id": 50412166,
+  "name": "Charm of Shabti",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": "Rock",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "● Since this is a Quick Effect, you can use it during Damage Calculation.",
+    "Goat": "●You can activate the effect of Charm of Shabti during the Damage Step.\n●Charm of Shabti is like a reverse-Kuriboh: you take damage from the attack as normal, but your monster is unharmed.\n●“Charm of Shabti” can be discarded from the hand in response to a face-down Gravekeeper monster being flipped up by an attack if that Gravekeeper monster would be destroyed by an attack.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can activate the effect of 'Charm of Shabti' during the Damage Step.\n● 'Charm of Shabti' is like a reverse-'Kuriboh': you take damage from the attack as normal, but your monster is unharmed.",
+    "TeleDAD": "● You can activate the effect of 'Charm of Shabti' during the Damage Step.\n● 'Charm of Shabti' is like a reverse-'Kuriboh': you take damage from the attack as normal, but your monster is unharmed.",
+    "Gladiator": "● You can activate the effect of 'Charm of Shabti' during the Damage Step.\n● 'Charm of Shabti' is like a reverse-'Kuriboh': you take damage from the attack as normal, but your monster is unharmed.",
+    "ReturnDAD": "● You can activate the effect of 'Charm of Shabti' during the Damage Step.\n● 'Charm of Shabti' is like a reverse-'Kuriboh': you take damage from the attack as normal, but your monster is unharmed.",
+    "Trooper": "● You can activate the effect of 'Charm of Shabti' during the Damage Step.\n● 'Charm of Shabti' is like a reverse-'Kuriboh': you take damage from the attack as normal, but your monster is unharmed.",
+    "Circle": "● You can activate the effect of 'Charm of Shabti' during the Damage Step.\n● 'Charm of Shabti' is like a reverse-'Kuriboh': you take damage from the attack as normal, but your monster is unharmed.",
+    "Stein": "● You can activate the effect of 'Charm of Shabti' during the Damage Step.\n● 'Charm of Shabti' is like a reverse-'Kuriboh': you take damage from the attack as normal, but your monster is unharmed.",
+    "Base": "1. You can activate the effect of \"Charm of Shabti\" during the Damage Step.\\n2. \"Charm of Shabti\" is like a reverse-\"Kuriboh\": you take damage from the attack as normal, but your monster is unharmed."
+  },
+  "PSCT": {
+    "Tengu": "① (Quick): You can discard this card; until the End Phase, \"Gravekeeper's\" monsters you control can't be destroyed by battle.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

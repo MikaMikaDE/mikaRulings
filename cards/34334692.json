@@ -1,0 +1,44 @@
+{
+  "id": 34334692,
+  "name": "Ritual Raven",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 300,
+    "level": 1,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card's effect applies any time it is Tributed for a Ritual Summon, including from your hand or while face-down on the field.\n●This card's effect is optional. You may also count it as a Level 1 monster when Tributing it for a Ritual Summon.\n●This card can be used as the entire Tribute for Ritual Spell Cards that require the Ritual Monster's exact Level in Tributes, like End of the World and Contract with the Abyss.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card's effect applies any time it is Tributed for a Ritual Summon, including from your hand or while face-down on the field.\n● This card's effect is optional. You may also count it as a LV 1 monster when Tributing it for a Ritual Summon.\n● This card can be used as the entire Tribute for Ritual Spell Cards that require the Ritual Monster's exact LV in Tributes, like 'End of the World' and 'Contract with the Abyss'.",
+    "TeleDAD": "● This card's effect applies any time it is Tributed for a Ritual Summon, including from your hand or while face-down on the field.\n● This card's effect is optional. You may also count it as a LV 1 monster when Tributing it for a Ritual Summon.\n● This card can be used as the entire Tribute for Ritual Spell Cards that require the Ritual Monster's exact LV in Tributes, like 'End of the World' and 'Contract with the Abyss'.",
+    "Gladiator": "● This card's effect applies any time it is Tributed for a Ritual Summon, including from your hand or while face-down on the field.\n● This card's effect is optional. You may also count it as a LV 1 monster when Tributing it for a Ritual Summon.\n● This card can be used as the entire Tribute for Ritual Spell Cards that require the Ritual Monster's exact LV in Tributes, like 'End of the World' and 'Contract with the Abyss'.",
+    "ReturnDAD": "● This card's effect applies any time it is Tributed for a Ritual Summon, including from your hand or while face-down on the field.\n● This card's effect is optional. You may also count it as a LV 1 monster when Tributing it for a Ritual Summon.\n● This card can be used as the entire Tribute for Ritual Spell Cards that require the Ritual Monster's exact LV in Tributes, like 'End of the World' and 'Contract with the Abyss'.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● This card's effect applies any time it is Tributed for a Ritual Summon, including from your hand or while face-down on the field.\n● This card's effect is optional. You may also count it as a LV 1 monster when Tributing it for a Ritual Summon.\n● This card can be used as the entire Tribute for Ritual Spell Cards that require the Ritual Monster's exact LV in Tributes, like 'End of the World' and 'Contract with the Abyss'.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card's effect applies any time it is Tributed for a Ritual Summon, including from your hand or while face-down on the field.\\n2. This card's effect is optional. You may also count it as a Level 1 monster when Tributing it for a Ritual Summon.\\n3. This card can be used as the entire Tribute for Ritual Spell Cards that require the Ritual Monster's exact Level in Tributes, like \"End of the World\" and \"Contract with the Abyss\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

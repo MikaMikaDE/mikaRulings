@@ -1,0 +1,40 @@
+{
+  "id": 61962135,
+  "name": "Glorious Illusion",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Sending the top 2 cards of your Deck to the GY starts a Chain.",
+    "TeleDAD": "● Sending the top 2 cards of your Deck to the GY starts a Chain.",
+    "Gladiator": "● Sending the top 2 cards of your Deck to the GY starts a Chain.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Sending the top 2 cards of your Deck to the GY starts a Chain."
+  },
+  "PSCT": {
+    "Tengu": "① Activate by targeting 1 \"Lightsworn\" monster in your GY; Special Summon it in Attack Position. \n② If this card leaves the field, destroy that monster. \n③ If that monster leaves the field, destroy this card.\n④ During your End Phase: Send the top 2 cards of your Deck to the GY.\n(Activate & Resolve only if this card is face-up on the field).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

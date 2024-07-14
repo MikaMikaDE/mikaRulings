@@ -1,0 +1,44 @@
+{
+  "id": 50939127,
+  "name": "Different Dimension Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1200,
+    "def": 1500,
+    "level": 5,
+    "race": "Dragon",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●Different Dimension Dragon cannot be destroyed by Fissure, Mirror Force, etc. Also, if Different Dimension Dragon is your only monster on your side of the field, your opponent cannot activate effects like Fissure, Mirror Force, Raigeki, etc.\n●Different Dimension Dragon can be destroyed while in your hand or Deck with Chain Destruction.\n●If Different Dimension Dragon is face-down, it can be destroyed by Raigeki and similar non-targeting cards.",
+    "Goat": "●Different Dimension Dragon cannot be destroyed by Fissure, Mirror Force, etc. Also, if Different Dimension Dragon is your only monster on your side of the field, your opponent cannot activate effects like Fissure, Mirror Force, Raigeki, etc.\n●Different Dimension Dragon can be destroyed while in your hand or Deck with Chain Destruction.\n●If Different Dimension Dragon is face-down, it can be destroyed by Raigeki and similar non-targeting cards.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Different Dimension Dragon' can't be destroyed by 'Fissure', 'Mirror Force', etc. Also, if 'Different Dimension Dragon' is your only monster on your side of the field, your opponent can't activate effects like 'Fissure', 'Mirror Force', 'Raigeki', etc.\n● 'Different Dimension Dragon' can be destroyed while in your hand or Deck with 'Chain Destruction'.\n● If 'Different Dimension Dragon' is face-down, it can be destroyed by 'Raigeki' and similar non-targeting cards.",
+    "TeleDAD": "● 'Different Dimension Dragon' can't be destroyed by 'Fissure', 'Mirror Force', etc. Also, if 'Different Dimension Dragon' is your only monster on your side of the field, your opponent can't activate effects like 'Fissure', 'Mirror Force', 'Raigeki', etc.\n● 'Different Dimension Dragon' can be destroyed while in your hand or Deck with 'Chain Destruction'.\n● If 'Different Dimension Dragon' is face-down, it can be destroyed by 'Raigeki' and similar non-targeting cards.",
+    "Gladiator": "● 'Different Dimension Dragon' can't be destroyed by 'Fissure', 'Mirror Force', etc. Also, if 'Different Dimension Dragon' is your only monster on your side of the field, your opponent can't activate effects like 'Fissure', 'Mirror Force', 'Raigeki', etc.\n● 'Different Dimension Dragon' can be destroyed while in your hand or Deck with 'Chain Destruction'.\n● If 'Different Dimension Dragon' is face-down, it can be destroyed by 'Raigeki' and similar non-targeting cards.",
+    "ReturnDAD": "● 'Different Dimension Dragon' can't be destroyed by 'Fissure', 'Mirror Force', etc. Also, if 'Different Dimension Dragon' is your only monster on your side of the field, your opponent can't activate effects like 'Fissure', 'Mirror Force', 'Raigeki', etc.\n● 'Different Dimension Dragon' can be destroyed while in your hand or Deck with 'Chain Destruction'.\n● If 'Different Dimension Dragon' is face-down, it can be destroyed by 'Raigeki' and similar non-targeting cards.",
+    "Trooper": "● 'Different Dimension Dragon' can't be destroyed by 'Fissure', 'Mirror Force', etc. Also, if 'Different Dimension Dragon' is your only monster on your side of the field, your opponent can't activate effects like 'Fissure', 'Mirror Force', 'Raigeki', etc.\n● 'Different Dimension Dragon' can be destroyed while in your hand or Deck with 'Chain Destruction'.\n● If 'Different Dimension Dragon' is face-down, it can be destroyed by 'Raigeki' and similar non-targeting cards.",
+    "Circle": "● 'Different Dimension Dragon' can't be destroyed by 'Fissure', 'Mirror Force', etc. Also, if 'Different Dimension Dragon' is your only monster on your side of the field, your opponent can't activate effects like 'Fissure', 'Mirror Force', 'Raigeki', etc.\n● 'Different Dimension Dragon' can be destroyed while in your hand or Deck with 'Chain Destruction'.\n● If 'Different Dimension Dragon' is face-down, it can be destroyed by 'Raigeki' and similar non-targeting cards.",
+    "Stein": "● 'Different Dimension Dragon' can't be destroyed by 'Fissure', 'Mirror Force', etc. Also, if 'Different Dimension Dragon' is your only monster on your side of the field, your opponent can't activate effects like 'Fissure', 'Mirror Force', 'Raigeki', etc.\n● 'Different Dimension Dragon' can be destroyed while in your hand or Deck with 'Chain Destruction'.\n● If 'Different Dimension Dragon' is face-down, it can be destroyed by 'Raigeki' and similar non-targeting cards.",
+    "Base": "1. \"Different Dimension Dragon\" cannot be destroyed by \"Fissure\", \"Mirror Force\", etc. Also, if \"Different Dimension Dragon\" is your only monster on your side of the field, your opponent cannot activate effects like \"Fissure\", \"Mirror Force\", \"Raigeki\", etc.\\n2. \"Different Dimension Dragon\" can be destroyed while in your hand or Deck with \"Chain Destruction\".\\n3. If \"Different Dimension Dragon\" is face-down, it can be destroyed by \"Raigeki\" and similar non-targeting cards."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

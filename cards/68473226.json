@@ -1,0 +1,44 @@
+{
+  "id": 68473226,
+  "name": "Hardened Armed Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 800,
+    "level": 4,
+    "race": "Dragon",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(U1) You can send 1 Level 8 or higher monster from your hand to the GY and Special Summon this card. (U2) If you Tribute this card for the Tribute Summon of a Level 7 or higher monster, that monster cannot be destroyed by card effects.\n●The (U1) Unclassified effect is a built-in Special Summon. This does not start a Chain.\n●This can only be used to Summon this card from the hand.\n●Sending 1 Level 8+ monster from your hand to the GY is a cost.\n●The (U2) Unclassified effect does not activate. It applies to the Tribute Summoned Level 7+ monster.\n●This effect applies even if Skill Drain negates the effects of the Tribute Summoned monster.\n●If this card is Tributed to Summon Earthbound Immortal Aslla piscu while there is not face-up Field Spell Card on the field, Earthbound Immortal Aslla piscu will not be destroyed by its own effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

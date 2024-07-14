@@ -1,0 +1,40 @@
+{
+  "id": 99788587,
+  "name": "Blasting Fuse",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Blasting Fuse” also destroys itself.\n●Even if an effect is chained to “Blasting Fuse” that removes 1 of the cards in that column, the effect is still applied and all remaining cards in the column are destroyed.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Blasting Fuse” also destroys itself.\n● Even if an effect is chained to “Blasting Fuse” that removes 1 of the cards in that column, the effect is still applied and all remaining cards in the column are destroyed.",
+    "TeleDAD": "● The effect of “Blasting Fuse” also destroys itself.\n● Even if an effect is chained to “Blasting Fuse” that removes 1 of the cards in that column, the effect is still applied and all remaining cards in the column are destroyed.",
+    "Gladiator": "● If “Heavy Mech Support Platform” and the monster it is equipped to are in the same column that “Blasting Fuse” is destroying, “Heavy Mech Support Platform” is destroyed but the monster it was equipped to remains on the field.\n● The effect of “Blasting Fuse” also destroys itself.\n● Even if an effect is chained to “Blasting Fuse” that removes 1 of the cards in that column, the effect is still applied and all remaining cards in the column are destroyed.",
+    "ReturnDAD": "● If “Heavy Mech Support Platform” and the monster it is equipped to are in the same column that “Blasting Fuse” is destroying, “Heavy Mech Support Platform” is destroyed but the monster it was equipped to remains on the field.\n● The effect of “Blasting Fuse” also destroys itself.\n● Even if an effect is chained to “Blasting Fuse” that removes 1 of the cards in that column, the effect is still applied and all remaining cards in the column are destroyed.",
+    "Trooper": "● If “Heavy Mech Support Platform” and the monster it is equipped to are in the same column that “Blasting Fuse” is destroying, “Heavy Mech Support Platform” is destroyed but the monster it was equipped to remains on the field.\n● The effect of “Blasting Fuse” also destroys itself.\n● Even if an effect is chained to “Blasting Fuse” that removes 1 of the cards in that column, the effect is still applied and all remaining cards in the column are destroyed.",
+    "Circle": "● If “Heavy Mech Support Platform” and the monster it is equipped to are in the same column that “Blasting Fuse” is destroying, “Heavy Mech Support Platform” is destroyed but the monster it was equipped to remains on the field.\n● The effect of “Blasting Fuse” also destroys itself.\n● Even if an effect is chained to “Blasting Fuse” that removes 1 of the cards in that column, the effect is still applied and all remaining cards in the column are destroyed.",
+    "Stein": "● If “Heavy Mech Support Platform” and the monster it is equipped to are in the same column that “Blasting Fuse” is destroying, “Heavy Mech Support Platform” is destroyed but the monster it was equipped to remains on the field.\n● The effect of “Blasting Fuse” also destroys itself.\n● Even if an effect is chained to “Blasting Fuse” that removes 1 of the cards in that column, the effect is still applied and all remaining cards in the column are destroyed.",
+    "Base": "1. The effect of \"Blasting Fuse\" also destroys itself.\\n2. Even if an effect is chained to \"Blasting Fuse\" that removes 1 of the cards in that column, the effect is still applied and all remaining cards in the column are destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

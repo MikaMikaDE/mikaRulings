@@ -1,0 +1,44 @@
+{
+  "id": 16469012,
+  "name": "Teva",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2000,
+    "def": 1500,
+    "level": 5,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "Goat": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "HAT": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "Vegas": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "Meadowlands": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "FireWater": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "Cat": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "TeleDAD": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "Gladiator": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "ReturnDAD": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "Trooper": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "Circle": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "Stein": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "① If this card is Tribute Summoned: Your opponent cannot declare an attack during their next turn.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① If this card is Tribute Summoned: Your opponent cannot declare an attack during their next turn.",
+    "Meadowlands": "① If this card is Tribute Summoned: Your opponent cannot declare an attack during their next turn.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

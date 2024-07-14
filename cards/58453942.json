@@ -1,0 +1,44 @@
+{
+  "id": 58453942,
+  "name": "Psychic Snail",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1900,
+    "def": 1200,
+    "level": 4,
+    "race": "Psychic",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Psychic Snail's effect targets 1 of your other Psychic-Type monsters. Paying 800 Life Points is a cost.\n●Psychic Snail's effect can be activated multiple times during the same turn, as long as you can pay the cost.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Psychic Snail's' effect targets 1 of your other Psychics. Paying 800 LP is a cost.\n● 'Psychic Snail's' effect can be activated multiple times during the same turn, as long as you can pay the cost.",
+    "TeleDAD": "● 'Psychic Snail's' effect targets 1 of your other Psychics. Paying 800 LP is a cost.\n● 'Psychic Snail's' effect can be activated multiple times during the same turn, as long as you can pay the cost.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Psychic Snail\" targets 1 of your other Psychic-Type monsters. Paying 800 Life Points is a cost.\\n2. The effect of \"Psychic Snail\" can be activated multiple times during the same turn, as long as you can pay the cost."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

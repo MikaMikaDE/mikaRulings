@@ -1,0 +1,44 @@
+{
+  "id": 62420419,
+  "name": "Reshef the Dark Being",
+  "Stats": {
+    "type": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "atk": 2500,
+    "def": 1500,
+    "level": 8,
+    "race": "Fiend",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Reshef the Dark Being” is an Ignition Effect. Discarding is a cost for activation of this effect.\n●If the monster that you take control of with “Reshef the Dark Being” is flipped face-down, it still returns to the opponent during the End Phase.",
+    "Goat": "●The effect of “Reshef the Dark Being” is an Ignition Effect. Discarding is a cost for activation of this effect.\n●If the monster that you take control of with “Reshef the Dark Being” is Set, it still returns to the opponent during the End Phase.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Reshef the Dark Being” is an Ignition Effect. Discarding is a cost for activation of this effect.\n● If the monster that you take control of with “Reshef the Dark Being” is flipped face-down, it still returns to the opponent during the End Phase.",
+    "TeleDAD": "● The effect of “Reshef the Dark Being” is an Ignition Effect. Discarding is a cost for activation of this effect.\n● If the monster that you take control of with “Reshef the Dark Being” is flipped face-down, it still returns to the opponent during the End Phase.",
+    "Gladiator": "● The effect of “Reshef the Dark Being” is an Ignition Effect. Discarding is a cost for activation of this effect.\n● If the monster that you take control of with “Reshef the Dark Being” is flipped face-down, it still returns to the opponent during the End Phase.",
+    "ReturnDAD": "● The effect of “Reshef the Dark Being” is an Ignition Effect. Discarding is a cost for activation of this effect.\n● If the monster that you take control of with “Reshef the Dark Being” is flipped face-down, it still returns to the opponent during the End Phase.",
+    "Trooper": "● The effect of “Reshef the Dark Being” is an Ignition Effect. Discarding is a cost for activation of this effect.\n● If the monster that you take control of with “Reshef the Dark Being” is flipped face-down, it still returns to the opponent during the End Phase.",
+    "Circle": "● The effect of “Reshef the Dark Being” is an Ignition Effect. Discarding is a cost for activation of this effect.\n● If the monster that you take control of with “Reshef the Dark Being” is flipped face-down, it still returns to the opponent during the End Phase.",
+    "Stein": "● The effect of “Reshef the Dark Being” is an Ignition Effect. Discarding is a cost for activation of this effect.\n● If the monster that you take control of with “Reshef the Dark Being” is flipped face-down, it still returns to the opponent during the End Phase.",
+    "Base": "1. The effect of \"Reshef the Dark Being\" is an Ignition Effect. Discarding is a cost for activation of this effect.\\n2. If the monster that you take control of with \"Reshef the Dark Being\" is flipped face-down, it still returns to the opponent during the End Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

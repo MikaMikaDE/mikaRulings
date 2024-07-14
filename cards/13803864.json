@@ -1,0 +1,44 @@
+{
+  "id": 13803864,
+  "name": "Mokey Mokey King",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 300,
+    "def": 100,
+    "level": 6,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●When Mokey Mokey King that was Special Summoned by Magical Scientist is returned to the Extra Deck, it has been removed from the field so its effect activates and you Special Summon as many Mokey Mokey as possible from your GY.\n●Missing the Timing: If Mokey Mokey King leaves the field in the middle of a chain (for example, if destroyed by Ring of Destruction chained to Pot of Greed, or Tributed for a Tribute Summon or for the effect of Cannon Soldier, etc.,), you miss the timing and you cannot Special Summon. Only when the last action of the chain is the removal of Mokey Mokey King from the field, can you activate its effect.",
+    "Goat": "●When Mokey Mokey King that was Special Summoned by Magical Scientist is returned to the Fusion Deck, it has been removed from the field so its effect activates and you Special Summon as many Mokey Mokey as possible from your GY.\n●Missing the Timing: If Mokey Mokey King leaves the field in the middle of a chain (for example, if destroyed by Ring of Destruction chained to Pot of Greed, or Tributed for a Tribute Summon or for the effect of Cannon Soldier, etc.,), you miss the timing and you cannot Special Summon. Only when the last action of the chain is the removal of Mokey Mokey King from the field, can you activate its effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When 'Mokey Mokey King' that was Special Summoned by 'Magical Scientist' is returned to the Extra Deck, it has been removed from the field so its effect activates and you Special Summon as many 'Mokey Mokey' as possible from your GY.\n● Missing the Timing: If 'Mokey Mokey King' leaves the field in the middle of a chain (for example, if destroyed by 'Ring of Destruction' chained to 'Pot of Greed', or Tributed for a Tribute Summon or for the effect of 'Cannon Soldier', etc.,), you miss the timing and you can't Special Summon. Only when the last action of the chain is the removal of 'Mokey Mokey King' from the field, can you activate its effect.",
+    "TeleDAD": "● When 'Mokey Mokey King' that was Special Summoned by 'Magical Scientist' is returned to the Extra Deck, it has been removed from the field so its effect activates and you Special Summon as many 'Mokey Mokey' as possible from your GY.\n● Missing the Timing: If 'Mokey Mokey King' leaves the field in the middle of a chain (for example, if destroyed by 'Ring of Destruction' chained to 'Pot of Greed', or Tributed for a Tribute Summon or for the effect of 'Cannon Soldier', etc.,), you miss the timing and you can't Special Summon. Only when the last action of the chain is the removal of 'Mokey Mokey King' from the field, can you activate its effect.",
+    "Gladiator": "● When 'Mokey Mokey King' that was Special Summoned by 'Magical Scientist' is returned to the Fusion Deck, it has been removed from the field so its effect activates and you Special Summon as many 'Mokey Mokey' as possible from your GY.\n● Missing the Timing: If 'Mokey Mokey King' leaves the field in the middle of a chain (for example, if destroyed by 'Ring of Destruction' chained to 'Pot of Greed', or Tributed for a Tribute Summon or for the effect of 'Cannon Soldier', etc.,), you miss the timing and you can't Special Summon. Only when the last action of the chain is the removal of 'Mokey Mokey King' from the field, can you activate its effect.",
+    "ReturnDAD": "● When 'Mokey Mokey King' that was Special Summoned by 'Magical Scientist' is returned to the Fusion Deck, it has been removed from the field so its effect activates and you Special Summon as many 'Mokey Mokey' as possible from your GY.\n● Missing the Timing: If 'Mokey Mokey King' leaves the field in the middle of a chain (for example, if destroyed by 'Ring of Destruction' chained to 'Pot of Greed', or Tributed for a Tribute Summon or for the effect of 'Cannon Soldier', etc.,), you miss the timing and you can't Special Summon. Only when the last action of the chain is the removal of 'Mokey Mokey King' from the field, can you activate its effect.",
+    "Trooper": "● When 'Mokey Mokey King' that was Special Summoned by 'Magical Scientist' is returned to the Fusion Deck, it has been removed from the field so its effect activates and you Special Summon as many 'Mokey Mokey' as possible from your GY.\n● Missing the Timing: If 'Mokey Mokey King' leaves the field in the middle of a chain (for example, if destroyed by 'Ring of Destruction' chained to 'Pot of Greed', or Tributed for a Tribute Summon or for the effect of 'Cannon Soldier', etc.,), you miss the timing and you can't Special Summon. Only when the last action of the chain is the removal of 'Mokey Mokey King' from the field, can you activate its effect.",
+    "Circle": "● When 'Mokey Mokey King' that was Special Summoned by 'Magical Scientist' is returned to the Fusion Deck, it has been removed from the field so its effect activates and you Special Summon as many 'Mokey Mokey' as possible from your GY.\n● Missing the Timing: If 'Mokey Mokey King' leaves the field in the middle of a chain (for example, if destroyed by 'Ring of Destruction' chained to 'Pot of Greed', or Tributed for a Tribute Summon or for the effect of 'Cannon Soldier', etc.,), you miss the timing and you can't Special Summon. Only when the last action of the chain is the removal of 'Mokey Mokey King' from the field, can you activate its effect.",
+    "Stein": "● When 'Mokey Mokey King' that was Special Summoned by 'Magical Scientist' is returned to the Fusion Deck, it has been removed from the field so its effect activates and you Special Summon as many 'Mokey Mokey' as possible from your GY.\n● Missing the Timing: If 'Mokey Mokey King' leaves the field in the middle of a chain (for example, if destroyed by 'Ring of Destruction' chained to 'Pot of Greed', or Tributed for a Tribute Summon or for the effect of 'Cannon Soldier', etc.,), you miss the timing and you can't Special Summon. Only when the last action of the chain is the removal of 'Mokey Mokey King' from the field, can you activate its effect.",
+    "Base": "1. When \"Mokey Mokey King\" that was Special Summoned by \"Magical Scientist\" is returned to the Extra Deck, it has been removed from the field so its effect activates and you Special Summon as many \"Mokey Mokey\" as possible from your GY.\\n2. Missing the Timing: If \"Mokey Mokey King\" leaves the field in the middle of a chain (for example, if destroyed by \"Ring of Destruction\" chained to \"Pot of Greed\", or Tributed for a Tribute Summon or for the effect of \"Cannon Soldier\", etc.), you miss the timing and you cannot Special Summon. Only when the last action of the chain is the removal of \"Mokey Mokey King\" from the field, can you activate its effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 33655493,
+  "name": "Belial - Marquis of Darkness",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 2400,
+    "level": 8,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "(1) Your opponent cannot select any monster you control, except Belial - Marquis of Darkness, as an attack target, or as a target of a Spell or Trap Card.\n●The (1) Continuous Effect applies so long as Belial - Marquis of Darkness is face-up on the field.\n●If a Spell / Trap Card targets 1 monster you control and you chain Call of the Haunted to Special Summon Belial - Marquis of Darkness, the effect is still resolved as normal.\n●Monsters in your GY can still be targeted by your opponent's Spell / Trap Cards.\n●This effect does not apply to face-down monsters you control [REF needed, errata'd in 2011].\n●While the (1) Continuous Effect applies, your opponent can:\n●use Spell / Trap Cards which do not target (ex: Bottomless Trap Hole, Smashing Ground);\n●target your other monsters with monster effects (ex: Caius the Shadow Monarch);\n●target your face-down Defense Position monsters with Spell / Trap Cards & Effects [REF needed, errata'd in 2011];\n●attack your face-down Defense Position monsters [REF needed, errata'd in 2011].\n●If you control Evil HERO Malicious Fiend & Belial - Marquis of Darkness, and their effects are active, your opponent's monsters are changed to Attack Position and must attack Evil HERO Malicious Fiend.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you chain 'Call of the Haunted' to a Spell/Trap Card that targets 1 monster you control and you Special Summon 'Belial - Marquis of Darkness', the effect is still resolved as normal.",
+    "TeleDAD": "● If you chain 'Call of the Haunted' to a Spell/Trap Card that targets 1 monster you control and you Special Summon 'Belial - Marquis of Darkness', the effect is still resolved as normal.",
+    "Gladiator": "● If you chain 'Call of the Haunted' to a Spell/Trap Card that targets 1 monster you control and you Special Summon 'Belial - Marquis of Darkness', the effect is still resolved as normal.",
+    "ReturnDAD": "● If you chain 'Call of the Haunted' to a Spell/Trap Card that targets 1 monster you control and you Special Summon 'Belial - Marquis of Darkness', the effect is still resolved as normal.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you chain \"Call of the Haunted\" to a Spell or Trap Card that targets 1 monster you control and you Special Summon \"Belial - Marquis of Darkness\", the effect is still resolved as normal."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

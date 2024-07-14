@@ -1,0 +1,44 @@
+{
+  "id": 97268402,
+  "name": "Effect Veiler",
+  "Stats": {
+    "type": "Tuner Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": "Spellcaster",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● Errata: This effect stops applying during the End Phase (not for the entire turn).\n\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field \n● (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\n\nOnly effects which activate/apply on the field are negated.\n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.\n\nThis effect can't negate the effects of a card that's already being negated. For example, you cannot use Effect Veiler targeting a monster affected by \"Skill Drain\" or \"Fiendish Chain\".",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● Errata: This effect stops applying during the End Phase (not for the entire turn).\n\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field \n● (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\n\nOnly effects which activate/apply on the field are negated.\n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.\n\nThis effect can't negate the effects of a card that's already being negated.",
+    "Vegas": "● Errata: This effect stops applying during the End Phase (not for the entire turn).\n\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field \n● (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\n\nOnly effects which activate/apply on the field are negated.\n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.\n\nThis effect can't negate the effects of a card that's already being negated.",
+    "Meadowlands": "● Errata: This effect stops applying during the End Phase (not for the entire turn).\n\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field \n● (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\n\nOnly effects which activate/apply on the field are negated.\n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.\n\nThis effect can't target a Normal Monster.\nThis effect can't negate the effects of a card that's already being negated.",
+    "FireWater": "● Errata: This effect stops applying during the End Phase (not for the entire turn).\n\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field \n● (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\n\nOnly effects which activate/apply on the field are negated.\n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.\n\nThis effect can't negate the effects of a card that's already being negated.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card will negate effects that activate or apply on the field. It will not negate an effect that activates in the GY.\\n2. If you control the targeted monster when the effect of \"Effect Veiler\" resolves, the targeted monster's effect(s) will not be negated.\\n3. If the targeted monster is no longer face-up on the field when the effect of \"Effect Veiler\" resolves, the targeted monster's effect(s) will not be negated.\\n4. If the effect of \"Effect Veiler\" resolves, and the targeted monster is then flipped face-down, its effect(s) will no longer be negated, even if it is flipped face-up again later that turn.\\n5. If you target \"Exiled Force\" with \"Effect Veiler\" and your opponent Tributes \"Exiled Force\" to activate its effect later in the turn, the effect of \"Exiled Force\" will be negated.\\n6. [FORUM] The effect of \"Effect Veiler\" also applies to Continuous Effects. For example, \"Effect Veiler\" will negate the Continuous Effect of \"Jinzo\".\\n7. [FORUM] \"Effect Veiler\" will negate the effect of \"Spirit Reaper\". \"Spirit Reaper\" will not be destroyed by its own effect as its effect is now being negated."
+  },
+  "PSCT": {
+    "Tengu": "① During your opponenet's Main Phase (Quick): \nYou can send this card from your hand to the GY, then target 1 face-up Effect Monster your opponent controls; negate its effects (until the End Phase).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① During your opponenet's Main Phase (Quick): \nYou can send this card from your hand to the GY, then target 1 face-up Effect Monster your opponent controls; negate its effects (until the End Phase).",
+    "Meadowlands": "① During your opponenet's Main Phase (Quick): \nYou can send this card from your hand to the GY, then target 1 face-up Effect Monster your opponent controls; negate its effects (until the End Phase).",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

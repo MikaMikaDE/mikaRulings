@@ -1,0 +1,40 @@
+{
+  "id": 76848240,
+  "name": "Non Aggression Area",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If your opponent Flip Summons Cyber Jar while Non-Aggression Area is active, because he cannot Special Summon, the cards he would normally Summon that were picked up are destroyed. All the cards picked up with Cyber Jar that would not normally be Special Summoned (such as high-level monsters, Spell and Trap Cards, and monsters that are Special Summon-only) remain in the hand and are not destroyed.\n●If you activate Non-Aggression Area, your opponent can still Special Summon THIS turn with Call of the Haunted, etc.",
+    "Goat": "●If your opponent Flip Summons Cyber Jar while Non-Aggression Area is applying, because he cannot Special Summon, the cards he would normally Summon that were picked up are destroyed. All the cards picked up with Cyber Jar that would not normally be Special Summoned (such as high-level monsters, Spell/Trap Cards, and monsters that are Special Summon-only) remain in the hand and are not destroyed.\n●If you activate Non-Aggression Area, your opponent can still Special Summon THIS turn with Call of the Haunted, etc.Steve Okegawa, 02/25/04\n●Q: Do the Lv 4 or lower monsters drawn from the Deck by the effect of “Morphing Jar #2” get discarded to the GY or placed in the hand if “Non Aggression Area” had been activated? \nA: They would be sent to the GY. The cards are not discarded. They were never in your hand. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If your opponent Flip Summons 'Cyber Jar' while 'Non-Aggression Area' is applying, because he can't Special Summon, the cards he would normally Summon that were picked up are destroyed. All the cards picked up with 'Cyber Jar' that would not normally be Special Summoned (such as high-level monsters, Spell/Trap Cards, and monsters that are Special Summon-only) remain in the hand and are not destroyed.\n● If you activate 'Non-Aggression Area', your opponent can still Special Summon THIS turn with 'Call of the Haunted', etc.",
+    "TeleDAD": "● If your opponent Flip Summons 'Cyber Jar' while 'Non-Aggression Area' is applying, because he can't Special Summon, the cards he would normally Summon that were picked up are destroyed. All the cards picked up with 'Cyber Jar' that would not normally be Special Summoned (such as high-level monsters, Spell/Trap Cards, and monsters that are Special Summon-only) remain in the hand and are not destroyed.\n● If you activate 'Non-Aggression Area', your opponent can still Special Summon THIS turn with 'Call of the Haunted', etc.",
+    "Gladiator": "● If your opponent Flip Summons 'Cyber Jar' while 'Non-Aggression Area' is applying, because he can't Special Summon, the cards he would normally Summon that were picked up are destroyed. All the cards picked up with 'Cyber Jar' that would not normally be Special Summoned (such as high-level monsters, Spell/Trap Cards, and monsters that are Special Summon-only) remain in the hand and are not destroyed.\n● If you activate 'Non-Aggression Area', your opponent can still Special Summon THIS turn with 'Call of the Haunted', etc.",
+    "ReturnDAD": "● If your opponent Flip Summons 'Cyber Jar' while 'Non-Aggression Area' is applying, because he can't Special Summon, the cards he would normally Summon that were picked up are destroyed. All the cards picked up with 'Cyber Jar' that would not normally be Special Summoned (such as high-level monsters, Spell/Trap Cards, and monsters that are Special Summon-only) remain in the hand and are not destroyed.\n● If you activate 'Non-Aggression Area', your opponent can still Special Summon THIS turn with 'Call of the Haunted', etc.",
+    "Trooper": "● If your opponent Flip Summons 'Cyber Jar' while 'Non-Aggression Area' is applying, because he can't Special Summon, the cards he would normally Summon that were picked up are destroyed. All the cards picked up with 'Cyber Jar' that would not normally be Special Summoned (such as high-level monsters, Spell/Trap Cards, and monsters that are Special Summon-only) remain in the hand and are not destroyed.\n● If you activate 'Non-Aggression Area', your opponent can still Special Summon THIS turn with 'Call of the Haunted', etc.",
+    "Circle": "● If your opponent Flip Summons 'Cyber Jar' while 'Non-Aggression Area' is applying, because he can't Special Summon, the cards he would normally Summon that were picked up are destroyed. All the cards picked up with 'Cyber Jar' that would not normally be Special Summoned (such as high-level monsters, Spell/Trap Cards, and monsters that are Special Summon-only) remain in the hand and are not destroyed.\n● If you activate 'Non-Aggression Area', your opponent can still Special Summon THIS turn with 'Call of the Haunted', etc.",
+    "Stein": "● If your opponent Flip Summons 'Cyber Jar' while 'Non-Aggression Area' is applying, because he can't Special Summon, the cards he would normally Summon that were picked up are destroyed. All the cards picked up with 'Cyber Jar' that would not normally be Special Summoned (such as high-level monsters, Spell/Trap Cards, and monsters that are Special Summon-only) remain in the hand and are not destroyed.\n● If you activate 'Non-Aggression Area', your opponent can still Special Summon THIS turn with 'Call of the Haunted', etc.",
+    "Base": "1. If your opponent Flip Summons \"Cyber Jar\" while \"Non-Aggression Area\" is active, because he cannot Special Summon, the cards he would normally Summon that were picked up are destroyed. All the cards picked up with \"Cyber Jar\" that would not normally be Special Summoned (such as high-level monsters, Spell and Trap Cards, and monsters that are Special Summon-only) remain in the hand and are not destroyed.\\n2. If you activate \"Non-Aggression Area\", your opponent can still Special Summon THIS turn with \"Call of the Haunted\", etc."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

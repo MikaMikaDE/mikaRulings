@@ -1,0 +1,40 @@
+{
+  "id": 69091732,
+  "name": "Introduction to Gallantry",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If your opponent has 4 or fewer cards in their hand when this card’s effect resolves, they will still discard 1 card at random.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If your opponent has 4 or fewer cards in their hand when this card’s effect resolves, they will still discard 1 card at random.",
+    "TeleDAD": "● If your opponent has 4 or fewer cards in their hand when this card’s effect resolves, they will still discard 1 card at random.",
+    "Gladiator": "● If your opponent has 4 or fewer cards in their hand when this card’s effect resolves, they will still discard 1 card at random.",
+    "ReturnDAD": "● If your opponent has 4 or fewer cards in their hand when this card’s effect resolves, they will still discard 1 card at random.",
+    "Trooper": "● If your opponent has 4 or fewer cards in their hand when this card’s effect resolves, they will still discard 1 card at random.",
+    "Circle": "● If your opponent has 4 or fewer cards in their hand when this card’s effect resolves, they will still discard 1 card at random.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If your opponent has 4 or fewer cards in their hand when this card's effect resolves, they will still discard 1 card at random."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

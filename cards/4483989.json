@@ -1,0 +1,40 @@
+{
+  "id": 4483989,
+  "name": "Prepare to Strike Back",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of “Prepare to Strike Back” can be chained to.\n●The damage from “Prepare to Strike Back” is effect damage, not battle damage.\n●“Prepare to Strike Back” does not target.\n●If an effect is chained to “Prepare to Strike Back” that flips the monster face-down, the effect of “Prepare to Strike Back” is not applied.",
+    "Goat": "●The effect of “Prepare to Strike Back” can be chained to.\n●The damage from “Prepare to Strike Back” is effect damage, not battle damage.\n●“Prepare to Strike Back” does not target.\n●If an effect is chained to “Prepare to Strike Back” that flips the monster face-down, the effect of “Prepare to Strike Back” is not applied.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Prepare to Strike Back” can be chained to.\n● The damage from “Prepare to Strike Back” is effect damage, not battle damage.\n● “Prepare to Strike Back” does not target.\n● If an effect is chained to “Prepare to Strike Back” that flips the monster face-down, the effect of “Prepare to Strike Back” isn't applied.",
+    "TeleDAD": "● The effect of “Prepare to Strike Back” can be chained to.\n● The damage from “Prepare to Strike Back” is effect damage, not battle damage.\n● “Prepare to Strike Back” does not target.\n● If an effect is chained to “Prepare to Strike Back” that flips the monster face-down, the effect of “Prepare to Strike Back” isn't applied.",
+    "Gladiator": "● The effect of “Prepare to Strike Back” can be chained to.\n● The damage from “Prepare to Strike Back” is effect damage, not battle damage.\n● “Prepare to Strike Back” does not target.\n● If an effect is chained to “Prepare to Strike Back” that flips the monster face-down, the effect of “Prepare to Strike Back” isn't applied.",
+    "ReturnDAD": "● The effect of “Prepare to Strike Back” can be chained to.\n● The damage from “Prepare to Strike Back” is effect damage, not battle damage.\n● “Prepare to Strike Back” does not target.\n● If an effect is chained to “Prepare to Strike Back” that flips the monster face-down, the effect of “Prepare to Strike Back” isn't applied.",
+    "Trooper": "● The effect of “Prepare to Strike Back” can be chained to.\n● The damage from “Prepare to Strike Back” is effect damage, not battle damage.\n● “Prepare to Strike Back” does not target.\n● If an effect is chained to “Prepare to Strike Back” that flips the monster face-down, the effect of “Prepare to Strike Back” isn't applied.",
+    "Circle": "● The effect of “Prepare to Strike Back” can be chained to.\n● The damage from “Prepare to Strike Back” is effect damage, not battle damage.\n● “Prepare to Strike Back” does not target.\n● If an effect is chained to “Prepare to Strike Back” that flips the monster face-down, the effect of “Prepare to Strike Back” isn't applied.",
+    "Stein": "● The effect of “Prepare to Strike Back” can be chained to.\n● The damage from “Prepare to Strike Back” is effect damage, not battle damage.\n● “Prepare to Strike Back” does not target.\n● If an effect is chained to “Prepare to Strike Back” that flips the monster face-down, the effect of “Prepare to Strike Back” isn't applied.",
+    "Base": "1. The effect of \"Prepare to Strike Back\" can be chained to.\\n2. The damage from \"Prepare to Strike Back\" is effect damage, not battle damage.\\n3. \"Prepare to Strike Back\" does not target.\\n4. If an effect is chained to \"Prepare to Strike Back\" that flips the monster face-down, the effect of \"Prepare to Strike Back\" is not applied."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

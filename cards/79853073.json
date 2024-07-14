@@ -1,0 +1,44 @@
+{
+  "id": 79853073,
+  "name": "Cipher Soldier",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1350,
+    "def": 1800,
+    "level": 3,
+    "race": "Machine",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "(This card's name in Goat Format is 'Kinetic Soldier') \n●Does the effect of “Kinetic Soldier” refer to the controller having a Warrior monster on the field or “Kinetic Soldier” doing battle with an opponent’s Warrior monster? \nA: The effect activates when Kinetic Soldier is involved in battle with a Warrior monster. So, if I control a Kintetic Soldier and I attack my opponent's Don Zaloog, [Warrior] the effect of of my Kinetic Soldier will activate and its ATK/DEF will both increase by 2000 points during the damage calculation. This includes my Kinetic Soldier being attacked by an opponent's Warrior monster. If I control a Kinetic Soldier and I attack my opponent's Gemini Elf, [Spellcaster], the effect of Kinetic Soldier will not activate. This includes my Kinetic Soldier being attacked by a non- Warrior monster. The effect has does not involve any other Warrior monsters that may be on the field. If they are not involved in the battle then they are of no consequence for this effect. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

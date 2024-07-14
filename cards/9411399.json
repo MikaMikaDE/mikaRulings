@@ -1,0 +1,44 @@
+{
+  "id": 9411399,
+  "name": "Destiny HERO - Malicious",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 800,
+    "level": 6,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● When any monster is Summoned during its controller's turn, this card's effect can be activated with ignition priority.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If an effect is chained to 'Destiny Hero - Malicous' so that there are no open Monster Card Zones when its effect resolves, the second copy of 'Destiny Hero - Malicious' can't be Special Summoned. It is destroyed and sent to the GY.",
+    "TeleDAD": "● If an effect is chained to 'Destiny Hero - Malicous' so that there are no open Monster Card Zones when its effect resolves, the second copy of 'Destiny Hero - Malicious' can't be Special Summoned. It is destroyed and sent to the GY.",
+    "Gladiator": "● If an effect is chained to 'Destiny Hero - Malicous' so that there are no open Monster Card Zones when its effect resolves, the second copy of 'Destiny Hero - Malicious' can't be Special Summoned. It is destroyed and sent to the GY.",
+    "ReturnDAD": "● If an effect is chained to 'Destiny Hero - Malicous' so that there are no open Monster Card Zones when its effect resolves, the second copy of 'Destiny Hero - Malicious' can't be Special Summoned. It is destroyed and sent to the GY.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● If an effect is chained to 'Destiny Hero - Malicous' so that there are no open Monster Card Zones when its effect resolves, the second copy of 'Destiny Hero - Malicious' can't be Special Summoned. It is destroyed and sent to the GY.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If an effect is chained to \"Destiny HERO - Malicious\" so that there are no open Monster Card Zones when its effect resolves, the second copy of \"Destiny HERO - Malicious\" cannot be Special Summoned. It is destroyed and sent to the GY."
+  },
+  "PSCT": {
+    "Tengu": "① You can banish this card from your GY; \nSpecial Summon 1 \"Destiny HERO - Malicious\" from your Deck.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

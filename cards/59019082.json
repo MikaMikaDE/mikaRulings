@@ -1,0 +1,44 @@
+{
+  "id": 59019082,
+  "name": "Garoth, Lightsworn Warrior",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1850,
+    "def": 1300,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'When resolving ''Garoth, Lightsworn Warrior's'' effect, drawing 1 card for each ''Lightsworn'' monster does not start another Chain.\n● If ''Peten the Dark Clown'' is sent to the GY by ''Garoth, Lightsworn Warrior's'' effect, its effect can be activated, even if you draw cards with ''Garoth, Lightsworn Warrior's'' effect.\n● See “Jain, Lightsworn Paladin” for additional rulings.'\n● ",
+    "TeleDAD": "● 'When resolving ''Garoth, Lightsworn Warrior's'' effect, drawing 1 card for each ''Lightsworn'' monster does not start another Chain.\n● If ''Peten the Dark Clown'' is sent to the GY by ''Garoth, Lightsworn Warrior's'' effect, its effect can be activated, even if you draw cards with ''Garoth, Lightsworn Warrior's'' effect.\n● See “Jain, Lightsworn Paladin” for additional rulings.'\n● ",
+    "Gladiator": "● 'When resolving ''Garoth, Lightsworn Warrior's'' effect, drawing 1 card for each ''Lightsworn'' monster does not start another Chain.\n● If ''Peten the Dark Clown'' is sent to the GY by ''Garoth, Lightsworn Warrior's'' effect, its effect can be activated, even if you draw cards with ''Garoth, Lightsworn Warrior's'' effect.\n● See “Jain, Lightsworn Paladin” for additional rulings.'\n● ",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. When resolving the effect of \"Garoth, Lightsworn Warrior\", drawing 1 card for each \"Lightsworn\" monster does not start another Chain.\\n2. If \"Peten the Dark Clown\" is sent to the GY by the effect of \"Garoth, Lightsworn Warrior\", its effect can be activated, even if you draw cards with the effect of \"Garoth, Lightsworn Warrior\".\\n3. See \"Jain, Lightsworn Paladin\" for additional rulings."
+  },
+  "PSCT": {
+    "Tengu": "① If a card(s) is sent from your Deck to the GY by the effect of a \"Lightsworn\" monster you control \n(except by \"Garoth, Lightsworn Warrior\"): \nSend the top 2 cards of your Deck to the GY, then draw 1 card for each \"Lightsworn\" monster sent to the GY this way.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

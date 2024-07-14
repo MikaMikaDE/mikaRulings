@@ -1,0 +1,44 @@
+{
+  "id": 29981921,
+  "name": "Legendary Six Samurai - Shi En",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2500,
+    "def": 1400,
+    "level": 5,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect to negate a Spell/Trap Card can be activated during the Damage Step.\\n2. It can be activated during each player's turn.\\n3. If this card is no longer face-up on the field when the effect to negate a Spell/Trap Card resolves, the Spell/Trap Card is still negated.\\n4. If this card is attacked while face-down and would be destroyed by the battle, you can destroy another face-up 'Six Samurai' monster you control instead.\\n5. [FORUM] The effect of \"Legendary Six Samurai - Shi En\" can only be activated once per turn. Switching control of \"Legendary Six Samurai - Shi En\" from one player to another will not change the fact that the effect of this face-up monster has already been activated.\\n6. [FORUM] \"Legendary Six Samurai - Shi En\" cannot destroy another 'Six Samurai' monster that is also marked for destruction to save itself.\\n\\nEXAMPLE 1: Player A controls \"Legendary Six Samurai - Shi En\" and 2 other 'Six Samurai' monsters. Player B plays \"Dark Hole\". Player A would not be able to destroy one of the other 2 'Six Samurai' monsters he controls instead of \"Legendary Six Samurai - Shi En\" since all monsters are marked for destruction.\\n\\nEXAMPLE 2: Player A controls \"Legendary Six Samurai - Shi En\" and summons another 'Six Samurai' monster. Player B responds to the Summon with \"Torrential Tribute\". Player A would not be able to destroy the other 'Six Samurai' monster he Summoned instead of \"Legendary Six Samurai - Shi En\" since all monsters are marked for destruction."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

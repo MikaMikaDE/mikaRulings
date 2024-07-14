@@ -1,0 +1,40 @@
+{
+  "id": 58921041,
+  "name": "Anti-Spell Fragrance",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "Both players must Set Spell Cards before activating them, and cannot activate them until their next turn.\n●The use in this card's text means activate. So you may discard Spell Cards from your hand for the cost of other cards.",
+    "Goat": "●The use in this card's text means activate. So you may discard Spell Cards from your hand for the cost of other cards.\n●Q: Will chaining “Anti-Spell Fragrance” to the activation of a Spell Card prevent it from activating? \nA: The activated Spell Card will still resolve properly. “Anti-Spell Fragrance” prevents Spell cards from being activated after it has resolved. The Spell card it was chained to was already activated so it cannot be stopped by the effect of the “Anti-Spell Fragrance.”\n●Q: If a Spell Card such as “Raigeki” was Set on the field during a turn prior to the activation of “Anti-Spell Fragrance”, can “Raigeki” be activated without waiting another turn? \nA: Since Raigeki had been set for a turn, it was acceptable for it to be activated while the Anti-Spell Fragrance was applying on the field.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The 'use' in this card's text means 'activate'. So you may discard Spell Cards from your hand for the cost of other cards.",
+    "TeleDAD": "● The 'use' in this card's text means 'activate'. So you may discard Spell Cards from your hand for the cost of other cards.",
+    "Gladiator": "● The 'use' in this card's text means 'activate'. So you may discard Spell Cards from your hand for the cost of other cards.",
+    "ReturnDAD": "● The 'use' in this card's text means 'activate'. So you may discard Spell Cards from your hand for the cost of other cards.",
+    "Trooper": "● The 'use' in this card's text means 'activate'. So you may discard Spell Cards from your hand for the cost of other cards.",
+    "Circle": "● The 'use' in this card's text means 'activate'. So you may discard Spell Cards from your hand for the cost of other cards.",
+    "Stein": "● The 'use' in this card's text means 'activate'. So you may discard Spell Cards from your hand for the cost of other cards.",
+    "Base": "1. The \"use\" in this card's text means \"activate\". So you may discard Spell Cards from your hand for the cost of other cards.\\n2. [FORUM] \"Anti-Spell Fragrance\" makes it so both players must first Set their Spell Cards after it successfully resolves. It does not negate the activation of cards already on the Chain. In addition, the cards on the chain are already activated so \"Anti-Spell Fragrance\" will not have any effect on them."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

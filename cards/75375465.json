@@ -1,0 +1,44 @@
+{
+  "id": 75375465,
+  "name": "Pandemonium Watchbear",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1300,
+    "def": 1800,
+    "level": 4,
+    "race": "Beast",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●When your opponent activates Huge Revolution while your Pandemonium Watchbear is on your side of the field, your Pandemonium will not be destroyed.\n●When your Pandemonium is going to be destroyed by Mystical Space Typhoon, you can chain Ceasefire to flip your Pandemonium Watchbear face-up, and Pandemonium will not be destroyed.",
+    "Goat": "●When your opponent activates Huge Revolution while your Pandemonium Watchbear is on your side of the field, your Pandemonium will not be destroyed.\n●When your Pandemonium is going to be destroyed by Mystical Space Typhoon, you can chain Ceasefire to flip your Pandemonium Watchbear face-up, and Pandemonium will not be destroyed.If a Field Spell Card is played while “Pandemonium” is applying, “Pandemonium” is destroyed, even if “Pandemonium Watchbear” is on the field.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When your opponent activates 'Huge Revolution' while your 'Pandemonium Watchbear' is on your side of the field, your 'Pandemonium' will not be destroyed.\n● When your 'Pandemonium' is going to be destroyed by 'Mystical Space Typhoon', you can chain 'Ceasefire' to flip your 'Pandemonium Watchbear' face-up, and 'Pandemonium' will not be destroyed.",
+    "TeleDAD": "● When your opponent activates 'Huge Revolution' while your 'Pandemonium Watchbear' is on your side of the field, your 'Pandemonium' will not be destroyed.\n● When your 'Pandemonium' is going to be destroyed by 'Mystical Space Typhoon', you can chain 'Ceasefire' to flip your 'Pandemonium Watchbear' face-up, and 'Pandemonium' will not be destroyed.",
+    "Gladiator": "● When your opponent activates 'Huge Revolution' while your 'Pandemonium Watchbear' is on your side of the field, your 'Pandemonium' will not be destroyed.\n● When your 'Pandemonium' is going to be destroyed by 'Mystical Space Typhoon', you can chain 'Ceasefire' to flip your 'Pandemonium Watchbear' face-up, and 'Pandemonium' will not be destroyed.",
+    "ReturnDAD": "● When your opponent activates 'Huge Revolution' while your 'Pandemonium Watchbear' is on your side of the field, your 'Pandemonium' will not be destroyed.\n● When your 'Pandemonium' is going to be destroyed by 'Mystical Space Typhoon', you can chain 'Ceasefire' to flip your 'Pandemonium Watchbear' face-up, and 'Pandemonium' will not be destroyed.",
+    "Trooper": "● When your opponent activates 'Huge Revolution' while your 'Pandemonium Watchbear' is on your side of the field, your 'Pandemonium' will not be destroyed.\n● When your 'Pandemonium' is going to be destroyed by 'Mystical Space Typhoon', you can chain 'Ceasefire' to flip your 'Pandemonium Watchbear' face-up, and 'Pandemonium' will not be destroyed.",
+    "Circle": "● When your opponent activates 'Huge Revolution' while your 'Pandemonium Watchbear' is on your side of the field, your 'Pandemonium' will not be destroyed.\n● When your 'Pandemonium' is going to be destroyed by 'Mystical Space Typhoon', you can chain 'Ceasefire' to flip your 'Pandemonium Watchbear' face-up, and 'Pandemonium' will not be destroyed.",
+    "Stein": "● When your opponent activates 'Huge Revolution' while your 'Pandemonium Watchbear' is on your side of the field, your 'Pandemonium' will not be destroyed.\n● When your 'Pandemonium' is going to be destroyed by 'Mystical Space Typhoon', you can chain 'Ceasefire' to flip your 'Pandemonium Watchbear' face-up, and 'Pandemonium' will not be destroyed.",
+    "Base": "1. When your opponent activates \"Huge Revolution\" while your \"Pandemonium Watchbear\" is on your side of the field, your \"Pandemonium\" will not be destroyed.\\n2. When your \"Pandemonium\" is going to be destroyed by \"Mystical Space Typhoon\", you can chain \"Ceasefire\" to flip your \"Pandemonium Watchbear\" face-up, and \"Pandemonium\" will not be destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

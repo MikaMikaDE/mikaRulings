@@ -1,0 +1,44 @@
+{
+  "id": 3167573,
+  "name": "Puppet King",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2800,
+    "def": 2600,
+    "level": 7,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Both effects of “Puppet King” are Trigger Effects. You can Special Summon it by its effect during either player’s turn.\n●You cannot Special Summon “Puppet King” during the Damage Step with its effect. If “Puppet King” is Summoned by its own effect, and is then flipped face-down or leaves the field temporarily and returns, its effect resets.\n●It is no longer considered Special Summoned by its own effect, and will not destroy itself during the End Phase.\n●If a card like “Sangan” adds a Monster Card to your opponent’s hand, and their Deck is then shuffled, the last action that occurred was that a Monster Card was added to their hand. So you can activate “Puppet King” and Special Summon it. (The end of “Sangan”’s effect is when the monster is added to the hand.)\n●If you Special Summon “Puppet King” during your turn, it is destroyed during the End Phase of your following turn, not the turn it was Special Summoned.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Both effects of \"Puppet King\" are Trigger Effects. You can Special Summon it by its effect during either player's turn.\\n2. You cannot Special Summon \"Puppet King\" during the Damage Step with its effect.\\n3. If \"Puppet King\" is Summoned by its own effect, and is then flipped face-down or leaves the field temporarily and returns, its effect resets. It is no longer considered Special Summoned by its own effect, and will not destroy itself during the End Phase.\\n4. If a card like \"Sangan\" adds a Monster Card to your opponent's hand, and their Deck is then shuffled, the last action that occurred was that a Monster Card was added to their hand. So you can activate \"Puppet King\" and Special Summon it. (The end of the effect of \"Sangan\" is when the monster is added to the hand.)\\n5. If you Special Summon \"Puppet King\" during your turn, it is destroyed during the End Phase of your following turn, not the turn it was Special Summoned."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

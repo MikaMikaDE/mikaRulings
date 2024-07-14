@@ -1,0 +1,40 @@
+{
+  "id": 19763315,
+  "name": "An Unfortunate Report",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Your opponent conducts their next Battle Phase twice.\n●If you activate “An Unfortunate Report” during your turn and your opponent decides not to enter the Battle Phase of their following turn, they will conduct two Battle Phases the next time that they decide to conduct their Battle Phase, in a later turn.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you activate “An Unfortunate Report” during your turn and your opponent decides not to enter the Battle Phase of their following turn, they will conduct two Battle Phases the next time that they decide to conduct their Battle Phase, in a later turn.",
+    "TeleDAD": "● If you activate “An Unfortunate Report” during your turn and your opponent decides not to enter the Battle Phase of their following turn, they will conduct two Battle Phases the next time that they decide to conduct their Battle Phase, in a later turn.",
+    "Gladiator": "● If you activate “An Unfortunate Report” during your turn and your opponent decides not to enter the Battle Phase of their following turn, they will conduct two Battle Phases the next time that they decide to conduct their Battle Phase, in a later turn.",
+    "ReturnDAD": "● If you activate “An Unfortunate Report” during your turn and your opponent decides not to enter the Battle Phase of their following turn, they will conduct two Battle Phases the next time that they decide to conduct their Battle Phase, in a later turn.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● If you activate “An Unfortunate Report” during your turn and your opponent decides not to enter the Battle Phase of their following turn, they will conduct two Battle Phases the next time that they decide to conduct their Battle Phase, in a later turn.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you activate \"An Unfortunate Report\" during your turn and your opponent decides not to enter the Battle Phase of their following turn, they will conduct two Battle Phases the next time that they decide to conduct their Battle Phase, in a later turn."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

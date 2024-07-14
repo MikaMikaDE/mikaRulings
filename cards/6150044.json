@@ -1,0 +1,44 @@
+{
+  "id": 6150044,
+  "name": "Arcana Knight Joker",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 3800,
+    "def": 2500,
+    "level": 9,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "(C) A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. (1) Once per turn, if this face-up card on the field is targeted by a Spell Card, Trap Card, or Effect Monster's effect, you can negate that effect by discarding the same kind of card (Spell, Trap, or Monster Card).\n●The (C) Condition cannot be negated.\n●Fusion Substitute cards (like King of the Swamp) cannot be used in this card's Fusion Summon.\n●Elemental Hero Prisma (that has gained the name of one of this card's Fusion Material) can be used in this card's Fusion Summon.\n●This card can be Special Summoned from the Extra Deck by Summoner of Illusions.\n●The (1) Quick Effect is optional, it activates & resolves on the field.\n●This effect must be chained directly to the card or effect that is targeting “Arcana Knight Joker”.\n●Discarding a card is a cost. This effect can be activated while Macro Cosmos is active.\n●You can activate this effect during the Damage Step.\n●This effect can't negate the effects of “Call of the Haunted” that destroys “Arcana Knight Joker” when it is destroyed.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. Once per turn, if this card is targeted by a Spell Card, Trap Card, or Effect Monster's effect, you can negate that effect by discarding the same kind of card (Spell, Trap, or Monster Card).\\n2. This effect is a Quick Effect that must be Chained directly to the card or effect that is targeting \"Arcana Knight Joker\"\\n3. This effect does not target.\\n4. Discarding a card is a cost to activate the effect.\\n5. You cannot discard a card to negate the effects of \"Premature Burial\" or \"Call of the Haunted\" that destroy \"Arcana Knight Joker\" when they are destroyed.\\n6. You can activate this effect during the Damage Step."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

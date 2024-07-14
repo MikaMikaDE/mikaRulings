@@ -1,0 +1,40 @@
+{
+  "id": 403847,
+  "name": "The A. Forces",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Multiple copies of The A. Forces are cumulative. For example, if you control 3 Warrior-Type monsters and have 2 copies of The A. Forces active, each Warrior-Type monster has its ATK increased by 1200 points.",
+    "Goat": "●Multiple copies of The A. Forces are cumulative. For example, if you control 3 Warrior monsters and have 2 copies of The A. Forces applying, each Warrior monster has its ATK increased by 1200 points. The A. Forces” continuously checks the number of appropriate monsters and alters ATK value accordingly",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Multiple copies of 'The A. Forces' are cumulative. For example, if you control 3 Warriors and have 2 copies of 'The A. Forces' applying, each Warrior has its ATK increased by 1200 points.",
+    "TeleDAD": "● Multiple copies of 'The A. Forces' are cumulative. For example, if you control 3 Warriors and have 2 copies of 'The A. Forces' applying, each Warrior has its ATK increased by 1200 points.",
+    "Gladiator": "● Multiple copies of 'The A. Forces' are cumulative. For example, if you control 3 Warriors and have 2 copies of 'The A. Forces' applying, each Warrior has its ATK increased by 1200 points.",
+    "ReturnDAD": "● Multiple copies of 'The A. Forces' are cumulative. For example, if you control 3 Warriors and have 2 copies of 'The A. Forces' applying, each Warrior has its ATK increased by 1200 points.",
+    "Trooper": "● Multiple copies of 'The A. Forces' are cumulative. For example, if you control 3 Warriors and have 2 copies of 'The A. Forces' applying, each Warrior has its ATK increased by 1200 points.",
+    "Circle": "● Multiple copies of 'The A. Forces' are cumulative. For example, if you control 3 Warriors and have 2 copies of 'The A. Forces' applying, each Warrior has its ATK increased by 1200 points.",
+    "Stein": "● Multiple copies of 'The A. Forces' are cumulative. For example, if you control 3 Warriors and have 2 copies of 'The A. Forces' applying, each Warrior has its ATK increased by 1200 points.",
+    "Base": "1. Multiple copies of \"The A. Forces\" are cumulative. For example, if you control 3 Warrior-Type monsters and have 2 copies of \"The A. Forces\" active, each Warrior-Type monster has its ATK increased by 1200 points."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

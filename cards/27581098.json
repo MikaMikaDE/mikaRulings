@@ -1,0 +1,40 @@
+{
+  "id": 27581098,
+  "name": "Non-Fusion Area",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot activate “Power Bond”, “Miracle Fusion”, or “Dragon’s Mirror” when this card is active because they are treated as Fusion Summons. You can activate “Fusion Gate”, but you cannot activate its effect.\n●You can still Special Summon a Fusion Monster with a card effect like “Metamorphosis” or “Cyber-Stein”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate “Power Bond”, “Miracle Fusion”, or “Dragon’s Mirror” when this card is applying because they are treated as Fusion Summons. You can activate “Fusion Gate”, but you can't activate its effect.\n● You can still Special Summon a Fusion Monster with a card effect like “Metamorphosis” or “Cyber-Stein”.",
+    "TeleDAD": "● You can't activate “Power Bond”, “Miracle Fusion”, or “Dragon’s Mirror” when this card is applying because they are treated as Fusion Summons. You can activate “Fusion Gate”, but you can't activate its effect.\n● You can still Special Summon a Fusion Monster with a card effect like “Metamorphosis” or “Cyber-Stein”.",
+    "Gladiator": "● You can't activate “Power Bond”, “Miracle Fusion”, or “Dragon’s Mirror” when this card is applying because they are treated as Fusion Summons. You can activate “Fusion Gate”, but you can't activate its effect.\n● You can still Special Summon a Fusion Monster with a card effect like “Metamorphosis” or “Cyber-Stein”.",
+    "ReturnDAD": "● You can't activate “Power Bond”, “Miracle Fusion”, or “Dragon’s Mirror” when this card is applying because they are treated as Fusion Summons. You can activate “Fusion Gate”, but you can't activate its effect.\n● You can still Special Summon a Fusion Monster with a card effect like “Metamorphosis” or “Cyber-Stein”.",
+    "Trooper": "● You can't activate “Power Bond”, “Miracle Fusion”, or “Dragon’s Mirror” when this card is applying because they are treated as Fusion Summons. You can activate “Fusion Gate”, but you can't activate its effect.\n● You can still Special Summon a Fusion Monster with a card effect like “Metamorphosis” or “Cyber-Stein”.",
+    "Circle": "● You can't activate “Power Bond”, “Miracle Fusion”, or “Dragon’s Mirror” when this card is applying because they are treated as Fusion Summons. You can activate “Fusion Gate”, but you can't activate its effect.\n● You can still Special Summon a Fusion Monster with a card effect like “Metamorphosis” or “Cyber-Stein”.",
+    "Stein": "● You can't activate “Power Bond”, “Miracle Fusion”, or “Dragon’s Mirror” when this card is applying because they are treated as Fusion Summons. You can activate “Fusion Gate”, but you can't activate its effect.\n● You can still Special Summon a Fusion Monster with a card effect like “Metamorphosis” or “Cyber-Stein”.",
+    "Base": "1. You cannot activate \"Power Bond\", \"Miracle Fusion\", or \"Dragon's Mirror\" when this card is active because they are treated as Fusion Summons. You can activate \"Fusion Gate\", but you cannot activate its effect.\\n2. You can still Special Summon a Fusion Monster with a card effect like \"Metamorphosis\" or \"Cyber-Stein\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

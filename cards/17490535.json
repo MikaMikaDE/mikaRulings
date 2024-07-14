@@ -1,0 +1,40 @@
+{
+  "id": 17490535,
+  "name": "Alien Brain",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Activate only when a Reptile-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the GY. Take control of the attacking monster, and treat it as a Reptile-Type monster.\n●This effect does not target.\n●The destroyed monster must be Reptile-Type while on the field AND in the GY.\n●Use this card in Substep 7 - End of the Damage Step after placing Trigger Effects on the Chain.\n●You take control of your opponent’s monster permanently.\n●If it is flipped face-down, you keep control but it is no longer treated as a Reptile-Type monster.\n●You can take control of Reptile-Type monsters with this card.\n●If you control your opponent’s Reptile-Type monster and it is destroyed and sent to their GY you can activate “Alien Brain.”",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect does not target.\\n2. You take control of your opponent's monster permanently. If it is flipped face-down, you keep control but it is no longer treated as a Reptile-Type monster.\\n3. You can take control of Reptile-Type monsters with this card.\\n4. If you control your opponent's Reptile-Type monster and it is destroyed and sent to their GY you can activate \"Alien Brain\".\\n5. In order to activate \"Alien Brain\" the destroyed monster must be Reptile-Type while on the field and in the GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

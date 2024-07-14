@@ -1,0 +1,40 @@
+{
+  "id": 7617253,
+  "name": "Rainbow Path",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Rainbow Path targets the attacking monster. Sending a Crystal Beast card from your Spell and Trap Card Zone to your GY is a cost.\n●Any Crystal Beast card in your Spell and Trap Card Zone can be used to pay the cost. If the Crystal Beast card is being treated as an Equip Card, it can be used to pay the cost.\n●You do not have to add a Rainbow Dragon or Dark Rainbow Dragon to your hand.\n●If Rainbow Path fails to negate the monster's attack, you cannot add Rainbow Dragon or Dark Rainbow Dragon to your hand.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Rainbow Path' targets the attacking monster. Sending a 'Crystal Beast' card from your Spell/Trap Card Zone to your GY is a cost.\n● Any 'Crystal Beast' card in your Spell/Trap Card Zone can be used to pay the cost. If the 'Crystal Beast' card is being treated as an Equip Card, it can be used to pay the cost.\n● You do not have to add a 'Rainbow Dragon' or 'Dark Rainbow Dragon' to your hand.\n● If 'Rainbow Path' fails to negate the monster's attack, you can't add 'Rainbow Dragon' or 'Dark Rainbow Dragon' to your hand.",
+    "TeleDAD": "● 'Rainbow Path' targets the attacking monster. Sending a 'Crystal Beast' card from your Spell/Trap Card Zone to your GY is a cost.\n● Any 'Crystal Beast' card in your Spell/Trap Card Zone can be used to pay the cost. If the 'Crystal Beast' card is being treated as an Equip Card, it can be used to pay the cost.\n● You do not have to add a 'Rainbow Dragon' or 'Dark Rainbow Dragon' to your hand.\n● If 'Rainbow Path' fails to negate the monster's attack, you can't add 'Rainbow Dragon' or 'Dark Rainbow Dragon' to your hand.",
+    "Gladiator": "● 'Rainbow Path' targets the attacking monster. Sending a 'Crystal Beast' card from your Spell/Trap Card Zone to your GY is a cost.\n● Any 'Crystal Beast' card in your Spell/Trap Card Zone can be used to pay the cost. If the 'Crystal Beast' card is being treated as an Equip Card, it can be used to pay the cost.\n● You do not have to add a 'Rainbow Dragon' or 'Dark Rainbow Dragon' to your hand.\n● If 'Rainbow Path' fails to negate the monster's attack, you can't add 'Rainbow Dragon' or 'Dark Rainbow Dragon' to your hand.",
+    "ReturnDAD": "● 'Rainbow Path' targets the attacking monster. Sending a 'Crystal Beast' card from your Spell/Trap Card Zone to your GY is a cost.\n● Any 'Crystal Beast' card in your Spell/Trap Card Zone can be used to pay the cost. If the 'Crystal Beast' card is being treated as an Equip Card, it can be used to pay the cost.\n● You do not have to add a 'Rainbow Dragon' or 'Dark Rainbow Dragon' to your hand.\n● If 'Rainbow Path' fails to negate the monster's attack, you can't add 'Rainbow Dragon' or 'Dark Rainbow Dragon' to your hand.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Rainbow Path\" targets the attacking monster. Sending a 'Crystal Beast' card from your Spell and Trap Card Zone to your GY is a cost.\\n2. Any 'Crystal Beast' card in your Spell and Trap Card Zone can be used to pay the cost. If the 'Crystal Beast' card is being treated as an Equip Card, it can be used to pay the cost.\\n3. You do not have to add a \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" to your hand.\\n4. If \"Rainbow Path\" fails to negate the monster's attack, you cannot add \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" to your hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

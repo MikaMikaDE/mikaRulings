@@ -1,0 +1,40 @@
+{
+  "id": 19230408,
+  "name": "Offerings to the Doomed",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "\n●Skipping your next Draw Phase is not a cost, so if your opponent chains Magic Jammer or Imperial Order to negate this card, you do NOT skip your next Draw Phase.\n●If your opponent chains Book of Moon to flip the target of this card face-down, the monster is not destroyed and you will skip your next Draw Phase.",
+    "Goat": "●Skipping your next DP is not a cost, so if your opponent chains Magic Jammer or Imperial Order to negate this card, you do NOT skip your next DP.\n●If your opponent chains Book of Moon to flip the target of this card face-down, the monster is not destroyed and you will skip your next DP. If the activation of “Offerings to the Doomed” is negated, that player does not skip their DP.\n●If multiple “Offerings to the Doomed” are activated in the same Turn, the activating Player will skip only one DP.\n●Q: If I use “Offerings to the Doomed” on a face-up “Spirit Reaper,” do I still have to skip my next DP? \nA: “Spirit Reaper” will be destroyed by “Offerings to the Doomed” and you must skip your next DP. ",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Skipping your next Draw Phase isn't a cost, so if your opponent chains 'Magic Jammer' or 'Imperial Order' to negate this card, you do NOT skip your next Draw Phase.\n● If your opponent chains 'Book of Moon' to flip the target of this card face-down, the monster isn't destroyed and you will skip your next Draw Phase.",
+    "TeleDAD": "● Skipping your next Draw Phase isn't a cost, so if your opponent chains 'Magic Jammer' or 'Imperial Order' to negate this card, you do NOT skip your next Draw Phase.\n● If your opponent chains 'Book of Moon' to flip the target of this card face-down, the monster isn't destroyed and you will skip your next Draw Phase.",
+    "Gladiator": "● Skipping your next Draw Phase isn't a cost, so if your opponent chains 'Magic Jammer' or 'Imperial Order' to negate this card, you do NOT skip your next Draw Phase.\n● If your opponent chains 'Book of Moon' to flip the target of this card face-down, the monster isn't destroyed and you will skip your next Draw Phase.",
+    "ReturnDAD": "● Skipping your next Draw Phase isn't a cost, so if your opponent chains 'Magic Jammer' or 'Imperial Order' to negate this card, you do NOT skip your next Draw Phase.\n● If your opponent chains 'Book of Moon' to flip the target of this card face-down, the monster isn't destroyed and you will skip your next Draw Phase.",
+    "Trooper": "● Skipping your next Draw Phase isn't a cost, so if your opponent chains 'Magic Jammer' or 'Imperial Order' to negate this card, you do NOT skip your next Draw Phase.\n● If your opponent chains 'Book of Moon' to flip the target of this card face-down, the monster isn't destroyed and you will skip your next Draw Phase.",
+    "Circle": "● Skipping your next Draw Phase isn't a cost, so if your opponent chains 'Magic Jammer' or 'Imperial Order' to negate this card, you do NOT skip your next Draw Phase.\n● If your opponent chains 'Book of Moon' to flip the target of this card face-down, the monster isn't destroyed and you will skip your next Draw Phase.",
+    "Stein": "● Skipping your next Draw Phase isn't a cost, so if your opponent chains 'Magic Jammer' or 'Imperial Order' to negate this card, you do NOT skip your next Draw Phase.\n● If your opponent chains 'Book of Moon' to flip the target of this card face-down, the monster isn't destroyed and you will skip your next Draw Phase.",
+    "Base": "1. Skipping your next Draw Phase is not a cost, so if your opponent chains \"Magic Jammer\" or \"Imperial Order\" to negate this card, you do NOT skip your next Draw Phase.\\n2. If your opponent chains \"Book of Moon\" to flip the target of this card face-down, the monster is not destroyed and you will skip your next Draw Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 70821187,
+  "name": "Regenerating Mummy",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 1500,
+    "level": 4,
+    "race": "Zombie",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Regenerating Mummy's effect will activate when sent to the GY by the effect of Morphing Jar or Card Destruction.\n●Regenerating Mummy's effect will activate during the Damage Step because of Spirit Reaper or Don Zaloog.\n●Regenerating Mummy's effect will activate when destroyed and sent to the GY because of Chain Destruction.\n●You can chain to Regenerating Mummy's effect.\n●You cannot use the same Regenerating Mummy for both parts of Delinquent Duo's effect.",
+    "Goat": "●Regenerating Mummy's effect will activate when sent to the GY by the effect of Morphing Jar or Card Destruction.\n●Regenerating Mummy's effect will activate during the Damage Step because of Spirit Reaper or Don Zaloog.\n●Regenerating Mummy's effect will activate when destroyed and sent to the GY because of Chain Destruction.\n●You can chain to Regenerating Mummy's effect.\n●You cannot use the same Regenerating Mummy for both parts of Delinquent Duo's effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Regenerating Mummy''s effect will activate when sent to the GY by the effect of 'Morphing Jar' or 'Card Destruction'.\n● 'Regenerating Mummy''s effect will activate during the Damage Step because of 'Spirit Reaper' or 'Don Zaloog'.\n● 'Regenerating Mummy''s effect will activate when destroyed and sent to the GY because of 'Chain Destruction'.\n● You can chain to 'Regenerating Mummy''s effect. \n● You can't use the same 'Regenerating Mummy' for both parts of 'Delinquent Duo''s effect.",
+    "TeleDAD": "● 'Regenerating Mummy''s effect will activate when sent to the GY by the effect of 'Morphing Jar' or 'Card Destruction'.\n● 'Regenerating Mummy''s effect will activate during the Damage Step because of 'Spirit Reaper' or 'Don Zaloog'.\n● 'Regenerating Mummy''s effect will activate when destroyed and sent to the GY because of 'Chain Destruction'.\n● You can chain to 'Regenerating Mummy''s effect. \n● You can't use the same 'Regenerating Mummy' for both parts of 'Delinquent Duo''s effect.",
+    "Gladiator": "● 'Regenerating Mummy''s effect will activate when sent to the GY by the effect of 'Morphing Jar' or 'Card Destruction'.\n● 'Regenerating Mummy''s effect will activate during the Damage Step because of 'Spirit Reaper' or 'Don Zaloog'.\n● 'Regenerating Mummy''s effect will activate when destroyed and sent to the GY because of 'Chain Destruction'.\n● You can chain to 'Regenerating Mummy''s effect. \n● You can't use the same 'Regenerating Mummy' for both parts of 'Delinquent Duo''s effect.",
+    "ReturnDAD": "● 'Regenerating Mummy''s effect will activate when sent to the GY by the effect of 'Morphing Jar' or 'Card Destruction'.\n● 'Regenerating Mummy''s effect will activate during the Damage Step because of 'Spirit Reaper' or 'Don Zaloog'.\n● 'Regenerating Mummy''s effect will activate when destroyed and sent to the GY because of 'Chain Destruction'.\n● You can chain to 'Regenerating Mummy''s effect. \n● You can't use the same 'Regenerating Mummy' for both parts of 'Delinquent Duo''s effect.",
+    "Trooper": "● 'Regenerating Mummy''s effect will activate when sent to the GY by the effect of 'Morphing Jar' or 'Card Destruction'.\n● 'Regenerating Mummy''s effect will activate during the Damage Step because of 'Spirit Reaper' or 'Don Zaloog'.\n● 'Regenerating Mummy''s effect will activate when destroyed and sent to the GY because of 'Chain Destruction'.\n● You can chain to 'Regenerating Mummy''s effect. \n● You can't use the same 'Regenerating Mummy' for both parts of 'Delinquent Duo''s effect.",
+    "Circle": "● 'Regenerating Mummy''s effect will activate when sent to the GY by the effect of 'Morphing Jar' or 'Card Destruction'.\n● 'Regenerating Mummy''s effect will activate during the Damage Step because of 'Spirit Reaper' or 'Don Zaloog'.\n● 'Regenerating Mummy''s effect will activate when destroyed and sent to the GY because of 'Chain Destruction'.\n● You can chain to 'Regenerating Mummy''s effect. \n● You can't use the same 'Regenerating Mummy' for both parts of 'Delinquent Duo''s effect.",
+    "Stein": "● 'Regenerating Mummy''s effect will activate when sent to the GY by the effect of 'Morphing Jar' or 'Card Destruction'.\n● 'Regenerating Mummy''s effect will activate during the Damage Step because of 'Spirit Reaper' or 'Don Zaloog'.\n● 'Regenerating Mummy''s effect will activate when destroyed and sent to the GY because of 'Chain Destruction'.\n● You can chain to 'Regenerating Mummy''s effect. \n● You can't use the same 'Regenerating Mummy' for both parts of 'Delinquent Duo''s effect.",
+    "Base": "1. The effect of \"Regenerating Mummy\" will activate when sent to the GY by the effect of \"Morphing Jar\" or \"Card Destruction\".\\n2. The effect of \"Regenerating Mummy\" will activate during the Damage Step because of \"Spirit Reaper\" or \"Don Zaloog\".\\n3. The effect of \"Regenerating Mummy\" will activate when destroyed and sent to the GY because of \"Chain Destruction\".\\n4. You can chain to the effect of \"Regenerating Mummy\".\\n5. You cannot use the same \"Regenerating Mummy\" for both parts of the effect of \"Delinquent Duo\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

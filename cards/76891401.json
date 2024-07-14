@@ -1,0 +1,44 @@
+{
+  "id": 76891401,
+  "name": "Sea Dragon Lord Gishilnodon",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2300,
+    "def": 1800,
+    "level": 5,
+    "race": "Sea Serpent",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If the effect of \"Sea Dragon Lord Gishilnodon\" activates, and later \"Skill Drain\" is activated, \"Sea Dragon Lord Gishilnodon\" drops to 2300 ATK again. Even if \"Skill Drain\" is destroyed after that, \"Sea Dragon Lord Gishilnodon\" remains at 2300 ATK until its effect is triggered again.\\n2. If \"Sea Dragon Lord Gishilnodon\" has its ATK altered by a Field Spell Card, etc., and then its effect is triggered, its ATK becomes 3000. If an effect that would alter its ATK is activated afterwards, its ATK will be re-adjusted from 3000 (so it would be 3000 plus or minus the new adjustment).\\n3. If \"Sea Dragon Lord Gishilnodon\" has its ATK halved by \"Blackwing - Gale the Whirlwind\", and then its effect is triggered and it gets 3000 ATK, after the turn ends its ATK reverts to normal (2300, plus any other continuous effects like Field Spell Cards). The DEF of \"Sea Dragon Lord Gishilnodon\" will remain halved by \"Blackwing - Gale the Whirlwind\".\\n4. \"Sea Dragon Lord Gishilnodon\" activates its effect when a monster is sent to the GY that was Level 3 or lower on the field and Level 3 or lower in the GY. If a Level 4 monster that is Level 3 because of \"A Legendary Ocean\" is sent to the GY, the effect of \"Sea Dragon Lord Gishilnodon\" does not activate."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1 Level 3 non-Tuner\n① If a face-up Level 3 or lower monster is sent from the field to the GY:\nuntil the End Phase, this card's ATK becomes 3000.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 54591086,
+  "name": "Virus Cannon",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Tributing monster(s) is a cost.\n●If you target your opponent's monster with Soul Exchange, it can be Tribute to activate Virus Cannon.\n●If the number of Spell Cards remaining in your opponent's Deck is less than the number of monsters you Tributed to activate Virus Cannon, every Spell Card remaining in your opponent's Deck is sent to the GY and your opponent must show you their Deck to verify.\n●You cannot Tribute a face-up Jinzo to activate Virus Cannon because Jinzo's effect prevents Trap Cards from being activated.\n●Non-Monster Cards Special Summoned by the effect of Magical Hats can be Tributed to activate Virus Cannon.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Tributing monster(s) is a cost.\n● If you target your opponent's monster with 'Soul Exchange', it can be Tribute to activate 'Virus Cannon'.\n● If the number of Spell Cards remaining in your opponent's Deck is less than the number of monsters you Tributed to activate 'Virus Cannon', every Spell Card remaining in your opponent's Deck is sent to the GY and your opponent must show you their Deck to verify.\n● You can't Tribute a face-up 'Jinzo' to activate 'Virus Cannon' because 'Jinzo's' effect prevents Trap Cards from being activated.\n● Non-Monster Cards Special Summoned by the effect of 'Magical Hats' can be Tributed to activate 'Virus Cannon'.",
+    "TeleDAD": "● Tributing monster(s) is a cost.\n● If you target your opponent's monster with 'Soul Exchange', it can be Tribute to activate 'Virus Cannon'.\n● If the number of Spell Cards remaining in your opponent's Deck is less than the number of monsters you Tributed to activate 'Virus Cannon', every Spell Card remaining in your opponent's Deck is sent to the GY and your opponent must show you their Deck to verify.\n● You can't Tribute a face-up 'Jinzo' to activate 'Virus Cannon' because 'Jinzo's' effect prevents Trap Cards from being activated.\n● Non-Monster Cards Special Summoned by the effect of 'Magical Hats' can be Tributed to activate 'Virus Cannon'.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 69207766,
+  "name": "Inzektor Hornet",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 200,
+    "level": 3,
+    "race": "Insect",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● The ① does not target.\n● If \"Dimensional Fissure\" is applying, you can use this card's ③, as this card is an Equip Spell Card, not a monster.\nHowever, if \"Macro Cosmos\" is applying, you can't send this card to the GY to activate its ③.\n● Activating this card's ③ is activating an effect, not activating a card. It can't be negated by \"Magic Jammer\" or \"Naturia Beast\".",
+    "Vegas": "● The ① does not target.\n● If \"Dimensional Fissure\" is applying, you can use this card's ③, as this card is an Equip Spell Card, not a monster.\nHowever, if \"Macro Cosmos\" is applying, you can't send this card to the GY to activate its ③.\n● Activating this card's ③ is activating an effect, not activating a card. It can't be negated by \"Magic Jammer\" or \"Naturia Beast\".",
+    "Meadowlands": "● The ① does not target.\n● If \"Dimensional Fissure\" is applying, you can use this card's ③, as this card is an Equip Spell Card, not a monster.\nHowever, if \"Macro Cosmos\" is applying, you can't send this card to the GY to activate its ③.\n● Activating this card's ③ is activating an effect, not activating a card. It can't be negated by \"Magic Jammer\" or \"Naturia Beast\".",
+    "FireWater": "● The ① does not target.\n● If \"Dimensional Fissure\" is applying, you can use this card's ③, as this card is an Equip Spell Card, not a monster.\nHowever, if \"Macro Cosmos\" is applying, you can't send this card to the GY to activate its ③.\n● Activating this card's ③ is activating an effect, not activating a card. It can't be negated by \"Magic Jammer\" or \"Naturia Beast\".",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. [FORUM] Sending \"Inzektor Hornet\" to the GY to target 1 card for destruction isn't the activation of a Spell Card. It's activating the effect of a Spell Card. So \"Legendary Six Samurai - Shi En\" and \"Naturia Beast\" cannot be chained to negate the activation and effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Once per turn: You can equip 1 \"Inzektor\" monster from your hand/GY to this card. \n② While this card is equipped to a monster, that monster's Level is increased by 3.\n③ While this card is equipped to a monster, that monster's ATK/DEF are increased by this card's ATK/DEF.\n④ While this card is equipped to a monster: You can send this Equip Card to the GY, then target 1 card on the field; destroy that target.",
+    "Meadowlands": "① Once per turn: You can equip 1 \"Inzektor\" monster from your hand/GY to this card. \n② While this card is equipped to a monster, that monster's Level is increased by 3.\n③ While this card is equipped to a monster, that monster's ATK/DEF are increased by this card's ATK/DEF.\n④ While this card is equipped to a monster: You can send this Equip Card to the GY, then target 1 card on the field; destroy that target.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

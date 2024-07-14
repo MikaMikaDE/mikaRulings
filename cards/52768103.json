@@ -1,0 +1,44 @@
+{
+  "id": 52768103,
+  "name": "KA-2 Des Scissors",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1000,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●The Level of the destroyed monster is the original Level.\n●You can use Barrel Behind the Door against KA-2 Des Scissors' effect.",
+    "Goat": "●The Lv of the destroyed monster is the original Level.\n●You can use Barrel Behind the Door against KA-2 Des Scissors' effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'KA-2 Des Scissors'' effect.",
+    "TeleDAD": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'KA-2 Des Scissors'' effect.",
+    "Gladiator": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'KA-2 Des Scissors'' effect.",
+    "ReturnDAD": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'KA-2 Des Scissors'' effect.",
+    "Trooper": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'KA-2 Des Scissors'' effect.",
+    "Circle": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'KA-2 Des Scissors'' effect.",
+    "Stein": "● The LV of the destroyed monster is the original LV.\n● You can use 'Barrel Behind the Door' against 'KA-2 Des Scissors'' effect.",
+    "Base": "1. The Level of the destroyed monster is the original Level.\\n2. You can use \"Barrel Behind the Door\" against the effect of \"KA-2 Des Scissors\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

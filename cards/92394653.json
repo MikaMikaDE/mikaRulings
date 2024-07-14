@@ -1,0 +1,40 @@
+{
+  "id": 92394653,
+  "name": "Spirit's Invitation",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can choose not to pay 500 Life Points during your Standby Phase, and destroy this card instead.\n●The effect of this card is applied even when a Spirit Monster is returned to its owner’s hand by the effect of another card, such as Penguin Soldier.",
+    "Goat": "●You can choose not to pay 500 LP during your SP, and destroy this card instead.\n●The effect of this card is applied even when a Spirit Monster is returned to its owner’s hand by the effect of another card, such as Penguin Soldier.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can choose not to pay 500 LP during your Standby Phase, and destroy this card instead.\n● The effect of this card is applied even when a Spirit Monster is returned to its owner’s hand by the effect of another card, such as 'Penguin Soldier'.",
+    "TeleDAD": "● You can choose not to pay 500 LP during your Standby Phase, and destroy this card instead.\n● The effect of this card is applied even when a Spirit Monster is returned to its owner’s hand by the effect of another card, such as 'Penguin Soldier'.",
+    "Gladiator": "● You can choose not to pay 500 LP during your Standby Phase, and destroy this card instead.\n● The effect of this card is applied even when a Spirit Monster is returned to its owner’s hand by the effect of another card, such as 'Penguin Soldier'.",
+    "ReturnDAD": "● You can choose not to pay 500 LP during your Standby Phase, and destroy this card instead.\n● The effect of this card is applied even when a Spirit Monster is returned to its owner’s hand by the effect of another card, such as 'Penguin Soldier'.",
+    "Trooper": "● You can choose not to pay 500 LP during your Standby Phase, and destroy this card instead.\n● The effect of this card is applied even when a Spirit Monster is returned to its owner’s hand by the effect of another card, such as 'Penguin Soldier'.",
+    "Circle": "● You can choose not to pay 500 LP during your Standby Phase, and destroy this card instead.\n● The effect of this card is applied even when a Spirit Monster is returned to its owner’s hand by the effect of another card, such as 'Penguin Soldier'.",
+    "Stein": "● You can choose not to pay 500 LP during your Standby Phase, and destroy this card instead.\n● The effect of this card is applied even when a Spirit Monster is returned to its owner’s hand by the effect of another card, such as 'Penguin Soldier'.",
+    "Base": "1. You can choose not to pay 500 Life Points during your Standby Phase, and destroy this card instead.\\n2. The effect of this card is applied even when a Spirit Monster is returned to its owner's hand by the effect of another card, such as \"Penguin Soldier\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

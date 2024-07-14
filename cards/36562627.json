@@ -1,0 +1,40 @@
+{
+  "id": 36562627,
+  "name": "Second Coin Toss",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●The effect of this card only applies when you perform a coin toss, not when your opponent performs a coin toss.\n●If an effect requires multiple coin flips, like Barrel Dragon, you would redo all 3 coin flips.\n●Even if multiple Second Coin Toss cards are active, you can only redo each coin toss once.\n●Even if the original coin toss came out in your favor, you may use the effect of Second Coin Toss and redo the toss.",
+    "Goat": "●The effect of this card only applies when you perform a coin toss, not when your opponent performs a coin toss.\n●If an effect requires multiple coin flips, like Barrel Dragon, you would redo all 3 coin flips.\n●Even if multiple Second Coin Toss cards are applying, you can only redo each coin toss once.\n●Even if the original coin toss came out in your favor, you may use the effect of Second Coin Toss and redo the toss.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of this card only applies when you perform a coin toss, not when your opponent performs a coin toss.\n● If an effect requires multiple coin flips, like 'Barrel Dragon', you would redo all 3 coin flips.\n● Even if multiple 'Second Coin Toss' cards are applying, you can only redo each coin toss once. \n● Even if the original coin toss came out in your favor, you may use the effect of 'Second Coin Toss' and redo the toss.",
+    "TeleDAD": "● The effect of this card only applies when you perform a coin toss, not when your opponent performs a coin toss.\n● If an effect requires multiple coin flips, like 'Barrel Dragon', you would redo all 3 coin flips.\n● Even if multiple 'Second Coin Toss' cards are applying, you can only redo each coin toss once. \n● Even if the original coin toss came out in your favor, you may use the effect of 'Second Coin Toss' and redo the toss.",
+    "Gladiator": "● The effect of this card only applies when you perform a coin toss, not when your opponent performs a coin toss.\n● If an effect requires multiple coin flips, like 'Barrel Dragon', you would redo all 3 coin flips.\n● Even if multiple 'Second Coin Toss' cards are applying, you can only redo each coin toss once. \n● Even if the original coin toss came out in your favor, you may use the effect of 'Second Coin Toss' and redo the toss.",
+    "ReturnDAD": "● The effect of this card only applies when you perform a coin toss, not when your opponent performs a coin toss.\n● If an effect requires multiple coin flips, like 'Barrel Dragon', you would redo all 3 coin flips.\n● Even if multiple 'Second Coin Toss' cards are applying, you can only redo each coin toss once. \n● Even if the original coin toss came out in your favor, you may use the effect of 'Second Coin Toss' and redo the toss.",
+    "Trooper": "● The effect of this card only applies when you perform a coin toss, not when your opponent performs a coin toss.\n● If an effect requires multiple coin flips, like 'Barrel Dragon', you would redo all 3 coin flips.\n● Even if multiple 'Second Coin Toss' cards are applying, you can only redo each coin toss once. \n● Even if the original coin toss came out in your favor, you may use the effect of 'Second Coin Toss' and redo the toss.",
+    "Circle": "● The effect of this card only applies when you perform a coin toss, not when your opponent performs a coin toss.\n● If an effect requires multiple coin flips, like 'Barrel Dragon', you would redo all 3 coin flips.\n● Even if multiple 'Second Coin Toss' cards are applying, you can only redo each coin toss once. \n● Even if the original coin toss came out in your favor, you may use the effect of 'Second Coin Toss' and redo the toss.",
+    "Stein": "● The effect of this card only applies when you perform a coin toss, not when your opponent performs a coin toss.\n● If an effect requires multiple coin flips, like 'Barrel Dragon', you would redo all 3 coin flips.\n● Even if multiple 'Second Coin Toss' cards are applying, you can only redo each coin toss once. \n● Even if the original coin toss came out in your favor, you may use the effect of 'Second Coin Toss' and redo the toss.",
+    "Base": "1. The effect of this card only applies when you perform a coin toss, not when your opponent performs a coin toss.\\n2. If an effect requires multiple coin flips, like \"Barrel Dragon\", you would redo all 3 coin flips.\\n3. Even if multiple \"Second Coin Toss\" cards are active, you can only redo each coin toss once.\\n4. Even if the original coin toss came out in your favor, you may use the effect of \"Second Coin Toss\" and redo the toss."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

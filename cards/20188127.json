@@ -1,0 +1,40 @@
+{
+  "id": 20188127,
+  "name": "Fairy of the Spring",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can Set the Equip Spell Card the same turn you play Fairy of the Spring.\n●When you add an Equip Spell Card to your hand with Fairy of the Spring, and the same turn it is returned to the Deck with Fiber Jar, and you draw it, you can activate it that same turn.",
+    "Goat": "●You can Set the Equip Spell Card the same turn you play Fairy of the Spring.\n●When you add an Equip Spell Card to your hand with Fairy of the Spring, and the same turn it is returned to the Deck with Fiber Jar, and you draw it, you can activate it that same turn.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can Set the Equip Spell Card the same turn you play 'Fairy of the Spring'.\n● When you add an Equip Spell Card to your hand with 'Fairy of the Spring', and the same turn it is returned to the Deck with 'Fiber Jar', and you draw it, you can activate it that same turn.",
+    "TeleDAD": "● You can Set the Equip Spell Card the same turn you play 'Fairy of the Spring'.\n● When you add an Equip Spell Card to your hand with 'Fairy of the Spring', and the same turn it is returned to the Deck with 'Fiber Jar', and you draw it, you can activate it that same turn.",
+    "Gladiator": "● You can Set the Equip Spell Card the same turn you play 'Fairy of the Spring'.\n● When you add an Equip Spell Card to your hand with 'Fairy of the Spring', and the same turn it is returned to the Deck with 'Fiber Jar', and you draw it, you can activate it that same turn.",
+    "ReturnDAD": "● You can Set the Equip Spell Card the same turn you play 'Fairy of the Spring'.\n● When you add an Equip Spell Card to your hand with 'Fairy of the Spring', and the same turn it is returned to the Deck with 'Fiber Jar', and you draw it, you can activate it that same turn.",
+    "Trooper": "● You can Set the Equip Spell Card the same turn you play 'Fairy of the Spring'.\n● When you add an Equip Spell Card to your hand with 'Fairy of the Spring', and the same turn it is returned to the Deck with 'Fiber Jar', and you draw it, you can activate it that same turn.",
+    "Circle": "● You can Set the Equip Spell Card the same turn you play 'Fairy of the Spring'.\n● When you add an Equip Spell Card to your hand with 'Fairy of the Spring', and the same turn it is returned to the Deck with 'Fiber Jar', and you draw it, you can activate it that same turn.",
+    "Stein": "● You can Set the Equip Spell Card the same turn you play 'Fairy of the Spring'.\n● When you add an Equip Spell Card to your hand with 'Fairy of the Spring', and the same turn it is returned to the Deck with 'Fiber Jar', and you draw it, you can activate it that same turn.",
+    "Base": "1. You can Set the Equip Spell Card the same turn you play \"Fairy of the Spring\".\\n2. When you add an Equip Spell Card to your hand with \"Fairy of the Spring\", and the same turn it is returned to the Deck with \"Fiber Jar\", and you draw it, you can activate it that same turn."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

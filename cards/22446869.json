@@ -1,0 +1,44 @@
+{
+  "id": 22446869,
+  "name": "Mermail Abyssteus",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 2400,
+    "level": 7,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If \"Dimensional Fissure\" is applying, this card's ① cannot be activated.\n● If you discard an \"Atlantean\" monster to Summon this card, that \"Atlantean\" monster's effect must be Chain Link 1, as it was sent to the GY before this card was Summoned. \nAfterwards, this card's mandatory effect to search will be Chain Link 2.",
+    "Vegas": "● If \"Dimensional Fissure\" is applying, this card's ① cannot be activated.\n● If you discard an \"Atlantean\" monster to Summon this card, that \"Atlantean\" monster's effect must be Chain Link 1, as it was sent to the GY before this card was Summoned. \nAfterwards, this card's mandatory effect to search will be Chain Link 2.",
+    "Meadowlands": "● If \"Dimensional Fissure\" is applying, this card's ① cannot be activated.\n● If you discard an \"Atlantean\" monster to Summon this card, that \"Atlantean\" monster's effect must be Chain Link 1, as it was sent to the GY before this card was Summoned. \nAfterwards, this card's mandatory effect to search will be Chain Link 2.",
+    "FireWater": "● If \"Dimensional Fissure\" is applying, this card's ① cannot be activated.\n● If you discard an \"Atlantean\" monster to Summon this card, that \"Atlantean\" monster's effect must be Chain Link 1, as it was sent to the GY before this card was Summoned. \nAfterwards, this card's mandatory effect to search will be Chain Link 2.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "You can discard 1 other WATER monster to the GY; Special Summon this card from your hand. When you do: Add 1 Level 4 or lower \"Mermail\" monster from your Deck to your hand. You can only use this effect of \"Mermail Abyssteus\" once per turn.",
+    "Meadowlands": "You can discard 1 other WATER monster to the GY; Special Summon this card from your hand. When you do: Add 1 Level 4 or lower \"Mermail\" monster from your Deck to your hand. You can only use this effect of \"Mermail Abyssteus\" once per turn.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

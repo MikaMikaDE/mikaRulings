@@ -1,0 +1,40 @@
+{
+  "id": 26931058,
+  "name": "Formation Union",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●The monster you equip the Union Monster to must be appropriate, meaning the monster name written in the text of the Union Monster.\n●The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with Formation Union.\n●A Union Monster that is detached during the Battle Phase using Formation Union can attack during that Battle Phase.\n●If the player who would control the Union Monster already has 5 monsters on the field, you cannot activate Formation Union and choose the second effect.",
+    "Goat": "●The monster you equip the Union Monster to must be appropriate, meaning the monster name written in the text of the Union Monster.\n●The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with Formation Union.\nA Union Monster that is detached during the Battle Phase using Formation Union can attack during that Battle Phase.\n●If the player who would control the Union Monster already has 5 monsters on the field, you cannot activate Formation Union and choose the second effect.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The monster you equip the Union Monster to must be 'appropriate', meaning the monster name written in the text of the Union Monster.\n● The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with 'Formation Union'.\n● A Union Monster that is 'detached' during the Battle Phase using 'Formation Union' can attack during that Battle Phase.\n● If the player who would control the Union Monster already has 5 monsters on the field, you can't activate 'Formation Union' and choose the second effect.",
+    "TeleDAD": "● The monster you equip the Union Monster to must be 'appropriate', meaning the monster name written in the text of the Union Monster.\n● The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with 'Formation Union'.\n● A Union Monster that is 'detached' during the Battle Phase using 'Formation Union' can attack during that Battle Phase.\n● If the player who would control the Union Monster already has 5 monsters on the field, you can't activate 'Formation Union' and choose the second effect.",
+    "Gladiator": "● The monster you equip the Union Monster to must be 'appropriate', meaning the monster name written in the text of the Union Monster.\n● The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with 'Formation Union'.\n● A Union Monster that is 'detached' during the Battle Phase using 'Formation Union' can attack during that Battle Phase.\n● If the player who would control the Union Monster already has 5 monsters on the field, you can't activate 'Formation Union' and choose the second effect.",
+    "ReturnDAD": "● The monster you equip the Union Monster to must be 'appropriate', meaning the monster name written in the text of the Union Monster.\n● The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with 'Formation Union'.\n● A Union Monster that is 'detached' during the Battle Phase using 'Formation Union' can attack during that Battle Phase.\n● If the player who would control the Union Monster already has 5 monsters on the field, you can't activate 'Formation Union' and choose the second effect.",
+    "Trooper": "● The monster you equip the Union Monster to must be 'appropriate', meaning the monster name written in the text of the Union Monster.\n● The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with 'Formation Union'.\n● A Union Monster that is 'detached' during the Battle Phase using 'Formation Union' can attack during that Battle Phase.\n● If the player who would control the Union Monster already has 5 monsters on the field, you can't activate 'Formation Union' and choose the second effect.",
+    "Circle": "● The monster you equip the Union Monster to must be 'appropriate', meaning the monster name written in the text of the Union Monster.\n● The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with 'Formation Union'.\n● A Union Monster that is 'detached' during the Battle Phase using 'Formation Union' can attack during that Battle Phase.\n● If the player who would control the Union Monster already has 5 monsters on the field, you can't activate 'Formation Union' and choose the second effect.",
+    "Stein": "● The monster you equip the Union Monster to must be 'appropriate', meaning the monster name written in the text of the Union Monster.\n● The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with 'Formation Union'.\n● A Union Monster that is 'detached' during the Battle Phase using 'Formation Union' can attack during that Battle Phase.\n● If the player who would control the Union Monster already has 5 monsters on the field, you can't activate 'Formation Union' and choose the second effect.",
+    "Base": "1. The monster you equip the Union Monster to must be 'appropriate', meaning the monster name written in the text of the Union Monster.\\n2. The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with \"Formation Union\".\\n3. A Union Monster that is \"detached\" during the Battle Phase using \"Formation Union\" can attack during that Battle Phase.\\n4. If the player who would control the Union Monster already has 5 monsters on the field, you cannot activate \"Formation Union\" and choose the second effect."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

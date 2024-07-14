@@ -1,0 +1,40 @@
+{
+  "id": 42793609,
+  "name": "Nordic Relic Brisingamen",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect targets both monsters.\\n2. If one of the targeted monsters is no longer face-up on the field when this card resolves, the effect will not be applied.\\n3. The modified ATK is not considered the original ATK of your target monster.\\n4. You can activate this card during the Damage Step.\\n5. If you target an opposing monster that is being affected by \"Shrink\", your monster's ATK becomes equal to the opposing monster's actual original ATK, not the halved ATK.\\n6. If your monster's ATK has been changed by \"Rush Recklessly\", etc. and you target it with \"Nordic Relic Brisingamen\", its ATK will be set by Brisingamen and \"Rush Recklessly\" will not reapply.\\n7. Continuous Effects that change the ATK and DEF will reapply after Brisingamen resolves.\\n8. If you target a monster whose ATK and DEF have been halved by \"Blackwing - Gale the Whirlwind\", the ATK will be the one set by Brisingamen. After it wears off, the ATK will return to the original printed value.\\n9. If you target your opponent's \"Tragoedia\", your monster's ATK will be 0.\\n10. If you target your opponent's \"Evil HERO Dark Gaia\" or \"Chimeratech Fortress Dragon\", your monster's ATK will be the same as when the opponent's monster was Summoned."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

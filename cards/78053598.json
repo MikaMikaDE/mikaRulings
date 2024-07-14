@@ -1,0 +1,40 @@
+{
+  "id": 78053598,
+  "name": "Dark Designator",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "●If you activate Dark Designator and your opponent says he/she has no cards in their Deck of that name, you may check the Deck to verify.\n●You cannot declare a nonexistent card for Dark Designator.\n●Your opponent must show you the card added to his hand.\n●If the player required to search for the Monster Card designated by “Dark Designator’s” effect does not have the specified card in his/her Deck, the controller of “Dark Designator” may search the opponent’s Deck to verify this.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you activate 'Dark Designator' and your opponent says he/she has no cards in their Deck of that name, you may check the Deck to verify.\n● You can't declare a nonexistent card for 'Dark Designator'.\n● Your opponent must show you the card added to his hand.",
+    "TeleDAD": "● If you activate 'Dark Designator' and your opponent says he/she has no cards in their Deck of that name, you may check the Deck to verify.\n● You can't declare a nonexistent card for 'Dark Designator'.\n● Your opponent must show you the card added to his hand.",
+    "Gladiator": "● If you activate 'Dark Designator' and your opponent says he/she has no cards in their Deck of that name, you may check the Deck to verify.\n● You can't declare a nonexistent card for 'Dark Designator'.\n● Your opponent must show you the card added to his hand.",
+    "ReturnDAD": "● If you activate 'Dark Designator' and your opponent says he/she has no cards in their Deck of that name, you may check the Deck to verify.\n● You can't declare a nonexistent card for 'Dark Designator'.\n● Your opponent must show you the card added to his hand.",
+    "Trooper": "● If you activate 'Dark Designator' and your opponent says he/she has no cards in their Deck of that name, you may check the Deck to verify.\n● You can't declare a nonexistent card for 'Dark Designator'.\n● Your opponent must show you the card added to his hand.",
+    "Circle": "● If you activate 'Dark Designator' and your opponent says he/she has no cards in their Deck of that name, you may check the Deck to verify.\n● You can't declare a nonexistent card for 'Dark Designator'.\n● Your opponent must show you the card added to his hand.",
+    "Stein": "● If you activate 'Dark Designator' and your opponent says he/she has no cards in their Deck of that name, you may check the Deck to verify.\n● You can't declare a nonexistent card for 'Dark Designator'.\n● Your opponent must show you the card added to his hand.",
+    "Base": "1. If you activate \"Dark Designator\" and your opponent says he/she has no cards in their Deck of that name, you may check the Deck to verify.\\n2. You cannot declare a nonexistent card for \"Dark Designator\".\\n3. Your opponent must show you the card added to his hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

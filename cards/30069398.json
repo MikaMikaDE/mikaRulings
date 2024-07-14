@@ -1,0 +1,44 @@
+{
+  "id": 30069398,
+  "name": "Wall of Ivy",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 1200,
+    "level": 2,
+    "race": "Plant",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Ivy Token’s” effect to inflict damage does not start a Chain.\n●If the Ivy Token is destroyed by a card effect, inflict damage after the effect resolves. If the Ivy Token is destroyed by battle, inflict damage at the end of the Damage Step, when monsters destroyed by battle are sent to the GY.\n●If Remove Brainwashing or Owner's Seal is activated, control of the Ivy Token is shifted to the player that activated Wall of Ivy's effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Ivy Token’s” effect to inflict damage does not start a Chain.\n● If the 'Ivy Token' is destroyed by a card effect, inflict damage after the effect resolves. If the 'Ivy Token' is destroyed by battle, inflict damage at the end of the Damage Step, when monsters destroyed by battle are sent to the GY.\n● If 'Remove Brainwashing' or 'Owner's Seal' is activated, control of the 'Ivy Token' is shifted to the player that activated 'Wall of Ivy's' effect.",
+    "TeleDAD": "● “Ivy Token’s” effect to inflict damage does not start a Chain.\n● If the 'Ivy Token' is destroyed by a card effect, inflict damage after the effect resolves. If the 'Ivy Token' is destroyed by battle, inflict damage at the end of the Damage Step, when monsters destroyed by battle are sent to the GY.\n● If 'Remove Brainwashing' or 'Owner's Seal' is activated, control of the 'Ivy Token' is shifted to the player that activated 'Wall of Ivy's' effect.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of 'Ivy Token' to inflict damage does not start a Chain.\\n2. If the 'Ivy Token' is destroyed by a card effect, inflict damage after the effect resolves. If the 'Ivy Token' is destroyed by battle, inflict damage at the end of the Damage Step, when monsters destroyed by battle are sent to the GY.\\n3. If \"Remove Brainwashing\" or \"Owner's Seal\" is activated, control of the 'Ivy Token' is shifted to the player that activated the effect of \"Wall of Ivy\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

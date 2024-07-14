@@ -1,0 +1,44 @@
+{
+  "id": 4162088,
+  "name": "Cyber Laser Dragon",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 1800,
+    "level": 7,
+    "race": "Machine",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card’s effect targets. You can destroy “Cyber Laser Dragon” with its own effect.\n●The ATK or DEF of the targeted monster must be greater than (or equal to) the ATK of “Cyber Laser Dragon” when the effect resolves in order for it to be destroyed. Example: You target “Jinzo” with this card’s effect. The opponent chains “Rush Recklessly” to raise “Cyber Laser Dragon’s” ATK to 3100. “Jinzo” is not destroyed.\n●If “Book of Moon” is chained to “Cyber Laser Dragon’s” effect to turn either the targeted monster or “Cyber Laser Dragon” face-down, its effect will not resolve because both monsters’ ATK / DEF values can no longer be compared.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s effect targets. You can destroy “Cyber Laser Dragon” with its own effect.\n● The ATK or DEF of the targeted monster must be greater than (or equal to) the ATK of “Cyber Laser Dragon” when the effect resolves in order for it to be destroyed. Example: You target “Jinzo” with this card’s effect. The opponent chains “Rush Recklessly” to raise “Cyber Laser Dragon’s” ATK to 3100. “Jinzo” isn't destroyed.\n● If “Book of Moon” is chained to “Cyber Laser Dragon’s” effect to turn either the targeted monster or “Cyber Laser Dragon” face-down, its effect will not resolve because both monsters’ ATK / DEF values can no longer be compared.",
+    "TeleDAD": "● This card’s effect targets. You can destroy “Cyber Laser Dragon” with its own effect.\n● The ATK or DEF of the targeted monster must be greater than (or equal to) the ATK of “Cyber Laser Dragon” when the effect resolves in order for it to be destroyed. Example: You target “Jinzo” with this card’s effect. The opponent chains “Rush Recklessly” to raise “Cyber Laser Dragon’s” ATK to 3100. “Jinzo” isn't destroyed.\n● If “Book of Moon” is chained to “Cyber Laser Dragon’s” effect to turn either the targeted monster or “Cyber Laser Dragon” face-down, its effect will not resolve because both monsters’ ATK / DEF values can no longer be compared.",
+    "Gladiator": "● This card’s effect targets. You can destroy “Cyber Laser Dragon” with its own effect.\n● The ATK or DEF of the targeted monster must be greater than (or equal to) the ATK of “Cyber Laser Dragon” when the effect resolves in order for it to be destroyed. Example: You target “Jinzo” with this card’s effect. The opponent chains “Rush Recklessly” to raise “Cyber Laser Dragon’s” ATK to 3100. “Jinzo” isn't destroyed.\n● If “Book of Moon” is chained to “Cyber Laser Dragon’s” effect to turn either the targeted monster or “Cyber Laser Dragon” face-down, its effect will not resolve because both monsters’ ATK / DEF values can no longer be compared.",
+    "ReturnDAD": "● This card’s effect targets. You can destroy “Cyber Laser Dragon” with its own effect.\n● The ATK or DEF of the targeted monster must be greater than (or equal to) the ATK of “Cyber Laser Dragon” when the effect resolves in order for it to be destroyed. Example: You target “Jinzo” with this card’s effect. The opponent chains “Rush Recklessly” to raise “Cyber Laser Dragon’s” ATK to 3100. “Jinzo” isn't destroyed.\n● If “Book of Moon” is chained to “Cyber Laser Dragon’s” effect to turn either the targeted monster or “Cyber Laser Dragon” face-down, its effect will not resolve because both monsters’ ATK / DEF values can no longer be compared.",
+    "Trooper": "● This card’s effect targets. You can destroy “Cyber Laser Dragon” with its own effect.\n● The ATK or DEF of the targeted monster must be greater than (or equal to) the ATK of “Cyber Laser Dragon” when the effect resolves in order for it to be destroyed. Example: You target “Jinzo” with this card’s effect. The opponent chains “Rush Recklessly” to raise “Cyber Laser Dragon’s” ATK to 3100. “Jinzo” isn't destroyed.\n● If “Book of Moon” is chained to “Cyber Laser Dragon’s” effect to turn either the targeted monster or “Cyber Laser Dragon” face-down, its effect will not resolve because both monsters’ ATK / DEF values can no longer be compared.",
+    "Circle": "● This card’s effect targets. You can destroy “Cyber Laser Dragon” with its own effect.\n● The ATK or DEF of the targeted monster must be greater than (or equal to) the ATK of “Cyber Laser Dragon” when the effect resolves in order for it to be destroyed. Example: You target “Jinzo” with this card’s effect. The opponent chains “Rush Recklessly” to raise “Cyber Laser Dragon’s” ATK to 3100. “Jinzo” isn't destroyed.\n● If “Book of Moon” is chained to “Cyber Laser Dragon’s” effect to turn either the targeted monster or “Cyber Laser Dragon” face-down, its effect will not resolve because both monsters’ ATK / DEF values can no longer be compared.",
+    "Stein": "● This card’s effect targets. You can destroy “Cyber Laser Dragon” with its own effect.\n● The ATK or DEF of the targeted monster must be greater than (or equal to) the ATK of “Cyber Laser Dragon” when the effect resolves in order for it to be destroyed. Example: You target “Jinzo” with this card’s effect. The opponent chains “Rush Recklessly” to raise “Cyber Laser Dragon’s” ATK to 3100. “Jinzo” isn't destroyed.\n● If “Book of Moon” is chained to “Cyber Laser Dragon’s” effect to turn either the targeted monster or “Cyber Laser Dragon” face-down, its effect will not resolve because both monsters’ ATK / DEF values can no longer be compared.",
+    "Base": "1. This card's effect targets. You can destroy \"Cyber Laser Dragon\" with its own effect.\\n2. The ATK or DEF of the targeted monster must be greater than (or equal to) the ATK of \"Cyber Laser Dragon\" when the effect resolves in order for it to be destroyed.\\n\\nExample: You target \"Jinzo\" with this card's effect. The opponent chains \"Rush Recklessly\" to raise the ATK of \"Cyber Laser Dragon\" to 3100. \"Jinzo\" is not destroyed.\\n3. If \"Book of Moon\" is chained to the effect of \"Cyber Laser Dragon\" to turn either the targeted monster or \"Cyber Laser Dragon\" face-down, its effect will not resolve because both monsters' ATK / DEF values can no longer be compared."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

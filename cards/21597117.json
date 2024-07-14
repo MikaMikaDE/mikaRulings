@@ -1,0 +1,40 @@
+{
+  "id": 21597117,
+  "name": "A Hero Emerges",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "You can only activate this card when your opponent declares an attack. Your opponent selects 1 random card from your hand. If it is a Monster Card, Special Summon it on your side of the field. If not, send it to the GY.\n●You can Special Summon a high-level monster, like Dark Magician, with A Hero Emerges. But if your opponent selects a Special Summon-only monster like Dark Necrofear, or a Spirit Monster, it is sent to the GY.\n●When Guardian Elma is selected for A Hero Emerges, and you have Butterfly Dagger - Elma on your side of the field, you can Special Summon her, but if you don't have it, then she is sent to the GY.\n●You can activate A Hero Emerges even if you have only 1 card in your hand.",
+    "Goat": "●You can Special Summon a high-level monster, like Dark Magician, with A Hero Emerges. But if your opponent selects a Special Summon-only monster like Dark Necrofear, or a Spirit Monster, it is sent to the GY.\n●When Guardian Elma is selected for A Hero Emerges, and you have Butterfly Dagger - Elma on your side of the field, you can Special Summon her, but if you don't have it, then she is sent to the GY.\n●You can activate A Hero Emerges even if you have only 1 card in your hand.\n●This ruling addresses what happens if your opponent chooses the following monster card from your hand by the effect of “A Hero Emerges.Special-Summon-only monster: sent to the GY. (Perfectly Ultimate Great Moth, Exodia Necross, Dark Necrofear, Chaos Emperor Dragon - Envoy of the End, all Ritual Monsters, etc.)\n●Spirit Monster: sent to the GY. (Yata-Garasu, Hino-Kagu-Tsuchi, Yamata Dragon, Tsukuyomi, etc.)\n●Guardian Monster without appropriate Spell Card on the field: sent to the GY. (Guardian Grarl, Guardian Ceal, Guardian Tryce, etc.)\n●The effect of “A Hero Emerges” causes a replay.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can Special Summon a high-level monster, like 'Dark Magician', with 'A Hero Emerges'. But if your opponent selects a Special Summon-only monster like 'Dark Necrofear', or a Spirit Monster, it is sent to the GY. \n● When 'Guardian Elma' is selected for 'A Hero Emerges', and you have 'Butterfly Dagger - Elma' on your side of the field, you can Special Summon her, but if you don't have it, then she is sent to the GY.\n● You can activate 'A Hero Emerges' even if you have only 1 card in your hand.",
+    "TeleDAD": "● You can Special Summon a high-level monster, like 'Dark Magician', with 'A Hero Emerges'. But if your opponent selects a Special Summon-only monster like 'Dark Necrofear', or a Spirit Monster, it is sent to the GY. \n● When 'Guardian Elma' is selected for 'A Hero Emerges', and you have 'Butterfly Dagger - Elma' on your side of the field, you can Special Summon her, but if you don't have it, then she is sent to the GY.\n● You can activate 'A Hero Emerges' even if you have only 1 card in your hand.",
+    "Gladiator": "● You can Special Summon a high-level monster, like 'Dark Magician', with 'A Hero Emerges'. But if your opponent selects a Special Summon-only monster like 'Dark Necrofear', or a Spirit Monster, it is sent to the GY. \n● When 'Guardian Elma' is selected for 'A Hero Emerges', and you have 'Butterfly Dagger - Elma' on your side of the field, you can Special Summon her, but if you don't have it, then she is sent to the GY.\n● You can activate 'A Hero Emerges' even if you have only 1 card in your hand.",
+    "ReturnDAD": "● You can Special Summon a high-level monster, like 'Dark Magician', with 'A Hero Emerges'. But if your opponent selects a Special Summon-only monster like 'Dark Necrofear', or a Spirit Monster, it is sent to the GY. \n● When 'Guardian Elma' is selected for 'A Hero Emerges', and you have 'Butterfly Dagger - Elma' on your side of the field, you can Special Summon her, but if you don't have it, then she is sent to the GY.\n● You can activate 'A Hero Emerges' even if you have only 1 card in your hand.",
+    "Trooper": "● You can Special Summon a high-level monster, like 'Dark Magician', with 'A Hero Emerges'. But if your opponent selects a Special Summon-only monster like 'Dark Necrofear', or a Spirit Monster, it is sent to the GY. \n● When 'Guardian Elma' is selected for 'A Hero Emerges', and you have 'Butterfly Dagger - Elma' on your side of the field, you can Special Summon her, but if you don't have it, then she is sent to the GY.\n● You can activate 'A Hero Emerges' even if you have only 1 card in your hand.",
+    "Circle": "● You can Special Summon a high-level monster, like 'Dark Magician', with 'A Hero Emerges'. But if your opponent selects a Special Summon-only monster like 'Dark Necrofear', or a Spirit Monster, it is sent to the GY. \n● When 'Guardian Elma' is selected for 'A Hero Emerges', and you have 'Butterfly Dagger - Elma' on your side of the field, you can Special Summon her, but if you don't have it, then she is sent to the GY.\n● You can activate 'A Hero Emerges' even if you have only 1 card in your hand.",
+    "Stein": "● You can Special Summon a high-level monster, like 'Dark Magician', with 'A Hero Emerges'. But if your opponent selects a Special Summon-only monster like 'Dark Necrofear', or a Spirit Monster, it is sent to the GY. \n● When 'Guardian Elma' is selected for 'A Hero Emerges', and you have 'Butterfly Dagger - Elma' on your side of the field, you can Special Summon her, but if you don't have it, then she is sent to the GY.\n● You can activate 'A Hero Emerges' even if you have only 1 card in your hand.",
+    "Base": "1. You can Special Summon a high-level monster, like \"Dark Magician\", with \"A Hero Emerges\". But if your opponent selects a Special Summon-only monster like \"Dark Necrofear\", or a Spirit Monster, it is sent to the GY.\\n2. When \"Guardian Elma\" is selected for \"A Hero Emerges\", and you have \"Butterfly Dagger - Elma\" on your side of the field, you can Special Summon her, but if you don't have it, then she is sent to the GY.\\n3. You can activate \"A Hero Emerges\" even if you have only 1 card in your hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

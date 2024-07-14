@@ -1,0 +1,40 @@
+{
+  "id": 90374791,
+  "name": "Armed Changer",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "Send 1 Equip Spell Card from your hand to the GY to activate this card. (1) If the equipped monster destroys a monster by battle, the controller of this Equip Card can add 1 monster with ATK equal to or less than the equipped monster from their GY to their hand.\n●Sending 1 Equip Spell Card from your hand to the GY is a cost. You can't activate this card while Macro Cosmos is active, since you can't pay the cost.\n●The (1) Trigger-like Effect is optional, it activates & resolves on the field.\n●This effect activates in Substep 7 - End of the Damage Step.\n●If the monster equipped with this card destroys a monster like “Sangan” or “Mystic Tomato”, its effect will form a chain with them according to the rules of simultaneous effects.\n●If the monster equipped with this card destroys a monster with equal ATK, then its effect will not activate, since “Armed Changer” is sent to the GY at the same time as the opponent’s monster.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Armed Changer” activates when the destroyed monster is sent to the GY in the Damage Step. This effect can be chained to.\n● If the monster equipped with this card destroys a monster like “Sangan” or “Mystic Tomato”, its effect will form a chain with them according to the rules of simultaneous effects (see Advanced Gameplay FAQ).\n● If the monster equipped with this card destroys a monster with equal ATK, then its effect will not activate, since “Armed Changer” is sent to the GY at the same time as the opponent’s monster.",
+    "TeleDAD": "● The effect of “Armed Changer” activates when the destroyed monster is sent to the GY in the Damage Step. This effect can be chained to.\n● If the monster equipped with this card destroys a monster like “Sangan” or “Mystic Tomato”, its effect will form a chain with them according to the rules of simultaneous effects (see Advanced Gameplay FAQ).\n● If the monster equipped with this card destroys a monster with equal ATK, then its effect will not activate, since “Armed Changer” is sent to the GY at the same time as the opponent’s monster.",
+    "Gladiator": "● The effect of “Armed Changer” activates when the destroyed monster is sent to the GY in the Damage Step. This effect can be chained to.\n● If the monster equipped with this card destroys a monster like “Sangan” or “Mystic Tomato”, its effect will form a chain with them according to the rules of simultaneous effects (see Advanced Gameplay FAQ).\n● If the monster equipped with this card destroys a monster with equal ATK, then its effect will not activate, since “Armed Changer” is sent to the GY at the same time as the opponent’s monster.",
+    "ReturnDAD": "● The effect of “Armed Changer” activates when the destroyed monster is sent to the GY in the Damage Step. This effect can be chained to.\n● If the monster equipped with this card destroys a monster like “Sangan” or “Mystic Tomato”, its effect will form a chain with them according to the rules of simultaneous effects (see Advanced Gameplay FAQ).\n● If the monster equipped with this card destroys a monster with equal ATK, then its effect will not activate, since “Armed Changer” is sent to the GY at the same time as the opponent’s monster.",
+    "Trooper": "● The effect of “Armed Changer” activates when the destroyed monster is sent to the GY in the Damage Step. This effect can be chained to.\n● If the monster equipped with this card destroys a monster like “Sangan” or “Mystic Tomato”, its effect will form a chain with them according to the rules of simultaneous effects (see Advanced Gameplay FAQ).\n● If the monster equipped with this card destroys a monster with equal ATK, then its effect will not activate, since “Armed Changer” is sent to the GY at the same time as the opponent’s monster.",
+    "Circle": "● The effect of “Armed Changer” activates when the destroyed monster is sent to the GY in the Damage Step. This effect can be chained to.\n● If the monster equipped with this card destroys a monster like “Sangan” or “Mystic Tomato”, its effect will form a chain with them according to the rules of simultaneous effects (see Advanced Gameplay FAQ).\n● If the monster equipped with this card destroys a monster with equal ATK, then its effect will not activate, since “Armed Changer” is sent to the GY at the same time as the opponent’s monster.",
+    "Stein": "● The effect of “Armed Changer” activates when the destroyed monster is sent to the GY in the Damage Step. This effect can be chained to.\n● If the monster equipped with this card destroys a monster like “Sangan” or “Mystic Tomato”, its effect will form a chain with them according to the rules of simultaneous effects (see Advanced Gameplay FAQ).\n● If the monster equipped with this card destroys a monster with equal ATK, then its effect will not activate, since “Armed Changer” is sent to the GY at the same time as the opponent’s monster.",
+    "Base": "1. The effect of \"Armed Changer\" activates when the destroyed monster is sent to the GY in the Damage Step. This effect can be chained to.\\n2. If the monster equipped with this card destroys a monster like \"Sangan\" or \"Mystic Tomato\", its effect will form a chain with them according to the rules of simultaneous effects (see Advanced Gameplay FAQ).\\n3. If the monster equipped with this card destroys a monster with equal ATK, then its effect will not activate, since \"Armed Changer\" is sent to the GY at the same time as the opponent's monster."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

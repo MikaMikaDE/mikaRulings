@@ -1,0 +1,40 @@
+{
+  "id": 20727787,
+  "name": "Disarmament",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Disarmament will not destroy face-down Equip Spell Cards.",
+    "Goat": "●Disarmament will not destroy face-down Equip Spell Cards.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Disarmament' will not destroy face-down Equip Spell Cards.",
+    "TeleDAD": "● 'Disarmament' will not destroy face-down Equip Spell Cards.",
+    "Gladiator": "● 'Disarmament' will not destroy face-down Equip Spell Cards.",
+    "ReturnDAD": "● 'Disarmament' will not destroy face-down Equip Spell Cards.",
+    "Trooper": "● 'Disarmament' will not destroy face-down Equip Spell Cards.",
+    "Circle": "● 'Disarmament' will not destroy face-down Equip Spell Cards.",
+    "Stein": "● 'Disarmament' will not destroy face-down Equip Spell Cards.",
+    "Base": "1. \"Disarmament\" will not destroy face-down Equip Spell Cards."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

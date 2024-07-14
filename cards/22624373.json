@@ -1,0 +1,44 @@
+{
+  "id": 22624373,
+  "name": "Lyla, Lightsworn Sorceress",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 200,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When you activate 'Lyla, Lightsworn Sorceress'' effect to destroy 1 Spell/Trap Card, it is changed to Defense Position when the effect resolves. It isn't a cost to activate this effect.\n● This effect targets 1 Spell/Trap Card your opponent controls.\n● If you activate 'Lyla, Lightsworn Sorceress'' effect while 'Final Attack Orders' is applying, 'Lyla, Lightsworn Sorceress' will be changed to Attack Position after resolving its effect and its effect can be activated again.\n● If you activate 'Lyla, Lightsworn Sorceress'' effect and an effect is chained that shifts 'Lyla, Lightsworn Sorceress' into Defense Position or removes it from the field, its effect disappears.\n● See “Jain, Lightsworn Paladin” for additional rulings.",
+    "TeleDAD": "● When you activate 'Lyla, Lightsworn Sorceress'' effect to destroy 1 Spell/Trap Card, it is changed to Defense Position when the effect resolves. It isn't a cost to activate this effect.\n● This effect targets 1 Spell/Trap Card your opponent controls.\n● If you activate 'Lyla, Lightsworn Sorceress'' effect while 'Final Attack Orders' is applying, 'Lyla, Lightsworn Sorceress' will be changed to Attack Position after resolving its effect and its effect can be activated again.\n● If you activate 'Lyla, Lightsworn Sorceress'' effect and an effect is chained that shifts 'Lyla, Lightsworn Sorceress' into Defense Position or removes it from the field, its effect disappears.\n● See “Jain, Lightsworn Paladin” for additional rulings.",
+    "Gladiator": "● When you activate 'Lyla, Lightsworn Sorceress'' effect to destroy 1 Spell/Trap Card, it is changed to Defense Position when the effect resolves. It isn't a cost to activate this effect.\n● This effect targets 1 Spell/Trap Card your opponent controls.\n● If you activate 'Lyla, Lightsworn Sorceress'' effect while 'Final Attack Orders' is applying, 'Lyla, Lightsworn Sorceress' will be changed to Attack Position after resolving its effect and its effect can be activated again.\n● If you activate 'Lyla, Lightsworn Sorceress'' effect and an effect is chained that shifts 'Lyla, Lightsworn Sorceress' into Defense Position or removes it from the field, its effect disappears.\n● See “Jain, Lightsworn Paladin” for additional rulings.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. When you activate the effect of \"Lyla, Lightsworn Sorceress\" to destroy 1 Spell or Trap Card, it is changed to Defense Position when the effect resolves. It is not a cost to activate this effect.\\n2. This effect targets 1 Spell or Trap Card your opponent controls.\\n3. If you activate the effect of \"Lyla, Lightsworn Sorceress\" while \"Final Attack Orders\" is active, \"Lyla, Lightsworn Sorceress\" will be changed to Attack Position after resolving its effect and its effect can be activated again.\\n4. If you activate the effect of \"Lyla, Lightsworn Sorceress\" and an effect is chained that shifts \"Lyla, Lightsworn Sorceress\" into Defense Position or removes it from the field, its effect disappears.\\n5. See \"Jain, Lightsworn Paladin\" for additional rulings.\\n6. [FORUM] Unless the effect of \"Lyla, Lightsworn Sorceress\" is negated, it's effect will still resolve as long as it can still switch itself to Defense Position. For example, if the effect of \"Lyla, Lightsworn Sorceress\" is activated and \"Enemy Controller\" is chained to take control of \"Lyla, Lightsworn Sorceress\", \"Lyla, Lightsworn Sorceress\" will change to the opponent's side of the field and then switch to Defense Position and destroy \"Enemy Controller\", since \"Enemy Controller\" is not sent to the GY until the chain fully resolves."
+  },
+  "PSCT": {
+    "Tengu": "① You can target 1 Spell/Trap your opponent controls; \nuntil the end of your next turn, this card's battle position can't be changed,\nalso change it Attack Position to Defense Position, and if you do, destroy that target. \n② During your End Phase: Send the top 3 cards of your Deck to the GY.\n(Activate & Resolve only if face-up on the field).",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

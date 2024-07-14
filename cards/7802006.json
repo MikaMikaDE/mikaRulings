@@ -1,0 +1,44 @@
+{
+  "id": 7802006,
+  "name": "Magical Plant Mandragola",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 200,
+    "level": 2,
+    "race": "Spellcaster",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●Includes your opponent's cards that are capable of having Spell Counters placed on them.",
+    "Goat": "●Includes your opponent's cards that are capable of having Spell Counters placed on them.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Includes your opponent's cards that are capable of having Spell Counters placed on them.",
+    "TeleDAD": "● Includes your opponent's cards that are capable of having Spell Counters placed on them.",
+    "Gladiator": "● Includes your opponent's cards that are capable of having Spell Counters placed on them.",
+    "ReturnDAD": "● Includes your opponent's cards that are capable of having Spell Counters placed on them.",
+    "Trooper": "● Includes your opponent's cards that are capable of having Spell Counters placed on them.",
+    "Circle": "● Includes your opponent's cards that are capable of having Spell Counters placed on them.",
+    "Stein": "● Includes your opponent's cards that are capable of having Spell Counters placed on them.",
+    "Base": "1. Includes your opponent's cards that are capable of having Spell Counters placed on them."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

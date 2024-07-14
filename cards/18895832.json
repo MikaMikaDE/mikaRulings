@@ -1,0 +1,40 @@
+{
+  "id": 18895832,
+  "name": "System Down",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "● Those cards are banished, not destroyed.",
+    "Goat": "“System Down” does not remove face-down Machines.\n●“Kycoo the Ghost Destroyer” will prevent Machines in the GY from being removed from play for “System Down”, but Machines on the field can still be removed from play by its effect.\n●If your opponent has no Machines in the GY and no Machines on the field, you cannot activate “System Down”.\n●If “Heavy Mech Support Platform” is equipped to a Machine when “System Down” is activated, the equipped monster is removed from play but “Heavy Mech Support Platform” is just destroyed and sent to the GY.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “System Down” does not remove face-down Machines.\n● “Kycoo the Ghost Destroyer” will prevent Machines in the GY from being removed from play for “System Down”, but Machines on the field can still be removed from play by its effect.\n● If your opponent has no Machines in the GY and no Machines on the field, you can't activate “System Down”.\n● If “Heavy Mech Support Platform” is equipped to a Machine when “System Down” is activated, the equipped monster is removed from play but “Heavy Mech Support Platform” is just destroyed and sent to the GY.",
+    "TeleDAD": "● “System Down” does not remove face-down Machines.\n● “Kycoo the Ghost Destroyer” will prevent Machines in the GY from being removed from play for “System Down”, but Machines on the field can still be removed from play by its effect.\n● If your opponent has no Machines in the GY and no Machines on the field, you can't activate “System Down”.\n● If “Heavy Mech Support Platform” is equipped to a Machine when “System Down” is activated, the equipped monster is removed from play but “Heavy Mech Support Platform” is just destroyed and sent to the GY.",
+    "Gladiator": "● “System Down” does not remove face-down Machines.\n● “Kycoo the Ghost Destroyer” will prevent Machines in the GY from being removed from play for “System Down”, but Machines on the field can still be removed from play by its effect.\n● If your opponent has no Machines in the GY and no Machines on the field, you can't activate “System Down”.\n● If “Heavy Mech Support Platform” is equipped to a Machine when “System Down” is activated, the equipped monster is removed from play but “Heavy Mech Support Platform” is just destroyed and sent to the GY.",
+    "ReturnDAD": "● “System Down” does not remove face-down Machines.\n● “Kycoo the Ghost Destroyer” will prevent Machines in the GY from being removed from play for “System Down”, but Machines on the field can still be removed from play by its effect.\n● If your opponent has no Machines in the GY and no Machines on the field, you can't activate “System Down”.\n● If “Heavy Mech Support Platform” is equipped to a Machine when “System Down” is activated, the equipped monster is removed from play but “Heavy Mech Support Platform” is just destroyed and sent to the GY.",
+    "Trooper": "● “System Down” does not remove face-down Machines.\n● “Kycoo the Ghost Destroyer” will prevent Machines in the GY from being removed from play for “System Down”, but Machines on the field can still be removed from play by its effect.\n● If your opponent has no Machines in the GY and no Machines on the field, you can't activate “System Down”.\n● If “Heavy Mech Support Platform” is equipped to a Machine when “System Down” is activated, the equipped monster is removed from play but “Heavy Mech Support Platform” is just destroyed and sent to the GY.",
+    "Circle": "● “System Down” does not remove face-down Machines.\n● “Kycoo the Ghost Destroyer” will prevent Machines in the GY from being removed from play for “System Down”, but Machines on the field can still be removed from play by its effect.\n● If your opponent has no Machines in the GY and no Machines on the field, you can't activate “System Down”.\n● If “Heavy Mech Support Platform” is equipped to a Machine when “System Down” is activated, the equipped monster is removed from play but “Heavy Mech Support Platform” is just destroyed and sent to the GY.",
+    "Stein": "● “System Down” does not remove face-down Machines.\n● “Kycoo the Ghost Destroyer” will prevent Machines in the GY from being removed from play for “System Down”, but Machines on the field can still be removed from play by its effect.\n● If your opponent has no Machines in the GY and no Machines on the field, you can't activate “System Down”.\n● If “Heavy Mech Support Platform” is equipped to a Machine when “System Down” is activated, the equipped monster is removed from play but “Heavy Mech Support Platform” is just destroyed and sent to the GY.",
+    "Base": "1. \"System Down\" does not remove face-down Machines.\\n2. \"Kycoo the Ghost Destroyer\" will prevent Machines in the GY from being removed from play for \"System Down\", but Machines on the field can still be removed from play by its effect.\\n3. If your opponent has no Machines in the GY and no Machines on the field, you cannot activate \"System Down\".\\n4. If \"Heavy Mech Support Platform\" is equipped to a Machine when \"System Down\" is activated, the equipped monster is removed from play but \"Heavy Mech Support Platform\" is just destroyed and sent to the GY."
+  },
+  "PSCT": {
+    "Tengu": "① Pay 1000 LP; banish all Machines your opponent controls and in their GY.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

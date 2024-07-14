@@ -1,0 +1,40 @@
+{
+  "id": 47408488,
+  "name": "Crystal Tree",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Crystal Tree's effect cannot be activated if you do not have enough Crystal Beast monsters remaining in your Deck. Example: If you have 4 Crystal Counters on Crystal Tree but only 3 Crystal Beast monsters remaining in your Deck, you cannot activate Crystal Tree's effect.\n●Crystal Tree's effect cannot be activated if you do not have enough open Spell and Trap Card Zone spaces for the Crystal Beast monsters that would be placed into your Spell and Trap Card Zone with Crystal Tree's effect. Example: If you have 4 Crystal Counters on Crystal Tree but only 2 open Spell and Trap Card Zone spaces, you cannot activate Crystal Tree's effect.\n●When a Crystal Beast monster is equipped to Relinquished with its effect, a Crystal Counter is placed onto Crystal Tree.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Crystal Tree's' effect can't be activated if you do not have enough 'Crystal Beast' monsters remaining in your Deck. Example: If you have 4 Crystal Counters on 'Crystal Tree' but only 3 'Crystal Beast' monsters remaining in your Deck, you can't activate 'Crystal Tree's' effect.\n● 'Crystal Tree's' effect can't be activated if you do not have enough open Spell/Trap Card Zone spaces for the 'Crystal Beast' monsters that would be placed into your Spell/Trap Card Zone with 'Crystal Tree's' effect. Example: If you have 4 Crystal Counters on 'Crystal Tree' but only 2 open Spell/Trap Card Zone spaces, you can't activate 'Crystal Tree's' effect.\n● When a 'Crystal Beast' monster is equipped to 'Relinquished' with its effect, a Crystal Counter is placed onto 'Crystal Tree'.",
+    "TeleDAD": "● 'Crystal Tree's' effect can't be activated if you do not have enough 'Crystal Beast' monsters remaining in your Deck. Example: If you have 4 Crystal Counters on 'Crystal Tree' but only 3 'Crystal Beast' monsters remaining in your Deck, you can't activate 'Crystal Tree's' effect.\n● 'Crystal Tree's' effect can't be activated if you do not have enough open Spell/Trap Card Zone spaces for the 'Crystal Beast' monsters that would be placed into your Spell/Trap Card Zone with 'Crystal Tree's' effect. Example: If you have 4 Crystal Counters on 'Crystal Tree' but only 2 open Spell/Trap Card Zone spaces, you can't activate 'Crystal Tree's' effect.\n● When a 'Crystal Beast' monster is equipped to 'Relinquished' with its effect, a Crystal Counter is placed onto 'Crystal Tree'.",
+    "Gladiator": "● 'Crystal Tree's' effect can't be activated if you do not have enough 'Crystal Beast' monsters remaining in your Deck. Example: If you have 4 Crystal Counters on 'Crystal Tree' but only 3 'Crystal Beast' monsters remaining in your Deck, you can't activate 'Crystal Tree's' effect.\n● 'Crystal Tree's' effect can't be activated if you do not have enough open Spell/Trap Card Zone spaces for the 'Crystal Beast' monsters that would be placed into your Spell/Trap Card Zone with 'Crystal Tree's' effect. Example: If you have 4 Crystal Counters on 'Crystal Tree' but only 2 open Spell/Trap Card Zone spaces, you can't activate 'Crystal Tree's' effect.\n● When a 'Crystal Beast' monster is equipped to 'Relinquished' with its effect, a Crystal Counter is placed onto 'Crystal Tree'.",
+    "ReturnDAD": "● 'Crystal Tree's' effect can't be activated if you do not have enough 'Crystal Beast' monsters remaining in your Deck. Example: If you have 4 Crystal Counters on 'Crystal Tree' but only 3 'Crystal Beast' monsters remaining in your Deck, you can't activate 'Crystal Tree's' effect.\n● 'Crystal Tree's' effect can't be activated if you do not have enough open Spell/Trap Card Zone spaces for the 'Crystal Beast' monsters that would be placed into your Spell/Trap Card Zone with 'Crystal Tree's' effect. Example: If you have 4 Crystal Counters on 'Crystal Tree' but only 2 open Spell/Trap Card Zone spaces, you can't activate 'Crystal Tree's' effect.\n● When a 'Crystal Beast' monster is equipped to 'Relinquished' with its effect, a Crystal Counter is placed onto 'Crystal Tree'.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Crystal Tree\" cannot be activated if you do not have enough 'Crystal Beast' monsters remaining in your Deck. Example: If you have 4 Crystal Counters on \"Crystal Tree\" but only 3 'Crystal Beast' monsters remaining in your Deck, you cannot activate the effect of \"Crystal Tree\".\\n2. The effect of \"Crystal Tree\" cannot be activated if you do not have enough open Spell and Trap Card Zone spaces for the 'Crystal Beast' monsters that would be placed into your Spell and Trap Card Zone with the effect of \"Crystal Tree\".\\n\\nExample: If you have 4 Crystal Counters on \"Crystal Tree\" but only 2 open Spell and Trap Card Zone spaces, you cannot activate the effect of \"Crystal Tree\".\\n3. When a 'Crystal Beast' monster is equipped to \"Relinquished\" with its effect, a Crystal Counter is placed onto \"Crystal Tree\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

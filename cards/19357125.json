@@ -1,0 +1,44 @@
+{
+  "id": 19357125,
+  "name": "Dark Hunter",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 400,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you activate Dark Hunter's 5 or more effect and an effect is chained that reduces the number of DARK monsters in your GY to 4 or less, Dark Hunter's effect still resolves.\n●While Skill Drain is active, all of Dark Hunter's effects are negated because the primary effect, This card's effect changes depending on the number of DARK monsters in your GY, is negated.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you activate 'Dark Hunter's' '5 or more' effect and an effect is chained that reduces the number of DARK monsters in your GY to 4 or less, 'Dark Hunter's' effect still resolves.\n● While 'Skill Drain' is applying, all of 'Dark Hunter's' effects are negated because the primary effect, 'This card's effect changes depending on the number of DARK monsters in your GY', is negated.",
+    "TeleDAD": "● If you activate 'Dark Hunter's' '5 or more' effect and an effect is chained that reduces the number of DARK monsters in your GY to 4 or less, 'Dark Hunter's' effect still resolves.\n● While 'Skill Drain' is applying, all of 'Dark Hunter's' effects are negated because the primary effect, 'This card's effect changes depending on the number of DARK monsters in your GY', is negated.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you activate the '5 or more' effect of \"Dark Hunter\" and an effect is chained that reduces the number of DARK monsters in your GY to 4 or less, the effect of \"Dark Hunter\" still resolves.\\n2. While \"Skill Drain\" is active, all of the effects of \"Dark Hunter\" are negated because the primary effect, 'This card's effect changes depending on the number of DARK monsters in your GY', is negated."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

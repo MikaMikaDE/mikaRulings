@@ -1,0 +1,40 @@
+{
+  "id": 94886282,
+  "name": "Charge of the Light Brigade",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "● You can't activate this card unless you have at least 4 cards in your Deck.\n●  You can't activate this card unless there is at least 1 level 4 or lower \"Lightsworn\" monster in your Deck. If the last possible search is sent to the GY as part of this card's cost, all 3 cards remain in the GY, and no card is searched.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Sending 3 cards from the top of your Deck to the GY is a cost.\n● If the last LV 4 or lower 'Lightsworn' monster remaining in your Deck is sent to the GY when you activate 'Charge of the Light Brigade', when it resolves, briefly show your Deck to your opponent to verify that no LV 4 or lower 'Lightsworn' monsters remain in your Deck.",
+    "TeleDAD": "● Sending 3 cards from the top of your Deck to the GY is a cost.\n● If the last LV 4 or lower 'Lightsworn' monster remaining in your Deck is sent to the GY when you activate 'Charge of the Light Brigade', when it resolves, briefly show your Deck to your opponent to verify that no LV 4 or lower 'Lightsworn' monsters remain in your Deck.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Sending 3 cards from the top of your Deck to the GY is a cost.\\n2. If the last Level 4 or lower \"Lightsworn\" monster remaining in your Deck is sent to the GY when you activate \"Charge of the Light Brigade\", when it resolves, briefly show your Deck to your opponent to verify that no Level 4 or lower \"Lightsworn\" monsters remain in your Deck."
+  },
+  "PSCT": {
+    "Tengu": "① Send the top 3 cards of your Deck to the GY; \nadd 1 Level 4 or lower \"Lightsworn\" monster from your Deck to your hand.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

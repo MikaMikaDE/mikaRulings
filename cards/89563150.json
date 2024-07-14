@@ -1,0 +1,40 @@
+{
+  "id": 89563150,
+  "name": "Shining Silver Force",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can chain “Shining Silver Force” to a Trap Card your opponent activates that inflicts damage to themselves.\n●If a Trap Card that normally gives Life Points has been changed to a damage card by “Bad Reaction to Simochi”, you can activate “Shining Silver Force”.\n●You cannot chain “Shining Silver Force” to a card if you’re not sure it will inflict damage or not (like “The Paths of Destiny).\n●You cannot chain “Shining Silver Force” to the activation of a card that does not inflict damage upon activation but will inflict damage in the future (like “Skull Invitation”).\n●You cannot chain “Shining Silver Force” to a card that shifts battle damage, like “Dimension Wall”.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can chain \"Shining Silver Force\" to a Trap Card your opponent activates that inflicts damage to themselves.\\n2. If a Trap Card that normally gives Life Points has been changed to a damage card by \"Bad Reaction to Simochi\", you can activate \"Shining Silver Force\".\\n3. You cannot chain \"Shining Silver Force\" to a card if you're not sure it will inflict damage or not (like \"The Paths of Destiny\").\\n4. You cannot chain \"Shining Silver Force\" to the activation of a card that does not inflict damage upon activation but will inflict damage in the future (like \"Skull Invitation\").\\n5. You cannot chain \"Shining Silver Force\" to a card that shifts battle damage, like \"Dimension Wall\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

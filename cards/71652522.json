@@ -1,0 +1,40 @@
+{
+  "id": 71652522,
+  "name": "Battle Teleportation",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●This effect targets your face-up Psychic-Type monster.\n●You can activate “Battle Teleportation” even if your opponent has no open Monster Card Zones. If you do, the Psychic-Type monster is unable to move to your opponent’s side of the field and is destroyed.\n●You cannot activate “Battle Teleportation” if you cannot enter your Battle Phase.\n●You can activate “Battle Teleportation” if your opponent has “Swords of Revealing Light” face-up on the field because “Swords of Revealing Light” only prevents you from declaring an attack.\n●This card can target a monster that has already attacked.\n●You can activate “Battle Teleportation” any time between your Draw Phase and the end of the Battle Phase.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect targets your face-up Psychic-Type monster.\\n2. You can activate \"Battle Teleportation\" even if your opponent has no open Monster Card Zones. If you do, the Psychic-Type monster is unable to move to your opponent's side of the field and is destroyed.\\n3. You cannot activate \"Battle Teleportation\" if you cannot enter your Battle Phase.\\n4. You can activate \"Battle Teleportation\" if your opponent has \"Swords of Revealing Light\" face-up on the field because \"Swords of Revealing Light\" only prevents you from declaring an attack.\\n5. This card can target a monster that has already attacked.\\n6. You can activate \"Battle Teleportation\" any time between your Draw Phase and the end of the Battle Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 66607691,
+  "name": "Photon Generator Unit",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Quick-Play"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Photon Generator Unit” does not select a target.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● “Photon Generator Unit” does not select a target.",
+    "TeleDAD": "● “Photon Generator Unit” does not select a target.",
+    "Gladiator": "● “Photon Generator Unit” does not select a target.",
+    "ReturnDAD": "● “Photon Generator Unit” does not select a target.",
+    "Trooper": "● “Photon Generator Unit” does not select a target.",
+    "Circle": "● “Photon Generator Unit” does not select a target.",
+    "Stein": "● “Photon Generator Unit” does not select a target.",
+    "Base": "1. \"Photon Generator Unit\" does not select a target."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

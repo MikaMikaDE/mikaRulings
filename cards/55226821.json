@@ -1,0 +1,40 @@
+{
+  "id": 55226821,
+  "name": "Lightning Blade",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●If the equipped monster’s Type is changed into something besides Warrior-Type by DNA Surgery or Scroll of Bewitchment, Lightning Blade will be destroyed.\n●If two copies of this card are equipped to a single monster, that monster’s ATK will increase by 1600 points, and the ATK of all WATER monsters will decrease by 1000 points.",
+    "Goat": "●If the equipped monster’s Type is changed into something besides Warrior by DNA Surgery or Scroll of Bewitchment, Lightning Blade will be destroyed.\n●If two copies of this card are equipped to a single monster, that monster’s ATK will increase by 1600 points, and the ATK of all WATER monsters will decrease by 1000 points.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If the equipped monster’s Type is changed into something besides Warrior-Type by 'DNA Surgery' or 'Scroll of Bewitchment', 'Lightning Blade' will be destroyed.\n● If two copies of this card are equipped to a single monster, that monster’s ATK will increase by 1600 points, and the ATK of all WATER monsters will decrease by 1000 points.",
+    "TeleDAD": "● If the equipped monster’s Type is changed into something besides Warrior-Type by 'DNA Surgery' or 'Scroll of Bewitchment', 'Lightning Blade' will be destroyed.\n● If two copies of this card are equipped to a single monster, that monster’s ATK will increase by 1600 points, and the ATK of all WATER monsters will decrease by 1000 points.",
+    "Gladiator": "● If the equipped monster’s Type is changed into something besides Warrior-Type by 'DNA Surgery' or 'Scroll of Bewitchment', 'Lightning Blade' will be destroyed.\n● If two copies of this card are equipped to a single monster, that monster’s ATK will increase by 1600 points, and the ATK of all WATER monsters will decrease by 1000 points.",
+    "ReturnDAD": "● If the equipped monster’s Type is changed into something besides Warrior-Type by 'DNA Surgery' or 'Scroll of Bewitchment', 'Lightning Blade' will be destroyed.\n● If two copies of this card are equipped to a single monster, that monster’s ATK will increase by 1600 points, and the ATK of all WATER monsters will decrease by 1000 points.",
+    "Trooper": "● If the equipped monster’s Type is changed into something besides Warrior-Type by 'DNA Surgery' or 'Scroll of Bewitchment', 'Lightning Blade' will be destroyed.\n● If two copies of this card are equipped to a single monster, that monster’s ATK will increase by 1600 points, and the ATK of all WATER monsters will decrease by 1000 points.",
+    "Circle": "● If the equipped monster’s Type is changed into something besides Warrior-Type by 'DNA Surgery' or 'Scroll of Bewitchment', 'Lightning Blade' will be destroyed.\n● If two copies of this card are equipped to a single monster, that monster’s ATK will increase by 1600 points, and the ATK of all WATER monsters will decrease by 1000 points.",
+    "Stein": "● If the equipped monster’s Type is changed into something besides Warrior-Type by 'DNA Surgery' or 'Scroll of Bewitchment', 'Lightning Blade' will be destroyed.\n● If two copies of this card are equipped to a single monster, that monster’s ATK will increase by 1600 points, and the ATK of all WATER monsters will decrease by 1000 points.",
+    "Base": "1. If the equipped monster's Type is changed into something besides Warrior-Type by \"DNA Surgery\" or \"Scroll of Bewitchment\", \"Lightning Blade\" will be destroyed.\\n2. If two copies of this card are equipped to a single monster, that monster's ATK will increase by 1600 points, and the ATK of all WATER monsters will decrease by 1000 points."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

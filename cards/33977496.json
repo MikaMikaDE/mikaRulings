@@ -1,0 +1,44 @@
+{
+  "id": 33977496,
+  "name": "Thousand Needles",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 1800,
+    "level": 4,
+    "race": "Beast",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●When the DEF of Thousand Needles and the ATK of the attacking monster are the same, the attacking monster is not destroyed by Thousand Needles' effect.\n●If the attacking monster is destroyed, it is destroyed by Thousand Needles' effect, and it is sent to the GY during the send monsters to the GY portion of the Damage Step, at the same time a monster would normally be sent to the GY because of damage calculation.",
+    "Goat": "●When the DEF of Thousand Needles and the ATK of the attacking monster are the same, the attacking monster is not destroyed by Thousand Needles' effect.\n●If the attacking monster is destroyed, it is destroyed by Thousand Needles' effect, and it is sent to the GY during the send monsters to the GY portion of the Damage Step, at the same time a monster would normally be sent to the GY because of damage calculation.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● When the DEF of 'Thousand Needles' and the ATK of the attacking monster are the same, the attacking monster isn't destroyed by 'Thousand Needles'' effect.\n● If the attacking monster is destroyed, it is destroyed by 'Thousand Needles'' effect, and it is sent to the GY during the 'send monsters to the GY' portion of the Damage Step, at the same time a monster would normally be sent to the GY because of damage calculation.",
+    "TeleDAD": "● When the DEF of 'Thousand Needles' and the ATK of the attacking monster are the same, the attacking monster isn't destroyed by 'Thousand Needles'' effect.\n● If the attacking monster is destroyed, it is destroyed by 'Thousand Needles'' effect, and it is sent to the GY during the 'send monsters to the GY' portion of the Damage Step, at the same time a monster would normally be sent to the GY because of damage calculation.",
+    "Gladiator": "● When the DEF of 'Thousand Needles' and the ATK of the attacking monster are the same, the attacking monster isn't destroyed by 'Thousand Needles'' effect.\n● If the attacking monster is destroyed, it is destroyed by 'Thousand Needles'' effect, and it is sent to the GY during the 'send monsters to the GY' portion of the Damage Step, at the same time a monster would normally be sent to the GY because of damage calculation.",
+    "ReturnDAD": "● When the DEF of 'Thousand Needles' and the ATK of the attacking monster are the same, the attacking monster isn't destroyed by 'Thousand Needles'' effect.\n● If the attacking monster is destroyed, it is destroyed by 'Thousand Needles'' effect, and it is sent to the GY during the 'send monsters to the GY' portion of the Damage Step, at the same time a monster would normally be sent to the GY because of damage calculation.",
+    "Trooper": "● When the DEF of 'Thousand Needles' and the ATK of the attacking monster are the same, the attacking monster isn't destroyed by 'Thousand Needles'' effect.\n● If the attacking monster is destroyed, it is destroyed by 'Thousand Needles'' effect, and it is sent to the GY during the 'send monsters to the GY' portion of the Damage Step, at the same time a monster would normally be sent to the GY because of damage calculation.",
+    "Circle": "● When the DEF of 'Thousand Needles' and the ATK of the attacking monster are the same, the attacking monster isn't destroyed by 'Thousand Needles'' effect.\n● If the attacking monster is destroyed, it is destroyed by 'Thousand Needles'' effect, and it is sent to the GY during the 'send monsters to the GY' portion of the Damage Step, at the same time a monster would normally be sent to the GY because of damage calculation.",
+    "Stein": "● When the DEF of 'Thousand Needles' and the ATK of the attacking monster are the same, the attacking monster isn't destroyed by 'Thousand Needles'' effect.\n● If the attacking monster is destroyed, it is destroyed by 'Thousand Needles'' effect, and it is sent to the GY during the 'send monsters to the GY' portion of the Damage Step, at the same time a monster would normally be sent to the GY because of damage calculation.",
+    "Base": "1. When the DEF of \"Thousand Needles\" and the ATK of the attacking monster are the same, the attacking monster is not destroyed by the effect of \"Thousand Needles\".\\n2. If the attacking monster is destroyed, it is destroyed by the effect of \"Thousand Needles\", and it is sent to the GY during the 'send monsters to the GY' portion of the Damage Step, at the same time a monster would normally be sent to the GY because of damage calculation."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

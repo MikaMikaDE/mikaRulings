@@ -1,0 +1,40 @@
+{
+  "id": 72204747,
+  "name": "Over Destiny",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If the monster targeted by Over Destiny is removed from your GY by an effect on the chain, you cannot Special Summon a monster.\n●If the Level of the monster targeted by Over Destiny is odd, round down.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If the monster targeted by 'Over Destiny' is removed from your GY by an effect on the chain, you can't Special Summon a monster.\n● If the LV of the monster targeted by 'Over Destiny' is odd, round down.",
+    "TeleDAD": "● If the monster targeted by 'Over Destiny' is removed from your GY by an effect on the chain, you can't Special Summon a monster.\n● If the LV of the monster targeted by 'Over Destiny' is odd, round down.",
+    "Gladiator": "● If the monster targeted by 'Over Destiny' is removed from your GY by an effect on the chain, you can't Special Summon a monster.\n● If the LV of the monster targeted by 'Over Destiny' is odd, round down.",
+    "ReturnDAD": "● If the monster targeted by 'Over Destiny' is removed from your GY by an effect on the chain, you can't Special Summon a monster.\n● If the LV of the monster targeted by 'Over Destiny' is odd, round down.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● If the monster targeted by 'Over Destiny' is removed from your GY by an effect on the chain, you can't Special Summon a monster.\n● If the LV of the monster targeted by 'Over Destiny' is odd, round down.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If the monster targeted by \"Over Destiny\" is removed from your GY by an effect on the chain, you cannot Special Summon a monster.\\n2. If the Level of the monster targeted by \"Over Destiny\" is odd, round down."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

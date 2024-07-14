@@ -1,0 +1,44 @@
+{
+  "id": 69750546,
+  "name": "Volcanic Scattershot",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 0,
+    "level": 2,
+    "race": "Pyro",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "● If this card is sent to the GY to pay the cost of \"Blaze Accelerator\"'s effect, its effect to inflict 500 damage doesn't activate (Yes, this is really weird).",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If this card is sent to the GY for the effect of a “Blaze Accelerator” card, its effect to inflict 500 damage to your opponent does not activate.\n● The effect “inflict 500 damage to your opponent.“ of other “Volcanic Scattershot” cards sent to the GY as a cost to activate the effect of this card will activate. Their effects will go on a new Chain after the resolution of “Blaze Accelerator” or “Tri-Blaze Accelerator.”\n● You can send 1 “Volcanic Scattershot” from your hand and 1 from your Deck, or 2 from either your hand or Deck to the GY to pay the cost of this card’s effect.",
+    "TeleDAD": "● If this card is sent to the GY for the effect of a “Blaze Accelerator” card, its effect to inflict 500 damage to your opponent does not activate.\n● The effect “inflict 500 damage to your opponent.“ of other “Volcanic Scattershot” cards sent to the GY as a cost to activate the effect of this card will activate. Their effects will go on a new Chain after the resolution of “Blaze Accelerator” or “Tri-Blaze Accelerator.”\n● You can send 1 “Volcanic Scattershot” from your hand and 1 from your Deck, or 2 from either your hand or Deck to the GY to pay the cost of this card’s effect.",
+    "Gladiator": "● If this card is sent to the GY for the effect of a “Blaze Accelerator” card, its effect to inflict 500 damage to your opponent does not activate.\n● The effect “inflict 500 damage to your opponent.“ of other “Volcanic Scattershot” cards sent to the GY as a cost to activate the effect of this card will activate. Their effects will go on a new Chain after the resolution of “Blaze Accelerator” or “Tri-Blaze Accelerator.”\n● You can send 1 “Volcanic Scattershot” from your hand and 1 from your Deck, or 2 from either your hand or Deck to the GY to pay the cost of this card’s effect.",
+    "ReturnDAD": "● If this card is sent to the GY for the effect of a “Blaze Accelerator” card, its effect to inflict 500 damage to your opponent does not activate.\n● The effect “inflict 500 damage to your opponent.“ of other “Volcanic Scattershot” cards sent to the GY as a cost to activate the effect of this card will activate. Their effects will go on a new Chain after the resolution of “Blaze Accelerator” or “Tri-Blaze Accelerator.”\n● You can send 1 “Volcanic Scattershot” from your hand and 1 from your Deck, or 2 from either your hand or Deck to the GY to pay the cost of this card’s effect.",
+    "Trooper": "● If this card is sent to the GY for the effect of a “Blaze Accelerator” card, its effect to inflict 500 damage to your opponent does not activate.\n● The effect “inflict 500 damage to your opponent.“ of other “Volcanic Scattershot” cards sent to the GY as a cost to activate the effect of this card will activate. Their effects will go on a new Chain after the resolution of “Blaze Accelerator” or “Tri-Blaze Accelerator.”\n● You can send 1 “Volcanic Scattershot” from your hand and 1 from your Deck, or 2 from either your hand or Deck to the GY to pay the cost of this card’s effect.",
+    "Circle": "● If this card is sent to the GY for the effect of a “Blaze Accelerator” card, its effect to inflict 500 damage to your opponent does not activate.\n● The effect “inflict 500 damage to your opponent.“ of other “Volcanic Scattershot” cards sent to the GY as a cost to activate the effect of this card will activate. Their effects will go on a new Chain after the resolution of “Blaze Accelerator” or “Tri-Blaze Accelerator.”\n● You can send 1 “Volcanic Scattershot” from your hand and 1 from your Deck, or 2 from either your hand or Deck to the GY to pay the cost of this card’s effect.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If this card is sent to the GY for the effect of a \"Blaze Accelerator\" card, its effect to inflict 500 damage to your opponent does not activate.\\n2. The effect 'inflict 500 damage to your opponent' of other \"Volcanic Scattershot\" cards sent to the GY as a cost to activate the effect of this card will activate. Their effects will go on a new Chain after the resolution of \"Blaze Accelerator\" or \"Tri-Blaze Accelerator\".\\n3. You can send 1 \"Volcanic Scattershot\" from your hand and 1 from your Deck, or 2 from either your hand or Deck to the GY to pay the cost of this card's effect."
+  },
+  "PSCT": {
+    "Tengu": "① If this card is sent to the GY: Inflict 500 damage to your opponent. \n② If this card is sent to the GY by the effect of a \"Blaze Accelerator\" card: \nYou can send 2 \"Volcanic Scattershot\" from your hand and/or Deck to the GY; \ndestroy all monsters your opponent controls.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

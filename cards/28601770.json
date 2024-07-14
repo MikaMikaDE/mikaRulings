@@ -1,0 +1,44 @@
+{
+  "id": 28601770,
+  "name": "Mist Archfiend",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 0,
+    "level": 5,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Mist Archfiend is not in play in the End Phase, or when its effect resolves, its controller will not take 1000 damage.\n●If this card is turned face-down by Book of Moon, etc. Chained to its effect, it will still be destroyed and its controller will take 1000 damage.\n●The effect of Pandemonium can be activated when Mist Archfiend is destroyed by its own effect.\n●If Mist Archfiend is Normal Summoned without Tribute, and control of it shifts to the opponent, its current controller will take the damage when its effect resolves during the End Phase.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Mist Archfiend' isn't in play in the End Phase, or when its effect resolves, its controller will not take 1000 damage.\n● If this card is turned face-down by 'Book of Moon', etc. Chained to its effect, it will still be destroyed and its controller will take 1000 damage.\n● The effect of 'Pandemonium' can be activated when 'Mist Archfiend' is destroyed by its own effect.\n● If 'Mist Archfiend' is Normal Summoned without Tribute, and control of it shifts to the opponent, its current controller will take the damage when its effect resolves during the End Phase.",
+    "TeleDAD": "● If 'Mist Archfiend' isn't in play in the End Phase, or when its effect resolves, its controller will not take 1000 damage.\n● If this card is turned face-down by 'Book of Moon', etc. Chained to its effect, it will still be destroyed and its controller will take 1000 damage.\n● The effect of 'Pandemonium' can be activated when 'Mist Archfiend' is destroyed by its own effect.\n● If 'Mist Archfiend' is Normal Summoned without Tribute, and control of it shifts to the opponent, its current controller will take the damage when its effect resolves during the End Phase.",
+    "Gladiator": "● If 'Mist Archfiend' isn't in play in the End Phase, or when its effect resolves, its controller will not take 1000 damage.\n● If this card is turned face-down by 'Book of Moon', etc. Chained to its effect, it will still be destroyed and its controller will take 1000 damage.\n● The effect of 'Pandemonium' can be activated when 'Mist Archfiend' is destroyed by its own effect.\n● If 'Mist Archfiend' is Normal Summoned without Tribute, and control of it shifts to the opponent, its current controller will take the damage when its effect resolves during the End Phase.",
+    "ReturnDAD": "● If 'Mist Archfiend' isn't in play in the End Phase, or when its effect resolves, its controller will not take 1000 damage.\n● If this card is turned face-down by 'Book of Moon', etc. Chained to its effect, it will still be destroyed and its controller will take 1000 damage.\n● The effect of 'Pandemonium' can be activated when 'Mist Archfiend' is destroyed by its own effect.\n● If 'Mist Archfiend' is Normal Summoned without Tribute, and control of it shifts to the opponent, its current controller will take the damage when its effect resolves during the End Phase.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● If 'Mist Archfiend' isn't in play in the End Phase, or when its effect resolves, its controller will not take 1000 damage.\n● If this card is turned face-down by 'Book of Moon', etc. Chained to its effect, it will still be destroyed and its controller will take 1000 damage.\n● The effect of 'Pandemonium' can be activated when 'Mist Archfiend' is destroyed by its own effect.\n● If 'Mist Archfiend' is Normal Summoned without Tribute, and control of it shifts to the opponent, its current controller will take the damage when its effect resolves during the End Phase.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Mist Archfiend\" is not in play in the End Phase, or when its effect resolves, its controller will not take 1000 damage.\\n2. If this card is turned face-down by \"Book of Moon\", etc. Chained to its effect, it will still be destroyed and its controller will take 1000 damage.\\n3. The effect of \"Pandemonium\" can be activated when \"Mist Archfiend\" is destroyed by its own effect.\\n4. If \"Mist Archfiend\" is Normal Summoned without Tribute, and control of it shifts to the opponent, its current controller will take the damage when its effect resolves during the End Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

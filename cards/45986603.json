@@ -1,0 +1,40 @@
+{
+  "id": 45986603,
+  "name": "Snatch Steal",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "\n●Your cannot select your opponent's face-down monster.\n●If you equip your opponent's monster with Snatch Steal, and later your opponent equips the same monster with Snatch Steal, your opponent gains control of the monster.\n●If you control your opponent's monster with Snatch Steal and your opponent takes control of it with Brain Control, the monster is returned to you during the End Phase.\n●If you control your opponent's monster with Snatch Steal and your opponent takes control of it with Brain Control, if Snatch Steal is removed from the field your opponent keeps the monster. It does not return to you during the End Phase.\n●If you control your opponent's monster with Snatch Steal and Giant Trunade returns Snatch Steal to its owner's hand, the equipped monster is returned to its owner.\n●If you control your opponent's monster with Snatch Steal and it is flipped face-down while you control it, the monster remains under your control and does not return to your opponent, even if it is flipped face-up.",
+    "Goat": "● If the stolen monster becomes Set, this card is destroyed, and the monster does not return to its owner.\n● If you Steal a monster that's already changed control, the most recent steal effect will apply.\n● If this card is resolving, but there are no empty Monster Zones for it to chance control to, the equipped monster is destroyed.\n● If the stolen monster is temporarily banished, when it returns, it'll return to the stolen player's field and then immediately change control back to its owner.\n● If this is equipped to \"Gearfried the Swordsmaster\", the new controller activates Gearfried's effect.\n● If you use \"Tailor of the Fickle\", you take control of the new monster, and the previously stolen monster returns to its owner's control.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Your can't select your opponent's face-down monster.\n● If you equip your opponent's monster with 'Snatch Steal', and later your opponent equips the same monster with 'Snatch Steal', your opponent gains control of the monster.\n● If you control your opponent's monster with 'Snatch Steal' and your opponent takes control of it with 'Brain Control', the monster is returned to you during the End Phase.\n● If you control your opponent's monster with 'Snatch Steal' and your opponent takes control of it with 'Brain Control', if 'Snatch Steal' leaves the field your opponent keeps the monster. It does not return to you during the End Phase.\n● If you control your opponent's monster with 'Snatch Steal' and 'Giant Trunade' returns 'Snatch Steal' to its owner's hand, the equipped monster is returned to its owner.\n● If you control your opponent's monster with 'Snatch Steal' and it is flipped face-down while you control it, the monster remains under your control and does not return to your opponent, even if it is flipped face-up.",
+    "TeleDAD": "● Your can't select your opponent's face-down monster.\n● If you equip your opponent's monster with 'Snatch Steal', and later your opponent equips the same monster with 'Snatch Steal', your opponent gains control of the monster.\n● If you control your opponent's monster with 'Snatch Steal' and your opponent takes control of it with 'Brain Control', the monster is returned to you during the End Phase.\n● If you control your opponent's monster with 'Snatch Steal' and your opponent takes control of it with 'Brain Control', if 'Snatch Steal' leaves the field your opponent keeps the monster. It does not return to you during the End Phase.\n● If you control your opponent's monster with 'Snatch Steal' and 'Giant Trunade' returns 'Snatch Steal' to its owner's hand, the equipped monster is returned to its owner.\n● If you control your opponent's monster with 'Snatch Steal' and it is flipped face-down while you control it, the monster remains under your control and does not return to your opponent, even if it is flipped face-up.",
+    "Gladiator": "● Your can't select your opponent's face-down monster.\n● If you equip your opponent's monster with 'Snatch Steal', and later your opponent equips the same monster with 'Snatch Steal', your opponent gains control of the monster.\n● If you control your opponent's monster with 'Snatch Steal' and your opponent takes control of it with 'Brain Control', the monster is returned to you during the End Phase.\n● If you control your opponent's monster with 'Snatch Steal' and your opponent takes control of it with 'Brain Control', if 'Snatch Steal' leaves the field your opponent keeps the monster. It does not return to you during the End Phase.\n● If you control your opponent's monster with 'Snatch Steal' and 'Giant Trunade' returns 'Snatch Steal' to its owner's hand, the equipped monster is returned to its owner.\n● If you control your opponent's monster with 'Snatch Steal' and it is flipped face-down while you control it, the monster remains under your control and does not return to your opponent, even if it is flipped face-up.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Your cannot select your opponent's face-down monster.\\n2. If you equip your opponent's monster with \"Snatch Steal\", and later your opponent equips the same monster with \"Snatch Steal\", your opponent gains control of the monster.\\n3. If you control your opponent's monster with \"Snatch Steal\" and your opponent takes control of it with \"Brain Control\", the monster is returned to you during the End Phase.\\n4. If you control your opponent's monster with \"Snatch Steal\" and your opponent takes control of it with \"Brain Control\", if \"Snatch Steal\" is removed from the field your opponent keeps the monster. It does not return to you during the End Phase.\\n5. If you control your opponent's monster with \"Snatch Steal\" and \"Giant Trunade\" returns \"Snatch Steal\" to its owner's hand, the equipped monster is returned to its owner.\\n6. If you control your opponent's monster with \"Snatch Steal\" and it is flipped face-down while you control it, the monster remains under your control and does not return to your opponent, even if it is flipped face-up."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

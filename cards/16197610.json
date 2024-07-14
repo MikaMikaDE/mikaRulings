@@ -1,0 +1,44 @@
+{
+  "id": 16197610,
+  "name": "Cloudian - Turbulence",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 0,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●If “Cloudian – Turbulence” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.\n●You cannot activate the effect of “Cloudian – Turbulence” that Special Summons “Cloudian – Smoke Ball” if “Cloudian – Smoke Ball” is not in your Deck or in either player’s GY.\n●If you activate “Cloudian – Turbulence’s” effect and an effect is chained that removes all 3 copies of “Cloudian – Smoke Ball” from play, you do not have to show your Deck to your opponent to verify because all 3 copies of “Cloudian – Smoke Ball” are accounted for.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “Cloudian – Turbulence” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.\n● You can't activate the effect of “Cloudian – Turbulence” that Special Summons “Cloudian – Smoke Ball” if “Cloudian – Smoke Ball” isn't in your Deck or in either player’s GY.\n● If you activate “Cloudian – Turbulence’s” effect and an effect is chained that removes all 3 copies of “Cloudian – Smoke Ball” from play, you do not have to show your Deck to your opponent to verify because all 3 copies of “Cloudian – Smoke Ball” are accounted for.",
+    "TeleDAD": "● If “Cloudian – Turbulence” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.\n● You can't activate the effect of “Cloudian – Turbulence” that Special Summons “Cloudian – Smoke Ball” if “Cloudian – Smoke Ball” isn't in your Deck or in either player’s GY.\n● If you activate “Cloudian – Turbulence’s” effect and an effect is chained that removes all 3 copies of “Cloudian – Smoke Ball” from play, you do not have to show your Deck to your opponent to verify because all 3 copies of “Cloudian – Smoke Ball” are accounted for.",
+    "Gladiator": "● If “Cloudian – Turbulence” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.\n● You can't activate the effect of “Cloudian – Turbulence” that Special Summons “Cloudian – Smoke Ball” if “Cloudian – Smoke Ball” isn't in your Deck or in either player’s GY.\n● If you activate “Cloudian – Turbulence’s” effect and an effect is chained that removes all 3 copies of “Cloudian – Smoke Ball” from play, you do not have to show your Deck to your opponent to verify because all 3 copies of “Cloudian – Smoke Ball” are accounted for.",
+    "ReturnDAD": "● If “Cloudian – Turbulence” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.\n● You can't activate the effect of “Cloudian – Turbulence” that Special Summons “Cloudian – Smoke Ball” if “Cloudian – Smoke Ball” isn't in your Deck or in either player’s GY.\n● If you activate “Cloudian – Turbulence’s” effect and an effect is chained that removes all 3 copies of “Cloudian – Smoke Ball” from play, you do not have to show your Deck to your opponent to verify because all 3 copies of “Cloudian – Smoke Ball” are accounted for.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● If “Cloudian – Turbulence” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.\n● You can't activate the effect of “Cloudian – Turbulence” that Special Summons “Cloudian – Smoke Ball” if “Cloudian – Smoke Ball” isn't in your Deck or in either player’s GY.\n● If you activate “Cloudian – Turbulence’s” effect and an effect is chained that removes all 3 copies of “Cloudian – Smoke Ball” from play, you do not have to show your Deck to your opponent to verify because all 3 copies of “Cloudian – Smoke Ball” are accounted for.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Cloudian - Turbulence\" is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.\\n2. You cannot activate the effect of \"Cloudian - Turbulence\" that Special Summons \"Cloudian - Smoke Ball\" if \"Cloudian - Smoke Ball\" is not in your Deck or in either player's GY.\\n3. If you activate the effect of \"Cloudian - Turbulence\" and an effect is chained that removes all 3 copies of \"Cloudian - Smoke Ball\" from play, you do not have to show your Deck to your opponent to verify because all 3 copies of \"Cloudian - Smoke Ball\" are accounted for."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

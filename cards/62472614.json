@@ -1,0 +1,40 @@
+{
+  "id": 62472614,
+  "name": "Pestilence",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect to inflict damage starts a Chain.\\n2. If \"Megamorph\" and \"Pestilence\" are equipped to the same monster, the one that was equipped most recently will be applied. If that card is later removed from the field, the first Equip Spell's effect will be applied.\\n3. If you use \"Shrink\" on a monster equipped with \"Pestilence\", the monster's ATK will be half of its original ATK while \"Shrink\" is being applied. It will return to 0 when \"Shrink\" is no longer applied.\\n4. If \"Pestilence\" is equipped to a monster that is already being affected by \"Shrink\", its ATK will be 0. If \"Pestilence\" is removed from the field before the effect of \"Shrink\" stops applying, the ATK will become half of its original ATK.\\n5. If \"Inverse Universe\" is applied to a monster equipped with \"Pestilence\", the ATK and DEF switch and the monster's DEF becomes 0. If \"Pestilence\" is equipped after \"Inverse Universe\" is applied, the monster's ATK will be 0.\\n6. If \"Pestilence\" is equipped to \"Command Knight\", its ATK will first become 0 and then become boosted to 400 by the effect of \"Command Knight\".\\n8. While equipped with \"Pestilence\", the ATK of \"Fortune Lady Light\" will be 0 regardless of its Level and any changes to its Level. If \"Pestilence\" is no longer equipped, the ATK and DEF of \"Fortune Lady Light\" will return to 200 x its Level."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 19059929,
+  "name": "Fire Formation - Gyokkou",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● Your opponent can chain a different card/effect to this activation, and then chain this card's target.",
+    "Vegas": "● Your opponent can chain a different card/effect to this activation, and then chain this card's target.",
+    "Meadowlands": "● Your opponent can chain a different card/effect to this activation, and then chain this card's target.",
+    "FireWater": "● Your opponent can chain a different card/effect to this activation, and then chain this card's target.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Activate this card by targeting 1 Set Spell/Trap your opponent controls;\n② Your opponent can't activate that target in response to this card's activation. \n③ While this card is face-up on the field, that Set card cannot be activated. \n④ All Beast-Warriors you control gain 100 ATK.",
+    "Meadowlands": "① Activate this card by targeting 1 Set Spell/Trap your opponent controls;\n② Your opponent can't activate that target in response to this card's activation. \n③ While this card is face-up on the field, that Set card cannot be activated. \n④ All Beast-Warriors you control gain 100 ATK.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

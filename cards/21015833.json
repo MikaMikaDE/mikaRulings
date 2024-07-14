@@ -1,0 +1,44 @@
+{
+  "id": 21015833,
+  "name": "Hayabusa Knight",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1000,
+    "def": 700,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Hayabusa Knight's first attack is negated with Magic Cylinder, it may still attack one more time.\n●If Kuriboh's effect is activated during Hayabusa Knight's first attack, when it attacks again Kuriboh's effect is not applied.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Hayabusa Knight's' first attack is negated with 'Magic Cylinder', it may still attack one more time.\n● If 'Kuriboh's' effect is activated during 'Hayabusa Knight's' first attack, when it attacks again 'Kuriboh's' effect isn't applied.",
+    "TeleDAD": "● If 'Hayabusa Knight's' first attack is negated with 'Magic Cylinder', it may still attack one more time.\n● If 'Kuriboh's' effect is activated during 'Hayabusa Knight's' first attack, when it attacks again 'Kuriboh's' effect isn't applied.",
+    "Gladiator": "● If 'Hayabusa Knight's' first attack is negated with 'Magic Cylinder', it may still attack one more time.\n● If 'Kuriboh's' effect is activated during 'Hayabusa Knight's' first attack, when it attacks again 'Kuriboh's' effect isn't applied.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If the first attack of \"Hayabusa Knight\" is negated with \"Magic Cylinder\", it may still attack one more time.\\n2. If the effect of \"Kuriboh\" is activated during the first attack of \"Hayabusa Knight\", when it attacks again the effect of \"Kuriboh\" is not applied."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

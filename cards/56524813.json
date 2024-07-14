@@ -1,0 +1,44 @@
+{
+  "id": 56524813,
+  "name": "Raging Eria",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 800,
+    "def": 1500,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "WATER"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card’s effect is an Ignition Effect.\n●Tributing a monster is a cost. You cannot Tribute a monster if you do not have a monster with the appropriate Attribute in your hand to Special Summon.\n●If this card is flipped face-down, any monsters Special Summoned by her effect will not be destroyed. If this card is destroyed while she is face-down, any monsters Special Summoned by her effect will not be destroyed.\n●If a monster Special Summoned by this card’s effect is flipped face-down, it will not be destroyed when this card is destroyed.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s effect is an Ignition Effect. \n● Tributing a monster is a cost. You can't Tribute a monster if you do not have a monster with the appropriate Attribute in your hand to Special Summon.\n● If this card is flipped face-down, any monsters Special Summoned by her effect will not be destroyed. If this card is destroyed while she is face-down, any monsters Special Summoned by her effect will not be destroyed.\n● If a monster Special Summoned by this card’s effect is flipped face-down, it will not be destroyed when this card is destroyed.",
+    "TeleDAD": "● This card’s effect is an Ignition Effect. \n● Tributing a monster is a cost. You can't Tribute a monster if you do not have a monster with the appropriate Attribute in your hand to Special Summon.\n● If this card is flipped face-down, any monsters Special Summoned by her effect will not be destroyed. If this card is destroyed while she is face-down, any monsters Special Summoned by her effect will not be destroyed.\n● If a monster Special Summoned by this card’s effect is flipped face-down, it will not be destroyed when this card is destroyed.",
+    "Gladiator": "● This card’s effect is an Ignition Effect. \n● Tributing a monster is a cost. You can't Tribute a monster if you do not have a monster with the appropriate Attribute in your hand to Special Summon.\n● If this card is flipped face-down, any monsters Special Summoned by her effect will not be destroyed. If this card is destroyed while she is face-down, any monsters Special Summoned by her effect will not be destroyed.\n● If a monster Special Summoned by this card’s effect is flipped face-down, it will not be destroyed when this card is destroyed.",
+    "ReturnDAD": "● This card’s effect is an Ignition Effect. \n● Tributing a monster is a cost. You can't Tribute a monster if you do not have a monster with the appropriate Attribute in your hand to Special Summon.\n● If this card is flipped face-down, any monsters Special Summoned by her effect will not be destroyed. If this card is destroyed while she is face-down, any monsters Special Summoned by her effect will not be destroyed.\n● If a monster Special Summoned by this card’s effect is flipped face-down, it will not be destroyed when this card is destroyed.",
+    "Trooper": "● This card’s effect is an Ignition Effect. \n● Tributing a monster is a cost. You can't Tribute a monster if you do not have a monster with the appropriate Attribute in your hand to Special Summon.\n● If this card is flipped face-down, any monsters Special Summoned by her effect will not be destroyed. If this card is destroyed while she is face-down, any monsters Special Summoned by her effect will not be destroyed.\n● If a monster Special Summoned by this card’s effect is flipped face-down, it will not be destroyed when this card is destroyed.",
+    "Circle": "● This card’s effect is an Ignition Effect. \n● Tributing a monster is a cost. You can't Tribute a monster if you do not have a monster with the appropriate Attribute in your hand to Special Summon.\n● If this card is flipped face-down, any monsters Special Summoned by her effect will not be destroyed. If this card is destroyed while she is face-down, any monsters Special Summoned by her effect will not be destroyed.\n● If a monster Special Summoned by this card’s effect is flipped face-down, it will not be destroyed when this card is destroyed.",
+    "Stein": "● This card’s effect is an Ignition Effect. \n● Tributing a monster is a cost. You can't Tribute a monster if you do not have a monster with the appropriate Attribute in your hand to Special Summon.\n● If this card is flipped face-down, any monsters Special Summoned by her effect will not be destroyed. If this card is destroyed while she is face-down, any monsters Special Summoned by her effect will not be destroyed.\n● If a monster Special Summoned by this card’s effect is flipped face-down, it will not be destroyed when this card is destroyed.",
+    "Base": "1. This card's effect is an Ignition Effect.\\n2. Tributing a monster is a cost. You cannot Tribute a monster if you do not have a monster with the appropriate Attribute in your hand to Special Summon.\\n3. If this card is flipped face-down, any monsters Special Summoned by her effect will not be destroyed. If this card is destroyed while she is face-down, any monsters Special Summoned by her effect will not be destroyed.\\n4. If a monster Special Summoned by this card's effect is flipped face-down, it will not be destroyed when this card is destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

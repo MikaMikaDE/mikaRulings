@@ -1,0 +1,40 @@
+{
+  "id": 67829249,
+  "name": "Ancient Gear Drill",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Activate only while you control a face-up Ancient Gear monster. Discard 1 card from your hand. Select 1 Spell Card from your Deck and Set it. You cannot use that Spell Card this turn.\n●Discarding 1 card is a cost.\n●You must show your chosen card to your opponent to verify that it is a Spell Card.\n●You can select a Field Spell Card but you must Set it in your Field Card Zone.\n●“You cannot use that Spell Card this turn” means that you cannot activate it, and you cannot use it to pay a cost for Summoning “Anteatereatingant” or for the effect of a card like “Emergency Provisions” or “Elemental Hero Tempest”.\n●If you get a Spell Card with “Ancient Gear Drill” and then return it to your hand with “Giant Trunade”, restrictions no longer apply so you can use it as normal.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You must show your chosen card to your opponent to verify that it is a Spell Card.\n● You can select a Field Spell Card but you must Set it in your Field Card Zone.\n● “You can't use that Spell Card this turn” means that you can't activate it, and you can't use it to pay a cost for Summoning “Anteatereatingant” or for the effect of a card like “Emergency Provisions” or “Elemental Hero Tempest”.\n● If you get a Spell Card with “Ancient Gear Drill” and then return it to your hand with “Giant Trunade”, restrictions no longer apply so you can use it as normal.",
+    "TeleDAD": "● You must show your chosen card to your opponent to verify that it is a Spell Card.\n● You can select a Field Spell Card but you must Set it in your Field Card Zone.\n● “You can't use that Spell Card this turn” means that you can't activate it, and you can't use it to pay a cost for Summoning “Anteatereatingant” or for the effect of a card like “Emergency Provisions” or “Elemental Hero Tempest”.\n● If you get a Spell Card with “Ancient Gear Drill” and then return it to your hand with “Giant Trunade”, restrictions no longer apply so you can use it as normal.",
+    "Gladiator": "● You must show your chosen card to your opponent to verify that it is a Spell Card.\n● You can select a Field Spell Card but you must Set it in your Field Card Zone.\n● “You can't use that Spell Card this turn” means that you can't activate it, and you can't use it to pay a cost for Summoning “Anteatereatingant” or for the effect of a card like “Emergency Provisions” or “Elemental Hero Tempest”.\n● If you get a Spell Card with “Ancient Gear Drill” and then return it to your hand with “Giant Trunade”, restrictions no longer apply so you can use it as normal.",
+    "ReturnDAD": "● You must show your chosen card to your opponent to verify that it is a Spell Card.\n● You can select a Field Spell Card but you must Set it in your Field Card Zone.\n● “You can't use that Spell Card this turn” means that you can't activate it, and you can't use it to pay a cost for Summoning “Anteatereatingant” or for the effect of a card like “Emergency Provisions” or “Elemental Hero Tempest”.\n● If you get a Spell Card with “Ancient Gear Drill” and then return it to your hand with “Giant Trunade”, restrictions no longer apply so you can use it as normal.",
+    "Trooper": "● You must show your chosen card to your opponent to verify that it is a Spell Card.\n● You can select a Field Spell Card but you must Set it in your Field Card Zone.\n● “You can't use that Spell Card this turn” means that you can't activate it, and you can't use it to pay a cost for Summoning “Anteatereatingant” or for the effect of a card like “Emergency Provisions” or “Elemental Hero Tempest”.\n● If you get a Spell Card with “Ancient Gear Drill” and then return it to your hand with “Giant Trunade”, restrictions no longer apply so you can use it as normal.",
+    "Circle": "● You must show your chosen card to your opponent to verify that it is a Spell Card.\n● You can select a Field Spell Card but you must Set it in your Field Card Zone.\n● “You can't use that Spell Card this turn” means that you can't activate it, and you can't use it to pay a cost for Summoning “Anteatereatingant” or for the effect of a card like “Emergency Provisions” or “Elemental Hero Tempest”.\n● If you get a Spell Card with “Ancient Gear Drill” and then return it to your hand with “Giant Trunade”, restrictions no longer apply so you can use it as normal.",
+    "Stein": "● You must show your chosen card to your opponent to verify that it is a Spell Card.\n● You can select a Field Spell Card but you must Set it in your Field Card Zone.\n● “You can't use that Spell Card this turn” means that you can't activate it, and you can't use it to pay a cost for Summoning “Anteatereatingant” or for the effect of a card like “Emergency Provisions” or “Elemental Hero Tempest”.\n● If you get a Spell Card with “Ancient Gear Drill” and then return it to your hand with “Giant Trunade”, restrictions no longer apply so you can use it as normal.",
+    "Base": "1. You must show your chosen card to your opponent to verify that it is a Spell Card.\\n2. You can select a Field Spell Card but you must Set it in your Field Card Zone.\\n3. \"You cannot use that Spell Card this turn\" means that you cannot activate it, and you cannot use it to pay a cost for Summoning \"Anteatereatingant\" or for the effect of a card like \"Emergency Provisions\" or \"Elemental HERO Tempest\".\\n4. If you get a Spell Card with \"Ancient Gear Drill\" and then return it to your hand with \"Giant Trunade\", restrictions no longer apply so you can use it as normal."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 61757117,
+  "name": "Divine Grace - Northwemko",
+  "Stats": {
+    "type": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "atk": 2700,
+    "def": 1200,
+    "level": 7,
+    "race": "Spellcaster",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●This effect targets. If “Divine Grace – Northwemko” and one of the cards targeted by its effect are destroyed at the same time, “Divine Grace – Northwemko” will not be destroyed. If there are fewer other face-up cards on the field than monsters Tributed for the Ritual Summon of this card, all other face-up cards are targeted. Tokens used for the Ritual Summon of this card count towards its effect. “Divine Grace – Northwemko” continuously targets the selected cards.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect targets.\\n2. If \"Divine Grace - Northwemko\" and one of the cards targeted by its effect are destroyed at the same time, \"Divine Grace - Northwemko\" will not be destroyed.\\n3. If there are fewer other face-up cards on the field than monsters Tributed for the Ritual Summon of this card, all other face-up cards are targeted.\\n4. Tokens used for the Ritual Summon of this card count towards its effect.\\n5. \"Divine Grace - Northwemko\" continuously targets the selected cards."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

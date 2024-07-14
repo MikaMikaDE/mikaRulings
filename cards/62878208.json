@@ -1,0 +1,40 @@
+{
+  "id": 62878208,
+  "name": "Equip Shot",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●Equip Shot cannot be activated during the Damage Step or End Step.\n●The Attack Position monster selected by Equip Shot must be a legal target for the selected Equip Card. If no legal targets exist, Equip Shot cannot be activated.\n●The selected Equip Card remains under your control when it is equipped to your opponent's monster.\n●You can select a monster that has already attacked. If you select a monster that has not attacked it may conduct its regular attack after the battle caused by Equip Shot.\n●If your opponent attacks with one monster (monster A) and you activate Equip Shot, selecting another of their monsters (monster B), the original attacking monster (monster A) cannot attack after the battle caused by Equip Shot, but the monster selected by Equip Shot (monster B) may attack after the battle created by Equip Shot.\n●When Equip Shot resolves, the battle caused by Equip Shot proceeds directly to the Damage Step.\n●If you activate Equip Shot during your Battle Phase, your monster is the attacker. If you activate it during your opponent's Battle Phase, your opponent's monster is the attacker.\n●If an effect is chained that switches the monster that would be the attacker into Defense Position, the selected Equip Card is still transferred but the battle is not conducted, unless the monster can attack while in Defense Position like Total Defense Shogun.\n●If one of the monsters affected by Equip Shot cannot attack, the Equip Card is still transferred.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Equip Shot' can't be activated during the Damage Step or End Step.\n● The Attack Position monster selected by 'Equip Shot' must be a legal target for the selected Equip Card. If no legal targets exist, 'Equip Shot' can't be activated.\n● The selected Equip Card remains under your control when it is equipped to your opponent's monster.\n● You can select a monster that has already attacked. If you select a monster that has not attacked it may conduct its regular attack after the battle caused by 'Equip Shot'.\n● If your opponent attacks with one monster (monster A) and you activate 'Equip Shot', selecting another of their monsters (monster B), the original attacking monster (monster A) can't attack after the battle caused by 'Equip Shot', but the monster selected by 'Equip Shot' (monster B) may attack after the battle created by 'Equip Shot'.\n● When 'Equip Shot' resolves, the battle caused by 'Equip Shot' proceeds directly to the Damage Step.\n● If you activate 'Equip Shot' during your Battle Phase, your monster is the attacker. If you activate it during your opponent's Battle Phase, your opponent's monster is the attacker.\n● If an effect is chained that switches the monster that would be the attacker into Defense Position, the selected Equip Card is still transferred but the battle isn't conducted, unless the monster can attack while in Defense Position like 'Total Defense Shogun'.\n● If one of the monsters affected by 'Equip Shot' can't attack, the Equip Card is still transferred.",
+    "TeleDAD": "● 'Equip Shot' can't be activated during the Damage Step or End Step.\n● The Attack Position monster selected by 'Equip Shot' must be a legal target for the selected Equip Card. If no legal targets exist, 'Equip Shot' can't be activated.\n● The selected Equip Card remains under your control when it is equipped to your opponent's monster.\n● You can select a monster that has already attacked. If you select a monster that has not attacked it may conduct its regular attack after the battle caused by 'Equip Shot'.\n● If your opponent attacks with one monster (monster A) and you activate 'Equip Shot', selecting another of their monsters (monster B), the original attacking monster (monster A) can't attack after the battle caused by 'Equip Shot', but the monster selected by 'Equip Shot' (monster B) may attack after the battle created by 'Equip Shot'.\n● When 'Equip Shot' resolves, the battle caused by 'Equip Shot' proceeds directly to the Damage Step.\n● If you activate 'Equip Shot' during your Battle Phase, your monster is the attacker. If you activate it during your opponent's Battle Phase, your opponent's monster is the attacker.\n● If an effect is chained that switches the monster that would be the attacker into Defense Position, the selected Equip Card is still transferred but the battle isn't conducted, unless the monster can attack while in Defense Position like 'Total Defense Shogun'.\n● If one of the monsters affected by 'Equip Shot' can't attack, the Equip Card is still transferred.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Equip Shot\" cannot be activated during the Damage Step or End Step.\\n2. The Attack Position monster selected by \"Equip Shot\" must be a legal target for the selected Equip Card. If no legal targets exist, \"Equip Shot\" cannot be activated.\\n3. The selected Equip Card remains under your control when it is equipped to your opponent's monster.\\n4. You can select a monster that has already attacked. If you select a monster that has not attacked it may conduct its regular attack after the battle caused by \"Equip Shot\".\\n5. If your opponent attacks with one monster (monster A) and you activate \"Equip Shot\", selecting another of their monsters (monster B), the original attacking monster (monster A) cannot attack after the battle caused by \"Equip Shot\", but the monster selected by \"Equip Shot\" (monster B) may attack after the battle created by \"Equip Shot\".\\n6. When \"Equip Shot\" resolves, the battle caused by \"Equip Shot\" proceeds directly to the Damage Step.\\n7. If you activate \"Equip Shot\" during your Battle Phase, your monster is the attacker. If you activate it during your opponent's Battle Phase, your opponent's monster is the attacker.\\n8. If an effect is chained that switches the monster that would be the attacker into Defense Position, the selected Equip Card is still transferred but the battle is not conducted, unless the monster can attack while in Defense Position like \"Total Defense Shogun\".\\n9. If one of the monsters affected by \"Equip Shot\" cannot attack, the Equip Card is still transferred."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 4732017,
+  "name": "Molten Zombie",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1600,
+    "def": 400,
+    "level": 4,
+    "race": "Pyro",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you Special Summon Molten Zombie face-down with The Shallow Grave, etc., its effect does not activate.\n●When you Special Summon Molten Zombie and you have Card of Safe Return, either effect can be Step 1 of the chain; your choice.",
+    "Goat": "●If you Special Summon Molten Zombie face-down with The Shallow Grave, etc., its effect does not activate.\n●When you Special Summon Molten Zombie and you have Card of Safe Return, either effect can be Step 1 of the chain; your choice.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you Special Summon 'Molten Zombie' face-down with 'The Shallow Grave', etc., its effect does not activate.\n● When you Special Summon 'Molten Zombie' and you have 'Card of Safe Return', either effect can be Step 1 of the chain; your choice.",
+    "TeleDAD": "● If you Special Summon 'Molten Zombie' face-down with 'The Shallow Grave', etc., its effect does not activate.\n● When you Special Summon 'Molten Zombie' and you have 'Card of Safe Return', either effect can be Step 1 of the chain; your choice.",
+    "Gladiator": "● If you Special Summon 'Molten Zombie' face-down with 'The Shallow Grave', etc., its effect does not activate.\n● When you Special Summon 'Molten Zombie' and you have 'Card of Safe Return', either effect can be Step 1 of the chain; your choice.",
+    "ReturnDAD": "● If you Special Summon 'Molten Zombie' face-down with 'The Shallow Grave', etc., its effect does not activate.\n● When you Special Summon 'Molten Zombie' and you have 'Card of Safe Return', either effect can be Step 1 of the chain; your choice.",
+    "Trooper": "● If you Special Summon 'Molten Zombie' face-down with 'The Shallow Grave', etc., its effect does not activate.\n● When you Special Summon 'Molten Zombie' and you have 'Card of Safe Return', either effect can be Step 1 of the chain; your choice.",
+    "Circle": "● If you Special Summon 'Molten Zombie' face-down with 'The Shallow Grave', etc., its effect does not activate.\n● When you Special Summon 'Molten Zombie' and you have 'Card of Safe Return', either effect can be Step 1 of the chain; your choice.",
+    "Stein": "● If you Special Summon 'Molten Zombie' face-down with 'The Shallow Grave', etc., its effect does not activate.\n● When you Special Summon 'Molten Zombie' and you have 'Card of Safe Return', either effect can be Step 1 of the chain; your choice.",
+    "Base": "1. If you Special Summon \"Molten Zombie\" face-down with \"The Shallow Grave\", etc., its effect does not activate.\\n2. When you Special Summon \"Molten Zombie\" and you have \"Card of Safe Return\", either effect can be Step 1 of the chain; your choice."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

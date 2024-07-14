@@ -1,0 +1,40 @@
+{
+  "id": 80033124,
+  "name": "Cyberdark Impact!",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can return a face-down Cyberdark monster to your Deck for the effect of this card, but you must show it to your opponent.\n●You can return a Cyberdark monster that is being treated as a Spell Card (by Relinquished, etc.) to your Deck with the effect of this card.\n●You cannot use Fusion substitute monster like Goddess with the Third Eye with this card.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can return a face-down 'Cyberdark' monster to your Deck for the effect of this card, but you must show it to your opponent.\n● You can return a 'Cyberdark' monster that is being treated as a Spell Card (by 'Relinquished', etc.) to your Deck with the effect of this card.\n● You can't use Fusion substitute monster like 'Goddess with the Third Eye' with this card.",
+    "TeleDAD": "● You can return a face-down 'Cyberdark' monster to your Deck for the effect of this card, but you must show it to your opponent.\n● You can return a 'Cyberdark' monster that is being treated as a Spell Card (by 'Relinquished', etc.) to your Deck with the effect of this card.\n● You can't use Fusion substitute monster like 'Goddess with the Third Eye' with this card.",
+    "Gladiator": "● You can return a face-down 'Cyberdark' monster to your Deck for the effect of this card, but you must show it to your opponent.\n● You can return a 'Cyberdark' monster that is being treated as a Spell Card (by 'Relinquished', etc.) to your Deck with the effect of this card.\n● You can't use Fusion substitute monster like 'Goddess with the Third Eye' with this card.",
+    "ReturnDAD": "● You can return a face-down 'Cyberdark' monster to your Deck for the effect of this card, but you must show it to your opponent.\n● You can return a 'Cyberdark' monster that is being treated as a Spell Card (by 'Relinquished', etc.) to your Deck with the effect of this card.\n● You can't use Fusion substitute monster like 'Goddess with the Third Eye' with this card.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● You can return a face-down 'Cyberdark' monster to your Deck for the effect of this card, but you must show it to your opponent.\n● You can return a 'Cyberdark' monster that is being treated as a Spell Card (by 'Relinquished', etc.) to your Deck with the effect of this card.\n● You can't use Fusion substitute monster like 'Goddess with the Third Eye' with this card.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can return a face-down \"Cyberdark\" monster to your Deck for the effect of this card, but you must show it to your opponent.\\n2. You can return a \"Cyberdark\" monster that is being treated as a Spell Card (by \"Relinquished\", etc.) to your Deck with the effect of this card.\\n3. You cannot use Fusion substitute monster like \"Goddess with the Third Eye\" with this card."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

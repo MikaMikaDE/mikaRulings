@@ -1,0 +1,40 @@
+{
+  "id": 90740329,
+  "name": "Taunt",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●If a monster selected by Taunt is moved to the turn player’s side of the field, the turn player can conduct attacks normally without worrying about the effect of Taunt, because without a card effect that allows it, a player cannot attack monsters on his own side of the field.\n●If multiple monsters are selected by multiple Taunts, the turn player selects 1 of the monsters selected by Taunt and can attack it.\n●If 1 monster is selected by Taunt and another is equipped with Ring of Magnetism, the turn player must attack the monster equipped with Ring of Magnetism if he attacks.",
+    "Goat": "●If a monster selected by Taunt is moved to the turn player’s side of the field, the turn player can conduct attacks normally without worrying about the effect of Taunt, because without a card effect that allows it, a player cannot attack monsters on his own side of the field.\n●If multiple monsters are selected by multiple Taunts, the turn player selects 1 of the monsters selected by Taunt and can attack it.\n●If 1 monster is selected by Taunt and another is equipped with Ring of Magnetism, the turn player must attack the monster equipped with Ring of Magnetism if he attacks.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If a monster selected by 'Taunt' is moved to the turn player’s side of the field, the turn player can conduct attacks normally without worrying about the effect of 'Taunt', because without a card effect that allows it, a player can't attack monsters on his own side of the field.\n● If multiple monsters are selected by multiple 'Taunts', the turn player selects 1 of the monsters selected by 'Taunt' and can attack it.\n● If 1 monster is selected by 'Taunt' and another is equipped with 'Ring of Magnetism', the turn player must attack the monster equipped with 'Ring of Magnetism' if he attacks.",
+    "TeleDAD": "● If a monster selected by 'Taunt' is moved to the turn player’s side of the field, the turn player can conduct attacks normally without worrying about the effect of 'Taunt', because without a card effect that allows it, a player can't attack monsters on his own side of the field.\n● If multiple monsters are selected by multiple 'Taunts', the turn player selects 1 of the monsters selected by 'Taunt' and can attack it.\n● If 1 monster is selected by 'Taunt' and another is equipped with 'Ring of Magnetism', the turn player must attack the monster equipped with 'Ring of Magnetism' if he attacks.",
+    "Gladiator": "● If a monster selected by 'Taunt' is moved to the turn player’s side of the field, the turn player can conduct attacks normally without worrying about the effect of 'Taunt', because without a card effect that allows it, a player can't attack monsters on his own side of the field.\n● If multiple monsters are selected by multiple 'Taunts', the turn player selects 1 of the monsters selected by 'Taunt' and can attack it.\n● If 1 monster is selected by 'Taunt' and another is equipped with 'Ring of Magnetism', the turn player must attack the monster equipped with 'Ring of Magnetism' if he attacks.",
+    "ReturnDAD": "● If a monster selected by 'Taunt' is moved to the turn player’s side of the field, the turn player can conduct attacks normally without worrying about the effect of 'Taunt', because without a card effect that allows it, a player can't attack monsters on his own side of the field.\n● If multiple monsters are selected by multiple 'Taunts', the turn player selects 1 of the monsters selected by 'Taunt' and can attack it.\n● If 1 monster is selected by 'Taunt' and another is equipped with 'Ring of Magnetism', the turn player must attack the monster equipped with 'Ring of Magnetism' if he attacks.",
+    "Trooper": "● If a monster selected by 'Taunt' is moved to the turn player’s side of the field, the turn player can conduct attacks normally without worrying about the effect of 'Taunt', because without a card effect that allows it, a player can't attack monsters on his own side of the field.\n● If multiple monsters are selected by multiple 'Taunts', the turn player selects 1 of the monsters selected by 'Taunt' and can attack it.\n● If 1 monster is selected by 'Taunt' and another is equipped with 'Ring of Magnetism', the turn player must attack the monster equipped with 'Ring of Magnetism' if he attacks.",
+    "Circle": "● If a monster selected by 'Taunt' is moved to the turn player’s side of the field, the turn player can conduct attacks normally without worrying about the effect of 'Taunt', because without a card effect that allows it, a player can't attack monsters on his own side of the field.\n● If multiple monsters are selected by multiple 'Taunts', the turn player selects 1 of the monsters selected by 'Taunt' and can attack it.\n● If 1 monster is selected by 'Taunt' and another is equipped with 'Ring of Magnetism', the turn player must attack the monster equipped with 'Ring of Magnetism' if he attacks.",
+    "Stein": "● If a monster selected by 'Taunt' is moved to the turn player’s side of the field, the turn player can conduct attacks normally without worrying about the effect of 'Taunt', because without a card effect that allows it, a player can't attack monsters on his own side of the field.\n● If multiple monsters are selected by multiple 'Taunts', the turn player selects 1 of the monsters selected by 'Taunt' and can attack it.\n● If 1 monster is selected by 'Taunt' and another is equipped with 'Ring of Magnetism', the turn player must attack the monster equipped with 'Ring of Magnetism' if he attacks.",
+    "Base": "1. If a monster selected by \"Taunt\" is moved to the turn player's side of the field, the turn player can conduct attacks normally without worrying about the effect of \"Taunt\", because without a card effect that allows it, a player cannot attack monsters on his own side of the field.\\n2. If multiple monsters are selected by multiple copies of \"Taunt\", the turn player selects 1 of the monsters selected by \"Taunt\" and can attack it.\\n3. If 1 monster is selected by \"Taunt\" and another is equipped with \"Ring of Magnetism\", the turn player must attack the monster equipped with \"Ring of Magnetism\" if he attacks."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

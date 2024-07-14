@@ -1,0 +1,40 @@
+{
+  "id": 5556668,
+  "name": "Exchange",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot activate Exchange if you have no other card in your hand besides Exchange.\n●The opponent is still considered the owner of the card you take by the effect of Exchange for all purposes.\n●If you take your opponent’s Kuriboh through the effect of Exchange you may discard it to activate its effect (but it is discarded to your opponent’s GY).",
+    "Goat": "●You cannot activate Exchange if you have no other card in your hand besides Exchange.\n●The opponent is still considered the owner of the card you take by the effect of Exchange for all purposes.\n●If you take your opponent’s Kuriboh through the effect of Exchange you may discard it to activate its effect (but it is discarded to your opponent’s GY).",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate 'Exchange' if you have no other card in your hand besides 'Exchange'.\n● The opponent is still considered the owner of the card you take by the effect of 'Exchange' for all purposes.\n● If you take your opponent’s 'Kuriboh' through the effect of 'Exchange' you may discard it to activate its effect (but it is discarded to your opponent’s GY).",
+    "TeleDAD": "● You can't activate 'Exchange' if you have no other card in your hand besides 'Exchange'.\n● The opponent is still considered the owner of the card you take by the effect of 'Exchange' for all purposes.\n● If you take your opponent’s 'Kuriboh' through the effect of 'Exchange' you may discard it to activate its effect (but it is discarded to your opponent’s GY).",
+    "Gladiator": "● You can't activate 'Exchange' if you have no other card in your hand besides 'Exchange'.\n● The opponent is still considered the owner of the card you take by the effect of 'Exchange' for all purposes.\n● If you take your opponent’s 'Kuriboh' through the effect of 'Exchange' you may discard it to activate its effect (but it is discarded to your opponent’s GY).",
+    "ReturnDAD": "● You can't activate 'Exchange' if you have no other card in your hand besides 'Exchange'.\n● The opponent is still considered the owner of the card you take by the effect of 'Exchange' for all purposes.\n● If you take your opponent’s 'Kuriboh' through the effect of 'Exchange' you may discard it to activate its effect (but it is discarded to your opponent’s GY).",
+    "Trooper": "● You can't activate 'Exchange' if you have no other card in your hand besides 'Exchange'.\n● The opponent is still considered the owner of the card you take by the effect of 'Exchange' for all purposes.\n● If you take your opponent’s 'Kuriboh' through the effect of 'Exchange' you may discard it to activate its effect (but it is discarded to your opponent’s GY).",
+    "Circle": "● You can't activate 'Exchange' if you have no other card in your hand besides 'Exchange'.\n● The opponent is still considered the owner of the card you take by the effect of 'Exchange' for all purposes.\n● If you take your opponent’s 'Kuriboh' through the effect of 'Exchange' you may discard it to activate its effect (but it is discarded to your opponent’s GY).",
+    "Stein": "● You can't activate 'Exchange' if you have no other card in your hand besides 'Exchange'.\n● The opponent is still considered the owner of the card you take by the effect of 'Exchange' for all purposes.\n● If you take your opponent’s 'Kuriboh' through the effect of 'Exchange' you may discard it to activate its effect (but it is discarded to your opponent’s GY).",
+    "Base": "1. You cannot activate \"Exchange\" if you have no other card in your hand besides \"Exchange\".\\n2. The opponent is still considered the owner of the card you take by the effect of \"Exchange\" for all purposes.\\n3. If you take your opponent's \"Kuriboh\" through the effect of \"Exchange\" you may discard it to activate its effect (but it is discarded to your opponent's GY)."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

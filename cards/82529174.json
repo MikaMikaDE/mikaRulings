@@ -1,0 +1,40 @@
+{
+  "id": 82529174,
+  "name": "Ray of Hope",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can't activate Ray of Hope if you don't have 2 LIGHT monsters in your GY.",
+    "Goat": "●You can't activate Ray of Hope if you don't have 2 LIGHT monsters in your GY.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate 'Ray of Hope' if you don't have 2 LIGHT monsters in your GY.",
+    "TeleDAD": "● You can't activate 'Ray of Hope' if you don't have 2 LIGHT monsters in your GY.",
+    "Gladiator": "● You can't activate 'Ray of Hope' if you don't have 2 LIGHT monsters in your GY.",
+    "ReturnDAD": "● You can't activate 'Ray of Hope' if you don't have 2 LIGHT monsters in your GY.",
+    "Trooper": "● You can't activate 'Ray of Hope' if you don't have 2 LIGHT monsters in your GY.",
+    "Circle": "● You can't activate 'Ray of Hope' if you don't have 2 LIGHT monsters in your GY.",
+    "Stein": "● You can't activate 'Ray of Hope' if you don't have 2 LIGHT monsters in your GY.",
+    "Base": "1. You can't activate \"Ray of Hope\" if you don't have 2 LIGHT monsters in your GY."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

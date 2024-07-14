@@ -1,0 +1,40 @@
+{
+  "id": 9622164,
+  "name": "D.D.R. - Different Dimension Reincarnation",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Equip"
+  },
+  "Rulings": {
+    "Tengu": "No rulings currently available.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate 'D.D.R. - Different Dimension Reincarnation' if you do not have any monsters in your Removed Zone that can be Special Summoned, even if you would discard a monster while 'Macro Cosmos' or 'Dimensional Fissure' is applying.",
+    "TeleDAD": "● You can't activate 'D.D.R. - Different Dimension Reincarnation' if you do not have any monsters in your Removed Zone that can be Special Summoned, even if you would discard a monster while 'Macro Cosmos' or 'Dimensional Fissure' is applying.",
+    "Gladiator": "● You can't activate 'D.D.R. - Different Dimension Reincarnation' if you do not have any monsters in your Removed Zone that can be Special Summoned, even if you would discard a monster while 'Macro Cosmos' or 'Dimensional Fissure' is applying.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You cannot activate \"D.D.R. - Different Dimension Reincarnation\" if you do not have any monsters in your Removed Zone that can be Special Summoned, even if you would discard a monster while \"Macro Cosmos\" or \"Dimensional Fissure\" is face-up on the field."
+  },
+  "PSCT": {
+    "Tengu": "① Discard 1 card, then target 1 of your banished monsters; \nSpecial Summon it in Attack Position, and equip it with this card. \n② If this card leaves the field, destroy that monster.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

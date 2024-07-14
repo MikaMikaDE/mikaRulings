@@ -1,0 +1,40 @@
+{
+  "id": 6112401,
+  "name": "At One With the Sword",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Activate while the only monster you control is 1 face-up X-Saber monster. Equip this card to that monster. (1) It gains 800 ATK. (2) If it destroys your opponent's monster by battle, draw 1 card.\n●This effect targets the 1 face-up “X-Saber” monster when activated.\n●You can use “Tailor of the Fickle” to equip “At One With the Sword” to a different face-up monster.\n●The (1) Continuous-like Effect applies while this card is face-up on the field.\n●This is treated as the effect of a Trap Card, not an Equip Spell Card.\n●The (2) Trigger Effect is mandatory, it activates & resolves on the field.\n●This is treated as the effect of a Trap Card, not an Equip Spell Card.\n●This effect activates in Substep 7 - End of the Damage Step.\n●This card must be face-up on the field to activate & resolve this effect.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect targets the 1 face-up \"X-Saber\" monster.\\n2. The effect to draw 1 card starts a Chain.\\n3. You can use \"Tailor of the Fickle\" to equip \"At One With the Sword\" to a different face-up monster."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

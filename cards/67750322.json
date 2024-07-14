@@ -1,0 +1,44 @@
+{
+  "id": 67750322,
+  "name": "Skull Meister",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1700,
+    "def": 400,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● This effect CAN be activated in the Damage Step \n(this is due to old Damage Step mechanics).",
+    "Vegas": "● This effect CAN be activated in the Damage Step \n(this is due to old Damage Step mechanics).",
+    "Meadowlands": "● This effect CAN be activated in the Damage Step \n(this is due to old Damage Step mechanics).",
+    "FireWater": "● This effect CAN be activated in the Damage Step \n(this is due to old Damage Step mechanics).",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "The ruling below is no loner accurate due to the changes and clarification of how the Damage Step works.\\n1. This card's effect can be activated during the Damage Step."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① If an effect is activated in your opponent's GY (Quick): You can send this card from your hand to the GY; negate that effect.",
+    "Meadowlands": "① If an effect is activated in your opponent's GY (Quick): You can send this card from your hand to the GY; negate that effect.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

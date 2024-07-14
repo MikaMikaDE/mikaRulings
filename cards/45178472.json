@@ -1,0 +1,40 @@
+{
+  "id": 45178472,
+  "name": "Full House",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If one of the Set targets is chained (and is now face-up), it is still destroyed.\n● If one of the targets leaves the field before this resolves, the other 4 are still destroyed.",
+    "Vegas": "● If one of the Set targets is chained (and is now face-up), it is still destroyed.\n● If one of the targets leaves the field before this resolves, the other 4 are still destroyed.",
+    "Meadowlands": "● If one of the Set targets is chained (and is now face-up), it is still destroyed.\n● If one of the targets leaves the field before this resolves, the other 4 are still destroyed.",
+    "FireWater": "● If one of the Set targets is chained (and is now face-up), it is still destroyed.\n● If one of the targets leaves the field before this resolves, the other 4 are still destroyed.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "① Target 5 other cards on the field (2 face-up Spells/Traps and 3 face-down Spells/Traps); destroy them.",
+    "Meadowlands": "① Target 5 other cards on the field (2 face-up Spells/Traps and 3 face-down Spells/Traps); destroy them.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

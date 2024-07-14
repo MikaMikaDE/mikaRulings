@@ -1,0 +1,40 @@
+{
+  "id": 54289683,
+  "name": "Power Capsule",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You select 1 “Victory Viper XX03” at activation of “Power Capsule”, but you select which of its effects to apply at resolution of “Power Capsule”.\n●If an effect is chained to destroy the selected “Victory Viper XX03”, then “Power Capsule’s” effect is not applied.\n●You can activate and resolve “Power Capsule” even if “Skill Drain” is on the field.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You select 1 “Victory Viper XX03” at activation of “Power Capsule”, but you select which of its effects to apply at resolution of “Power Capsule”.\n● If an effect is chained to destroy the selected “Victory Viper XX03”, then “Power Capsule’s” effect isn't applied.\n● You can activate and resolve “Power Capsule” even if “Skill Drain” is on the field.",
+    "TeleDAD": "● You select 1 “Victory Viper XX03” at activation of “Power Capsule”, but you select which of its effects to apply at resolution of “Power Capsule”.\n● If an effect is chained to destroy the selected “Victory Viper XX03”, then “Power Capsule’s” effect isn't applied.\n● You can activate and resolve “Power Capsule” even if “Skill Drain” is on the field.",
+    "Gladiator": "● You select 1 “Victory Viper XX03” at activation of “Power Capsule”, but you select which of its effects to apply at resolution of “Power Capsule”.\n● If an effect is chained to destroy the selected “Victory Viper XX03”, then “Power Capsule’s” effect isn't applied.\n● You can activate and resolve “Power Capsule” even if “Skill Drain” is on the field.",
+    "ReturnDAD": "● You select 1 “Victory Viper XX03” at activation of “Power Capsule”, but you select which of its effects to apply at resolution of “Power Capsule”.\n● If an effect is chained to destroy the selected “Victory Viper XX03”, then “Power Capsule’s” effect isn't applied.\n● You can activate and resolve “Power Capsule” even if “Skill Drain” is on the field.",
+    "Trooper": "● You select 1 “Victory Viper XX03” at activation of “Power Capsule”, but you select which of its effects to apply at resolution of “Power Capsule”.\n● If an effect is chained to destroy the selected “Victory Viper XX03”, then “Power Capsule’s” effect isn't applied.\n● You can activate and resolve “Power Capsule” even if “Skill Drain” is on the field.",
+    "Circle": "● You select 1 “Victory Viper XX03” at activation of “Power Capsule”, but you select which of its effects to apply at resolution of “Power Capsule”.\n● If an effect is chained to destroy the selected “Victory Viper XX03”, then “Power Capsule’s” effect isn't applied.\n● You can activate and resolve “Power Capsule” even if “Skill Drain” is on the field.",
+    "Stein": "● You select 1 “Victory Viper XX03” at activation of “Power Capsule”, but you select which of its effects to apply at resolution of “Power Capsule”.\n● If an effect is chained to destroy the selected “Victory Viper XX03”, then “Power Capsule’s” effect isn't applied.\n● You can activate and resolve “Power Capsule” even if “Skill Drain” is on the field.",
+    "Base": "1. You select 1 \"Victory Viper XX03\" at activation of \"Power Capsule\", but you select which of its effects to apply at resolution of \"Power Capsule\".\\n2. If an effect is chained to destroy the selected \"Victory Viper XX03\", then the effect of \"Power Capsule\" is not applied.\\n3. You can activate and resolve \"Power Capsule\" even if \"Skill Drain\" is on the field."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

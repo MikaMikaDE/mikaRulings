@@ -1,0 +1,44 @@
+{
+  "id": 56605802,
+  "name": "Phantom Cricket",
+  "Stats": {
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "atk": 300,
+    "def": 1000,
+    "level": 2,
+    "race": "Insect",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card’s effect targets 1 face-down monster.\n●If the targeted monster is flipped face-up by an effect chained to this card’s effect, it will not be returned to the top of its owner’s Deck.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card’s effect targets 1 face-down monster.\n● If the targeted monster is flipped face-up by an effect chained to this card’s effect, it will not be returned to the top of its owner’s Deck.",
+    "TeleDAD": "● This card’s effect targets 1 face-down monster.\n● If the targeted monster is flipped face-up by an effect chained to this card’s effect, it will not be returned to the top of its owner’s Deck.",
+    "Gladiator": "● This card’s effect targets 1 face-down monster.\n● If the targeted monster is flipped face-up by an effect chained to this card’s effect, it will not be returned to the top of its owner’s Deck.",
+    "ReturnDAD": "● This card’s effect targets 1 face-down monster.\n● If the targeted monster is flipped face-up by an effect chained to this card’s effect, it will not be returned to the top of its owner’s Deck.",
+    "Trooper": "● This card’s effect targets 1 face-down monster.\n● If the targeted monster is flipped face-up by an effect chained to this card’s effect, it will not be returned to the top of its owner’s Deck.",
+    "Circle": "● This card’s effect targets 1 face-down monster.\n● If the targeted monster is flipped face-up by an effect chained to this card’s effect, it will not be returned to the top of its owner’s Deck.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card's effect targets 1 face-down monster.\\n2. If the targeted monster is flipped face-up by an effect chained to this card's effect, it will not be returned to the top of its owner's Deck."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

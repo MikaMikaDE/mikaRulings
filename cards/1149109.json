@@ -1,0 +1,40 @@
+{
+  "id": 1149109,
+  "name": "Deck Lockdown",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Destroying Deck Lockdown during the Standby Phase does not start a Chain.\n●Monsters can be Special Summoned from the Extra Deck while “Deck Lockdown” is active.\n●Reinforcement of the Army, the effect of Green Gadget, etc. cannot be activated while Deck Lockdown is active.\n●If Sangan is sent from the field to the GY while Deck Lockdown is active, its effect will start a Chain but its effect will disappear when it resolves.\n●Crystal Seer's effect can activate while Deck Lockdown is active, but the card you would add to your hand is sent to the GY instead.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Destroying 'Deck Lockdown' during the Standby Phase does not start a Chain.\n● Monsters can be Special Summoned from the Extra Deck while “Deck Lockdown” is applying.\n● 'Reinforcement of the Army', the effect of 'Green Gadget', etc. can't be activated while 'Deck Lockdown' is applying.\n● If 'Sangan' is sent from the field to the GY while 'Deck Lockdown' is applying, its effect will start a Chain but its effect will disappear when it resolves.\n● 'Crystal Seer's' effect can activate while 'Deck Lockdown' is applying, but the card you would add to your hand is sent to the GY instead.",
+    "TeleDAD": "● Destroying 'Deck Lockdown' during the Standby Phase does not start a Chain.\n● Monsters can be Special Summoned from the Extra Deck while “Deck Lockdown” is applying.\n● 'Reinforcement of the Army', the effect of 'Green Gadget', etc. can't be activated while 'Deck Lockdown' is applying.\n● If 'Sangan' is sent from the field to the GY while 'Deck Lockdown' is applying, its effect will start a Chain but its effect will disappear when it resolves.\n● 'Crystal Seer's' effect can activate while 'Deck Lockdown' is applying, but the card you would add to your hand is sent to the GY instead.",
+    "Gladiator": "● Destroying 'Deck Lockdown' during the Standby Phase does not start a Chain.\n● Monsters can be Special Summoned from the Fusion Deck while “Deck Lockdown” is applying.\n● 'Reinforcement of the Army', the effect of 'Green Gadget', etc. can't be activated while 'Deck Lockdown' is applying.\n● If 'Sangan' is sent from the field to the GY while 'Deck Lockdown' is applying, its effect will start a Chain but its effect will disappear when it resolves.\n● 'Crystal Seer's' effect can activate while 'Deck Lockdown' is applying, but the card you would add to your hand is sent to the GY instead.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Destroying \"Deck Lockdown\" during the Standby Phase does not start a Chain.\\n2. Monsters can be Special Summoned from the Extra Deck while \"Deck Lockdown\" is active.\\n3. \"Reinforcement of the Army\", the effect of \"Green Gadget\", etc. cannot be activated while \"Deck Lockdown\" is active.\\n4. If \"Sangan\" is sent from the field to the GY while \"Deck Lockdown\" is active, its effect will start a Chain but its effect will disappear when it resolves.\\n5. The effect of \"Crystal Seer\" can activate while \"Deck Lockdown\" is active, but the card you would add to your hand is sent to the GY instead."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

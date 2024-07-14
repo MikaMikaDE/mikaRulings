@@ -1,0 +1,44 @@
+{
+  "id": 13722870,
+  "name": "Dark Flare Knight",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 2200,
+    "def": 800,
+    "level": 6,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●The damage referred to by Dark Flare Knight is Battle Damage.",
+    "Goat": "●The damage referred to by Dark Flare Knight is Battle Damage.\n●One “Mirage Knight” may be summoned for each “Dark Flare Knight” destroyed as a result of Battle.\n●If “Dark Ruler Ha Des” destroys “Dark Flare Knight” as a result of battle, “Dark Flare Knight’s” effect of being able to Special Summon “Mirage Knight” will be negated.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The 'damage' referred to by 'Dark Flare Knight' is Battle Damage.",
+    "TeleDAD": "● The 'damage' referred to by 'Dark Flare Knight' is Battle Damage.",
+    "Gladiator": "● The 'damage' referred to by 'Dark Flare Knight' is Battle Damage.",
+    "ReturnDAD": "● The 'damage' referred to by 'Dark Flare Knight' is Battle Damage.",
+    "Trooper": "● The 'damage' referred to by 'Dark Flare Knight' is Battle Damage.",
+    "Circle": "● The 'damage' referred to by 'Dark Flare Knight' is Battle Damage.",
+    "Stein": "● The 'damage' referred to by 'Dark Flare Knight' is Battle Damage.",
+    "Base": "1. The 'damage' referred to by \"Dark Flare Knight\" is Battle Damage."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

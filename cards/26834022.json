@@ -1,0 +1,40 @@
+{
+  "id": 26834022,
+  "name": "Disarm",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Counter"
+  },
+  "Rulings": {
+    "Tengu": "\n●The “Gladiator Beast” monster returned to the Deck is returned to the Deck when “Disarm” is resolved. It is not a cost. You must show the “Gladiator Beast” to your opponent when resolving “Disarm’s” effect.\n●You cannot activate “Disarm” if you do not have a “Gladiator Beast” monster in your hand.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The “Gladiator Beast” monster returned to the Deck is returned to the Deck when “Disarm” is resolved. It isn't a cost. You must show the “Gladiator Beast” to your opponent when resolving “Disarm’s” effect.\n● You can't activate “Disarm” if you do not have a “Gladiator Beast” monster in your hand.",
+    "TeleDAD": "● The “Gladiator Beast” monster returned to the Deck is returned to the Deck when “Disarm” is resolved. It isn't a cost. You must show the “Gladiator Beast” to your opponent when resolving “Disarm’s” effect.\n● You can't activate “Disarm” if you do not have a “Gladiator Beast” monster in your hand.",
+    "Gladiator": "● The “Gladiator Beast” monster returned to the Deck is returned to the Deck when “Disarm” is resolved. It isn't a cost. You must show the “Gladiator Beast” to your opponent when resolving “Disarm’s” effect.\n● You can't activate “Disarm” if you do not have a “Gladiator Beast” monster in your hand.",
+    "ReturnDAD": "● The “Gladiator Beast” monster returned to the Deck is returned to the Deck when “Disarm” is resolved. It isn't a cost. You must show the “Gladiator Beast” to your opponent when resolving “Disarm’s” effect.\n● You can't activate “Disarm” if you do not have a “Gladiator Beast” monster in your hand.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● The “Gladiator Beast” monster returned to the Deck is returned to the Deck when “Disarm” is resolved. It isn't a cost. You must show the “Gladiator Beast” to your opponent when resolving “Disarm’s” effect.\n● You can't activate “Disarm” if you do not have a “Gladiator Beast” monster in your hand.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The 'Gladiator Beast' monster returned to the Deck is returned to the Deck when \"Disarm\" is resolved. It is not a cost. You must show the 'Gladiator Beast' to your opponent when resolving the effect of \"Disarm\".\\n2. You cannot activate \"Disarm\" if you do not have a 'Gladiator Beast' monster in your hand."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

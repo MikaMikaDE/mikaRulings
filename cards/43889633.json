@@ -1,0 +1,40 @@
+{
+  "id": 43889633,
+  "name": "Forgotten Temple of the Deep",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●You can activate the effect to remove a monster from play on either player’s turn.\n●It targets that monster.\n●Special Summoning the monster does not target.\n●If you take control of your opponent’s monster and remove it from play, it returns to your side of the field during your End Phase.\n●The field is not treated as “Umi” while this card is active.\n●“Royal Decree” will negate the effect to treat this card’s name as “Umi.”\n●The effect to remove a monster from play is Spell Speed 2 and can be activated during either player’s turn. It starts a Chain.\n●If you remove 1 monster from play on your opponent’s turn and another during your turn, both will be Special Summoned during the End Phase. They are Special Summoned at the same time, so if you only have 1 open Monster Card Zone you choose 1 monster to Special Summon and the other goes to the GY.\n●The effect to Special Summon starts a Chain.\n●If you control this card and “A Legendary Ocean” you can send either to the GY to activate the effect of “Codarus.”",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can activate the effect to remove a monster from play on either player's turn. It targets that monster. Special Summoning the monster does not target.\\n2. If you take control of your opponent's monster and remove it from play, it returns to your side of the field during your End Phase.\\n3. The field is not treated as \"Umi\" while this card is active.\\n4. \"Royal Decree\" will negate the effect to treat this card's name as \"Umi\".\\n5. The effect to remove a monster from play is Spell Speed 2 and can be activated during either player's turn. It starts a Chain.\\n6. If you remove 1 monster from play on your opponent's turn and another during your turn, both will be Special Summoned during the End Phase. They are Special Summoned at the same time, so if you only have 1 open Monster Card Zone you choose 1 monster to Special Summon and the other goes to the GY.\\n7. The effect to Special Summon starts a Chain.\\n8. If you control this card and \"A Legendary Ocean\" you can send either to the GY to activate the effect of \"Codarus\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

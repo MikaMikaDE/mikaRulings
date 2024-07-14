@@ -1,0 +1,44 @@
+{
+  "id": 51345461,
+  "name": "Sword Hunter",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2450,
+    "def": 1700,
+    "level": 7,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●If you take control of your opponent's Sword Hunter and destroy a monster by battle, the monster is placed into your Spell and Trap Card Zone and remains there when control of Sword Hunter is returned to your opponent.\n●While Imperial Order is active, you do not gain ATK for the Monster Cards equipped to Sword Hunter.\n●If the monster destroyed by battle with Sword Hunter is Special Summoned from the GY before the end of the Battle Phase, it is not equipped to Sword Hunter.",
+    "Goat": "●When a monster is equipped to “Sword Hunter,” that monster is not considered an activation of a Spell card.\n●The monster destroyed by “Sword Hunter” is sent to the GY before it becomes an Equip Spell Card.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If you take control of your opponent's 'Sword Hunter' and destroy a monster by battle, the monster is placed into your Spell/Trap Card Zone and remains there when control of 'Sword Hunter' is returned to your opponent.\n● While 'Imperial Order' is applying, you do not gain ATK for the Monster Cards equipped to 'Sword Hunter'.\n● If the monster destroyed by battle with 'Sword Hunter' is Special Summoned from the GY before the end of the Battle Phase, it isn't equipped to 'Sword Hunter'.",
+    "TeleDAD": "● If you take control of your opponent's 'Sword Hunter' and destroy a monster by battle, the monster is placed into your Spell/Trap Card Zone and remains there when control of 'Sword Hunter' is returned to your opponent.\n● While 'Imperial Order' is applying, you do not gain ATK for the Monster Cards equipped to 'Sword Hunter'.\n● If the monster destroyed by battle with 'Sword Hunter' is Special Summoned from the GY before the end of the Battle Phase, it isn't equipped to 'Sword Hunter'.",
+    "Gladiator": "● If you take control of your opponent's 'Sword Hunter' and destroy a monster in battle, the monster is placed into your Spell/Trap Card Zone and remains there when control of 'Sword Hunter' is returned to your opponent.\n● While 'Imperial Order' is applying, you do not gain ATK for the Monster Cards equipped to 'Sword Hunter'.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If you take control of your opponent's \"Sword Hunter\" and destroy a monster in battle, the monster is placed into your Spell and Trap Card Zone and remains there when control of \"Sword Hunter\" is returned to your opponent.\\n2. While \"Imperial Order\" is active, you do not gain ATK for the Monster Cards equipped to \"Sword Hunter\"."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

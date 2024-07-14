@@ -1,0 +1,40 @@
+{
+  "id": 55985014,
+  "name": "Miracle Kids",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●You cannot activate “Miracle Kids” if you have no “Hero Kid” cards in your GY.\n●The ATK reduction of “Miracle Kids” is determined and applied when “Miracle Kids” resolves. Even if a “Hero Kid” card is removed from the GY after that, the ATK reduction of “Miracle Kids” remains.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● You can't activate “Miracle Kids” if you have no “Hero Kid” cards in your GY.\n● The ATK reduction of “Miracle Kids” is determined and applied when “Miracle Kids” resolves. Even if a “Hero Kid” card is removed from the GY after that, the ATK reduction of “Miracle Kids” remains.",
+    "TeleDAD": "● You can't activate “Miracle Kids” if you have no “Hero Kid” cards in your GY.\n● The ATK reduction of “Miracle Kids” is determined and applied when “Miracle Kids” resolves. Even if a “Hero Kid” card is removed from the GY after that, the ATK reduction of “Miracle Kids” remains.",
+    "Gladiator": "● You can't activate “Miracle Kids” if you have no “Hero Kid” cards in your GY.\n● The ATK reduction of “Miracle Kids” is determined and applied when “Miracle Kids” resolves. Even if a “Hero Kid” card is removed from the GY after that, the ATK reduction of “Miracle Kids” remains.",
+    "ReturnDAD": "● You can't activate “Miracle Kids” if you have no “Hero Kid” cards in your GY.\n● The ATK reduction of “Miracle Kids” is determined and applied when “Miracle Kids” resolves. Even if a “Hero Kid” card is removed from the GY after that, the ATK reduction of “Miracle Kids” remains.",
+    "Trooper": "● You can't activate “Miracle Kids” if you have no “Hero Kid” cards in your GY.\n● The ATK reduction of “Miracle Kids” is determined and applied when “Miracle Kids” resolves. Even if a “Hero Kid” card is removed from the GY after that, the ATK reduction of “Miracle Kids” remains.",
+    "Circle": "● You can't activate “Miracle Kids” if you have no “Hero Kid” cards in your GY.\n● The ATK reduction of “Miracle Kids” is determined and applied when “Miracle Kids” resolves. Even if a “Hero Kid” card is removed from the GY after that, the ATK reduction of “Miracle Kids” remains.",
+    "Stein": "● You can't activate “Miracle Kids” if you have no “Hero Kid” cards in your GY.\n● The ATK reduction of “Miracle Kids” is determined and applied when “Miracle Kids” resolves. Even if a “Hero Kid” card is removed from the GY after that, the ATK reduction of “Miracle Kids” remains.",
+    "Base": "1. You cannot activate \"Miracle Kids\" if you have no \"Hero Kid\" cards in your GY.\\n2. The ATK reduction of \"Miracle Kids\" is determined and applied when \"Miracle Kids\" resolves. Even if a \"Hero Kid\" card is removed from the GY after that, the ATK reduction of \"Miracle Kids\" remains."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

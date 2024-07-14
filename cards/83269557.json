@@ -1,0 +1,44 @@
+{
+  "id": 83269557,
+  "name": "Dark Valkyria",
+  "Stats": {
+    "type": "Gemini Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 1050,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "\n●While Dark Valkyria is an Effect Monster, you can place Spell Counters onto it with other card effects, like Pitch-Black Power Stone and Apprentice Magician.\n●If Dark Valkyria is treated as an Effect Monster due to the effect of “Superalloy Beast Raptinus” and has a Spell Counter when Superalloy Beast Raptinus is removed from the field, the Spell Counter is removed because Dark Valkyria is changed to a Normal Monster. If Dark Valkyria becomes an Effect Monster again afterwards, its effect can be used once more.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● While 'Dark Valkyria' is an Effect Monster, you can place Spell Counters onto it with other card effects, like 'Pitch-Black Power Stone' and 'Apprentice Magician.'\n● If 'Dark Valkyria' is treated as an Effect Monster due to the effect of “Superalloy Beast Raptinus” and has a Spell Counter when 'Superalloy Beast Raptinus' leaves the field, the Spell Counter is removed because 'Dark Valkyria' is changed to a Normal Monster. If 'Dark Valkyria' becomes an Effect Monster again afterwards, its effect can be used once more.",
+    "TeleDAD": "● While 'Dark Valkyria' is an Effect Monster, you can place Spell Counters onto it with other card effects, like 'Pitch-Black Power Stone' and 'Apprentice Magician.'\n● If 'Dark Valkyria' is treated as an Effect Monster due to the effect of “Superalloy Beast Raptinus” and has a Spell Counter when 'Superalloy Beast Raptinus' leaves the field, the Spell Counter is removed because 'Dark Valkyria' is changed to a Normal Monster. If 'Dark Valkyria' becomes an Effect Monster again afterwards, its effect can be used once more.",
+    "Gladiator": "● While 'Dark Valkyria' is an Effect Monster, you can place Spell Counters onto it with other card effects, like 'Pitch-Black Power Stone' and 'Apprentice Magician.'\n● If 'Dark Valkyria' is treated as an Effect Monster due to the effect of “Superalloy Beast Raptinus” and has a Spell Counter when 'Superalloy Beast Raptinus' leaves the field, the Spell Counter is removed because 'Dark Valkyria' is changed to a Normal Monster. If 'Dark Valkyria' becomes an Effect Monster again afterwards, its effect can be used once more.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. While \"Dark Valkyria\" is an Effect Monster, you can place Spell Counters onto it with other card effects, like \"Pitch-Black Power Stone\" and \"Apprentice Magician\".\\n2. If \"Dark Valkyria\" is treated as an Effect Monster due to the effect of \"Superalloy Beast Raptinus\" and has a Spell Counter when \"Superalloy Beast Raptinus\" is removed from the field, the Spell Counter is removed because \"Dark Valkyria\" is changed to a Normal Monster. If \"Dark Valkyria\" becomes an Effect Monster again afterwards, its effect can be used once more."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

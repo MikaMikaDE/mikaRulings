@@ -1,0 +1,44 @@
+{
+  "id": 2671330,
+  "name": "Hyper Hammerhead",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 1200,
+    "level": 4,
+    "race": "Dinosaur",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●Hyper Hammerhead's effect activates at the time that a monster would be sent to the GY.\n●Even if Hyper Hammerhead was destroyed, its effect resolves.\n●The effect of Hyper Hammerhead can be chained to.\n●If you have another effect that activates at the end of the Damage Step, you can place it on a chain with Hyper Hammerhead's effect (such as Hyper Hammerhead vs. Hyper Hammerhead).",
+    "Goat": "●Hyper Hammerhead's effect activates at the time that a monster would be sent to the GY.\n●Even if Hyper Hammerhead was destroyed, its effect resolves.\n●The effect of Hyper Hammerhead can be chained to.\n●If you have another effect that activates at the end of the Damage Step, you can place it on a chain with Hyper Hammerhead's effect (such as Hyper Hammerhead vs. Hyper Hammerhead).",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Hyper Hammerhead''s effect activates at the time that a monster would be sent to the GY.\n● Even if 'Hyper Hammerhead' was destroyed, its effect resolves.\n● The effect of 'Hyper Hammerhead' can be chained to.\n● If you have another effect that activates at the end of the Damage Step, you can place it on a chain with 'Hyper Hammerhead''s effect (such as 'Hyper Hammerhead' vs. 'Hyper Hammerhead').",
+    "TeleDAD": "● 'Hyper Hammerhead''s effect activates at the time that a monster would be sent to the GY.\n● Even if 'Hyper Hammerhead' was destroyed, its effect resolves.\n● The effect of 'Hyper Hammerhead' can be chained to.\n● If you have another effect that activates at the end of the Damage Step, you can place it on a chain with 'Hyper Hammerhead''s effect (such as 'Hyper Hammerhead' vs. 'Hyper Hammerhead').",
+    "Gladiator": "● 'Hyper Hammerhead''s effect activates at the time that a monster would be sent to the GY.\n● Even if 'Hyper Hammerhead' was destroyed, its effect resolves.\n● The effect of 'Hyper Hammerhead' can be chained to.\n● If you have another effect that activates at the end of the Damage Step, you can place it on a chain with 'Hyper Hammerhead''s effect (such as 'Hyper Hammerhead' vs. 'Hyper Hammerhead').",
+    "ReturnDAD": "● 'Hyper Hammerhead''s effect activates at the time that a monster would be sent to the GY.\n● Even if 'Hyper Hammerhead' was destroyed, its effect resolves.\n● The effect of 'Hyper Hammerhead' can be chained to.\n● If you have another effect that activates at the end of the Damage Step, you can place it on a chain with 'Hyper Hammerhead''s effect (such as 'Hyper Hammerhead' vs. 'Hyper Hammerhead').",
+    "Trooper": "● 'Hyper Hammerhead''s effect activates at the time that a monster would be sent to the GY.\n● Even if 'Hyper Hammerhead' was destroyed, its effect resolves.\n● The effect of 'Hyper Hammerhead' can be chained to.\n● If you have another effect that activates at the end of the Damage Step, you can place it on a chain with 'Hyper Hammerhead''s effect (such as 'Hyper Hammerhead' vs. 'Hyper Hammerhead').",
+    "Circle": "● 'Hyper Hammerhead''s effect activates at the time that a monster would be sent to the GY.\n● Even if 'Hyper Hammerhead' was destroyed, its effect resolves.\n● The effect of 'Hyper Hammerhead' can be chained to.\n● If you have another effect that activates at the end of the Damage Step, you can place it on a chain with 'Hyper Hammerhead''s effect (such as 'Hyper Hammerhead' vs. 'Hyper Hammerhead').",
+    "Stein": "● 'Hyper Hammerhead''s effect activates at the time that a monster would be sent to the GY.\n● Even if 'Hyper Hammerhead' was destroyed, its effect resolves.\n● The effect of 'Hyper Hammerhead' can be chained to.\n● If you have another effect that activates at the end of the Damage Step, you can place it on a chain with 'Hyper Hammerhead''s effect (such as 'Hyper Hammerhead' vs. 'Hyper Hammerhead').",
+    "Base": "1. The effect of \"Hyper Hammerhead\" activates at the time that a monster would be sent to the GY.\\n2. Even if \"Hyper Hammerhead\" was destroyed, its effect resolves.\\n3. The effect of \"Hyper Hammerhead\" can be chained to.\\n4. If you have another effect that activates at the end of the Damage Step, you can place it on a chain with the effect of \"Hyper Hammerhead\" (such as \"Hyper Hammerhead\" vs. \"Hyper Hammerhead\")."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

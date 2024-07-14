@@ -1,0 +1,44 @@
+{
+  "id": 7391448,
+  "name": "Goyo Guardian",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 2800,
+    "def": 2000,
+    "level": 6,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "● This card does not require an EARTH Tuner. You can use any Tuner.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● 'Goyo Guardian's' effect does not target.\n● If 'Goyo Guardian' destroys your monster that your opponent controls, you can Special Summon it from your GY.\n● If 'Goyo Guardian' battles an Attack Position monster with equal ATK and both monsters are destroyed, 'Goyo Guardian's' effect does not activate.",
+    "TeleDAD": "● 'Goyo Guardian's' effect does not target.\n● If 'Goyo Guardian' destroys your monster that your opponent controls, you can Special Summon it from your GY.\n● If 'Goyo Guardian' battles an Attack Position monster with equal ATK and both monsters are destroyed, 'Goyo Guardian's' effect does not activate.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Goyo Guardian\" does not target.\\n2. If \"Goyo Guardian\" destroys your monster that your opponent controls, you can Special Summon it from your GY.\\n3. If \"Goyo Guardian\" battles an Attack Position monster with equal ATK and both monsters are destroyed, the effect of \"Goyo Guardian\" does not activate."
+  },
+  "PSCT": {
+    "Tengu": "1 Tuner + 1 or more non-Tuners \n① If this card destroys a monster by battle and sends it to the GY: \nYou can Special Summon that monster to your field in Defense Position.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

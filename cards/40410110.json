@@ -1,0 +1,44 @@
+{
+  "id": 40410110,
+  "name": "Homunculus the Alchemic Being",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1800,
+    "def": 1600,
+    "level": 4,
+    "race": "Plant",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●This monster’s effect is a Ignition Effect.\n●If you use this monster’s effect to change its Attribute, it remains changed as long as it remains face-up on the field, or until it is changed again.",
+    "Goat": "●This monster’s effect is a Ignition Effect.\n●If you use this monster’s effect to change its Attribute, it remains changed as long as it remains face-up on the field, or until it is changed again.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This monster’s effect is a Ignition Effect.\n● If you use this monster’s effect to change its Attribute, it remains changed as long as it remains applying, or until it is changed again.",
+    "TeleDAD": "● This monster’s effect is a Ignition Effect.\n● If you use this monster’s effect to change its Attribute, it remains changed as long as it remains applying, or until it is changed again.",
+    "Gladiator": "● This monster’s effect is a Ignition Effect.\n● If you use this monster’s effect to change its Attribute, it remains changed as long as it remains applying, or until it is changed again.",
+    "ReturnDAD": "● This monster’s effect is a Ignition Effect.\n● If you use this monster’s effect to change its Attribute, it remains changed as long as it remains applying, or until it is changed again.",
+    "Trooper": "● This monster’s effect is a Ignition Effect.\n● If you use this monster’s effect to change its Attribute, it remains changed as long as it remains applying, or until it is changed again.",
+    "Circle": "● This monster’s effect is a Ignition Effect.\n● If you use this monster’s effect to change its Attribute, it remains changed as long as it remains applying, or until it is changed again.",
+    "Stein": "● This monster’s effect is a Ignition Effect.\n● If you use this monster’s effect to change its Attribute, it remains changed as long as it remains applying, or until it is changed again.",
+    "Base": "1. This monster's effect is a Ignition Effect.\\n2. If you use this monster's effect to change its Attribute, it remains changed as long as it remains face-up on the field, or until it is changed again."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

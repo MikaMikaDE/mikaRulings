@@ -1,0 +1,40 @@
+{
+  "id": 67095270,
+  "name": "Dimension Wall",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "● This card can only be activated in response to an Attack Declaration.\n● The effect is applied during Damage Calculation.\n● The damage is Battle Damage, not Effect Damage.\n● If \"Waboku\" has already been activated this turn, you can't activate this card.\nHowever, if \"Waboku\" is activated in response to an attack, you can chain this card.\n● If \"Unifrog\" attacks, and this card is activated, \"Unifrog\"'s effect will not activate.",
+    "Goat": "●The effect of “Dimension Wall” is applied during damage calculation and cannot be chained to.\n●If your opponent already activated “Waboku” this turn, then they cannot take battle damage, so you cannot activate “Dimension Wall”. However, you can chain “Dimension Wall” to “Waboku” if the timing is appropriate.\n●If “Don Zaloog” attacks and “Dimension Wall” is used, neither player gets the effect of “Don Zaloog”.\n●“Dimension Wall” is not an effect that targets.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Dimension Wall” is applied during damage calculation and can't be chained to.\n● If your opponent already activated “Waboku” this turn, then they can't take battle damage, so you can't activate “Dimension Wall”. However, you can chain “Dimension Wall” to “Waboku” if the timing is appropriate.\n● If “Don Zaloog” attacks and “Dimension Wall” is used, neither player gets the effect of “Don Zaloog”.\n● “Dimension Wall” isn't an effect that targets.",
+    "TeleDAD": "● The effect of “Dimension Wall” is applied during damage calculation and can't be chained to.\n● If your opponent already activated “Waboku” this turn, then they can't take battle damage, so you can't activate “Dimension Wall”. However, you can chain “Dimension Wall” to “Waboku” if the timing is appropriate.\n● If “Don Zaloog” attacks and “Dimension Wall” is used, neither player gets the effect of “Don Zaloog”.\n● “Dimension Wall” isn't an effect that targets.",
+    "Gladiator": "● The effect of “Dimension Wall” is applied during damage calculation and can't be chained to.\n● If your opponent already activated “Waboku” this turn, then they can't take battle damage, so you can't activate “Dimension Wall”. However, you can chain “Dimension Wall” to “Waboku” if the timing is appropriate.\n● If “Don Zaloog” attacks and “Dimension Wall” is used, neither player gets the effect of “Don Zaloog”.\n● “Dimension Wall” isn't an effect that targets.",
+    "ReturnDAD": "● The effect of “Dimension Wall” is applied during damage calculation and can't be chained to.\n● If your opponent already activated “Waboku” this turn, then they can't take battle damage, so you can't activate “Dimension Wall”. However, you can chain “Dimension Wall” to “Waboku” if the timing is appropriate.\n● If “Don Zaloog” attacks and “Dimension Wall” is used, neither player gets the effect of “Don Zaloog”.\n● “Dimension Wall” isn't an effect that targets.",
+    "Trooper": "● The effect of “Dimension Wall” is applied during damage calculation and can't be chained to.\n● If your opponent already activated “Waboku” this turn, then they can't take battle damage, so you can't activate “Dimension Wall”. However, you can chain “Dimension Wall” to “Waboku” if the timing is appropriate.\n● If “Don Zaloog” attacks and “Dimension Wall” is used, neither player gets the effect of “Don Zaloog”.\n● “Dimension Wall” isn't an effect that targets.",
+    "Circle": "● The effect of “Dimension Wall” is applied during damage calculation and can't be chained to.\n● If your opponent already activated “Waboku” this turn, then they can't take battle damage, so you can't activate “Dimension Wall”. However, you can chain “Dimension Wall” to “Waboku” if the timing is appropriate.\n● If “Don Zaloog” attacks and “Dimension Wall” is used, neither player gets the effect of “Don Zaloog”.\n● “Dimension Wall” isn't an effect that targets.",
+    "Stein": "● The effect of “Dimension Wall” is applied during damage calculation and can't be chained to.\n● If your opponent already activated “Waboku” this turn, then they can't take battle damage, so you can't activate “Dimension Wall”. However, you can chain “Dimension Wall” to “Waboku” if the timing is appropriate.\n● If “Don Zaloog” attacks and “Dimension Wall” is used, neither player gets the effect of “Don Zaloog”.\n● “Dimension Wall” isn't an effect that targets.",
+    "Base": "1. The effect of \"Dimension Wall\" is applied during damage calculation and cannot be chained to.\\n2. If your opponent already activated \"Waboku\" this turn, then they cannot take battle damage, so you cannot activate \"Dimension Wall\". However, you can chain \"Dimension Wall\" to \"Waboku\" if the timing is appropriate.\\n3. If \"Don Zaloog\" attacks and \"Dimension Wall\" is used, neither player gets the effect of \"Don Zaloog\".\\n4. \"Dimension Wall\" is not an effect that targets."
+  },
+  "PSCT": {
+    "Tengu": "① If your opponent's monster declares an attack: \nDuring this attack's Damage Calculation, your opponent takes any Battle Damage you would have taken.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

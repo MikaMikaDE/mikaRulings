@@ -1,0 +1,40 @@
+{
+  "id": 2122975,
+  "name": "Trap Reclamation",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "\n●This card can be chained to a Normal Trap Card or a Continuous Trap Card.\n●This card’s effect is only applied once, the first time the Trap Card it was chained to is sent from the field to the GY for any reason.\n●If the Trap Card that “Trap Reclamation” was chained to is removed from play, or returned to the hand, etc. instead of going to the GY, “Trap Reclamation’s” effect is no longer applied.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● This card can be chained to a Normal Trap Card or a Continuous Trap Card.\n● This card’s effect is only applied once, the first time the Trap Card it was chained to is sent from the field to the GY for any reason.\n● If the Trap Card that “Trap Reclamation” was chained to is removed from play, or returned to the hand, etc. instead of going to the GY, “Trap Reclamation’s” effect is no longer applied.",
+    "TeleDAD": "● This card can be chained to a Normal Trap Card or a Continuous Trap Card.\n● This card’s effect is only applied once, the first time the Trap Card it was chained to is sent from the field to the GY for any reason.\n● If the Trap Card that “Trap Reclamation” was chained to is removed from play, or returned to the hand, etc. instead of going to the GY, “Trap Reclamation’s” effect is no longer applied.",
+    "Gladiator": "● This card can be chained to a Normal Trap Card or a Continuous Trap Card.\n● This card’s effect is only applied once, the first time the Trap Card it was chained to is sent from the field to the GY for any reason.\n● If the Trap Card that “Trap Reclamation” was chained to is removed from play, or returned to the hand, etc. instead of going to the GY, “Trap Reclamation’s” effect is no longer applied.",
+    "ReturnDAD": "● This card can be chained to a Normal Trap Card or a Continuous Trap Card.\n● This card’s effect is only applied once, the first time the Trap Card it was chained to is sent from the field to the GY for any reason.\n● If the Trap Card that “Trap Reclamation” was chained to is removed from play, or returned to the hand, etc. instead of going to the GY, “Trap Reclamation’s” effect is no longer applied.",
+    "Trooper": "● This card can be chained to a Normal Trap Card or a Continuous Trap Card.\n● This card’s effect is only applied once, the first time the Trap Card it was chained to is sent from the field to the GY for any reason.\n● If the Trap Card that “Trap Reclamation” was chained to is removed from play, or returned to the hand, etc. instead of going to the GY, “Trap Reclamation’s” effect is no longer applied.",
+    "Circle": "● This card can be chained to a Normal Trap Card or a Continuous Trap Card.\n● This card’s effect is only applied once, the first time the Trap Card it was chained to is sent from the field to the GY for any reason.\n● If the Trap Card that “Trap Reclamation” was chained to is removed from play, or returned to the hand, etc. instead of going to the GY, “Trap Reclamation’s” effect is no longer applied.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This card can be chained to a Normal Trap Card or a Continuous Trap Card.\\n2. This card's effect is only applied once, the first time the Trap Card it was chained to is sent from the field to the GY for any reason.\\n3. If the Trap Card that \"Trap Reclamation\" was chained to is removed from play, or returned to the hand, etc. instead of going to the GY, the effect of \"Trap Reclamation\" is no longer applied."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

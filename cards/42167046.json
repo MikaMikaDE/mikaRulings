@@ -1,0 +1,40 @@
+{
+  "id": 42167046,
+  "name": "Widespread Dud",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●“Widespread Dud” targets the 2 face-up monsters. The effect to destroy the targeted monsters does not start a Chain.\n●If “Enemy Controller” is Chained to “Widespread Dud” and shifts one of the targeted monsters to face-up Defense Position, “Widespread Dud” will still resolve normally.\n●Even if one of the targeted monsters is changed to Defense Position after “Widespread Dud” resolves it will still be affected by “Widespread Dud.”\n●If “Book of Moon” is Chained to “Widespread Dud” and flips one of the targeted monsters face-down, only the other one will continue to be targeted.\n●After “Widespread Dud” resolves, when one of the targeted monsters is removed from the field “Widespread Dud” is destroyed and the other monster is destroyed. ",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. \"Widespread Dud\" targets the 2 face-up monsters.\\n2. The effect to destroy the targeted monsters does not start a Chain.\\n3. If \"Enemy Controller\" is Chained to \"Widespread Dud\" and shifts one of the targeted monsters to face-up Defense Position, \"Widespread Dud\" will still resolve normally. Even if one of the targeted monsters is changed to Defense Position after \"Widespread Dud\" resolves it will still be affected by \"Widespread Dud\".\\n4. If \"Book of Moon\" is Chained to \"Widespread Dud\" and flips one of the targeted monsters face-down, only the other one will continue to be targeted.\\n5. After \"Widespread Dud\" resolves, when one of the targeted monsters is removed from the field \"Widespread Dud\" is destroyed and the other monster is destroyed."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

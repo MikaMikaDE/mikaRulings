@@ -1,0 +1,44 @@
+{
+  "id": 65685470,
+  "name": "Spirit of the Six Samurai",
+  "Stats": {
+    "type": "Union Effect Monster",
+    "frameType": "effect",
+    "atk": 500,
+    "def": 500,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "(1) Once per turn, you can equip this card to a Six Samurai monster you control, OR unequip it to Special Summon this card in face-up Attack Position. (2) When equipped to a monster by this card's effect, that monster gains 500 ATK and DEF. (3) When the equipped monster destroys an opponent's monster by battle, draw 1 card. (C) (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, this card is destroyed instead.)\n●The effect of “Spirit of the Six Samurai” that activates when the equipped “Six Samurai” monster destroys a monster in battle begins a Chain at the time when the destroyed monster is sent to the GY.\n●If a “Six Samurai” monster is equipped with “Legendary Ebon Steed” and “Spirit of the Six Samurai”, when the equipped “Six Samurai” monster would be destroyed both the “Legendary Ebon Steed” and “Spirit of the Six Samurai” are destroyed instead.\n●If both Spirit of the Six Samurai and the equipped Six Samurai monster are destroyed by the same effect, the Spirit of the Six Samurai's effect is not applied.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The effect of “Spirit of the Six Samurai” that activates when the equipped “Six Samurai” monster destroys a monster in battle begins a Chain at the time when the destroyed monster is sent to the GY.\n● If a “Six Samurai” monster is equipped with “Legendary Ebon Steed” and “Spirit of the Six Samurai”, when the equipped “Six Samurai” monster would be destroyed both the “Legendary Ebon Steed” and “Spirit of the Six Samurai” are destroyed instead.\n● If both 'Spirit of the Six Samurai' and the equipped 'Six Samurai' monster are destroyed by the same effect, the 'Spirit of the Six Samurai's' effect isn't applied.",
+    "TeleDAD": "● The effect of “Spirit of the Six Samurai” that activates when the equipped “Six Samurai” monster destroys a monster in battle begins a Chain at the time when the destroyed monster is sent to the GY.\n● If a “Six Samurai” monster is equipped with “Legendary Ebon Steed” and “Spirit of the Six Samurai”, when the equipped “Six Samurai” monster would be destroyed both the “Legendary Ebon Steed” and “Spirit of the Six Samurai” are destroyed instead.\n● If both 'Spirit of the Six Samurai' and the equipped 'Six Samurai' monster are destroyed by the same effect, the 'Spirit of the Six Samurai's' effect isn't applied.",
+    "Gladiator": "● The effect of “Spirit of the Six Samurai” that activates when the equipped “Six Samurai” monster destroys a monster in battle begins a Chain at the time when the destroyed monster is sent to the GY.\n● If a “Six Samurai” monster is equipped with “Legendary Ebon Steed” and “Spirit of the Six Samurai”, when the equipped “Six Samurai” monster would be destroyed both the “Legendary Ebon Steed” and “Spirit of the Six Samurai” are destroyed instead.",
+    "ReturnDAD": "● The effect of “Spirit of the Six Samurai” that activates when the equipped “Six Samurai” monster destroys a monster in battle begins a Chain at the time when the destroyed monster is sent to the GY.\n● If a “Six Samurai” monster is equipped with “Legendary Ebon Steed” and “Spirit of the Six Samurai”, when the equipped “Six Samurai” monster would be destroyed both the “Legendary Ebon Steed” and “Spirit of the Six Samurai” are destroyed instead.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● The effect of “Spirit of the Six Samurai” that activates when the equipped “Six Samurai” monster destroys a monster in battle begins a Chain at the time when the destroyed monster is sent to the GY.\n● If a “Six Samurai” monster is equipped with “Legendary Ebon Steed” and “Spirit of the Six Samurai”, when the equipped “Six Samurai” monster would be destroyed both the “Legendary Ebon Steed” and “Spirit of the Six Samurai” are destroyed instead.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. The effect of \"Spirit of the Six Samurai\" that activates when the equipped 'Six Samurai' monster destroys a monster in battle begins a Chain at the time when the destroyed monster is sent to the GY.\\n2. If a 'Six Samurai' monster is equipped with \"Legendary Ebon Steed\" and \"Spirit of the Six Samurai\", when the equipped 'Six Samurai' monster would be destroyed both the \"Legendary Ebon Steed\" and \"Spirit of the Six Samurai\" are destroyed instead.\\n3. If both \"Spirit of the Six Samurai\" and the equipped 'Six Samurai' monster are destroyed by the same effect, the effect of \"Spirit of the Six Samurai\" is not applied.\\n4. [FORUM] If an effect will simultaneously destroy \"Spirit of the Six Samurai\" and the \"Six Samurai\" monster it is equipped to, you will not be able to activate the effect of \"Spirit of the Six Samurai\" to save the equipped monster."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

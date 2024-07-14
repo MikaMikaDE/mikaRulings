@@ -1,0 +1,40 @@
+{
+  "id": 80863132,
+  "name": "Muko",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. You can only chain \"Null and Void\" to an effect that draws cards and does nothing else. You can chain \"Null and Void\" to the activation of \"Pot of Greed\" or \"Jar of Greed\". You can chain \"Null and Void\" to the activation of the effect of cards like \"Airknight Parshath\".\\n2. You can chain \"Null and Void\" to a Continuous Spell or Trap Card that causes drawing, such as \"Mirage of Nightmare\" or \"Heart of the Underdog\".\\n3. You cannot chain \"Null and Void\" to \"Disturbance Strategy\", \"Graceful Charity\", \"Card Destruction\", \"Morphing Jar\", \"Mind Wipe\", \"Dragged Down into the Grave\", or \"Reload\".\\n4. You can activate \"Null and Void\" during the Damage Step, for example against the effects of \"Airknight Parshath\", \"Sasuke Samurai #3\" or \"Bistro Butcher\".\\n5. The card(s) discarded by the effect of \"Null and Void\" are never treated as actually drawn, so they are considered sent from the Deck to the GY.\\n6. You can chain \"Null and Void\" to \"Reckless Greed\". Since you cannot draw by the effect of \"Reckless Greed\", the effect of skipping 2 Draw Phases is NOT applied.\\n7. You can chain \"Null and Void\" to the effect of \"Royal Magical Library\".\\n8. You cannot chain \"Null and Void\" to the effect of \"Appropriate\" because the effect of \"Appropriate\" cannot be chained to."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

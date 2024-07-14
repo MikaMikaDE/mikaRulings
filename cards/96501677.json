@@ -1,0 +1,44 @@
+{
+  "id": 96501677,
+  "name": "Catnipped Kitty",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 0,
+    "def": 500,
+    "level": 2,
+    "race": "Beast",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "\n●The first effect of “Catnipped Kitty” is a Continuous Effect and the second is an Ignition Effect.\n●You cannot target a face-down monster with the effect of “Catnipped Kitty”.\n●If you control 2 copies of “Catnipped Kitty” on the field, and no other monsters, your opponent cannot attack, except with monsters that have an effect which allows them to attack directly.",
+    "Goat": "●The first effect of “Catnipped Kitty” is a Continuous Effect and the second is an Ignition Effect.\n●You cannot target a face-down monster with the effect of “Catnipped Kitty”.\n●If you control 2 copies of “Catnipped Kitty” on the field, and no other monsters, your opponent cannot attack, except with monsters that have an effect which allows them to attack directly.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● The first effect of “Catnipped Kitty” is a Continuous Effect and the second is an Ignition Effect.\n● You can't target a face-down monster with the effect of “Catnipped Kitty”.\n● If you control 2 copies of “Catnipped Kitty” on the field, and no other monsters, your opponent can't attack, except with monsters that have an effect which allows them to attack directly.",
+    "TeleDAD": "● The first effect of “Catnipped Kitty” is a Continuous Effect and the second is an Ignition Effect.\n● You can't target a face-down monster with the effect of “Catnipped Kitty”.\n● If you control 2 copies of “Catnipped Kitty” on the field, and no other monsters, your opponent can't attack, except with monsters that have an effect which allows them to attack directly.",
+    "Gladiator": "● The first effect of “Catnipped Kitty” is a Continuous Effect and the second is an Ignition Effect.\n● You can't target a face-down monster with the effect of “Catnipped Kitty”.\n● If you control 2 copies of “Catnipped Kitty” on the field, and no other monsters, your opponent can't attack, except with monsters that have an effect which allows them to attack directly.",
+    "ReturnDAD": "● The first effect of “Catnipped Kitty” is a Continuous Effect and the second is an Ignition Effect.\n● You can't target a face-down monster with the effect of “Catnipped Kitty”.\n● If you control 2 copies of “Catnipped Kitty” on the field, and no other monsters, your opponent can't attack, except with monsters that have an effect which allows them to attack directly.",
+    "Trooper": "● The first effect of “Catnipped Kitty” is a Continuous Effect and the second is an Ignition Effect.\n● You can't target a face-down monster with the effect of “Catnipped Kitty”.\n● If you control 2 copies of “Catnipped Kitty” on the field, and no other monsters, your opponent can't attack, except with monsters that have an effect which allows them to attack directly.",
+    "Circle": "● The first effect of “Catnipped Kitty” is a Continuous Effect and the second is an Ignition Effect.\n● You can't target a face-down monster with the effect of “Catnipped Kitty”.\n● If you control 2 copies of “Catnipped Kitty” on the field, and no other monsters, your opponent can't attack, except with monsters that have an effect which allows them to attack directly.",
+    "Stein": "● The first effect of “Catnipped Kitty” is a Continuous Effect and the second is an Ignition Effect.\n● You can't target a face-down monster with the effect of “Catnipped Kitty”.\n● If you control 2 copies of “Catnipped Kitty” on the field, and no other monsters, your opponent can't attack, except with monsters that have an effect which allows them to attack directly.",
+    "Base": "1. The first effect of \"Catnipped Kitty\" is a Continuous Effect and the second is an Ignition Effect.\\n2. You cannot target a face-down monster with the effect of \"Catnipped Kitty\".\\n3. If you control 2 copies of \"Catnipped Kitty\" on the field, and no other monsters, your opponent cannot attack, except with monsters that have an effect which allows them to attack directly."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

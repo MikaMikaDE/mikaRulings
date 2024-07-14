@@ -1,0 +1,44 @@
+{
+  "id": 81566151,
+  "name": "Elemental HERO Flare Neos",
+  "Stats": {
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "atk": 2500,
+    "def": 2000,
+    "level": 7,
+    "race": "Warrior",
+    "attribute": "FIRE"
+  },
+  "Rulings": {
+    "Tengu": "\n●If this card was Special Summoned properly by its own effect, then you can Special Summon it from the GY with “Call of the Haunted”, etc.\n●If you control your opponent’s “Elemental Hero Neos” or “Neo-Spacian”, you can return it to your opponent’s Deck to Special Summon this card.\n●This card’s effect activates during every End Phase. If this card is not face-up on the field during the End Phase of the turn it was Special Summoned, its effect will still activate during the next End Phase that it is face-up on the field for, and be returned to the Extra Deck.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If this card was Special Summoned properly by its own effect, then you can Special Summon it from the GY with “Call of the Haunted”, etc.\n● If you control your opponent’s “Elemental Hero Neos” or “Neo-Spacian”, you can return it to your opponent’s Deck to Special Summon this card.\n● This card’s effect activates during every End Phase. If this card isn't applying during the End Phase of the turn it was Special Summoned, its effect will still activate during the next End Phase that it is applying for, and be returned to the Extra Deck.",
+    "TeleDAD": "● If this card was Special Summoned properly by its own effect, then you can Special Summon it from the GY with “Call of the Haunted”, etc.\n● If you control your opponent’s “Elemental Hero Neos” or “Neo-Spacian”, you can return it to your opponent’s Deck to Special Summon this card.\n● This card’s effect activates during every End Phase. If this card isn't applying during the End Phase of the turn it was Special Summoned, its effect will still activate during the next End Phase that it is applying for, and be returned to the Extra Deck.",
+    "Gladiator": "● If this card was Special Summoned properly by its own effect, then you can Special Summon it from the GY with “Call of the Haunted”, etc.\n● If you control your opponent’s “Elemental Hero Neos” or “Neo-Spacian”, you can return it to your opponent’s Deck to Special Summon this card.\n● This card’s effect activates during every End Phase. If this card isn't applying during the End Phase of the turn it was Special Summoned, its effect will still activate during the next End Phase that it is applying for, and be returned to the Fusion Deck.",
+    "ReturnDAD": "● If this card was Special Summoned properly by its own effect, then you can Special Summon it from the GY with “Call of the Haunted”, etc.\n● If you control your opponent’s “Elemental Hero Neos” or “Neo-Spacian”, you can return it to your opponent’s Deck to Special Summon this card.\n● This card’s effect activates during every End Phase. If this card isn't applying during the End Phase of the turn it was Special Summoned, its effect will still activate during the next End Phase that it is applying for, and be returned to the Fusion Deck.",
+    "Trooper": "● If this card was Special Summoned properly by its own effect, then you can Special Summon it from the GY with “Call of the Haunted”, etc.\n● If you control your opponent’s “Elemental Hero Neos” or “Neo-Spacian”, you can return it to your opponent’s Deck to Special Summon this card.\n● This card’s effect activates during every End Phase. If this card isn't applying during the End Phase of the turn it was Special Summoned, its effect will still activate during the next End Phase that it is applying for, and be returned to the Fusion Deck.",
+    "Circle": "● If this card was Special Summoned properly by its own effect, then you can Special Summon it from the GY with “Call of the Haunted”, etc.\n● If you control your opponent’s “Elemental Hero Neos” or “Neo-Spacian”, you can return it to your opponent’s Deck to Special Summon this card.\n● This card’s effect activates during every End Phase. If this card isn't applying during the End Phase of the turn it was Special Summoned, its effect will still activate during the next End Phase that it is applying for, and be returned to the Fusion Deck.",
+    "Stein": "● If this card was Special Summoned properly by its own effect, then you can Special Summon it from the GY with “Call of the Haunted”, etc.\n● If you control your opponent’s “Elemental Hero Neos” or “Neo-Spacian”, you can return it to your opponent’s Deck to Special Summon this card.\n● This card’s effect activates during every End Phase. If this card isn't applying during the End Phase of the turn it was Special Summoned, its effect will still activate during the next End Phase that it is applying for, and be returned to the Fusion Deck.",
+    "Base": "1. If this card was Special Summoned properly by its own effect, then you can Special Summon it from the GY with \"Call of the Haunted\", etc.\\n2. If you control your opponent's \"Elemental HERO Neos\" or \"Neo-Spacian\", you can return it to your opponent's Deck to Special Summon this card.\\n3. This card's effect activates during every End Phase. If this card is not face-up on the field during the End Phase of the turn it was Special Summoned, its effect will still activate during the next End Phase that it is face-up on the field for, and be returned to the Extra Deck."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

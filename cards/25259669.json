@@ -1,0 +1,44 @@
+{
+  "id": 25259669,
+  "name": "Goblindbergh",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 1400,
+    "def": 0,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "● If this card summons a monster with a \"When this card is Normal or Special Summoned: You can\" effect, \nthat monster will miss its timing, and cannot activate that effect.\nCommonly used cards with this text include \"Armageddon Knight\", \"Green Gadget\", and \"Infernity Archfiend\".\n\n● If this card is Normal Summoned while \"Level Limit - Area B\" is applying, it can still Summon a monster, and that monster can't miss its timing.",
+    "Vegas": "● If this card summons a monster with a \"When this card is Normal or Special Summoned: You can\" effect, \nthat monster will miss its timing, and cannot activate that effect.\nCommonly used cards with this text include \"Armageddon Knight\", \"Green Gadget\", and \"Infernity Archfiend\".\n\n● If this card is Normal Summoned while \"Level Limit - Area B\" is applying, it can still Summon a monster, and that monster can't miss its timing.",
+    "Meadowlands": "● If this card summons a monster with a \"When this card is Normal or Special Summoned: You can\" effect, \nthat monster will miss its timing, and cannot activate that effect.\nCommonly used cards with this text include \"Armageddon Knight\", \"Green Gadget\", and \"Infernity Archfiend\".\n\n● If this card is Normal Summoned while \"Level Limit - Area B\" is applying, it can still Summon a monster, and that monster can't miss its timing.",
+    "FireWater": "● If this card summons a monster with a \"When this card is Normal or Special Summoned: You can\" effect, \nthat monster will miss its timing, and cannot activate that effect.\nCommonly used cards with this text include \"Armageddon Knight\", \"Green Gadget\", and \"Infernity Archfiend\".\n\n● If this card is Normal Summoned while \"Level Limit - Area B\" is applying, it can still Summon a monster, and that monster can't miss its timing.",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand, then change this card to Defense Position if you activated this effect.",
+    "Meadowlands": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand, then change this card to Defense Position if you activated this effect.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

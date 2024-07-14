@@ -1,0 +1,40 @@
+{
+  "id": 26640671,
+  "name": "Spiders' Lair",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. This effect targets 1 face-up Insect-Type monster you control. It is targeted continuously.\\n2. You can activate this effect targeting your Insect-Type monster during your Main Phase. It starts a Chain.\\n3. The effect to change your opponent's monster to Defense Position is applied after damage calculation.\\n4. If a monster targeted by \"Spiders' Lair\" stops being an Insect-Type monster, the effect of \"Spiders' Lair\" that changes the opponent's monster to Defense Position is still applied.\\n5. If a monster being kept in Defense Position by \"Spiders' Lair\" is flipped face-down with \"Book of Moon\", the effect of \"Spiders' Lair\" is no longer applied to it.\\n6. If a monster you targeted with \"Spiders' Lair\" is flipped face-down, it is no longer targeted by \"Spiders' Lair\".\\n7. If your opponent's monster is not changed to Defense Position by \"Spiders' Lair\" then the effect to keep it in Defense Position is not applied.\\n8. Changing your opponent's monster to Defense Position does not start a Chain."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

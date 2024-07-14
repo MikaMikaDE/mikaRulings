@@ -1,0 +1,40 @@
+{
+  "id": 5973663,
+  "name": "The World Tree",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+    "Tengu": "\n●Placing Flower Counters onto The World Tree does not start a Chain.\n●Each of The World Tree's effects target. Each effect is an Ignition Effect.\n●If the Monster Type of a monster on the field is changed to Plant-Type with DNA Surgery, when it is destroyed, place a Flower Counter onto The World Tree.\n●If a Plant-Type monster is destroyed by battle, place a Flower Counter onto The World Tree when the destroyed monster is sent to the GY. If a Plant-Type monster is destroyed by a card effect, place a Flower Counter onto The World Tree after resolving the effect that destroyed the Plant-Type monster.\n●If The World Tree is removed from the field after resolving its Remove 1: effect, the ATK and DEF increase still lasts until the End Phase.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● Placing Flower Counters onto 'The World Tree' does not start a Chain.\n● Each of 'The World Tree's' effects target. Each effect is an Ignition Effect.\n● If the Monster Type of a monster on the field is changed to Plant-Type with 'DNA Surgery', when it is destroyed, place a Flower Counter onto 'The World Tree'.\n● If a Plant is destroyed by battle, place a Flower Counter onto 'The World Tree' when the destroyed monster is sent to the GY. If a Plant is destroyed by a card effect, place a Flower Counter onto 'The World Tree' after resolving the effect that destroyed the Plant.\n● If 'The World Tree' leaves the field after resolving its 'Remove 1:' effect, the ATK/DEF increase still lasts until the End Phase.",
+    "TeleDAD": "● Placing Flower Counters onto 'The World Tree' does not start a Chain.\n● Each of 'The World Tree's' effects target. Each effect is an Ignition Effect.\n● If the Monster Type of a monster on the field is changed to Plant-Type with 'DNA Surgery', when it is destroyed, place a Flower Counter onto 'The World Tree'.\n● If a Plant is destroyed by battle, place a Flower Counter onto 'The World Tree' when the destroyed monster is sent to the GY. If a Plant is destroyed by a card effect, place a Flower Counter onto 'The World Tree' after resolving the effect that destroyed the Plant.\n● If 'The World Tree' leaves the field after resolving its 'Remove 1:' effect, the ATK/DEF increase still lasts until the End Phase.",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Placing Flower Counters onto \"The World Tree\" does not start a Chain.\\n2. Each of the effects of \"The World Tree\" target. Each effect is an Ignition Effect.\\n3. If the Monster Type of a monster on the field is changed to Plant-Type with \"DNA Surgery\", when it is destroyed, place a Flower Counter onto \"The World Tree\".\\n4. If a Plant-Type monster is destroyed by battle, place a Flower Counter onto \"The World Tree\" when the destroyed monster is sent to the GY. If a Plant-Type monster is destroyed by a card effect, place a Flower Counter onto \"The World Tree\" after resolving the effect that destroyed the Plant-Type monster.\\n5. If \"The World Tree\" is removed from the field after resolving its 'Remove 1:' effect, the ATK and DEF increase still lasts until the End Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

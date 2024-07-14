@@ -1,0 +1,40 @@
+{
+  "id": 71490127,
+  "name": "Dragon's Mirror",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Normal"
+  },
+  "Rulings": {
+    "Tengu": "Remove from play, from your side of the field or your GY, Fusion Material Monsters that are listed on a Dragon-Type Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon.)\n●“Dragon’s Mirror” does not target. You select and remove the monsters during resolution.\n●You can use fusion substitute monsters like “King of the Swamp” for “Dragon’s Mirror”.\n●If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Dragon’s Mirror” if all the Fusion Material Monsters are on the field; but not if any of them are in the GY.",
+    "Goat": "●If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Dragon’s Mirror” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you cannot activate it.\n●“Dragon’s Mirror” is a card that targets monsters, either on the field and/or in the GY.",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Dragon’s Mirror” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● You can use fusion substitute monsters like “King of the Swamp” and “Goddess with the Third Eye” for “Dragon’s Mirror”. \n● “Dragon’s Mirror” does not target. You select and remove the monsters during resolution.",
+    "TeleDAD": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Dragon’s Mirror” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● You can use fusion substitute monsters like “King of the Swamp” and “Goddess with the Third Eye” for “Dragon’s Mirror”. \n● “Dragon’s Mirror” does not target. You select and remove the monsters during resolution.",
+    "Gladiator": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Dragon’s Mirror” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● You can use fusion substitute monsters like “King of the Swamp” and “Goddess with the Third Eye” for “Dragon’s Mirror”. \n● “Dragon’s Mirror” does not target. You select and remove the monsters during resolution.",
+    "ReturnDAD": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Dragon’s Mirror” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● You can use fusion substitute monsters like “King of the Swamp” and “Goddess with the Third Eye” for “Dragon’s Mirror”. \n● “Dragon’s Mirror” does not target. You select and remove the monsters during resolution.",
+    "Trooper": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Dragon’s Mirror” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● “Dragon’s Mirror” is a card that targets monsters, either on the field and/or in the GY.",
+    "Circle": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Dragon’s Mirror” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● You can use fusion substitute monsters like “King of the Swamp” and “Goddess with the Third Eye” for “Dragon’s Mirror”. \n● “Dragon’s Mirror” does not target. You select and remove the monsters during resolution.",
+    "Stein": "● If “Kycoo the Ghost Destroyer” is on your opponent’s side of the field, you can activate “Dragon’s Mirror” if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you can't activate it.\n● “Dragon’s Mirror” is a card that targets monsters, either on the field and/or in the GY.",
+    "Base": "1. If \"Kycoo the Ghost Destroyer\" is on your opponent's side of the field, you can activate \"Dragon's Mirror\" if all the Fusion Material Monsters are on the field; however, if any of them are in the GY, you cannot activate it.\\n2. You can use fusion substitute monsters like \"King of the Swamp\" and \"Goddess with the Third Eye\" for \"Dragon's Mirror\".\\n3. \"Dragon's Mirror\" does not target. You select and remove the monsters during resolution."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

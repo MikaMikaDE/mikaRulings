@@ -1,0 +1,44 @@
+{
+  "id": 9748752,
+  "name": "Caius the Shadow Monarch",
+  "Stats": {
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "atk": 2400,
+    "def": 1000,
+    "level": 6,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Rulings": {
+    "Tengu": "● If your opponent has no cards on the field after taking 1000 damage from this effect, they can activate the effect of \"Gorz the Emissary of Darkness\".",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● No damage is inflicted when 'Caius the Shadow Monarch's' effect removes 'Zoma the Spirit' from play or removes a DARK Monster Token.",
+    "TeleDAD": "● No damage is inflicted when 'Caius the Shadow Monarch's' effect removes 'Zoma the Spirit' from play or removes a DARK Monster Token.",
+    "Gladiator": "● No damage is inflicted when 'Caius the Shadow Monarch's' effect removes 'Zoma the Spirit' from play or removes a DARK Monster Token.",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. No damage is inflicted when the effect of \"Caius the Shadow Monarch\" removes \"Zoma the Spirit\" from play or removes a DARK Monster Token."
+  },
+  "PSCT": {
+    "Tengu": "① If this card is Tribute Summoned: Target 1 card on the field; \nBanish that target, and if you do, your opponent takes 1000 damage if it was a DARK monster.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

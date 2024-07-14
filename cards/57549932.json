@@ -1,0 +1,44 @@
+{
+  "id": 57549932,
+  "name": "Dawnbreak Gardna",
+  "Stats": {
+    "type": "Gemini Monster",
+    "frameType": "effect",
+    "atk": 1500,
+    "def": 500,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Rulings": {
+    "Tengu": "\n●If Dawnbreak Gardna gains DEF from The Reliable Guardian, etc. and then is Normal Summoned again, the DEF increase is recalculated after applying its new original DEF.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "● If 'Dawnbreak Gardna' gains DEF from 'The Reliable Guardian', etc. and then is Normal Summoned again, the DEF increase is recalculated after applying its new original DEF.",
+    "TeleDAD": "● If 'Dawnbreak Gardna' gains DEF from 'The Reliable Guardian', etc. and then is Normal Summoned again, the DEF increase is recalculated after applying its new original DEF.",
+    "Gladiator": "● If 'Dawnbreak Gardna' gains DEF from 'The Reliable Guardian', etc. and then is Normal Summoned again, the DEF increase is recalculated after applying its new original DEF.",
+    "ReturnDAD": "● If 'Dawnbreak Gardna' gains DEF from 'The Reliable Guardian', etc. and then is Normal Summoned again, the DEF increase is recalculated after applying its new original DEF.",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "● If 'Dawnbreak Gardna' gains DEF from 'The Reliable Guardian', etc. and then is Normal Summoned again, the DEF increase is recalculated after applying its new original DEF.",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. If \"Dawnbreak Gardna\" gains DEF from \"The Reliable Guardian\", etc. and then is Normal Summoned again, the DEF increase is recalculated after applying its new original DEF."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}

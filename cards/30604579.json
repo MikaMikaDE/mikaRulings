@@ -1,0 +1,44 @@
+{
+  "id": 30604579,
+  "name": "Thor, Lord of the Aesir",
+  "Stats": {
+    "type": "Synchro Monster",
+    "frameType": "synchro",
+    "atk": 3500,
+    "def": 2800,
+    "level": 10,
+    "race": "Beast-Warrior",
+    "attribute": "EARTH"
+  },
+  "Rulings": {
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. None of these effects target.\\n2. All of these effects start a Chain.\\n3. Negating your opponent's monster effects is an Ignition Effect. You can only use it during one of your Main Phases.\\n4. You cannot activate the effect of \"Thor, Lord of the Aesir\" to negate effects unless your opponent controls at least one face-up Effect Monster.\\n5. If your opponent takes control of \"Thor, Lord of the Aesir\" in a Chain with his effect to negate the effects of your opponent's face-up monsters, his effect will be negated.\\n6. \"Thor, Lord of the Aesir\" will still negate the effects of your opponent's face-up monsters, even if he's face-down when his effect resolves.\\n7. This effect will not negate the effects of monsters that activate in the GY, such as \"Sangan\".\\n8. Monsters Summoned after the effect of \"Thor, Lord of the Aesir\" resolves won't have their effects negated.\\n9. Removing the appropriate Tuner monster is a cost.\\n10. Being destroyed \"by your opponent's card\" includes card effects and battle.\\n11. If an 'Aesir' monster is destroyed by a card effect while face-down, or attacked while face-down and destroyed by that battle, you cannot Special Summon it during the End Phase.\\n12. If an 'Aesir' monster is Special Summoned back from the GY during the End Phase and then destroyed again by \"Torrential Tribute\", you can Special Summon it back to the field again as long as you have the appropriate Tuner monster to remove.\\n13. If an 'Aesir' monster is destroyed by the opponent while it's effect is being negated by \"March Towards Ragnarok\" you can still Special Summon it from the GY during the End Phase."
+  },
+  "PSCT": {
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card."
+  }
+}
