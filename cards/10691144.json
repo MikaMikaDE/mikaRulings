@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Activating more than 1 \"Mirror of the Ice Barrier\" has no more effect than activating 1 \"Mirror of the Ice Barrier\".\\n2. None of this card's effects start a Chain when you apply them.\\n3. You choose whether to remove from play 1 or 2 cards.\\n4. If more than 1 of your cards is removed from play from the same place you can still only remove from play up to 2 of your opponent's cards from that same place.\\n5. If your cards are removed from play from different places at the same time, you can remove up to 2 of your opponent's cards from each of those places.\\n6. If your opponent controls \"Macro Cosmos\" and they use \"Man-Eater Bug\" to destroy one of your monsters, even though your monster is removed from play, the effect of \"Mirror of the Ice Barrier\" won't apply because \"Man-Eater Bug\" is not an effect that removes cards from play."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

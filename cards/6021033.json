@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Doomkaiser Dragon\" targets 1 Zombie-Type monster, both in your opponent's GY and while it is on the field.\\n2. Destroying the Special Summoned Zombie-Type monster when \"Doomkaiser Dragon\" is removed from the field does not start a Chain.\\n3. If an effect is chained that flips \"Doomkaiser Dragon\" face-down, the targeted Zombie-Type monster is still Special Summoned and it is no longer targeted by \"Doomkaiser Dragon\" while on the field."
   },
   "PSCT": {
+    "Edison": "Plaguespreader Zombie\" + 1 or more non-Tuner Zombies\n① When Special Summoned: You can target 1 Zombie in your opponent's GY; Special Summon that target to your field in Attack Position (destroy it if this card leaves the field).",
     "Tengu": "Plaguespreader Zombie\" + 1 or more non-Tuner Zombies\n① When Special Summoned: You can target 1 Zombie in your opponent's GY; \nSpecial Summon that target to your field in Attack Position (destroy it if this card leaves the field).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

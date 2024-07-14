@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●The Unclassified Effect does not activate. It applies while this card is face-up on the field\n●Applying this effect does not start a chain.\n●This effect can be negated (by Debris Dragon / Junk Synchron / Skill Drain).\n●If Tuningware's Level is changed, it can still apply this effect.\n●The mandatory Trigger Effect activates & resolves in the GY.\n●This effect can activate when Eccentric Boy uses this card as Synchro Material from the hand.\n●This effect can't activate if the Synchro Summon is negated (by Black Horn of Heaven).",
     "Tengu": "(1) If this card is used for a Synchro Summon, you can treat it as a Level 2 monster. (2) If this card is sent to the GY for a Synchro Summon, draw 1 card.\n●The (1) Unclassified Effect does not activate. It applies while this card is face-up on the field\n●Applying this effect does not start a chain.\n●This effect can be negated (by Debris Dragon / Junk Synchron / Skill Drain).\n●If Tuningware's Level is changed, it can still apply this effect.\n●The (2) mandatory Trigger Effect activates & resolves in the GY.\n●This effect can activate when Eccentric Boy uses this card as Synchro Material from the hand.\n●This effect cannot activate if the Synchro Summon is negated (by Black Horn of Heaven).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

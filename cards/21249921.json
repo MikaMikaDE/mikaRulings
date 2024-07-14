@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The equipping effect targets the 'Dragunity' monster in your GY.\\n2. Sending 1 Equip Card equipped to this card to the GY is a cost.\\n3. You can send your opponent's Equip Card that is equipped to this card to the GY to activate the effect to double the ATK."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

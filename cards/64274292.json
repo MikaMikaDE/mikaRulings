@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can activate Meteorain during your turn at any point from the Draw Phase to the end of your Battle Phase; you can't activate it during the Damage Step, Main Phase 2, your End Phase, or your opponent's turn.\n●Meteorain's effect applies to all your monsters. Monsters that you Summon, Flip Summon, Special Summon, etc. after activating Meteorain still get its effect.\n●When you attack with a monster that has Meteorain's bonus, and you attack a Defense Position Amazoness Swordswoman, then you will take the Battle Damage to your Life Points.",
     "Tengu": "\n●You can activate Meteorain during your turn at any point from the Draw Phase to the end of your Battle Phase; you cannot activate it during the Damage Step, Main Phase 2, your End Phase, or your opponent's turn.\n●Meteorain's effect applies to all your monsters. Monsters that you Summon, Flip Summon, Special Summon, etc. after activating Meteorain still get its effect.\n●When you attack with a monster that has Meteorain's bonus, and you attack a Defense Position Amazoness Swordswoman, then you will take the Battle Damage to your Life Points.",
     "Goat": "●You can activate Meteorain during your turn at any point from the DP to the end of your Battle Phase; you cannot activate it during the Damage Step, MP 2, your End Phase, or your opponent's turn.\n●Meteorain's effect applies to all your monsters. Monsters that you Summon, Flip Summon, Special Summon, etc. after activating Meteorain still get its effect.\n●When you attack with a monster that has Meteorain's bonus, and you attack a Defense Position Amazoness Swordswoman, then you will take the Battle Damage to your LP.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can activate \"Meteorain\" during your turn at any point from the Draw Phase to the end of your Battle Phase; you cannot activate it during the Damage Step, Main Phase 2, your End Phase, or your opponent's turn.\\n2. The effect of \"Meteorain\" applies to all your monsters. Monsters that you Summon, Flip Summon, Special Summon, etc. after activating \"Meteorain\" still get its effect.\\n3. When you attack with a monster that has the bonus of \"Meteorain\", and you attack a Defense Position \"Amazoness Swordswoman\", then you will take the Battle Damage to your Life Points."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

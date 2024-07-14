@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●This card should say FLIP: Both players can remove from play up to 3 cards from their opponent's GY., not up to 3 monsters.\n●You can use Dimension Jar's effect for zero to three cards, so even if your opponent has less than 3 cards in his GY you can still use Dimension Jar's effect.\n●When Kycoo the Ghost Destroyer is on the field and Dimension Jar is activated, the controller of Kycoo the Ghost Destroyer can remove their opponent's cards in the GY from play.",
     "Tengu": "\n●This card should say FLIP: Both players can remove from play up to 3 cards from their opponent's GY., not up to 3 monsters.\n●You can use Dimension Jar's effect for zero to three cards, so even if your opponent has less than 3 cards in his GY you can still use Dimension Jar's effect.\n●When Kycoo the Ghost Destroyer is on the field and Dimension Jar is activated, the controller of Kycoo the Ghost Destroyer can remove their opponent's cards in the GY from play.",
     "Goat": "●You can use Dimension Jar's effect for zero to three cards, so even if your opponent has less than 3 monsters in his GY you can still use Dimension Jar's effect.\n●When Kycoo the Ghost Destroyer is on the field and Dimension Jar is activated, the controller of Kycoo the Ghost Destroyer can remove his/her opponent's cards in the GY from play.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This card should say 'FLIP: Both players can remove from play up to 3 cards from their opponent's GY.', not 'up to 3 monsters'.\\n2. You can use the effect of \"Dimension Jar\" for zero to three cards, so even if your opponent has less than 3 cards in his GY you can still use the effect of \"Dimension Jar\".\\n3. When \"Kycoo the Ghost Destroyer\" is on the field and \"Dimension Jar\" is activated, the controller of \"Kycoo the Ghost Destroyer\" can remove their opponent's cards in the GY from play."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

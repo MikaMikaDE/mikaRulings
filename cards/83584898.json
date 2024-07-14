@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If \"Darkworld Shackles\" and \"Pestilence\" are equipped to the same monster:\\n[*] If \"Darkworld Shackles\" was equipped first, the monster will have 0 ATK/100 DEF.\\n[*] If \"Pestilence\" was equipped first, the monster will have 100 ATK/100 DEF.\\n[*] If one of the Equip Spells is later removed, the remaining one will take over."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

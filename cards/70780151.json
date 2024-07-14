@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● The ② effect can only negate cards, not effects. It can also only negate cards which target exactly 1 Psychic (and no other cards).\n● The ② effect can negate cards which target Psychics anywhere, even in either GY.",
     "Tengu": "● The ② effect can only negate cards, not effects. It can also only negate cards which target exactly 1 Psychic (and no other cards).\n● The ② effect can negate cards which target Psychics anywhere, even in either GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can chain the effect of \"Thought Ruler Archfiend\" when a Psychic-Type monster in the GY is targeted.\\n2. The effect of \"Thought Ruler Archfiend\" can be activated during the Damage Step."
   },
   "PSCT": {
+    "Edison": "1 Tuner + 1+ non-Tuner monsters\n① If this card destroys a monster by battle and sends it to the GY: \nGain LP equal to that monster's original ATK (even if it is no longer in the GY). \n② If a Spell/Trap Card is activated that targets 1 exactly Psychic (anywhere) (Quick): You can pay 1000LP; negate the activation, and if you do, destroy it.",
     "Tengu": "1 Tuner + 1+ non-Tuner monsters\n① If this card destroys a monster by battle and sends it to the GY: \nGain LP equal to that monster's original ATK in the GY. \n② If a Spell/Trap Card is activated that targets 1 exactly Psychic (anywhere) (Quick): You can pay 1000LP;\nnegate the activation, and if you do, destroy it.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

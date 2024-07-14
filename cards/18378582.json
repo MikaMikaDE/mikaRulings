@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● The only way you can Special Summon this card is via its own procedure.\nEven if it was initially summoned that way, you still can't summon it with card effects.",
     "Tengu": "● The only way you can Special Summon this card is via its own procedure.\nEven if it was initially summoned that way, you still can't summon it with card effects.",
     "Goat": "●If you chain Mystical Space Typhoon to Archlord Zerato's effect and destroy The Sanctuary in the Sky, Archlord Zerato's effect disappears because Archlord Zerato's effect needs The Sanctuary in the Sky on the field when the effect resolves, not just when it activates (just like The Agent of Judgment - Saturn).\n●You can activate Archlord Zerato's effect even if The Sanctuary in the Sky is not on the field, but the effect will not resolve.\n●You can activate Archlord Zerato's effect multiple times in the same turn.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you chain \"Mystical Space Typhoon\" to the effect of \"Archlord Zerato\" and destroy \"The Sanctuary in the Sky\", the effect of \"Archlord Zerato\" disappears because the effect of \"Archlord Zerato\" needs \"The Sanctuary in the Sky\" on the field when the effect resolves, not just when it activates (just like \"The Agent of Judgment - Saturn\").\\n2. You can activate the effect of \"Archlord Zerato\" even if \"The Sanctuary in the Sky\" is not on the field, but the effect will not resolve.\\n3. You can activate the effect of \"Archlord Zerato\" multiple times in the same turn."
   },
   "PSCT": {
+    "Edison": "© Cannot be Normal Summoned/Set. \n© Must be Special Summoned by Tributing 1 face-up \"Warrior of Zera\" you control, \nwhile \"The Sanctuary in the Sky\" is face-up on the field. \n① You can discard 1 LIGHT to the GY; destroy all monsters your opponent controls \n(Activate and resolve only if you control \"The Sanctuary in the Sky\").",
     "Tengu": "© Can't be Normal Summoned/Set. \n© Must be Special Summoned by Tributing 1 face-up \"Warrior of Zera\" you control, \nwhile \"The Sanctuary in the Sky\" is face-up on the field. \n① You can discard 1 LIGHT to the GY; destroy all monsters your opponent controls \n(Activate and resolve only if you control \"The Sanctuary in the Sky\").",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

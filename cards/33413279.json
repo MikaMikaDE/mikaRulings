@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Removing 2 Spell Counters is a cost.\\n2. This effect targets 1 Spell or Trap Card."
   },
   "PSCT": {
+    "Edison": "1 Tuner + 1 or more non-Tuner Spellcasters\n① You can remove 2 Spell Counters from your field, then target 1 Spell/Trap your opponent controls; destroy that target.",
     "Tengu": "1 Tuner + 1 or more non-Tuner Spellcasters\n① You can remove 2 Spell Counters from your field, then target 1 Spell/Trap your opponent controls;\ndestroy that target.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

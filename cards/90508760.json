@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● Your opponent can chain \"Gorz the Emissary of Darkness\" or \"Tragoedia\" to this effect. \nThis effect resolves (and the random card is chosen) after the Gorz/Tragoedia is Summoned.",
     "Tengu": "● Your opponent can chain \"Gorz the Emissary of Darkness\" or \"Tragoedia\" to this effect. \nThis effect resolves (and the random card is chosen) after the Gorz/Tragoedia is Summoned.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to discard a card only activates if you attack directly with \"X-Saber Airbellum\" and inflict at least 1 damage.\\n2. This effect will only activate if you attack your opponent directly and successfully inflict damage. If your opponent took 0 damage because of \"Waboku\", this effect will not activate.\\n3. [FORUM] If \"X-Saber Airbellum\" makes a direct attack on an opponent that controls no cards and has \"Gorz the Emissary of Darkness\" in hand, the effects of \"X-Saber Airbellum\" and \"Gorz the Emissary of Darkness\" form a chain with \"X-Saber Airbellum\" becoming Chain Link 1 and \"Gorz the Emissary of Darkness\" becoming Chain Link 2."
   },
   "PSCT": {
+    "Edison": "① If this card inflicts Direct Battle Damage: Your opponent discards 1 random card.",
     "Tengu": "① If this card inflicts Direct Battle Damage: Your opponent discards 1 random card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

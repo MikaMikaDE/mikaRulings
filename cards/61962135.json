@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Sending the top 2 cards of your Deck to the GY starts a Chain."
   },
   "PSCT": {
+    "Edison": "① Activate by targeting 1 \"Lightsworn\" monster in your GY; Special Summon it in Attack Position. \n② If this card leaves the field, destroy that monster. \n③ If that monster leaves the field, destroy this card.\n④ During your End Phase: Send the top 2 cards of your Deck to the GY.\n(Activate & Resolve only if this card is face-up on the field).",
     "Tengu": "① Activate by targeting 1 \"Lightsworn\" monster in your GY; Special Summon it in Attack Position. \n② If this card leaves the field, destroy that monster. \n③ If that monster leaves the field, destroy this card.\n④ During your End Phase: Send the top 2 cards of your Deck to the GY.\n(Activate & Resolve only if this card is face-up on the field).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

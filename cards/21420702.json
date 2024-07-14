@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Sending 1 face-up “Blaze Accelerator” on your side of the field to the GY is a cost to activate this card.\n●Sending 1 Pyro-Type monster with 500 or less ATK to the GY is part of this card’s effect. It is not a cost.\n●You can't activate the effect of this card in the same Chain as this card’s activation. You can only activate the effect after this card’s activation is resolved, and it is face-up on the field.\n●If you activate this card's effect then you, the player, can't declare an attack so even a monster unaffected by the effects of Spell Cards like Horus the Black Flame Dragon LV6 can't attack.",
     "Tengu": "\n●Sending 1 face-up “Blaze Accelerator” on your side of the field to the GY is a cost to activate this card.\n●Sending 1 Pyro-Type monster with 500 or less ATK to the GY is part of this card’s effect. It is not a cost.\n●You cannot activate the effect of this card in the same Chain as this card’s activation. You can only activate the effect after this card’s activation is resolved, and it is face-up on the field.\n●If you activate this card's effect then you, the player, cannot declare an attack so even a monster unaffected by the effects of Spell Cards like Horus the Black Flame Dragon LV6 cannot attack.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Sending 1 face-up \"Blaze Accelerator\" on your side of the field to the GY is a cost to activate this card.\\n2. Sending 1 Pyro-Type monster with 500 or less ATK to the GY is part of this card's effect. It is not a cost.\\n3. You cannot activate the effect of this card in the same Chain as this card's activation. You can only activate the effect after this card's activation is resolved, and it is face-up on the field.\\n4. If you activate this card's effect then you, the player, cannot declare an attack so even a monster unaffected by the effects of Spell Cards like \"Horus the Black Flame Dragon LV6\" cannot attack."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

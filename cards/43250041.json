@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You activate Draining Shield when the monster controlled by your opponent declares an attack.\n●You gain Life Points for Draining Shield equal to the attacking monster's current ATK.",
     "Tengu": "\n●You activate Draining Shield when the monster controlled by your opponent declares an attack.\n●You gain Life Points for Draining Shield equal to the attacking monster's current ATK.",
     "Goat": "●You activate Draining Shield when the monster controlled by your opponent declares an attack.\n●You gain LP for Draining Shield equal to the attacking monster's current ATK.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You activate \"Draining Shield\" when the monster controlled by your opponent declares an attack.\\n2. You gain Life Points for \"Draining Shield\" equal to the attacking monster's current ATK."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

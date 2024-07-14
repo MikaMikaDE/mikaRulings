@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If you have no 'Synchron' Tuner monster in your Deck when \"Tuning\" resolves you do not send the top card of your Deck to the GY.\\n2. If you only have 1 card left in your Deck when \"Tuning\" resolves and it's a 'Synchron' Tuner monster, you still add it to your hand.\\n3. You add the Tuner monster to your hand, THEN send the top card of your Deck to the GY. \"Drastic Drop Off\" cannot be activated after \"Tuning\" resolves."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

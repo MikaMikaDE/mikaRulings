@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can Special Summon \"Blackwing - Silverwind the Ascendant\" with the effect of \"Blackwing - Vayu the Emblem of Honor\". You will need to remove from play a Level 7 'Blackwing' monster to do so.\\n2. You can activate the effect to destroy monsters when this card is Synchro Summoned even if \"Skill Drain\" is active. If you do, you will not be able to conduct your Battle Phase, even though the effect is negated.\\n3. If a monster targeted by \"Blackwing - Silverwind the Ascendant\" gains more DEF than the ATK of \"Blackwing - Silverwind the Ascendant\", it will not be destroyed by this card's effect.\\n4. If any monster targeted by this effect is flipped face-down, it will not be destroyed. Any remaining face-up targets will be destroyed.\\n5. If this card is flipped face-down its ATK cannot be verified, so no monsters will be destroyed.\\n6. You don't choose when to use the 'next time a 'Blackwing' monster would be destroyed by battle' effect. It is automatically activated the next time your 'Blackwing' monster would be destroyed by battle during your opponent's turn."
   },
   "PSCT": {
+    "Edison": "1 \"Blackwing\" Tuner + 2 or more non-Tuners\n① When Synchro Summoned: You can target up to 2 face-up monsters on the field with DEF lower than this card's ATK; destroy those targets. (You can't conduct your Battle Phase the turn you activate this effect). \n② During each of your opponent's turns, the first \"Blackwing\" monster you control that would be destroyed by battle is not destroyed.",
     "Tengu": "1 \"Blackwing\" Tuner + 2 or more non-Tuners\n① When Synchro Summoned: You can target up to 2 face-up monsters on the field with DEF lower than this card's ATK; \ndestroy those targets. (You can't conduct your Battle Phase the turn you activate this effect). \n② During each of your opponent's turns, the first \"Blackwing\" monster you control that would be destroyed by battle is not destroyed.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

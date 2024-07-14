@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "● The ② effect will trigger even if it is returned to the Extra Deck or banished.\n● \"Starlight Road\" can be chained to the ② effect as long as you control at least 2 monsters. \n(However, Stardust will only be summoned if this effect is being activated while in the Extra Deck).\n● The ② effect won't trigger if it was face-down when removed from the field.\n(If it was attacked while face-down, it is flipped face-up, and does activate when destroyed by battle).\n● If this card is tributed to Tribute Summon a monster with a Trigger effect (i.e. any Monarch), the ② effect must be Chain Link 1.",
     "Tengu": "● The ② effect will trigger even if it is returned to the Extra Deck or banished.\n● \"Starlight Road\" can be chained to the ② effect as long as you control at least 2 monsters. \n(However, Stardust will only be summoned if this effect is being activated while in the Extra Deck).\n● The ② effect will not trigger if it was face-down when removed from the field.\n(If it was attacked while face-down, it is flipped face-up, and does activate when destroyed by battle).\n● If this card is tributed to Tribute Summon a monster with a Trigger effect (i.e. any Monarch), the ② effect must be Chain Link 1.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "1 \"HERO\" monster + 1 WATER monster\nⓈ Must be Fusion Summoned. \n① Gains 500 ATK for each WATER on the field (except \"Elemental HERO Absolute Zero\"). \n② If this card leaves the field: \nDestroy all monsters your opponent controls.",
     "Tengu": "1 \"HERO\" monster + 1 WATER monster\nⓈ Must be Fusion Summoned. \n① Gains 500 ATK for each WATER on the field (except \"Elemental HERO Absolute Zero\"). \n② If this card leaves the field: \nDestroy all monsters your opponent controls.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●This effect targets 1 face-up card on the field. It targets that card continuously throughout the turn.\n●Paying 500 Life Points is a cost, not an effect. It can't be negated by “Royal Decree.”\n●If you target a “Gladiator Beast” monster with this effect, and your opponent returns it to the Deck to activate its effect, the effect will still be negated and the “Gladiator Beast” monster will remain in the Deck.\n●If “Seal of Wickedness” targets itself, it will be negated for 1 turn. You can flip “Seal of Wickedness” and activate its effect in the same Chain.\n●If “Seal of Wickedness” is destroyed, removed from the field, or negated while it is negating a card, its effects will no longer be applied and the selected card will no longer be negated.\n●The effect to negate a card starts a Chain in the Standby Phase. It is a mandatory effect.",
     "Tengu": "\n●This effect targets 1 face-up card on the field. It targets that card continuously throughout the turn.\n●Paying 500 Life Points is a cost, not an effect. It cannot be negated by “Royal Decree.”\n●If you target a “Gladiator Beast” monster with this effect, and your opponent returns it to the Deck to activate its effect, the effect will still be negated and the “Gladiator Beast” monster will remain in the Deck.\n●If “Seal of Wickedness” targets itself, it will be negated for 1 turn. You can flip “Seal of Wickedness” and activate its effect in the same Chain.\n●If “Seal of Wickedness” is destroyed, removed from the field, or negated while it is negating a card, its effects will no longer be applied and the selected card will no longer be negated.\n●The effect to negate a card starts a Chain in the Standby Phase. It is a mandatory effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This effect targets 1 face-up card on the field. It targets that card continuously throughout the turn.\\n2. Paying 500 Life Points is a cost, not an effect. It cannot be negated by \"Royal Decree\".\\n3. If you target a 'Gladiator Beast' monster with this effect, and your opponent returns it to the Deck to activate its effect, the effect will still be negated and the 'Gladiator Beast' monster will remain in the Deck.\\n4. If \"Seal of Wickedness\" targets itself, it will be negated for 1 turn.\\n5. You can flip \"Seal of Wickedness\" and activate its effect in the same Chain.\\n6. If \"Seal of Wickedness\" is destroyed, removed from the field, or negated while it is negating a card, its effects will no longer be applied and the selected card will no longer be negated.\\n7. The effect to negate a card starts a Chain in the Standby Phase. It is a mandatory effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

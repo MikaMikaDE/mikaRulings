@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● The ① stops applying in the End Phase of the turn it was activated.\n● The target gains ATK equal to the ATK of all Blackwings on the field - including your opponent's. \n● If the target is set, and then flipped face-up, it doesn't gain any ATK, and you can't attack with it.",
     "Tengu": "● The target gains ATK equal to the ATK of all Blackwings on the field - including your opponent's. \n● If the target is set, and then flipped face-up, it doesn't gain any ATK, and you cannot attack with it.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Your opponent's 'Blackwing' monsters are also counted.\\n2. The effect of \"Blackwing - Sirocco the Dawn\" targets the selected monster.\\n3. This monster can target itself, although the ATK increase will be zero if there are no other 'Blackwing' monsters on the field.\\n4. \"Blackwing - Sirocco the Dawn\" cannot activate its ATK boost in Main Phase 2.\\n5. The ATK boost lasts until the End Phase.\\n6. If you activate the effect of \"Blackwing - Sirocco the Dawn\", monsters Summoned afterwards cannot attack this turn.\\n7. If the targeted monster is no longer on the field when the effect resolves, all your other monsters still cannot attack this turn.\\n8. If the activation of the effect of \"Blackwing - Sirocco the Dawn\" is negated, then your other monsters may attack this turn.\\n9. If you have 2 copies of \"Blackwing - Sirocco the Dawn\" and target 2 different monsters with them, neither of those monsters can attack this turn.\\n10. If \"Skill Drain\" is activated after the effect of \"Blackwing - Sirocco the Dawn\" resolves, then the effect is not negated. The ATK boost remains, and the other monsters cannot attack this turn."
   },
   "PSCT": {
+    "Edison": "Ⓢ If only your opponent controls a monster, you can Normal Summon/Set this card without Tributing.\n① Once per turn: You can target 1 \"Blackwing\" monster you control; until the End Phase, it gains ATK equal to the total ATK of all other \"Blackwing\" monsters on the field.\n(You can't attack the turn you activate this effect, except with that target).",
     "Tengu": "Ⓢ If only your opponent controls a monster, you can Normal Summon/Set this card without Tributing.\n① Once per turn: You can target 1 \"Blackwing\" monster you control; this turn, it gains ATK equal to the total ATK of all other \"Blackwing\" monsters on the field.\n(You can't attack the turn you activate this effect, except with that target).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

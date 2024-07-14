@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "●Fire Trooper's effect is a Trigger Effect. Sending Fire Trooper to the GY is a cost.",
     "Tengu": "\n●Fire Trooper's effect is a Trigger Effect. Sending Fire Trooper to the GY is a cost.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Fire Trooper\" is a Trigger Effect. Sending \"Fire Trooper\" to the GY is a cost."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

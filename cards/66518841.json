@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This card does not target.\n●You can activate this card when a Defense Position monster you control battles.\n●If your monster’s ATK is higher than the ATK of the monster it’s battling when “Prideful Roar” resolves, “Prideful Roar’s” effect disappears.",
     "Tengu": "\n●This card does not target.\n●You can activate this card when a Defense Position monster you control battles.\n●If your monster’s ATK is higher than the ATK of the monster it’s battling when “Prideful Roar” resolves, “Prideful Roar’s” effect disappears.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card does not target.\\n2. You can activate this card when a Defense Position monster you control battles.\\n3. If your monster's ATK is higher than the ATK of the monster it's battling when \"Prideful Roar\" resolves, the effect of \"Prideful Roar\" disappears."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

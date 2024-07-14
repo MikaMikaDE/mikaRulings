@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can activate this card even if there are no Ritual Spell Cards in your GY.\n●This effect resolves sequentially (do 1A, then 1B).\n●The (1A) effect to add 1 Level 7 or lower Ritual Monster Card is mandatory.\n●If this is the last thing to happen, Drastic Drop Off CAN be activated.\n●The (1B) effect is optional. If used, it is the last thing to happen.\n●You don't declare your intent to use this portion of the effect.\n●This does not target a Ritual Spell Card in the GY. It is not negated by Necrovalley.\n●If this is the last thing to happen, Drastic Drop Off can't be activated.",
     "Tengu": "(1A) Add to your hand 1 Level 7 or lower Ritual Monster Card from your Deck. (1B) Then you can add to your hand 1 Ritual Spell Card from your GY.\n●You can activate this card even if there are no Ritual Spell Cards in your GY.\n●This effect resolves sequentially (do 1A, then 1B).\n●The (1A) effect to add 1 Level 7 or lower Ritual Monster Card is mandatory.\n●If this is the last thing to happen, Drastic Drop Off CAN be activated.\n●The (1B) effect is optional. If used, it is the last thing to happen.\n●You do not declare your intent to use this portion of the effect.\n●This does not target a Ritual Spell Card in the GY. It is not negated by Necrovalley.\n●If this is the last thing to happen, Drastic Drop Off CANNOT be activated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate this card if you have no Ritual Monster Cards you can add to your hand. You can activate this card even if there is no Ritual Spell Card in your GY.\\n2. The effects of this card are not resolved simultaneously. They resolve in the order written on the card.\\n3. \"Drastic Drop Off\" cannot be activated if a Ritual Spell Card is added to your hand by this effect.\\n4. The effect to add a Ritual Spell Card to your hand does not target. You choose the card upon resolution."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

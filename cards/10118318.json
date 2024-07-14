@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● This card can be activated during your opponent’s turn.\n\n● If this card's activation is negated (eg by \"Solemn Judgment\"), you can still conduct your Battle Phase.\n● If this card's effect is negated (eg by \"Trap Stun\"), you cannot conduct your Battle Phase.",
     "Tengu": "\n●You can activate “Reinforce Truth” during your opponent’s turn.\n●If the activation of “Reinforce Truth” is negated by “Seven Tools of the Bandit” or “Solemn Judgment” you can still conduct your Battle Phase.\n●If the effect of “Reinforce Truth” is negated by “Royal Decree” you cannot conduct your Battle Phase.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can activate \"Reinforce Truth\" during your opponent's turn.\\n2. If the activation of \"Reinforce Truth\" is negated by \"Seven Tools of the Bandit\" or \"Solemn Judgment\" you can still conduct your Battle Phase. If the effect of \"Reinforce Truth\" is negated by \"Royal Decree\" you cannot conduct your Battle Phase."
   },
   "PSCT": {
+    "Edison": "Special Summon 1 Level 2 or lower Warrior from your Deck\n(you can't conduct your Battle Phase the turn you activate this card).",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

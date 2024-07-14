@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you Special Summon this card correctly, it can later be Special Summoned back from the GY.\\n2. The effect to send monsters to the GY and increase this card's ATK targets the monsters to be sent to the GY.\\n3. You can activate the effect to send monsters to the GY and increase this card's ATK when this card is Special Summoned by another card effect, like \"Monster Reborn\".\\n4. The ATK gained by \"Meklord Astro Dragon Asterisk\" is the total original ATK of the monsters sent to the GY by this effect.\\n5. The effect to inflict damage activates any time a Synchro Monster is Special Summoned, including by the effect of \"Blackwing - Vayu the Emblem of Honor\" or \"Monster Reborn\".\\n6. If both players Summon a Synchro Monster due to the same effect, they both take 1000 damage from this effect.\\n7. If this card is affected by \"Shrink\", its ATK becomes 0 and remains 0 after \"Shrink\" wears off.\\n8. If this card is affected by \"Megamorph\" its ATK becomes 0. If \"Megamorph\" leaves the field, this card regains the ATK it gained from its own effect."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "Neither player can Summon more than two times per turn.\n●The Continuous Effect does not activate.\n●This effect counts all Summon events performed during the turn. (ex: Scapegoat is only 1 Summon event, since the 4 monsters are Summoned simultaneously).\n●The limit applies to Normal / Flip / Tribute / Special Summons.\n●Summons performed before Summon Limit resolved are counted towards the limit. After Summon Limit resolves, a player that already Summoned twice can't Summon any more monsters this turn.\n●A negated Summon (ex: Chaos Sorcerer) still counts towards the limit.\n●An Effect (ex: Debris Dragon) that is negated (by Skill Drain) still counts towards the limit.\n●An Effect (ex: Instant Fusion) whose activation is negated (by Dark Bribe) does not count towards the limit.",
     "Tengu": "Neither player can Summon more than two times per turn.\n●The Continuous-like Effect does not activate.\n●This effect counts all Summon events performed during the turn. (ex: Scapegoat is only 1 Summon event, since the 4 monsters are Summoned simultaneously).\n●The limit applies to Normal / Flip / Tribute / Special Summons.\n●Summons performed before Summon Limit resolved are counted towards the limit. After Summon Limit resolves, a player that already Summoned twice cannot Summon any more monsters this turn.\n●A negated Summon (ex: Chaos Sorcerer) still counts towards the limit.\n●An Effect (ex: Debris Dragon) that is negated (by Skill Drain) still counts towards the limit.\n●An Effect (ex: Instant Fusion) whose activation is negated (by Dark Bribe) does not count towards the limit.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The limit applied by \"Summon Limit\" includes Normal Summons, Flip Summons, and Special Summons.\\n2. Summons performed before \"Summon Limit\" resolves are applied to the limit of 2 per turn.\\n3. If you Flip Summon 3 monsters during your turn, you can activate \"Summon Limit\" afterwards in the same turn, but you cannot Summon any monsters for the rest of the turn."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

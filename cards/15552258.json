@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●“Half or Nothing” can't be activated during the Damage Step. The effect of “Half or Nothing” that halves ATK only applies to monsters face-up on the field at that time. Monsters flipped face-up, or Summoned, afterwards are not affected.",
     "Tengu": "\n●“Half or Nothing” cannot be activated during the Damage Step. The effect of “Half or Nothing” that halves ATK only applies to monsters face-up on the field at that time. Monsters flipped face-up, or Summoned, afterwards are not affected.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Half or Nothing\" cannot be activated during the Damage Step.\\n2. The effect of \"Half or Nothing\" that halves ATK only applies to monsters face-up on the field at that time. Monsters flipped face-up, or Summoned, afterwards are not affected."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

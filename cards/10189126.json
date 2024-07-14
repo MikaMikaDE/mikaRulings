@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The effect of Masked Sorcerer includes Battle Damage caused when it is attacked in Defense Position by a monster with ATK lower than Masked Sorcerer’s DEF.",
     "Tengu": "\n●The effect of Masked Sorcerer includes Battle Damage caused when it is attacked in Defense Position by a monster with ATK lower than Masked Sorcerer’s DEF.",
     "Goat": "●The effect of Masked Sorcerer includes Battle Damage caused when it is attacked in Defense Position by a monster with ATK lower than Masked Sorcerer’s DEF.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Masked Sorcerer\" includes Battle Damage caused when it is attacked in Defense Position by a monster with ATK lower than the DEF of \"Masked Sorcerer\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

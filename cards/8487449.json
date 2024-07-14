@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The Summon Effect does not start a Chain.\n●The ●This effect targets 1 face-up monster your opponent controls.\n●If either “Jester Confit” or the target is not face-up on the field, neither is returned to the hand.\n●If your opponent has no face-up monsters. This effect activates, but no cards return to the hand.\n●If your opponent takes control of this card, they activates this effect during your End Phase.\n●The Unclassified Effect is not a Condition. It can be negated by Skill Drain.",
     "Tengu": "(S) You can Special Summon this card from your hand in face-up Attack Position. (1) If you do, return this card and 1 face-up monster your opponent controls to the hand during the End Phase of your opponent's next turn. (U) You can only control 1 face-up Jester Confit.\n●The (S) Summon Effect does not start a Chain.\n●The (1) mandatory Trigger Effect is activated by the controller of this card.\n●This effect targets 1 face-up monster your opponent controls.\n●If either “Jester Confit” or the target is not face-up on the field, neither is returned to the hand.\n●If your opponent has no face-up monsters. This effect activates, but no cards return to the hand.\n●If your opponent takes control of this card, they activates this effect during your End Phase.\n●The (U) Unclassified Effect is not a Condition. It can be negated by Skill Drain.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect targets 1 face-up monster your opponent controls.\\n2. If either \"Jester Confit\" or the target of its effect is not face-up on the field when the effect resolves, it is not applied.\\n3. The effect of \"Jester Confit\" activates even if your opponent has no face-up monsters on the field during the End Phase. In this case, nothing will happen when the effect resolves.\\n4. If you Special Summon \"Jester Confit\" by its own effect and your opponent takes control of it, the effect to return monsters will activate during your End Phase."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "If you activate the effect of a monster summoned this way:\n● Any costs will be paid as usual. \n● However, the effect will resolve negated, as the effect was activated on the field, where its effects were being negated.\nEG: ＂Substitoad＂ summoned this way tributes itself. Its effect is negated, since its effect was activated on the field.\n\nIf a monster summoned this way becomes flipped face-down or leaves the field, its effects are no longer negated, starting from the moment it leaves the field.\nEG: ＂Mad Reloader＂ summoned this way is destroyed by battle. Its effect is not negated, since its effect was not activated on the field.",
     "Tengu": "If you activate the effect of a monster summoned this way:\n● Any costs will be paid as usual. \n● However, the effect will resolve negated, as the effect was activated on the field, where its effects were being negated.\nEG: ＂Substitoad＂ summoned this way tributes itself. Its effect is negated, since its effect was activated on the field.\n\nIf a monster summoned this way becomes flipped face-down or leaves the field, its effects are no longer negated, starting from the moment it leaves the field.\nEG: ＂Mad Reloader＂ summoned this way is destroyed by battle. Its effect is not negated, since its effect was not activated on the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If the monster Special Summoned by \"Junk Synchron\" is flipped face-down and then face-up, its effects are no longer negated.\\n2. If you Special Summon \"Nimble Momonga\", its effect will activate when it is destroyed by battle and sent to the GY. If you Special Summon \"D.D. Scout Plane\", its effect will activate when it is removed from play.\\n3. If you Special Summon \"The Calculator\" with \"Junk Synchron\", you can activate \"Inferno Reckless Summon\" because the effect of \"The Calculator\" is negated and its ATK is 0.\\n4. If you Special Summon \"Hand of Nepthys\" with the effect of \"Junk Synchron\", when you activate the effect of \"Hand of Nephthys\" it will be negated, even if you Tribute \"Junk Synchron\" to activate the effect."
   },
   "PSCT": {
+    "Edison": "When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your GY; Special Summon that target in Defense Position (but negate its effects).",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

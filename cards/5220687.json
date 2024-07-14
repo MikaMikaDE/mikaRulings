@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "FLIP effects are mandatory to activate. \n● This effect will activate even if there are no Beasts in your Deck. \n● This effect will activate even if you can't Special Summon.\n\nYou choose whether or not to Summon a monster when the effect resolves.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① FLIP: You can Special Summon 1 Level 3 or lower Beast from your Deck in face-down Defense Position.",
     "Tengu": "① FLIP: You can Special Summon 1 Level 3 or lower Beast from your Deck in face-down Defense Position.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

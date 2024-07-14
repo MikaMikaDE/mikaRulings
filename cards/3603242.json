@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Sending the Machine-Type monster to the GY is a cost.\\n2. This effect targets the monster you want to destroy.\\n3. If you reduce the Level of the monsters in your hand with \"Cost Down\" then you can only target monsters whose Level is less than or equal to the monster's Level in your hand.\\n\\nExample: \"Cyber Dragon\" in your hand is being treated as Level 3 with \"Cost Down\". You can only send it to the GY as a cost to target a Level 3 or lower monster.\\n4. If you increase the Level of a monster in your hand with \"Level Conversion Lab\" you can only send it to the GY to target a monster whose Level is less than or equal to the original Level of the monster in your hand.\\n\\nExample: \"Cyber Dragon\" in your hand is being treated as Level 6 with \"Level Conversion Lab\". You can only send it to the GY to target a monster that is Level 5 or lower."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

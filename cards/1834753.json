@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●The Summoning Condition is not an effect. It can't be negated.\n●The ●Paying 2000 Life Points is a cost.\n●This effect Special Summons 2 monsters simultaneously. You can't Summon only 1.\n●If this effect's activation is negated, it still can't be activated while it is still face-up.\n●You MUST have 2(+) Level 3 Psychic-Type monsters in your Deck to activate this effect.",
     "Tengu": "(C) This card cannot be Special Summoned. (1) You can pay 2000 Life Points to Special Summon 2 Level 3 Psychic-Type monsters from your Deck. This effect can only be used once while this card is face-up on the field.\n●The (C) Summoning Condition is not an effect. It cannot be negated.\n●The (1) Ignition Effect can only be activated during your Main Phase.\n●Paying 2000 Life Points is a cost.\n●This effect Special Summons 2 monsters simultaneously. You cannot Summon only 1.\n●If this effect's activation is negated, it still cannot be activated while it is still face-up.\n●You MUST have 2(+) Level 3 Psychic-Type monsters in your Deck to activate this effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

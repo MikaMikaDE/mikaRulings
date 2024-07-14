@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Discarding 5 cards from your hand is a cost. You can't activate this card if you have less than 5 cards in your hand.",
     "Tengu": "\n●Discarding 5 cards from your hand is a cost. You cannot activate this card if you have less than 5 cards in your hand.",
     "Goat": "●Discarding 5 cards from your hand is a cost. You cannot activate this card if you have less than 5 cards in your hand.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Discarding 5 cards from your hand is a cost. You cannot activate this card if you have less than 5 cards in your hand."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

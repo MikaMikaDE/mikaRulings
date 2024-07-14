@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "●The effect of “Cat’s Ear Tribe” activates in the Damage Step during Damage Calculation.\n●If “Maju Garzett” or “Great Maju Garzett” attacks a “Cat’s Ear Tribe” and it is not destroyed by battle, “Maju Garzett” and “Great Maju Garzett’s” ATK will be set to 0 at the end of the Damage Step.\n●Q: Does “Dark Ruler Ha Des” negate the effect of “Cats Ear Tribe”?\nA: The effect of the “Cat’s Ear Tribe” activates before the damage calculation. Dark Ruler Ha Des” needs to destroy the monster in battle in order to negate its effect. Since this has not happened yet, the “Cat’s Ear Tribe” effect would make the base ATK of “Dark Ruler Ha Des” become 200.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

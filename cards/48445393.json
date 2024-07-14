@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate \"Scrapstorm\" while you have only 1 card in your Deck.\\n2. This card targets 1 face-up 'Scrap' monster you control. It cannot be activated during the Damage Step.\\n3. None of these effects are simultaneous. You send 1 'Scrap' monster to the GY, then, if you did, you draw a card.\\n4. Afterwards, you destroy the selected monster.\\n5. Even if the targeted monster is no longer face-up on the field when \"Scrapstorm\" resolves, you still send a 'Scrap' monster to the GY and draw a card.\\n6. If the target monster is face-down when this effect resolves, it is still destroyed."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you send a Level 5 or higher monster to the GY to Special Summon \"Egotistical Ape\", you cannot activate the effect that lowers its Level.\\n2. You can still Special Summon \"Egotistical Ape\" while \"Zombie World\" is in play, however you will not be able to activate its effect to change its Level because the Beast-Type monster is being treated as a Zombie-Type monster.\\n3. Even if the Beast-Type monster you sent to the GY is no longer there when the effect of \"Egotistical Ape\" that changes its Level resolves, the Level of \"Egotistical Ape\" will still change accordingly.\\n4. If \"Skill Drain\" is activated while \"Egotistical Ape\" is on the field, it will become Level 5 again and remain Level 5 even if \"Skill Drain\" is later removed from the field."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

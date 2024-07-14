@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters",
     "Tengu": "(1) Once per turn, you can equip this card to a Soitsu you control, OR unequip it to Special Summon this card in face-up Attack Position. (2) When equipped to a monster by this card's effect, that monster gains 2500 ATK. (C) (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)\n●While “Non-Spellcasting Area” is active and “Doitsu” is equipped to “Soitsu”, the increase to ATK is not applied. However, the effect that destroys “Doitsu” instead of “Soitsu” is not an effect that “Soitsu” gets, so that effect is applied normally. Also, the effect of “Doitsu” that allows it to unequip and be Special Summoned is applied normally.",
     "Goat": "●While “Non-Spellcasting Area” is applying and “Doitsu” is equipped to “Soitsu”, the increase to ATK is not applied. However, the effect that destroys “Doitsu” instead of “Soitsu” is not an effect that “Soitsu” gets, so that effect is applied normally. Also, the effect of “Doitsu” that allows it to unequip and be Special Summoned is applied normally.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. While \"Non-Spellcasting Area\" is active and \"Doitsu\" is equipped to \"Soitsu\", the increase to ATK is not applied. However, the effect that destroys \"Doitsu\" instead of \"Soitsu\" is not an effect that \"Soitsu\" gets, so that effect is applied normally. Also, the effect of \"Doitsu\" that allows it to unequip and be Special Summoned is applied normally."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

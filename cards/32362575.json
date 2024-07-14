@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●If you pick up your entire Deck and there were no Spell/Trap Cards, the rest of the cards are shuffled back into the Deck.\nIf \"Thunder King Rai-Oh\" is applying, all the revealed cards, including the Spell/Trap, are sent to the GY.",
     "Tengu": "\n●You need to show the cards to your opponent, including the one you keep.\n●If you pick up your entire Deck and there were no Spell or Trap Cards, then Magical Merchant's effect disappears.",
     "Goat": "●You need to show the cards to your opponent, including the one you keep.\n●If you pick up your entire Deck and there were no Spell/Trap Cards, then Magical Merchant's effect disappears.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You need to show the cards to your opponent, including the one you keep.\\n2. If you pick up your entire Deck and there were no Spell or Trap Cards, then the effect of \"Magical Merchant\" disappears."
   },
   "PSCT": {
+    "Edison": "FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap Card, then add that card to your hand, also send the remaining cards to the GY.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

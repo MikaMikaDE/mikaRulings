@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This effect does not target. You can't activate this card during the Damage Step.\n●If you use “Slip Summon” to Special Summon a monster like “Elemental Hero Wildheart” that is unaffected by Traps, it will remain on the field and not be returned to the owner’s hand during the End Phase.\n●The effect that returns the Summoned monster to its owner’s hand during the End Phase does not start a Chain.",
     "Tengu": "\n●This effect does not target. You cannot activate this card during the Damage Step.\n●If you use “Slip Summon” to Special Summon a monster like “Elemental Hero Wildheart” that is unaffected by Traps, it will remain on the field and not be returned to the owner’s hand during the End Phase.\n●The effect that returns the Summoned monster to its owner’s hand during the End Phase does not start a Chain.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This effect does not target.\\n2. You cannot activate this card during the Damage Step.\\n3. If you use \"Slip Summon\" to Special Summon a monster like \"Elemental HERO Wildheart\" that is unaffected by Traps, it will remain on the field and not be returned to the owner's hand during the End Phase.\\n4. The effect that returns the Summoned monster to its owner's hand during the End Phase does not start a Chain."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

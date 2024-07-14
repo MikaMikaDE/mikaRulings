@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Even if you activate Blasting the Ruins and an effect is chained that reduces your GY to less than 30 cards, Blasting the Ruins still resolves because the condition was correct at the time of activation.",
     "Tengu": "\n●Even if you activate Blasting the Ruins and an effect is chained that reduces your GY to less than 30 cards, Blasting the Ruins still resolves because the condition was correct at the time of activation.",
     "Goat": "●Even if you activate Blasting the Ruins and an effect is chained that reduces your GY to less than 30 cards, Blasting the Ruins still resolves because the condition was correct at the time of activation.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Even if you activate \"Blasting the Ruins\" and an effect is chained that reduces your GY to less than 30 cards, \"Blasting the Ruins\" still resolves because the condition was correct at the time of activation."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

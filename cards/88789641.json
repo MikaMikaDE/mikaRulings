@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Hallowed Life Barrier protects your Life Points from Battle Damage and Effect Damage. It doesn’t protect your monsters from being destroyed as a result of battle.",
     "Tengu": "\n●Hallowed Life Barrier protects your Life Points from Battle Damage and Effect Damage. It doesn’t protect your monsters from being destroyed as a result of battle.",
     "Goat": "●Hallowed Life Barrier protects your LP from Battle Damage and Effect Damage. It doesn’t protect your monsters from being destroyed by battle.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Hallowed Life Barrier\" protects your Life Points from Battle Damage and Effect Damage. It doesn't protect your monsters from being destroyed as a result of battle."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

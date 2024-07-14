@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "●Blast Juggler targets 2 face-up monsters with 1000 or less ATK.\n●Blast Juggler's effect can't be activated if there is only 1 face-up monster (excluding Blast Juggler) with 1000 or less ATK.",
     "Tengu": "\n●Blast Juggler targets 2 face-up monsters with 1000 or less ATK.\n●Blast Juggler's effect cannot be activated if there is only 1 face-up monster (excluding Blast Juggler) with 1000 or less ATK.",
     "Goat": "“Blast Juggler” does not count itself for the number of eligible monsters with an ATK of 1000 or less.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"Blast Juggler\" targets 2 face-up monsters with 1000 or less ATK.\\n2. The effect of \"Blast Juggler\" cannot be activated if there is only 1 face-up monster (excluding \"Blast Juggler\") with 1000 or less ATK."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

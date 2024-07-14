@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card is Chained directly to the effect that targets and would destroy your monster.\\n2. You cannot Chain \"Guard Mines\" to the effect of an already face-up Continuous Spell or Trap Card.\\n3. You can Chain \"Guard Mines\" to the effect of a Continuous Trap Card if its effect is activated on the same Chain as the card itself, such as with \"Roar of the Earthbound\".\\n4. You can Chain \"Guard Mines\" to a card that will resolve in the GY, like \"Exiled Force\". If you do, the effect of the card will be negated, but since it cannot be destroyed no damage will be inflicted.\\n5. You can Chain \"Guard Mines\" to any type of effect that targets and destroys 1 monster you control and only 1 monster you control. You cannot Chain it to cards like \"Icarus Attack\", even if they target 1 monster you control and a Spell or Trap Card."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

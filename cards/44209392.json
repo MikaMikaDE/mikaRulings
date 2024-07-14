@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You choose the monster to receive the DEF increase when you activate this card. This card targets.\n●If you activate two Castle Walls on the same monster, its DEF increases by 1000.",
     "Tengu": "\n●You choose the monster to receive the DEF increase when you activate this card. This card targets.\n●If you activate two Castle Walls on the same monster, its DEF increases by 1000.",
     "Goat": "●You choose the monster to receive the DEF increase when you activate this card. This card targets.\n●If you activate two Castle Walls on the same monster, its DEF increases by 1000.\n●“Castle Walls” may be activated in the Damage Step.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You choose the monster to receive the DEF increase when you activate this card. This card targets.\\n2. If you activate two \"Castle Walls\" on the same monster, its DEF increases by 1000."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

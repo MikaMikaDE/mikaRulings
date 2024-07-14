@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can't decrease ATK/DEF by 1000 points by discarding 2 cards; you can only discard 1 card.\n●Discarding a card is a cost.\n●The effect of Curse of Aging is not applied to face-down monsters. It is only applied to the face-up monsters on the field when Curse of Aging resolves. It is not applied to monsters Summoned after Curse of Aging resolves, either. (Similar to Limiter Removal). This means that even if face-down monsters are flipped face-up in the same turn, their ATK or DEF are not changed by the effect of Curse of Aging, even if they were on the field (face-down) when Curse of Aging resolved.",
     "Tengu": "\n●You cannot decrease ATK/DEF by 1000 points by discarding 2 cards; you can only discard 1 card.\n●Discarding a card is a cost.\n●The effect of Curse of Aging is not applied to face-down monsters. It is only applied to the face-up monsters on the field when Curse of Aging resolves. It is not applied to monsters Summoned after Curse of Aging resolves, either. (Similar to Limiter Removal). This means that even if face-down monsters are flipped face-up in the same turn, their ATK or DEF are not changed by the effect of Curse of Aging, even if they were on the field (face-down) when Curse of Aging resolved.",
     "Goat": "●You cannot decrease ATK/DEF by 1000 points by discarding 2 cards; you can only discard 1 card.\n●Discarding a card is a cost.\n●The effect of Curse of Aging is not applied to face-down monsters. It is only applied to the face-up monsters on the field when Curse of Aging resolves. It is not applied to monsters Summoned after Curse of Aging resolves, either. (Similar to Limiter Removal). This means that even if face-down monsters are flipped face-up in the same turn, their ATK/DEF are not changed by the effect of Curse of Aging, even if they were on the field (face-down) when Curse of Aging resolved.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot decrease ATK/DEF by 1000 points by discarding 2 cards; you can only discard 1 card.\\n2. Discarding a card is a cost.\\n3. The effect of \"Curse of Aging\" is not applied to face-down monsters. It is only applied to the face-up monsters on the field when \"Curse of Aging\" resolves. It is not applied to monsters Summoned after \"Curse of Aging\" resolves, either. (Similar to \"Limiter Removal\"). This means that even if face-down monsters are flipped face-up in the same turn, their ATK or DEF are not changed by the effect of \"Curse of Aging\", even if they were on the field (face-down) when \"Curse of Aging\" resolved."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

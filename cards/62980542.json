@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Sending 3 cards from the top of your Deck to the GY is part of the effect of “Destruction of Destiny”. It is not a cost.\n●If “Macro Cosmos” is on the field the 3 cards will be removed from play, but you will still take damage for any Spell or Trap Cards.\n●You can't activate “Destruction of Destiny” if you have less than 3 cards in your Deck.\n●All the damage is dealt in a single sum. So if you send 3 Spell or Trap Cards you take 3000 damage, not 1000 damage three times.",
     "Tengu": "\n●Sending 3 cards from the top of your Deck to the GY is part of the effect of “Destruction of Destiny”. It is not a cost.\n●If “Macro Cosmos” is on the field the 3 cards will be removed from play, but you will still take damage for any Spell or Trap Cards.\n●You cannot activate “Destruction of Destiny” if you have less than 3 cards in your Deck.\n●All the damage is dealt in a single sum. So if you send 3 Spell or Trap Cards you take 3000 damage, not 1000 damage three times.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Sending 3 cards from the top of your Deck to the GY is part of the effect of \"Destruction of Destiny\". It is not a cost.\\n2. If \"Macro Cosmos\" is on the field the 3 cards will be removed from play, but you will still take damage for any Spell or Trap Cards.\\n3. You cannot activate \"Destruction of Destiny\" if you have less than 3 cards in your Deck.\\n4. All the damage is dealt in a single sum. So if you send 3 Spell or Trap Cards you take 3000 damage, not 1000 damage three times."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

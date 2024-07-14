@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If the selected card is a Monster Card, the card (or 1 with the same name) has to be Normal Summoned for “Royal Writ of Taxation’s” effect to apply. If it is Set, Special Summoned, or Flip Summoned then the effect won't apply.\n●“Activated” in the text of “Royal Writ of Taxation” means to activate a Spell or Trap Card, or to activate the effect of a Spell, Trap, or Effect Monster. So a face-down “Ojamagic” being destroyed, the effect of an already face-up “Ultimate Offering” being activated, or the Flip Effect of a “Magician of Faith” activating would all cause “Royal Writ of Taxation’s” effect to be applied.",
     "Tengu": "\n●If the selected card is a Monster Card, the card (or 1 with the same name) has to be Normal Summoned for “Royal Writ of Taxation’s” effect to apply. If it is Set, Special Summoned, or Flip Summoned then the effect will not apply.\n●“Activated” in the text of “Royal Writ of Taxation” means to activate a Spell or Trap Card, or to activate the effect of a Spell, Trap, or Effect Monster. So a face-down “Ojamagic” being destroyed, the effect of an already face-up “Ultimate Offering” being activated, or the Flip Effect of a “Magician of Faith” activating would all cause “Royal Writ of Taxation’s” effect to be applied.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If the selected card is a Monster Card, the card (or 1 with the same name) has to be Normal Summoned for the effect of \"Royal Writ of Taxation\" to apply. If it is Set, Special Summoned, or Flip Summoned then the effect will not apply.\\n2. 'Activated' in the text of \"Royal Writ of Taxation\" means to activate a Spell or Trap Card, or to activate the effect of a Spell, Trap, or Effect Monster. So a face-down \"Ojamagic\" being destroyed, the effect of an already face-up \"Ultimate Offering\" being activated, or the Flip Effect of a \"Magician of Faith\" activating would all cause the effect of \"Royal Writ of Taxation\" to be applied."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

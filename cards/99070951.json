@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Neither effect of this card targets.\\n2. Both effects are mandatory, start a Chain, and can activate during the Damage Step.\\n3. Neither player is allowed to look at the card that is removed from play face-down.\\n4. If \"Esper Girl\" is flipped face-down or removed from play temporarily and then later sent to the GY, the effect to add the card it removed from play to your hand still activates.\\n5. If the same \"Esper Girl\" is removed from play and then Special Summoned multiple times in a single turn, you remove the top card of your Deck from play, face-down, each time it is Special Summoned. When it is sent to the GY, you only add the most recently removed card to your hand.\\n6. If \"Esper Girl\" removes the top card of your Deck from play, and is then equipped to \"Relinquished\" and sent to the GY, the effect to add the removed card to your hand activates."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

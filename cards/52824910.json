@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●The same ATK as Kaiser Glider means the same as the current ATK, not the original ATK.\n●When Kaiser Glider is in Attack Position and battles a monster with the same ATK, only the other monster is destroyed.\n●Kaiser Glider's second effect activates when destroyed and sent to the GY from the field, hand, or Deck.\n●If Kaiser Glider is equipped to Relinquished or Thousand-Eyes Restrict, and is destroyed and sent to the GY, Kaiser Glider's effect activates.",
     "Tengu": "\n●The same ATK as Kaiser Glider means the same as the current ATK, not the original ATK.\n●When Kaiser Glider is in Attack Position and battles a monster with the same ATK, only the other monster is destroyed.\n●Kaiser Glider's second effect activates when destroyed and sent to the GY from the field, hand, or Deck.\n●If Kaiser Glider is equipped to Relinquished or Thousand-Eyes Restrict, and is destroyed and sent to the GY, Kaiser Glider's effect activates.",
     "Goat": "●The same ATK as Kaiser Glider means the same as the current ATK, not the original ATK.\n●When Kaiser Glider is in Attack Position and battles a monster with the same ATK, only the other monster is destroyed.\n●Kaiser Glider's second effect activates when destroyed and sent to the GY from the field, hand, or Deck.\n●If Kaiser Glider is equipped to Relinquished or Thousand-Eyes Restrict, and is destroyed and sent to the GY, Kaiser Glider's effect activates. 01/19/04\n●Q: If “Kaiser Glider” is in defense mode and attacked by a monster with 2400 ATK, is it destroyed? \nA: If the ATK is equal to “Kaiser Glider” then “Kaiser Glider” would not be destroyed by the attack. \n●  \n●Q: Does the effect of “Kaiser Glider” resolve after the effect of “Cyber Jar”? \nA: Yes. I am assuming that the Kaiser Glider was destroyed by the effect of Cyber Jar in your example. ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The 'same ATK' as \"Kaiser Glider\" means the same as the current ATK, not the original ATK.\\n2. When \"Kaiser Glider\" is in Attack Position and battles a monster with the same ATK, only the other monster is destroyed.\\n3. The second effect of \"Kaiser Glider\" activates when destroyed and sent to the GY from the field, hand, or Deck.\\n4. If \"Kaiser Glider\" is equipped to \"Relinquished\" or \"Thousand-Eyes Restrict\", and is destroyed and sent to the GY, the effect of \"Kaiser Glider\" activates."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

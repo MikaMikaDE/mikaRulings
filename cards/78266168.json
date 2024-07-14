@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●When a monster with ATK less than Giant Axe Mummy’s DEF attacks Giant Axe Mummy, the monster is treated as being destroyed by the effect of Giant Axe Mummy, NOT as a result of battle.",
     "Tengu": "\n●When a monster with ATK less than Giant Axe Mummy’s DEF attacks Giant Axe Mummy, the monster is treated as being destroyed by the effect of Giant Axe Mummy, NOT as a result of battle.",
     "Goat": "●When a monster with ATK less than Giant Axe Mummy’s DEF attacks Giant Axe Mummy, the monster is treated as being destroyed by the effect of Giant Axe Mummy, NOT as a result of battle.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. When a monster with ATK less than the DEF of \"Giant Axe Mummy\" attacks \"Giant Axe Mummy\", the monster is treated as being destroyed by the effect of \"Giant Axe Mummy\", NOT 'as a result of battle'."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

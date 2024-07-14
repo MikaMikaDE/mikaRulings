@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● The ① effect is not \"once per turn\". \nIf its activation is negated (EG by \"Light and Darkness Dragon\"), it will activate again. \nIf its effect is negated (EG by \"Fiendish Chain\"), it will not activate again.",
@@ -27,6 +28,7 @@
     "Base": "1. \"This card cannot be Special Summoned.\" is not an effect.\\n2. Returning this card to its owner's hand is not optional.\\n3. The effect to return a Spell/Trap Card targets. You can return face-up or Set cards.\\n4. Returning 1 Spell/Trap Card to the hand is optional, but if you activate the effect you must return a card."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

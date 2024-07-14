@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●You can't activate this card's effect during your opponent's turn or during Main Phase 2.\n●You can only activate this card's effect once per turn.\n●If you activate & resolve this card's effect and then Skill Drain is activated, you can still attack directly because Gear Golem the Moving Fortress's effect is already applied and it's still applied even if Skill Drain is activated.",
     "Tengu": "\n●You cannot activate this card's effect during your opponent's turn or during Main Phase 2.\n●You can only activate this card's effect once per turn.\n●If you activate & resolve this card's effect and then Skill Drain is activated, you can still attack directly because Gear Golem the Moving Fortress's effect is already applied and it's still applied even if Skill Drain is activated.",
     "Goat": "●You cannot activate this card's effect during your opponent's turn or during MP 2.\n●You can only activate this card's effect once per turn.\n●If you activate & resolve this card's effect and then Skill Drain is activated, you can still attack directly because Gear Golem the Moving Fortress's effect is already applied and it's still applied even if Skill Drain is activated.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You cannot activate this card's effect during your opponent's turn or during Main Phase 2.\\n2. You can only activate this card's effect once per turn.\\n3. If you activate & resolve this card's effect and then \"Skill Drain\" is activated, you can still attack directly because the effect of \"Gear Golem the Moving Fortress\" is already applied and it's still applied even if \"Skill Drain\" is activated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

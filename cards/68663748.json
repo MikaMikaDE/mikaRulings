@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "Returning to the GY is part of this card's effect, not a cost.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card targets 1 of your removed from play \"Fortune Lady\" monsters.\\n2. If the target of this card is no longer removed from play when it resolves, you cannot draw 2 cards.\\n3. You cannot target your opponent's monster that you have taken control of and removed from play.\\n4. You can target your monster that your opponent has taken control of and removed from play."
   },
   "PSCT": {
+    "Edison": "Target 1 of your banished \"Fortune Lady\" monsters; return it to the GY, then draw 2 cards.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

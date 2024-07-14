@@ -7,6 +7,7 @@
     "race": "Field"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The effect to decrease a monster's ATK by 1000 does not start a Chain or target. It lasts as long as that monster remains face-up on the field.\\n2. This card's effect cannot apply multiple times to the same monster. If the same monster battles a \"Watt\" monster twice, it will only lose 1000 ATK.\\n3. If \"Wattcastle\" is negated while it's on the field, any monsters that lost 1000 ATK will gain it back. If \"Wattcastle\" stops being negated, they will lose the 1000 ATK again."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Two-Pronged Attack targets 2 monsters you control and 1 monster your opponent controls. Destroying 2 of your monsters is not a cost.",
     "Tengu": "\n●Two-Pronged Attack targets 2 monsters you control and 1 monster your opponent controls. Destroying 2 of your monsters is not a cost.",
     "Goat": "“Two-Pronged Attack” is a targeting effect, targeting three monsters.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Two-Pronged Attack\" targets 2 monsters you control and 1 monster your opponent controls. Destroying 2 of your monsters is not a cost."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

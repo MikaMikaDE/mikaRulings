@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect that lets you Special Summon \"Mist Valley Thunderbird\" is a Trigger Effect that activates in the hand.\\n2. The effect that prevents you from attacking with \"Mist Valley Thunderbird\" is part of the effect that Special Summons it. It is not negated by \"Skill Drain\".\\n3. You can Special Summon \"Mist Valley Thunderbird\" by its effect even during the Damage Step.\\n4. If \"Mist Valley Thunderbird\" is returned to your hand and you Chain \"Reload\" to the activation of its effect, you cannot Special Summon it even if you draw it again during the resolution of \"Reload\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

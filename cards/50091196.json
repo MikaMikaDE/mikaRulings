@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to draw 1 card starts a Chain.\\n2. The effect to Synchro Summon during your opponent's Main Phase is a Quick Effect.\\n3. You cannot activate the effect to Synchro Summon multiple times in the same Chain.\\n4. You can activate the effect to Synchro Summon during your opponent's Main Phase 1 or 2. Using it when your opponent wants to end Main Phase 1 does NOT force them to continue into their Battle Phase.\\n5. You send the Synchro Material Monsters to the GY after you resolve the effect to Synchro Summon.\\n6. You must Synchro Summon after the effect resolves, if possible, using \"Formula Synchron\" and the face-up monsters are available to you. If you cannot, your opponent can verify that you have no monsters in your Extra Deck that can be Summoned.\\n7. [FORUM] The effects of \"Black Rose Dragon\" or \"Trishula, Dragon of the Ice Barrier\" will miss the timing if Summoned in the middle of a Chain by the effect of \"Formula Synchron\".\\n8. [FORUM] If the Turn Player declares intent to leave his Main Phase and the opponent activates an effect/card, such as \"Formula Synchron\", after the chain resolves, the Turn Player can activate any card he/she can legally activate during that phase. The Turn Player is not required to continue ending the Main Phase."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

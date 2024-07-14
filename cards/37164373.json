@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● If there are no \"Madolche\" cards in your GY, you can't activate this effect.",
@@ -27,6 +28,7 @@
     "Base": "1. [FORUM] If \"Madolche Queen Tiaramisu\" is destroyed by your opponent's card effect, such as \"Dark Hole\" or \"Bottomless Trap Hole\", the Xyz Materials will not be shuffled into the Deck. The Xyz materials under Tiaramisu are \"sent to the GY\" because of the game mechanics. But they are not \"destroyed\" and they are not sent to the GY \"by your opponent's card\"."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

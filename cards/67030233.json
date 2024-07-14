@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "The ③ effect:\n● You can't negate the effects of a monster which already has its effects negated.\nThe ④ effect:\n● Even if there is no \"Red Dragon Archfiend\" in your GY, this card will still return to the Extra Deck.",
     "Tengu": "The ③ effect:\n● You cannot negate the effects of a monster which already has its effects negated.\nThe ④ effect:\n● Even if there is no \"Red Dragon Archfiend\" in your GY, this card will still return to the Extra Deck.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect that negates a monster's effect and increases the ATK of \"Majestic Red Dragon\" targets that monster.\\n2. The effect that activates after damage calculation activates even if \"Majestic Red Dragon\" would be destroyed during damage calculation.\\n3. The effect that activates during the End Phase targets 1 \"Red Dragon Archfiend\" in your GY.\\n4. The ATK gained by \"Majestic Red Dragon\" when you use its effect includes any bonuses the target monster is receiving from effects or Equip Spells.\\n5. If you target \"Great Maju Garzett\" with the effect of \"Majestic Red Dragon\", the ATK of \"Great Maju Garzett\" becomes 0 and \"Majestic Red Dragon\" will not gain ATK.\\n6. You cannot target a non-Effect monster with the effect of \"Majestic Red Dragon\"."
   },
   "PSCT": {
+    "Edison": "Majestic Dragon\" + \"Red Dragon Archfiend\" + 1 non-Tuner\n① can't be destroyed by card effects. \n② If this card attacks, after Damage Calculation: destroy all Defense Position monsters. \n③ Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, negate its effects, and if you do, until the End Phase, this card gains ATK equal to that monster's ATK.\n④ During the End Phase: Target 1 \"Red Dragon Archfiend\" in your GY; return this card from the field to the Extra Deck, then Special Summon that target.",
     "Tengu": "Majestic Dragon\" + \"Red Dragon Archfiend\" + 1 non-Tuner\n① Cannot be destroyed by card effects. \n② If this card attacks, after Damage Calculation: destroy all Defense Position monsters. \n③ Once per turn: You can target 1 face-up monster your opponent controls; \nuntil the End Phase, negate its effects, and if you do, until the End Phase, this card gains ATK equal to that monster's ATK.\n④ During the End Phase: Target 1 \"Red Dragon Archfiend\" in your GY; \nreturn this card from the field to the Extra Deck, then Special Summon that target.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

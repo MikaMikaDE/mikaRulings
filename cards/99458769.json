@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●This card has two separate effects. They form two separate Chains.\n●For the second effect of this card, you can't choose a type of card that your opponent does not control. If your opponent has no monsters and no Spell or Trap Cards, the effect still activates, but disappears at resolution.\n●You decide whether to destroy all your opponent’s monsters, or all your opponent’s Spell and Trap Cards, when the effect resolves.",
     "Tengu": "\n●This card has two separate effects. They form two separate Chains.\n●For the second effect of this card, you cannot choose a type of card that your opponent does not control. If your opponent has no monsters and no Spell or Trap Cards, the effect still activates, but disappears at resolution.\n●You decide whether to destroy all your opponent’s monsters, or all your opponent’s Spell and Trap Cards, when the effect resolves.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This card has two separate effects. They form two separate Chains.\\n2. For the second effect of this card, you cannot choose a type of card that your opponent does not control. If your opponent has no monsters and no Spell or Trap Cards, the effect still activates, but disappears at resolution.\\n3. You decide whether to destroy all your opponent's monsters, or all your opponent's Spell and Trap Cards, when the effect resolves."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

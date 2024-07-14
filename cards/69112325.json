@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●If the effect of “Spiritual Forest” is resolved once during a turn, it can't be resolved again even if “Spiritual Forest” is negated and then stops being negated in the same turn.\n●If a face-down Beast-Type, Beast-Warrior-Type, or Plant-Type monster you control is attacked and flipped face-up by battle, the effect of “Spiritual Forest” is applied.\n●You don't choose when to activate this effect.\n●It automatically activates the first time the appropriate type of monster would be destroyed.",
     "Tengu": "\n●If the effect of “Spiritual Forest” is resolved once during a turn, it cannot be resolved again even if “Spiritual Forest” is negated and then stops being negated in the same turn.\n●If a face-down Beast-Type, Beast-Warrior-Type, or Plant-Type monster you control is attacked and flipped face-up by battle, the effect of “Spiritual Forest” is applied.\n●You do not choose when to activate this effect.\n●It automatically activates the first time the appropriate type of monster would be destroyed.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If the effect of \"Spiritual Forest\" is resolved once during a turn, it cannot be resolved again even if \"Spiritual Forest\" is negated and then stops being negated in the same turn.\\n2. If a face-down Beast-Type, Beast-Warrior-Type, or Plant-Type monster you control is attacked and flipped face-up by battle, the effect of \"Spiritual Forest\" is applied.\\n3. You do not choose when to activate this effect. It automatically activates the first time the appropriate type of monster would be destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

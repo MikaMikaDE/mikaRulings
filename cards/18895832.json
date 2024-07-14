@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● Those cards are banished, not destroyed.",
     "Tengu": "● Those cards are banished, not destroyed.",
     "Goat": "“System Down” does not remove face-down Machines.\n●“Kycoo the Ghost Destroyer” will prevent Machines in the GY from being removed from play for “System Down”, but Machines on the field can still be removed from play by its effect.\n●If your opponent has no Machines in the GY and no Machines on the field, you cannot activate “System Down”.\n●If “Heavy Mech Support Platform” is equipped to a Machine when “System Down” is activated, the equipped monster is removed from play but “Heavy Mech Support Platform” is just destroyed and sent to the GY.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"System Down\" does not remove face-down Machines.\\n2. \"Kycoo the Ghost Destroyer\" will prevent Machines in the GY from being removed from play for \"System Down\", but Machines on the field can still be removed from play by its effect.\\n3. If your opponent has no Machines in the GY and no Machines on the field, you cannot activate \"System Down\".\\n4. If \"Heavy Mech Support Platform\" is equipped to a Machine when \"System Down\" is activated, the equipped monster is removed from play but \"Heavy Mech Support Platform\" is just destroyed and sent to the GY."
   },
   "PSCT": {
+    "Edison": "① Pay 1000 LP; banish all Machines your opponent controls and in their GY.",
     "Tengu": "① Pay 1000 LP; banish all Machines your opponent controls and in their GY.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

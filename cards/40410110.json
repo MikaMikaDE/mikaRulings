@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●This monster’s effect is a Ignition Effect.\n●If you use this monster’s effect to change its Attribute, it remains changed as long as it remains face-up on the field, or until it is changed again.",
     "Tengu": "\n●This monster’s effect is a Ignition Effect.\n●If you use this monster’s effect to change its Attribute, it remains changed as long as it remains face-up on the field, or until it is changed again.",
     "Goat": "●This monster’s effect is a Ignition Effect.\n●If you use this monster’s effect to change its Attribute, it remains changed as long as it remains face-up on the field, or until it is changed again.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This monster's effect is a Ignition Effect.\\n2. If you use this monster's effect to change its Attribute, it remains changed as long as it remains face-up on the field, or until it is changed again."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

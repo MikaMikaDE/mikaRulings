@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The Condition can't be negated.\n●The Summon Effect does not start a chain.\n●This card must first be Special Summoned from the hand by the effect.\n●Once properly Summoned, this card can be Special Summoned from the GY / removed from play.\n●The ●Removing from play 1 DARK monster is a cost.\n●This effect targets 1 DARK monster in your GY.",
     "Tengu": "(C) This card cannot be Normal Summoned or Set. (S) This card can only be Special Summoned, by having 5 or more DARK monsters in your GY while you control no monsters. (1) Once per turn, you can remove from play 1 DARK monster from your GY to Special Summon 1 DARK monster from your GY.\n●The (C) Condition cannot be negated.\n●The (S) Summon Effect does not start a chain.\n●This card must first be Special Summoned from the hand by the (S) effect.\n●Once properly Summoned, this card can be Special Summoned from the GY / removed from play.\n●The (1) Ignition Effect activates & resolves on the field.\n●Removing from play 1 DARK monster is a cost.\n●This effect targets 1 DARK monster in your GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"The Dark Creator\" to Special Summon a monster is an Ignition Effect.\\n2. This effect targets 1 DARK monster in your GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

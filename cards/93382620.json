@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you can't activate Rope of Life.\n●If your monster is controlled by your opponent and sent to your GY, you can activate Rope of Life. You can't activate Rope of Life when your opponent’s monster you control is sent to his/her GY.\n●The increase in ATK is permanent as long as the monster remains face-up on the field.\n●You can use Rope of Life to Special Summon Jinzo and Jinzo's ATK will increase by 800 points.",
     "Tengu": "\n●Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you cannot activate Rope of Life.\n●If your monster is controlled by your opponent and sent to your GY, you can activate Rope of Life. You cannot activate Rope of Life when your opponent’s monster you control is sent to his/her GY.\n●The increase in ATK is permanent as long as the monster remains face-up on the field.\n●You can use Rope of Life to Special Summon Jinzo and Jinzo's ATK will increase by 800 points.",
     "Goat": "●Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you cannot activate Rope of Life.\n●If your monster is controlled by your opponent and sent to your GY, you can activate Rope of Life. You cannot activate Rope of Life when your opponent’s monster you control is sent to his/her GY.\n●The increase in ATK is permanent as long as the monster remains face-up on the field.\n●You can use Rope of Life to Special Summon Jinzo and Jinzo's ATK will increase by 800 points.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Discarding your hand is a cost and the cost must be at least 1 card. So if you have zero cards in your hand, you cannot activate \"Rope of Life\".\\n2. If your monster is controlled by your opponent and sent to your GY, you can activate \"Rope of Life\". You cannot activate \"Rope of Life\" when your opponent's monster you control is sent to his/her GY.\\n3. The increase in ATK is permanent as long as the monster remains face-up on the field.\\n4. You can use \"Rope of Life\" to Special Summon \"Jinzo\" and the ATK of \"Jinzo\" will increase by 800 points."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

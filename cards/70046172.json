@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "● This effect applies for the entire turn (and not just until the End Phase).",
     "Tengu": "● This effect applies for the entire turn (and not just until the End Phase).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● This effect applies until the End Phase (this is an erratum).",
@@ -23,6 +24,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① Target 1 face-up monster on the field; this turn, it gains 700 ATK.",
     "Tengu": "① Target 1 face-up monster on the field; this turn, it gains 700 ATK.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

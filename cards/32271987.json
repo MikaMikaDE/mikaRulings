@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you activate this effect, you must send 1 Gemini monster from your Deck and draw 1 card. You cannot choose to just do only one part of the effect.\\n2. If you do not have a Gemini monster in your Deck, you cannot activate this effect.\\n3. If your Deck contains 1 or fewer cards, even if your remaining card is a Gemini monster you cannot activate this effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

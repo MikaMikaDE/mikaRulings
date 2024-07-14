@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The Trigger Effect is mandatory.\n●This effect only activates when it is sent from your side of the field to your GY.\n●This effect does not activate if “Dark Tinker” is sent to your GY under your opponent's control.",
     "Tengu": "(1) When this card you control is sent to the GY, look at the top card of your Deck. Return that card to either the top or the bottom of the Deck.\n●The (1) Trigger Effect is mandatory.\n●This effect only activates when it is sent from your side of the field to your GY.\n●This effect does not activate if “Dark Tinker” is sent to your GY under your opponent's control.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Dark Tinker\" only activates when it is sent from your side of the field to your GY. If your opponent controls \"Dark Tinker\", and it is sent to your GY, its effect does not activate."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

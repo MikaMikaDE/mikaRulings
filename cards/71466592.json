@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "This is an optional Quick Effect.\n● It is not a mandatory effect.\n● It can chain to the activation of any type of Spell Card.\n\nThis effect can be used in the Damage Step.\n● This effect can be used in the Damage Step even if Maryokutai is attacking or being attacked.\n● This effect can not be used in Substeps 5, 6, or 7, if Maryokutai was destroyed in Battle.",
     "Tengu": "\n●This monster’s effect is a Quick Effect, and therefore Spell Speed 2. So it may be used against Quick-Play Spell Cards.\n●You can Tribute Maryokutai to activate its effect during the Damage Step.",
     "Goat": "●This monster’s effect is multi-trigger, and therefore Spell Speed 2. So it may be used against Quick-Play Spell Cards.\n●You can Tribute Maryokutai to activate its effect during the Battle Phase if it is not attacking or being attacked. \n●Q: Can “Maryokutai” be legally activated to counter a card used during the Damage Step to increase or decrease the ATK/DEF of a monster? \nA: This is legal during the Damage Step.  01/08/04The payment of 1000 LP is optional and the controller of Mask of Brutality, not the controller of the equipped monster, chooses to pay or not. If you choose not to pay 1000 LP, Mask of Brutality is destroyed.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This monster's effect is a Quick Effect, and therefore Spell Speed 2. So it may be used against Quick-Play Spell Cards.\\n2. You can Tribute \"Maryokutai\" to activate its effect during the damage Step."
   },
   "PSCT": {
+    "Edison": "During your opponent's turn, if your opponent activates a Spell Card (Quick): You can Tribute this card; negate the activation, and if you do, destroy it.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

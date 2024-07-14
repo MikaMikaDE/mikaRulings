@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● If one target leaves the GY before this resolves, the others are still banished.",
     "Tengu": "● If one target leaves the GY before this resolves, the others are still banished.",
     "Goat": "“Soul Release” is a targeting effect.\n● “Soul Release” may remove any number of cards from the GY from 1 to 5.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can select cards from you and your opponent's GY simultaneously. For example, you can select 2 cards from your GY and 3 from your opponent's GY."
   },
   "PSCT": {
+    "Edison": "① Target up to 5 cards in any GY(s); banish them.",
     "Tengu": "① Target up to 5 cards in any GY(s); banish them.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

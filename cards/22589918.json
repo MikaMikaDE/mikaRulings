@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "●If you have your opponent's card in your hand and activate Reload, your opponent's card is shuffled to his/her Deck.\n●Your opponent can activate Appropriate in response to your drawing with Reload's effect.",
     "Tengu": "\n●If you have your opponent's card in your hand and activate Reload, your opponent's card is shuffled to his/her Deck.\n●Your opponent can activate Appropriate in response to your drawing with Reload's effect.",
     "Goat": "●If you have your opponent's card in your hand and activate Reload, your opponent's card is shuffled to his/her Deck.\n●Your opponent can activate Appropriate in response to your drawing with Reload's effect. If “Reload” is chained to the activation of “Drop Off,” the effect of “Drop Off” disappears.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If you have your opponent's card in your hand and activate \"Reload\", your opponent's card is shuffled to his/her Deck.\\n2. Your opponent can activate \"Appropriate\" in response to your drawing with the effect of \"Reload\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

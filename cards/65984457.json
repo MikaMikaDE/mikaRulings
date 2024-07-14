@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "● This can activate and resolve while “Skill Drain” is applying (without being negated).\n● If multiple “Gladiator Beast” effects are activated at the end of the Battle Phase, \nthey don’t go on the same Chain (they each activate, one after another, each on their own Chain).",
     "Tengu": "● This can activate and resolve while “Skill Drain” is applying (without being negated).\n● If multiple “Gladiator Beast” effects are activated at the end of the Battle Phase, \nthey don’t go on the same Chain (they each activate, one after another, each on their own Chain).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① At the end of the Battle Phase, if this card, Special Summoned by a \"Gladiator Beast\" monster, battled: \nYou can shuffle it into the Deck; draw 1 card.",
     "Tengu": "① At the end of the Battle Phase, if this card, Special Summoned by a \"Gladiator Beast\" monster, battled: \nYou can shuffle it into the Deck; \ndraw 1 card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

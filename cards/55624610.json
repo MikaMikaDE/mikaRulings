@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This is an Ignition Effect that targets 1 face-up 'Scrap' monster.\\n2. You cannot activate this effect if you have no Tuners in your Deck.\\n3. Destroying the target monster and sending 1 Tuner from your Deck to the GY occur simultaneously, so if you destroy \"Scrap Goblin\" or \"Scrap Beast\" with this effect you can still activate the effect of \"Scrap Goblin\" or \"Scrap Beast\".\\n4. The target monster must be face-up when this effect resolves, or else it will not be destroyed and you won't send a Tuner to the GY.\\n5. [TEXT] The text of this card is different in the DREV Rulings Document than on the card itself. The text here reflects the Rulings Document."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

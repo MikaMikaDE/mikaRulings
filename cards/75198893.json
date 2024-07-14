@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●“Scanner” targets 1 removed from play monster, but does not continue to target after the effect resolves. If “Scanner” is removed from the field while it is not copying another monster (example: if it is destroyed during your opponent’s turn), it is not removed from play.\n●If “Skill Drain” is activated after the effect of “Scanner” resolves, the effect of “Scanner” is still applied, and “Scanner” will still be removed from play if it leaves the field.\n●If the target of “Scanner” is no longer in the removed zone when the effect of “Scanner” resolves, then “Scanner” does not copy that monster, and “Scanner” won't be removed from play if it leaves the field.",
     "Tengu": "\n●“Scanner” targets 1 removed from play monster, but does not continue to target after the effect resolves. If “Scanner” is removed from the field while it is not copying another monster (example: if it is destroyed during your opponent’s turn), it is not removed from play.\n●If “Skill Drain” is activated after the effect of “Scanner” resolves, the effect of “Scanner” is still applied, and “Scanner” will still be removed from play if it leaves the field.\n●If the target of “Scanner” is no longer in the removed zone when the effect of “Scanner” resolves, then “Scanner” does not copy that monster, and “Scanner” will not be removed from play if it leaves the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"Scanner\" targets 1 removed from play monster, but does not continue to target after the effect resolves.\\n2. If \"Scanner\" is removed from the field while it is not copying another monster (example: if it is destroyed during your opponent's turn), it is not removed from play.\\n3. If \"Skill Drain\" is activated after the effect of \"Scanner\" resolves, the effect of \"Scanner\" is still applied, and \"Scanner\" will still be removed from play if it leaves the field.\\n4. If the target of \"Scanner\" is no longer in the removed zone when the effect of \"Scanner\" resolves, then \"Scanner\" does not copy that monster, and \"Scanner\" will not be removed from play if it leaves the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "\"Them\" means that even if 1 target is no longer valid, the other is still destroyed. You can read more about that here: https://edisonformat.net/rules/compendium/conjunctions\n\n\"In your Possession\" means \"anywhere on your playmat\". If Scrap Dragon is destroyed by \"Thunder King Rai-Oh\", \"Solemn Warning\", or is somehow destroyed while in your Extra Deck, its effect Triggers.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to return cards to the Deck targets 1 card you control and up to 3 cards your opponent controls.\\n2. You cannot target 0 cards if you activate this effect.\\n3. If you cannot destroy your card then you cannot return the opponent's cards.\\n4. If your opponent has control of your card when this effect resolves, you cannot destroy it so you cannot return the opponent's cards.\\n5. If 1 of the cards you targeted in your opponent's GY is no longer there when this effect resolves, you still return the remaining targets to the Deck.\\n6. If your opponent takes control of \"Atomic Scrap Dragon\" before its effect to return cards resolves, the effect is applied normally as long as you still control the card you chose to destroy."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

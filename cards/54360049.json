@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●You can't activate this effect during the Damage Step.\n●Removing from play 1 monster with ? is a cost.\n●This effect does not target.\n●If multiple monsters are Special Summoned at the same time, including Catoblepas and the Witch of Fate, you can activate its effect to destroy all your opponent's monsters that were Special Summoned at the same time.\n●If you activate The Shallow Grave while you control Catoblepas and the Witch of Fate you can activate its effect to destroy the monster your opponent Special Summons.",
     "Tengu": "\n●You cannot activate this effect during the Damage Step.\n●Removing from play 1 monster with ? is a cost.\n●This effect does not target.\n●If multiple monsters are Special Summoned at the same time, including Catoblepas and the Witch of Fate, you can activate its effect to destroy all your opponent's monsters that were Special Summoned at the same time.\n●If you activate The Shallow Grave while you control Catoblepas and the Witch of Fate you can activate its effect to destroy the monster your opponent Special Summons.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You cannot activate this effect during the Damage Step.\\n2. Removing from play 1 monster with ? is a cost.\\n3. This effect does not target.\\n4. If multiple monsters are Special Summoned at the same time, including \"Catoblepas and the Witch of Fate\", you can activate its effect and destroy all your opponent's monsters that were Special Summoned at the same time.\\n5. If you activate \"The Shallow Grave\" while you control \"Catoblepas and the Witch of Fate\" you can activate this effect to destroy the monster your opponent Special Summons."
   },
   "PSCT": {
+    "Edison": "When your opponent Special Summons a monster(s): you can banish 1 monster with ? ATK from your GY; destroy that monster(s).",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

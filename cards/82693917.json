@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "●You count the number of Fortune Lady monsters you control when the effect resolves. This includes Fortune Lady Wind.\n●If the number of Spell and Trap Cards your opponent controls is less than the number of Fortune Lady monsters you control when you Summon Fortune Lady Wind, you can't activate its effect.\n●This effect does not target. You choose which cards to destroy when resolving the effect.",
     "Tengu": "\n●You count the number of Fortune Lady monsters you control when the effect resolves. This includes Fortune Lady Wind.\n●If the number of Spell and Trap Cards your opponent controls is less than the number of Fortune Lady monsters you control when you Summon Fortune Lady Wind, you cannot activate its effect.\n●This effect does not target. You choose which cards to destroy when resolving the effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You count the number of 'Fortune Lady' monsters you control when the effect resolves. This includes \"Fortune Lady Wind\".\\n2. If the number of Spell and Trap Cards your opponent controls is less than the number of 'Fortune Lady' monsters you control when you Summon \"Fortune Lady Wind\" you cannot activate its effect.\\n3. This effect does not target. You choose which cards to destroy when resolving the effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

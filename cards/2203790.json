@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● If one target leaves the field, the rest are still destroyed.",
     "Tengu": "● If one target leaves the field, the rest are still destroyed.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect targets up to three Spell and Trap Cards."
   },
   "PSCT": {
+    "Edison": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\n① When Synchro Summoned: You can target up to 3 Spells/Traps on the field; destroy those targets.",
     "Tengu": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\n① When Synchro Summoned: You can target up to 3 Spells/Traps on the field;\ndestroy those targets.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

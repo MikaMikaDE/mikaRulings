@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate \"Blossom Bombardment\" if you destroy an opponent's monster with an original ATK of 0.\\n2. The damage dealt is the original ATK of the destroyed monster.\\n3. If both your monster and the opponent's monster are destroyed and sent to the GY, you can't activate \"Blossom Bombardment\".\\n4. If your monster is not a Plant-Type when your opponent's monster hits the GY you cannot activate \"Blossom Bombardment\". If your monster is a Plant-Type from damage calculation until the destroyed monster is sent to the GY, you can activate \"Blossom Bombardment\"."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

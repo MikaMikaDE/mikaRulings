@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "●Discarding 1 WIND monster is a cost.",
     "Tengu": "\n●Discarding 1 WIND monster is a cost.",
     "Goat": "●Discarding 1 WIND monster is a cost.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Discarding 1 WIND monster is a cost."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

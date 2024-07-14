@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●If there are multiple monsters tied for the highest ATK, they are all destroyed.\n●If Bottomless Shifting Sand is active and Tyrant Dragon is the monster with the highest ATK, Tyrant Dragon is destroyed because Bottomless Shifting Sand does not target a monster.",
     "Tengu": "\n●If there are multiple monsters tied for the highest ATK, they are all destroyed.\n●If Bottomless Shifting Sand is active and Tyrant Dragon is the monster with the highest ATK, Tyrant Dragon is destroyed because Bottomless Shifting Sand does not target a monster.",
     "Goat": "●If there are multiple monsters tied for the highest ATK, they are all destroyed.\n●If Bottomless Shifting Sand is applying and Tyrant Dragon is the monster with the highest ATK, Tyrant Dragon is destroyed because Bottomless Shifting Sand does not target a monster.\n●If more than one monster ties for highest ATK value in the End Phase while “Bottomless Shifting Sand” is applying, all of those monsters will be destroyed by the effect of “Bottomless Shifting Sand.”",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If there are multiple monsters tied for the highest ATK, they are all destroyed.\\n2. If \"Bottomless Shifting Sand\" is active and \"Tyrant Dragon\" is the monster with the highest ATK, \"Tyrant Dragon\" is destroyed because \"Bottomless Shifting Sand\" does not target a monster."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

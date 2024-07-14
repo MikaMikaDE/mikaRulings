@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If your opponent has 4 or fewer cards in their hand when this card’s effect resolves, they will still discard 1 card at random.",
     "Tengu": "\n●If your opponent has 4 or fewer cards in their hand when this card’s effect resolves, they will still discard 1 card at random.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If your opponent has 4 or fewer cards in their hand when this card's effect resolves, they will still discard 1 card at random."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

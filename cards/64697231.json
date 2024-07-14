@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● If playing online, you may take notes of your opponent's cards. In real-life Duels, you may not.\n(This disparity is due to the nature of online play, as it's impossible to enforce note-taking: \nOnline, you could screenshot the cards in your opponent's hand or write them down in a notepad, \nand nobody would be able to tell that you're note-taking).",
     "Tengu": "● If playing online, you may take notes of your opponent's cards. In real-life Duels, you may not.\n(This disparity is due to the nature of online play, as it's impossible to enforce note-taking: \nOnline, you could screenshot the cards in your opponent's hand or write them down in a notepad, \nand nobody would be able to tell that you're note-taking).",
     "Goat": "●You can select your own card that was taken by your opponent with Exchange. The card returns to the owner's deck (yours, in this case).",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can select your own card that was taken by your opponent with \"Exchange\". The card returns to the owner's deck (yours, in this case).\\n2. [FORUM] Part of the effect of \"Trap Dustshoot\" is to reveal your hand to your opponent. That means your opponent may look at and read the cards in your hand. It doesn't matter if you have Monster cards or not."
   },
   "PSCT": {
+    "Edison": "① If your opponent has 4 or more cards in their hand: Look at their hand and shuffle 1 Monster from it into the Deck (if any).",
     "Tengu": "① If your opponent has 4 or more cards in their hand: \nLook at their hand and shuffle 1 Monster from it into the Deck (if any).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

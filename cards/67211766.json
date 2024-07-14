@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Even if your opponent controls only Set Spell/Trap Cards, they still cannot choose this card as an attack target.\\n2. If your opponent controls an active \"Embodiment of Apophis\", it's still treated as a Trap Card as well as a monster, so they cannot attack this card.\\n3. If \"Majioshaleon\" is your only monster and your opponent controls a Spell or Trap Card, they cannot attack at all, unless they have a monster with an effect that allows it to attack directly.\\n4. If \"Majioshaleon\" is selected as an attack target while its effect is being negated by cards like \"Skill Drain\", but the card negating it is destroyed in response, the attack will proceed as normal."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

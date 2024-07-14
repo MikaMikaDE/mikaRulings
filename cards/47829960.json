@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "●You can only activate Chaosrider Gustaph's effect during your Main Phase 1 or 2.\n●Chaosrider Gustaph's effect does not target.",
     "Tengu": "\n●You can only activate Chaosrider Gustaph's effect during your Main Phase 1 or 2.\n●Chaosrider Gustaph's effect does not target.",
     "Goat": "●You can only activate Chaosrider Gustaph's effect during your MP 1 or 2.\n●Chaosrider Gustaph's effect does not target.\n●The ATK increase by the effect of “Chaosrider Gustaph” only applies to Spell Cards specifically removed for that effect.\n●If the ATK of “Chaosrider Gustaph” is raised by its effect and the following turn, control of “Chaosrider Gustaph” changes to the opponent, the opponent may raise the ATK of “Chaosrider Gustaph” through its effect.\n●Q: “Chaosrider Gustaph” works like “Bazoo the Soul Eater,” right? If my opponent uses the effect, and I take control of him, I can use the effect to raise his attack by an additional 600, right?\nA: Correct.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can only activate the effect of \"Chaosrider Gustaph\" during your Main Phase 1 or 2.\\n2. The effect of \"Chaosrider Gustaph\" does not target."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

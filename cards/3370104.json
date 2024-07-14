@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "● If this Set card was destroyed by battle, you can't activate the ② effect. \nIt must be face-up when targeted for the attack.",
     "Tengu": "● If this Set card was destroyed by battle, you cannot activate the ② effect. \nIt must be face-up when targeted for the attack.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This card's first effect is a Continuous Effect and its second effect is a Trigger Effect.\\n2. The Continuous Effect of \"Cyber Phoenix\" will not negate cards that have 2 targets, such as \"Penguin Soldier\" or \"Mystic Box\".\\n3. While you have \"Cyber Phoenix\" on the field in Attack Position, a Machine-Type monster on your side of the field equipped with \"Premature Burial\" will not be destroyed if \"Premature Burial\" is destroyed.\\n4. While you have \"Cyber Phoenix\" on the field in Attack Position, \"Heavy Mech Support Platform\" can be equipped to a Machine-Type monster on your side of the field but all of its effects are negated. It will not increase ATK, or be destroyed in place of the equipped monster, and it cannot be unequipped & Special Summoned by its own effect. (The Machine-Type monster can still only be equipped with 1 Union Monster at a time, because that is a condition, not an effect)."
   },
   "PSCT": {
+    "Edison": "① While this card is in Attack Position, \nnegate all Spell/Trap effects that target exactly 1 Machine you control (and no other cards).\n② If this card is destroyed by battle and sent to the GY, and was face-up at attack declaration: You can Draw 1 card,",
     "Tengu": "① While this card is in Attack Position, \nnegate all Spell/Trap effects that target exactly 1 Machine you control (and no other cards).\n② If this card is destroyed by battle and sent to the GY, and was face-up at attack declaration: You can Draw 1 card,",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

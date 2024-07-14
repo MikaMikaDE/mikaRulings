@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Destroying your monster for “Generation Shift” is not a cost. It’s part of the effect.\n●You can target a Limited monster with “Generation Shift”, but after destroying the monster you don’t search or shuffle your Deck.\n●You can target a Token Monster with “Generation Shift” and it will be destroyed, but you don't search or shuffle your Deck (this part of the effect is not resolved).\n●If you target “Proto-Cyber Dragon” or “Elemental Hero Neo Bubbleman” with this effect, you must add “Proto-Cyber Dragon” or “Elemental Hero Neo Bubbleman” to your hand. You can't add “Cyber Dragon” or “Elemental Hero Bubbleman”.\n●You can target Embodiment of Apophis with Generation Shift. It will be destroyed and a copy of Embodiment of Apophis from your Deck will be added to your hand.",
     "Tengu": "\n●Destroying your monster for “Generation Shift” is not a cost. It’s part of the effect.\n●You can target a Limited monster with “Generation Shift”, but after destroying the monster you don’t search or shuffle your Deck.\n●You can target a Token Monster with “Generation Shift” and it will be destroyed, but you do not search or shuffle your Deck (this part of the effect is not resolved).\n●If you target “Proto-Cyber Dragon” or “Elemental Hero Neo Bubbleman” with this effect, you must add “Proto-Cyber Dragon” or “Elemental Hero Neo Bubbleman” to your hand. You cannot add “Cyber Dragon” or “Elemental Hero Bubbleman”.\n●You can target Embodiment of Apophis with Generation Shift. It will be destroyed and a copy of Embodiment of Apophis from your Deck will be added to your hand.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Destroying your monster for \"Generation Shift\" is not a cost. It's part of the effect.\\n2. You can target a Limited monster with \"Generation Shift\", but after destroying the monster you don't search or shuffle your Deck.\\n3. You can target a Token Monster with \"Generation Shift\" and it will be destroyed, but you do not search or shuffle your Deck (this part of the effect is not resolved).\\n4. If you target \"Proto-Cyber Dragon\" or \"Elemental HERO Neo Bubbleman\" with this effect, you must add \"Proto-Cyber Dragon\" or \"Elemental HERO Neo Bubbleman\" to your hand. You cannot add \"Cyber Dragon\" or \"Elemental HERO Bubbleman\".\\n5. You can target \"Embodiment of Apophis\" with \"Generation Shift\". It will be destroyed and a copy of \"Embodiment of Apophis\" from your Deck will be added to your hand."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

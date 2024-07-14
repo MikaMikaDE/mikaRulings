@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "●Returning the Fusion Monster that was removed from play to the field does not start a Chain.\n●The Fusion Monster's ATK is only doubled if it is returned to the field with Cybernetic Zone's effect.\n●Destroying the returned monster during your next Standby Phase does not start a Chain.\n●When the monster is returned to the field, its total ATK is doubled. Any ATK gained afterwards is not doubled.",
     "Tengu": "\n●Returning the Fusion Monster that was removed from play to the field does not start a Chain.\n●The Fusion Monster's ATK is only doubled if it is returned to the field with Cybernetic Zone's effect.\n●Destroying the returned monster during your next Standby Phase does not start a Chain.\n●When the monster is returned to the field, its total ATK is doubled. Any ATK gained afterwards is not doubled.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Returning the Fusion Monster that was removed from play to the field does not start a Chain.\\n2. The Fusion Monster's ATK is only doubled if it is returned to the field with the effect of \"Cybernetic Zone\".\\n3. Destroying the returned monster during your next Standby Phase does not start a Chain.\\n4. When the monster is returned to the field, its total ATK is doubled. Any ATK gained afterwards is not doubled."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

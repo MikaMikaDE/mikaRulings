@@ -7,6 +7,7 @@
     "race": "Counter"
   },
   "Rulings": {
+    "Edison": "●Intercept targets the Tribute Summoned monster.\n●If the Tribute Summoned monster has an effect that activates when it is Tribute Summoned, the player that Tribute Summoned the monster activates its effect. Intercept is chained to the monster's effect.\n●Intercept can't be activated when Jinzo is Tribute Summoned, because Jinzo's effect is already applied and prevents Trap Cards from being activated.",
     "Tengu": "\n●Intercept targets the Tribute Summoned monster.\n●If the Tribute Summoned monster has an effect that activates when it is Tribute Summoned, the player that Tribute Summoned the monster activates its effect. Intercept is chained to the monster's effect.\n●Intercept cannot be activated when Jinzo is Tribute Summoned, because Jinzo's effect is already applied and prevents Trap Cards from being activated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Intercept\" targets the Tribute Summoned monster.\\n2. If the Tribute Summoned monster has an effect that activates when it is Tribute Summoned, the player that Tribute Summoned the monster activates its effect. \"Intercept\" is chained to the monster's effect.\\n3. \"Intercept\" cannot be activated when \"Jinzo\" is Tribute Summoned, because the effect of \"Jinzo\" is already applied and prevents Trap Cards from being activated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

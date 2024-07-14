@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You cannot activate the effect of \"Damage Eater\" during the Damage Step.\\n2. This is a Quick Effect. You Chain it directly to the opponent's effect that would inflict damage. Removing this card from play is a cost.\\n3. You cannot Chain the effect of \"Damage Eater\" to the activation of \"Wave-Motion Cannon\", but you CAN Chain it to the activation of the effect of \"Wave-Motion Cannon\" that inflicts damage.\\n4. You cannot Chain the effect of \"Damage Eater\" to a card or effect like \"Changing Destiny\" or \"The Paths of Destiny\" because it's uncertain whether or not it will inflict damage."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

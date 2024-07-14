@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "●If you have fewer than 3 cards in your Deck when this card is flipped face-up its Flip Effect does not activate.\n●Removing 3 cards from the top of your Deck is part of the resolution of this card’s Flip Effect, not part of the cost. So if its Flip Summon is negated by Solemn Judgment you don't remove any cards from the top of your Deck.",
     "Tengu": "\n●If you have fewer than 3 cards in your Deck when this card is flipped face-up its Flip Effect does not activate.\n●Removing 3 cards from the top of your Deck is part of the resolution of this card’s Flip Effect, not part of the cost. So if its Flip Summon is negated by Solemn Judgment you do not remove any cards from the top of your Deck.",
     "Goat": "●If you have fewer than 3 cards in your Deck when this card is flipped face-up its Flip Effect does not activate.\n●Removing 3 cards from the top of your Deck is part of the resolution of this card’s Flip Effect, not part of the cost. So if its Flip Summon is negated by Solemn Judgment you do not remove any cards from the top of your Deck.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you have fewer than 3 cards in your Deck when this card is flipped face-up its Flip Effect does not activate.\\n2. Removing 3 cards from the top of your Deck is part of the resolution of this card's Flip Effect, not part of the cost. So if its Flip Summon is negated by \"Solemn Judgment\" you do not remove any cards from the top of your Deck."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

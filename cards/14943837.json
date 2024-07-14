@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "● The Ⓒs in this card’s text are conditions, not effects. They can't be negated.",
     "Tengu": "● The Ⓒs in this card’s text are conditions, not effects. They cannot be negated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings currently available.",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Debris Dragon\" is a Trigger Effect that activates when it is Summoned and targets 1 monster in the GY. \"Debris Dragon\" does not continue to target that monster after the other monster is Special Summoned.\\n2. All restrictions on \"Debris Dragon\" and Synchro Summons are conditions, not effects, so will not be negated by \"Skill Drain\".\\n3. If \"Debris Dragon\" Special Summons a Gemini Monster, the Gemini Monster's effect that makes it a Normal Monster is negated, so the Gemini Monster is considered an Effect Monster.\\n4. You cannot use \"DNA Surgery\", naming Dragons, to use \"Debris Dragon\" to Synchro Summon a non-Dragon Synchro Monster. The Synchro Monster must originally be a Dragon-Type monster."
   },
   "PSCT": {
+    "Edison": "① When this card is Normal Summoned: \nYou can target 1 monster with 500 or less ATK in your GY; Special Summon that target in Attack Position (negate its effects). \nⒸ can't be used as Synchro Material,\nexcept for a Dragon Synchro. \nⒸ If used as Synchro Material, the other Material(s) can't be Level 4.",
     "Tengu": "① When this card is Normal Summoned: \nYou can target 1 monster with 500 or less ATK in your GY; \nSpecial Summon that target in Attack Position (negate its effects). \nⒸ Cannot be used as Synchro Material,\nexcept for a Dragon Synchro. \nⒸ If used as Synchro Material, the other Material(s) cannot be Level 4.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

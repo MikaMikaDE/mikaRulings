@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●Paying 1000 Life Points is a cost to activate “Master Gig’s” effect. This effect does not target.\n●You determine the number of destroyed monsters based on the number of face-up Psychic monsters you control when this effect resolves.\n●If the number of monsters controlled by the opponent is less than the number of face-up Psychic monsters you control, you can't activate “Master Gig’s” effect. If the effect has already been activated and you control more Psychic-Type monsters than your opponent has monsters when the effect resolves, you can't destroy any of the opponent’s monsters.",
     "Tengu": "\n●Paying 1000 Life Points is a cost to activate “Master Gig’s” effect. This effect does not target.\n●You determine the number of destroyed monsters based on the number of face-up Psychic monsters you control when this effect resolves.\n●If the number of monsters controlled by the opponent is less than the number of face-up Psychic monsters you control, you cannot activate “Master Gig’s” effect. If the effect has already been activated and you control more Psychic-Type monsters than your opponent has monsters when the effect resolves, you cannot destroy any of the opponent’s monsters.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Paying 1000 Life Points is a cost to activate the effect of \"Master Gig\". This effect does not target.\\n2. You determine the number of destroyed monsters based on the number of face-up Psychic monsters you control when this effect resolves.\\n3. If the number of monsters controlled by the opponent is less than the number of face-up Psychic monsters you control, you cannot activate the effect of \"Master Gig\". If the effect has already been activated and you control more Psychic-Type monsters than your opponent has monsters when the effect resolves, you cannot destroy any of the opponent's monsters."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

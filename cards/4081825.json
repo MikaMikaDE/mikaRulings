@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can't activate this card during the Damage Step.\\n2. You can't activate this card if there are no Defense Position monsters on the field or if there are no \"Meklord\" monsters that you can Special Summon from your Deck or GY.\\n3. This card does not target.\\n4. Destroying the \"Meklord\" monster during the End Phase does not start a Chain.\\n5. If no monsters are changed to Attack Position when this card resolves, you don't Summon a \"Meklord\" from your Deck or GY.\\n6. Only effects of the Special Summoned \"Meklord\" monster that activate on the field are negated.\\n7. If you can't Summon a \"Meklord\" monster when this card resolves, it still changes Defense Position monsters to Attack Position."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

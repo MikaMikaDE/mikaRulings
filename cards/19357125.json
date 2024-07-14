@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If you activate Dark Hunter's 5 or more effect and an effect is chained that reduces the number of DARK monsters in your GY to 4 or less, Dark Hunter's effect still resolves.\n●While Skill Drain is active, all of Dark Hunter's effects are negated because the primary effect, This card's effect changes depending on the number of DARK monsters in your GY, is negated.",
     "Tengu": "\n●If you activate Dark Hunter's 5 or more effect and an effect is chained that reduces the number of DARK monsters in your GY to 4 or less, Dark Hunter's effect still resolves.\n●While Skill Drain is active, all of Dark Hunter's effects are negated because the primary effect, This card's effect changes depending on the number of DARK monsters in your GY, is negated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you activate the '5 or more' effect of \"Dark Hunter\" and an effect is chained that reduces the number of DARK monsters in your GY to 4 or less, the effect of \"Dark Hunter\" still resolves.\\n2. While \"Skill Drain\" is active, all of the effects of \"Dark Hunter\" are negated because the primary effect, 'This card's effect changes depending on the number of DARK monsters in your GY', is negated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

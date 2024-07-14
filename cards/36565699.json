@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This is a mandatory effect that starts a Chain, does not target, and can activate during the Damage Step.\\n2. Removing the selected card from play and returning the remaining cards to the Deck happen one after the other, not at the same time.\\n3. This effect still resolves and is applied as much as possible even if the opponent has less than 3 cards in their Deck.\\n4. The card removed from play by this effect is removed face-up."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

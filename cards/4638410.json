@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Activating multiple copies of this card won't do anything extra.\\n2. Any Normal or Counter Trap that resolved before \"Tyrant's Temper\" was activated will continue to apply.\\n3. Any Continuous Trap that is affecting one of your monsters will no longer apply.\\n4. If you control 2 active copies of this card along with \"Skill Drain\", and 1 \"Tyrant's Temper\" is destroyed, the second \"Tyrant's Temper\" will continue to protect your monsters from \"Skill Drain\".\\n5. If your opponent uses \"Divine Wrath\" to negate the effect of one of your monsters on the field while \"Tyrant's Temper\" is active, that monster's effect will not be negated and the monster won't be destroyed."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

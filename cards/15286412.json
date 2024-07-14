@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate this card during the Damage Step.\\n2. Removing the monster from play is a cost.\\n3. This card targets the card you wish to destroy.\\n4. Returning the removed monster does not start a Chain.\\n5. If the activation or effect of this card is negated, you do not return the removed monster from play.\\n6. Even if you can't destroy the target card on the field, the removed monster will still return.\\n7. If you activate multiple copies of Gungnir in the same turn, you choose the order that the monsters are returned."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

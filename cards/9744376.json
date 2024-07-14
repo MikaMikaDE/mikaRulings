@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●The number of “Good Goblin Housekeeping” cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of “Good Goblin Housekeeping” in your GY, and you activate “Good Goblin Housekeeping” and chain “Emergency Provisions” to send it to the GY, you would draw 2 cards.\n●You can activate this card when you have no copies of “Good Goblin Housekeeping” in your GY. You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck.",
     "Tengu": "\n●The number of “Good Goblin Housekeeping” cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of “Good Goblin Housekeeping” in your GY, and you activate “Good Goblin Housekeeping” and chain “Emergency Provisions” to send it to the GY, you would draw 2 cards.\n●You can activate this card when you have no copies of “Good Goblin Housekeeping” in your GY. You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck.",
     "Goat": "●The number of “Good Goblin Housekeeping” cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of “Good Goblin Housekeeping” in your GY, and you activate “Good Goblin Housekeeping” and chain “Emergency Provisions” to send it to the GY, you would draw 2 cards.\n●You can activate this card when you have no copies of “Good Goblin Housekeeping” in your GY. You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The number of \"Good Goblin Housekeeping\" cards referred to by the effect is counted at resolution of this effect. So, if you have no copies of \"Good Goblin Housekeeping\" in your GY, and you activate \"Good Goblin Housekeeping\" and chain \"Emergency Provisions\" to send it to the GY, you would draw 2 cards.\\n2. You can activate this card when you have no copies of \"Good Goblin Housekeeping\" in your GY. You will draw 1 card in this case, then return 1 card from your hand to the bottom of your Deck."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "● You can use this effect multiple times per turn.",
     "Tengu": "● You can use this effect multiple times per turn.",
     "Goat": "“Catapult Turtle’s” effect is Speed 1 and is a Cost Effect.\n●“Catapult Turtle’s” effect may be used once immediately upon summoning before the opponent may respond with an appropriate Trap Card like “Torrential Tribute” or “Trap Hole.” \n●“Catapult Turtle” may Tribute itself for its effect. \n●“Catapult Turtle’s” effect is based on the current ATK of the monster at the moment it is Tributed.\n●Face-down monsters may be Tributed for “Catapult Turtle’s” effect.\n●Q: If the monster used as a Tribute for the effect of “Catapult Turtle” has an ATK that is modified by other card effects, will “Catapult Turtle’s” effect use the original ATK or the modified ATK of the monster? \nA: Catapult Turtle's effect uses the Tributed monster's total ATK, including all modifiers. So if I Tribute a Dark Elf equipped with an Axe of Despair, the damage dealt by the effect of the Catapult Turtle would be 1500 points.\n●Q: If you select “Jinzo” for the effect of “Catapult Turtle”, when is “Jinzo” removed from the field allowing Trap Cards to be activated? \nA: When you activate the effect of Catapult Turtle you Tribute a monster as a cost. The Tributed monster will no longer be on the field. At this time the opponent could respond with a Card Effect of their own. Since Jinzo would no longer be on the field they could respond with a Trap.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Tributing 1 monster is a cost. This effect is an Ignition Effect.\\n2. The inflicted damage is equal to half the total ATK of the monster at the time it was Tributed.\\n3. When you Tribute a face-down monster, the damage is equal to half the monster's original ATK while it is in the GY."
   },
   "PSCT": {
+    "Edison": "① You can Tribute 1 monster; Your opponent takes damage equal to half of its ATK on the field.",
     "Tengu": "① You can Tribute 1 monster; \nYour opponent takes damage equal to half of its ATK on the field.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect activates even if your opponent controls more monsters with 0 ATK than you have cards in your Deck. In this case, you will lose the Duel due to not being able to draw enough cards.\\n2. The destruction of the 0 ATK monsters and drawing cards are considered to occur simultaneously."
   },
   "PSCT": {
+    "Edison": "1 \" Reptilianne \" Tuner + 1 or more non-Tuners\n① If Synchro Summoned: Destroy as many monsters your opponent controls with 0 ATK as possible, and if you do, draw 1 card for each monster destroyed this way.",
     "Tengu": "1 \" Reptilianne \" Tuner + 1 or more non-Tuners\n① If Synchro Summoned: Destroy as many monsters your opponent controls with 0 ATK as possible, and if you do, draw 1 card for each monster destroyed this way.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

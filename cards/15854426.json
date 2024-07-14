@@ -7,6 +7,7 @@
     "race": "Field"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This effect starts a Chain.\\n2. You can activate this effect during either player's turn.\\n3. You cannot activate this effect during the Damage Step.\\n4. You can activate this effect if you control your opponent's WIND monster and it is returned to his hand.\\n5. Your opponent cannot use the effect of this card.\\n6. You can activate this effect if a monster that was changed to WIND by \"DNA Surgery\" is returned to the hand.\\n7. You cannot activate this effect when a WIND-Attribute Token would be returned to the hand.\\n8. You can activate this effect if a WIND monster is returned to the hand to pay the cost of an effect. In that case you activate the effect after the current Chain resolves."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

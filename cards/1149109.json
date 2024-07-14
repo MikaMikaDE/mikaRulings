@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Destroying Deck Lockdown during the Standby Phase does not start a Chain.\n●Monsters can be Special Summoned from the Extra Deck while “Deck Lockdown” is active.\n●Reinforcement of the Army, the effect of Green Gadget, etc. can't be activated while Deck Lockdown is active.\n●If Sangan is sent from the field to the GY while Deck Lockdown is active, its effect will start a Chain but its effect will disappear when it resolves.\n●Crystal Seer's effect can activate while Deck Lockdown is active, but the card you would add to your hand is sent to the GY instead.",
     "Tengu": "\n●Destroying Deck Lockdown during the Standby Phase does not start a Chain.\n●Monsters can be Special Summoned from the Extra Deck while “Deck Lockdown” is active.\n●Reinforcement of the Army, the effect of Green Gadget, etc. cannot be activated while Deck Lockdown is active.\n●If Sangan is sent from the field to the GY while Deck Lockdown is active, its effect will start a Chain but its effect will disappear when it resolves.\n●Crystal Seer's effect can activate while Deck Lockdown is active, but the card you would add to your hand is sent to the GY instead.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Destroying \"Deck Lockdown\" during the Standby Phase does not start a Chain.\\n2. Monsters can be Special Summoned from the Extra Deck while \"Deck Lockdown\" is active.\\n3. \"Reinforcement of the Army\", the effect of \"Green Gadget\", etc. cannot be activated while \"Deck Lockdown\" is active.\\n4. If \"Sangan\" is sent from the field to the GY while \"Deck Lockdown\" is active, its effect will start a Chain but its effect will disappear when it resolves.\\n5. The effect of \"Crystal Seer\" can activate while \"Deck Lockdown\" is active, but the card you would add to your hand is sent to the GY instead."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

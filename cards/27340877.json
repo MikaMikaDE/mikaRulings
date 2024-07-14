@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This card targets 1 face-down monster you control.\n●If the targeted monster is not on the field when “DNA Checkup” resolves, its effect disappears.\n●You can't target a face-down Spell Card Special Summoned by “Magical Hats”.\n●If the targeted monster has multiple Attributes, like “Light and Darkness Dragon” you only refer to the Attribute printed on the card when resolving “DNA Checkup”.\n●Your opponent declares 2 Attributes when the effect resolves, immediately before revealing the monster.\n●You can't activate “DNA Checkup” if either player has less than 2 cards left in their Deck.",
     "Tengu": "\n●This card targets 1 face-down monster you control.\n●If the targeted monster is not on the field when “DNA Checkup” resolves, its effect disappears.\n●You cannot target a face-down Spell Card Special Summoned by “Magical Hats”.\n●If the targeted monster has multiple Attributes, like “Light and Darkness Dragon” you only refer to the Attribute printed on the card when resolving “DNA Checkup”.\n●Your opponent declares 2 Attributes when the effect resolves, immediately before revealing the monster.\n●You cannot activate “DNA Checkup” if either player has less than 2 cards left in their Deck.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card targets 1 face-down monster you control.\\n2. If the targeted monster is not on the field when \"DNA Checkup\" resolves, its effect disappears.\\n3. You cannot target a face-down Spell Card Special Summoned by \"Magical Hats\".\\n4. If the targeted monster has multiple Attributes, like \"Light and Darkness Dragon\" you only refer to the Attribute printed on the card when resolving \"DNA Checkup\".\\n5. Your opponent declares 2 Attributes when the effect resolves, immediately before revealing the monster.\\n6. You cannot activate \"DNA Checkup\" if either player has less than 2 cards left in their Deck."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

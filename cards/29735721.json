@@ -7,6 +7,7 @@
     "race": "Counter"
   },
   "Rulings": {
+    "Edison": "●When you activate Spell Vanishing, you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card.",
     "Tengu": "\n●When you activate Spell Vanishing, you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card.",
     "Goat": "●When you activate Spell Vanishing, you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card. 1/05/2004\n●Q: “Spell Vanishing” doesn't state to shuffle the decks after played. Do I shuffle anyways? \nA: Anytime you search your deck for a card or place a card into your deck you MUST shuffle your deck when finished, even if the effect did not tell you to. ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. When you activate \"Spell Vanishing\", you get to search your opponent's Deck to look for any Spell Cards of the same name as the destroyed Spell Card."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

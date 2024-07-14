@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Special Summoning this card starts a Chain.\\n2. This effect is considered the effect of a Spell Card. This card does not have an effect as an Effect Monster.\\n3. If the effects of Spell Cards are being negated, the effect to Special Summon this card will be negated.\\n4. If this card's effect is used, then this card is sent to the GY and re-equipped to a monster, you can activate this effect again."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

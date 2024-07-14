@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●The effect of this card only activates when you elect to change its Normal Summon to a Special Summon. Not if it is Special Summoned by Monster Reborn, Marauding Captain, etc.\n●You can use the effect of this card to change its Normal Summon to a Special Summon even if your opponent has no monsters in their GY.",
     "Tengu": "\n●The effect of this card only activates when you elect to change its Normal Summon to a Special Summon. Not if it is Special Summoned by Monster Reborn, Marauding Captain, etc.\n●You can use the effect of this card to change its Normal Summon to a Special Summon even if your opponent has no monsters in their GY.",
     "Goat": "●The effect of this card only activates when you elect to change its Normal Summon to a Special Summon. Not if it is Special Summoned by Monster Reborn, Marauding Captain, etc.\n●You can use the effect of this card to change its Normal Summon to a Special Summon even if your opponent has no monsters in their GY.\n●Q: Can a player Special Summon “Gilasaurus” by its effect and then Chain “Disappear” to the effect to target the monster being selected by their opponent? \nA: Yes they can. The opponent had to decide which monster to Special Summon at the time of activation. ”Disappear” removed it from play. The opponent is not allowed to make another choice.   \n●Q: If “Necrovalley” is on the field, can “Gilasaurus” be Special Summoned without allowing the opponent to Special Summon from the GY? \nA: Yes. bishop 02/23/04 \n●Q: If I special summon Gilasaurus, can Skill Drain keep the opponent from getting a monster from their GY? \nA: You can special summon Gilasaurus but its effect is then negated and your opponent cannot special summon a monster from their GY.  ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of this card only activates when you elect to change its Normal Summon to a Special Summon. Not if it is Special Summoned by \"Monster Reborn\", \"Marauding Captain\", etc.\\n2. You can use the effect of this card to change its Normal Summon to a Special Summon even if your opponent has no monsters in their GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

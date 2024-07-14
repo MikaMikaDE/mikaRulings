@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●Tributing 1 monster is a cost to activate this effect.\n●This effect targets 1 face-up monster your opponent controls.\n●If the target of this effect is flipped face-down by an effect Chained to this one, you don't gain control of the target monster.",
     "Tengu": "\n●Tributing 1 monster is a cost to activate this effect.\n●This effect targets 1 face-up monster your opponent controls.\n●If the target of this effect is flipped face-down by an effect Chained to this one, you do not gain control of the target monster.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Tributing 1 monster is a cost to activate this effect.\\n2. This effect targets 1 face-up monster your opponent controls.\\n3. If the target of this effect is flipped face-down by an effect Chained to this one, you do not gain control of the target monster."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

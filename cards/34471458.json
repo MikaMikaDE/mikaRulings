@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "The ③:\n●Will trigger even if Fortune Lady Light left the field while face-down.\n●Will trigger even if this card returns to the hand (even if it was face-down, in which case you must reveal it to activate the effect).",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Fortune Lady Light\" is returned from the field to your hand, you can activate its effect. (If it was face-down you must show it to your opponent.) Note: \"This Ruling is outdated given the current card text.\"\\n2. If this card's Level is 12, the effect to increase its Level will not activate during the Standby Phase."
   },
   "PSCT": {
+    "Edison": "① This card's ATK/DEF become its Level x 200. \n② Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). \n③ When this card leaves the field by a card effect: You can Special Summon 1 \"Fortune Lady\" monster from your Deck.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

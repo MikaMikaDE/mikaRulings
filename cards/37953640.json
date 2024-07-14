@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "● The Ⓒ is a condition. It can't be negated.",
     "Tengu": "● The Ⓒ is a condition. It can't be negated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "Ⓒ If this card is used as Synchro Material, all other Materials must be Fish.",
     "Tengu": "Ⓒ If this card is used as Synchro Material, all other Materials must be Fish.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

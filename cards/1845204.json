@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● If that monster becomes flipped face-down, the effects \"Its effects are negated, also it is destroyed during each End Phase\" are no longer applied to it.",
     "Tengu": "● If that monster becomes flipped face-down, the effects \"Its effects are negated, also it is destroyed during each End Phase\" are no longer applied to it.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Because the Summon from \"Instant Fusion\" is a Fusion Summon, Fusion Monsters with the text 'A Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters.' cannot be Special Summoned with \"Instant Fusion\".\\n2. Since the Special Summon from \"Instant Fusion\" is treated as a Fusion Summon, you can use \"Premature Burial\" etc. on the Fusion Monster if it is destroyed.\\n3. Even if \"Non-Spellcasting Area\" is active, a Fusion Monster that is not an Effect Monster (such as \"Flame Swordsman\") will still be affected by the restrictions on \"Instant Fusion\". So it still cannot attack and it is still destroyed at the end of this turn.\\n4. Even though only 1 copy of this card can be activated each turn, you can chain \"Serial Spell\" to it to duplicate the effect.\\n5. If \"Destiny HERO - Diamond Dude\" uses its effect and reveals \"Instant Fusion\", you can still activate another \"Instant Fusion\" that same turn."
   },
   "PSCT": {
+    "Edison": "① Pay 1000 LP; Fusion Summon 1 Level 5 or lower Fusion Monster from your Extra Deck (it cannot attack, also Destroy it during each End Phase)\n(You can only activate 1 \"Instant Fusion\" per turn).",
     "Tengu": "① Pay 1000 LP; Fusion Summon 1 Level 5 or lower Fusion Monster from your Extra Deck (negate its effects, also Destroy it during each End Phase)\n(You can only activate 1 \"Instant Fusion\" per turn).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

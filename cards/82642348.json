@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If Second Coin Toss is active, and Kryuel is sent to the GY as a result of battle, you can re-do the coin toss.",
     "Tengu": "\n●If Second Coin Toss is active, and Kryuel is sent to the GY as a result of battle, you can re-do the coin toss.",
     "Goat": "●If Second Coin Toss is applying, and Kryuel is sent to the GY as a result of battle, you can re-do the coin toss.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Second Coin Toss\" is active, and \"Kryuel\" is sent to the GY as a result of battle, you can re-do the coin toss."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

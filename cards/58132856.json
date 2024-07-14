@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●If you Set Toy Magician in your Spell and Trap Card Zone, you can't activate (flip face-up) it. It remains in your Spell and Trap Card Zone until it is removed by another effect.",
     "Tengu": "\n●If you Set Toy Magician in your Spell and Trap Card Zone, you cannot activate (flip face-up) it. It remains in your Spell and Trap Card Zone until it is removed by another effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you Set \"Toy Magician\" in your Spell and Trap Card Zone, you cannot \"activate\" (flip face-up) it. It remains in your Spell and Trap Card Zone until it is removed by another effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

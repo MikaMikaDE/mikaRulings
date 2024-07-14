@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●When you have Mysterious Puppeteer face-up on the field, if you Summon a monster and you opponent activates Trap Hole your monster is destroyed and you still gain 500 Life Points, since the monster was Summoned and then destroyed.",
     "Tengu": "\n●When you have Mysterious Puppeteer face-up on the field, if you Summon a monster and you opponent activates Trap Hole your monster is destroyed and you still gain 500 Life Points, since the monster was Summoned and then destroyed.",
     "Goat": "●When you have Mysterious Puppeteer face-up on the field, if you Summon a monster and you opponent activates Trap Hole your monster is destroyed and you still gain 500 LP, since the monster was Summoned and then destroyed. \n●Q: If the opponent summons and Effect Monster such as “Exiled Force” while “Mysterious Puppeteer” is face-up on the field, can “Trap Hole” be chained to the effect of “Mysterious Puppeteer” destroying the summoned monster before its effect can be activated? \nA: The Mysterious Puppeteer's effect would activate immediatly after the successful Summon of Exiled Force. The opponent could chain to this with Trap Hole and target the Exiled Force. In this situation, Exiled Force will not get to activate its effect and would be destroyed by Trap Hole during the resolution of the chain. \n●  \n●Q: If Skill Drain is applying, would the Mysterious Puppeteer's effect still attempt to work, removing the Turn Player's priority for a card such as Exiled Force? \nA: The Mysterious Puppeteer's effect would still activate, but it would be negated by Skill Drain when it resolves. Skill Drain cannot prevent the activation of a monster's effect, but it will negate the effect if it resolves while the monster is face-up on the field. ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. When you have \"Mysterious Puppeteer\" face-up on the field, if you Summon a monster and you opponent activates \"Trap Hole\" your monster is destroyed and you still gain 500 Life Points, since the monster was Summoned and then destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

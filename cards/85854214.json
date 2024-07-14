@@ -7,6 +7,7 @@
     "race": "Counter"
   },
   "Rulings": {
+    "Edison": "●If an effect targets card(s) on the field and also targets card(s) in the GY, you can chain Hero's Rule 2.",
     "Tengu": "\n●If an effect targets card(s) on the field and also targets card(s) in the GY, you can chain Hero's Rule 2.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If an effect targets card(s) on the field and also targets card(s) in the GY, you can chain \"Hero's Rule 2\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

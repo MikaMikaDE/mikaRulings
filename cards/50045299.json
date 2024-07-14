@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Dragon-Type monsters on both sides of the field are affected by Dragon Capture Jar.\n●If Stop Defense is activated targeting a Dragon-Type monster, it is switched to Attack Position, but then is immediately changed back to Defense Position since the effect of Dragon Capture Jar is continuous.",
     "Tengu": "\n●Dragon-Type monsters on both sides of the field are affected by Dragon Capture Jar.\n●If Stop Defense is activated targeting a Dragon-Type monster, it is switched to Attack Position, but then is immediately changed back to Defense Position since the effect of Dragon Capture Jar is continuous.",
     "Goat": "●Dragon monsters on both sides of the field are affected by Dragon Capture Jar.\n●If Stop Defense is activated targeting a Dragon monster, it is switched to Attack Position, but then is immediately changed back to Defense Position since the effect of Dragon Capture Jar is continuous.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Dragon-Type monsters on both sides of the field are affected by \"Dragon Capture Jar\".\\n2. If \"Stop Defense\" is activated targeting a Dragon-Type monster, it is switched to Attack Position, but then is immediately changed back to Defense Position since the effect of \"Dragon Capture Jar\" is continuous."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

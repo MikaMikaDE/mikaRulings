@@ -7,6 +7,7 @@
     "race": "Counter"
   },
   "Rulings": {
+    "Edison": "●If your opponent discards card●If you're the one using this card, tell your opponent that you might want to activate an effect before they shuffle the drawn card into their hand. Also ask them if they wish to activate anything before you do.\n●If your opponent draws Mystical Space Typhoon for their Normal Draw, they retain priority to activate it during the Draw Phase. If they do so, you can no longer activate Drastic Drop Off as the card they drew is no longer in their hand.\n●If Destiny Hero - Dasher is in your opponent's GY, and you have a Set Drastic Drop Off: when your opponent draws a Monster Card during their Draw Phase, they can activate Dasher's effect (as Chain Link 1). However, you can chain Drastic Drop Off to discard the Monster Card they drew.",
     "Tengu": "\n●If your opponent discards card(s) after drawing or adding card(s) to their hand as part of the same effect resolution, you cannot activate Drastic Drop Off. For example, when your opponent resolves Graceful Charity, you cannot activate Drastic Drop Off.\n●If you're the one using this card, tell your opponent that you might want to activate an effect before they shuffle the drawn card into their hand. Also ask them if they wish to activate anything before you do.\n●If your opponent draws Mystical Space Typhoon for their Normal Draw, they retain priority to activate it during the Draw Phase. If they do so, you can no longer activate Drastic Drop Off as the card they drew is no longer in their hand.\n●If Destiny Hero - Dasher is in your opponent's GY, and you have a Set Drastic Drop Off: when your opponent draws a Monster Card during their Draw Phase, they can activate Dasher's effect (as Chain Link 1). However, you can chain Drastic Drop Off to discard the Monster Card they drew.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If your opponent discards card(s) after drawing or adding card(s) to their hand as part of the same effect resolution, you cannot activate \"Drastic Drop Off\". For example, when your opponent resolves \"Graceful Charity\", you cannot activate \"Drastic Drop Off\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

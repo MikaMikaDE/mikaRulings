@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "●The Unclassified effect works like a built-in Special Summon. This does not start a Chain.\n●The Ignition Effect sends an Equip Spell equipped to this card to the GY for cost.\n●You can send an opponent’s Equip Spell equipped to this card to the GY as the cost.\n●This effect targets 1, 2, or 3 monsters in your opponent’s GY.\n●Removing the targets from play and increasing this card’s ATK occur simultaneously.\n●If a target disappears, the other targets are removed from play and Eatos gains ATK accordingly.",
     "Tengu": "(U) If you have no monsters in your GY, you can Special Summon this card from your hand. (1) You can send 1 Equip Spell Card equipped to this card to the GY to select and remove from play up to 3 monsters in your opponent's GY. This card gains 500 ATK for each monster removed by this effect, until the End Phase.\n●The (U) Unclassified effect works like a built-in Special Summon. This does not start a Chain.\n●The (1) Ignition Effect sends an Equip Spell equipped to this card to the GY for cost.\n●You can send an opponent’s Equip Spell equipped to this card to the GY as the cost.\n●This effect targets 1, 2, or 3 monsters in your opponent’s GY.\n●Removing the targets from play and increasing this card’s ATK occur simultaneously.\n●If a target disappears, the other targets are removed from play and Eatos gains ATK accordingly.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Sending an Equip Spell to the GY is a cost.\\n2. The effect targets 1-3 monsters in your opponent's GY.\\n3. Removing from play the monsters and increasing this card's ATK happen at the same time.\\n4. Even if 1 of the target monsters leaves the GY before this effect resolves, the remaining targets will be removed from play and this card's ATK will be increased appropriately.\\n5. You can send an opponent's Equip Spell equipped to this card to the GY as the cost."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

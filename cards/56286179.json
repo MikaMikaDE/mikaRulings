@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "While you control this face-up card, during each battle between a Warrior Defense Position monster whose DEF is lower than the ATK of the attacking monster, inflict the difference as Battle Damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect, you can draw 1 card.\n●The effect to draw a card is a Trigger Effect that activates after damage calculation.\n●The effect to draw a card will stack with effects like “Spiral SpIf you control 2 “Drill Synchrons” you can activate the effect of both of them when your WarriorDefense Position monster and inflicts damage.",
     "Tengu": "While you control this face-up card, during each battle between a Warrior Defense Position monster whose DEF is lower than the ATK of the attacking monster, inflict the difference as Battle Damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect, you can draw 1 card.\n●The effect to draw a card is a Trigger Effect that activates after damage calculation.\n●The effect to draw a card will stack with effects like “Spiral SpIf you control 2 “Drill Synchrons” you can activate the effect of both of them when your WarriorDefense Position monster and inflicts damage.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to draw a card is a Trigger Effect that activates after damage calculation.\\n2. The effect to draw a card will stack with effects like \"Spiral Spear Strike\".\\n3. If you control 2 copies of \"Drill Synchron\" you can activate the effect of both of them when your Warrior-Type monster attacks a Defense Position monster and inflicts damage."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

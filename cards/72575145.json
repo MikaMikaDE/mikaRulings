@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●A monster's Level can't go below 1. You can equip 2 Demotions to a monster to reduce its Level by 4.",
     "Tengu": "\n●A monster's Level cannot go below 1. You can equip 2 Demotions to a monster to reduce its Level by 4.",
     "Goat": "●A monster's Lv cannot go below 1. You can equip 2 Demotions to a monster to reduce its Lv by 4.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. A monster's Level cannot go below 1. You can equip 2 copies of \"Demotion\" to a monster to reduce its Level by 4."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

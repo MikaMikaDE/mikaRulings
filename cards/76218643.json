@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If “Black Potan” is removed from the field while being treated as a Tuner, you don't gain any Life Points.\n●If a Monster Token being treated as a Tuner is removed from the field, you gain Life Points.\n●If a Tuner monster that is equipped to “Relinquished” is removed from the field, you don't gain Life Points because it was not being treated as a monster.",
     "Tengu": "\n●If “Black Potan” is removed from the field while being treated as a Tuner, you do not gain any Life Points.\n●If a Monster Token being treated as a Tuner is removed from the field, you gain Life Points.\n●If a Tuner monster that is equipped to “Relinquished” is removed from the field, you do not gain Life Points because it was not being treated as a monster.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Black Potan\" is removed from the field while being treated as a Tuner, you do not gain any Life Points.\\n2. If a Monster Token being treated as a Tuner is removed from the field, you gain Life Points.\\n3. If a Tuner monster that is equipped to \"Relinquished\" is removed from the field, you do not gain Life Points because it was not being treated as a monster."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

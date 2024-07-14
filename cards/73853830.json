@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters\n●The effect to increase this card’s ATK is resolved only if you place a Spell Counter.\n●This effect targets the card you place a Spell Counter on.\n●You can't place a Spell Counter on this card. If “Skill Drain” is activated, this card loses any ATK gained from its own effect.\n●If a card like “Breaker the Magical Warrior” is having its effect negated, you can't place a Spell Counter on it with this effect.\n●If the target of this effect is face-down when the effect resolves, no Spell Counter is placed and no ATK is gained.",
     "Tengu": "\n●The effect to increase this card’s ATK is resolved only if you place a Spell Counter.\n●This effect targets the card you place a Spell Counter on.\n●You cannot place a Spell Counter on this card. If “Skill Drain” is activated, this card loses any ATK gained from its own effect.\n●If a card like “Breaker the Magical Warrior” is having its effect negated, you cannot place a Spell Counter on it with this effect.\n●If the target of this effect is face-down when the effect resolves, no Spell Counter is placed and no ATK is gained.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to increase this card's ATK is resolved only if you place a Spell Counter.\\n2. This effect targets the card you place a Spell Counter on.\\n3. You cannot place a Spell Counter on this card.\\n4. If \"Skill Drain\" is activated, this card loses any ATK gained from its own effect.\\n5. If a card like \"Breaker the Magical Warrior\" is having its effect negated, you cannot place a Spell Counter on it with this effect.\\n6. If the target of this effect is face-down when the effect resolves, no Spell Counter is placed and no ATK is gained."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

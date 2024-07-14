@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If you remove all the cards from your hand with \"Phantom Hand\" but \"Phantom Hand\" is no longer on the field or is negated during your Standby Phase, your cards will still be returned to your hand.\\n2. If you activate the effect of \"Phantom Hand\" during your turn and again during your opponent's turn, the cards removed by each activation will come back separately, not at the same time.\\n3. Returning the cards to your hand does not start a Chain.\\n4. If you do not control an 'Infernity' monster when \"Phantom Hand\" resolves, you cannot remove the cards in your hand."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

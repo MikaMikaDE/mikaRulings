@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "●When Inferno battles with another monster with equal ATK, Inferno's effect is not activated because it must destroy the other monster and send it to the GY, and at that time, Inferno is no longer on the field to activate its effect.\n●If Inferno attacks a face-down Cyber Jar, Inferno is destroyed by the effect of Cyber Jar and Inferno's effect is not activated.",
     "Tengu": "\n●When Inferno battles with another monster with equal ATK, Inferno's effect is not activated because it must destroy the other monster and send it to the GY, and at that time, Inferno is no longer on the field to activate its effect.\n●If Inferno attacks a face-down Cyber Jar, Inferno is destroyed by the effect of Cyber Jar and Inferno's effect is not activated.",
     "Goat": "●When Inferno battles with another monster with equal ATK, Inferno's effect is not activated because it must destroy the other monster and send it to the GY, and at that time, Inferno is no longer on the field to activate its effect.\n●If Inferno attacks a face-down Cyber Jar, Inferno is destroyed by the effect of Cyber Jar and Inferno's effect is not activated.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. When \"Inferno\" battles with another monster with equal ATK, the effect of \"Inferno\" is not activated because it must destroy the other monster 'and send it to the GY', and at that time, \"Inferno\" is no longer on the field to activate its effect.\\n2. If \"Inferno\" attacks a face-down \"Cyber Jar\", \"Inferno\" is destroyed by the effect of \"Cyber Jar\" and the effect of \"Inferno\" is not activated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

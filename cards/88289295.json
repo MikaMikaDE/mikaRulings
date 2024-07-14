@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "●Paying 1000 Life Points is a cost.\n●This targets your opponent’s Synchro Monster.\n●If you take control of a Synchro Monster and then flip it face-down, you will keep it until your End Phase and then return control of it as normal.\n●If the monster targeted by “Synchro Control” is flipped face-down before the effect resolves you don't gain control of it.",
     "Tengu": "\n●Paying 1000 Life Points is a cost.\n●This targets your opponent’s Synchro Monster.\n●If you take control of a Synchro Monster and then flip it face-down, you will keep it until your End Phase and then return control of it as normal.\n●If the monster targeted by “Synchro Control” is flipped face-down before the effect resolves you do not gain control of it.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Paying 1000 Life Points is a cost.\\n2. This targets your opponent's Synchro Monster.\\n3. If you take control of a Synchro Monster and then flip it face-down, you will keep it until your End Phase and then return control of it as normal.\\n4. If the monster targeted by \"Synchro Control\" is flipped face-down before the effect resolves you do not gain control of it."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●Doubling the ATK and setting the condition to return the monster during the End Phase are both part of the resolution of “Supay’s” Trigger Effect. The effect of “Supay” activates even if destroyed during the Damage Step.",
     "Tengu": "\n●Doubling the ATK and setting the condition to return the monster during the End Phase are both part of the resolution of “Supay’s” Trigger Effect. The effect of “Supay” activates even if destroyed during the Damage Step.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Doubling the ATK and setting the condition to return the monster during the End Phase are both part of the resolution of the Trigger Effect of \"Supay\".\\n2. The effect of \"Supay\" activates even if destroyed during the Damage Step."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

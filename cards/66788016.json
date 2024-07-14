@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● The monster to destroy is chosen as this card resolves.",
     "Tengu": "● The monster to destroy is chosen as this card resolves.",
     "Goat": "●You can activate Fissure even if your opponent only has 1 monster on the field.\n●If there are two or more monsters with equal ATK on your opponent’s side of the field, you (the player who activated Fissure) select which monster will be destroyed.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can activate \"Fissure\" even if your opponent only has 1 monster on the field.\\n2. If there are two or more monsters with equal ATK on your opponent's side of the field, you (the player who activated \"Fissure\") select which monster will be destroyed."
   },
   "PSCT": {
+    "Edison": "① Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
     "Tengu": "① Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

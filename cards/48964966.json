@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●The Trigger Effect is mandatory, it activates & resolves on the field.\n●Athena's first effect does not inflict damage when it is Summoned.\n●If 2(+) Fairy-Type monsters are Special Summoned by the same effect, Athena inflicts 600 damage to the opponent's Life Points.\n●If 2(+) effects in the Chain Special Summon a Fairy-Type monster, Athena's effect will inflict 600 damage for each effect.\n●The Ignition Effect activates & resolves on the field.\n●Tributing 1 Fairy-Type monster, except Athena, is a cost.\n●This second effect targets 1 Fairy-Type monster in your GY, it is negated by Necrovalley.\n●This effect can't activate while Zombie World treats monsters in the GYs as Zombie-Type.",
     "Tengu": "(1) Each time a Fairy-Type monster is Summoned, inflict 600 damage to your opponent. (2) Once per turn, you can send 1 Fairy-Type monster you control, except Athena, to the GY and Special Summon 1 Fairy-Type monster from your GY, except Athena.\n●The (1) Trigger Effect is mandatory, it activates & resolves on the field.\n●Athena's first effect does not inflict damage when it is Summoned.\n●If 2(+) Fairy-Type monsters are Special Summoned by the same effect, Athena inflicts 600 damage to the opponent's Life Points.\n●If 2(+) effects in the Chain Special Summon a Fairy-Type monster, Athena's effect will inflict 600 damage for each effect.\n●The (2) Ignition Effect activates & resolves on the field.\n●Tributing 1 Fairy-Type monster, except Athena, is a cost.\n●This second effect targets 1 Fairy-Type monster in your GY, it is negated by Necrovalley.\n●This effect can't activate while Zombie World treats monsters in the GYs as Zombie-Type.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

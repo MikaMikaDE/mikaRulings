@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "The ② effect:\n● This effect doesn't activate in any zone. It can activate regardless of where this card physically is.\n● It can't be negated by \"Light Imprisoning Mirror\".\n● It can be negated by \"Divine Wrath\", but if it is, this card is not destroyed.",
     "Tengu": "The ② effect:\n● This effect doesn't activate in any zone. It can activate regardless of where this card physically is.\n● It can't be negated by \"Light Imprisoning Mirror\".\n● It can be negated by \"Divine Wrath\", but if it is, this card is not destroyed.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Destroying the monster that destroyed this card does not target.\\n2. Special Summoning \"Moon Dragon Quilla\" does target.\\n3. The effect to Special Summon \"Moon Dragon Quilla\" activates even if \"Sun Dragon Inti\" is not in the GY during the Standby Phase as long as there is a \"Moon Dragon Quilla\" in the GY.\\n4. If \"Sun Dragon Inti\" is on the field or in the Extra Deck during the Standby Phase then its effect to Special Summon \"Moon Dragon Quilla\" activates and \"Divine Wrath\" is Chained, the effect is negated but \"Sun Dragon Inti\" is not destroyed.\\n5. Destroying your opponent's monster and dealing damage happen at the same time. The damage is half of the monster's ATK on the field.\\n6. The effect to Special Summon \"Moon Dragon Quilla\" does not activate in any specific place, regardless of where \"Sun Dragon Inti\" is at the time. \"Light Imprisoning Mirror\" cannot negate it."
   },
   "PSCT": {
+    "Edison": "Fire Ant Ascator\" + 1 or more non-Tuners\n① If this card is destroyed by battle with a monster and sent to the GY: \nDestroy that monster, and if you do, your opponent takes damage equal to half its ATK the field. \n② If this card on the field is destroyed, during the next turn's Standby Phase, you can activate this effect (even if this card is no longer in the GY): Target 1 \"Moon Dragon Quilla\" in your GY; Special Summon that target.",
     "Tengu": "Fire Ant Ascator\" + 1 or more non-Tuners\n① If this card is destroyed by battle with a monster and sent to the GY: \nDestroy that monster, and if you do, your opponent takes damage equal to half its ATK the field. \n② If this card on the field is destroyed, during the next turn's Standby Phase, you can activate this effect (even if this card is no longer in the GY): Target 1 \"Moon Dragon Quilla\" in your GY; \nSpecial Summon that target.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

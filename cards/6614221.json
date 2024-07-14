@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "You can Normal Summon this card with 1 Tribute, or without a Tribute. ●The Continuous Effect applies while this card is face-up on the field.\n●A monster's original ATK is the  printed value on the card.\n●If this card is flipped face-down / leaves the field, or if this effect is negated, its ATK becomes 0.\n●If Beast King Barbaros (with 1900 ATK)  is Tributed, then ATK of Fog King is 3000.\n●If equipped with Megamorph, Fog King will have 0 ATK.\n●If Shrink targets Fog King, it will have 0 ATK, and won't change during the End Phase.\n●Tributed Monsters whose Original ATK is ? are treated as having 0 ATK.\n●The Continuous Effect affects both players.\n●Cards / effects can't be activate if a Tribute is required as cost, or part of the effect is a Tribute (ex: Share the Pain or Ritual Spell Cards).",
     "Tengu": "You can Normal Summon this card with 1 Tribute, or without a Tribute. (1) The ATK of this card is equal to the combined original ATK of the monsters Tributed to Summon it. (2) Neither player can Tribute monsters\n●The (1) Continuous Effect applies while this card is face-up on the field.\n●A monster's original ATK is the  printed value on the card.\n●If this card is flipped face-down / leaves the field, or if this effect is negated, its ATK becomes 0.\n●If Beast King Barbaros (with 1900 ATK)  is Tributed, then ATK of Fog King is 3000.\n●If equipped with Megamorph, Fog King will have 0 ATK.\n●If Shrink targets Fog King, it will have 0 ATK, and will not change during the End Phase.\n●Tributed Monsters whose Original ATK is ? are treated as having 0 ATK.\n●The (2) Continuous Effect affects both players.\n●Cards / effects CANNOT be activate if a Tribute is required as cost, or part of the effect is a Tribute (ex: Share the Pain or Ritual Spell Cards).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

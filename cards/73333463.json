@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●The Trigger Effect is mandatory, it activates & resolves on the field.\n●This effect activates in the Summon response timing (like Trap Hole).\n●Tributing a face-down “roid” monster will count toward activating the effect of “Armoroid”.\n●This effect banishes ALL Spell / Trap Cards on the field. They are banished face-up.",
     "Tengu": "(1) When you Tribute Summon this card by Tributing at least 1 roid monster, remove from play all Spell and Trap Cards on the field.\n●The (1) Trigger Effect is mandatory, it activates & resolves on the field.\n●This effect activates in the Summon response timing (like Trap Hole).\n●Tributing a face-down “roid” monster will count toward activating the effect of “Armoroid”.\n●This effect banishes ALL Spell / Trap Cards on the field. They are banished face-up.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The Spell and Trap Cards are removed face-up.\\n2. Tributing a face-down \"roid\" monster will count toward activating the effect of \"Armoroid\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

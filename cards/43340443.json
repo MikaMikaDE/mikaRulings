@@ -7,6 +7,7 @@
     "race": "Counter"
   },
   "Rulings": {
+    "Edison": "●You can't activate this card when a monster is Set.\n●If a monster with a Flip Effect is Flip Summoned and you activate “Forced Back”, then the Flip Effect never activates.\n●If you negate the Normal or Flip Summon of “Dark Magician of Chaos” with “Forced Back”, it is returned to the hand and is not removed from play.\n●You can activate “Forced Back” when you Normal or Flip Summon your own monster. You should announce this immediately after your Summon. Once you allow your opponent to activate “Torrential Tribute” you are acknowledging that the Summon was successful and you can't activate “Forced Back”.",
     "Tengu": "\n●You cannot activate this card when a monster is Set.\n●If a monster with a Flip Effect is Flip Summoned and you activate “Forced Back”, then the Flip Effect never activates.\n●If you negate the Normal or Flip Summon of “Dark Magician of Chaos” with “Forced Back”, it is returned to the hand and is not removed from play.\n●You can activate “Forced Back” when you Normal or Flip Summon your own monster. You should announce this immediately after your Summon. Once you allow your opponent to activate “Torrential Tribute” you are acknowledging that the Summon was successful and you cannot activate “Forced Back”.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate this card when a monster is Set.\\n2. If a monster with a Flip Effect is Flip Summoned and you activate \"Forced Back\", then the Flip Effect never activates.\\n3. If you negate the Normal or Flip Summon of \"Dark Magician of Chaos\" with \"Forced Back\", it is returned to the hand and is not removed from play.\\n4. You can activate \"Forced Back\" when you Normal or Flip Summon your own monster. You should announce this immediately after your Summon. Once you allow your opponent to activate \"Torrential Tribute\" you are acknowledging that the Summon was successful and you cannot activate \"Forced Back\".\\n5. [FORUM] If your opponent has activated \"Solemn Warning\", you will not be able to activate \"Forced Back\" as it has to be chained to the thing it is trying to counter."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

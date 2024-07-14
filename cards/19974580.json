@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● Banishing monsters is part of the effect, not a cost. It happens when the ① resolves.\n● If there are no \"Iron Chain\" monsters in your GY, you cannot activate the ①.\n●The ② is mandatory.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Removing from play all \"Iron Chain\" monsters in your GY is not a cost."
   },
   "PSCT": {
+    "Edison": "① You can banish all \"Iron Chain\" monster from your GY, aind if you do, this card gains 200 ATK for each card banished this way, until the End Phase.\n② If this card inflicts Battle Damage to your opponent: Send the top 3 cards of their Deck to the GY.",
     "Tengu": "① You can banish all \"Iron Chain\" monster from your GY; \nthis turn, this card gains 200 ATK for each.\n② If this card inflicts Battle Damage to your opponent: Send the top 3 cards of their Deck to the GY.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

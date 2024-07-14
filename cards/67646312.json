@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●If “Searchlightman’s” Flip Effect is activated, and then later “Cyber Jar’s” Flip Effect is activated, all appropriate monsters picked-up by your opponent will have to be Special Summoned in Attack Position.\n●After “Searchlightman’s” effect has resolved, your opponent could not Normal Summon “Mystic Swordsman LV4” or LV6 because they have to be Normal Summoned in face-down Defense Position, which is considered a Set.\n●If your opponent attacks your face-down Defense Position “Searchlightman” with “Inferno Hammer”, the Flip Effect will resolve before it is sent to the GY, so the effect of “Inferno Hammer” can't activate.",
     "Tengu": "\n●If “Searchlightman’s” Flip Effect is activated, and then later “Cyber Jar’s” Flip Effect is activated, all appropriate monsters picked-up by your opponent will have to be Special Summoned in face-up Attack Position.\n●After “Searchlightman’s” effect has resolved, your opponent could not Normal Summon “Mystic Swordsman LV4” or LV6 because they have to be Normal Summoned in face-down Defense Position, which is considered a Set.\n●If your opponent attacks your face-down Defense Position “Searchlightman” with “Inferno Hammer”, the Flip Effect will resolve before it is sent to the GY, so the effect of “Inferno Hammer” cannot activate.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If the Flip Effect of \"Searchlightman\" is activated, and then later the Flip Effect of \"Cyber Jar\" is activated, all appropriate monsters picked-up by your opponent will have to be Special Summoned in face-up Attack Position.\\n2. After the effect of \"Searchlightman\" has resolved, your opponent could not Normal Summon \"Mystic Swordsman LV4\" or \"Mystic Swordsman LV6\" because they have to be Normal Summoned in face-down Defense Position, which is considered a Set.\\n3. If your opponent attacks your face-down Defense Position \"Searchlightman\" with \"Inferno Hammer\", the Flip Effect will resolve before it is sent to the GY, so the effect of \"Inferno Hammer\" cannot activate."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

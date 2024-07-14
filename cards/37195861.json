@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① Once per turn, during your Standby Phase: You can target 1 \"HERO\" monster you control or in your GY; return that target to the hand.",
     "Tengu": "① Once per turn, during your Standby Phase: You can target 1 \"HERO\" monster you control or in your GY; \nreturn that target to the hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

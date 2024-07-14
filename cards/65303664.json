@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● You can only activate 1 Trigger Effect in your hand per chain.\n(You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand).\n● If the destroyed monster was not sent to the GY, this effect can't be activated.",
     "Tengu": "● You can only activate 1 Trigger Effect in your hand per chain.\n(You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand).\n● If the destroyed monster was not sent to the GY, this effect cannot be activated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① If this card is in your hand, If a Beast you control is destroyed by battle and sent to the GY:\nYou can banish 2 Beasts from your GY; Special Summon this card.",
     "Tengu": "① If this card is in your hand, If a Beast you control is destroyed by battle and sent to the GY:\nYou can banish 2 Beasts from your GY;\nSpecial Summon this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

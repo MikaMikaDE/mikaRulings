@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Gryphon's Feather Duster does not destroy itself.\n●When you destroy multiple cards at the same time with Gryphon's Feather Duster, you gain the Life Points as 1 lump sum, so your Fire Princess will only do 500 damage.",
     "Tengu": "\n●Gryphon's Feather Duster does not destroy itself.\n●When you destroy multiple cards at the same time with Gryphon's Feather Duster, you gain the Life Points as 1 lump sum, so your Fire Princess will only do 500 damage.",
     "Goat": "●Gryphon's Feather Duster does not destroy itself.\n●When you destroy multiple cards at the same time with Gryphon's Feather Duster, you gain the LP as 1 lump sum, so your Fire Princess will only do 500 damage.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Gryphon's Feather Duster\" does not destroy itself.\\n2. When you destroy multiple cards at the same time with \"Gryphon's Feather Duster\", you gain the Life Points as 1 \"lump sum\", so your \"Fire Princess\" will only do 500 damage."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●Morphtronic Clocken's Defense Position effect to inflict damage can't be activated if it does not have any Morph Counters.\n●While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Radion can't be activated, because the While in Attack Position and While in Defense Position effects are negated.\n●If you activate Morphtronic Clocken's effect to gain a Morph Counter and an effect is chained that changes it to Attack Position, it still gains a Morph Counter.",
     "Tengu": "\n●Morphtronic Clocken's Defense Position effect to inflict damage cannot be activated if it does not have any Morph Counters.\n●While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Radion cannot be activated, because the While in Attack Position and While in Defense Position effects are negated.\n●If you activate Morphtronic Clocken's effect to gain a Morph Counter and an effect is chained that changes it to Attack Position, it still gains a Morph Counter.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The Defense Position effect of \"Morphtronic Clocken\" to inflict damage cannot be activated if it does not have any Morph Counters.\\n2. While \"Skill Drain\" is active, the Attack Position and Defense Position effects of \"Morphtronic Radion\" cannot be activated, because the 'While in Attack Position' and 'While in Defense Position' effects are negated.\\n3. If you activate the effect of \"Morphtronic Clocken\" to gain a Morph Counter and an effect is chained that changes it to Attack Position, it still gains a Morph Counter."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

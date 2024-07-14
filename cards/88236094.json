@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The Trigger Effect is optional, it activates & resolves on the field.\n●This effect activates in Substep 5 - After Damage Calculation.\n●This effect targets a card in the GY, it will be negated by Necrovalley.",
     "Tengu": "(1) If this card inflicts Battle Damage to your opponent's Life Points, you can return 1 Trap Card from your GY to the top of your Deck.\n●The (1) Trigger Effect is optional, it activates & resolves on the field.\n●This effect activates in Substep 5 - After Damage Calculation.\n●This effect targets a card in the GY, it will be negated by Necrovalley.",
     "Goat": "●Aswan Apparition's effect is resolved after damage calculation.\n●Aswan Apparition's effect does target a card in the GY, so the effect will be negated if The End of Anubis is face-up on the field.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Aswan Apparition\" is resolved after damage calculation.\\n2. The effect of \"Aswan Apparition\" does target a card in the GY, so the effect will be negated if \"The End of Anubis\" is face-up on the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

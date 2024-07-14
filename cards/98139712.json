@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Cards that are Tributed or Discarded are included, because they are also sent to the GY.\n●The effects of multiple Skull Invitation are cumulative.\n●If Dark Hole destroys monsters controlled by both players, the damage from Skull Invitation is applied to both players simultaneously.\n●If you draw the final piece of Exodia with Graceful Charity and have all 5 pieces of Exodia in your hand after discarding, you win the Duel even if the damage resulting from Skull Invitation would reduce your Life Points to 0.",
     "Tengu": "\n●Cards that are Tributed or Discarded are included, because they are also sent to the GY.\n●The effects of multiple Skull Invitation are cumulative.\n●If Dark Hole destroys monsters controlled by both players, the damage from Skull Invitation is applied to both players simultaneously.\n●If you draw the final piece of Exodia with Graceful Charity and have all 5 pieces of Exodia in your hand after discarding, you win the Duel even if the damage resulting from Skull Invitation would reduce your Life Points to 0.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Cards that are Tributed or Discarded are included, because they are also 'sent to the GY'.\\n2. The effects of multiple \"Skull Invitation\" are cumulative.\\n3. If \"Dark Hole\" destroys monsters controlled by both players, the damage from \"Skull Invitation\" is applied to both players simultaneously.\\n4. If you draw the final piece of \"Exodia the Forbidden One\" with \"Graceful Charity\" and have all 5 pieces of \"Exodia the Forbidden One\" in your hand after discarding, you win the Duel even if the damage resulting from \"Skull Invitation\" would reduce your Life Points to 0."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If the monster targeted by Over Destiny is removed from your GY by an effect on the chain, you can't Special Summon a monster.\n●If the Level of the monster targeted by Over Destiny is odd, round down.",
     "Tengu": "\n●If the monster targeted by Over Destiny is removed from your GY by an effect on the chain, you cannot Special Summon a monster.\n●If the Level of the monster targeted by Over Destiny is odd, round down.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If the monster targeted by \"Over Destiny\" is removed from your GY by an effect on the chain, you cannot Special Summon a monster.\\n2. If the Level of the monster targeted by \"Over Destiny\" is odd, round down."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

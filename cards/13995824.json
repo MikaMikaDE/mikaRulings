@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If this card is destroyed during battle, its effect activates at the end of the Damage Step. If destroyed by a card effect, it will be after the Chain resolves.\\n2. If \"Voltic Bicorn\" is destroyed while face-down, such as with \"Nobleman of Crossout\", its effect will activate.\\n3. If you destroy your \"Voltic Bicorn\" that your opponent controls, its effect will not activate.\\n4. If either Deck has less than 7 cards, this effect will still resolve and will send all remaining cards to the GY.\\n5. If the Synchro Summon of \"Voltic Bicorn\" is negated by \"Royal Oppression\", its effect will be activated."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

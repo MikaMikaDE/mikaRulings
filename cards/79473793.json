@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "● The ① effect is mandatory.",
     "Tengu": "● The ① effect is mandatory.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can activate the effect to negate Spell and Trap Cards more than once in a Chain.\\n2. The effect to negate the activation of Spell and Trap Cards is a Quick Effect.\\n3. The effect to change attack targets is a Trigger Effect.\\n4. Sending a Spell or Trap Card to the GY is a cost.\\n5. The effect to change the attack target does not target.\\n6. If you control your opponent's monster with \"Snatch Steal\" while you have \"White Night Dragon\" in play and your opponent attacks the equipped monster, if you send \"Snatch Steal\" to the GY to change the attack target no replay occurs. If the effect of \"White Night Dragon\" is negated by \"Skill Drain\" a replay does occur."
   },
   "PSCT": {
+    "Edison": "① If a Spell/Trap Card that targets this card is activated (Quick): \nNegate the activation, and if you do, destroy it.\n② If another face-up monster you control is targeted for an attack: \nYou can send 1 Spell/Trap you control to the GY; change the attack target to this card.",
     "Tengu": "① If a Spell/Trap Card that targets this card is activated (Quick): \nNegate the activation, and if you do, destroy it.\n② If another face-up monster you control is targeted for an attack: \nYou can send 1 Spell/Trap you control to the GY; \nchange the attack target to this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

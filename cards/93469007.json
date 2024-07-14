@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "Tribute 1 /Assault Mode monster. Inflict damage to both players equal to its Level x 200.\n●Tributing 1 /Assault Mode monster is a cost.\n●Compute damage based on the monster’s Level at the time it was used to pay the cost of this card.",
     "Tengu": "Tribute 1 /Assault Mode monster. Inflict damage to both players equal to its Level x 200.\n●Tributing 1 /Assault Mode monster is a cost.\n●Compute damage based on the monster’s Level at the time it was used to pay the cost of this card.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Compute damaged based on the monster's Level at the time it was used to pay the cost of this card."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "● Trap Effects don't leave the field even if the physical card leaves the field. For example:\nIf \"Jar of Greed\" is activated, and \"Mystical Space Typhoon\" is chained, targeting that Jar of Greed, \nwhile this card's effect is applying, \"Jar of Greed\" is still negated, even though the card is in the GY.",
     "Tengu": "● Trap Effects do not leave the field even if the physical card leaves the field. For example:\nIf \"Jar of Greed\" is activated, and \"Mystical Space Typhoon\" is chained, targeting that Jar of Greed, \nwhile this card's effect is applying, \"Jar of Greed\" is still negated, even though the card is in the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. [FORUM] \"Royal Decree\" must be face-up to negate Trap Card effects.  Example: \"Royal Decree\" is face-up on the field and an attack is declared. \"Mirror Force\" is activated and \"Mystical Space Typhoon\" is chained, targeting \"Royal Decree\".  \"Mystical Space Typhoon\" destroys \"Royal Decree\". \"Mirror Force\" than resolves and destroys all Attack Position monsters your opponent controls. Since \"Royal Decree\" is no longer face-up when \"Mirror Force\" resolves, it will not negate the effect of \"Mirror Force\"."
   },
   "PSCT": {
+    "Edison": "① Negate all other Trap Effects on the field.",
     "Tengu": "① Negate all other Trap Effects on the field.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

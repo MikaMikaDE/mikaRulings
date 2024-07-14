@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If you declare an attack with this card while you have no cards in your hand but an effect causes you to have at least 1 card in your hand before the attack is complete, your opponent can activate Spell or Trap Cards.",
     "Tengu": "\n●If you declare an attack with this card while you have no cards in your hand but an effect causes you to have at least 1 card in your hand before the attack is complete, your opponent can activate Spell or Trap Cards.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you declare an attack with this card while you have no cards in your hand but an effect causes you to have at least 1 card in your hand before the attack is complete, your opponent can activate Spell or Trap Cards."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●“Psi-Curse” targets your opponent’s attacking monster. Destroying the monster and inflicting damage occur at the same time.",
     "Tengu": "\n●“Psi-Curse” targets your opponent’s attacking monster. Destroying the monster and inflicting damage occur at the same time.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Psi-Curse\" targets your opponent's attacking monster.\\n2. Destroying the monster and inflicting damage occur at the same time."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

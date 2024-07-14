@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "Send 2 random Fusion Monsters from your opponent's Fusion Deck to the GY.\n●If your opponent has no Extra Deck, you can't activate “Success Probability 0%”.\n●“Success Probability 0%” does not target, because the cards are chosen randomly.\n●When this effect resolves, your opponent seperates their Extra Deck into the Synchro Deck and the Fusion Deck. You then send 2 random cards from the Fusion Deck to the GY.",
     "Tengu": "Send 2 random Fusion Monsters from your opponent's Fusion Deck to the GY.\n●If your opponent has no Extra Deck, you cannot activate “Success Probability 0%”.\n●“Success Probability 0%” does not target, because the cards are chosen randomly.\n●When this effect resolves, your opponent seperates their Extra Deck into the Synchro Deck and the Fusion Deck. You then send 2 random cards from the Fusion Deck to the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If your opponent has no Extra Deck, you cannot activate \"Success Probability 0%\".\\n2. \"Success Probability 0%\" does not target, because the cards are chosen randomly."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

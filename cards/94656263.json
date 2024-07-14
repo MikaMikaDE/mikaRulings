@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● This card can always be Summoned by card effects, even if it wasn't summoned properly (this is an erratum).\n● When you Normal Summon a Level 4, you must declare all your triggers at once.\nEG: You Normal Summon \"Tin Goldfish\". You must declare whether you want to use both effects (Kagetokage and Goldfish in either order), one of those effects, or neither effect. \nAfterwards, your opponent can activate a Fast Effect, like a Trap Card.\nAfterwards (even if they don't use anything) you can no longer activate kage's effect.\n● You can read about this card's summoning procedure here: [link being updated]post/kagetokage",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "Return 1 Spell or Trap Card on your opponent's side of the field to the owner's hand. This card's activation and effect can't be negated by any other card.\n●The Spell / Trap Card goes to its owner’s hand.\n●This targets 1 Spell / Trap Card your opponent controls, even monsters treated as Equip Spell Cards.\n●If you can't activate (play face-up) Spell Cards, you can't activate this card.\n●This may be due to an effect like Spell Canceller, Sonic Jammer, or Cold Wave.",
     "Tengu": "Return 1 Spell or Trap Card on your opponent's side of the field to the owner's hand. This card's activation and effect cannot be negated by any other card.\n●The Spell / Trap Card goes to its owner’s hand.\n●This targets 1 Spell / Trap Card your opponent controls, even monsters treated as Equip Spell Cards.\n●If you cannot activate (play face-up) Spell Cards, you cannot activate this card.\n●This may be due to an effect like Spell Canceller, Sonic Jammer, or Cold Wave.",
     "Goat": "●The Spell/Trap Card goes to its owner’s hand (in case your Spell/Trap Card was on your opponent’s side of the field).",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The Spell or Trap Card goes to its owner's hand (in case your Spell or Trap Card was on your opponent's side of the field).\\n2. \"Spiritualism\" cannot be activated if it is declared with \"Prohibition\" or while the effect of \"Cold Wave\" is being applied."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

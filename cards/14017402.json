@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you properly Summoned this card, you can Special Summon it from the GY later with \"Call of the Haunted\", etc.\\n2. The effect to copy a Dragon-Type Synchro Monster's effect targets that monster. Removing the monster from play happens at resolution, it is not a cost.\\n3. You can target a Dragon-Type Synchro Monster in your opponent's GY.\\n4. If you copy the effect of \"Stardust Dragon\" and then Tribute this card to activate that effect, you cannot Special Summon this card back from the GY during the End Phase.\\n5. If you copy the effect of \"Majestic Star Dragon\", then when you return \"Dragon Knight Draco-Equiste\" to the Extra Deck during your End Phase, you will also Special Summon \"Stardust Dragon\" from the GY.\\n6. If both players control \"Dragon Knight Draco-Equiste\" and you activate \"Ceasefire\", you will take the damage from your \"Ceasefire\"."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

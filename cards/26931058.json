@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●The monster you equip the Union Monster to must be appropriate, meaning the monster name written in the text of the Union Monster.\n●The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with Formation Union.\n●A Union Monster that is detached during the Battle Phase using Formation Union can attack during that Battle Phase.\n●If the player who would control the Union Monster already has 5 monsters on the field, you can't activate Formation Union and choose the second effect.",
     "Tengu": "\n●The monster you equip the Union Monster to must be appropriate, meaning the monster name written in the text of the Union Monster.\n●The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with Formation Union.\n●A Union Monster that is detached during the Battle Phase using Formation Union can attack during that Battle Phase.\n●If the player who would control the Union Monster already has 5 monsters on the field, you cannot activate Formation Union and choose the second effect.",
     "Goat": "●The monster you equip the Union Monster to must be appropriate, meaning the monster name written in the text of the Union Monster.\n●The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with Formation Union.\nA Union Monster that is detached during the Battle Phase using Formation Union can attack during that Battle Phase.\n●If the player who would control the Union Monster already has 5 monsters on the field, you cannot activate Formation Union and choose the second effect.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The monster you equip the Union Monster to must be 'appropriate', meaning the monster name written in the text of the Union Monster.\\n2. The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with \"Formation Union\".\\n3. A Union Monster that is \"detached\" during the Battle Phase using \"Formation Union\" can attack during that Battle Phase.\\n4. If the player who would control the Union Monster already has 5 monsters on the field, you cannot activate \"Formation Union\" and choose the second effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

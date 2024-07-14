@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "● While the ① is applying, \"Future Fusion\" can't be activated unless a non-LIGHT/DARK is revealed from the Extra Deck. \n● While the ① is applying, \"Future Fusion\" can't Special Summon a LIGHT-DARK monster during the second Standby Phase. In this case, the Fusion Monster will never be Special Summoned (it won't \"try again\" the next Standby Phase). \n● The Ⓜ is a Maintenance Cost. It does not activate, and can't be negated. \n● If Iron Core can't be sent to the GY (EG if \"Macro Cosmos\" is applying), and no Dragon can be revealed, this card is destroyed. \n● If \"Mind on Air\" is applying, you can't reveal a Dragon, so you must send an Iron Core to the GY or else destroy this card.\n● If this card is destroyed by battle, its effect stops applying in Substep 6 (“Tragoedia” can't be activated)",
     "Tengu": "● While the ① is applying, \"Future Fusion\" cannot be activated unless a non-LIGHT/DARK is revealed from the Extra Deck.\n● While the ① is applying, \"Future Fusion\" cannot Special Summon a LIGHT-DARK monster during the second Standby Phase. In this case, the Fusion Monster will never be Special Summoned (it will not \"try again\" the next Standby Phase).\n● The Ⓜ is a Maintenance Cost. It does not activate, and cannot be negated. \n● If Iron Core cannot be sent to the GY (EG if \"Macro Cosmos\" is applying), and no Dragon can be revealed, this card is destroyed.\n● If \"Mind on Air\" is applying, you can't reveal a Dragon, so you must send an Iron Core to the GY or else destroy this card.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The first sentence of this card is a maintenance cost, not an effect. It does not start a Chain.\\n2. LIGHT and DARK monsters cannot be Special Summoned, face-up or face-down, while \"Koa'ki Meiru Drago\" is on the field."
   },
   "PSCT": {
+    "Edison": "① Neither player can attempt to Special Summon LIGHTs and DARKs.\nⓂ During your End Phase, destroy this card, \nunless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the GY, or reveal 1 Dragon in your hand.",
     "Tengu": "① Neither player can attempt to Special Summon LIGHTs and DARKs.\nⓂ During your End Phase, destroy this card, \nunless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the GY, or reveal 1 Dragon in your hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

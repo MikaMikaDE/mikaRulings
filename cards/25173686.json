@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If your opponent controls an Embodiment of Apophis as a Monster Card, it is not counted as a card in the Spell & Trap Card Zone (even though 1 of those Zones can't be used). So you could not activate Straight Flush.",
     "Tengu": "\n●If your opponent controls an Embodiment of Apophis as a Monster Card, it is not counted as a card in the Spell & Trap Card Zone (even though 1 of those Zones cannot be used). So you could not activate Straight Flush.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If your opponent controls an \"Embodiment of Apophis\" as a Monster Card, it is not counted as a card in the Spell & Trap Card Zone (even though 1 of those Zones cannot be used). So you could not activate \"Straight Flush\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

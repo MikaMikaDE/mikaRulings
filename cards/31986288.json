@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● This effect can't be activated if you have 1 or fewer empty Monster Zones.",
     "Tengu": "\n●Regenerating Rose's effect cannot be activated when you have 1 or fewer open Monster Card Zones.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Regenerating Rose\" cannot be activated when you have 1 or fewer open Monster Card Zones."
   },
   "PSCT": {
+    "Edison": "① If this card is destroyed by battle and sent to the GY: You can Special Summon 2 \"Regenerating Rose Tokens\" (Plant/DARK/Level 3/ATK 1200/DEF 1200).",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

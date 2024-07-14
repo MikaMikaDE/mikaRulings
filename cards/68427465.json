@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●Sending 1 card to the GY is a cost. This is not discarding so it doesn't trigger Forced Requisition, and you can pay the cost even if Goblin of Greed is in play.\n●If a monster equipped with Wicked-Breaking Flamberge - Baou attacks and destroys Amazoness Fighter or Amazoness Swordswoman, their effects are not negated because they happen during damage calculation, before they are determined to have been destroyed.",
     "Tengu": "\n●Sending 1 card to the GY is a cost. This is not discarding so it doesn't trigger Forced Requisition, and you can pay the cost even if Goblin of Greed is in play.\n●If a monster equipped with Wicked-Breaking Flamberge - Baou attacks and destroys Amazoness Fighter or Amazoness Swordswoman, their effects are not negated because they happen during damage calculation, before they are determined to have been destroyed.",
     "Goat": "●Sending 1 card to the GY is a cost. This is not discarding so it doesn't trigger Forced Requisition, and you can pay the cost even if Goblin of Greed is in play.\n●If a monster equipped with Wicked-Breaking Flamberge - Baou attacks and destroys Amazoness Fighter or Amazoness Swordswoman, their effects are not negated because they happen during damage calculation, before they are determined to have been destroyed.bishop \n●Q: Does “Wicked-Breaking Flamberge – Baou” permanently disable monster effects such as “Sinister Serpent?” Or are there some kind of limits as to how long its effect lasts on the monster? \nA: It would work just like the effect of Dark Ruler Ha Des.\n●   \n●Q: Does Wicked-Breaking Flamberge - Baou negate Flip Effects of destroyed monsters, or just “Sangan”, “Mystic Tomato”, and “Dark Necrofear” type cards? \nA: A monster equipped with Wicked-Breaking Flamberge - Baou will negate the effect of any monster it destroys. This includes Flip Effect monsters, because Flip Effects are not applied until AFTER damage calculation (at which point a monster has already been determined to either remain on the field or be destroyed from battle). Steve Okegawa, 02/22/04",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Sending 1 card to the GY is a cost. This is not 'discarding' so it doesn't trigger \"Forced Requisition\", and you can pay the cost even if \"Goblin of Greed\" is in play.\\n2. If a monster equipped with \"Wicked-Breaking Flamberge - Baou\" attacks and destroys \"Amazoness Fighter\" or \"Amazoness Swordswoman\", their effects are not negated because they happen during damage calculation, before they are determined to have been destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "● The ① effect doesn't apply while in the Deck. \nYou can use this card in the Deck as Fusion Material as the WATER for \"Elemental HERO Absolute Zero\",\nbut you can't use this card in the Deck as Fusion Material as the \"Cyber Dragon\" for \"Chimeratech Overdragon\".\n● You can't use the ① effect as a Specific Material for \"Contact Fusion\" like \"Gladiator Beast Gyzarus\".\n● You can onlt use the ① effect for a listed card name, like \"Cyber Dragon\". \nYou can't use it for a generic name, like \"1 \"HERO\" Monster\".",
     "Tengu": "● The ① effect doesn't apply while in the Deck. \nYou can use this card in the Deck as Fusion Material as the WATER for \"Elemental HERO Absolute Zero\",\nbut you can't use this card in the Deck as Fusion Material as the \"Cyber Dragon\" for \"Chimeratech Overdragon\".\n● You can't use the ① effect as a Specific Material for \"Contact Fusion\" like \"Gladiator Beast Gyzarus\".\n● You can onlt use the ① effect for a listed card name, like \"Cyber Dragon\". \nYou can't use it for a generic name, like \"1 \"HERO\" Monster\".",
     "Goat": "●You can only get 1 copy of Polymerization when you discard King of the Swamp from your hand.\n●You can activate the effect of King of the Swamp even if all 3 of your Polymerization cards are in your GY.\n●If King of the Swamp is selected for the effect of Prohibition, you cannot use either of its effects.\n●Discarding this card is a cost.\n●If you use King of the Swamp as Fusion Material from your hand, you do not get to activate its effect to search your Deck for Polymerization.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can only get 1 copy of \"Polymerization\" when you discard \"King of the Swamp\" from your hand.\\n2. You can activate the effect of \"King of the Swamp\" even if all 3 of your \"Polymerization\" cards are in your GY.\\n3. If \"King of the Swamp\" is selected for the effect of \"Prohibition\", you cannot use either of its effects.\\n4. Discarding this card is a cost.\\n5. If you use \"King of the Swamp\" as Fusion Material from your hand, you do not get to activate its effect to search your Deck for \"Polymerization\"."
   },
   "PSCT": {
+    "Edison": "① This card can be used as a substitute for any 1 Specifically Listed Fusion Material Monster, \nbut the other Fusion Material(s) must be correct. \n② You can discard this card to the GY; add 1 \"Polymerization\" from your Deck to your hand.",
     "Tengu": "① This card can be used as a substitute for any 1 Specifically Listed Fusion Material Monster, \nbut the other Fusion Material(s) must be correct. \n② You can discard this card to the GY; add 1 \"Polymerization\" from your Deck to your hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If Reckless Greed is activated, causing you to skip your next 2 Draw phases, and you also must skip your Draw Phase due to another effect such as Offerings to the Doomed, the skipped Phases don't accumulate. So if you activate Reckless Greed and Offerings to the Doomed, you only skip 2 Draw Phases.\n●Skipping a Draw Phase is an effect, not a cost, so if Reckless Greed is negated you don't skip your Draw Phases.",
     "Tengu": "\n●If Reckless Greed is activated, causing you to skip your next 2 Draw phases, and you also must skip your Draw Phase due to another effect such as Offerings to the Doomed, the skipped Phases do not accumulate. So if you activate Reckless Greed and Offerings to the Doomed, you only skip 2 Draw Phases.\n●Skipping a Draw Phase is an effect, not a cost, so if Reckless Greed is negated you do not skip your Draw Phases.",
     "Goat": "●If Reckless Greed is activated, causing you to skip your next 2 Draw phases, and you also must skip your DP due to another effect such as Offerings to the Doomed, the skipped Phases do not accumulate. So if you activate Reckless Greed and Offerings to the Doomed, you only skip 2 Draw Phases.\n●Skipping a DP is an effect, not a cost, so if Reckless Greed is negated you do not skip your Draw Phases. \n●Q: If “Offerings to the Doomed” and “Reckless Greed” are activated during the same turn, would the controller skip their next 2 or 3 Draw Phases? \nA: You would only skip 2. ",
     "HAT": "● If you activate 2 \"Reckless Greed\" in 1 turn, you only skip 2 Draw Phases, not 4.",
@@ -23,6 +24,7 @@
     "Base": "1. If \"Reckless Greed\" is activated, causing you to skip your next 2 Draw phases, and you also must skip your Draw Phase due to another effect such as \"Offerings to the Doomed\", the skipped Phases do not accumulate. So if you activate \"Reckless Greed\" and \"Offerings to the Doomed\", you only skip 2 Draw Phases.\\n2. Skipping a Draw Phase is an effect, not a cost, so if \"Reckless Greed\" is negated you do not skip your Draw Phases."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●The Trigger Effect is mandatory, it activates & resolves on the field.\n●If this card's effects are negated, the counters placed by this effect are removed.\n●The Continuous Effect applies while this card is face-up on the field.\n●The Trigger Effect is mandatory, it activates & resolves on the field.\n●This effect activates in Substep 7 - End of the Damage Step.\n●The Trigger Effect is mandatory, it activates & resolves on the field.\n●This effect activates in Substep 7 - End of the Damage Step if this card had no counter on it at the start of the Damage Step.\n●If “B.E.S. Covered Core” battles a monster, and afterwards you lose the coin toss (for the effect), so that “B.E.S. Covered Core” now has no counters, it is not destroyed. Because it still had a counter during damage calculation.",
     "Tengu": "(1) When this card is Normal Summoned, put 2 counters on it. (2) This card cannot be destroyed by battle. (3) If this card attacks or is attacked, at the end of the Damage Step toss a coin and call it. If you call it wrong, remove 1 counter. (4) If this card battles without a counter, destroy it at the end of the Damage Step.\n●The (1) Trigger Effect is mandatory, it activates & resolves on the field.\n●If this card's effects are negated, the counters placed by this effect are removed.\n●The (2) Continuous Effect applies while this card is face-up on the field.\n●The (3) Trigger Effect is mandatory, it activates & resolves on the field.\n●This effect activates in Substep 7 - End of the Damage Step.\n●The (4) Trigger Effect is mandatory, it activates & resolves on the field.\n●This effect activates in Substep 7 - End of the Damage Step if this card had no counter on it at the start of the Damage Step.\n●If “B.E.S. Covered Core” battles a monster, and afterwards you lose the coin toss (for the (3) effect), so that “B.E.S. Covered Core” now has no counters, it is not destroyed. Because it still had a counter during damage calculation.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Putting 2 counters on \"B.E.S. Covered Core\" is a Trigger Effect that activates when it is Normal Summoned.\\n2. If \"B.E.S. Covered Core\" battles a monster, and afterwards you lose the coin toss, so that \"B.E.S. Covered Core\" now has no counters, it is not destroyed. Because it still had a counter during damage calculation."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

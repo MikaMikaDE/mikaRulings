@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● You toss the coin when this card resolves.\n● If you call it wrong, cards are sent from the top of the deck to the GY. \n● You can't activate this card if you have fewer cards in your Deck than the number of cards in your opponent's GY. However, when resolving the effect which requires sending cards to the GY, if you have fewer cards in your Deck than your opponent has cards in their GY, your entire Deck is sent to the GY.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "Toss a coin and call it, also apply the appropriate effect.\n● Correct: Banish all cards from your opponent's GY.\n● Incorrect: Send a number of cards from the top of your Deck to the GY equal to the number of cards in your opponent's GY.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

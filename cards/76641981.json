@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate this card during the Damage Step.\\n2. This card targets your face-up \"T.G.\" monster and any monster your opponent controls.\\n3. If the target \"T.G.\" monster is face-down when this card resolves, you still switch control of it with the other target monster.\\n4. If you don't control the target \"T.G.\" monster when this card resolves, you do not take control of your opponent's monster.\\n5. If this card is activated targeting an attacking monster, the attack stops after control of the targets switches."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

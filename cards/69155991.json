@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to destroy this card does not start a Chain.\\n2. It is not applied when the effect of an already face-up Spell or Trap Card is activated or when the effect of a Spell or Trap Card in the GY is activated. (It applies if a Spell or Trap Card is activated.)\\n3. It is not applied unless \"Scrap Shark\" was face-up at the time the card or Effect Monster's effect was activated.\\n4. It is applied if a monster that is removed from play activates its effect.\\n5. If multiple copies of \"Scrap Shark\" are face-up when a Spell/Trap Card or Effect Monster's effect is activated, both copies of \"Scrap Shark\" are destroyed at the same time.\\n6. If you activate \"Creature Swap\", \"Scrap Shark\" is destroyed after \"Creature Swap\" resolves.\\n7. Even if a card or monster effect is activated during the Damage Step before damage calculation while \"Scrap Shark\" is battling, it is not destroyed until after damage calculation and is considered to be destroyed by its own effect even if it loses the battle.\\n8. The effect to send a 'Scrap' monster to your GY also activates during the Damage Step."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

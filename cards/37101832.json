@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① FLIP: Target 1 monster your opponent controls; return that target to the hand.",
     "Tengu": "① FLIP: Target 1 monster your opponent controls; \nreturn that target to the hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

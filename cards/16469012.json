@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
     "Tengu": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
     "Goat": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
     "HAT": "●This effect starts a chain. 'Pulling the Rug' can be chained to it.",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① If this card is Tribute Summoned: Your opponent can't declare an attack during their next turn.",
     "Tengu": "① If this card is Tribute Summoned: Your opponent cannot declare an attack during their next turn.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

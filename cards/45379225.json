@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Removing 1 Psychic-Type monster in your GY from play is a cost."
   },
   "PSCT": {
+    "Edison": "1 Tuner + 1 or more non-Tuners\n① Once per turn: You can banish 1 Psychic from your GY; gain 1200 LP.",
     "Tengu": "1 Tuner + 1 or more non-Tuners\n① Once per turn: You can banish 1 Psychic from your GY;\ngain 1200 LP.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

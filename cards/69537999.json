@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "● You can't activate this card's effect in the same chain in which the card itself is activated in.",
     "Tengu": "● You can't activate this card's effect in the same chain in which the card itself is activated in.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Sending 1 Pyro-Type monster with 500 or less ATK to the GY is part of this card's effect. It is not a cost.\\n2. You cannot activate the effect of this card in the same Chain as this card's activation. You can only activate the effect after this card's activation is resolved, and it is face-up on the field.\\n3. If you activate this card's effect then you, the player, cannot declare an attack so even a monster unaffected by the effects of Spell Cards like \"Horus the Black Flame Dragon LV6\" cannot attack.\\n4. The effect of \"Blaze Accelerator\" targets. If an effect is chained that removes the targeted monster from your opponent's side of the field, you must still send the Pyro-Type Monster to the GY.\\n5. Sending 1 Pyro-Type Monster from your hand to the GY is not a cost. The Pyro-Type Monster is sent to the GY when the effect of \"Blaze Accelerator\" resolves.\\n6. The effect of \"Blaze Accelerator\" can be activated while \"Dimensional Fissure\" is face-up on the field. The Pyro-Type Monster sent to the GY is removed from play instead.\\n7. If you activate the effect of \"Blaze Accelerator\" and an effect is chained that removes the selected target from the field, the effect of \"Blaze Accelerator\" disappears, but you still cannot declare an attack during the turn."
   },
   "PSCT": {
+    "Edison": "① You can target 1 monster your opponent controls; send 1 Pyro with 500 or less ATK from your hand to the GY, and if you do, destroy that target\n(You can't attack during the turn you activate this effect).",
     "Tengu": "① You can target 1 monster your opponent controls; \nsend 1 Pyro with 500 or less ATK from your hand to the GY, and if you do, destroy that target\n(You can't attack during the turn you activate this effect).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

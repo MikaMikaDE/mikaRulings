@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters",
     "Tengu": "(1) Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR unequip it to Special Summon this card in face-up Attack Position. (2) While equipped to a monster by this effect, if the equipped monster destroys an opponent's monster by battle, draw 1 card. (C) (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)\n●The effect to draw a card while “Oilman” is equipped starts a Chain.\n●Equipping “Oilman” is an Ignition Effect, and the effects while equipped are considered as effects of a Spell Card.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to draw a card while \"Oilman\" is equipped starts a Chain.\\n2. Equipping \"Oilman\" is an Ignition Effect, and the effects while equipped are considered as effects of a Spell Card."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● You can't activate this effect unless there is a level 4 or lower Zombie in either GY. \nWhen this effect resolves, you can target the discarded card if it is a level 4 or lower Zombie.\n● If that target isn't a Zombie when this effect resolves, it isn't summoned.",
     "Tengu": "● You can't activate this effect unless there is a level 4 or lower Zombie in either GY. \nWhen this effect resolves, you can target the discarded card if it is a level 4 or lower Zombie.\n● If that target isn't a Zombie when this effect resolves, it isn't summoned.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This card's effect targets 1 Level 4 or lower Zombie-Type Monster when activated.\\n2. If you activate the effect of \"Zombie Master\", and an effect is chained that removes \"Zombie Master\" from the field or flips it face-down, the effect disappears and you cannot Special Summon the targeted monster.\\n3. You can Special Summon the monster sent to the GY as a cost to activate this effect.\\n4. You cannot activate the effect of \"Zombie Master\" if there are no Level 4 or lower Zombie-Type monsters in the GY, even if you would discard one to activate the effect."
   },
   "PSCT": {
+    "Edison": "① Once per turn: You can send 1 monster from your hand to the GY, then target 1 Level 4 or lower Zombie in any GY; Special Summon that target. \n(activate and resolve only if this card is face-up on the field).",
     "Tengu": "① Once per turn: You can send 1 monster from your hand to the GY, then target 1 Level 4 or lower Zombie in any GY; \nSpecial Summon that target. \n(activate and resolve only if this card is face-up on the field).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●You can't activate Keldo's effect when there are not at least 2 cards in your opponent's GY.\n●The owner of the Deck shuffles it and the controller of Keldo cuts the Deck.",
     "Tengu": "\n●You cannot activate Keldo's effect when there are not at least 2 cards in your opponent's GY.\n●The owner of the Deck shuffles it and the controller of Keldo cuts the Deck.",
     "Goat": "●You cannot activate Keldo's effect when there are not at least 2 cards in your opponent's GY.\n●The owner of the Deck shuffles it and the controller of Keldo cuts the Deck.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You cannot activate the effect of \"Keldo\" when there are not at least 2 cards in your opponent's GY.\\n2. The owner of the Deck shuffles it and the controller of \"Keldo\" cuts the Deck."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

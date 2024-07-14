@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate this card during the Damage Step.\\n2. This card targets and continues to target after it resolves.\\n3. \"Your opponent\" is always the opponent of the player who controls \"Safe Zone\".\\n4. If you activate \"Safe Zone\" targeting a monster that is attacking directly, a replay occurs.\\n5. If you target \"Spirit Reaper\" with \"Safe Zone\", it is destroyed immediately after \"Safe Zone\" resolves.\\n6. Destroying \"Safe Zone\" when the targeted monster leaves the field and destroying the targeted monster when \"Safe Zone\" leaves the field do not start a Chain."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

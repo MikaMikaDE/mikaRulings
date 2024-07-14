@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●The selected Spell Card is added to your hand. If you don't activate the selected Spell Card, it is returned to its owner's GY during the End Phase.\n●If you select an Equip Spell Card, Field Spell Card, or Continuous Spell Card and you activate it, it is not sent to the GY during the End Phase.\n●If you Set the selected Spell Card and don't activate it, you don't receive damage and it is returned to its owner's GY during the End Phase.",
     "Tengu": "\n●The selected Spell Card is added to your hand. If you do not activate the selected Spell Card, it is returned to its owner's GY during the End Phase.\n●If you select an Equip Spell Card, Field Spell Card, or Continuous Spell Card and you activate it, it is not sent to the GY during the End Phase.\n●If you Set the selected Spell Card and do not activate it, you do not receive damage and it is returned to its owner's GY during the End Phase.",
     "Goat": "●If you have your opponent's Pot of Greed in your hand because of Exchange or Graverobber, you CAN send your opponent's Pot of Greed to the GY to activate your Avatar of the Pot's effect. But if you did this with Graverobber, you take 2000 points of damage to do so\n●Barrel Behind the Door cannot be activated against cards that do not inflict damage when the card resolves, such as Graverobber, which inflicts damage later.\n●“Des Wombat” will protect you against the effect damage of “Graverobber”.\n●If “Graverobber” is chained to the effect of a card that would remove a Spell Card from the game by any means than as a cost, “Graverobber” may target that Spell Card to remove it from the GY before that effect resolves.\nA continuous Spell card retrieved by the effect of “Graverobber” and then played remains on the controlling player’s field as normal until that Spell Card is removed from the field.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The selected Spell Card is added to your hand. If you do not activate the selected Spell Card, it is returned to its owner's GY during the End Phase.\\n2. If you select an Equip Spell Card, Field Spell Card, or Continuous Spell Card and you activate it, it is not sent to the GY during the End Phase.\\n3. If you Set the selected Spell Card and do not activate it, you do not receive damage and it is returned to its owner's GY during the End Phase."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

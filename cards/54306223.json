@@ -7,6 +7,7 @@
     "race": "Field"
   },
   "Rulings": {
+    "Edison": "●This card’s effect to place a Venom Counter on each face-up monster starts a Chain.\n●This card’s effect to destroy a monster whose ATK is reduced to 0 does not start a Chain.\n●If a monster’s original ATK is 0, or its ATK has been reduced to 0 by another card effect●If Venom Swamp is negated by Imperial Order, etc., Venom Counters placed by its effect remain in play.",
     "Tengu": "\n●This card’s effect to place a Venom Counter on each face-up monster starts a Chain.\n●This card’s effect to destroy a monster whose ATK is reduced to 0 does not start a Chain.\n●If a monster’s original ATK is 0, or its ATK has been reduced to 0 by another card effect(s) and a Venom Counter is placed on it, it will not be destroyed by “Venom Swamp”.\n●If Venom Swamp is negated by Imperial Order, etc., Venom Counters placed by its effect remain in play.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card's effect to place a Venom Counter on each face-up monster starts a Chain.\\n2. This card's effect to destroy a monster whose ATK is reduced to 0 does not start a Chain.\\n3. If a monster's original ATK is 0, or its ATK has been reduced to 0 by another card effect(s) and a Venom Counter is placed on it, it will not be destroyed by \"Venom Swamp\".\\n4. If \"Venom Swamp\" is negated by \"Imperial Order\", etc., Venom Counters placed by its effect remain in play."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

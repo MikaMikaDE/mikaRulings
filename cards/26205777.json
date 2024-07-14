@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "● This effect is mandatory.",
     "Tengu": "● This effect is mandatory.",
     "Goat": "●If you Tribute Summon Thestalos the Firestorm Monarch successfully, and your opponent discards a monster like Outstanding Dog Marron or Regenerating Mummy, you still inflict damage because the monster was discarded to the GY (even though it doesn’t remain there).\n●If Banisher of the Light is face-up on the field, no damage is inflicted because the card is not discarded to the GY.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you Tribute Summon \"Thestalos the Firestorm Monarch\" successfully, and your opponent discards a monster like \"Outstanding Dog Marron\" or \"Regenerating Mummy\", you still inflict damage because the monster was discarded to the GY (even though it doesn't remain there).\\n2. If \"Banisher of the Light\" is face-up on the field, no damage is inflicted because the card is not discarded to the GY.\\n3. This card's effect always activates when Tribute Summoned, even if your opponent has no cards in their hand."
   },
   "PSCT": {
+    "Edison": "① If Tribute Summoned: Discard 1 random card from your opponent's hand, then if it was a monster, your opponent takes damage equal to its Level x100.",
     "Tengu": "① If Tribute Summoned: Discard 1 random card from your opponent's hand, then if it was a monster, your opponent takes damage equal to its Level x100.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

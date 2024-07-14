@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●Mind on Air’s effect is continuous, so if you Summon Mind on Air and your opponent responds with Trap Hole, your opponent must show their hand until Mind on Air is no longer on the field (after Trap Hole resolves).\n●If Mind on Air is causing your opponent’s hand to be revealed, and an effect that randomly selects a card is activated (like Robbin’ Goblin), your opponent shuffles their hand and you must choose randomly without seeing the fronts of the cards.",
     "Tengu": "\n●Mind on Air’s effect is continuous, so if you Summon Mind on Air and your opponent responds with Trap Hole, your opponent must show their hand until Mind on Air is no longer on the field (after Trap Hole resolves).\n●If Mind on Air is causing your opponent’s hand to be revealed, and an effect that randomly selects a card is activated (like Robbin’ Goblin), your opponent shuffles their hand and you must choose randomly without seeing the fronts of the cards.",
     "Goat": "●Mind on Air’s effect is continuous, so if you Summon Mind on Air and your opponent responds with Trap Hole, your opponent must show their hand until Mind on Air is no longer on the field (after Trap Hole resolves).\n●If Mind on Air is causing your opponent’s hand to be revealed, and an effect that randomly selects a card is activated (like Robbin’ Goblin), your opponent shuffles their hand and you must choose randomly without seeing the fronts of the cards.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Mind on Air\" is continuous, so if you Summon \"Mind on Air\" and your opponent responds with \"Trap Hole\", your opponent must show their hand until \"Mind on Air\" is no longer on the field (after \"Trap Hole\" resolves).\\n2. If \"Mind on Air\" is causing your opponent's hand to be revealed, and an effect that randomly selects a card is activated (like \"Robbin' Goblin\"), your opponent shuffles their hand and you must choose randomly without seeing the fronts of the cards."
   },
   "PSCT": {
+    "Edison": "① Your opponent must play with their hand revealed.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

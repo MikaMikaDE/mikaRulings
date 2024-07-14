@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can't use Tribute Doll to Special Summon a Special Summon-only monster like Dark Necrofear.\n●You can use Monster Tokens as a cost for Tribute Doll.\n●If you Special Summon a monster with Tribute Doll, you can't activate Diffusion Wave-Motion on that monster because it can't attack that turn due to Tribute Doll's effect. However, you can use Diffusion Wave-Motion on the monster during your next turn.\n●You can combine Soul Exchange with Tribute Doll to Tribute your opponent's monster as the cost of Tribute Doll.",
     "Tengu": "\n●You cannot use Tribute Doll to Special Summon a Special Summon-only monster like Dark Necrofear.\n●You can use Monster Tokens as a cost for Tribute Doll.\n●If you Special Summon a monster with Tribute Doll, you cannot activate Diffusion Wave-Motion on that monster because it cannot attack that turn due to Tribute Doll's effect. However, you can use Diffusion Wave-Motion on the monster during your next turn.\n●You can combine Soul Exchange with Tribute Doll to Tribute your opponent's monster as the cost of Tribute Doll.",
     "Goat": "●You cannot use Tribute Doll to Special Summon a Special Summon-only monster like Dark Necrofear.\n●You can use Monster Tokens as a cost for Tribute Doll.\n●If you Special Summon a monster with Tribute Doll, you cannot activate Diffusion Wave-Motion on that monster because it cannot attack that turn due to Tribute Doll's effect. However, you can use Diffusion Wave-Motion on the monster during your next turn.\n●You can combine Soul Exchange with Tribute Doll to Tribute your opponent's monster as the cost of Tribute Doll. “Tribute Doll” is not a targeting effect.\n●If the monster Special Summoned by “Tribute Doll” is sent to the GY and Special Summoned in the same turn, that monster may attack.\n●Q: If Player A takes control of Player B’s monster with “Change of Heart” and activates “Tribute Doll” which Player B chains “Imperial Order” to, what happens to Player B’s monster? \nA: Player B's monster would be Tributed when you activate Tribute Doll. This is assuming Player B allowed the Change of Heart to resolve, which it sounds like they did. ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot use \"Tribute Doll\" to Special Summon a 'Special Summon-only' monster like \"Dark Necrofear\".\\n2. You can use Monster Tokens as a cost for \"Tribute Doll\".\\n3. If you Special Summon a monster with \"Tribute Doll\", you cannot activate \"Diffusion Wave-Motion\" on that monster because it cannot attack that turn due to the effect of \"Tribute Doll\". However, you can use \"Diffusion Wave-Motion\" on the monster during your next turn.\\n4. You can combine \"Soul Exchange\" with \"Tribute Doll\" to Tribute your opponent's monster as the cost of \"Tribute Doll\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

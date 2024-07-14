@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Both effects can happen during the Damage Step.\\n2. The effect to destroy this card does not start a Chain, and can be negated by cards like \"Spell Canceller\".\\n3. You destroy \"Out of the Blue\" immediately after your opponent's effect that targets a card(s) in the GY resolves.\\n4. If the activation of your opponent's effect that targets a card(s) in the GY is negated, you do not destroy \"Out of the Blue\", but if only the effect is negated you still destroy \"Out of the Blue\".\\n5. The effect to shuffle your opponent's GY back into their Deck starts a Chain."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

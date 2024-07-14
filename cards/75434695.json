@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● This card can only search \"Polymerization\". It can't search \"Super Polymerization\".",
     "Tengu": "● This card can only search \"Polymerization\". It cannot search \"Super Polymerization\".",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① Once per turn, during your Standby Phase: You can add 1 \"Polymerization\" from your Deck/GY to your hand.",
     "Tengu": "① Once per turn, during your Standby Phase: You can add 1 \"Polymerization\" from your Deck/GY to your hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

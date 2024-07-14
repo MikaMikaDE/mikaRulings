@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "The original ATK of all face-up monsters you control becomes 0, until the End Phase. Each time a monster that had its original ATK reduced to 0 by this effect is destroyed by battle and sent to the GY, draw 1 card.\n●Monsters with an original ATK that is already 0 are not affected by Alchemy Cycle. You won't draw a card when they are destroyed by battle.\n●The effect to draw 1 card starts a Chain.\n●Monsters Summoned or flipped face-up after Alchemy Cycle resolves won't have their original ATK become 0.",
     "Tengu": "The original ATK of all face-up monsters you control becomes 0, until the End Phase. Each time a monster that had its original ATK reduced to 0 by this effect is destroyed by battle and sent to the GY, draw 1 card.\n●Monsters with an original ATK that is already 0 are not affected by Alchemy Cycle. You will not draw a card when they are destroyed by battle.\n●The effect to draw 1 card starts a Chain.\n●Monsters Summoned or flipped face-up after Alchemy Cycle resolves will not have their original ATK become 0.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Monsters with an original ATK that is already 0 are not affected by \"Alchemy Cycle\". You will not draw a card when they are destroyed by battle.\\n2. The effect to draw 1 card starts a Chain.\\n3. Monsters Summoned or flipped face-up after \"Alchemy Cycle\" resolves will not have their original ATK become 0."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

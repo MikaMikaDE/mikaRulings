@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●De-Synchro targets 1 face-up Synchro Monster.\n●If a Synchro Material Monster used in the Synchro Summon is removed from the GY, it Cannot be Special Summoned with De-Synchro, even if it is returned to the GY.",
     "Tengu": "\n●De-Synchro targets 1 face-up Synchro Monster.\n●If a Synchro Material Monster used in the Synchro Summon is removed from the GY, it cannot be Special Summoned with De-Synchro, even if it is returned to the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"De-Synchro\" targets 1 face-up Synchro Monster.\\n2. If a Synchro Material Monster used in the Synchro Summon is removed from the GY, it cannot be Special Summoned with \"De-Synchro\", even if it is returned to the GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

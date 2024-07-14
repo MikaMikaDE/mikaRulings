@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Removing all cards in your hand and your side of the field from play is a cost to activate “Card of Sanctity”. If you have no other cards except for “Card of Sanctity”, you can't activate it. You must have at least 1 other card on your side of the field or in your hand.\n●You can chain “Null and Void” to “Card of Sanctity”.\n●“Card of Sanctity” itself is NOT removed from play by its cost.",
     "Tengu": "\n●Removing all cards in your hand and your side of the field from play is a cost to activate “Card of Sanctity”. If you have no other cards except for “Card of Sanctity”, you cannot activate it. You must have at least 1 other card on your side of the field or in your hand.\n●You can chain “Null and Void” to “Card of Sanctity”.\n●“Card of Sanctity” itself is NOT removed from play by its cost.",
     "Goat": "●Removing all cards in your hand and your side of the field from play is a cost to activate “Card of Sanctity”. If you have no other cards except for “Card of Sanctity”, you cannot activate it. You must have at least 1 other card on your side of the field or in your hand.\n●You can chain “Null and Void” to “Card of Sanctity”.\n●“Card of Sanctity” itself is NOT removed from play by its cost.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Banishing all cards in your hand and your side of the field from play is a cost to activate \"Card of Sanctity\". If you have no other cards except for \"Card of Sanctity\", you cannot activate it. You must have at least 1 other card on your side of the field and in your hand.\\n2. You can chain \"Null and Void\" to \"Card of Sanctity\".\\n3. \"Card of Sanctity\" itself is NOT banished by its cost."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

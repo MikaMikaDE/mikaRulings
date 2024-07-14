@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● If you control \"Black Whirlwind\", and have a \"Blackwing\" monster in your Deck with less than 1300 ATK:\nWhen you Summon this card, both its effect and \"Black Whirlwind\" will trigger. Since they are both optional effects, you can order them in any way you like. \nIf you order them as: Blizzard Chain Link 1, Whirlwind Chain Link 2, then your opponent can only respond to the newest chain link - Black Whirlwind's effect. \nThis means that cards like \"Royal Oppression\" and \"Pulling the Rug\" can't be activated at this time - Those cards can't be chained to Black Whirlwind's effect.",
     "Tengu": "● If you control \"Black Whirlwind\", and have a \"Blackwing\" monster in your Deck with less than 1300 ATK:\nWhen you Summon this card, both its effect and \"Black Whirlwind\" will trigger. Since they are both optional effects, you can order them in any way you like. \nIf you order them as: Blizzard Chain Link 1, Whirlwind Chain Link 2, then your opponent can only respond to the newest chain link - Black Whirlwind's effect. \nThis means that cards like \"Royal Oppression\" and \"Pulling the Rug\" cannot be activated at this time - Those cards cannot be chained to Black Whirlwind's effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The restriction against Special Summoning \"Blackwing - Blizzard the Far North\" is not an 'effect'.\\n2. The effect of \"Blackwing - Blizzard the Far North\" targets 1 'Blackwing' monster in your GY."
   },
   "PSCT": {
+    "Edison": "© Cannot be Special Summoned.\n① When Normal Summoned: You can target 1 Level 4 or lower \"Blackwing\" monster in your GY; Special Summon it in face-up Defense Position.",
     "Tengu": "© Cannot be Special Summoned.\n① When Normal Summoned: You can target 1 Level 4 or lower \"Blackwing\" monster in your GY; \nSpecial Summon it in face-up Defense Position.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● This effect is mandatory.",
     "Tengu": "● This effect is mandatory.",
     "Goat": "●You have to destroy 1 monster. If there are no other monsters then you have to destroy Zaborg the Thunder Monarch.\n●Zaborg the Thunder Monarch's effect targets.\n●If you target Chaos Command Magician with Zaborg the Thunder Monarch's effect, the effect is negated.\n●If you Tribute Set Zaborg the Thunder Monarch face-down the effect is not activated.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You have to destroy 1 monster. If there are no other monsters then you have to destroy \"Zaborg the Thunder Monarch\".\\n2. The effect of \"Zaborg the Thunder Monarch\" targets.\\n3. If you target \"Chaos Command Magician\" with the effect of \"Zaborg the Thunder Monarch\", the effect is negated.\\n4. If you Tribute Set \"Zaborg the Thunder Monarch\" face-down the effect is not activated."
   },
   "PSCT": {
+    "Edison": "① If Tribute Summoned: Target 1 monster on the field; destroy it.",
     "Tengu": "① If Tribute Summoned: Target 1 monster on the field; destroy it.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

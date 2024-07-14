@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Call of the Earthbound\" does not target. You decide which monster your opponent's attacking monster will attack when resolving \"Call of the Earthbound\".\\n2. If \"Call of the Earthbound\" is chained to \"Astral Barrier\", \"Astral Barrier\" is applied. If \"Astral Barrier\" is chained to \"Call of the Earthbound\", \"Call of the Earthbound\" is applied.\\n3. When multiple \"Call of the Earthbound\" are chained, only the last to resolve is applied.\\n4. You can select the same monster your opponent had already declared as the attack target.\\n5. The new attack target that you select must be a legal target for the attack. For example, you cannot change the attack target to one of your opponent's monsters."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

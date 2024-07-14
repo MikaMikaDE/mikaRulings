@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● Discarding happens before drawing, which can cause cards like \"Jinzo - Returner\" to miss their timing.\nYou can read more about Timing here:\nhttps://edisonformat.net/rules/compendium/missing-the-timing",
     "Tengu": "● Discarding happens before drawing, which can cause cards like \"Jinzo - Returner\" to miss their timing.\nYou can read more about Timing here:\nhttps://edisonformat.net/rules/compendium/missing-the-timing",
     "Goat": "●If there are fewer than 5 cards in the Deck of either player when this card’s Flip Effect is activated, that player will lose the Duel, since the text of this card says draw.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If there are fewer than 5 cards in the Deck of either player when this card's Flip Effect is activated, that player will lose the Duel, since the text of this card says \"draw\"."
   },
   "PSCT": {
+    "Edison": "① FLIP: Each player discards their hand, then draws 5 cards.",
     "Tengu": "① FLIP: Each player discards their hand, then draws 5 cards.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

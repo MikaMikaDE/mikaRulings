@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This card halves the current ATK of the monster it targets.\n●If this card targets a monster that is affected by Shrink, its ATK will become half of the halved ATK, or 1/4 its original ATK. If a monster whose ATK is halved by Riryoku is affected by Shrink, its ATK will become half of its original (printed) ATK.",
     "Tengu": "\n●This card halves the current ATK of the monster it targets.\n●If this card targets a monster that is affected by Shrink, its ATK will become half of the halved ATK, or 1/4 its original ATK. If a monster whose ATK is halved by Riryoku is affected by Shrink, its ATK will become half of its original (printed) ATK.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card halves the current ATK of the monster it targets.\\n2. If this card targets a monster that is affected by \"Shrink\", its ATK will become half of the halved ATK, or 1/4 its original ATK. If a monster whose ATK is halved by \"Riryoku\" is affected by \"Shrink\", its ATK will become half of its original (printed) ATK."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

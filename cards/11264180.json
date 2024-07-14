@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can activate this card during the Damage Step, but not during damage calculation.\\n2. This card targets 1 \"T.G.\" monster you control.\\n3. It does not target 1 Spell/Trap Card, the card you destroy is chosen when this card resolves.\\n4. You can target a monster with 0 ATK and DEF. This card will still resolve completely. (Half of 0 is 0.)\\n5. You can target a monster affected by \"Forbidden Lance\", but because the ATK and DEF can't be halved you don't destroy the Spell/Trap Card.\\n6. The target monster must be face-up when this card resolves, or else its ATK and DEF can't be halved and you can't destroy the Spell/Trap Card.\\n7. If your opponent takes control of the target monster, this card still resolves completely.\\n8. You halve the ATK and DEF of the target and destroy 1 Spell/Trap Card at the same time.\\n9. If you destroy a Spell/Trap Card that was modifying the target monster's ATK or DEF, the ATK and DEF of the target become half of the modified value.\\n10. The ATK and DEF of the target are halved for as long as the target is face-up on the field.\\n11. You can't activate \"TGX\"1-\"HL\" if there are no other Spell/Trap Cards on the field, but if there are no other Spell/Trap Cards on the field when it resolves, you still halve the ATK and DEF of the target monster.\\n12. You cannot destroy \"TGX\"1-\"HL\" itself with its own effect."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

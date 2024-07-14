@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●If the Ninja is destroyed or otherwise removed from the field by a card effect, Ninjitsu Art of Decoy remains on the field meaninglessly.\n●If the Ninja is removed from the field temporarily, or flipped face-down, Ninjitsu Art of Decoy’s effect is no longer applied.\n●If Ninjitsu Art of Decoy is active, then Royal Decree is activated and negates Ninjitsu Art of Decoy’s effect, then Royal Decree is later destroyed, Ninjitsu Art of Decoy’s effect is not re-applied.",
     "Tengu": "\n●If the Ninja is destroyed or otherwise removed from the field by a card effect, Ninjitsu Art of Decoy remains on the field meaninglessly.\n●If the Ninja is removed from the field temporarily, or flipped face-down, Ninjitsu Art of Decoy’s effect is no longer applied.\n●If Ninjitsu Art of Decoy is active, then Royal Decree is activated and negates Ninjitsu Art of Decoy’s effect, then Royal Decree is later destroyed, Ninjitsu Art of Decoy’s effect is not re-applied.",
     "Goat": "●If the Ninja is destroyed or otherwise removed from the field by a card effect, Ninjitsu Art of Decoy remains on the field meaninglessly.\n●If the Ninja is removed from the field temporarily, or Set, Ninjitsu Art of Decoy’s effect is no longer applied.\n●If Ninjitsu Art of Decoy is applying, then Royal Decree is activated and negates Ninjitsu Art of Decoy’s effect, then Royal Decree is later destroyed, Ninjitsu Art of Decoy’s effect is not re-applied.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If the Ninja is destroyed or otherwise removed from the field by a card effect, \"Ninjitsu Art of Decoy\" remains on the field meaninglessly.\\n2. If the Ninja is removed from the field temporarily, or flipped face-down, the effect of \"Ninjitsu Art of Decoy\" is no longer applied.\\n3. If \"Ninjitsu Art of Decoy\" is active, then \"Royal Decree\" is activated and negates the effect of \"Ninjitsu Art of Decoy\", then \"Royal Decree\" is later destroyed, the effect of \"Ninjitsu Art of Decoy\" is not re-applied."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

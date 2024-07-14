@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This card targets both the attacking monster and the attack target monster.\n●If the attacking monster is no longer on the field when “Morphtransition” resolves, the targeted “Morphtronic” monster’s battle position can't be changed.",
     "Tengu": "\n●This card targets both the attacking monster and the attack target monster.\n●If the attacking monster is no longer on the field when “Morphtransition” resolves, the targeted “Morphtronic” monster’s battle position cannot be changed.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card targets both the attacking monster and the attack target monster.\\n2. If the attacking monster is no longer on the field when \"Morphtransition\" resolves, the targeted 'Morphtronic' monster's battle position cannot be changed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Sending 2 cards from your hand to the GY is a cost.\n●If you don't have enough available Monster Card Zones when this card resolves, you won’t Special Summon any “Soul Tokens.”\n●You can't activate this card during the Damage Step.",
     "Tengu": "\n●Sending 2 cards from your hand to the GY is a cost.\n●If you do not have enough available Monster Card Zones when this card resolves, you won’t Special Summon any “Soul Tokens.”\n●You cannot activate this card during the Damage Step.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Sending 2 cards from your hand to the GY is a cost.\\n2. If you do not have enough available Monster Card Zones when this card resolves, you won't Special Summon any \"Soul Tokens.\"\\n3. You cannot activate this card during the Damage Step."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

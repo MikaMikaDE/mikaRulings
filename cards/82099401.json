@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "●If there are less than 2 cards in your deck when this effect resolves, nothing happens.\n●If 'Thunder King Rai-Oh' is applying, this effect still activates. 1 of the cards is sent to the GY and 1 of the cards is returned to the bottom of the Deck.\n●The cards aren't revealed to your opponent \n(on Duelingbook, this can be resolved by drawing 2 cards, then placing 1 of the drawn cards on the bottom).",
     "Tengu": "\n●If there are less than 2 cards in your deck when this effect resolves, nothing happens.\n●This effect can't activate if 'Thunder King Rai-Oh' is applying.\n●The cards aren't revealed to your opponent \n(on Duelingbook, this can be resolved by drawing 2 cards, then placing 1 of the drawn cards on the bottom).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you have 1 or fewer cards in your Deck when this card's effect resolved, the effect disappears, and you cannot pick up any cards from your Deck.\\n2. If your opponent's \"Parasite Paracide\" is among the card's you pick up with the effect of \"Crystal Seer\", you can add that card to your hand.\\n3. [FORUM] When resolving the effect of \"Crystal Seer\", you do not reveal the 2 picked up cards to your opponent. You choose one to be added to your hand, and the other is placed on the bottom of the Deck."
   },
   "PSCT": {
+    "Edison": "① FLIP: Look at the top 2 cards of your deck, add 1 of them to your hand, also place the other on the bottom of the Deck.",
     "Tengu": "① FLIP: Look at the top 2 cards of your deck, add 1 of them to your hand, also place the other on the bottom of the Deck.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "●The Ignition Effect targets 1 monster on the field.\n●Tributing 1 Six Samurai monster (including this card) you control is a cost. If Soul Exchange targets your opponent's Six Samurai monster, you can Tribute it as cost instead.\n●If the target is flipped face-down, it is still destroyed.",
     "Tengu": "(1) While you control another Six Samurai monster, you can Tribute 1 Six Samurai monster to destroy 1 monster on the field.\n●The (1) Ignition Effect targets 1 monster on the field.\n●Tributing 1 Six Samurai monster (including this card) you control is a cost. If Soul Exchange targets your opponent's Six Samurai monster, you can Tribute it as cost instead.\n●If the target is flipped face-down, it is still destroyed.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If an effect is chained that removes every face-up 'Six Samurai' monster from your side of the field, the effect of \"Hand of the Six Samurai\" still resolves.\nbr>2. Tributing 1 'Six Samurai' monster you control is a cost. You can Tribute \"Hand of the Six Samurai\" to activate its own effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

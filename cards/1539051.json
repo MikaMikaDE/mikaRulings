@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Count the number of Neo-Spacian monsters you control with different names when Space Gift resolves.\n●If you control a Neo-Spacian Marine Dolphin when Space Gift resolves, you will draw 2 cards for it because its name is also treated as Neo-Spacian Aqua Dolphin.",
     "Tengu": "\n●Count the number of Neo-Spacian monsters you control with different names when Space Gift resolves.\n●If you control a Neo-Spacian Marine Dolphin when Space Gift resolves, you will draw 2 cards for it because its name is also treated as Neo-Spacian Aqua Dolphin.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Count the number of \"Neo-Spacian\" monsters you control with different names when \"Space Gift\" resolves.\\n2. If you control a \"Neo-Spacian Marine Dolphin\" when \"Space Gift\" resolves, you will draw 2 cards for it because its name is also treated as \"Neo-Spacian Aqua Dolphin\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

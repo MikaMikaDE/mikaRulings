@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn.\n●If Flashbang is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as Don Zaloog.\n●If Flashbang is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as Goblin Attack Force.",
     "Tengu": "Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn.\n●If Flashbang is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as Don Zaloog.\n●If Flashbang is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as Goblin Attack Force.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If \"Flashbang\" is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as \"Don Zaloog\".\\n2. If \"Flashbang\" is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as \"Goblin Attack Force\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

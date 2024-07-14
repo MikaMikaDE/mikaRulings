@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The first effect targets the Dragon-Type 'Dragunity' monster in your GY.\\n2. The second effect targets your opponent's face-up monster.\\n3. Sending 1 'Dragunity' card to the GY is a cost to use the second effect.\\n4. If this card's effect is negated while it is equipped with a 'Dragunity' monster, the 'Dragunity' monster will be destroyed and sent to the GY."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

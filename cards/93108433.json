@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "●If you select a Fusion Monster or Synchro Monster, it returns to its owner's Extra Deck.\n●If you select your opponent's monster that you currently control, it is returned to your opponent's Deck.\n●You can select a Monster Token. It is removed from the field instead, because it can't be shuffled into the Deck.",
     "Tengu": "\n●If you select a Fusion Monster or Synchro Monster, it returns to its owner's Extra Deck.\n●If you select your opponent's monster that you currently control, it is returned to your opponent's Deck.\n●You can select a Monster Token. It is removed from the field instead, because it cannot be shuffled into the Deck.",
     "Goat": "“Monster Recovery” may be activated on a Token.\n● “Monster Recovery” may not be activated in the Damage Step.\n●If “Monster Recovery” is activated on an opponent’s monster that the player controls, that monster will return to the opponent’s Deck and the opponent will shuffle, but not draw. \n●If “Monster Recovery” is activated on an opponent’s monster that the player controls, the player who activated “Monster Recovery” will still return their hand to the Deck and draw the appropriate number of cards.\n●Q: What would happen if I attacked my opponents “Gemini Elf” with my “Jinzo,” and they flipped “Monster Recovery?” Would they still lose LP? Or would the attack be negated? \nA: A replay would be triggered, and “Jinzo” is able to choose a new attack target, or attack directly if your opponent has no other monsters on the field. The original attack against “Gemini Elf” is treated as if it never happened, and the Damage Step was never reached, so no damage occurred from that first declared attack against “Gemini Elf.” \n●Steve Okegawa,  \n●Q: Can you use “Monster Recovery” on a Sheep Token? \nA: You may use Monster Recovery on a Sheep Token (or any other kind of Token for that matter). ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If you select a Fusion Monster or Synchro Monster, it returns to its owner's Extra Deck.\\n2. You can select a Monster Token. It is removed from the field instead, because it cannot be shuffled into the Deck."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

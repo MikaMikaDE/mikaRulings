@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "●Flipping your opponent's face-down monsters face-up does not start a Chain.\n●If your opponent has face-down monsters that were not flipped face-down by Book of Eclipse, they are also flipped face-up.",
     "Tengu": "\n●Flipping your opponent's face-down monsters face-up does not start a Chain.\n●If your opponent has face-down monsters that were not flipped face-down by Book of Eclipse, they are also flipped face-up.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Flipping your opponent's face-down monsters face-up does not start a Chain.\\n2. If your opponent has face-down monsters that were not flipped face-down by \"Book of Eclipse\", they are also flipped face-up.\\n3. [FORUM] You cannot activate \"Book of Eclipse\" if the only monsters on the field are Defense Position Tokens. If there are other monsters on the field and \"Book of Eclipse\" is legally activated, \"Book of Eclipse\" will switch Attack Position tokens into Defense Position but will not flip them face-down as Tokens cannot be flipped face-down."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

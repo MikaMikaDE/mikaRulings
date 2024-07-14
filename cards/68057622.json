@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Continuous Destruction Punch is like Destruction Punch except it's a Continuous Spell Card that you activate during your Main Phase.\n●A monster destroyed because of Continuous Destruction Punch is destroyed by Continuous Destruction Punch's effect, not as a result of battle.\n●The determination of whether a monster is destroyed by Continuous Destruction Punch's effect happens at Damage Calculation, so Flip Effects, etc., are resolved AFTER Continuous Destruction Punch's effect destroys a monster (but does not yet send it to the GY). Then, after applying Flip Effects, send a monster destroyed by this card (or by Damage Calculation) to the GY.",
     "Tengu": "\n●Continuous Destruction Punch is like Destruction Punch except it's a Continuous Spell Card that you activate during your Main Phase.\n●A monster destroyed because of Continuous Destruction Punch is destroyed by Continuous Destruction Punch's effect, not as a result of battle.\n●The determination of whether a monster is destroyed by Continuous Destruction Punch's effect happens at Damage Calculation, so Flip Effects, etc., are resolved AFTER Continuous Destruction Punch's effect destroys a monster (but does not yet send it to the GY). Then, after applying Flip Effects, send a monster destroyed by this card (or by Damage Calculation) to the GY.",
     "Goat": "●Continuous Destruction Punch is like Destruction Punch except it's a Continuous Spell Card that you activate during your MP.\nA monster destroyed because of Continuous Destruction Punch is destroyed by Continuous Destruction Punch's effect, not as a result of battle.\n●The determination of whether a monster is destroyed by Continuous Destruction Punch's effect happens at Damage Calculation, so Flip Effects, etc., are resolved AFTER Continuous Destruction Punch's effect destroys a monster (but does not yet send it to the GY). Then, after applying Flip Effects, send a monster destroyed by this card (or by Damage Calculation) to the GY.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Continuous Destruction Punch\" is like \"Destruction Punch\" except it's a Continuous Spell Card that you activate during your Main Phase.\\n2. A monster destroyed because of \"Continuous Destruction Punch\" is destroyed by the effect of \"Continuous Destruction Punch\", not 'as a result of battle'.\\n3. The determination of whether a monster is destroyed by the effect of \"Continuous Destruction Punch\" happens at Damage Calculation, so Flip Effects, etc., are resolved AFTER the effect of \"Continuous Destruction Punch\" destroys a monster (but does not yet send it to the GY). Then, after applying Flip Effects, send a monster destroyed by this card (or by Damage Calculation) to the GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

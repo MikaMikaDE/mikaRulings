@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Hate Buster targets the attacking monster and the Fiend-Type Monster being attacked.\n●If your Fiend-Type Monster isn't destroyed by Hate Buster, you don't inflict damage to your opponent's Life Points.\n●Hate Buster inflicts damage equal to the original ATK of the destroyed monster after it is sent to the GY or removed zone. If you destroy a Monster Token or a Trap Card that is treated as a monster (Embodiment of Apophis, etc.) no damage will be inflicted.",
     "Tengu": "\n●Hate Buster targets the attacking monster and the Fiend-Type Monster being attacked.\n●If your Fiend-Type Monster isn't destroyed by Hate Buster, you do not inflict damage to your opponent's Life Points.\n●Hate Buster inflicts damage equal to the original ATK of the destroyed monster after it is sent to the GY or removed zone. If you destroy a Monster Token or a Trap Card that is treated as a monster (Embodiment of Apophis, etc.) no damage will be inflicted.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Hate Buster\" targets the attacking monster and the Fiend-Type Monster being attacked.\\n2. If your Fiend-Type Monster isn't destroyed by \"Hate Buster\", you do not inflict damage to your opponent's Life Points.\\n3. \"Hate Buster\" inflicts damage equal to the original ATK of the destroyed monster after it is sent to the GY or removed zone. If you destroy a Monster Token or a Trap Card that is treated as a monster (\"Embodiment of Apophis\", etc.) no damage will be inflicted."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

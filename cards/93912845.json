@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This card targets 1 Tuner monster in your GY.\n●“Revival Gift” only negates the Tuner monster’s effects that activate on the field. If you Special Summon “Sinister Sprocket” and use it as a Synchro Material Monster, its effect will activate in the GY.\n●The Tuner monster and 2 “Gift Fiend Tokens” are considered to be Special Summoned at the same time.\n●You can't activate this card if your opponent has 1 or fewer empty Monster Card Zones.\n●If the targeted Tuner monster is no longer in your GY when “Revival Gift” resolves, you still Special Summon 2 “Gift Fiend Tokens” to your opponent’s side of the field.",
     "Tengu": "\n●This card targets 1 Tuner monster in your GY.\n●“Revival Gift” only negates the Tuner monster’s effects that activate on the field. If you Special Summon “Sinister Sprocket” and use it as a Synchro Material Monster, its effect will activate in the GY.\n●The Tuner monster and 2 “Gift Fiend Tokens” are considered to be Special Summoned at the same time.\n●You cannot activate this card if your opponent has 1 or fewer empty Monster Card Zones.\n●If the targeted Tuner monster is no longer in your GY when “Revival Gift” resolves, you still Special Summon 2 “Gift Fiend Tokens” to your opponent’s side of the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card targets 1 Tuner monster in your GY.\\n2. \"Revival Gift\" only negates the Tuner monster's effects that activate on the field. If you Special Summon \"Sinister Sprocket\" and use it as a Synchro Material Monster, its effect will activate in the GY.\\n3. The Tuner monster and 2 \"Gift Fiend Tokens\" are considered to be Special Summoned at the same time.\\n4. You cannot activate this card if your opponent has 1 or fewer empty Monster Card Zones.\\n5. If the targeted Tuner monster is no longer in your GY when \"Revival Gift\" resolves, you still Special Summon 2 \"Gift Fiend Tokens\" to your opponent's side of the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can activate Chain Destruction when you or your opponent Summons the monster.\n●If you activate Chain Destruction when a Fusion Monster is Summoned, monsters in the Extra Deck with the same name as the Summoned monster are destroyed.\n●Chain Destruction targets the Summoned monster.\n●If an effect is chained that increases the Summoned monster's ATK above 2000 or removes it from the field, Chain Destruction's effect is still applied.",
     "Tengu": "\n●You can activate Chain Destruction when you or your opponent Summons the monster.\n●If you activate Chain Destruction when a Fusion Monster is Summoned, monsters in the Extra Deck with the same name as the Summoned monster are destroyed.\n●Chain Destruction targets the Summoned monster.\n●If an effect is chained that increases the Summoned monster's ATK above 2000 or removes it from the field, Chain Destruction's effect is still applied.",
     "Goat": "“Chain Destruction” destroys the cards in the hand and the Deck that it sends to the GY.\n●“Chain Destruction” is a targeting effect.\nA player may target their own summoned monster with “Chain Destruction.”\n●Monsters Special Summoned face-up by monster effects may be targeted by “Chain Destruction.”\n●If “Chain Destruction” is activated in response to a Fusion monster being Special Summoned and that Fusion monster has less than 2000 ATK, all other copies of that Fusion monster in the affected player’s Fusion Deck are destroyed and sent to the GY.\n●If the ATK of a monster is increased above 2000 in a chain to the activation of “Chain Destruction,” “Chain Destruction” still resolves properly.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can activate \"Chain Destruction\" when you or your opponent Summons the monster.\\n2. If you activate \"Chain Destruction\" when a Fusion Monster is Summoned, monsters in the Extra Deck with the same name as the Summoned monster are destroyed.\\n3. \"Chain Destruction\" targets the Summoned monster.\\n4. If an effect is chained that increases the Summoned monster's ATK above 2000 or removes it from the field, the effect of \"Chain Destruction\" is still applied."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

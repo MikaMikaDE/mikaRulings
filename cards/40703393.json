@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Removing monsters on your side of the field from play is not a cost, so the opponent must decide if they want to chain before you select which monsters are to be removed. If they chain a card that negates the effect of The Puppet Magic of Dark Ruler you don't remove any monsters.\n●Face-down monsters may be removed from your side of the field.",
     "Tengu": "\n●Removing monsters on your side of the field from play is not a cost, so the opponent must decide if they want to chain before you select which monsters are to be removed. If they chain a card that negates the effect of The Puppet Magic of Dark Ruler you do not remove any monsters.\n●Face-down monsters may be removed from your side of the field.",
     "Goat": "●Removing monsters on your side of the field from play is not a cost, so the opponent must decide if they want to chain before you select which monsters are to be removed. If they chain a card that negates the effect of The Puppet Magic of Dark Ruler you do not remove any monsters.\n●Face-down monsters may be removed from your side of the field.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Removing monsters on your side of the field from play is not a cost, so the opponent must decide if they want to chain before you select which monsters are to be removed. If they chain a card that negates the effect of \"The Puppet Magic of Dark Ruler\" you do not remove any monsters.\\n2. Face-down monsters may be removed from your side of the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

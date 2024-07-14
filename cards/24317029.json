@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "●You can select a Gravekeeper whose ATK would be higher than 1500 after being Summoned. For example, if Necrovalley is in play, you can use Gravekeeper’s Spy to Special Summon another Gravekeeper’s Spy, even though its ATK will be 1700 once it is on the field.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can select a Gravekeeper whose ATK would be higher than 1500 after being Summoned. For example, if \"Necrovalley\" is in play, you can use \"Gravekeeper's Spy\" to Special Summon another \"Gravekeeper's Spy\", even though its ATK will be 1700 once it is on the field.\\n2. [FORUM] If \"Gravekeeper's Spy\" is Flip Summoned and \"Torrential Tribute is Chained, \"Torrential Tribute\" resolves first, destroying all monsters on the field. \"Gravekeeper's Spy\" does not need to be face-up on the field for its effect to properly resolve. \"Gravekeeper's Spy\" will resolve and Special Summon a \"Gravekeeper\" monster from his/her Deck."
   },
   "PSCT": {
+    "Edison": "① FLIP: Special Summon 1 \"Gravekeeper's\" monster with 1500 or less ATK from your Deck.",
     "Tengu": "① FLIP: Special Summon 1 \"Gravekeeper's\" monster with 1500 or less ATK from your Deck.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

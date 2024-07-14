@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●If Small Piece Golem is Special Summoned during the Damage Step, you can activate its effect.\n●If an effect is chained that removes your only Big Piece Golem from the field, Medium Piece Golem is still Special Summoned.",
     "Tengu": "\n●If Small Piece Golem is Special Summoned during the Damage Step, you can activate its effect.\n●If an effect is chained that removes your only Big Piece Golem from the field, Medium Piece Golem is still Special Summoned.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Small Piece Golem\" is Special Summoned during the Damage Step, you can activate its effect.\\n2. If an effect is chained that removes your only \"Big Piece Golem\" from the field, \"Medium Piece Golem\" is still Special Summoned."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

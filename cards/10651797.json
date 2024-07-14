@@ -7,6 +7,7 @@
     "race": "Counter"
   },
   "Rulings": {
+    "Edison": "This card can only negate trigger effects which specifically activate when a monster is Special Summoned. \n● It can negate the effects of cards like \"Swap Frog\", \"Armageddon Knight\", or \"King Tiger Wanghu\" (for all 3 examples, this card can only be activated when a monster is Special Summoned).\n● It can't negate Ignition effects, even if activated with ignition Priority.\nIt can never negate the effect of \"Substitoad\", \"Dark Grepher\", nor \"D.D. Crow\".\n● It can't negate an effect which activated because a monster was Normal Summoned, even if that monster's effect states \"if this card is Normal/Special Summoned\".",
     "Tengu": "This card can only negate trigger effects which specifically activate when a monster is Special Summoned. \n● It can negate the effects of cards like \"Swap Frog\", \"Armageddon Knight\", or \"King Tiger Wanghu\" (for all 3 examples, this card can only be activated when a monster is Special Summoned).\n● It cannot negate Ignition effects, even if activated with ignition Priority.\nIt can never negate the effect of \"Substitoad\", \"Dark Grepher\", nor \"D.D. Crow\".\n● It cannot negate an effect which activated because a monster was Normal Summoned, even if that monster's effect states \"if this card is Normal/Special Summoned\".",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "① If a Monster Effect is triggered because a monster was Special Summoned: \nNegate the activation, and if you do, destroy the monster that activated that effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to Special Summon \"Stardust Dragon\" targets. It can be activated during the Damage Step.\\n2. If \"Stardust Phantom\" is destroyed while face-down, you can activate its effect.\\n3. This effect cannot Special Summon a \"Stardust Dragon\" that was Summoned by \"Starlight Road\".\\n4. If \"Stardust Phantom\" is destroyed because your opponent tries to take control of it with a card effect but has no open Monster Card Zones, you cannot activate the effect to Special Summon \"Stardust Dragon\".\\n5. If your \"Stardust Phantom\" is equipped to one of your monsters by an effect and is destroyed and sent to the GY by an opponent's card, you CAN activate its effect.\\n6. If \"Stardust Dragon\" and \"Stardust Phantom\" are destroyed at the same time, you can activate the effect of \"Stardust Phantom\" and Special Summon that same \"Stardust Dragon\".\\n7. Removing \"Stardust Phantom\" from play is a cost to activate its second effect.\\n8. The second effect of \"Stardust Phantom\" targets the face-up Dragon-Type Synchro Monster. It cannot be activated during the Damage Step.\\n9. If the target face-up Dragon-Type Synchro Monster is flipped face-down, or removed from the field, the effect will not apply even if it is flipped face-up again or returns to the field.\\n10. You cannot target the same Dragon-Type Synchro Monster with the effect of more than 1 \"Stardust Phantom\".\\n11. Protecting the Synchro Monster from battle and reducing its ATK and DEF does not start a Chain.\\n12. The protection granted by the effect of \"Stardust Phantom\" along with the ATK and DEF decreases last as long as the targeted monster is face-up on the field.\\n13. The targeted monster does not need to have at least 800 ATK or DEF to be protected by battle. The effect still applies even if the monster has 0 ATK or DEF. In this case, the monster will lose as much ATK and DEF as it can."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

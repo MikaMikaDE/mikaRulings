@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●A Field Spell Card or similar effect will adjust the ATK/DEF of “Cyber Shadow Gardna” accordingly after it copies the ATK & DEF of another monster.\n●You can't chain to the effect of “Cyber Shadow Gardna” that copies another monster’s ATK & DEF.\n●“Light of Intervention” only stops you from Setting monsters. Since the final effect of “Cyber Shadow Gardna” Sets it as a Trap Card, this effect will still happen even if “Light of Intervention” is active.\n●If you use “Limiter Removal” on your “Cyber Shadow Gardna”, both effects (destroy it because of “Limiter Removal”, and change it back into a Trap Card by its own effect) happen during the End Phase in the order of the controller’s preference.",
     "Tengu": "\n●A Field Spell Card or similar effect will adjust the ATK/DEF of “Cyber Shadow Gardna” accordingly after it copies the ATK & DEF of another monster.\n●You cannot chain to the effect of “Cyber Shadow Gardna” that copies another monster’s ATK & DEF.\n●“Light of Intervention” only stops you from Setting monsters. Since the final effect of “Cyber Shadow Gardna” Sets it as a Trap Card, this effect will still happen even if “Light of Intervention” is active.\n●If you use “Limiter Removal” on your “Cyber Shadow Gardna”, both effects (destroy it because of “Limiter Removal”, and change it back into a Trap Card by its own effect) happen during the End Phase in the order of the controller’s preference.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. A Field Spell Card or similar effect will adjust the ATK/DEF of \"Cyber Shadow Gardna\" accordingly after it copies the ATK & DEF of another monster.\\n2. You cannot chain to the effect of \"Cyber Shadow Gardna\" that copies another monster's ATK & DEF.\\n3. \"Light of Intervention\" only stops you from Setting monsters. Since the final effect of \"Cyber Shadow Gardna\" Sets it as a Trap Card, this effect will still happen even if \"Light of Intervention\" is active.\\n4. If you use \"Limiter Removal\" on your \"Cyber Shadow Gardna\", both effects (destroy it because of \"Limiter Removal\", and change it back into a Trap Card by its own effect) happen during the End Phase in the order of the controller's preference."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●“Wrath of Neos” targets 1 face-up monster named “Elemental Hero Neos” you control.\n●You can activate “Wrath of Neos” and target a Token or “Embodiment of Apophis” being treated as “Elemental Hero Neos” by Hero Mask. If you target a Token, you can't return it to the Deck or destroy all cards on the field. If you target “Embodiment of Apophis,” you can return it to the Deck and destroy all cards on the field.\n●If your opponent gains control of “Elemental Hero Neos” targeted by “Wrath of Neos” before it resolves, you still return that card to your Deck and destroy all cards on the field.",
     "Tengu": "\n●“Wrath of Neos” targets 1 face-up monster named “Elemental Hero Neos” you control.\n●You can activate “Wrath of Neos” and target a Token or “Embodiment of Apophis” being treated as “Elemental Hero Neos” by Hero Mask. If you target a Token, you cannot return it to the Deck or destroy all cards on the field. If you target “Embodiment of Apophis,” you can return it to the Deck and destroy all cards on the field.\n●If your opponent gains control of “Elemental Hero Neos” targeted by “Wrath of Neos” before it resolves, you still return that card to your Deck and destroy all cards on the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Wrath of Neos\" targets 1 face-up monster named \"Elemental HERO Neos\" you control.\\n2. You can activate \"Wrath of Neos\" and target a Token or \"Embodiment of Apophis\" being treated as \"Elemental HERO Neos\". If you target a Token, you cannot return it to the Deck or destroy all cards on the field. If you target \"Embodiment of Apophis\", you can return it to the Deck and destroy all cards on the field.\\n3. If your opponent gains control of \"Elemental HERO Neos\" targeted by \"Wrath of Neos\" before it resolves, you still return that card to your Deck and destroy all cards on the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

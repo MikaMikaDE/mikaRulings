@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●The optional Trigger Effect activates in Substep 5 - After Damage Calculation.\n●This effect targets the Elemental Hero you intend to Special Summon.\n●You can't Special Summon monsters with Conditions like Elemental Hero Mudballman. \n●This effect does not activate if you inflict 0 Battle Damage (by Waboku).",
     "Tengu": "(1) When this card inflicts Battle Damage to your opponent, you can Special Summon 1 of your removed from play Elemental Hero monsters.\n●The (1) optional Trigger Effect activates in Substep 5 - After Damage Calculation.\n●This effect targets the Elemental Hero you intend to Special Summon.\n●You CANNOT Special Summon monsters with Conditions like Elemental Hero Mudballman. \n●This effect does not activate if you inflict 0 Battle Damage (by Waboku).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

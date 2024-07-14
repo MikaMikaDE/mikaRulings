@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This card must be chained directly to the activation of one of your opponent’s Spell Cards. You can't activate this card if there is already another card or effect on the Chain to your opponent’s Spell Card activation.\n●You can't activate this card if your opponent has no cards in their hand.",
     "Tengu": "\n●This card must be chained directly to the activation of one of your opponent’s Spell Cards. You cannot activate this card if there is already another card or effect on the Chain to your opponent’s Spell Card activation.\n●You cannot activate this card if your opponent has no cards in their hand.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card must be chained directly to the activation of one of your opponent's Spell Cards. You cannot activate this card if there is already another card or effect on the Chain to your opponent's Spell Card activation.\\n2. You cannot activate this card if your opponent has no cards in their hand."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "●Removing 1 Normal Trap Card from play is not a cost. Diskblade Rider's effect targets 1 Normal Trap Card in your GY.",
     "Tengu": "\n●Removing 1 Normal Trap Card from play is not a cost. Diskblade Rider's effect targets 1 Normal Trap Card in your GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Removing 1 Normal Trap Card from play is not a cost. The effect of \"Diskblade Rider\" targets 1 Normal Trap Card in your GY."
   },
   "PSCT": {
+    "Edison": "① Once per turn: You can target 1 Normal Trap Card in your GY; banish that target, and if you do, this card gains 500 ATK until the end of your opponent's turn.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

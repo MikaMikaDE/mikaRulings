@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●Sending 1 card from your hand to the GY is a cost.\n●This is an Ignition Effect that targets 1 face-up monster your opponent controls.\n●If an effect gives you control of the monster targeted by this effect, the monster's ATK will still become 0 and it won't be able to change its battle position.\n●If the targeted monster is flipped face-down, this effect is not applied.\n●You can't target a monster with 0 ATK with this effect.",
     "Tengu": "\n●Sending 1 card from your hand to the GY is a cost.\n●This is an Ignition Effect that targets 1 face-up monster your opponent controls.\n●If an effect gives you control of the monster targeted by this effect, the monster's ATK will still become 0 and it will not be able to change its battle position.\n●If the targeted monster is flipped face-down, this effect is not applied.\n●You cannot target a monster with 0 ATK with this effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Sending 1 card from your hand to the GY is a cost.\\n2. This is an Ignition Effect that targets 1 face-up monster your opponent controls.\\n3. If an effect gives you control of the monster targeted by this effect, the monster's ATK will still become 0 and it will not be able to change its battle position.\\n4. If the targeted monster is flipped face-down, this effect is not applied.\\n5. You cannot target a monster with 0 ATK with this effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

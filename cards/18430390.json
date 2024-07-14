@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "●This effect can't be chained to the activation of the effect of an already face-up Continuous Trap Card, like Ultimate Offering. It can only be chained when a Trap Card itself is activated (ie., flipped face-up).\n●This effect is a Spell Speed 2 Quick Effect. Therefore, it can't be chained to the activation of a Counter Trap Card.\n●This effect can be activated multiple times in the same chain, but only once for each Trap Card activated.",
     "Tengu": "\n●This effect cannot be chained to the activation of the effect of an already face-up Continuous Trap Card, like Ultimate Offering. It can only be chained when a Trap Card itself is activated (ie., flipped face-up).\n●This effect is a Spell Speed 2 Quick Effect. Therefore, it cannot be chained to the activation of a Counter Trap Card.\n●This effect can be activated multiple times in the same chain, but only once for each Trap Card activated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect cannot be chained to the activation of the effect of an already face-up Continuous Trap Card, like \"Ultimate Offering\". It can only be chained when a Trap Card itself is activated (i.e., flipped face-up).\\n2. This effect is a Spell Speed 2 Quick Effect. Therefore, it cannot be chained to the activation of a Counter Trap Card.\\n3. This effect can be activated multiple times in the same chain, but only once for each Trap Card activated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● This card's Summon does not start a chain, so \"Thunder King Rai-Oh\" can negate it.\n● If \"D.D. Crow\" is chained to the ②, the Token is still Summoned.",
     "Tengu": "● This card's Summon does not start a chain, so \"Thunder King Rai-Oh\" can negate it.\n● If \"D.D. Crow\" is chained to the ②, the Token is still Summoned.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect that Special Summons a Token is a Trigger Effect that activates in the GY.\\n2. The effect of \"Zeta Reticulant\" to Special Summon itself from your hand has no effect type. Like \"Cyber Dragon\", it is merely a procedure to Special Summon.\\n3. If \"Zeta Reticulant\" activates in the GY, to Summon an \"Eva Token\", and \"Disappear\" is chained, so that \"Zeta Reticulant\" is no longer in the GY when its effect resolves, the \"Eva Token\" is still Summoned.\\n4. \"Zeta Reticulant\" will Summon an \"Eva Token\" even if your opponent's monster is removed from play face-down.\\n5. If your Monster Card Zones are full and your opponent's monster is removed from play, the effect of \"Zeta Reticulant\" activates but its effect is not applied."
   },
   "PSCT": {
+    "Edison": "① You can Special Summon this card (from your hand) by tributing 1 \"Eva Token\".\n② While this card is in your GY, if a monster(s) your opponent controls is banished: Special Summon 1 \"Eva Token\" \n(Fiend/DARK/Lv2/ATK 500/DEF 500).",
     "Tengu": "① You can Special Summon this card (from your hand) by tributing 1 \"Eva Token\".\n② While this card is in your GY, if a monster(s) your opponent controls is banished: Special Summon 1 \"Eva Token\" \n(Fiend/DARK/Lv2/ATK 500/DEF 500).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

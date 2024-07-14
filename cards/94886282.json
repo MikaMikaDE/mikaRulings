@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● You can't activate this card unless you have at least 4 cards in your Deck.\n●  You can't activate this card unless there is at least 1 level 4 or lower \"Lightsworn\" monster in your Deck. If the last possible search is sent to the GY as part of this card's cost, all 3 cards remain in the GY, and no card is searched.",
     "Tengu": "● You can't activate this card unless you have at least 4 cards in your Deck.\n●  You can't activate this card unless there is at least 1 level 4 or lower \"Lightsworn\" monster in your Deck. If the last possible search is sent to the GY as part of this card's cost, all 3 cards remain in the GY, and no card is searched.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Sending 3 cards from the top of your Deck to the GY is a cost.\\n2. If the last Level 4 or lower \"Lightsworn\" monster remaining in your Deck is sent to the GY when you activate \"Charge of the Light Brigade\", when it resolves, briefly show your Deck to your opponent to verify that no Level 4 or lower \"Lightsworn\" monsters remain in your Deck."
   },
   "PSCT": {
+    "Edison": "① Send the top 3 cards of your Deck to the GY; add 1 Level 4 or lower \"Lightsworn\" monster from your Deck to your hand.",
     "Tengu": "① Send the top 3 cards of your Deck to the GY; \nadd 1 Level 4 or lower \"Lightsworn\" monster from your Deck to your hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

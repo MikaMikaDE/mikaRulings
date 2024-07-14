@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● If this card is Summoned as chain link 2 or higher, its effect misses its timing, and can't activate.\nYou can read more about Timing here:\nhttps://edisonformat.net/rules/compendium/missing-the-timing",
     "Tengu": "● If this card is Summoned as chain link 2 or higher, its effect misses its timing, and cannot activate.\nYou can read more about Timing here:\nhttps://edisonformat.net/rules/compendium/missing-the-timing",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① When this card is Summoned: You can send 1 DARK monster from your Deck to the GY.",
     "Tengu": "① If this card is Summoned: You can send 1 DARK from your Deck to the GY.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

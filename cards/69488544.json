@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to Special Summon 1 Gemini monster from the GY targets.\\n2. Sending an Equip Card you control to the GY is a cost.\\n3. You can send a Trap Card like \"Kunai with Chain\" that is equipped to a monster as the cost to activate the effect to negate a Spell or Trap Card. The effect to negate a Spell or Trap Card does not target.\\n4. You can activate the effect to negate a Spell or Trap Card more than once in the same Chain.\\n5. You cannot activate the effect to Special Summon a Gemini monster during the Damage Step.\\n6. You can activate the effect to negate a Spell or Trap Card during the Damage Step."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

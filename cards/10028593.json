@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect is mandatory and can activate during the Damage Step.\\n2. This effect does not activate if \"Reborn Tengu\" is returned from the field to the Deck.\\n3. This effect does not activate if \"Reborn Tengu\" is removed from the field while face-down.\\n4. [FORUM] If \"Reborn Tengu\" is Tributed for a Tribute Summon, it will not activate in the middle of the Summon. It must wait until after the Summon is either successful or negated before they can activate. This means the Summon can be negated by effects such as \"Solemn Warning\"."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

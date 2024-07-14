@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Superancient Deepsea King Coelacanth\" that negates card effects when it is targeted is a Quick Effect. This effect can be activated multiple times during the same turn and it can be activated during the Damage Step.\\n2. When the effect of \"Exiled Force\" targets \"Superancient Deepsea King Coelacanth\", the effect of \"Exiled Force\" can be negated even though it is now in the GY"
   },
   "PSCT": {
+    "Edison": "① Once per turn: You can discard 1 card; Special Summon as many Level 4 or lower Fish as possible from your Deck (they can't attack, also negate their effects).\n② If this card is targeted by a card effect (Quick): You can Tribute 1 other Fish; negate the activation, and if you do, destroy that card.",
     "Tengu": "① Once per turn: You can discard 1 card; Special Summon as many Level 4 or lower Fish as possible from your Deck (they can't attack, also negate their effects).\n② If this card is targeted by a card effect (Quick): You can Tribute 1 other Fish; \nnegate the activation, and if you do, destroy that card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

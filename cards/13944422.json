@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "●For the first effect (gaining Life Points), it is the controller of Granadora who gains. For the second effect (losing Life Points), it is the owner of Granadora who takes damage.\n●When your face-down Granadora is destroyed, you take 2000 damage.\n●When your Granadora is destroyed and sent to the GY, you can activate Barrel Behind the Door against the damage.\n●When Granadora is destroyed and sent to the GY from the field, your hand, or from your Deck, its effect is activated.\n●When Granadora's Summon is negated and it is destroyed, by Solemn Judgment or Horn of Heaven, the owner of Granadora takes the damage.",
     "Tengu": "\n●For the first effect (gaining Life Points), it is the controller of Granadora who gains. For the second effect (losing Life Points), it is the owner of Granadora who takes damage.\n●When your face-down Granadora is destroyed, you take 2000 damage.\n●When your Granadora is destroyed and sent to the GY, you can activate Barrel Behind the Door against the damage.\n●When Granadora is destroyed and sent to the GY from the field, your hand, or from your Deck, its effect is activated.\n●When Granadora's Summon is negated and it is destroyed, by Solemn Judgment or Horn of Heaven, the owner of Granadora takes the damage.",
     "Goat": "●For the first effect (gaining LP), it is the controller of Granadora who gains. For the second effect (losing LP), it is the owner of Granadora who takes damage.\n●When your face-down Granadora is destroyed, you take 2000 damage.\n●When your Granadora is destroyed and sent to the GY, you can activate Barrel Behind the Door against the damage.\n●When Granadora is destroyed and sent to the GY from the field, your hand, or from your Deck, its effect is activated.\n●When Granadora's Summon is negated and it is destroyed, by Solemn Judgment or Horn of Heaven, the owner of Granadora takes the damage.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. For the first effect (gaining Life Points), it is the controller of \"Granadora\" who gains. For the second effect (losing Life Points), it is the owner of \"Granadora\" who takes damage.\\n2. When your face-down \"Granadora\" is destroyed, you take 2000 damage.\\n3. When your \"Granadora\" is destroyed and sent to the GY, you can activate \"Barrel Behind the Door\" against the damage.\\n4. When \"Granadora\" is destroyed and sent to the GY from the field, your hand, or from your Deck, its effect is activated.\\n5. When the Summon of \"Granadora\" is negated and it is destroyed, by \"Solemn Judgment\" or \"Horn of Heaven\", the owner of \"Granadora\" takes the damage."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

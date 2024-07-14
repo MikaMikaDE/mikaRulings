@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "Select 1 face-up Machine-Type monster you control with 500 or less ATK. You can Special Summon up to 2 cards with the same name from your Deck.\n●This effect targets 1 face-up Machine-Type monster you control with 500 or less ATK.\n●A monster with 500 or less ATk whose Type is Machine by DNA Surgery can be targeted.\n●If the target is flipped face-down / leaves the field, you still Special Summon from the Deck.\n●If the target has >500 ATK when this effect resolves, you still Special Summon from the Deck.\n●If the target is not Machine-Type when this effect resolves, you still Special Summon from the Deck.\n●You can't target a Machine-Type monster if no cards in your Deck share its name (ex: Tokens).\n●VS. Proto-Cyber Dragon: You Special Summon up to 2 Cyber Dragons from your Deck while its effect applies, but you can only Special Summon Proto-Cyber Dragon if its effect is negated by (Skill Drain).",
     "Tengu": "Select 1 face-up Machine-Type monster you control with 500 or less ATK. You can Special Summon up to 2 cards with the same name from your Deck.\n●This effect targets 1 face-up Machine-Type monster you control with 500 or less ATK.\n●A monster with 500 or less ATk whose Type is Machine by DNA Surgery can be targeted.\n●If the target is flipped face-down / leaves the field, you still Special Summon from the Deck.\n●If the target has >500 ATK when this effect resolves, you still Special Summon from the Deck.\n●If the target is not Machine-Type when this effect resolves, you still Special Summon from the Deck.\n●You cannot target a Machine-Type monster if no cards in your Deck share its name (ex: Tokens).\n●VS. Proto-Cyber Dragon: You Special Summon up to 2 Cyber Dragons from your Deck while its effect applies, but you can only Special Summon Proto-Cyber Dragon if its effect is negated by (Skill Drain).",
     "Goat": "●If a monster on the field, with an ATK of 500 or less, is changed to Machine with DNA Surgery, you can use Machine Duplication to Special Summon up to 2 copies of it from your Deck.\n●The Machine monster is chosen at activation of this card, so if the opponent chains Ring of Destruction to destroy the chosen monster, up to 2 copies of that card can still be Special Summoned.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If a monster on the field, with an ATK of 500 or less, is changed to Machine-Type with \"DNA Surgery\", you can use \"Machine Duplication\" to Special Summon up to 2 copies of it from your Deck.\\n\\n(Note: The following ruling is outdated given the current card text.)\\n2. The Machine-Type monster is chosen at activation of this card, so if the opponent chains \"Ring of Destruction\" to destroy the chosen monster, up to 2 copies of that card can still be Special Summoned."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

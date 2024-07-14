@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●If you have multiple copies of Dark Snake Syndrome, the effects are cumulative.\n●Both players take damage during the Standby Phase of the controller of the Dark Snake Syndrome.\n●If Imperial Order is active, you still increase the damage from turn to turn for Dark Snake Syndrome even though no damage is dealt.",
     "Tengu": "\n●If you have multiple copies of Dark Snake Syndrome, the effects are cumulative.\n●Both players take damage during the Standby Phase of the controller of the Dark Snake Syndrome.\n●If Imperial Order is active, you still increase the damage from turn to turn for Dark Snake Syndrome even though no damage is dealt.",
     "Goat": "●If you have multiple copies of Dark Snake Syndrome, the effects are cumulative.\n●Both players take damage during the SP of the controller of the Dark Snake Syndrome.\n●If Imperial Order is applying, you still increase the damage from turn to turn for Dark Snake Syndrome even though no damage is dealt.\n●Q: When is the damage for “Dark Snake Syndrome” applied? \nA: If the card is activated in Player A’s MP. During Player A’s next SP, 200 points of Damage is inflicted to BOTH players. During Player A’s next SP, 400 points of Damage is inflicted to BOTH players. And so on, and so forth... The “your” refers to the controller of the “Dark Snake Syndrome” Spell Card. \n●Q: Does the Phase count continue for “Dark Snake Syndrome” while “Imperial Order” is applying? \nA: If “Imperial Order” is applying, you still increase the Damage from turn to turn even though no Damage is being done. If “Imperial Order” leaves play, “Dark Snake Syndrome” will pick up doing Damage where it is in the count.  01/07/04",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If you have multiple copies of \"Dark Snake Syndrome\", the effects are cumulative.\\n2. Both players take damage during the Standby Phase of the controller of the \"Dark Snake Syndrome\".\\n3. If \"Imperial Order\" is active, you still increase the damage from turn to turn for \"Dark Snake Syndrome\" even though no damage is dealt."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

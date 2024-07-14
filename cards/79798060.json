@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The effect to destroy all cards on the field will activate even during the Damage Step.\n●If this face-down card is attacked while another “Earthbound Immortal” is face-up on the field it will be destroyed, but since it was not destroyed by a card effect it won't destroy all cards on the field.\n●If “Earthbound Immortal Ccarayhua” is destroyed while in your hand/Deck, its effect will activate. ",
     "Tengu": "\n●The effect to destroy all cards on the field will activate even during the Damage Step.\n●If this face-down card is attacked while another “Earthbound Immortal” is face-up on the field it will be destroyed, but since it was not destroyed by a card effect it will not destroy all cards on the field.\n●If “Earthbound Immortal Ccarayhua” is destroyed while in your hand or Deck, its effect will activate. ",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to destroy all cards on the field will activate even during the Damage Step.\\n2. If this face-down card is attacked while another \"Earthbound Immortal\" is face-up on the field it will be destroyed, but since it was not destroyed by a card effect it will not destroy all cards on the field.\\n3. If \"Earthbound Immortal Ccarayhua\" is destroyed while in your hand or Deck, its effect will activate."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

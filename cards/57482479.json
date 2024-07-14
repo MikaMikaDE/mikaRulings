@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●If the ATK of Luminous Soldier is reduced to 0 because of the effect of Fairy Box the ATK will increase by 500 points in the Damage Step if it is battling with a DARK monster.\n●If the attack target of Luminous Soldier is redirected to a DARK monster by the effect of Dreamsprite the ATK of Luminous Soldier will then increase by 500 points.",
     "Tengu": "\n●If the ATK of Luminous Soldier is reduced to 0 because of the effect of Fairy Box the ATK will increase by 500 points in the Damage Step if it is battling with a DARK monster.\n●If the attack target of Luminous Soldier is redirected to a DARK monster by the effect of Dreamsprite the ATK of Luminous Soldier will then increase by 500 points.",
     "Goat": "●If the ATK of Luminous Soldier is reduced to 0 because of the effect of Fairy Box the ATK will increase by 500 points in the Damage Step if it is battling with a DARK monster.\n●If the attack target of Luminous Soldier is redirected to a DARK monster by the effect of Dreamsprite the ATK of Luminous Soldier will then increase by 500 points.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If the ATK of \"Luminous Soldier\" is reduced to 0 because of the effect of \"Fairy Box\" the ATK will increase by 500 points in the Damage Step if it is battling with a DARK monster.\\n2. If the attack target of \"Luminous Soldier\" is redirected to a DARK monster by the effect of \"Dreamsprite\" the ATK of \"Luminous Soldier\" will then increase by 500 points."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

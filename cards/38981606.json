@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●You can destroy 1 “Desert Protector” to save multiple Insects that would be destroyed at the same time, such as with “Nobleman-Eater Bug”.\n●You can only use 1 “Desert Protector” at a time; if 1 or more Insects are about to be destroyed, you can only destroy 1 “Desert Protector”.\n●If “Desert Protector” and your Insect(s) would be destroyed at the same time, you can't use “Desert Protector” to save the Insect(s). ",
     "Tengu": "\n●You can destroy 1 “Desert Protector” to save multiple Insects that would be destroyed at the same time, such as with “Nobleman-Eater Bug”.\n●You can only use 1 “Desert Protector” at a time; if 1 or more Insects are about to be destroyed, you can only destroy 1 “Desert Protector”.\n●If “Desert Protector” and your Insect(s) would be destroyed at the same time, you cannot use “Desert Protector” to save the Insect(s). ",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can destroy 1 \"Desert Protector\" to save multiple Insects that would be destroyed at the same time, such as with \"Nobleman-Eater Bug\".\\n2. You can only use 1 \"Desert Protector\" at a time; if 1 or more Insects are about to be destroyed, you can only destroy 1 \"Desert Protector\".\\n3. If \"Desert Protector\" and your Insect(s) would be destroyed at the same time, you cannot use \"Desert Protector\" to save the Insect(s)."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

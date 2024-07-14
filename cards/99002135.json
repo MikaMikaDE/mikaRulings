@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Returning 1 “Iron Core of Koa’ki Meiru” to the Deck is a cost to activate “Urgent Synthesis.” The effect does not target. You can't activate “Urgent Synthesis” while “Transmigration Break” is active, as you can't pay the cost to return “Iron Core of Koa’ki Meiru” to the Deck.",
     "Tengu": "\n●Returning 1 “Iron Core of Koa’ki Meiru” to the Deck is a cost to activate “Urgent Synthesis.” The effect does not target. You cannot activate “Urgent Synthesis” while “Transmigration Break” is active, as you cannot pay the cost to return “Iron Core of Koa’ki Meiru” to the Deck.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Returning 1 \"Iron Core of Koa'ki Meiru\" to the Deck is a cost to activate \"Urgent Synthesis\". The effect does not target.\\n2. You cannot activate \"Urgent Synthesis\" while \"Transmigration Break\" is active, as you cannot pay the cost to return \"Iron Core of Koa'ki Meiru\" to the Deck."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

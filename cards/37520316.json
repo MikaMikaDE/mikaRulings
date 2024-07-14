@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● Even if the monster is flipped face-down, this card will take control of it, and control will return in the End Phase.\n● Even if the monster is flipped face-down, it still can't be tributed nor declare an attack.",
     "Tengu": "● Even if the monster is flipped face-down, this card will take control of it, and control will return in the End Phase.\n● Even if the monster is flipped face-down, it still can't be tributed nor declare an attack.",
     "Goat": "●The effect of “Mind Control” that prevents the targeted monster from attacking or being Tributed lasts until the End Phase of the turn ”Mind Control” was activated, even if the monster is Set before the End Phase. If the monster targeted with this card is Set, it will still return to the original owner's side of the field during the End Phase.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The effect of \"Mind Control\" that prevents the targeted monster from attacking or being Tributed lasts until the End Phase of the turn \"Mind Control\" was activated, even if the monster is flipped face-down before the End Phase. If the monster targeted with this card is flipped face-down, it will still return to the original owner's side of the field during the End Phase.\\n2. If you take control of your opponent's monster with \"Mind Control\", you can use it as a Synchro Material Monster for a Synchro Summon."
   },
   "PSCT": {
+    "Edison": "① Target 1 monster your opponent controls; take control of that target until the End Phase, but it can't declare an attack or be Tributed.",
     "Tengu": "① Target 1 monster your opponent controls; \ntake control of that target until the End Phase, but it can't declare an attack or be Tributed.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

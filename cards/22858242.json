@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Sending a monster to the GY is a cost. You can send a face-down monster.\\n2. The effect that negates an attack targets the attacking monster."
   },
   "PSCT": {
+    "Edison": "1 DARK Tuner + 1 non-Tuner Beast\n① While this card is attacking, your opponent can't activate Spell/Trap Cards until the end of the Damage Step. \n② If an opponent's monster declares an attack: You can target that monster, then send 1 monster from your hand/field to the GY; negate that attack.",
     "Tengu": "1 DARK Tuner + 1 non-Tuner Beast\n① While this card is attacking, your opponent can't activate Spell/Trap Cards until the end of the Damage Step. \n② If an opponent's monster declares an attack: You can target that monster, then send 1 monster from your hand/field to the GY;\nnegate that attack.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

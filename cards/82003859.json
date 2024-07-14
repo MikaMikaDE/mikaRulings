@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Paying Life Points for Toll is a cost, so if a player can't pay the 500 Life Points, they can't declare an attack. If there are two of this card on the field, a player must pay 1000 Life Points per monster to attack.",
     "Tengu": "\n●Paying Life Points for Toll is a cost, so if a player cannot pay the 500 Life Points, they cannot declare an attack. If there are two of this card on the field, a player must pay 1000 Life Points per monster to attack.",
     "Goat": "●Paying LP for Toll is a cost, so if a player cannot pay the 500 LP, they cannot declare an attack. If there are two of this card on the field, a player must pay 1000 LP per monster to attack.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Paying Life Points for \"Toll\" is a cost, so if a player cannot pay the 500 Life Points, they cannot declare an attack. If there are two of this card on the field, a player must pay 1000 Life Points per monster to attack."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

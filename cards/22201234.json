@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Lightsworn Barrier\" targets your opponent's attacking monster.\\n2. Sending two cards from the top of your Deck to the GY is a cost."
   },
   "PSCT": {
+    "Edison": "① If your \"Lightsworn\" monster is targeted for an attack: You can send the top 2 cards of your Deck to the GY, then target the attacking monster; negate the attack.",
     "Tengu": "① If your \"Lightsworn\" monster is targeted for an attack: You can send the top 2 cards of your Deck to the GY, then target the attacking monster; \nnegate the attack.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

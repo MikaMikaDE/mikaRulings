@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters",
     "Tengu": "(1) Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your Dark Blade as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. (2) While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 900 points, and you can Tribute this card to allow the equipped monster to attack your opponent's Life Points directly this turn. (C) (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)\n●While Mask of Restrict is active, you cannot Tribute Kiryu because Mask of Restrict prevents all Tributing, including Tributing Equip Spell Cards.\n●If you Tribute Kiryu while it is equipped to Dark Blade, you cannot then use Super Rejuvenation and count Kiryu as a Dragon-Type monster.\n●If you Tribute Kiryu while equipped to Dark Blade, Dark Blade no longer gets the ATK increase from Kiryu as it is no longer equipped with it.",
     "Goat": "●While Mask of Restrict is applying, you cannot Tribute Kiryu because Mask of Restrict prevents all Tributing, including Tributing Equip Spell Cards.\n●If you Tribute Kiryu while it is equipped to Dark Blade, you cannot then use Super Rejuvenation and count Kiryu as a Dragon monster.\n●If you Tribute Kiryu while equipped to Dark Blade, Dark Blade no longer gets the ATK increase from Kiryu as it is no longer equipped with it.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. While \"Mask of Restrict\" is active, you cannot Tribute \"Kiryu\" because \"Mask of Restrict\" prevents all Tributing, including Tributing Equip Spell Cards.\\n2. If you Tribute \"Kiryu\" while it is equipped to \"Dark Blade\", you cannot then use \"Super Rejuvenation\" and count \"Kiryu\" as a Dragon-Type monster.\\n3. If you Tribute \"Kiryu\" while equipped to \"Dark Blade\", \"Dark Blade\" no longer gets the ATK increase from \"Kiryu\" as it is no longer equipped with it."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

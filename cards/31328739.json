@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Psi-Impulse can't be activated if your opponent has less than 3 cards remaining in their Deck or they have no cards in their hand.\n●If an effect is chained that results in your opponent having 0 cards in their hand, Psi-Impule's effect disappears.",
     "Tengu": "\n●Psi-Impulse cannot be activated if your opponent has less than 3 cards remaining in their Deck or they have no cards in their hand.\n●If an effect is chained that results in your opponent having 0 cards in their hand, Psi-Impule's effect disappears.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Psi-Impulse\" cannot be activated if your opponent has less than 3 cards remaining in their Deck or they have no cards in their hand.\\n2. If an effect is chained that results in your opponent having 0 cards in their hand, \"Psi-Impule's\" effect disappears."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

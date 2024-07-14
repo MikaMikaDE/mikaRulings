@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "Select 1 face-up monster your opponent controls. Special Summon 1 monster from your hand that has the same Level as the selected monster.\n●For the effect of “A Rival Appears!”, refer to the levels of the monster on the field and the monster in the hand at the time “A Rival Appears!” resolves (for purposes of “Cost Down”, “Level Conversion Lab”, “Mystical Space Typhoon” in a chain destroying “Demotion”, etc.)\n●If the opponent’s monster is face-down or not on the field when “A Rival Appears!” resolves, then its effect disappears.\n●If you don't have a monster of the same level as the target, you can't activate “A Rival Appears!”",
     "Tengu": "Select 1 face-up monster your opponent controls. Special Summon 1 monster from your hand that has the same Level as the selected monster.\n●For the effect of “A Rival Appears!”, refer to the levels of the monster on the field and the monster in the hand at the time “A Rival Appears!” resolves (for purposes of “Cost Down”, “Level Conversion Lab”, “Mystical Space Typhoon” in a chain destroying “Demotion”, etc.)\n●If the opponent’s monster is face-down or not on the field when “A Rival Appears!” resolves, then its effect disappears.\n●If you do not have a monster of the same level as the target, you cannot activate “A Rival Appears!”",
     "Goat": "●For the effect of “A Rival Appears!”, refer to the Lvs of the monster on the field and the monster in the hand at the time “A Rival Appears!” resolves (for purposes of “Cost Down”, “Lv Conversion Lab”, “Mystical Space Typhoon” in a chain destroying “Demotion”, etc.)\n●If the opponent’s monster is face-down or not on the field when “A Rival Appears!” resolves, then its effect disappears.\n●If you do not have a monster of the same level as the target, you cannot activate “A Rival Appears!”",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. For the effect of \"A Rival Appears!\", refer to the levels of the monster on the field and the monster in the hand at the time \"A Rival Appears!\" resolves (for purposes of \"Cost Down\", \"Level Conversion Lab\", \"Mystical Space Typhoon\" in a chain destroying \"Demotion\", etc.)\\n2. If the opponent's monster is face-down or not on the field when \"A Rival Appears!\" resolves, then its effect disappears.\\n3. If you do not have a monster of the same level as the target, you cannot activate \"A Rival Appears!\""
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

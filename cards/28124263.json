@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Cameran can't be activated, because the While in Attack Position and While in Defense Position effects are negated. If Morphtronic Cameran is destroyed by battle while in Attack Position, its effect won't activate because it was destroyed by battle while its While in Attack Position effect was being negated.",
     "Tengu": "\n●While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Cameran cannot be activated, because the While in Attack Position and While in Defense Position effects are negated. If Morphtronic Cameran is destroyed by battle while in Attack Position, its effect will not activate because it was destroyed by battle while its While in Attack Position effect was being negated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. While \"Skill Drain\" is active, the Attack Position and Defense Position effects of \"Morphtronic Cameran\" cannot be activated, because the \"While in Attack Position\" and \"While in Defense Position\" effects are negated. If \"Morphtronic Cameran\" is destroyed by battle while in Attack Position, its effect will not activate because it was destroyed by battle while its \"While in Attack Position\" effect was being negated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

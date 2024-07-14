@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Paying 800 Life Points and Tributing 1 other Psychic-Type monster is a cost.\\n2. You can activate this effect multiple times during the same turn if you can continue to pay the cost.\\n3. The effect of \"Mind Master\" cannot be activated if you do not have any Level 4 or lower Psychic-Type Monsters in your Deck that you can Special Summon."
   },
   "PSCT": {
+    "Edison": "① You can pay 800 LP, then and Tribute 1 Psychic (except \"Mind Master\"); Special Summon 1 Level 4 or lower Psychic from your Deck in Attack Position.",
     "Tengu": "① You can pay 800 LP, then and Tribute 1 Psychic (except \"Mind Master\"); \nSpecial Summon 1 Level 4 or lower Psychic from your Deck in Attack Position.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

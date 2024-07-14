@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You must reveal the card randomly selected by your opponent (even if it is not an Elemental Hero monster).\n●This card is activated at the end of the Damage Step, when monsters are sent to the GY.\n●You can activate this card even if you have no Elemental Hero monsters in your hand.\n●You can activate this card if you your opponent controls no monsters, but if the card they select is an Elemental Hero monster you can't Special Summon it because you can't destroy 1 of their monsters.\n●You can't activate this card if you can't Special Summon a monster due to the effect of Scapegoat, etc.\n●If your opponent selects Elemental Hero Neo Bubbleman, etc. that Cannot be Special Summoned, you can still destroy 1 monster they control, but the selected Elemental Hero monster is destroyed.",
     "Tengu": "\n●You must reveal the card randomly selected by your opponent (even if it is not an Elemental Hero monster).\n●This card is activated at the end of the Damage Step, when monsters are sent to the GY.\n●You can activate this card even if you have no Elemental Hero monsters in your hand.\n●You can activate this card if you your opponent controls no monsters, but if the card they select is an Elemental Hero monster you cannot Special Summon it because you can't destroy 1 of their monsters.\n●You cannot activate this card if you cannot Special Summon a monster due to the effect of Scapegoat, etc.\n●If your opponent selects Elemental Hero Neo Bubbleman, etc. that cannot be Special Summoned, you can still destroy 1 monster they control, but the selected Elemental Hero monster is destroyed.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You must reveal the card randomly selected by your opponent (even if it is not an 'Elemental HERO' monster).\\n2. This card is activated at the end of the Damage Step, when monsters are sent to the GY.\\n3. You can activate this card even if you have no 'Elemental HERO' monsters in your hand.\\n4. You can activate this card if you your opponent controls no monsters, but if the card they select is an 'Elemental HERO' monster you cannot Special Summon it because you can't destroy 1 of their monsters.\\n5. You cannot activate this card if you cannot Special Summon a monster due to the effect of \"Scapegoat\", etc.\\n6. If your opponent selects \"Elemental HERO Neo Bubbleman\", etc. that cannot be Special Summoned, you can still destroy 1 monster they control, but the selected 'Elemental HERO' monster is destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

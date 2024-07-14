@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●Emissary of the Oasis' last sentence applies even when your opponent attacks with a Level 3 or lower Normal Monster; the Battle Damage to you becomes zero.\n●If you have Emissary of the Oasis with Raregold Armor, and a Level 3 or lower Normal Monster, your opponent can't attack.\n●A Monster Token is a Normal Monster, but a Ritual Monster without an effect is not a Normal Monster.",
     "Tengu": "\n●Emissary of the Oasis' last sentence applies even when your opponent attacks with a Level 3 or lower Normal Monster; the Battle Damage to you becomes zero.\n●If you have Emissary of the Oasis with Raregold Armor, and a Level 3 or lower Normal Monster, your opponent cannot attack.\n●A Monster Token is a Normal Monster, but a Ritual Monster without an effect is not a Normal Monster.",
     "Goat": "●Emissary of the Oasis' last sentence applies even when your opponent attacks with a Lv 3 or lower Normal Monster; the Battle Damage to you becomes zero.\n●If you have Emissary of the Oasis with Raregold Armor, and a Lv 3 or lower Normal Monster, your opponent cannot attack.\nA Monster Token is a Normal Monster, but a Ritual Monster without an effect is not a Normal Monster.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The last sentence of \"Emissary of the Oasis\" applies even when your opponent attacks with a Level 3 or lower Normal Monster; the Battle Damage to you becomes zero.\\n2. If you have \"Emissary of the Oasis\" with \"Raregold Armor\", and a Level 3 or lower Normal Monster, your opponent cannot attack.\\n3. A Monster Token is a Normal Monster, but a Ritual Monster without an effect is not a Normal Monster."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● You can activate this effect at any time, except during the Damage Step, Main Phase 2, or the End Phase.\n● If you activate this in response to an Attack, or during the Battle Step when a monster is attacking, that current attack is negated.",
     "Tengu": "● You can activate this effect at any time, except during the Damage Step, Main Phase 2, or the End Phase.\n● If you activate this in response to an Attack, or during the Battle Step when a monster is attacking, that current attack is negated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Necro Gardna\" is a Quick Effect.\\n2. You can activate this card's effect at any time during your opponent's turn, any time before the end of their Battle Phase. It cannot be activated during the Damage Step.\\n3. You can activate the effect of \"Necro Gardna\" before your opponent declares any attacks. If you do, the first attack your opponent makes will be negated.\\n4. The effect of \"Necro Gardna\" does not target."
   },
   "PSCT": {
+    "Edison": "① During your opponent's turn (Quick): You can banish this card from your GY; negate the next attack this turn from a monster your opponent controls.",
     "Tengu": "① During your opponent's turn (Quick): You can banish this card from your GY; \nnegate the next attack this turn from a monster your opponent controls.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●The Unclassified Effect applies in the hand, it  doesn't start a Chain.\n●You can still Tribute Summon this card while you control a face-up Psychic-Type monster.\n●The Trigger Effect is mandatory, it activates & resolves on the field.\n●This effect activates in Substep 7 - End of the Damage Step.\n●Taking effect damage is mandatory, Special Summoning 1 Monster from your GY is optional.\n●This effect does not target a monster in your GY, it is not negated by Necrovalley.\n●If you destroy a monster with 0 ATK, you take no damage and can't Special Summon a monster.\n●This effect resolves sequentially: first you take damage, then you Special Summon 1 monster.\n●The damage taken is half of the monster’s original (printed) ATK while in the GY.",
     "Tengu": "(U) If you control a face-up Psychic-Type monster, you can Normal Summon this card without Tributing. (1) If this card destroys an opponent's monster by battle, you take damage equal to half the destroyed monster's ATK. Then, you can Special Summon 1 monster from your GY with ATK less than or equal to the damage you took.\n●The (U) Unclassified Effect applies in the hand, it  doesn't start a Chain.\n●You can still Tribute Summon this card while you control a face-up Psychic-Type monster.\n●The (1) Trigger Effect is mandatory, it activates & resolves on the field.\n●This effect activates in Substep 7 - End of the Damage Step.\n●Taking effect damage is mandatory, Special Summoning 1 Monster from your GY is optional.\n●This effect does not target a monster in your GY, it is not negated by Necrovalley.\n●If you destroy a monster with 0 ATK, you take no damage and can't Special Summon a monster.\n●This effect resolves sequentially: first you take damage, then you Special Summon 1 monster.\n●The damage taken is half of the monster’s original (printed) ATK while in the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect activates and resolves at the end of the Damage Step.\\n2. Taking damage and Special Summoning from the GY are both parts of the same Trigger effect.\\n3. This effect does not target.\\n4. If \"Armored Axon Kicker\" destroys a monster with 0 ATK, you take no damage and cannot Special Summon a monster.\\n5. When you resolve the effect of \"Armored Axon Kicker\", you take damage then Special Summon 1 monster. You cannot activate effects that can only be activated when you take damage, such as \"Attack and Receive\".\\n6. The damage taken is half of the monster's original ATK while in the GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

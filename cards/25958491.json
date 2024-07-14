@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Paying 1000 Life Points is a cost to activate the effect."
   },
   "PSCT": {
+    "Edison": "1 LIGHT Tuner + 1 or more non-Tuners\n① While your LP is higher than your opponent's, this card gains ATK equal to the difference.\n② While your LP is lower than your opponent's, this card loses ATK equal to the difference. \n③ When this card is destroyed by battle and sent to the GY: You can pay 1000 LP; Special Summon this card.",
     "Tengu": "1 LIGHT Tuner + 1 or more non-Tuners\n① While your LP is higher than your opponent's, this card gains ATK equal to the difference.\n② While your LP is lower than your opponent's, this card loses ATK equal to the difference. \n③ When this card is destroyed by battle and sent to the GY: You can pay 1000 LP; \nSpecial Summon this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

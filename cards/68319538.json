@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● If 3 cards are returned, you can:\nplace 1 Counter on 3 different monsters, or\nplace 1 Counter on 1 monster and 2 Counters on a different monster, or\nplace all 3 on 1 monster.\n● If a card is not returned to the hand (maybe it was destroyed), no counter is placed for that card.",
     "Tengu": "● If 3 cards are returned, you can:\nplace 1 Counter on 3 different monsters, or\nplace 1 Counter on 1 monster and 2 Counters on a different monster, or\nplace all 3 on 1 monster.\n● If a card is not returned to the hand (maybe it was destroyed), no counter is placed for that card.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effects that destroy 1 card or return cards to the hand are targeted effects. The effect that distributes A-Counters is not a targeted effect.\\n2. The number of A-Counters distributed is based on the number of Spell/Trap Cards actually returned to the hand. If a chained effect destroys a Spell/Trap Card targeted by \"Cosmic Fortress Gol'gar\" before it is returned to the hand, no A-Counter is distributed for that particular Spell/Trap Card."
   },
   "PSCT": {
+    "Edison": "Alien Ammonite\" + 1 or more non-Tuner \"Alien\" monsters\n① Once per turn: You can target any number of face-up Spells/Traps; return them to the hand, and if you do, place A-Counters on monsters on the field, equal to the number returned.\n② Once per turn: You can remove 2 A-Counters from the field, then target 1 card your opponent controls; destroy that target.",
     "Tengu": "Alien Ammonite\" + 1 or more non-Tuner \"Alien\" monsters\n① Once per turn: You can target any number of face-up Spells/Traps;\nreturn them to the hand, and if you do, place A-Counters on monsters on the field, equal to the number returned.\n② You can remove 2 A-Counters from the field, then target 1 card your opponent controls;\ndestroy that target.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

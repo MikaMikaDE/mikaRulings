@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "●This card does NOT target. So it will destroy a Dragon even if Lord of D. is in play, etc.\n●If destroyed by Dark Ruler Ha Des, etc., the effect of Yomi Ship is negated.",
     "Tengu": "\n●This card does NOT target. So it will destroy a Dragon even if Lord of D. is in play, etc.\n●If destroyed by Dark Ruler Ha Des, etc., the effect of Yomi Ship is negated.",
     "Goat": "●This card does NOT target. So it will destroy a Dragon even if Lord of D. is in play, etc.\n●If destroyed by Dark Ruler Ha Des, etc., the effect of Yomi Ship is negated. 02/01/04 \n●Q: If “Lord of D.” is out, and so are Dragon type monsters on their side of the field, and they attack a face-down “Yomi Ship,” does “Yomi Ship” still destroy the Dragon? \nA: Yes, “Yomi Ship” does not designate a target. ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This card does NOT target. So it will destroy a Dragon even if \"Lord of D.\" is in play, etc.\\n2. If destroyed by \"Dark Ruler Ha Des\", etc., the effect of \"Yomi Ship\" is negated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

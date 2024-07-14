@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If the number of Attack Position monsters becomes 2 or less due to an effect chained to this card, all Attack Position monsters your opponent controls are still destroyed when this card resolves.",
     "Tengu": "\n●If the number of face-up Attack Position monsters becomes 2 or less due to an effect chained to this card, all face-up Attack Position monsters your opponent controls are still destroyed when this card resolves.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If the number of face-up Attack Position monsters becomes 2 or less due to an effect chained to this card, all face-up Attack Position monsters your opponent controls are still destroyed when this card resolves."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

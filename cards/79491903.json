@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●This effect activates even if “Reptilianne Naga” is destroyed during the Damage Step. If “Reptilianne Naga” is in Attack Position, the effect to change it to Attack Position does not activate. The effect to change a monster’s ATK to 0 applies as long as that monster is face-up on the field. ",
     "Tengu": "\n●This effect activates even if “Reptilianne Naga” is destroyed during the Damage Step. If “Reptilianne Naga” is in face-up Attack Position, the effect to change it to Attack Position does not activate. The effect to change a monster’s ATK to 0 applies as long as that monster is face-up on the field. ",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect activates even if \"Reptilianne Naga\" is destroyed during the Damage Step.\\n\\n(For ruling #1, Naga’s effect to change a monster’s ATK to 0 activates in the End Step, so it must be face-up at that time. Source: j-wiki.)\\n2. If \"Reptilianne Naga\" is in face-up Attack Position, the effect to change it to Attack Position does not activate.\\n3. The effect to change a monster's ATK to 0 applies as long as that monster is face-up on the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

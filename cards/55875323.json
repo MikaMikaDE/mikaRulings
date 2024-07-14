@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●If the non-Zombie-Type monster is removed from the field or flipped face-down, it can attack in the following turn.",
     "Tengu": "\n●If the non-Zombie-Type monster is removed from the field or flipped face-down, it can attack in the following turn.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If the non-Zombie-Type monster is removed from the field or flipped face-down, it can attack in the following turn."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

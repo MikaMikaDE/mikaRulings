@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The first effect is used during your Main Phase, starts a Chain, and targets your opponent's face-up monster.\\n2. Removing from play 1 'Junk' monster is a cost.\\n3. You can target a monster with 0 ATK.\\n4. The second effect activates at the start of the Damage Step before flipping face-down monsters face-up, starts a Chain, and does not target.\\n5. If \"Junk Berserker\" attacks a face-down monster, that monster is destroyed by the effect of \"Junk Berserker\" without being flipped face-up."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●When Helping Robo For Combat destroys a monster in battle, you resolve the effect of Helping Robo for Combat before the destroyed monster is sent to the GY.",
     "Tengu": "\n●When Helping Robo For Combat destroys a monster in battle, you resolve the effect of Helping Robo for Combat before the destroyed monster is sent to the GY.",
     "Goat": "●When Helping Robo For Combat destroys a monster in battle, you resolve the effect of Helping Robo for Combat before the destroyed monster is sent to the GY.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. When \"Helping Robo For Combat\" destroys a monster in battle, you resolve the effect of \"Helping Robo for Combat\" before the destroyed monster is sent to the GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

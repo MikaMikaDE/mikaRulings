@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● This effect can be activated at any point in the Damage Step, up to and including Substep 4 \"During Damage Calculation\".\n● If you say \"Damage Step?\", and activate this effect, you have activated it at the Start of the Damage Step (or the earliest legal substep), not During Damage Calculation.",
     "Tengu": "● This effect can be activated at any point in the Damage Step, even \"During Damage Calculation\".\n● If you say \"Damage Step?\", and activate this effect, you have activated it at the Start of the Damage Step, not During Damage Calculation.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● This effect stops applying during the End Phase (and not for the entire turn) (this is an erratum).\n● This effect can be activated at any point in the Damage Step, even \"During Damage Calculation\".\n● If you say \"Damage Step?\", and activate this effect, you have activated it at the Start of the Damage Step, not During Damage Calculation.",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Honest\" is a Quick Effect.\\n2. The effect of \"Honest\" does not target the LIGHT monster.\\n3. Sending \"Honest\" to the GY is a cost to activate its effect.\\n4. The ATK increase is equal to the ATK of the opponent's monster when the effect of \"Honest\" resolves.\\n5. The ATK increases from the effects of multiple \"Honest\" are cumulative.\\n6. If you use the effect of \"Honest\" to increase the attack of \"Asura Priest\" or \"Cyber-Twin Dragon\", the ATK increase does not change when you battle a different monster."
   },
   "PSCT": {
+    "Edison": "① During your Main Phase: You can return this card you control to the hand. \n② During the Damage Step, when a LIGHT monster you control battles (Quick): \nYou can send this card from your hand to the GY; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the End Phase.",
     "Tengu": "① During your Main Phase: You can return this card you control to the hand. \n② During the Damage Step, when a LIGHT monster you control battles (Quick): \nYou can send this card from your hand to the GY; \nthat monster gains ATK equal to the ATK of the opponent's monster it is battling, until the End Phase.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

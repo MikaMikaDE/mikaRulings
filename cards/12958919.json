@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The optional Trigger Effect must Special Summon at least 1 Skyblaster Token.\n●If you control no monsters when this effect resolves, no Tokens are Special Summoned.\n●The optional Trigger Effect activates & resolves on the field.\n●This effect only inflicts damage for your face-up Skyblaster monsters.\n●Skyblaster monsters Summoned later in the turn also can't attack.\n●If this effect is activated, your Skyblaster monsters can't attack this turn.\n●If this effect is negated (by Skill Drain), your Skyblaster monsters can't attack this turn.\n●If the activation of this effect is negated (by Divine Wrath), your Skyblaster monsters can attack this turn.",
     "Tengu": "(1) When you Normal or Flip Summon this card, you can Special Summon any number of Skyblaster Tokens (Fiend-Type/DARK/Level 4/ATK 500/DEF 500), but not more than the number of monsters you control. (2) During your Standby Phase, you can inflict 300 damage to your opponent for each Skyblaster monster you control. If you activate this effect, Skyblaster monsters you control cannot attack this turn.\n●The (1) optional Trigger Effect must Special Summon at least 1 Skyblaster Token.\n●If you control no monsters when this effect resolves, no Tokens are Special Summoned.\n●The (2) optional Trigger Effect activates & resolves on the field.\n●This effect only inflicts damage for your face-up Skyblaster monsters.\n●Skyblaster monsters Summoned later in the turn also cannot attack.\n●If this effect is activated, your Skyblaster monsters cannot attack this turn.\n●If this effect is negated (by Skill Drain), your Skyblaster monsters cannot attack this turn.\n●If the activation of this effect is negated (by Divine Wrath), your Skyblaster monsters can attack this turn.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. When you activate the effect of \"Phantom Skyblaster\", you must Special Summon at least 1 'Skyblaster Token', if able.\\n2. The effect of \"Phantom Skyblaster\" disappears if you do not have any monsters on your side of the field when its effect resolves.\\n3. If you activate the damage inflicting effect of \"Phantom Skyblaster\", 'Skyblaster' monsters Summoned later in the turn also cannot attack."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"Chaos King Archfiend\" switches the entire ATK and DEF of your opponent's monsters, including any boosts from Continuous Effects. For example, \"Command Knight\" boosts its own ATK to 1600 with its effect. If it's then affected by \"Chaos King Archfiend\" it will have 1900 ATK and 1600 DEF. The Continuous Effect will not reapply to the new ATK.\\n2. The effect of \"Chaos King Archfiend\" changes the current ATK and DEF of the monster, not the original ATK and DEF."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

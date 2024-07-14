@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You place \"Wedge Counters\" at the end of the Damage Step, at the same timing that monsters are normally sent to the GY.\\n2. This monster's effects do not target."
   },
   "PSCT": {
+    "Edison": "1 \"Blackwing\" Tuner + 1 or more non-Tuners\n① can't be destroyed by battle.\n② You take no Battle Damage from attacks involving this card. \n③ At the end of the Damage Step, if this card attacked a Monster: You can play 1 Wedge Counter on that monster (max. 1).  \n④ You can remove all Wedge Counters from your opponent's monsters; this turn, their ATK/DEF becomes 0.",
     "Tengu": "1 \"Blackwing\" Tuner + 1 or more non-Tuners\n① Cannot be destroyed by battle.\n② You take no Battle Damage from attacks involving this card. \n③ At the end of the Damage Step, if this card attacked a Monster: You can play 1 Wedge Counter on that monster (max. 1).  \n④ You can remove all Wedge Counters from your opponent's monsters; this turn, their ATK/DEF becomes 0.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

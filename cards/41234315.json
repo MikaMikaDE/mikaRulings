@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If an effect is active that prevents you from Special Summoning, you can still activate \"Fake Explosion\" to prevent monsters from being destroyed by battle. But you cannot Special Summon in that case.\\n2. If you do not have \"Summon Reactor * SK\" in your hand or GY, you can still activate \"Fake Explosion\" to prevent monsters from being destroyed by battle. However, if you are unable to Special Summon \"Summon Reactor * SK\" because you do not have it in your hand or GY, your opponent can check your hand to confirm.\\n3. You can only Special Summon \"Summon Reactor * SK\" if damage calculation occurs. If there is a replay, or a battle involving \"Neo-Spacian Gran Mole\", or another situation in which the opponent's monster attacked but there was no damage calculation, you cannot Special Summon \"Summon Reactor * SK\".\\n4. The effect of \"Fake Explosion\" that Special Summons after damage calculation begins a new chain.\\n5. You can activate \"Fake Explosion\" when your opponent's monster attacks directly."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

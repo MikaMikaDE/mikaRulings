@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "●You can only draw 1 card from “Guard Penalty’s” effect. You draw 1 card the first time the selected monster is changed to Defense Position. Drawing the 1 card can't be chained to.\n●“Guard Penalty’s” effect must resolve before the selected monster is changed to Defense Position. If the opponent chains “Enemy Controller” to change the selected monster’s position, you won't draw a card.\n●You draw 1 card even if the selected monster is changed from Attack Position to face-down Defense Position. If you select “Guardian Sphinx” you could use its effect to flip itself face-down and draw 1 card.\n●If an effect changes the selected monster to Defense Position in the middle of a chain, you draw 1 card immediately after that effect resolves. You don't wait for the entire chain to resolve.",
     "Tengu": "\n●You can only draw 1 card from “Guard Penalty’s” effect. You draw 1 card the first time the selected monster is changed to Defense Position. Drawing the 1 card cannot be chained to.\n●“Guard Penalty’s” effect must resolve before the selected monster is changed to Defense Position. If the opponent chains “Enemy Controller” to change the selected monster’s position, you will not draw a card.\n●You draw 1 card even if the selected monster is changed from face-up Attack Position to face-down Defense Position. If you select “Guardian Sphinx” you could use its effect to flip itself face-down and draw 1 card.\n●If an effect changes the selected monster to Defense Position in the middle of a chain, you draw 1 card immediately after that effect resolves. You do not wait for the entire chain to resolve.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can only draw 1 card from the effect of \"Guard Penalty\". You draw 1 card the first time the selected monster is changed to Defense Position. Drawing the 1 card cannot be chained to.\\n2. The effect of \"Guard Penalty\" must resolve before the selected monster is changed to Defense Position. If the opponent chains \"Enemy Controller\" to change the selected monster's position, you will not draw a card.\\n3. You draw 1 card even if the selected monster is changed from face-up Attack Position to face-down Defense Position. If you select \"Guardian Sphinx\" you could use its effect to flip itself face-down and draw 1 card.\\n4. If an effect changes the selected monster to Defense Position in the middle of a chain, you draw 1 card immediately after that effect resolves. You do not wait for the entire chain to resolve."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

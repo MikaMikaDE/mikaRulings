@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●The effect of “Millennium Scorpion” is a Trigger Effect. Each time it destroys a monster on your opponent’s side of the field and sends it to the GY as a result of battle, it activates. This effect can be chained to. You can activate “Divine Wrath” against it.\n●If “Millennium Scorpion” attacks and destroys a Monster Token, the effect of “Millennium Scorpion” does not activate because a Monster Token isn’t sent to the GY.\n●If “Millennium Scorpion” has an ATK boost from its effect, but is removed from play with “Interdimensional Matter Transporter”, or flipped face-down, the effect is reset and its ATK returns to normal.",
     "Tengu": "\n●The effect of “Millennium Scorpion” is a Trigger Effect. Each time it destroys a monster on your opponent’s side of the field and sends it to the GY as a result of battle, it activates. This effect can be chained to. You can activate “Divine Wrath” against it.\n●If “Millennium Scorpion” attacks and destroys a Monster Token, the effect of “Millennium Scorpion” does not activate because a Monster Token isn’t sent to the GY.\n●If “Millennium Scorpion” has an ATK boost from its effect, but is removed from play with “Interdimensional Matter Transporter”, or flipped face-down, the effect is reset and its ATK returns to normal.",
     "Goat": "●The effect of “Millennium Scorpion” is a Trigger Effect. Each time it destroys a monster on your opponent’s side of the field and sends it to the GY as a result of battle, it activates. This effect can be chained to. You can activate “Divine Wrath” against it.\n●If “Millennium Scorpion” attacks and destroys a Monster Token, the effect of “Millennium Scorpion” does not activate because a Monster Token isn’t sent to the GY.\n●If “Millennium Scorpion” has an ATK boost from its effect, but is removed from play with “Interdimensional Matter Transporter”, or Set, the effect is reset and its ATK returns to normal.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Millennium Scorpion\" is a Trigger Effect. Each time it destroys a monster on your opponent's side of the field and sends it to the GY as a result of battle, it activates. This effect can be chained to. You can activate \"Divine Wrath\" against it.\\n2. If \"Millennium Scorpion\" attacks and destroys a Monster Token, the effect of \"Millennium Scorpion\" does not activate because a Monster Token isn't sent to the GY.\\n3. If \"Millennium Scorpion\" has an ATK boost from its effect, but is removed from play with \"Interdimensional Matter Transporter\", or flipped face-down, the effect is reset and its ATK returns to normal."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

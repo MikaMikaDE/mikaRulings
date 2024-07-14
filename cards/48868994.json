@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The \"While in Defense Position\" effect targets.\\n2. Sending 1 Equip Card to the GY is a cost to activate the \"While in Attack Position\" effect.\\n3. If \"Skill Drain\" is activated while a monster is equipped to \"Morphtronic Vacuumen\", the equipped monster is destroyed.\\n4. If the battle position of the monster targeted by \"Morphtronic Vacuumen\" changes, it will not be equipped. If the battle position of \"Morphtronic Vacuumen\" itself is changed, its effect will be applied.\\n5. If the battle position of \"Morphtronic Vacuumen\" changes after it has a monster equipped to it, the monster remains equipped."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "● When you activate this effect, you must declare which effect you are using.\n● You can't choose the destroy effect if you control no other HERO monsters.\n\nIf you choose the destroy effect: \n● Starlight Road can't be chained. \n● Stardust Dragon's effect can be chained.\n● You must destroy at least 1 card (unless you control no Hero monsters, in which case you destroy none).",
     "Tengu": "● When you activate this effect, you must declare which effect you are using.\n● You can't choose the destroy effect if you control no other HERO monsters.\n\nIf you choose the destroy effect: \n● Starlight Road can't be chained. \n● Stardust Dragon's effect can be chained.\n● You must destroy at least 1 card (unless you control no Hero monsters, in which case you destroy none).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① When this card is Normal or Special Summoned: You can choose 1; ● Destroy Spell/Traps on the field, up to the number of other face-up \"HERO\" monsters you control (min.1). \n● Add 1 \"HERO\" monster from your Deck to your hand.",
     "Tengu": "① When this card is Normal or Special Summoned: You can choose 1; \n● Destroy Spell/Traps on the field, up to the number of \"HERO\" monsters you control (min.1). \n● Add 1 \"HERO\" monster from your Deck to your hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

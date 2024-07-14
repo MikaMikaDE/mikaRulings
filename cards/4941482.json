@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●This effect targets 1 Defense Position monster. This effect activates even if “Informer Spider” is destroyed during the Damage Step.\n●The effect of “Informer Spider” does not activate if it is sent to the GY as a cost to activate a card or effect.\n●If “Informer Spider” is sent to the GY when all your Monster Card Zones are full, the effect will activate and you will target a monster. The targeted monster will be destroyed when the effect resolves because you can't take control of it.\n●You gain control of the targeted monster for as long as it is on the field.",
     "Tengu": "\n●This effect targets 1 Defense Position monster. This effect activates even if “Informer Spider” is destroyed during the Damage Step.\n●The effect of “Informer Spider” does not activate if it is sent to the GY as a cost to activate a card or effect.\n●If “Informer Spider” is sent to the GY when all your Monster Card Zones are full, the effect will activate and you will target a monster. The targeted monster will be destroyed when the effect resolves because you cannot take control of it.\n●You gain control of the targeted monster for as long as it is on the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect targets 1 Defense Position monster.\\n2. This effect activates even if \"Informer Spider\" is destroyed during the Damage Step.\\n3. The effect of \"Informer Spider\" does not activate if it is sent to the GY as a cost to activate a card or effect.\\n4. If \"Informer Spider\" is sent to the GY when all your Monster Card Zones are full, the effect will activate and you will target a monster. The targeted monster will be destroyed when the effect resolves because you cannot take control of it.\\n5. You gain control of the targeted monster for as long as it is on the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

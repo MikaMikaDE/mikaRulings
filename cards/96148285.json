@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can choose not to Summon a monster when this card resolves.\n●You can activate this card if you have no Level 4 or lower monster in your hand.\n●You can't activate this card if neither player has an open Monster Card Zone. You can activate this card if only 1 player has an open Monster Card Zone.\n●When this card resolves, the Turn Player Summons first, but both players’ monsters are considered to have been Summoned at the same time.\n●You can activate this card when you Special Summon Lava Golem to your opponent's side of the field.",
     "Tengu": "\n●You can choose not to Summon a monster when this card resolves.\n●You can activate this card if you have no Level 4 or lower monster in your hand.\n●You cannot activate this card if neither player has an open Monster Card Zone. You can activate this card if only 1 player has an open Monster Card Zone.\n●When this card resolves, the Turn Player Summons first, but both players’ monsters are considered to have been Summoned at the same time.\n●You can activate this card when you Special Summon Lava Golem to your opponent's side of the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can choose not to Summon a monster when this card resolves.\\n2. You can activate this card if you have no Level 4 or lower monster in your hand.\\n3. You cannot activate this card if neither player has an open Monster Card Zone. You can activate this card if only 1 player has an open Monster Card Zone.\\n4. When this card resolves, the Turn Player Summons first, but both players' monsters are considered to have been Summoned at the same time.\\n5. You can activate this card when you Special Summon \"Lava Golem\" to your opponent's side of the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

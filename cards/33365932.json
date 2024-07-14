@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "● If this card leaves the GY before this effect finishes resolving, no card is searched.",
     "Tengu": "● If this card leaves the GY before this effect finishes resolving, no card is searched.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If this card is removed from the GY after activating its effect, and return to the GY during the same turn, its effect can be activated again.\\n2. You cannot activate this card's effect if you have no copies of \"Volcanic Shell\" in your Deck."
   },
   "PSCT": {
+    "Edison": "① Once per turn: You can pay 500 LP; add 1 \"Volcanic Shell\" from your Deck to your hand. \n(Activate and to resolve only if this card is in the GY).",
     "Tengu": "① Once per turn: You can pay 500 LP; add 1 \"Volcanic Shell\" from your Deck to your hand. \n(Activate and to resolve only if this card is in the GY).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●The effect of “Patroid” targets a card.\n●If “Patroid” is flipped face-down or removed from the field, its effect is reset and you can use it again that turn if you can get it face-up on the field again.",
     "Tengu": "\n●The effect of “Patroid” targets a card.\n●If “Patroid” is flipped face-down or removed from the field, its effect is reset and you can use it again that turn if you can get it face-up on the field again.",
     "Goat": "●The effect of “Patroid” targets a card.\n●If “Patroid” is Set or removed from the field, its effect is reset and you can use it again that turn if you can get it face-up on the field again.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Patroid\" targets a card.\\n2. If \"Patroid\" is flipped face-down or removed from the field, its effect is reset and you can use it again that turn if you can get it face-up on the field again."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

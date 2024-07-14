@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●If this card is equipped to a monster that is unaffected by Spell Cards, this card’s effect will still be applied. The effect to send 1 random card in your opponent’s hand to the GY starts a Chain.",
     "Tengu": "\n●If this card is equipped to a monster that is unaffected by Spell Cards, this card’s effect will still be applied. The effect to send 1 random card in your opponent’s hand to the GY starts a Chain.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If this card is equipped to a monster that is unaffected by Spell Cards, this card's effect will still be applied.\\n2. The effect to send 1 random card in your opponent's hand to the GY starts a Chain."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

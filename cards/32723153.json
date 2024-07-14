@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● Count the number of Spells at this card's resolution.",
     "Tengu": "● Count the number of Spells at this card's resolution.",
     "Goat": "●Count the number of Spell Cards in the GY at the time “Magical Explosion” resolves.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Count the number of Spell Cards in the GY at the time \"Magical Explosion\" resolves."
   },
   "PSCT": {
+    "Edison": "① If you have no cards in your hand: Inflict 200 damage to your opponent for each Spell Card in your GY.",
     "Tengu": "① If you have no cards in your hand: Your opponent takes 200 damage for each Spell in your GY.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

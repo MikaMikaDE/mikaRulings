@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●The mandatory Trigger Effect activates & resolves on the field.\n●If “Ancient Crimson Ape” is destroyed and sent to the GY, its effect does not activate.\n●If you control your opponent’s monster and it is destroyed and sent to the GY, the effect of “Ancient Crimson Ape” activates.",
     "Tengu": "(1) When a monster(s) you control is destroyed and sent to the GY, gain 1000 Life Points.\n●The (1) mandatory Trigger Effect activates & resolves on the field.\n●If “Ancient Crimson Ape” is destroyed and sent to the GY, its effect does not activate.\n●If you control your opponent’s monster and it is destroyed and sent to the GY, the effect of “Ancient Crimson Ape” activates.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Ancient Crimson Ape\" is destroyed and sent to the GY, its effect does not activate.\\n2. If you control your opponent's monster and it is destroyed and sent to the GY, the effect of \"Ancient Crimson Ape\" activates."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●While you control 2 copies of this card, a battling monster with 1 A-Counter will lose 600 ATK/DEF.",
     "Tengu": "●While you control 2 copies of this card, a battling monster with 1 A-Counter will lose 600 ATK/DEF.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to reduce the ATK of monsters with A-Counters is an effect of this card. If this card (or another with the same effect) is not on the field, then a monster with an A-Counter will not lose ATK while battling an \"Alien\".\\n2. If 2 \"Alien Grey\" (or other monsters with the A-Counter text) are on the field, then a monster with 1 A-Counter will lose 600 ATK while battling an \"Alien\"."
   },
   "PSCT": {
+    "Edison": "① FLIP: Target 1 face-up monster your opponent controls; place 1 A-Counter on that target.\n② Monsters with A-Counters lose 300 ATK/DEF for each A-Counter on them, while battling an 'Alien' monster, during Damage Calculation only.\n③ After this card has been flipped face-up, if it is destroyed by battle and sent to the GY: Draw 1 card.",
     "Tengu": "① FLIP: Place 1 A-Counter on 1 face-up monster your opponent controls.\n② Monsters with A-Counters lose 300 ATK/DEF for each A-Counter on them, while battling an 'Alien' monster, during Damage Calculation only.\n③ After this card has been flipped face-up, if it is destroyed by battle and sent to the GY: Draw 1 card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

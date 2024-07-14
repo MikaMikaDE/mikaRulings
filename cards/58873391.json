@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Fish Depth Charge targets 1 card your opponent controls.\n●If Fish Depth Charge does not destroy the selected card when it resolves, you don't draw.",
     "Tengu": "\n●Fish Depth Charge targets 1 card your opponent controls.\n●If Fish Depth Charge does not destroy the selected card when it resolves, you do not draw.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Fish Depth Charge\" targets 1 card your opponent controls.\\n2. If \"Fish Depth Charge\" does not destroy the selected card when it resolves, you do not draw."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

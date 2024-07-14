@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●If this monster is attacked while in face-down Defense Position, and Sanctuary in the Sky is not in play, this monster will be destroyed by its effect after Damage Calculation.\n●This effect does not use the Chain.",
     "Tengu": "\n●If this monster is attacked while in face-down Defense Position, and Sanctuary in the Sky is not in play, this monster will be destroyed by its effect after Damage Calculation.\n●This effect does not use the Chain.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If this monster is attacked while in face-down Defense Position, and \"Sanctuary in the Sky\" is not in play, this monster will be destroyed by its effect after Damage Calculation.\\n2. This effect does not use the Chain."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

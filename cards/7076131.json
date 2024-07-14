@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can target a Limited monster with “Next to be Lost”, but you don’t search or shuffle your Deck. Essentially, there is no effect.\n●You can't target a Token Monster with “Next to be Lost” because they can't exist in your Deck.\n●If the target of “Next to be Lost” is flipped face-down in a chain, the effect of “Next to be Lost” disappears because you can no longer check the Monster Card’s name.\n●If the target of “Next to be Lost” is destroyed in a chain, the effect of “Next to be Lost” disappears.\n●If you target “Proto-Cyber Dragon” on your side of the field for “Next to be Lost”, you send a “Cyber Dragon” from your Deck to the GY, not a “Proto-Cyber Dragon”.\n●You can target Embodiment of Apophis with Next to be Lost, and a copy of Embodiment of Apophis will be sent from your Deck to your GY.",
     "Tengu": "\n●You can target a Limited monster with “Next to be Lost”, but you don’t search or shuffle your Deck. Essentially, there is no effect.\n●You cannot target a Token Monster with “Next to be Lost” because they cannot exist in your Deck.\n●If the target of “Next to be Lost” is flipped face-down in a chain, the effect of “Next to be Lost” disappears because you can no longer check the Monster Card’s name.\n●If the target of “Next to be Lost” is destroyed in a chain, the effect of “Next to be Lost” disappears.\n●If you target “Proto-Cyber Dragon” on your side of the field for “Next to be Lost”, you send a “Cyber Dragon” from your Deck to the GY, not a “Proto-Cyber Dragon”.\n●You can target Embodiment of Apophis with Next to be Lost, and a copy of Embodiment of Apophis will be sent from your Deck to your GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can target a Limited monster with \"Next to be Lost\", but you don't search or shuffle your Deck. Essentially, there is no effect.\\n2. You cannot target a Token Monster with \"Next to be Lost\" because they cannot exist in your Deck.\\n3. If the target of \"Next to be Lost\" is flipped face-down in a chain, the effect of \"Next to be Lost\" disappears because you can no longer check the Monster Card's name.\\n4. If the target of \"Next to be Lost\" is destroyed in a chain, the effect of \"Next to be Lost\" disappears.\\n5. If you target \"Proto-Cyber Dragon\" on your side of the field for \"Next to be Lost\", you send a \"Cyber Dragon\" from your Deck to the GY, not a \"Proto-Cyber Dragon\".\\n6. You can target \"Embodiment of Apophis\" with \"Next to be Lost\", and a copy of \"Embodiment of Apophis\" will be sent from your Deck to your GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

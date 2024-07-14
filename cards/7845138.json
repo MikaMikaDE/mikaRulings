@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● The ATK is \"set\" when this effect applies. If the opponent's LP changes, the ATK does not change.\n● If this card's effects become negated, its ATK becomes 0 (permanently).",
@@ -27,6 +28,7 @@
     "Base": "1. [FORUM] Since this is a trigger effect, everything after the colon (:) resolves when the effect resolves. When the effect of \"Endless Decay\" resolves, the ATK becomes set regardless of future Life Point changes.  Cards that have ATK that constantly changes (such as \"Shadow Ghoul\") are Continuous Effects."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

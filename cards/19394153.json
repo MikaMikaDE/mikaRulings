@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This card targets 1 face-up “Elemental Hero Avian”.\n●You can activate 2 copies of “Feather Shot” and target the same “Elemental Hero Avian”, but the second one won't increase the number of times it can attack. If you select 2 different “Elemental Hero Avians” then neither one can attack.\n●If you Summon a monster after “Feather Shot” has resolved, that monster can't attack.\n●You can't activate “Feather Shot” during a turn where “Absolute End” has been activated. If “Feather Shot” has already resolved, “Absolute End” can't be activated. If “Absolute End” is chained to “Feather Shot”, then the selected “Elemental Hero Avian” can't attack.",
     "Tengu": "\n●This card targets 1 face-up “Elemental Hero Avian”.\n●You can activate 2 copies of “Feather Shot” and target the same “Elemental Hero Avian”, but the second one will not increase the number of times it can attack. If you select 2 different “Elemental Hero Avians” then neither one can attack.\n●If you Summon a monster after “Feather Shot” has resolved, that monster cannot attack.\n●You cannot activate “Feather Shot” during a turn where “Absolute End” has been activated. If “Feather Shot” has already resolved, “Absolute End” cannot be activated. If “Absolute End” is chained to “Feather Shot”, then the selected “Elemental Hero Avian” cannot attack.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card targets 1 face-up \"Elemental HERO Avian\".\\n2. You can activate 2 copies of \"Feather Shot\" and target the same \"Elemental HERO Avian\", but the second one will not increase the number of times it can attack. If you select 2 different copies of \"Elemental HERO Avian\" then neither one can attack.\\n3. If you Summon a monster after \"Feather Shot\" has resolved, that monster cannot attack.\\n4. You cannot activate \"Feather Shot\" during a turn where \"Absolute End\" has been activated. If \"Feather Shot\" has already resolved, \"Absolute End\" cannot be activated. If \"Absolute End\" is chained to \"Feather Shot\", then the selected \"Elemental HERO Avian\" cannot attack."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

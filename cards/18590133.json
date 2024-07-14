@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If you have 2 Goblin Kings, or a Goblin King equipped with Raregold Armor and another Fiend-Type monster, your opponent can't attack.\n●Goblin King's second effect includes Fiend-Type monsters on your opponent's side of the field.\n●Face-down Fiend-Type monsters are not included for Goblin King's second effect.\n●If you equip Megamorph to Goblin King, Goblin King's ATK is 0.\n●If you have a Fiend-Type monster and a face-down Goblin King, and Goblin King is attacked, Goblin King's ATK and DEF increase after he's flipped face-up, but before damage calculation is applied.",
     "Tengu": "\n●If you have 2 Goblin Kings, or a Goblin King equipped with Raregold Armor and another Fiend-Type monster, your opponent cannot attack.\n●Goblin King's second effect includes Fiend-Type monsters on your opponent's side of the field.\n●Face-down Fiend-Type monsters are not included for Goblin King's second effect.\n●If you equip Megamorph to Goblin King, Goblin King's ATK is 0.\n●If you have a Fiend-Type monster and a face-down Goblin King, and Goblin King is attacked, Goblin King's ATK and DEF increase after he's flipped face-up, but before damage calculation is applied.",
     "Goat": "●If you have 2 Goblin Kings, or a Goblin King equipped with Raregold Armor and another Fiend monster, your opponent cannot attack.\n●Goblin King's second effect includes Fiend monsters on your opponent's side of the field.\n●Face-down Fiend monsters are not included for Goblin King's second effect.\n●If you equip Megamorph to Goblin King, Goblin King's ATK is 0.\n●If you have a Fiend monster and a face-down Goblin King, and Goblin King is attacked, Goblin King's ATK/DEF increase after he's flipped face-up, but before damage calculation is applied.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you have 2 copies of \"Goblin King\", or a \"Goblin King\" equipped with \"Raregold Armor\" and another Fiend-Type monster, your opponent cannot attack.\\n2. The second effect of \"Goblin King\" includes Fiend-Type monsters on your opponent's side of the field.\\n3. Face-down Fiend-Type monsters are not included for the second effect of \"Goblin King\".\\n4. If you equip \"Megamorph\" to \"Goblin King\", the ATK of \"Goblin King\" is 0.\\n5. If you have a Fiend-Type monster and a face-down \"Goblin King\", and \"Goblin King\" is attacked, the ATK and DEF of \"Goblin King\" increase after he's flipped face-up, but before damage calculation is applied."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

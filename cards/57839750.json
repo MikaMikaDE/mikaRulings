@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "● This effect activates in the Damage Step, so it can never be negated by \"Royal Oppression\". \nCards like \"Bottomless Trap Hole\" and \"Torrential Tribute\" can never be used in response to this Summon.",
     "Tengu": "● This effect activates in the Damage Step, so it can never be negated by \"Royal Oppression\". \nCards like \"Bottomless Trap Hole\" and \"Torrential Tribute\" can never be used in response to this Summon.",
     "Goat": "●If you attack with your Mother Grizzly and it is destroyed by battle, you may attack with the monster Special Summoned by Mother Grizzly before entering MP 2.\n●If your opponent controls your Mother Grizzly and it is destroyed by battle, you get the effect of Mother Grizzly NOT your opponent.\n●Since the Special Summoning occurs during the Damage Step, Torrential Tribute, etc. cannot be used.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you attack with your \"Mother Grizzly\" and it is destroyed as a result of battle, you may attack with the monster Special Summoned by \"Mother Grizzly\" before entering Main Phase 2.\\n2. If your opponent controls your \"Mother Grizzly\" and it is destroyed as a result of battle, you get the effect of \"Mother Grizzly\" NOT your opponent.\\n3. Since the Special Summoning occurs during the Damage Step, \"Torrential Tribute\", etc. cannot be used."
   },
   "PSCT": {
+    "Edison": "① If destroyed by battle and sent to the GY:\nYou can Special Summon 1 WATER with 1500 or less ATK from your Deck, in Attack Position.",
     "Tengu": "① If destroyed by battle and sent to the GY:\nYou can Special Summon 1 WATER with 1500 or less ATK from your Deck, in Attack Position.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

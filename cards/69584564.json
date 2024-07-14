@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Fragrance Storm targets 1 Plant-Type monster on the field. You can target any Plant-Type monster on the field.\n●Destroying the targeted card and drawing 1 card are considered to happen at the same time. Revealing the drawn card, if it is a Plant-Type monster, happens after that.\n●If, after revealing the drawn Plant-Type monster, you draw another Plant-Type monster, you can't reveal the additional Plant-Type monster to try and draw another card.\n●If you have an active Solemn Wishes and you draw 2 cards with Frangrance Storm, you will gain 1000 Life Points.\n●Destroying the Plant-Type monster and drawing 1 card resolve at the same time, but drawing 1 additional card by revealing the drawn Plant-Type monster does not resolve at the same time. If you destroy Seed of Flame with Fragrance Storm's effect, you can activate Seed of Flame's effect if you draw only 1 card, but if you reveal a Plant-Type monster to draw another card, you can't activate Seed of Flame's effect.",
     "Tengu": "\n●Fragrance Storm targets 1 Plant-Type monster on the field. You can target any Plant-Type monster on the field.\n●Destroying the targeted card and drawing 1 card are considered to happen at the same time. Revealing the drawn card, if it is a Plant-Type monster, happens after that.\n●If, after revealing the drawn Plant-Type monster, you draw another Plant-Type monster, you cannot reveal the additional Plant-Type monster to try and draw another card.\n●If you have an active Solemn Wishes and you draw 2 cards with Frangrance Storm, you will gain 1000 Life Points.\n●Destroying the Plant-Type monster and drawing 1 card resolve at the same time, but drawing 1 additional card by revealing the drawn Plant-Type monster does not resolve at the same time. If you destroy Seed of Flame with Fragrance Storm's effect, you can activate Seed of Flame's effect if you draw only 1 card, but if you reveal a Plant-Type monster to draw another card, you cannot activate Seed of Flame's effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Fragrance Storm\" targets 1 Plant-Type monster on the field. You can target any Plant-Type monster on the field.\\n2. Destroying the targeted card and drawing 1 card are considered to happen at the same time. Revealing the drawn card, if it is a Plant-Type monster, happens after that.\\n3. If, after revealing the drawn Plant-Type monster, you draw another Plant-Type monster, you cannot reveal the additional Plant-Type monster to try and draw another card.\\n4. If you have an active \"Solemn Wishes\" and you draw 2 cards with \"Fragrance Storm\", you will gain 1000 Life Points."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

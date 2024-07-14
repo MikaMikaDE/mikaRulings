@@ -7,6 +7,7 @@
     "race": "Counter"
   },
   "Rulings": {
+    "Edison": "●This effect targets 1 face-up Gemini monster you control. It turns the monster face-down upon resolution.\n●If your opponent attacks your face-down Gemini monster and activates a card like “Rush Recklessly” during the Damage Step, you can Chain with “Gemini Counter.” If you do, the Spell Card will be negated and the attack target monster will be flipped face-up again immediately.",
     "Tengu": "\n●This effect targets 1 face-up Gemini monster you control. It turns the monster face-down upon resolution.\n●If your opponent attacks your face-down Gemini monster and activates a card like “Rush Recklessly” during the Damage Step, you can Chain with “Gemini Counter.” If you do, the Spell Card will be negated and the attack target monster will be flipped face-up again immediately.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This effect targets 1 face-up Gemini monster you control. It turns the monster face-down upon resolution.\\n2. If your opponent attacks your face-down Gemini monster and activates a card like \"Rush Recklessly\" during the Damage Step, you can Chain with \"Gemini Counter\". If you do, the Spell Card will be negated and the attack target monster will be flipped face-up again immediately."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

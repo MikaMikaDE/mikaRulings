@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "● If one target leaves is no longer correct (eg it was flipped face-down) before this effect resolves, the other is still sent to the GY.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Sending \"Umi\" to the GY is a cost.\\n2. The effect targets up to 2 cards your opponent controls.\\n3. If you gain control of one of the cards targeted by the effect of \"Codarus\" before it resolves, that card is not sent to the GY. The other one is.\\n4. If one of the cards targeted by the effect of \"Codarus\" is no longer on the field when the effect resolves, the other one is still sent to the GY.\\n5. If you control \"A Legendary Ocean\" and \"Forgotten Temple of the Deep\" you only need to send 1 of them to the GY to activate this effect."
   },
   "PSCT": {
+    "Edison": "① You can send 1 face-up \"Umi\" you control to the GY, then target up to 2 cards your opponent controls; send those targets to the GY.",
     "Tengu": "① You can send 1 face-up \"Umi\" you control to the GY, then target up to 2 cards your opponent controls; \nsend those targets to the GY.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

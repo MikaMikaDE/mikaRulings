@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●You can select Tsukuyomi itself as the target of Tsukuyomi's effect, but not when Tsukuyomi was flipped face-up by an attack and destroyed by damage calculation.",
     "Tengu": "\n●You can select Tsukuyomi itself as the target of Tsukuyomi's effect, but not when Tsukuyomi was flipped face-up by an attack and destroyed by damage calculation.",
     "Goat": "●You can select Tsukuyomi itself as the target of Tsukuyomi's effect, but not when Tsukuyomi was flipped face-up by an attack and destroyed by damage calculation.",
     "HAT": "● The ① effect is not \"once per turn\". \nIf its activation is negated (EG by \"Light and Darkness Dragon\"), it will activate again. \nIf its effect is negated (EG by \"Fiendish Chain\"), it will not activate again.",
@@ -27,6 +28,7 @@
     "Base": "1. You can select \"Tsukuyomi\" itself as the target of the effect of \"Tsukuyomi\", but not when \"Tsukuyomi\" was flipped face-up by an attack and destroyed by damage calculation.\\n2. The following rules apply to all Spirit Monsters:\\n3. Spirit is not a monster Type; you cannot declare \"Spirit\" for the effect of \"DNA Surgery\".\\n4. Spirit Monsters are still Effect Monsters.\\n5. A Spirit Monster must be face-up on the field during the End Phase for it to return to the owner's hand. If it was destroyed or removed from play, it will not return to the owner's hand.\\n6. A Spirit Monster will return to the owner's hand during the End Phase, even if the opponent played it from their hand (through the effect of \"Exchange\".)"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

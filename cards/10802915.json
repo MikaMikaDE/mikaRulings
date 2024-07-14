@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "If you activate the effect of a monster summoned this way:\n● Any costs will be paid as usual. \n● However, the effect will resolve negated, as the effect was activated on the field, where its effects were being negated.\nEG: ＂Possessed Dark Soul＂ summoned this way tributes itself. Its effect is negated, since its effect was activated on the field.\n\nIf a monster summoned this way becomes flipped face-down or leaves the field, its effects are no longer negated, starting from the moment it leaves the field.\nEG: ＂Sangan＂ summoned this way is destroyed by battle. Its effect is not negated, since its effect was not activated on the field.\nEG: ＂Night Assailant＂ summoned this way becomes Set by Book of Moon. Its effect when flipped face-up is not negated, since the negation stopped applying once it became Set.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

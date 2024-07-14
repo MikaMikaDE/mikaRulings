@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "Select 1 monster on your side of the field and send it to the GY. Increase your Life Points by an amount equal to the original ATK of the monster.\n●Sending a monster to the GY for Altar for Tribute is a cost.\n●You can select a Token Monster as the cost for Altar for Tribute, but you won't gain any Life Points because Tokens are taken off the field instead of going to the GY.\n●You can send your opponent's monster that you control to the GY as the cost for Altar for Tribute, and you would gain the Life Points.",
     "Tengu": "Select 1 monster on your side of the field and send it to the GY. Increase your Life Points by an amount equal to the original ATK of the monster.\n●Sending a monster to the GY for Altar for Tribute is a cost.\n●You can select a Token Monster as the cost for Altar for Tribute, but you won't gain any Life Points because Tokens are taken off the field instead of going to the GY.\n●You can send your opponent's monster that you control to the GY as the cost for Altar for Tribute, and you would gain the Life Points.",
     "Goat": "●Sending a monster to the GY for Altar for Tribute is a cost.\n●You can select a Token Monster as the cost for Altar for Tribute, but you won't gain any LP because Tokens are taken off the field instead of going to the GY.\n●You can send your opponent's monster that you control to the GY as the cost for Altar for Tribute, and you would gain the LP.\n●“Altar for Tribute” does not Tribute the card it affects.\n●“Altar for Tribute” does not destroy the card it affects.\n●Tokens chosen as the Tribute for “Altar for Tribute” will not increase a player’s LP as the Token will not go to the GY.\n●Sending a monster to the GY is an activation cost for “Altar for Tribute.”\n●If “Banisher of the Light” is applying on the field when “Altar for Tribute” resolves, the player who activates “Altar for Tribute” will not gain LP as the monster does not go to the GY.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Sending a monster to the GY for \"Altar for Tribute\" is a cost.\\n2. You can select a Token Monster as the cost for \"Altar for Tribute\", but you won't gain any Life Points because Tokens are taken off the field instead of going to the GY.\\n3. You can send your opponent's monster that you control to the GY as the cost for \"Altar for Tribute\", and you would gain the Life Points."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●When this card inflicts Battle Damage to the opponent it is halved, regardless if it was a direct attack, or from an attack against another monster. For example, if your Susa Soldier (ATK 2000) attacks the opponent’s Gemini Elf (ATK 1900), the opponent will take 50 points of Battle Damage. The damage points are rounded up when there is a fraction.",
     "Tengu": "\n●When this card inflicts Battle Damage to the opponent it is halved, regardless if it was a direct attack, or from an attack against another monster. For example, if your Susa Soldier (ATK 2000) attacks the opponent’s Gemini Elf (ATK 1900), the opponent will take 50 points of Battle Damage. The damage points are rounded up when there is a fraction.",
     "Goat": "●When this card inflicts Battle Damage to the opponent it is halved, regardless if it was a direct attack, or from an attack against another monster. For example, if your Susa Soldier (ATK 2000) attacks the opponent’s Gemini Elf (ATK 1900), the opponent will take 50 points of Battle Damage. The damage points are rounded up when there is a fraction.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. When this card inflicts Battle Damage to the opponent it is halved, regardless if it was a direct attack, or from an attack against another monster. For example, if your \"Susa Soldier\" (ATK 2000) attacks the opponent's \"Gemini Elf\" (ATK 1900), the opponent will take 50 points of Battle Damage. The damage points are rounded up when there is a fraction.\\n2. The following rules apply to all Spirit Monsters:\\n\\n[*] Spirit is not a monster Type; you cannot declare \"Spirit\" for the effect of \"DNA Surgery\".\\n[*] Spirit Monsters are still Effect Monsters.\\n[*] A Spirit Monster must be face-up on the field during the End Phase for it to return to the owner's hand. If it was destroyed or removed from play, it will not return to the owner's hand.\\n[*] A Spirit Monster will return to the owner's hand during the End Phase, even if the opponent played it from their hand (through the effect of \"Exchange\".)"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

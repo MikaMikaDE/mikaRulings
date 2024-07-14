@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "● This effect targets the \"Red-Eyes\" monster in your GY.\n● \"Normal Summon/Set\" refers to Monster Cards, not Setting Spell/Trap Cards.\n● If you discard this card due to hand size, its effect can't be activated that same End Phase.\n● If your Normal Summon was negated by \"Solemn Judgment\", this card's effect can't be activated in the End Phase.",
     "Tengu": "● This effect targets the \"Red-Eyes\" monster in your GY.\n● If you discard this card due to hand size, its effect can't be activated that same End Phase.\n● If your Normal Summon was negated by \"Solemn Judgment\", this card's effect cannot be activated in the End Phase.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① During your End Phase: You can banish this card from your GY, then target 1 \"Red-Eyes\" monster in your GY; Special Summon that target. \n(You can't Normal Summon/Set during the turn you activate this effect.)",
     "Tengu": "① During your End Phase: You can banish this card from your GY, then target 1 \"Red-Eyes\" monster in your GY; Special Summon that target. \n(You can't Normal Summon/Set during the turn you activate this effect.)",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

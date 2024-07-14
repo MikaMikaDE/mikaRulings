@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Miracle Fertilizer targets the monster●If you Special Summon a monster with Miracle Fertilizer, and later in the same turn Miracle Fertilizer is removed from the field, you still can't Normal Summon or Set a monster that turn.\n●If you Special Summon 2 or more monsters with Miracle Fertilizer, when any of the Special Summoned monsters is removed from the field, Miracle Fertilizer is destroyed.\n●If you activate the effect of Miracle Fertilizer and an effect is chained that removes the targeted Plant-Type monster from play, you can still Normal Summon or Set during that turn.",
     "Tengu": "\n●Miracle Fertilizer targets the monster(s) Special Summoned by its effect, both when it is selected in the GY and while it is on the field. If Miracle Fertilizer is returned to its owner's hand, any monster(s) that was Special Summoned by its effect is no longer targeted, even if Miracle Fertilizer is activated again later.\n●If you Special Summon a monster with Miracle Fertilizer, and later in the same turn Miracle Fertilizer is removed from the field, you still cannot Normal Summon or Set a monster that turn.\n●If you Special Summon 2 or more monsters with Miracle Fertilizer, when any of the Special Summoned monsters is removed from the field, Miracle Fertilizer is destroyed.\n●If you activate the effect of Miracle Fertilizer and an effect is chained that removes the targeted Plant-Type monster from play, you can still Normal Summon or Set during that turn.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Miracle Fertilizer\" targets the monster(s) Special Summoned by its effect, both when it is selected in the GY and while it is on the field. If \"Miracle Fertilizer\" is returned to its owner's hand, any monster(s) that was Special Summoned by its effect is no longer targeted, even if \"Miracle Fertilizer\" is activated again later.\\n2. If you Special Summon a monster with \"Miracle Fertilizer\", and later in the same turn \"Miracle Fertilizer\" is removed from the field, you still cannot Normal Summon or Set a monster that turn.\\n3. If you Special Summon 2 or more monsters with \"Miracle Fertilizer\", when any of the Special Summoned monsters is removed from the field, \"Miracle Fertilizer\" is destroyed.\\n4. If you activate the effect of \"Miracle Fertilizer\" and an effect is chained that removes the targeted Plant-Type monster from play, you can still Normal Summon or Set during that turn."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

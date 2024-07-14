@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The number of “Malice Ascendants” in your GY is counted at the resolution of its effect. If your opponent chains “Disappear” to remove 1, then it is no longer counted for the effect of your “Malice Ascendant” on the field.",
     "Tengu": "\n●The number of “Malice Ascendants” in your GY is counted at the resolution of its effect. If your opponent chains “Disappear” to remove 1, then it is no longer counted for the effect of your “Malice Ascendant” on the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The number of copies of \"Malice Ascendant\" in your GY is counted at the resolution of its effect. If your opponent chains \"Disappear\" to remove 1, then it is no longer counted for the effect of your \"Malice Ascendant\" on the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

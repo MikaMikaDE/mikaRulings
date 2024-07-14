@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●The maintenance cost is optional, you may chose not to play 100 Life Points and Messenger of Peace will be destroyed.\n●The ATK of an attacking monster may increase above 1500 after the attack is declared.",
     "Tengu": "\n●The maintenance cost is optional, you may chose not to play 100 Life Points and Messenger of Peace will be destroyed.\n●The ATK of an attacking monster may increase above 1500 after the attack is declared.",
     "Goat": "●The maintenance cost is optional, you may chose not to play 100 LP and Messenger of Peace will be destroyed.\n●The ATK of an attacking monster may increase above 1500 after the attack is declared. \n●Q: If there is a Face-up “Messenger of Peace” on the field and I attack with “Injection Fairy Lily,” can I use its effect to increase the attack by 3000? \nA: “Messenger of Peace” stops the declaration of an attack with a monster of 1500 or more ATK, any increases after the Battle Step are not counted. \n● 12/08/03\n●Q: If “Spell Canceller” is face-up on the field, do you have to pay the cost for “Messenger of Peace”? \nA: No you would not have to pay for Messenger of Peace while the effect of Spell Canceller is applying. The same would be true if Imperial Order was applying. ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The maintenance cost is optional, you may chose not to play 100 Life Points and \"Messenger of Peace\" will be destroyed.\\n2. The ATK of an attacking monster may increase above 1500 after the attack is declared."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

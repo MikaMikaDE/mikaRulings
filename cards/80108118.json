@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● \"Gorz the Emissary of Darkness\" can be chained to this effect. Gorz will resolve first, and after that, the card to discard is chosen (even if this results in them having less than 4 cards in hand).",
     "Tengu": "● \"Gorz the Emissary of Darkness\" can be chained to this effect. Gorz will resolve first, and after that, the card to discard is chosen (even if this results in them having less than 4 cards in hand).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "1 Tuner + 1 or more non-Tuners\n① If this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand: \nPlace 1 random card from their hand on top of their Deck.",
     "Tengu": "1 Tuner + 1 or more non-Tuners\n① If this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand: \nPlace 1 random card from their hand on top of their Deck.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

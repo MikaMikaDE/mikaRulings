@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "● You can target cards on either field, and can use this effect multiple times per turn.● This effect targets (all Mika PSCT from this bot will tell you if an effect targets).\n● Brionac’s effect is an ignition Effect. If Synchro Summoned using “Goblin Zombie”, Goblin’s effect (a mandatory trigger effect) must be activated, in which case you can't use Brionac’s effect with ignition Priority.",
     "Tengu": "● You can target cards on either field, and can use this effect multiple times per turn.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Discarding cards to the GY is a cost.\\n2. The effect of \"Brionac, Dragon of the Ice Barrier\" targets a number of cards equal to the number of cards that you discarded to the GY.\\n3. If you Synchro Summon \"Brionac, Dragon of the Ice Barrier\" using a monster with a mandatory effect like \"Goblin Zombie\" as one of the Synchro Material Monsters, when the Synchro Summon is successful the effect of that monster will activate automatically. You will not be able to activate the Ignition effect of Brionac before the mandatory effect of \"Goblin Zombie\".\\n4. If 1 or more of the targeted cards are removed from the field before the effect resolves, the rest will still be returned to the owner's hand."
   },
   "PSCT": {
+    "Edison": "1 Tuner + 1 or more non-Tuners\n① You can discard any number of cards to the GY, then target that many cards on the field; return them to the hand.",
     "Tengu": "1 Tuner + 1 or more non-Tuners\n① You can discard any number of cards to the GY, then target that many cards on the field; \nreturn them to the hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

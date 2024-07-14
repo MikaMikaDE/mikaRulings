@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Removing from play 1 Monster Card in your hand is not a cost. It is part of the effect of “Elemental Absorber”.\n●You only remove from play 1 Monster Card from your hand and when “Elemental Absorber” resolves. You can’t remove additional cards later. You can’t remove from play more than 1 card when “Elemental Absorber” resolves.\n●The effect will continue even if the removed Monster Card doesn’t stay removed from play. For example, if the removed monster is “D.D. Scout Plane” it will be Special Summoned during the End Phase, and your opponent’s DARK monsters will still not be able to attack.",
     "Tengu": "\n●Removing from play 1 Monster Card in your hand is not a cost. It is part of the effect of “Elemental Absorber”.\n●You only remove from play 1 Monster Card from your hand and when “Elemental Absorber” resolves. You can’t remove additional cards later. You can’t remove from play more than 1 card when “Elemental Absorber” resolves.\n●The effect will continue even if the removed Monster Card doesn’t stay removed from play. For example, if the removed monster is “D.D. Scout Plane” it will be Special Summoned during the End Phase, and your opponent’s DARK monsters will still not be able to attack.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Removing from play 1 Monster Card in your hand is not a cost. It is part of the effect of \"Elemental Absorber\".\\n2. You only remove from play 1 Monster Card from your hand and when \"Elemental Absorber\" resolves. You can't remove additional cards later. You can't remove from play more than 1 card when \"Elemental Absorber\" resolves.\\n3. The effect will continue even if the removed Monster Card doesn't stay removed from play. For example, if the removed monster is \"D.D. Scout Plane\" it will be Special Summoned during the End Phase, and your opponent's DARK monsters will still not be able to attack."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

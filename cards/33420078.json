@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "On Activating the effect:\n● This is an ignition effect, so you can Normal Summon a monster, and use this card's effect with ignition priority. \n● This effect is not \"Once per turn\". If \"Royal Oppression\" is chained to this effect, your card is still returned to the top of your Deck (as it is a cost), and this effect can activate again on a new chain.\n\nOn Banishing this card:\n● Once Summoned, it can't be sent to the GY as a cost (but it can be tributed, used as material, etc)\n● Vs \"Interdimensional Matter Transporter\": This card won't return to the field.\n● Vs \"Caius the Shadow Monarch\": If this card is banished this way, no damage is dealt.\n● Vs \"Book of Moon\": \"Banish it if it leaves the field\" will no longer apply to this card.",
     "Tengu": "On Activating the effect:\n● This is an ignition effect, so you can Normal Summon a monster, and use this card's effect with ignition priority. \n● This effect is not \"Once per turn\". If \"Royal Oppression\" is chained to this effect, your card is still returned to the top of your Deck (as it is a cost), and this effect can activate again on a new chain.\n\nOn Banishing this card:\n● Once Summoned, it can't be sent to the GY as a cost (but it can be tributed, used as material, etc)\n● Vs \"Interdimensional Matter Transporter\": This card won't return to the field.\n● Vs \"Caius the Shadow Monarch\": If this card is banished this way, no damage is dealt.\n● Vs \"Book of Moon\": \"Banish it if it leaves the field\" will no longer apply to this card.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Returning 1 card from your hand to the top of your Deck is a cost.\\n2. Removing \"Plaguespreader Zombie\" from play with its effect does not start a Chain.\\n3. If you Special Summon \"Plaguespreader Zombie\" from the GY with its effect, and afterwards it is removed from play with \"Interdimensional Matter Transporter\", it is not returned to the field during the End Phase and remains removed from play.\\n4. If \"Plaguespreader Zombie\" is Special Summoned from the GY by its effect and is later removed from the field while \"Skill Drain\" is active, it is removed from play.\\n5. If \"Plaguespreader Zombie\" is flipped face-down after being Special Summoned from the GY by its effect, when it is removed from the field it is not removed from play."
   },
   "PSCT": {
+    "Edison": "① If this card is in your GY: You can place 1 card from your hand on the top of the Deck; Special Summon this card (banish it if it leaves the field).",
     "Tengu": "① If this card is in your GY: You can place 1 card from your hand on the top of the Deck; \nSpecial Summon this card (banish it if it leaves the field).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

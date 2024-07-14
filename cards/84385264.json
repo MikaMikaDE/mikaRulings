@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●This is a Trigger Effect that activates when Battle Damage is inflicted.\n●This effect activates even if you have no Normal Monsters in your GY when this card inflicts Battle Damage, although the effect will do no damage.",
     "Tengu": "\n●This is a Trigger Effect that activates when Battle Damage is inflicted.\n●This effect activates even if you have no Normal Monsters in your GY when this card inflicts Battle Damage, although the effect will do no damage.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This is a Trigger Effect that activates when Battle Damage is inflicted.\\n2. This effect activates even if you have no Normal Monsters in your GY when this card inflicts Battle Damage, although the effect will do no damage."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

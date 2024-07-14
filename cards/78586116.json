@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can't activate this card during the Damage Step.\\n2. This card targets the 'Morphtronic' monster and the monster that gains ATK.\\n3. If your opponent controls the target 'Morphtronic' monster when this card resolves, this card cannot be equipped and is sent to the GY.\\n4. If this card cannot equip to the target 'Morphtronic' monster, the other target does not gain ATK.\\n5. If you target an attacking 'Morphtronic' monster, its attack stops when this card resolves.\\n6. The monster that gains ATK keeps that ATK as long as it is face-up on the field, even if \"Power-Up Adapter\" leaves the field.\\n7. If the monster that gained ATK from \"Power-Up Adapter\" is affected by \"Forbidden Lance\", it does not lose the ATK it gained from \"Power-Up Adapter\"."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

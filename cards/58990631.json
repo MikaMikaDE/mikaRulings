@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "When your opponent Normal or Special Summons a monster●This card activates in the Summon response timing (like Trap Hole).\n●“Automatic Laser” does not target.\n●You can activate “Automatic Laser” when your opponent Summons multiple monsters, but only the monsters with 1000 or more ATK will be destroyed.",
     "Tengu": "When your opponent Normal or Special Summons a monster(s) with 1000 or more ATK, reveal 1 Iron Core of Koa'ki Meiru in your hand to activate this card. Destroy that Summoned monster(s).\n●This card activates in the Summon response timing (like Trap Hole).\n●“Automatic Laser” does not target.\n●You can activate “Automatic Laser” when your opponent Summons multiple monsters, but only the monsters with 1000 or more ATK will be destroyed.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Automatic Laser\" does not target.\\n2. You can activate \"Automatic Laser\" when your opponent Summons multiple monsters, but only the monsters with 1000 or more ATK will be destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

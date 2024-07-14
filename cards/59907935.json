@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If this card is face-down during the End Phase, it is not destroyed by its effect.\n●If you have multiple “Cyber Archfiends” on the field during the Draw Phase, their effects form a chain.",
     "Tengu": "\n●If this card is face-down during the End Phase, it is not destroyed by its effect.\n●If you have multiple “Cyber Archfiends” on the field during the Draw Phase, their effects form a chain.",
     "Goat": "●If this card is face-down during the End Phase, it is not destroyed by its effect.\n●If you have multiple “Cyber Archfiends” on the field during the DP, their effects form a chain.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If this card is face-down during the End Phase, it is not destroyed by its effect.\\n2. If you have multiple copies of \"Cyber Archfiend\" on the field during the Draw Phase, their effects form a chain."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

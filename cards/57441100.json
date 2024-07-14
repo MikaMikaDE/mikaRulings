@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●The effect to Special Summon starts a Chain. If you control a monster when this effect resolves or your opponent controls no monsters when this effect resolves, you won't Special Summon a monster.",
     "Tengu": "\n●The effect to Special Summon starts a Chain. If you control a monster when this effect resolves or your opponent controls no monsters when this effect resolves, you will not Special Summon a monster.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The effect to Special Summon starts a Chain.\\n2. If you control a monster when this effect resolves or your opponent controls no monsters when this effect resolves, you will not Special Summon a monster."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

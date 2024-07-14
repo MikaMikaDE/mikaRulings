@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Blackwing Armed Wing\" attacks a Defense Position monster, and that monster is changed to Attack Position before the Damage Step, it does not gain 500 ATK."
   },
   "PSCT": {
+    "Edison": "1 \"Blackwing\" Tuner + 1 or more non-Tuners\n① If this card attacks a Defense Position monster, it gains 500 ATK during the Damage Step only. \n② Inflicts Piercing Damage.",
     "Tengu": "1 \"Blackwing\" Tuner + 1 or more non-Tuners\n① If this card attacks a Defense Position monster, it gains 500 ATK during the Damage Step only. \n② Inflicts Piercing Damage.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

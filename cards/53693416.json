@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "●The effect of this monster prevents the activation of Trap Cards that can be activated when a monster is Normal Summoned, such as Trap Hole and Torrential Tribute.\n●You can activate Trap Cards later in the turn.\n●You can negate the Normal Summon of this monsters with Horn of Heaven or Solemn Judgment. (In which case the Normal Summon failed and the effect of the monster is not applied.)\n●The effect of this monster is applied to both players (so you can't activate Pineapple Blast in response to your Normal Summon of this monster).\n●This is a Continuous Effect that you can't chain to.",
     "Tengu": "\n●The effect of this monster prevents the activation of Trap Cards that can be activated when a monster is Normal Summoned, such as Trap Hole and Torrential Tribute.\n●You can activate Trap Cards later in the turn.\n●You can negate the Normal Summon of this monsters with Horn of Heaven or Solemn Judgment. (In which case the Normal Summon failed and the effect of the monster is not applied.)\n●The effect of this monster is applied to both players (so you cannot activate Pineapple Blast in response to your Normal Summon of this monster).\n●This is a Continuous Effect that you cannot chain to.",
     "Goat": "●The effect of this monster prevents the activation of Trap Cards that can be activated when a monster is Normal Summoned, such as Trap Hole and Torrential Tribute.\n●You can activate Trap Cards later in the turn.\n●You can negate the Normal Summon of this monsters with Horn of Heaven or Solemn Judgment. (In which case the Normal Summon failed and the effect of the monster is not applied.)\n●The effect of this monster is applied to both players (so you cannot activate Pineapple Blast in response to your Normal Summon of this monster).\n●This is a Continuous Effect that you cannot chain to.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of this monster prevents the activation of Trap Cards that can be activated when a monster is Normal Summoned, such as \"Trap Hole\" and \"Torrential Tribute\".\\n2. You can activate Trap Cards later in the turn.\\n3. You can negate the Normal Summon of this monsters with \"Horn of Heaven\" or \"Solemn Judgment\". (In which case the Normal Summon failed and the effect of the monster is not applied.)\\n4. The effect of this monster is applied to both players (so you cannot activate \"Pineapple Blast\" in response to your Normal Summon of this monster).\\n5. This is a Continuous Effect that you cannot chain to."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

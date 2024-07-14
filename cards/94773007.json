@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●If a replay occurs when Jirai Gumo attacks and you decide to continue attacking with Jirai Gumo, you don't flip the coin again.\n●If your opponent has Toll, you must pay the cost for Toll before flipping the coin for Jirai Gumo",
     "Tengu": "\n●If a replay occurs when Jirai Gumo attacks and you decide to continue attacking with Jirai Gumo, you do not flip the coin again.\n●If your opponent has Toll, you must pay the cost for Toll before flipping the coin for Jirai Gumo",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If a replay occurs when \"Jirai Gumo\" attacks and you decide to continue attacking with \"Jirai Gumo\", you do not flip the coin again.\\n2. If your opponent has \"Toll\", you must pay the cost for \"Toll\" before flipping the coin for \"Jirai Gumo\""
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

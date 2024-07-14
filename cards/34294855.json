@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●You pay 500 Life Points when Vampire's Curse is sent to the GY. Paying 500 Life Points is a cost.\n●The effect that increases Vampire's Curse's ATK starts a Chain when it is Special Summoned by its effect.\n●Vampire's Curse is not Special Summoned with its effect if it is removed from play.",
     "Tengu": "\n●You pay 500 Life Points when Vampire's Curse is sent to the GY. Paying 500 Life Points is a cost.\n●The effect that increases Vampire's Curse's ATK starts a Chain when it is Special Summoned by its effect.\n●Vampire's Curse is not Special Summoned with its effect if it is removed from play.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You pay 500 Life Points when \"Vampire's Curse\" is sent to the GY. Paying 500 Life Points is a cost.\\n2. The effect that increases The ATK of \"Vampire's Curse\" starts a Chain when it is Special Summoned by its effect.\\n3. \"Vampire's Curse\" is not Special Summoned with its effect if it is removed from play."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

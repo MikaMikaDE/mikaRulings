@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Only face-up monsters you control when resolving Level Tuning are affected. Monsters Summoned afterwards won't have their Level reduced.",
     "Tengu": "\n●Only face-up monsters you control when resolving Level Tuning are affected. Monsters Summoned afterwards will not have their Level reduced.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Only face-up monsters you control when resolving \"Level Tuning\" are affected. Monsters Summoned afterwards will not have their Level reduced."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "●When Serpentine Princess is returned to the Deck by an effect occurring in a chain, the effect of Serpentine Princess starts a new Chain after the current Chain resolves completely.\n●If the effect of Fiber Jar places Serpentine Princess from the field into your Deck, the effect of Serpentine Princess is activated and will be applied after the effect of Fiber Jar has finished resolving.",
     "Tengu": "\n●When Serpentine Princess is returned to the Deck by an effect occurring in a chain, the effect of Serpentine Princess starts a new Chain after the current Chain resolves completely.\n●If the effect of Fiber Jar places Serpentine Princess from the field into your Deck, the effect of Serpentine Princess is activated and will be applied after the effect of Fiber Jar has finished resolving.",
     "Goat": "●When Serpentine Princess is returned to the Deck by an effect occurring in a chain, the effect of Serpentine Princess starts a new Chain after the current Chain resolves completely.\n●If the effect of Fiber Jar places Serpentine Princess from the field into your Deck, the effect of Serpentine Princess is activated and will be applied after the effect of Fiber Jar has finished resolving.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. When \"Serpentine Princess\" is returned to the Deck by an effect occurring in a chain, the effect of \"Serpentine Princess\" starts a new Chain after the current Chain resolves completely.\\n2. If the effect of \"Fiber Jar\" places \"Serpentine Princess\" from the field into your Deck, the effect of \"Serpentine Princess\" is activated and will be applied after the effect of \"Fiber Jar\" has finished resolving."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

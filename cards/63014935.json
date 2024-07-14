@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "●You choose whether to tribute or inflict damage with the ③ when it resolves, not when it activates.",
     "Tengu": "●You choose whether to tribute or inflict damage with the ③ when it resolves, not when it activates.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Volcanic Queen\" starts a Chain during your End Phase. You choose to Tribute 1 other monster or take 1000 damage when the effect resolves.\\n2. If the effect of \"Volcanic Queen\" activates during the End Phase and \"Remove Brainwashing\" is chained, the player that controlled \"Volcanic Queen\" when its effect activated will Tribute 1 monster or take 1000 damage."
   },
   "PSCT": {
+    "Edison": "Ⓢ Cannot be Normal Summoned/Set. \nⓈ Must first be Special Summoned (from your hand) to the opponent's field, by tributing 1 monster they control. \nⒸ You can't Normal Summon/Set the turn this card is successfully Summoned this way. \n① Once per turn: You can send 1 other card you control to the GY; inflict 1000 damage to your opponent. \n② During your End Phase: Tribute 1 monster or take 1000 damage.",
     "Tengu": "Ⓢ Can't be Normal Summoned/Set. \nⓈ Must first be Special Summoned (from your hand) to the opponent's field, by tributing 1 monster they control. \nⒸ You can't Normal Summon/Set the turn this card is successfully Summoned this way. \n① Once per turn: You can send 1 other card you control to the GY; inflict 1000 damage to your opponent. \n② During your End Phase: Tribute 1 monster or take 1000 damage.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

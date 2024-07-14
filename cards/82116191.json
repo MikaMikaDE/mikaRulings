@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●If Skill Drain is active, Gigantic Cephalotus loses any ATK gained by its effect. The ATK is not regained when Skill Drain is negated or removed from the field.\n●The destroyed Plant-Type monster must be a Plant-Type monster both on the field and in the GY, or Gigantic Cephalotus' effect is not applied.",
     "Tengu": "\n●If Skill Drain is active, Gigantic Cephalotus loses any ATK gained by its effect. The ATK is not regained when Skill Drain is negated or removed from the field.\n●The destroyed Plant-Type monster must be a Plant-Type monster both on the field and in the GY, or Gigantic Cephalotus' effect is not applied.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Skill Drain\" is active, \"Gigantic Cephalotus\" loses any ATK gained by its effect. The ATK is not regained when \"Skill Drain\" is negated or removed from the field.\\n2. The destroyed Plant-Type monster must be a Plant-Type monster both on the field and in the GY, or the effect of \"Gigantic Cephalotus\" is not applied."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

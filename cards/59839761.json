@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can't activate “Delta Crow – Anti Reverse” from your hand if you control 4 or 5 “Blackwing” monsters.\n●If you control exactly 3 “Blackwing” monsters, you can activate “Delta Crow – Anti Reverse” from your hand during your turn or during your opponent’s turn.\n●The number of “Blackwing” monsters on the field is only an activation requirement. If the number of Blackwings is no longer correct when “Delta Crow – Anti Reverse” resolves, its effect is still applied. “Delta Crow – Anti Reverse” only destroys face-down Spell and Trap Cards. If those cards are chained in response, they are not destroyed.",
     "Tengu": "\n●You cannot activate “Delta Crow – Anti Reverse” from your hand if you control 4 or 5 “Blackwing” monsters.\n●If you control exactly 3 “Blackwing” monsters, you can activate “Delta Crow – Anti Reverse” from your hand during your turn or during your opponent’s turn.\n●The number of “Blackwing” monsters on the field is only an activation requirement. If the number of Blackwings is no longer correct when “Delta Crow – Anti Reverse” resolves, its effect is still applied. “Delta Crow – Anti Reverse” only destroys face-down Spell and Trap Cards. If those cards are chained in response, they are not destroyed.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate \"Delta Crow - Anti Reverse\" from your hand if you control 4 or 5 'Blackwing' monsters.\\n2. If you control exactly 3 'Blackwing' monsters, you can activate \"Delta Crow - Anti Reverse\" from your hand during your turn or during your opponent's turn.\\n3. The number of 'Blackwing' monsters on the field is only an activation requirement. If the number of Blackwings is no longer correct when \"Delta Crow - Anti Reverse\" resolves, its effect is still applied.\\n4. \"Delta Crow - Anti Reverse\" only destroys face-down Spell and Trap Cards. If those cards are chained in response, they are not destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

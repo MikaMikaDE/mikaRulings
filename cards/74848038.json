@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "Discard 1 card. Add 1 Monster Card from your GY to your hand.\n●This effect targets a card in the GY. It is negated by Necrovalley.\n●You discard a card for cost.\n●If you discard Night Assailant, Makyura the Destructor, or Dandylion their effects activate (in the GY), starting a new chain, even if you retrieve the same card.",
     "Tengu": "Discard 1 card. Add 1 Monster Card from your GY to your hand.\n●This effect targets a card in the GY. It is negated by Necrovalley.\n●You discard a card for cost.\n●If you discard Night Assailant, Makyura the Destructor, or Dandylion their effects activate (in the GY), starting a new chain, even if you retrieve the same card.",
     "Goat": "●You can select a card discarded by the effect of Monster Reincarnation as a target of the effect of that same Monster Reincarnation (returning the monster to your hand).\n●If you discard Night Assailant or Makyura the Destructor their effects activate even if you retrieve the same card.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can select a card discarded for the cost of \"Monster Reincarnation\" as a target of the effect of that same \"Monster Reincarnation\" (returning the monster to your hand).\\n2. If you discard \"Night Assailant\" or \"Makyura the Destructor\" their effects activate even if you retrieve the same card."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●If you have 2 “Batterymen C” on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 “Battermen C” on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\n●A “Batteryman C” equipped to “Relinquished” is not in Attack or Defense Position so it won't be counted for the effect of “Batteryman C”.\n●If “Batteryman C” is changed to Machine-Type, it will itself gain the ATK bonus.",
     "Tengu": "\n●If you have 2 “Batterymen C” on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 “Battermen C” on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\n●A “Batteryman C” equipped to “Relinquished” is not in Attack or Defense Position so it will not be counted for the effect of “Batteryman C”.\n●If “Batteryman C” is changed to Machine-Type, it will itself gain the ATK bonus.",
     "Goat": "●If you have 2 “Batterymen C” on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 “Battermen C” on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\nA “Batteryman C” equipped to “Relinquished” is not in Attack or Defense Position so it will not be counted for the effect of “Batteryman C”.\n●If “Batteryman C” is changed to Machine, it will itself gain the ATK bonus.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you have 2 \"Batterymen C\" on the field in Attack Position, each of your Machines gains +1000 ATK. If you have 3 \"Battermen C\" on the field in Attack Position, each of your Machines gains +1500 ATK. (NOT +4500!!!)\\n2. A \"Batteryman C\" equipped to \"Relinquished\" is not in Attack or Defense Position so it will not be counted for the effect of \"Batteryman C\".\\n3. If \"Batteryman C\" is changed to Machine-Type, it will itself gain the ATK bonus."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

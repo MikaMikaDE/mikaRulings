@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. [FORUM] You can negate Spell/Trap Cards with effects such as \"Dark Bribe\" while \"White Dragon Ninja\" is on the field. Although negating the card activation, and destroying the card, happen as part of the same chain link, and are therefore considered simultaneous, this is a case where one is required for the other, but not vice-versa. You have to negate to destroy, but you don't have to destroy to negate."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

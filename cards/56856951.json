@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Sending 2 cards from your hand to the GY is a cost.\n●If your opponent’s Life Points drop to 3000 or lower before this effect resolves you will still inflict 2000 damage to them.\n●The effect of “Meteor Flare” that activates in your GY is Spell Speed 2.",
     "Tengu": "\n●Sending 2 cards from your hand to the GY is a cost.\n●If your opponent’s Life Points drop to 3000 or lower before this effect resolves you will still inflict 2000 damage to them.\n●The effect of “Meteor Flare” that activates in your GY is Spell Speed 2.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Sending 2 cards from your hand to the GY is a cost.\\n2. If your opponent's Life Points drop to 3000 or lower before this effect resolves you will still inflict 2000 damage to them.\\n3. The effect of \"Meteor Flare\" that activates in your GY is Spell Speed 2."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

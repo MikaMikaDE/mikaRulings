@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●'Ancient Gear' cards means any card you control that has Ancient Gear in its card name.\n●You can't activate Spell Gear if you don't have any Ancient Gear Golem remaining in your Deck.\n●If an effect is chained that prevents you from Special Summoning Ancient Gear Golem, you still can't Normal Summon or Set until the end of your next turn.\n●The effect that prohibits Normal Summons or Sets until the end of your next turn is not a restriction on this card’s activation. So you can activate this card if you Normal Summoned earlier in the turn. But you can't Normal Summon or Set after it is activated.",
     "Tengu": "\n●'Ancient Gear' cards means any card you control that has Ancient Gear in its card name.\n●You cannot activate Spell Gear if you do not have any Ancient Gear Golem remaining in your Deck.\n●If an effect is chained that prevents you from Special Summoning Ancient Gear Golem, you still cannot Normal Summon or Set until the end of your next turn.\n●The effect that prohibits Normal Summons or Sets until the end of your next turn is not a restriction on this card’s activation. So you can activate this card if you Normal Summoned earlier in the turn. But you cannot Normal Summon or Set after it is activated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. 'Ancient Gear' cards means any card you control that has 'Ancient Gear' in its card name.\\n2. You cannot activate \"Spell Gear\" if you do not have any \"Ancient Gear Golem\" remaining in your Deck.\\n3. If an effect is chained that prevents you from Special Summoning \"Ancient Gear Golem\", you still cannot Normal Summon or Set until the end of your next turn.\\n4. The effect that prohibits Normal Summons or Sets until the end of your next turn is not a restriction on this card's activation. So you can activate this card if you Normal Summoned earlier in the turn. But you cannot Normal Summon or Set after it is activated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

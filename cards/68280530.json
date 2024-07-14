@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●For its effect to activate, “Royal Knight” must be on the field when the monster it destroyed is sent to the GY. Its effect won't activate if it battles a monster with equal ATK and they are both destroyed.",
     "Tengu": "\n●For its effect to activate, “Royal Knight” must be on the field when the monster it destroyed is sent to the GY. Its effect will not activate if it battles a monster with equal ATK and they are both destroyed.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. For its effect to activate, \"Royal Knight\" must be on the field when the monster it destroyed is sent to the GY. Its effect will not activate if it battles a monster with equal ATK and they are both destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

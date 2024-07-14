@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Removing this card from play is a cost.\\n2. The effect targets 1 face-up 'Blackwing' monster you control.\\n3. You can only activate this effect during your Main Phase 1.\\n4. The conditions placed by this effect are all placed as part of the resolution of this effect. None of them start a Chain when they're applied.\\n5. If the monster targeted by this effect attacks a monster with a lower ATK, that monster is considered to be destroyed by the effect placed by \"Blackwing - Boreas the Sharp\", not by battle.\\n6. If the monster targeted by this effect can attack twice in one turn, the effects placed by \"Blackwing - Boreas the Sharp\" apply to both attacks.\\n7. If the monster targeted by this effect is flipped face-down, the effect is no longer applied.\\n8. You cannot target a monster that's already being affected by \"Blackwing - Boreas the Sharp\" with the effect of another \"Blackwing - Boreas the Sharp\"."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

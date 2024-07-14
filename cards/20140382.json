@@ -7,6 +7,7 @@
     "race": "Counter"
   },
   "Rulings": {
+    "Edison": "Activate only while you control a face-up Level 7 or higher monster that was Tribute Summoned. Negate the activation of a Trap Card or Effect Monster's effect and destroy that card.\n●You must control a face-up Level 7(+) monster that was Tribute Summoned to activate this card.\n●You can't activate this card if your Tribute Summoned monster Level is treated as Level 6 (or lower) by Level Eater, even if its original (printed) Level is 7(+).\n●You can't activate this card if you Normal Summoned a Level 7(+) monster using the effect of Mausoleum of the Emperor.\n●This effect negates the activation of a Trap Card (when it is played face-up).\n●This card can't negate the activated effect of Skill Successor in the GY.\n●This effect negates the activation of an activated Effect Monster's effect in any location.\n●If this card negates the activated effect of Elemental Hero Absolute Zero in the Extra Deck, it destroys it in the Extra Deck and sends it to the GY.",
     "Tengu": "Activate only while you control a face-up Level 7 or higher monster that was Tribute Summoned. Negate the activation of a Trap Card or Effect Monster's effect and destroy that card.\n●You must control a face-up Level 7(+) monster that was Tribute Summoned to activate this card.\n●You cannot activate this card if your Tribute Summoned monster Level is treated as Level 6 (or lower) by Level Eater, even if its original (printed) Level is 7(+).\n●You cannot activate this card if you Normal Summoned a Level 7(+) monster using the effect of Mausoleum of the Emperor.\n●This effect negates the activation of a Trap Card (when it is played face-up).\n●This card cannot negate the activated effect of Skill Successor in the GY.\n●This effect negates the activation of an activated Effect Monster's effect in any location.\n●If this card negates the activated effect of Elemental Hero Absolute Zero in the Extra Deck, it destroys it in the Extra Deck and sends it to the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

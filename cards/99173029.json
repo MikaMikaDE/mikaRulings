@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●When this card is active, Spirit Monsters on both sides of the field don't return to their owner’s hand during the End Phase of the turn they were Summoned.\n●Discarding 1 card during your End Phase is a maintenance cost and must be paid each turn. You may decide to not discard a card, and destroy this card instead.\n●When this card is active, Spirit Monsters may still be returned to their owner’s hands by card effects such as Penguin Soldier and Compulsory Evacuation Device.",
     "Tengu": "\n●When this card is active, Spirit Monsters on both sides of the field do not return to their owner’s hand during the End Phase of the turn they were Summoned.\n●Discarding 1 card during your End Phase is a maintenance cost and must be paid each turn. You may decide to not discard a card, and destroy this card instead.\n●When this card is active, Spirit Monsters may still be returned to their owner’s hands by card effects such as Penguin Soldier and Compulsory Evacuation Device.",
     "Goat": "●When this card is applying, Spirit Monsters on both sides of the field do not return to their owner’s hand during the End Phase of the turn they were Summoned.\n●Discarding 1 card during your End Phase is a maintenance cost and must be paid each turn. You may decide to not discard a card, and destroy this card instead.\n●When this card is applying, Spirit Monsters may still be returned to their owner’s hands by card effects such as Penguin Soldier and Compulsory Evacuation Device.Andrew Roth, 6/21/2005If “Spiritual Energy Settle Machine” is negated, Spirits summoned that turn will return to the hand as normal. Spirits summoned or turned face up on previous turns will not return to the hand",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. When this card is active, Spirit Monsters on both sides of the field do not return to their owner's hand during the End Phase of the turn they were Summoned.\\n2. Discarding 1 card during your End Phase is a maintenance cost and must be paid each turn. You may decide to not discard a card, and destroy this card instead.\\n3. When this card is active, Spirit Monsters may still be returned to their owner's hands by card effects such as \"Penguin Soldier\" and \"Compulsory Evacuation Device\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.",
     "Tengu": "● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect activates at the same time that the monster destroyed by battle is sent to the GY.\\n2. This effect will activate even if this card destroys a Monster Token, because the text does not require the destroyed monster to be sent to the GY.\\n3. If this card destroys \"Embodiment of Apophis\", this effect will activate.\\n4. This effect will activate if you destroy your monster controlled by your opponent.\\n5. The effects of face-up Continuous Cards can be activated even while the effect of this card is being applied."
   },
   "PSCT": {
+    "Edison": "① If this card destroys an opponent's monster by battle: \nYour opponent can't activate Trap Cards during the next turn.",
     "Tengu": "① If this card destroys an opponent's monster by battle: \nYour opponent can't activate Trap Cards during the next turn.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

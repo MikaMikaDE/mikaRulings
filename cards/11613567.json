@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● If you target a face-down Defense Position monster, it is flipped into Attack Position.\nIf you flip a Flip monster this way, its Flip Effect can activate.",
     "Tengu": "● If you target a face-down Defense Position monster, it is flipped into face-up Attack Position.\nIf you flip a Flip monster this way, its Flip Effect can activate.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The Trigger Effect of \"Blackwing - Elphin the Raven\" targets the opponent's monster.\\n2. You can target a face-down monster with \"Blackwing - Elphin the Raven\" and flip it to face-up Attack Position. If the monster has a Flip Effect, it will activate."
   },
   "PSCT": {
+    "Edison": "Ⓢ If you control a \"Blackwing\" monster, you can Normal Summon this card without Tributing. \n① When Normal Summoned: You can target 1 monster your opponent controls; change that target's battle position.",
     "Tengu": "Ⓢ If you control a \"Blackwing\" monster, you can Normal Summon this card without Tributing. \n① When Normal Summoned: You can target 1 monster your opponent controls; change that target's battle position.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

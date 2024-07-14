@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "● Does “Germ Infection’s” decrease continue to accumulate even after the ATK has reached 0? \nA: The decrease in ATK will continue to accumulate. So, if I have a White Magicial Hat equipped with Germ Infection for 4 Standby Phases, it would be receiving -1200 to its ATK. (I would treat its ATK as 0, since 1000 - 1200 = -200) If I were to equip an Axe of Despair to that same White Magicial Hat, its ATK would be 1000 + 1000 [Axe] - 1200 [Germ Infection] = 800 ATK.  ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

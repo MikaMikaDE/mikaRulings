@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● This card can target itself in the GY.",
     "Tengu": "● This card can target itself in the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "1 Tuner + 1 or more non-Tuners\n① Gains 100 ATK for each Warrior in the GY(s).\n② If this card is destroyed by battle and sent to the GY: You can target 1 Warrior in either GY; Special Summon it.",
     "Tengu": "1 Tuner + 1 or more non-Tuners\n① Gains 100 ATK for each Warrior in the GY(s).\n② If this card is destroyed by battle and sent to the GY: You can target 1 Warrior in either GY;\nSpecial Summon it.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

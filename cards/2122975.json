@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This card can be chained to a Normal Trap Card or a Continuous Trap Card.\n●This card’s effect is only applied once, the first time the Trap Card it was chained to is sent from the field to the GY for any reason.\n●If the Trap Card that “Trap Reclamation” was chained to is removed from play, or returned to the hand, etc. instead of going to the GY, “Trap Reclamation’s” effect is no longer applied.",
     "Tengu": "\n●This card can be chained to a Normal Trap Card or a Continuous Trap Card.\n●This card’s effect is only applied once, the first time the Trap Card it was chained to is sent from the field to the GY for any reason.\n●If the Trap Card that “Trap Reclamation” was chained to is removed from play, or returned to the hand, etc. instead of going to the GY, “Trap Reclamation’s” effect is no longer applied.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card can be chained to a Normal Trap Card or a Continuous Trap Card.\\n2. This card's effect is only applied once, the first time the Trap Card it was chained to is sent from the field to the GY for any reason.\\n3. If the Trap Card that \"Trap Reclamation\" was chained to is removed from play, or returned to the hand, etc. instead of going to the GY, the effect of \"Trap Reclamation\" is no longer applied."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

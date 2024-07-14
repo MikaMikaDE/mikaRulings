@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●If you meet the condition enough times, you can activate Recycle as many times as you want in the same Standby Phase.\n●You can't activate Recycle if you have no non-Monster Cards in your GY.",
     "Tengu": "\n●If you meet the condition enough times, you can activate Recycle as many times as you want in the same Standby Phase.\n●You cannot activate Recycle if you have no non-Monster Cards in your GY.",
     "Goat": "●If you meet the condition enough times, you can activate Recycle as many times as you want in the same SP.\n●You cannot activate Recycle if you have no non-Monster Cards in your GY.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If you meet the condition enough times, you can activate \"Recycle\" as many times as you want in the same Standby Phase.\\n2. You cannot activate \"Recycle\" if you have no non-Monster Cards in your GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

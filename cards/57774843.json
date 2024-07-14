@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● If “Book of Moon” is chained to this card’s ① effect, this card doesn’t destroy itself.",
     "Tengu": "● If “Book of Moon” is chained to this card’s ① effect, this card doesn’t destroy itself.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Paying 1000 Life Points is a cost.\\n2. If an effect is chained that flips \"Judgment Dragon\" face-down, it is not destroyed by its effect.\\n3. See \"Jain, Lightsworn Paladin\" for additional rulings."
   },
   "PSCT": {
+    "Edison": "Ⓢ Cannot be Normal Summoned/Set. \nⓈ Must be Special Summoned (from your hand)     by having 4 or more \"Lightsworn\" monsters with different names in your GY. \n① You can pay 1000 LP; destroy all other cards on the field. \n② During your End Phase: \nSend the top 4 cards of your Deck to the GY.\n(Activate & Resolve only if face-up on the field).",
     "Tengu": "Ⓢ Cannot be Normal Summoned/Set. \nⓈ Must be Special Summoned (from your hand)     by having 4 or more \"Lightsworn\" monsters with different names in your GY. \n① You can pay 1000 LP; \ndestroy all other cards on the field. \n② During your End Phase: \nSend the top 4 cards of your Deck to the GY.\n(Activate & Resolve only if face-up on the field).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The effect of \"Trap Stun\" lasts throughout the turn. You do not choose a timing for it to expire in the End Phase."
   },
   "PSCT": {
+    "Edison": "① This turn, Negate all other Trap Effects on the field.",
     "Tengu": "① This turn, Negate all other Trap Effects on the field.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

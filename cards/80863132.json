@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can only chain \"Null and Void\" to an effect that draws cards and does nothing else. You can chain \"Null and Void\" to the activation of \"Pot of Greed\" or \"Jar of Greed\". You can chain \"Null and Void\" to the activation of the effect of cards like \"Airknight Parshath\".\\n2. You can chain \"Null and Void\" to a Continuous Spell or Trap Card that causes drawing, such as \"Mirage of Nightmare\" or \"Heart of the Underdog\".\\n3. You cannot chain \"Null and Void\" to \"Disturbance Strategy\", \"Graceful Charity\", \"Card Destruction\", \"Morphing Jar\", \"Mind Wipe\", \"Dragged Down into the Grave\", or \"Reload\".\\n4. You can activate \"Null and Void\" during the Damage Step, for example against the effects of \"Airknight Parshath\", \"Sasuke Samurai #3\" or \"Bistro Butcher\".\\n5. The card(s) discarded by the effect of \"Null and Void\" are never treated as actually drawn, so they are considered sent from the Deck to the GY.\\n6. You can chain \"Null and Void\" to \"Reckless Greed\". Since you cannot draw by the effect of \"Reckless Greed\", the effect of skipping 2 Draw Phases is NOT applied.\\n7. You can chain \"Null and Void\" to the effect of \"Royal Magical Library\".\\n8. You cannot chain \"Null and Void\" to the effect of \"Appropriate\" because the effect of \"Appropriate\" cannot be chained to."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

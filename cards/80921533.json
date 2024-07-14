@@ -7,6 +7,7 @@
     "race": "Field"
   },
   "Rulings": {
+    "Edison": "● This effect starts a chain.\n● The monster summoned this way is not Tribute Summoned.\n● This Summon can't be negated by \"Solemn Judgment\" or \"Horn of Heaven\".",
     "Tengu": "● This effect starts a chain.\n● The monster summoned this way is not Tribute Summoned.\n● This Summon cannot be negated by \"Solemn Judgment\" or \"Horn of Heaven\".",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Using the effect of \"Mausoleum of the Emperor\" can be chained to.\\n2. \"Mausoleum of the Emperor\" does not grant extra Normal Summons. If you use its effect, you cannot Normal Summon or Set another monster during the same turn.\\n3. A monster Normal Summoned with the effect of \"Mausoleum of the Emperor\" is NOT Tribute Summoned. So if you pay 1000 Life Points and Normal Summon \"Zaborg the Thunder Monarch\", its effect will not activate.\\n4. You cannot use its effect in conjunction with \"Ultimate Offering\", because you cannot activate the effect of \"Mausoleum of the Emperor\" during the resolution of the effect of \"Ultimate Offering\".\\n5. You cannot pay 3000 Life Points to Normal Summon \"Gilford the Lightning\" and activate its effect. You can pay 2000 Life Points just to Summon it. You cannot then Tribute just 1 monster to activate its effect.\\n6. You cannot Normal Summon \"Victory Dragon\" with the effect of \"Mausoleum of the Emperor\"."
   },
   "PSCT": {
+    "Edison": "① During the Main Phase: The turn player can pay choose 1 or 2, then pay that many LP x1000; during this effect's resolution, they Normal Summon 1 monster from their hand, which requires that many tributes, without Tributing (This is their 1 Normal Summon/Set for the turn).",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

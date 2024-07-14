@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● You can only activate 1 Trigger Effect in your hand per chain.\n(You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand/GY).\n● This card's effect can't be activated in the Damage Step, so it can't be activated when a Beast is destroyed by battle.",
     "Tengu": "● You can only activate 1 Trigger Effect in your hand per chain.\n(You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand/GY).\n● This card's effect cannot be activated in the Damage Step, so it cannot be activated when a Beast is destroyed by battle.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● This card's effect cannot be activated during the Damage Step.",
@@ -27,6 +28,7 @@
     "Base": "1. This card's effect can be activated during either player's turn.\\n2. This effect can be activated after a Beast-Type monster you control is destroyed and sent to the GY, if that monster was face-up and \"Green Baboon, Defender of the Forest\" was in your hand or GY when it was destroyed.\\n3. This effect cannot be activated during the Damage Step.\\n4. When \"Green Baboon, Defender of the Forest\" is destroyed, you cannot use its effect to Special Summon itself.\\n5. When \"Green Baboon, Defender of the Forest\" and another Beast-Type monster are destroyed at the same time by a card's effect, like \"Lightning Vortex\", you cannot use the effect of \"Green Baboon, Defender of the Forest\" to Special Summon itself.\\n6. You cannot activate this effect when a face-down Beast-Type monster you control is destroyed by a card effect.\\n7. You cannot activate this effect when a Beast-Type monster treated as a Spell Card (such as one equipped to \"Relinquished\" or a 'Crystal Beast') is destroyed.\\n8. You can activate this effect when a face-up monster you control that is treated as a Beast-Type monster (due to \"DNA Surgery\", etc.) is destroyed and sent to the GY.\\n9. When a Beast-Type monster is destroyed and sent to the GY, you can only Special Summon 1 \"Green Baboon, Defender of the Forest\",even if multiple copies are available in your hand/GY."
   },
   "PSCT": {
+    "Edison": "① When this card is in your hand or GY, when a face-up Beast you control is destroyed and sent to the GY (except in the Damage Step): \nYou can pay 1000 LP; Special Summon this card.",
     "Tengu": "① When this card is in your hand or GY, when a face-up Beast you control is destroyed and sent to the GY (except in the Damage Step): \nYou can pay 1000 LP; \nSpecial Summon this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

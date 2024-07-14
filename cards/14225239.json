@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "●If you have a face-down Field Spell Card, but no face-down cards in your Spell & Trap Card Zones, you can't attack directly with “Elemental Hero Mariner’s” effect.\n●If you control “Relinquished” equipped with a face-down Monster Card, that card is face-down in your Spell & Trap Card Zone, so “Elemental Hero Mariner” can attack directly.\n●If your only face-down card is “Rush Recklessly”, you can attack directly, and then during the DAMAGE STEP, activate “Rush Recklessly” and the direct attack will continue. This is because Replays don't usually occur during the Damage Step.\n●If your opponent controls a monster equipped with “Ring of Magnetism”, then “Elemental Hero Mariner” can't attack directly.",
     "Tengu": "\n●If you have a face-down Field Spell Card, but no face-down cards in your Spell & Trap Card Zones, you cannot attack directly with “Elemental Hero Mariner’s” effect.\n●If you control “Relinquished” equipped with a face-down Monster Card, that card is face-down in your Spell & Trap Card Zone, so “Elemental Hero Mariner” can attack directly.\n●If your only face-down card is “Rush Recklessly”, you can attack directly, and then during the DAMAGE STEP, activate “Rush Recklessly” and the direct attack will continue. This is because Replays do not usually occur during the Damage Step.\n●If your opponent controls a monster equipped with “Ring of Magnetism”, then “Elemental Hero Mariner” cannot attack directly.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you have a face-down Field Spell Card, but no face-down cards in your Spell & Trap Card Zones, you cannot attack directly with the effect of \"Elemental HERO Mariner\".\\n2. If you control \"Relinquished\" equipped with a face-down Monster Card, that card is face-down in your Spell & Trap Card Zone, so \"Elemental HERO Mariner\" can attack directly.\\n3. If your only face-down card is \"Rush Recklessly\", you can attack directly, and then during the DAMAGE STEP, activate \"Rush Recklessly\" and the direct attack will continue. This is because Replays do not usually occur during the Damage Step.\\n4. If your opponent controls a monster equipped with \"Ring of Magnetism\", then \"Elemental HERO Mariner\" cannot attack directly."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The Continuous Effect applies while Jinzo is face-up on the field as a monster.\n●This card's Flip / Normal Summon can be negated by Solemn Judgment / Horn of Heaven.\n●Trap Cards can't be activated (played face-up).\n●The effects of face-up Trap Cards (ex: Royal Oppression) can't be activated.\n●The Continuous Effect does not activate.\n●Negate the effect●The effects of Trap Cards which have already resolved are not negated.\n●A face-down Jinzo does not apply its effects, it is flipped and destroyed by Acid Trap Hole.",
     "Tengu": "(1) Trap Cards cannot be activated. (2) The effects of all face-up Trap Cards are negated.\n●The (1) Continuous Effect applies while Jinzo is face-up on the field as a monster.\n●This card's Flip / Normal Summon can be negated by Solemn Judgment / Horn of Heaven.\n●Trap Cards cannot be activated (played face-up).\n●The effects of face-up Trap Cards (ex: Royal Oppression) cannot be activated.\n●The (2) Continuous Effect does not activate.\n●Negate the effect(s) of a Trap Cards that activates on the field, even if it is removed from the field.\n●The effects of Trap Cards which have already resolved are not negated.\n●A face-down Jinzo does not apply its effects, it is flipped and destroyed by Acid Trap Hole.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. When \"Jinzo\" is Tribute Summoned, cards like \"Trap Hole\" and \"Torrential Tribute\" cannot be activated because the Continuous Effect of \"Jinzo\" is applied when it is Summoned, but you can negate its Summon with \"Solemn Judgment\", \"Horn of Heaven\", etc.\\n2. If your opponent activates \"Waboku\" during your Standby Phase and you Summon \"Jinzo\" in your Main Phase, the effect of \"Waboku\" is still applied because it resolved before \"Jinzo\" was Summoned.\\n3. If a face-down \"Jinzo\" is flipped by \"Acid Trap Hole\", the effect of \"Jinzo\" is not applied if it is destroyed by \"Acid Trap Hole\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

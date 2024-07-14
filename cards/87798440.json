@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters",
     "Tengu": "(1) Once per turn, you can equip this card to a Warrior-Type monster you control, OR unequip it to Special Summon this card in face-up Attack Position. (2) While equipped to a monster by this effect, when that monster inflicts Battle Damage to your opponent, destroy 1 card on the field. (C) (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, this card is destroyed instead.) \n●The (1) Ignition(-like) Effect activates & resolves on the field.\n●If activated while in the monster zone, this is a Monster Card's effect.\n●If activated while equipped, this is an Equip Spell Card's effect.\n●The (2) Trigger-like Effect activates & resolves on the field, it is the effect of an Equip Spell Card.\n●This effect activates in Substep 5 - After Damage Calculation.\n●This effect targets 1 card on the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Armor Breaker\" starts a Chain when the equipped monster inflicts battle damage to the opponent's Life Points. It targets the card selected to be destroyed."
   },
   "PSCT": {
+    "Edison": "① Once per turn: you can activate 1 of these effects; ● Target 1 Warrior you control; equip this monster to that target.\n● Unequip and Special Summon this card in Attack Position.\n② While equipped by this effect, if the equipped monster inflicts Battle Damage: Target 1 card on the field; destroy it.\n③ If a monster equipped by this card's effect would be destroyed, destroy this card instead.\n© A monster can never be equipped with more than 1 Union Monster.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

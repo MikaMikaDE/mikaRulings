@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The text \"Your opponent discards 1 random card\" is read from the perspective of the Normal Spell Card's activator. So the player who activates \"Dark Deal\" is the player who discards a card.\\n2. This card must be chained directly to the Normal Spell Card. If another card is chained directly to the Normal Spell Card, you cannot activate \"Dark Deal\".\\n3. You cannot activate this card if you have 0 cards in your hand. If an effect is chained to make you discard all the cards in your hand, the effect of the opponent's Normal Spell Card still changes, but does nothing since you have 0 cards in your hand.\\n4. This card can be chained to \"Swords of Revealing Light\" like any other Normal Spell Card, and \"Swords of Revealing Light\" will not stay on the field.\\n5. If the opponent activates a Normal Spell Card that targets, when you chain \"Dark Deal\", the card no longer targets. If the Normal Spell Card originally targeted \"Spirit Reaper\", the \"Spirit Reaper\" would not be destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● If Freed leaves the field before this effect resolves, the target is still destroyed (this is due to a TCG/OCG ruling difference). While Freed is not on the field, consider his ATK to be 1700.",
     "Tengu": "● If Freed leaves the field before this effect resolves, the target is still destroyed (this is due to a TCG/OCG ruling difference). While Freed is not on the field, consider his ATK to be 1700.",
     "Goat": "●You can only activate Freed the Brave Wanderer's effect during your MP 1 or 2.\n●Freed the Brave Wanderer's effect targets 1 monster.\n●If your opponent chains Rush Recklessly to Freed the Brave Wanderer's effect to increase Freed the Brave Wanderer's ATK by 700 points, and the ATK of the target monster is now lower than Freed the Brave Wanderer's ATK when its effect resolves, the target monster is not destroyed.\n●If your opponent chains Ring of Destruction to Freed the Brave Wanderer's effect and destroys it, Freed the Brave Wanderer's effect still resolves.\n●If you activate and resolve Freed the Brave Wanderer's effect, then remove him from play and return him from play, or flip him face-down then face-up again, you can use his effect again that turn.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can only activate the effect of \"Freed the Brave Wanderer\" during your Main Phase 1 or 2.\\n2. The effect of \"Freed the Brave Wanderer\" targets 1 monster.\\n3. If your opponent chains \"Rush Recklessly\" to the effect of \"Freed the Brave Wanderer\" to increase the ATK of \"Freed the Brave Wanderer\" by 700 points, and the ATK of the target monster is now lower than the ATK of \"Freed the Brave Wanderer\" when its effect resolves, the target monster is not destroyed.\\n4. If your opponent chains \"Ring of Destruction\" to the effect of \"Freed the Brave Wanderer\" and destroys it, the effect of \"Freed the Brave Wanderer\" still resolves.\\n5. If you activate and resolve the effect of \"Freed the Brave Wanderer\", then remove him from play and return him from play, or flip him face-down then face-up again, you can use his effect again that turn."
   },
   "PSCT": {
+    "Edison": "① Once per turn: You can banish 2 LIGHT monsters from your GY, then target 1 face-up monster with more ATK than this card; destroy that target.",
     "Tengu": "① Once per turn: You can banish 2 LIGHT monsters from your GY, then target 1 face-up monster with more ATK than this card; destroy that target.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

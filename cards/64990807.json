@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Revealing 3 cards is an activation cost. The effect will resolve even if there are no longer 3 cards in your hand when it resolves.\\n2. It targets the card your opponent controls.\\n3. Destroying your opponent's card and Special Summoning the monster occur at the same time.\\n4. You can still destroy the target monster if the 3 revealed monsters are no longer in your hand or you have no monster to Special Summon when the effect of \"Magic Triangle of the Ice Barrier\" resolves.\\n5. If control of the target card shifts to you before \"Magic Triangle of the Ice Barrier\" resolves, it won't be destroyed and you won't Special Summon."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

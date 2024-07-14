@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "●This effect does not target. You determine how many Fog Counters to place (based on the Level of the monster that destroyed “Cloudian – Ghost Fog” in battle) and you choose which monsters to place the Fog Counters onto when the effect is resolved.\n●If “Skill Drain” is activated while a monster has Fog Counter(s), the Fog Counter(s) remain on the monster.",
     "Tengu": "\n●This effect does not target. You determine how many Fog Counters to place (based on the Level of the monster that destroyed “Cloudian – Ghost Fog” in battle) and you choose which monsters to place the Fog Counters onto when the effect is resolved.\n●If “Skill Drain” is activated while a monster has Fog Counter(s), the Fog Counter(s) remain on the monster.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect does not target. You determine how many Fog Counters to place (based on the Level of the monster that destroyed \"Cloudian - Ghost Fog\" in battle) and you choose which monsters to place the Fog Counters onto when the effect is resolved.\\n2. If \"Skill Drain\" is activated while a monster has Fog Counter(s), the Fog Counter(s) remain on the monster."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

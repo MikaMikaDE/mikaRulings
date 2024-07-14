@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Removing 1 card in your Deck from play starts a Chain.\\n2. The card is removed from play face-up.\\n3. If \"Watthydra\" attacks twice and inflicts Battle Damage twice, its effect activates twice.\\n4. Adding the removed card to your hand does not start a Chain.\\n5. Even if \"Watthydra\" is no longer on the field during your 2nd Standby Phase after activating the effect, you still add the removed from play card to your hand.\\n6. You still add the removed card to your hand even if the effect of \"Watthydra\" is being negated during your 2nd Standby Phase."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

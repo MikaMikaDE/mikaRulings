@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Discarding 1 Spell Card is a cost to activate Type Zero Magic Crusher's Ignition effect.",
     "Tengu": "\n●Discarding 1 Spell Card is a cost to activate Type Zero Magic Crusher's Ignition-like effect.",
     "Goat": "●Type Zero Magic Crusher’s” effect is an activated effect. \n● Spell Cards discarded for another purpose may not be used for the effect of “Type Zero Magic Crusher.”\n●Q: Can a player use the effect of “Type Zero Magic Crusher” during the opponent’s turn? \nA: Yes they can activate the effect of Type Zero Magic Crusher during the opponent's turn.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Discarding 1 Spell Card is a cost to activate the Ignition-like effect of \"Type Zero Magic Crusher\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If Ryu-Kishin Clown is Special Summoned face-down, its effect does not activate.",
     "Tengu": "\n●If Ryu-Kishin Clown is Special Summoned face-down, its effect does not activate.",
     "Goat": "●If “Final Attack Orders” is applying when “Ryu-Kishin Clown’s” effect triggers,  01/04/04Example 1: If Marauding Captain is Normal Summoned, its effect activates. You can chain to this effect by activating the effect of Royal Oppression. The effect of Marauding Captain is negated, no monster is Special Summoned, and the Marauding Captain is destroyed. (The monster your opponent intended to Special Summon with the effect of Marauding Captain remains in his hand.)\n●Example 2: If Cyber Jar is Flip Summoned and its Flip Effect activates, you can activate the effect of Royal Oppression in a chain to the Flip Effect. The effect of Cyber Jar is negated, no monsters on the field are destroyed by its effect, no cards are picked up, no monsters are Special Summoned, and Cyber Jar is destroyed by the effect of Royal Oppression.\n●Example 3: If Call of the Haunted is activated, you can activate the effect of Royal Oppression in a chain. The effect of Call of the Haunted is negated, and a monster is not Special Summoned.the targeted monster will switch to Defense Position and then immediately change to Attack Position.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Ryu-Kishin Clown\" is Special Summoned face-down, its effect does not activate."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can activate this effect during the damage step.\\n2. You can only use this effect during your turn.\\n3. You must Chain this effect directly to the activation of the Spell or Trap Card.\\n4. You cannot use this effect when your opponent activates the effect of one of their face-up Spell or Trap Cards.\\n5. If the effect of \"Chevalier de Fleur\" is used, and it is flipped face-down and face-up in the same turn, you can use its effect again."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

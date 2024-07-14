@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●If Prickle Fairy is changed to an Insect-Type monster with DNA Surgery, your opponent can't attack.",
     "Tengu": "\n●If Prickle Fairy is changed to an Insect-Type monster with DNA Surgery, your opponent cannot attack.",
     "Goat": "●If Prickle Fairy is changed to an Insect monster with DNA Surgery, your opponent cannot attack. If “Prickle Fairy” is turned to Insect Type and there are only face up Insect Type monsters on the player’s field, the opponent may not attack unless the attacker can inherently attack directly.\n●If a face down Insect Type is attacked while “Prickle Fairy” is face up and applying on the field, Damage Calculation will proceed normally.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Prickle Fairy\" is changed to an Insect-Type monster with \"DNA Surgery\", your opponent cannot attack."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

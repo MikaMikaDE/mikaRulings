@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This effect starts a Chain when a monster is Special Summoned. It's a mandatory effect and it activates even when a monster is Special Summoned during the Damage Step.\\n2. If more than 1 monster is Summoned at the same time, this effect only triggers once and the controller of the monster(s) only removes from play 1 card.\\n3. If both players Special Summon a monster simultaneously due to \"The Shallow Grave\", \"Summoning Curse\" only triggers once but both players must remove from play 1 card in their hand. The turn player has to remove from play his card first.\\n4. Whoever controls the Special Summoned monster when the effect of \"Summoning Curse\" resolves is the one who must remove from play 1 card from their hand.\\n5. Paying 500 Life Points is a cost."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

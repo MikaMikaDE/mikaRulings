@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●If there are fewer than 5 cards in your opponent’s Deck when this card’s Flip Effect is activated, all remaining cards in the Deck are placed in the GY. The opponent does not lose immediately, but will lose if unable to draw a card when required (such as during their next Draw Phase).",
     "Tengu": "\n●If there are fewer than 5 cards in your opponent’s Deck when this card’s Flip Effect is activated, all remaining cards in the Deck are placed in the GY. The opponent does not lose immediately, but will lose if unable to draw a card when required (such as during their next Draw Phase).",
     "Goat": "●If there are fewer than 5 cards in your opponent’s Deck when this card’s Flip Effect is activated, all remaining cards in the Deck are placed in the GY. The opponent does not lose immediately, but will lose if unable to draw a card when required (such as during their next DP).",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If there are fewer than 5 cards in your opponent's Deck when this card's Flip Effect is activated, all remaining cards in the Deck are placed in the GY. The opponent does not lose immediately, but will lose if unable to draw a card when required (such as during their next Draw Phase)."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

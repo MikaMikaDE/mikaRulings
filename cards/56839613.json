@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●If Batteryman Micro-Cell is flipped face-up with Ceasefire, etc., you will still draw 1 card when it is destroyed in battle and sent to the GY.",
     "Tengu": "\n●If Batteryman Micro-Cell is flipped face-up with Ceasefire, etc., you will still draw 1 card when it is destroyed in battle and sent to the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Batteryman Micro-Cell\" is flipped face-up with \"Ceasefire\", etc., you will still draw 1 card when it is destroyed in battle and sent to the GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

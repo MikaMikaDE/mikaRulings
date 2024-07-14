@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to draw a card activates even during the Damage Step.\\n2. The effect to draw a card activates if this card's battle position is changed.\\n3. The effect to draw a card does NOT activate when a Karakuri monster is changed from face-down Defense Position to face-up Attack Position or vice versa.\\n4. If you control multiple copies of this card when a \"Karakuri\" monster's battle position changes, the effect's to draw a card all trigger and form a Chain.\\n5. If this card is Synchro Summoned in Attack Position while \"Level Limit - Area B\" is active, it is immediately switched to Defense Position and its effects form a Chain. The effect to draw a card is Chain Link 1 because it's mandatory."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If an effect is chained that destroys the selected monster, removes it from the field, or flips it face-down, then no damage is inflicted. You still can't attack that turn.\n●You can select your opponent’s “Horus the Black Flame Dragon LV6” for “Misfortune’s” effect and the opponent will still take damage. This is because “Misfortune” has no effect on the monster you select.\n●If you control “Horus the Black Flame Dragon LV6”, it can attack during the turn that you activated “Misfortune”.",
     "Tengu": "\n●If an effect is chained that destroys the selected monster, removes it from the field, or flips it face-down, then no damage is inflicted. You still cannot attack that turn.\n●You can select your opponent’s “Horus the Black Flame Dragon LV6” for “Misfortune’s” effect and the opponent will still take damage. This is because “Misfortune” has no effect on the monster you select.\n●If you control “Horus the Black Flame Dragon LV6”, it can attack during the turn that you activated “Misfortune”.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If an effect is chained that destroys the selected monster, removes it from the field, or flips it face-down, then no damage is inflicted. You still cannot attack that turn.\\n2. You can select your opponent's \"Horus the Black Flame Dragon LV6\" for the effect of \"Misfortune\" and the opponent will still take damage. This is because \"Misfortune\" has no effect on the monster you select.\\n3. If you control \"Horus the Black Flame Dragon LV6\", it can attack during the turn that you activated \"Misfortune\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

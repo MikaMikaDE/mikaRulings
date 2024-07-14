@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① This card is also treated as a LIGHT while face-up on the field.\n② Once per turn, this card can't be destroyed by battle.\n③ When Tribute Summoned: You can add 1 Level 3 monster from your Deck to your hand.",
     "Tengu": "① This card is also treated as a LIGHT while face-up on the field.\n② Once per turn, this card can't be destroyed by battle.\n③ When Tribute Summoned: You can add 1 Level 3 monster from your Deck to your hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

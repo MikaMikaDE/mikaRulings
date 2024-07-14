@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Wattwoodpecker\" is applied when you actually calculate the damage from a battle, and it does not start a Chain.\\n2. If \"Wattwoodpecker\" battles \"Dark Ruler Ha Des\" and would be destroyed, the effect of \"Wattwoodpecker\" is still applied.\\n3. The effect of \"Wattwoodpecker\" is applied even if \"Wattwoodpecker\" would be destroyed by battle."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

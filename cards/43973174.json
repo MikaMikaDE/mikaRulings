@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can activate The Flute of Summoning Dragon if your opponent controls a face-up Lord of D. and you don't.\n●You must Special Summon at least 1 Dragon-Type monster or you can't activate this card.",
     "Tengu": "\n●You can activate The Flute of Summoning Dragon if your opponent controls a face-up Lord of D. and you do not.\n●You must Special Summon at least 1 Dragon-Type monster or you cannot activate this card.",
     "Goat": "●You can activate The Flute of Summoning Dragon if your opponent controls a face-up Lord of D. and you do not.\n●You must Special Summon at least 1 Dragon monster or you cannot activate this card.The Flute of Summoning Dragon” may not Special Summon Dragon Type monsters that have Special Summoning requirements, including Toons.\n●Q: If “Toon World” is applying on the field, can I use “Flute of the Summoning Dragon” with “Lord of D.” to summon Dragon Toon monsters? \nA: It is not possible at all. Not even with “Toon World” in play. ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can activate \"The Flute of Summoning Dragon\" if your opponent controls a face-up \"Lord of D.\" and you do not.\\n2. You must Special Summon at least 1 Dragon-Type monster or you cannot activate this card."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

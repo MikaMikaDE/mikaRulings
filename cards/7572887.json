@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● If this card battles a Flip monster, the Flip effect will chain to this card's effect. The flip effect will always be Chain Link 1.\n● If either monster is not banished for some reason, the other monster is still banished.\n● \"After Damage Calculation\" happens after battle damage is inflicted, but before monsters are sent to the GY.",
     "Tengu": "● If this card battles a Flip monster, the Flip effect will chain to this card's effect. The flip effect will always be Chain Link 1.\n● If either monster is not banished for some reason, the other monster is still banished.\n● \"After Damage Calculation\" happens after battle damage is inflicted, but before monsters are sent to the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You don't have to activate the effect of \"D. D. Warrior Lady\" if you don't want to.\\n2. When your \"D. D. Warrior Lady\" attacks your opponent's \"Fiber Jar\", if you activate her effect then \"Fiber Jar\" is Step 1 of the chain, because it is mandatory, and \"D. D. Warrior Lady\" is Step 2 of the chain because it is an optional effect. \"D. D. Warrior Lady\" removes from play both monsters, and then resolve the effect of \"Fiber Jar\". \"D. D. Warrior Lady\" and \"Fiber Jar\" are not shuffled into the Deck.\\n3. When your \"D. D. Warrior Lady\" attacks \"Wall of Illusion\", if you activate her effect then \"Wall of Illusion\" is Step 1 of the chain, because it is mandatory, and \"D. D. Warrior Lady\" is Step 2 of the chain because it is an optional effect. The effect of \"D. D. Warrior Lady\" removes from play both monsters, then the effect of \"Wall of Illusion\" disappears, since the attacking monster is no longer on the field.\\n4. If your \"D. D. Warrior Lady\" attacks your opponent's \"D. D. Warrior Lady\", your \"D. D. Warrior Lady\" is Step 1 of the chain and your opponent's is Step 2, and when Step 2 resolves, both \"D. D. Warrior Lady\" cards are removed from play and the effect of your \"D. D. Warrior Lady\" disappears."
   },
   "PSCT": {
+    "Edison": "① If this card battles an opponent's monster, after damage calculation:\nYou can banish that monster, also banish this card.",
     "Tengu": "① If this card battles an opponent's monster, after damage calculation:\nYou can banish that monster, also banish this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

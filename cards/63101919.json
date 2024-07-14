@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● If 3 cards are sent, you can:\nplace 1 Counter on 3 different monsters, or\nplace 1 Counter on 1 monster and 2 Counters on a different monster, or\nplace all 3 on 1 monster.",
     "Tengu": "● If 3 cards are sent, you can:\nplace 1 Counter on 3 different monsters, or\nplace 1 Counter on 1 monster and 2 Counters on a different monster, or\nplace all 3 on 1 monster.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "1 Tuner + 1 or more non-Tuner Spellcasters\n① If Synchro Summoned: Place 1 Spell Counter on it. \n② Once per turn: You can discard any number of cards; place that many Spell Counters on a monster(s) you control which can have a Spell Counter(s) placed on them.\n③ You can remove all Spell Counters from the field; your opponent takes 500 damage for each.",
     "Tengu": "1 Tuner + 1 or more non-Tuner Spellcasters\n① If Synchro Summoned: Place 1 Spell Counter on it. \n② Once per turn: You can discard any number of cards;\nplace that many Spell Counters on a monster(s) you control which can have a Spell Counter(s) placed on them.\n③ You can remove all Spell Counters from the field;\nyour opponent takes 500 damage for each.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

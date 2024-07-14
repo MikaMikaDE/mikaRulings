@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Refer to the destroyed monster's ATK and DEF while it was on the field, including any gain/losses to its ATK and DEF.",
     "Tengu": "\n●Refer to the destroyed monster's ATK and DEF while it was on the field, including any gain/losses to its ATK and DEF.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Refer to the destroyed monster's ATK and DEF while it was on the field, including any gain/losses to its ATK and DEF."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

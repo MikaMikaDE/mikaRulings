@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Neither effect targets.\\n2. If this card has its ATK and DEF halved by \"Blackwing - Gale the Whirlwind\" and then activates the effect to switch original ATK and DEF, the effect of Gale will no longer apply. The ATK will be 1600 and the DEF will be 0.\\n3. If you have more than one \"Blackwing - Ghibli the Searing Wind\" in your hand when your opponent declares a direct attack, you can only Special Summon one of them.\\n4. You cannot target \"Blackwing - Ghibli the Searing Wind\" with \"Against the Wind\".\\n5. After you switch the original ATK and DEF of this card, the switched values are then treated as the original ATK and DEF.\\n6. When you Special Summon \"Blackwing - Ghibli the Searing Wind\" with its own effect, a replay is triggered."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

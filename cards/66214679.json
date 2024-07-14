@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The optional Trigger Effect activates AFTER a Spell Card's activation resolved (starting a new chain).\n●This effect CAN miss the timing if Chain Link 1 was NOT the activation of a Spell Card.\n●This effect won't trigger in response to the effect of face-up Spell Card (ex: Black Garden).\n●This effect won't trigger if Dark Horus is flipped face-down before it can activate its effect.\n●This effect won't resolve if Dark Horus is flipped face-down before resolving its effect.",
     "Tengu": "(1) Once per turn, when a Spell Card is activated during your opponent's Main Phase, you can Special Summon 1 Level 4 DARK monster from your GY.\n●The (1) optional Trigger Effect activates AFTER a Spell Card's activation resolved (starting a new chain).\n●This effect CAN miss the timing if Chain Link 1 was NOT the activation of a Spell Card.\n●This effect WILL NOT trigger in response to the effect of face-up Spell Card (ex: Black Garden).\n●This effect WILL NOT trigger if Dark Horus is flipped face-down before it can activate its effect.\n●This effect WILL NOT resolve if Dark Horus is flipped face-down before resolving its effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Dark Horus\" starts a new Chain after the Chain including the Spell Card resolves.\\n2. If an effect is chained to the effect of \"Dark Horus\" that flips \"Dark Horus\" face-down or removes it from the field, its effect disappears."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

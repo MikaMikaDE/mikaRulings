@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● This effect is mandatory (Unless an effect says \"you can\", it is a mandatory effect).\n● If you can't send exactly 2 cards, you send none.\n● If you don't send exactly 2 cards, you draw none.\n● Sending and drawing is simultaneous. It doesn't cause anything to miss timing.\nYou can read more about Timing here:\nhttps://edisonformat.net/rules/compendium/missing-the-timing",
     "Tengu": "● This effect is mandatory (Unless an effect says \"you can\", it is a mandatory effect).\n● If you can't send exactly 2 cards, you send none.\n● If you don't send exactly 2 cards, you draw none.\n● Sending and drawing is simultaneous. It doesn't cause anything to miss timing.\nYou can read more about Timing here:\nhttps://edisonformat.net/rules/compendium/missing-the-timing",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① If this card is destroyed by battle and sent to the GY: Send 2 cards from your hand to the GY, and if you do, draw 2 cards.",
     "Tengu": "① If this card is destroyed by battle and sent to the GY: Send 2 cards from your hand to the GY, and if you do, draw 2 cards.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

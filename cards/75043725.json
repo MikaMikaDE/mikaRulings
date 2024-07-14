@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If neither player has a Level 3 or lower Normal Monster in their Deck, the effect of Emissary of the Afterlife disappears BUT both players get to look at their opponent's Decks before they are shuffled.\n●If only 1 player as a Level 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\n●You select monsters when the effect resolves. The effect of Emissary of the Afterlife does not target.",
     "Tengu": "\n●If neither player has a Level 3 or lower Normal Monster in their Deck, the effect of Emissary of the Afterlife disappears BUT both players get to look at their opponent's Decks before they are shuffled.\n●If only 1 player as a Level 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\n●You select monsters when the effect resolves. The effect of Emissary of the Afterlife does not target.",
     "Goat": "●If neither player has a Lv 3 or lower Normal Monster in their Deck, the effect of Emissary of the Afterlife disappears BUT both players get to look at their opponent's Decks before they are shuffled.\n●If only 1 player as a Lv 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\n●You select monsters when the effect resolves. The effect of Emissary of the Afterlife does not target.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If neither player has a Level 3 or lower Normal Monster in their Deck, the effect of \"Emissary of the Afterlife\" disappears BUT both players get to look at their opponent's Decks before they are shuffled.\\n2. If only 1 player as a Level 3 or lower Normal Monster in their Deck, then that player gets to add the monster to his hand.\\n3. You select monsters when the effect resolves. The effect of \"Emissary of the Afterlife\" does not target."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

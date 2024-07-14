@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "●If you activate Self-Destruction Button, and an effect is chained so that the different in LP is less than 7000, Self-Destruction Button still resolves because its conditions were correct at the time of activation.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If you activate \"Self-Destruction Button\", and an effect is chained so that the different in Life Points is less than 7000, \"Self-Destruction Button\" still resolves because its conditions were correct at the time of activation."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

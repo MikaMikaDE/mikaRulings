@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "●The ●This effect activates in Substep 3 - Before Damage Calculation.\n●If “Mystic Swordsman LV2” attacks, its effect won't activate.\n●If “Drillroid” attacks it, its effect will activate.\n●If this face-down card is attacked by “Horus the Black Flame Dragon LV6” or “Guardian Kay’est”, it will still be equipped to the attacker, but it won't destroy the equipped monster during the Standby Phase.\n●The Continuous Effect applies on the field.\n●This effect is treated as the effect of an Equip Spell Card.",
     "Tengu": "(1) If an opponent's monster attacks this face-down Defense Position card, this card becomes an Equip Card equipped to the attacking monster, without applying damage calculation. (2) Destroy the equipped monster during the Standby Phase of your opponent's next turn.\n●The (1) mandatory Trigger Effect activates & resolves on the field.\n●This effect activates in Substep 3 - Before Damage Calculation.\n●If “Mystic Swordsman LV2” attacks, its effect will not activate.\n●If “Drillroid” attacks it, its effect will activate.\n●If this face-down card is attacked by “Horus the Black Flame Dragon LV6” or “Guardian Kay’est”, it will still be equipped to the attacker, but it will not destroy the equipped monster during the Standby Phase.\n●The (2) Continuous-like Effect applies on the field.\n●This effect is treated as the effect of an Equip Spell Card.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"Adhesive Explosive\" activates its effect as soon as it's flipped face-up. So if \"Mystic Swordsman LV2\" attacks it, its effect will not activate, but if \"Drillroid\" attacks it, its effect will activate.\\n2. If this face-down card is attacked by \"Horus the Black Flame Dragon LV6\" or \"Guardian Kay'est\", it will still be equipped to the attacker, but it will not destroy the equipped monster during the Standby Phase."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

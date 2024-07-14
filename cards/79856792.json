@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●This card's effect to increase its ATK can be activated during the Damage Step. The ATK increase is applied as long as Rainbow Dragon remains face-up on the field.\n●Sending the Crystal Beast monsters you control to the GY is a cost for Rainbow Dragon's first effect.",
     "Tengu": "\n●This card's effect to increase its ATK can be activated during the Damage Step. The ATK increase is applied as long as Rainbow Dragon remains face-up on the field.\n●Sending the Crystal Beast monsters you control to the GY is a cost for Rainbow Dragon's first effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can activate this card's effect first bulleted effect during the Damage Step.\\n2. The ATK increase is applied as long as \"Rainbow Dragon\" remains face-up on the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

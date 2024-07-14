@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "●The ●When Umi is on the field, and Amphibious Bugroth MK-3 declares a direct attack, and Umi is destroyed during the Battle Step, Amphibious Bugroth MK-3 can no longer attack directly, so a replay occurs.",
     "Tengu": "(1) While Umi is face-up on the field, this card can attack your opponent's Life Points directly.\n●The (1) Continuous Effect applies while this card is face-up on the field.\n●When Umi is on the field, and Amphibious Bugroth MK-3 declares a direct attack, and Umi is destroyed during the Battle Step, Amphibious Bugroth MK-3 can no longer attack directly, so a replay occurs.",
     "Goat": "●When Umi is on the field, and Amphibious Bugroth MK-3 declares a direct attack, and Umi is destroyed during the Battle Step, Amphibious Bugroth MK-3 can no longer attack directly, so a replay occurs.\n●The effect of “Amphibious Bugroth MK-3” may be used regardless of which player controls “Umi.”\n●If “Umi” is destroyed in response to “Amphibious Bugroth MK-3” declaring a direct attack through its effect, a Replay is triggered.\n●If “Umi” is face-up, but negated, “Amphibious Bugroth MK-3” may still attack directly.\n●If “Umi” is destroyed or removed from the field as a response to the declaration of an attack by “Amphibious Bugroth MK-3”, a replay is triggered.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. When \"Umi\" is on the field, and \"Amphibious Bugroth MK-3\" declares a direct attack, and \"Umi\" is destroyed during the Battle Step, \"Amphibious Bugroth MK-3\" can no longer attack directly, so a replay occurs."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

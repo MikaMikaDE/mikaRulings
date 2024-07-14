@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This card gains 200 ATK for every face-up 'Dragunity' card, including monsters that are currently equipped to other monsters.\\n2. This effect targets the Dragon-Type 'Dragunity' monster in your GY.\\n3. If the target is no longer in the GY when this effect resolves, you cannot equip it to \"Dragunity Dux\".\\n4. If this card's effect is negated while it is equipped with a 'Dragunity' monster, the 'Dragunity' monster will be destroyed and sent to the GY."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

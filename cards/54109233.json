@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Level 3 or lower Monster Cards Normal Summoned or Flip Summoned before Infinite Dismissal is activated are destroyed if they were Normal Summoned or Flip Summoned during the same turn Infinite Dismissal is activated.",
     "Tengu": "\n●Level 3 or lower Monster Cards Normal Summoned or Flip Summoned before Infinite Dismissal is activated are destroyed if they were Normal Summoned or Flip Summoned during the same turn Infinite Dismissal is activated.",
     "Goat": "● If “Infinite Dismissal” is applying on the field and I Flip Summon “Swarm of Scarabs” in MP 1 and then I use it's effect to flip it back face-down in MP 2, will it be destroyed in the End Phase? \nA: No. It resets when it flips back down.  02/02/04 \n●Q: “Infinite Dismissal” states that all monsters summoned that are level 3 or below are destroyed at the End Phase of the turn.. would this have priority over a summoned “Yata-Garasu,” or would “Yata-Garasu” return to your hand before “Infinite Dismissal” could destroy it? \nA: The Turn Player will decide which effect is resolved first. They will most likely choose to return their “Yata-Garasu first.”  ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Level 3 or lower Monster Cards Normal Summoned or Flip Summoned before \"Infinite Dismissal\" is activated are destroyed if they were Normal Summoned or Flip Summoned during the same turn \"Infinite Dismissal\" is activated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

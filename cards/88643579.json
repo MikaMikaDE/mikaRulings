@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● Even if the target is no longer on the field, this card still loses 500 ATK/DEF.\n● If this card does not lose 500 ATK/DEF, that target is not sent to the GY.",
     "Tengu": "● Even if the target is no longer on the field, this card still loses 500 ATK/DEF.\n● If this card does not lose 500 ATK/DEF, that target is not sent to the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "1 Tuner + 1 or more non-Tuner DARKs \n① Once per turn: \nYou can target 1 monster your opponent controls; this card loses 500 ATK and DEF, and if it does, send that target to the GY.",
     "Tengu": "1 Tuner + 1 or more non-Tuner DARKs \n① Once per turn: \nYou can target 1 monster your opponent controls; \nthis card loses 500 ATK and DEF, and if it does, send that target to the GY.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

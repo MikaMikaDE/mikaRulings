@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●The effect activates & resolves on the field.\n●This effect targest 1 face-up monster you control.\n●This card can be activated in the Damage Step before Substep 4 - Damage Calculation.\n●The Quick Effect activates & resolves in the GY.\n●Removing “Skill Successor” from play is a cost.\n●This effect targets 1 face-up monster you control.\n●This effect can be activated in the Damage Step before Substep 4 - Damage Calculation.",
     "Tengu": "(1) Select 1 face-up monster you control. It gains 400 ATK until the End Phase. (2) You can remove from play this card in the GY to give 1 face-up monster you control 800 ATK until the End Phase. This effect cannot be activated the turn this card is sent to the GY, and can only be activated during your turn.\n●The (1) effect activates & resolves on the field.\n●This effect targest 1 face-up monster you control.\n●This card can be activated in the Damage Step before Substep 4 - Damage Calculation.\n●The (2) Quick-like Effect activates & resolves in the GY.\n●Removing “Skill Successor” from play is a cost.\n●This effect targets 1 face-up monster you control.\n●This effect can be activated in the Damage Step before Substep 4 - Damage Calculation.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Both effects of this card target.\\n2. You can activate \"Skill Successor\" during the Damage Step before damage calculation.\\n3. Removing \"Skill Successor\" from play is a cost to activate its second effect.\\n4. The second effect of \"Skill Successor\" is Spell Speed 2.\\n5. You can activate the second effect of \"Skill Successor\" during the Damage Step before damage calculation."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

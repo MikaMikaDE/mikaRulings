@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You activate this card's effect during damage calculation after your monster is destroyed but before you take damage. It starts a Chain.\\n2. If you don't have a Warrior-Type monster in your hand that you can Special Summon, you cannot activate the effect of \"Desperate Tag\".\\n3. If you would not take any Battle Damage from the battle, you cannot activate the effect of \"Desperate Tag\".\\n4. If you activate the effect of \"Desperate Tag\" you must reduce the Battle Damage to 0 and you must Special Summon a monster.\\n5. You can flip this card face-up any time outside of the Damage Step. You can also flip this card face-up during damage calculation, but only if you're activating its effect at the same time."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

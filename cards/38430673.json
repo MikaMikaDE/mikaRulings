@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "●Inflicting 300 damage and destroying all monsters on the field are both resolved at the same time.\n●If the 300 damage would be reduced to 0 by the effect of “Des Wombat” or “Pikeru’s Circle of Enchantment”, “Grand Convergence” can still be activated and all monsters on the field will still be destroyed.\n●If an effect that destroys “Macro Cosmos” or removes it from the field is chained to “Grand Convergence”, the effects of “Grand Convergence” will still resolve because the activation conditions were correct when it was activated.\n●“Barrel Behind the Door” can be chained to this card.\n●If there is a monster on the field, you can chain “My Body as a Shield” to this card.",
     "Tengu": "\n●Inflicting 300 damage and destroying all monsters on the field are both resolved at the same time.\n●If the 300 damage would be reduced to 0 by the effect of “Des Wombat” or “Pikeru’s Circle of Enchantment”, “Grand Convergence” can still be activated and all monsters on the field will still be destroyed.\n●If an effect that destroys “Macro Cosmos” or removes it from the field is chained to “Grand Convergence”, the effects of “Grand Convergence” will still resolve because the activation conditions were correct when it was activated.\n●“Barrel Behind the Door” can be chained to this card.\n●If there is a monster on the field, you can chain “My Body as a Shield” to this card.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Inflicting 300 damage and destroying all monsters on the field are both resolved at the same time.\\n2. If the 300 damage would be reduced to 0 by the effect of \"Des Wombat\" or \"Pikeru's Circle of Enchantment\", \"Grand Convergence\" can still be activated and all monsters on the field will still be destroyed.\\n3. If an effect that destroys \"Macro Cosmos\" or removes it from the field is chained to \"Grand Convergence\", the effects of \"Grand Convergence\" will still resolve because the activation conditions were correct when it was activated.\\n4. \"Barrel Behind the Door\" can be chained to this card.\\n5. If there is a monster on the field, you can chain \"My Body as a Shield\" to this card."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●You can Tribute a face-down Warrior for “Turret Warrior”, and it will still gain the appropriate ATK. You can Tribute a Warrior-Type Token monster to Special Summon “Turret Warrior”, or a card like “Embodiment of Apophis” that is currently a Warrior.\n●“Turret Warrior” still gains the appropriate ATK in these cases. If you Tribute a Warrior with variable ATK, like “Evil Hero Dark Gaia”, the original ATK is treated as 0 so “Turret Warrior” gains no bonus ATK.\n●Tributing a Warrior to Special Summon “Turret Warrior” is not a cost; both the Tribute and the ATK increase are part of the effect.",
     "Tengu": "\n●You can Tribute a face-down Warrior for “Turret Warrior”, and it will still gain the appropriate ATK. You can Tribute a Warrior-Type Token monster to Special Summon “Turret Warrior”, or a card like “Embodiment of Apophis” that is currently a Warrior.\n●“Turret Warrior” still gains the appropriate ATK in these cases. If you Tribute a Warrior with variable ATK, like “Evil Hero Dark Gaia”, the original ATK is treated as 0 so “Turret Warrior” gains no bonus ATK.\n●Tributing a Warrior to Special Summon “Turret Warrior” is not a cost; both the Tribute and the ATK increase are part of the effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can Tribute a face-down Warrior for \"Turret Warrior\", and it will still gain the appropriate ATK.\\n2. You can Tribute a Warrior-Type Token monster to Special Summon \"Turret Warrior\", or a card like \"Embodiment of Apophis\" that is currently a Warrior. \"Turret Warrior\" still gains the appropriate ATK in these cases.\\n3. If you Tribute a Warrior with variable ATK, like \"Evil HERO Dark Gaia\", the original ATK is treated as 0 so \"Turret Warrior\" gains no bonus ATK.\\n4. Tributing a Warrior to Special Summon \"Turret Warrior\" is not a cost; both the Tribute and the ATK increase are part of the effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

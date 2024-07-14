@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "● This card’s effect specifies “and sends it to the GY”. It triggers at the end of the Damage Step, but not if the destroyed monster wasn’t sent to the GY, or if this card is no longer face-up on the field.",
     "Tengu": "● This card’s effect specifies “and sends it to the GY”. It triggers at the end of the Damage Step,    but not if the destroyed monster wasn’t sent to the GY, or if this card is no longer face-up on the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If this card battles a monster with equal ATK, and both are destroyed, you cannot Special Summon a \"Hydrogeddon\" from your Deck."
   },
   "PSCT": {
+    "Edison": "① If this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 'Hydrogeddon' from your Deck.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

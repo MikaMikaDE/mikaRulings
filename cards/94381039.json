@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● If you choose to activate this effect, you must target at least 1 card on the field.\n● Sending cards is a cost, not an effect. \n  If this card's summon is successful, you'll send cards and declare targets. Afterwards, \"Pulling the Rug\" may be chained.",
     "Tengu": "● If you choose to activate this effect, you must target at least 1 card on the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Sending the top 4 cards of your Deck to the GY is a cost.\\n2. The effect of \"Celestia, Lightsworn Angel\" cannot be activated while \"Macro Cosmos\", etc. is active.\\n3. If you activate the effect of \"Celestia, Lightsworn Angel\", you must choose 1 or 2 of your opponent's cards to destroy."
   },
   "PSCT": {
+    "Edison": "① When this card is Tribute Summoned by Tribute Summoning a \"Lightsworn\" monster:\nYou can send the top 4 cards of your Deck to the GY, then target up to 2 cards your opponent controls; destroy those targets.",
     "Tengu": "① When this card is Tribute Summoned by Tribute Summoning a \"Lightsworn\" monster:\nYou can send the top 4 cards of your Deck to the GY, then target up to 2 cards your opponent controls;\ndestroy those targets.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

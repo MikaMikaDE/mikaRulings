@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to destroy this card starts a Chain.\\n2. If \"Scrap Kong\" is face-down on the field when its effect resolves, it will be destroyed.\\n3. If \"Scrap Kong\" is not on the field when its effect resolves, it will not be destroyed.\\n4. The effect to add 1 'Scrap' monster to your hand targets the 'Scrap' monster and starts a Chain."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

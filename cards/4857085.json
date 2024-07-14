@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●The effect to look at 1 random card in your opponent's hand is an Ignition Effect.\n●If Omega Goggles is unequipped from the monster after using its effect, the monster can attack during the turn.\n●If Omega Goggles is equipped to a monster that is unaffected by the effects of Spell Cards, after Omega Goggles uses its Ignition Effect, the equipped monster can still attack.\n●If control of the equipped monster switches to your opponent, Omega Goggles remains equipped to the monster.",
     "Tengu": "\n●The effect to look at 1 random card in your opponent's hand is an Ignition Effect.\n●If Omega Goggles is unequipped from the monster after using its effect, the monster can attack during the turn.\n●If Omega Goggles is equipped to a monster that is unaffected by the effects of Spell Cards, after Omega Goggles uses its Ignition Effect, the equipped monster can still attack.\n●If control of the equipped monster switches to your opponent, Omega Goggles remains equipped to the monster.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The effect to look at 1 random card in your opponent's hand is an Ignition Effect.\\n2. If \"Omega Goggles\" is unequipped from the monster after using its effect, the monster can attack during the turn.\\n3. If \"Omega Goggles\" is equipped to a monster that is unaffected by the effects of Spell Cards, after \"Omega Goggles\" uses its Ignition Effect, the equipped monster can still attack.\\n4. If control of the equipped monster switches to your opponent, \"Omega Goggles\" remains equipped to the monster."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

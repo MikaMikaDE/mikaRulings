@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●This effect activates at the same time that the monster destroyed by battle is sent to the GY.\n●This effect will activate even if this card destroys a Monster Token, because the text does not require the destroyed monster to be sent to the GY.\n●If this card destroys “Embodiment of Apophis”, this effect will activate.\n●This effect will activate if you destroy your monster controlled by your opponent.\n●The effects of face-up Continuous Cards can be activated even while the effect of this card is being applied.",
     "Tengu": "\n●This effect activates at the same time that the monster destroyed by battle is sent to the GY.\n●This effect will activate even if this card destroys a Monster Token, because the text does not require the destroyed monster to be sent to the GY.\n●If this card destroys “Embodiment of Apophis”, this effect will activate.\n●This effect will activate if you destroy your monster controlled by your opponent.\n●The effects of face-up Continuous Cards can be activated even while the effect of this card is being applied.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect activates at the same time that the monster destroyed by battle is sent to the GY.\\n2. This effect will activate even if this card destroys a Monster Token, because the text does not require the destroyed monster to be sent to the GY.\\n3. If this card destroys \"Embodiment of Apophis\", this effect will activate.\\n4. This effect will activate if you destroy your monster controlled by your opponent.\\n5. The effects of face-up Continuous Cards can be activated even while the effect of this card is being applied."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

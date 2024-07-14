@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If your following Standby Phase is skipped, the removed monster remains in the Removed Zone.\n●If you control your opponent's monster with Brain Control or Snatch Steal and you remove it from play with Dimensionhole, during your following Standby Phase when the monster is returned to your side of the field it is immediately moved to your opponent's side of the field.",
     "Tengu": "\n●If your following Standby Phase is skipped, the removed monster remains in the Removed Zone.\n●If you control your opponent's monster with Brain Control or Snatch Steal and you remove it from play with Dimensionhole, during your following Standby Phase when the monster is returned to your side of the field it is immediately moved to your opponent's side of the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If your following Standby Phase is skipped, the removed monster remains in the Removed Zone.\\n2. If you control your opponent's monster with \"Brain Control\" or \"Snatch Steal\" and you remove it from play with \"Dimensionhole\", during your following Standby Phase when the monster is returned to your side of the field it is immediately moved to your opponent's side of the field."
   },
   "PSCT": {
+    "Edison": "①Target 1 monster you control; banish it until your next Standby Phase\nWhile banished, its Monster Zone can't be used.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

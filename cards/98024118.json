@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●If “White Potan” becomes a Tuner, it can't be destroyed by battle.\n●If a monster being treated as a Tuner is destroyed by battle and sent to the GY, it is not considered a Tuner in the GY, and the effect of “White Potan” to inflict damage won't activate.",
     "Tengu": "\n●If “White Potan” becomes a Tuner, it cannot be destroyed by battle.\n●If a monster being treated as a Tuner is destroyed by battle and sent to the GY, it is not considered a Tuner in the GY, and the effect of “White Potan” to inflict damage will not activate.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"White Potan\" becomes a Tuner, it cannot be destroyed by battle.\\n2. If a monster being treated as a Tuner is destroyed by battle and sent to the GY, it is not considered a Tuner in the GY, and the effect of \"White Potan\" to inflict damage will not activate."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

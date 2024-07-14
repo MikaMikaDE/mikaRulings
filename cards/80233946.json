@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "●If a face-down Gora Turtle is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\n●If Gora Turtle is face-up on your side of the field, and your opponent’s monster’s ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\n●If the ATK of Gora Turtle is higher than 1899, it can't attack either.",
     "Tengu": "\n●If a face-down Gora Turtle is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\n●If Gora Turtle is face-up on your side of the field, and your opponent’s monster’s ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\n●If the ATK of Gora Turtle is higher than 1899, it cannot attack either.",
     "Goat": "●If a face-down Gora Turtle is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\n●If Gora Turtle is face-up on your side of the field, and your opponent’s monster’s ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\n●If the ATK of Gora Turtle is higher than 1899, it cannot attack either.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If a face-down \"Gora Turtle\" is attacked by a monster with ATK higher than 1899, the attack continues and damage calculation is applied normally.\\n2. If \"Gora Turtle\" is face-up on your side of the field, and your opponent's monster's ATK is increased over 1899 after the declaration of the attack, the attack continues and damage calculation is applied normally.\\n3. If the ATK of \"Gora Turtle\" is higher than 1899, it cannot attack either."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

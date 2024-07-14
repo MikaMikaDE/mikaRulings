@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●The effect to reduce an opponent’s monster’s ATK targets that monster. You can equip this card to a Reptile-Type monster. It will still gain 800 ATK. The effect that reduces an opponent’s monster’s ATK starts a Chain.",
     "Tengu": "\n●The effect to reduce an opponent’s monster’s ATK targets that monster. You can equip this card to a Reptile-Type monster. It will still gain 800 ATK. The effect that reduces an opponent’s monster’s ATK starts a Chain.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The effect to reduce an opponent's monster's ATK targets that monster.\\n2. You can equip this card to a Reptile-Type monster. It will still gain 800 ATK.\\n3. The effect that reduces an opponent's monster's ATK starts a Chain."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

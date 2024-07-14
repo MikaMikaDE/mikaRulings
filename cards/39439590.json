@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●The optional Trigger Effect can miss its activation timing.\n●You can activate this effect if the last thing to happen was your opponent Special Summoning of a monster from their hand.\n●This effect can't be activated during the Damage Step.\n●If you have 2 Cyber Dinosaurs in your hand when your opponent Special Summons a monster from their hand, you can only activate the effect of 1 of the Cyber Dinosaurs.\n●If your opponent Special Summons a monster from their hand while Stumbling is active, you can chain Cyber Dinosaur's effect (Chain Link 2) to the effect of Stumbling (Chain Link 1).\n●If Gorz the Emissary of Darkness is Special Summoned from your opponent's hand with its effect when you inflict damage to their life points with a card effect, you can chain Cyber Dinosaur's effect to Gorz the Emissary of Darkness' damage inflicting effect.",
     "Tengu": "(1) When your opponent Special Summons a monster from their hand, you can Special Summon this card from your hand.\n●The (1) optional Trigger Effect can miss its activation timing.\n●You can activate this effect if the last thing to happen was your opponent Special Summoning of a monster from their hand.\n●This effect cannot be activated during the Damage Step.\n●If you have 2 Cyber Dinosaurs in your hand when your opponent Special Summons a monster from their hand, you can only activate the effect of 1 of the Cyber Dinosaurs.\n●If your opponent Special Summons a monster from their hand while Stumbling is active, you can chain Cyber Dinosaur's effect (Chain Link 2) to the effect of Stumbling (Chain Link 1).\n●If Gorz the Emissary of Darkness is Special Summoned from your opponent's hand with its effect when you inflict damage to their life points with a card effect, you can chain Cyber Dinosaur's effect to Gorz the Emissary of Darkness' damage inflicting effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

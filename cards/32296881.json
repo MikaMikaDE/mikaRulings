@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●The Continuous Effect does not start a chain.\n●Bountiful Artemis must be face-up on the field in order to apply this effect.\n●This effect won't apply for any Counter Trap Cards which might negate the Summon of Artemis.\n●You will draw 1 card immediately after a Counter Trap’s effects have resolved.\n●This effect will activate even if your opponent is the one who resolved the effect of a Counter Trap.\n●If “Seven Tools of the Bandit” negates the activation of another Counter Trap Card (ex: “Magic Jammer”), you don't draw a card for “Magic Jammer” since its activation was negated.",
     "Tengu": "(1) Draw 1 card from your Deck each time a Counter Trap Card is activated.\n●The (1) Continuous Effect does not start a chain.\n●Bountiful Artemis must be face-up on the field in order to apply this effect.\n●This effect will not apply for any Counter Trap Cards which might negate the Summon of Artemis.\n●You will draw 1 card immediately after a Counter Trap’s effects have resolved.\n●This effect will activate even if your opponent is the one who resolved the effect of a Counter Trap.\n●If “Seven Tools of the Bandit” negates the activation of another Counter Trap Card (ex: “Magic Jammer”), you do not draw a card for “Magic Jammer” since its activation was negated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Bountiful Artemis\" is a Continuous Effect, and cannot be chained to. You will draw 1 card immediately after a Counter Trap's effects have resolved.\\n2. Your effect of \"Bountiful Artemis\" will activate even if your opponent is the one who activated the Counter Trap.\\n3. If \"Seven Tools of the Bandit\" is used to negate the activation of another Trap Card, such as \"Magic Jammer\", you will not draw a card for \"Magic Jammer\" since its activation was negated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

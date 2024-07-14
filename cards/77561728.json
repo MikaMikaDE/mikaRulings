@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can chain Disturbance Strategy to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\n●You can also chain Disturbance Strategy to Polymerization and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of Polymerization disappears.",
     "Tengu": "\n●You can chain Disturbance Strategy to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\n●You can also chain Disturbance Strategy to Polymerization and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of Polymerization disappears.",
     "Goat": "●You can chain Disturbance Strategy to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\n●You can also chain Disturbance Strategy to Polymerization and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of Polymerization disappears.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can chain \"Disturbance Strategy\" to a Ritual Spell Card and then, if your opponent no longer has the Ritual Monster Card in hand when the Ritual Spell Card resolves, then the effect of the Ritual Spell Card disappears.\\n2. You can also chain \"Disturbance Strategy\" to \"Polymerization\" and, if the opponent no longer has the Fusion Material Monsters (if they were in his hand for example) then the effect of \"Polymerization\" disappears."
   },
   "PSCT": {
+    "Edison": "① Your opponent shuffles their entire hand into the Deck, then draws the same number of cards.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

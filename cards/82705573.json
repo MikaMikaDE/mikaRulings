@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "When a FIRE monster●If a monster is FIRE because it is equipped with Scroll of Bewitchment, you can't activate Backfire's effect when it is sent to the GY because it is no longer equipped when it arrives in the GY.\n●When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\n●If you control Backfire and your opponent's FIRE monster, you can activate Backfire's effect when your opponent's monster that you control is destroyed.",
     "Tengu": "When a FIRE monster(s) on your side of the field is destroyed and sent to the GY, inflict 500 points of damage to your opponent's Life Points.\n●If a monster is FIRE because it is equipped with Scroll of Bewitchment, you cannot activate Backfire's effect when it is sent to the GY because it is no longer equipped when it arrives in the GY.\n●When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\n●If you control Backfire and your opponent's FIRE monster, you can activate Backfire's effect when your opponent's monster that you control is destroyed.",
     "Goat": "●If a monster is FIRE because it is equipped with Scroll of Bewitchment, you cannot activate Backfire's effect when it is sent to the GY because it is no longer equipped when it arrives in the GY.\n●When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\n●If you control Backfire and your opponent's FIRE monster, you can activate Backfire's effect when your opponent's monster that you control is destroyed.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If a monster is FIRE because it is equipped with \"Scroll of Bewitchment\", you cannot activate the effect of \"Backfire\" when it is sent to the GY because it is no longer equipped when it arrives in the GY.\\n2. When multiple FIRE monsters are sent to the GY simultaneously, the damage is only 500 points.\\n3. If you control \"Backfire\" and your opponent's FIRE monster, you can activate the effect of \"Backfire\" when your opponent's monster that you control is destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

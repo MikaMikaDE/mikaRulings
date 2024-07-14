@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "Flip 1 face-down monster on the field into Attack Position.\n●This effect targets 1 face-down monster on the field.\n●This effect DOES NOT perform a Flip Summon (a manual player action).\n●Flip Effect will still activate.",
     "Tengu": "Flip 1 face-down monster on the field into face-up Attack Position.\n●This effect targets 1 face-down monster on the field.\n●This effect DOES NOT perform a Flip Summon (a manual player action).\n●Flip Effect will still activate.",
     "Goat": "●Flipping a monster into face-up Attack Position with Book of Taiyou is NOT a Flip Summon.\n●When a Flip Effect Monster is flipped face-up by the effect of Book of Taiyou, its Flip Effect is activated. You can Set a monster and use Book of Taiyou on it that same turn; its Flip Effect will activate.\n●If “Book of Taiyou” flips a Toon monster face-up, that Toon monster may attack that turn.\n●Q: If you Set a Flip Effect Monster, can you use “Book of Taiyou” in the same turn to activate the effect? \nA: Yes you can.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Flipping a monster into face-up Attack Position with \"Book of Taiyou\" is NOT a Flip Summon.\\n2. When a Flip Effect Monster is flipped face-up by the effect of \"Book of Taiyou\", its Flip Effect is activated. You can Set a monster and use \"Book of Taiyou\" on it that same turn; its Flip Effect will activate."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

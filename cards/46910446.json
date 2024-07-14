@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●The monster equipped with this card does not count towards the bonus. So if you have 2 “Dark Magicians” on the field, and 1 is equipped with “Chthonian Alliance”, it has +800 ATK.\n●Monsters on the opponent’s side of the field are counted for “Chthonian Alliance”.\n●Monsters that are treated as having the same name, like “Cyber Harpie Lady” and “Harpie Lady 3”, both count as “Harpie Lady” for purposes of “Chthonian Alliance”.",
     "Tengu": "\n●The monster equipped with this card does not count towards the bonus. So if you have 2 “Dark Magicians” on the field, and 1 is equipped with “Chthonian Alliance”, it has +800 ATK.\n●Monsters on the opponent’s side of the field are counted for “Chthonian Alliance”.\n●Monsters that are treated as having the same name, like “Cyber Harpie Lady” and “Harpie Lady 3”, both count as “Harpie Lady” for purposes of “Chthonian Alliance”.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The monster equipped with this card does not count towards the bonus. So if you have 2 copies of \"Dark Magician\" on the field, and 1 is equipped with \"Chthonian Alliance\", it has +800 ATK.\\n2. Monsters on the opponent's side of the field are counted for \"Chthonian Alliance\".\\n3. Monsters that are treated as having the same name, like \"Cyber Harpie Lady\" and \"Harpie Lady 3\", both count as \"Harpie Lady\" for purposes of \"Chthonian Alliance\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

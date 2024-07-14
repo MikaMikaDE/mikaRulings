@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The Ignition Effect activates & resolves in the hand.\n●Discarding this card to the GY is a cost. This effect can't activate while Macro Cosmos is active, since you can't pay the cost.\n●The Continuous Effect applies while this card is face-up on the field.\n●If this monster is attacked while in face-down Defense Position, and Pandemonium is not in play, this monster will be destroyed by its effect after Damage Calculation.\n●Destroying this card does not use the Chain.\n●This effect does not apply while this card's effects are negated (by Skill Drain).",
     "Tengu": "(1) You can discard this card to the GY to add 1 Pandemonium from your Deck to your hand. (2) If this card is on the field but Pandemonium is not on the field, destroy this card.\n●The (1) Ignition Effect activates & resolves in the hand.\n●Discarding this card to the GY is a cost. This effect can't activate while Macro Cosmos is active, since you can't pay the cost.\n●The (2) Continuous Effect applies while this card is face-up on the field.\n●If this monster is attacked while in face-down Defense Position, and Pandemonium is not in play, this monster will be destroyed by its effect after Damage Calculation.\n●Destroying this card does not use the Chain.\n●This effect does not apply while this card's effects are negated (by Skill Drain).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If this monster is attacked while in face-down Defense Position, and \"Pandemonium\" is not in play, this monster will be destroyed by its effect after Damage Calculation.\\n2. This effect does not use the Chain."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

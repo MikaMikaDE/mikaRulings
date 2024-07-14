@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Both effects target.\\n2. Returning a monster to the Deck and drawing a card do not happen simultaneously. Drawing 1 card is the last thing to occur.\\n3. You cannot activate the effect to equip a Union monster if \"Delta Tri\" is already equipped with a Union monster.\\n4. The effects of a Union monster equipped to \"Delta Tri\" as a result of its own effect are treated as being equipped by the effect of the Union monster. All the effects granted by the Union monster will apply."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

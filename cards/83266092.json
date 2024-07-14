@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "All face-up Level 6 or higher Special Summoned monsters on the field can't declare an attack or activate their effects.\n●Even mandatory effects can't activate while “Grave of the Super Ancient Organism” is active.\n●This card does not negate effects, it prevents both players from activating such effects.\n●If a monster’s Level is lowered below 6, it is no longer affected.\n●Level 6+ Monsters Special Summoned before this card resolves are affected.\n●If a monster's effect was activated, and this card was chained, that effect still resolves.",
     "Tengu": "All face-up Level 6 or higher Special Summoned monsters on the field cannot declare an attack or activate their effects.\n●Even mandatory effects cannot activate while “Grave of the Super Ancient Organism” is active.\n●This card does not negate effects, it prevents both players from activating such effects.\n●If a monster’s Level is lowered below 6, it is no longer affected.\n●Level 6+ Monsters Special Summoned before this card resolves are affected.\n●If a monster's effect was activated, and this card was chained, that effect still resolves.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Even mandatory effects cannot activate while \"Grave of the Super Ancient Organism\" is active.\\n2. If you chain the activation of \"Grave of the Super Ancient Organism\" to the activation of a monster's effect, that monster's effect will still apply because it has already been activated. \"Grave of the Super Ancient Organism\" does not negate effects. It prevents both players from activating those effects.\\n3. Monsters that were Special Summoned before \"Grave of the Super Ancient Organism\" will still fall under its effect.\\n4. If a monster's Level is lowered below 6, \"Grave of the Super Ancient Organism\" will no longer affect it."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can't activate this card if there are less than 4 Reptile-Type monsters in your Deck.\n●If the number of Reptile-Type monsters in your Deck becomes less than 4 due to an effect chained to “Snake Rain”, you can't send any Reptile-Type monsters from your Deck to the GY when “Snake Rain” resolves.",
     "Tengu": "\n●You cannot activate this card if there are less than 4 Reptile-Type monsters in your Deck.\n●If the number of Reptile-Type monsters in your Deck becomes less than 4 due to an effect chained to “Snake Rain”, you cannot send any Reptile-Type monsters from your Deck to the GY when “Snake Rain” resolves.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate this card if there are less than 4 Reptile-Type monsters in your Deck.\\n2. If the number of Reptile-Type monsters in your Deck becomes less than 4 due to an effect chained to \"Snake Rain\", you cannot send any Reptile-Type monsters from your Deck to the GY when \"Snake Rain\" resolves."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●If you switch the target of this card with Collected Power or Tailor of the Fickle you don't select a new Attribute.\n●The newly equipped monster becomes the Attribute that was originally selected when Scroll of Bewitchment was activated, even if it is the same as the monster’s original Attribute.",
     "Tengu": "\n●If you switch the target of this card with Collected Power or Tailor of the Fickle you do not select a new Attribute.\n●The newly equipped monster becomes the Attribute that was originally selected when Scroll of Bewitchment was activated, even if it is the same as the monster’s original Attribute.",
     "Goat": "●If you switch the target of this card with Collected Power or Tailor of the Fickle you do not select a new Attribute. The newly equipped monster becomes the Attribute that was originally selected when Scroll of Bewitchment was activated, even if it is the same as the monster’s original Attribute.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If you switch the target of this card with \"Collected Power\" or \"Tailor of the Fickle\" you do not select a new Attribute. The newly equipped monster becomes the Attribute that was originally selected when \"Scroll of Bewitchment\" was activated, even if it is the same as the monster's original Attribute."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

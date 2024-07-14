@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●This is a Multi-Trigger Effect that is activated in a chain to the opponent’s Spell or Trap Card.\n●You can activate “Inmato” when another Plant you control is targeted by a Continuous Spell / Trap Card that was previously activated.\n●You can't activate “Inmato” during the Damage Step.",
     "Tengu": "\n●This is a Multi-Trigger Effect that is activated in a chain to the opponent’s Spell or Trap Card.\n●You can activate “Inmato” when another Plant you control is targeted by a Continuous Spell / Trap Card that was previously activated.\n●You cannot activate “Inmato” during the Damage Step.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This is a Multi-Trigger Effect that is activated in a chain to the opponent's Spell or Trap Card.\\n2. You can activate \"Inmato\" when another Plant you control is targeted by a Continuous Spell / Trap Card that was previously activated.\\n3. You cannot activate \"Inmato\" during the Damage Step."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

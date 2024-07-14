@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●For Enraged Battle Ox's effect to activate, the attacked monster must be in Defense Position during damage calculation. So if Final Attack Orders is active, Enraged Battle Ox's effect won't be applied.",
     "Tengu": "\n●For Enraged Battle Ox's effect to activate, the attacked monster must be in Defense Position during damage calculation. So if Final Attack Orders is active, Enraged Battle Ox's effect will not be applied.",
     "Goat": "●For Enraged Battle Ox's effect to activate, the attacked monster must be in Defense Position during damage calculation. So if Final Attack Orders is applying, Enraged Battle Ox's effect will not be applied.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. For the effect of \"Enraged Battle Ox\" to activate, the attacked monster must be in Defense Position during damage calculation. So if \"Final Attack Orders\" is active, the effect of \"Enraged Battle Ox\" will not be applied."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

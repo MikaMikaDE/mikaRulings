@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "●You count Harpie Lady cards on both sides of the field when increasing this card’s ATK and DEF.",
     "Tengu": "\n●You count Harpie Lady cards on both sides of the field when increasing this card’s ATK and DEF.",
     "Goat": "●You count Harpie Lady cards on both sides of the field when increasing this card’s ATK/DEF.\n●Q: Does “Harpie’s Pet Dragon” get an ATK boost from “Harpie Lady Sisters?” \nA: “Harpie’s Pet Dragon” gets an ATK increase for monsters that are actually named “Harpie Lady.” Steve Okegawa, ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You count \"Harpie Lady\" cards on both sides of the field when increasing this card's ATK and DEF."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

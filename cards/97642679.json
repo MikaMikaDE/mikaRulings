@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●Because Dark Master - Zorc's effect is a Ignition Effect, you roll the die during Main Phase 1 or 2 of your turn only.\n●If you roll a 6, Dark Master - Zorc is also destroyed.",
     "Tengu": "\n●Because Dark Master - Zorc's effect is a Ignition Effect, you roll the die during Main Phase 1 or 2 of your turn only.\n●If you roll a 6, Dark Master - Zorc is also destroyed.",
     "Goat": "●Because Dark Master - Zorc's effect is a Ignition Effect, you roll the die during MP 1 or 2 of your turn only.\n●If you roll a 6, Dark Master - Zorc is also destroyed.\n●Q: When is the target for “Dark Master – Zorc” chosen and will the effect be considered targeting if the dice roll is 3, 4, or 5? \nA: You would have to choose your target during resolution. When you activate the effect of Dark Master - Zorc, you have no idea what is going to happen. Due to this, the effect cannot declare any target at activation.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Because the effect of \"Dark Master - Zorc\" is a Ignition Effect, you roll the die during Main Phase 1 or 2 of your turn only.\\n2. If you roll a 6, \"Dark Master - Zorc\" is also destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

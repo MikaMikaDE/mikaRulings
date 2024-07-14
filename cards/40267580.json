@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If this monster is attacked while face-down, and is destroyed as a result of battle, its effect does not activate. (Unlike “Kiseitai” because “Kiseitai” has an effect preventing damage calculation.)\n●The effect of “Brain Jacker” that increases Life Points can be chained to.",
     "Tengu": "\n●If this monster is attacked while face-down, and is destroyed as a result of battle, its effect does not activate. (Unlike “Kiseitai” because “Kiseitai” has an effect preventing damage calculation.)\n●The effect of “Brain Jacker” that increases Life Points can be chained to.",
     "Goat": "●If this monster is attacked while face-down, and is destroyed by battle, its effect does not activate. (Unlike “Kiseitai” because “Kiseitai” has an effect preventing damage calculation.)\n●The effect of “Brain Jacker” that increases LP can be chained to.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If this monster is attacked while face-down, and is destroyed as a result of battle, its effect does not activate. (Unlike \"Kiseitai\" because \"Kiseitai\" has an effect preventing damage calculation.)\\n2. The effect of \"Brain Jacker\" that increases Life Points can be chained to."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

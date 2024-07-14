@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters\n●While “Grasschopper’s” effect is active, if “Grasschopper” attacks a monster and your opponent activates “Magic Cylinder” to negate the attack, “Grasschopper” can attack that same monster again.",
     "Tengu": "\n●While “Grasschopper’s” effect is active, if “Grasschopper” attacks a monster and your opponent activates “Magic Cylinder” to negate the attack, “Grasschopper” can attack that same monster again.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. While the effect of \"Grasschopper\" is active, if \"Grasschopper\" attacks a monster and your opponent activates \"Magic Cylinder\" to negate the attack, \"Grasschopper\" can attack that same monster again."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

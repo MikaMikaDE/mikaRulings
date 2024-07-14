@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "●You can't activate Lekunga's effect if you don't have a vacant Monster Card Zone on your side of the field.",
     "Tengu": "\n●You cannot activate Lekunga's effect if you do not have a vacant Monster Card Zone on your side of the field.",
     "Goat": "●You cannot activate Lekunga's effect if you do not have a vacant Monster Card Zone on your side of the field.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You cannot activate the effect of \"Lekunga\" if you do not have a vacant Monster Card Zone on your side of the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

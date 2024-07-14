@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"ZERO-MAX\" targets 1 'Infernity' monster in your GY.\\n2. You cannot negate \"ZERO-MAX\" with the effect of \"Stardust Dragon\" because it is uncertain whether or not it will destroy anything.\\n3. If \"ZERO-MAX\" is the only card in your hand, you cannot activate it. You must Set it, and then activate.\\n4. The effect of \"ZERO-MAX\" Special Summons your 'Infernity' monster then destroys monsters. Your opponent cannot use \"Bottomless Trap Hole\" or \"Torrential Tribute\", even if you destroy no monsters.\\n5. You destroy monsters on the field with less ATK than the Special Summoned monster's current ATK, including any bonuses from Field Spells or Continuous Effects.\\n6. You can activate \"ZERO-MAX\" even if there are no monsters on the field."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

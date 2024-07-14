@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●The effect to return a monster to the top of your Deck targets 1 removed from play Zombie-Type monster.\n●Removing from play 2 Zombie-Type monsters in your GY is a cost.",
     "Tengu": "\n●The effect to return a monster to the top of your Deck targets 1 removed from play Zombie-Type monster.\n●Removing from play 2 Zombie-Type monsters in your GY is a cost.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to return a monster to the top of your Deck targets 1 removed from play Zombie-Type monster. Removing from play 2 Zombie-Type monsters in your GY is a cost."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

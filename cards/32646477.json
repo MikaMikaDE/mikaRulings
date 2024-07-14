@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●Compute damage based on the monster’s Level while it was on the field, not its level in the GY or removed zone.\n●This means you can Tribute “Embodiment of Apophis” or “Zoma the Spirit” to do 800 damage.\n●If you Tribute a face-down monster, compute damage based on the monster’s original Level printed on the card. Tributing a monster is a cost.",
     "Tengu": "\n●Compute damage based on the monster’s Level while it was on the field, not its level in the GY or removed zone.\n●This means you can Tribute “Embodiment of Apophis” or “Zoma the Spirit” to do 800 damage.\n●If you Tribute a face-down monster, compute damage based on the monster’s original Level printed on the card. Tributing a monster is a cost.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Compute damage based on the monster's Level while it was on the field, not its level in the GY or removed zone.\\n2. This means you can Tribute \"Embodiment of Apophis\" or \"Zoma the Spirit\" to do 800 damage.\\n3. If you Tribute a face-down monster, compute damage based on the monster's original Level printed on the card.\\n4. Tributing a monster is a cost."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

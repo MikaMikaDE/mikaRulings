@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●If you have only Kuriboh in your hand, and no Spell or Trap Cards on the field, and your Theban Nightmare battles with a card that has higher ATK/DEF, and you discard Kuriboh, the ATK of Theban Nightmare is increased by 1500 AFTER damage calculation (but Theban Nightmare is still destroyed by damage calculation unless an effect like Waboku had been activated previously during the turn).",
     "Tengu": "\n●If you have only Kuriboh in your hand, and no Spell or Trap Cards on the field, and your Theban Nightmare battles with a card that has higher ATK/DEF, and you discard Kuriboh, the ATK of Theban Nightmare is increased by 1500 AFTER damage calculation (but Theban Nightmare is still destroyed by damage calculation unless an effect like Waboku had been activated previously during the turn).",
     "Goat": "●If you have only Kuriboh in your hand, and no Spell/Trap Cards on the field, and your Theban Nightmare battles with a card that has higher ATK/DEF, and you discard Kuriboh, the ATK of Theban Nightmare is increased by 1500 AFTER damage calculation (but Theban Nightmare is still destroyed by damage calculation unless an effect like Waboku had been activated previously during the turn).",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you have only \"Kuriboh\" in your hand, and no Spell or Trap Cards on the field, and your \"Theban Nightmare\" battles with a card that has higher ATK/DEF, and you discard \"Kuriboh\", the ATK of \"Theban Nightmare\" is increased by 1500 AFTER damage calculation (but \"Theban Nightmare\" is still destroyed by damage calculation unless an effect like \"Waboku\" had been activated previously during the turn)."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

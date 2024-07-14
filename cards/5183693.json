@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels (during that battle only). When this card is sent to the GY, you can return it to the top of the Deck.\n●The increase in ATK is applied only during Damage Calculation.\n●This card’s effect to return itself to the top of the Deck starts a Chain.",
     "Tengu": "Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels (during that battle only). When this card is sent to the GY, you can return it to the top of the Deck.\n●The increase in ATK is applied only during Damage Calculation.\n●This card’s effect to return itself to the top of the Deck starts a Chain.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The increase in ATK is applied only during Damage Calculation.\\n2. This card's effect to return itself to the top of the Deck starts a Chain."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

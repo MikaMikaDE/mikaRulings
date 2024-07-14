@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "FLIP: Select 1 Trap Card from your Deck and place it on top of your Deck. If Necrovalley is on the field, you can add the selected Trap Card to your hand instead.\n●Show the card to your opponent.\n●If Imperial Order & Necrovalley are both active, and A Cat of Ill Omen is flipped, you add the card to your hand because Necrovalley is face-up on the field, even though its effect is negated.\n●If Mystical Space Typhoon is chained to the effect to destroy Necrovalley, so that Necrovalley is not on the field when this effect resolves, you can't place the card in your hand.\n●You select the card for this effect when the effect resolves, not when it activates.",
     "Tengu": "FLIP: Select 1 Trap Card from your Deck and place it on top of your Deck. If Necrovalley is on the field, you can add the selected Trap Card to your hand instead.\n●Show the card to your opponent.\n●If Imperial Order & Necrovalley are both active, and A Cat of Ill Omen is flipped, you add the card to your hand because Necrovalley is face-up on the field, even though its effect is negated.\n●If Mystical Space Typhoon is chained to the effect to destroy Necrovalley, so that Necrovalley is not on the field when this effect resolves, you cannot place the card in your hand.\n●You select the card for this effect when the effect resolves, not when it activates.",
     "Goat": "●Show the card to your opponent.\n●If Imperial Order & Necrovalley are both applying, and A Cat of Ill Omen is flipped, you add the card to your hand because Necrovalley is face-up on the field, even though its effect is negated.\n●If Mystical Space Typhoon is chained to the effect to destroy Necrovalley, so that Necrovalley is not on the field when this effect resolves, you cannot place the card in your hand.\n●You select the card for this effect when the effect resolves, not when it activates.\n●\n●Q: If “Necrovalley” is not applying on the field when resolving the effect of “A Cat of Ill Omen”, does the card being placed on top of the Deck have to be revealed to the opponent? \nA: You must reveal the selected card to your opponent to verify that it is a legal choice.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Show the card to your opponent.\\n2. If \"Imperial Order\" & \"Necrovalley\" are both active, and \"A Cat of Ill Omen\" is flipped, you add the card to your hand because \"Necrovalley\" is face-up on the field, even though its effect is negated.\\n3. If \"Mystical Space Typhoon\" is chained to the effect to destroy \"Necrovalley\", so that \"Necrovalley\" is not on the field when this effect resolves, you cannot place the card in your hand.\\n4. You select the card for this effect when the effect resolves, not when it activates."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

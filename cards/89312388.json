@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● This effect has no cost (This is an erratum).",
     "Tengu": "● Sending is a cost to activate this effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This text is functionally different from the old text. Revealing 1 Fusion Monster from your Extra Deck and sending 1 of the Fusion Material Monsters listed on that card from your Main Deck to the GY is now a cost to activate the effect.\\n2. \"Elemental HERO Prisma\" can only be used for Fusion Monsters that have at least 1 Fusion Material Monster that is specifically named, and can only be used to change its name to a specifically named Fusion Material Monster. You cannot reveal a monster like \"Five-Headed Dragon\" and send any Dragon-Type monster from your Deck to the GY.\\n3. If the effect of \"Elemental HERO Prisma\" activates and resolves and later that turn \"Skill Drain\" is activated, \"Elemental HERO Prisma\" will still retain the Fusion Material Monster's name since the effect has already been applied.\\n4. If the Fusion Material Monster that was sent to the GY is removed from play, \"Elemental HERO Prisma\" retains the name of that monster since the effect has already been applied.\\n5. You must send the Fusion Material Monster from your Main Deck to the GY. You cannot send a monster from your Extra Deck.\\n6. If \"Elemental HERO Prisma\" is already on the field and your opponent activates \"Prohibition\" naming \"Gladiator Beast Bestiari\", then \"Elemental HERO Prisma\" can still copy the name of \"Gladiator Beast Bestiari\" and can attack or change its battle position. If \"Elemental HERO Prisma\" is Summoned after \"Prohibition\" is activated, you can still copy the name of \"Gladiator Beast Bestiari\", but you cannot declare an attack or change its battle position.\\n7. You choose when during the End Phase to return Prisma's name to normal."
   },
   "PSCT": {
+    "Edison": "① Once per turn: You can activate this effect; You can reveal 1 Fusion Monster from your Extra Deck, and send 1 Monster from your Deck to the GY, whose name is specifically listed on that Fusion Monster, and until the End Phase, this card's name becomes the sent monster's.",
     "Tengu": "① Once per turn: You can reveal 1 Fusion Monster from your Extra Deck, and send 1 Monster from your Deck to the GY, whose name is specifically listed on that Fusion Monster; until the End Phase, this card's name becomes the sent monster's.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

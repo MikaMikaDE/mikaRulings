@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Tributing 1 face-up \"Gravekeeper's\" monster is a cost.\\n2. This effect targets 1 card your opponent controls.\\n3. If you gain control of the card targeted by this effect before it resolves, that card is not destroyed."
   },
   "PSCT": {
+    "Edison": "① You can tribute other 1 face-up \"Gravekeeper's\" monster, then target 1 card your opponent controls; destroy it.",
     "Tengu": "① You can tribute other 1 face-up \"Gravekeeper's\" monster, then target 1 card your opponent controls; destroy it.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

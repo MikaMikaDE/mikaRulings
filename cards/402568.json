@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This is a Trigger Effect that activates after damage calculation.\\n2. When the effect of \"Wattgiraffe\" is being applied, your opponent cannot do any of the following:\\n\\n[*]Activate a Spell or Trap Card.\\n[*]Activate the effect of a Spell or Trap Card that is already face-up on the field.\\n[*]Activate the effect of a Spell or Trap Card that's in the GY, like \"Skill Successor\".\\n[*]Activate any monster effect that starts a Chain."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

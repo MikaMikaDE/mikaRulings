@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●The Quick Effect activates & resolves in the hand.\n●Discarding this card is a cost.\n●This effect is activated in Substep 4 - Damage Calculation.\n●The Trigger Effect is mandatory, it activates & resolves on the field.\n●When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by Skill Drain, but this card won't forget which effect is gained while face-up.\n●The (HEADS) Continuous Effect applies while this card is face-up on the field.\n●This effect applies in Substep 4 - Damage Calculation, even if this card is destroyed by battle.\n●The (TAILS) Continuous Effect applies while this card is face-up on the field.\n●This effect applies in Substep 4 - Damage Calculation, even if this card is destroyed by battle.",
     "Tengu": "(1) During either player's turn, you can discard this card to reduce the damage you take from a battle to 0. (2) When this card is Summoned, toss a coin. ● Heads: Halve all Battle Damage you take. ● Tails: Halve all Battle Damage your opponent takes.\n●The (1) Quick Effect activates & resolves in the hand.\n●Discarding this card is a cost.\n●This effect is activated in Substep 4 - Damage Calculation.\n●The (2) Trigger Effect is mandatory, it activates & resolves on the field.\n●When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by Skill Drain, but this card will not forget which effect is gained while face-up.\n●The (HEADS) Continuous Effect applies while this card is face-up on the field.\n●This effect applies in Substep 4 - Damage Calculation, even if this card is destroyed by battle.\n●The (TAILS) Continuous Effect applies while this card is face-up on the field.\n●This effect applies in Substep 4 - Damage Calculation, even if this card is destroyed by battle.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Discarding \"Arcana Force XIV - The Temperance\" is a cost to activate its first effect. This effect is activated during damage calculation."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

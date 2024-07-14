@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● The ① effect can activate and resolve while “Skill Drain” is applying.\n● The ② effect can target a token monster. \n(in which case you still draw, and the token is destroyed). \n● If the ② effect is activated, the other target must be face-up to be banished. \n(This card doesn’t need to stay face-up to be banished. If either isn’t banished, none are banished; no cards are drawn).",
     "Tengu": "● The ① effect can activate and resolve while “Skill Drain” is applying.\n● The ② effect can target a token monster. \n(in which case you still draw, and the token is destroyed). \n● If the ② effect is activated, the other target must be face-up to be banished. \n(This card doesn’t need to stay face-up to be banished. If either isn’t banished, none are banished; no cards are drawn).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The first effect of \"Cyber Valley\" is a Trigger Effect. Its second and third effects are Ignition Effects.\\n2. The second effect of \"Cyber Valley\" targets \"Cyber Valley\" and 1 face-up monster you control. They are removed from play when the effect resolves.\\n3. The third effect of \"Cyber Valley\" targets 1 card in your GY. \"Cyber Valley\" and 1 card from your hand are removed from play when the effect is resolved.\\n4. If an effect is chained to the second or third effect of \"Cyber Valley\" that removes \"Cyber Valley\" from the field, the effect disappears.\\n5. If an effect is chained to the second effect of \"Cyber Valley\" that flips it face-down, the effect is still resolved. If the selected face-up monster is flipped face-down, the effect disappears."
   },
   "PSCT": {
+    "Edison": "① If this card is attacked by opponent’s monster: \nYou can banish this card; draw 1 card, then end the Battle Phase. \n② You can target this card and 1 other face-up monster you control; banish both targets, then draw 2 cards. \n③ You can target 1 card in your GY; banish both this card and 1 card from your hand, \nthen place that target on top of the Deck.",
     "Tengu": "① If this card is attacked by opponent’s monster: \nYou can banish this card; \ndraw 1 card, then end the Battle Phase. \n② You can target this card and 1 other face-up monster you control; \nbanish both targets, then draw 2 cards. \n③ You can target 1 card in your GY; \nbanish both this card and 1 card from your hand, \nthen place that target on top of the Deck.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

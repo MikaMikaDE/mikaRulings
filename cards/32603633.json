@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "Pay Life Points so that you only have 100 left. Special Summon as many Six Samurai monsters from your GY as possible. You can't Special Summon more than 1 monster with the same name, or a monster that has the same name as a monster on the field.\n●You can't activate this card if your Life Points are exactly 100 or less than 100.\n●You can't activate this card if there are no “Six Samurai” monsters in your GY.",
     "Tengu": "Pay Life Points so that you only have 100 left. Special Summon as many Six Samurai monsters from your GY as possible. You cannot Special Summon more than 1 monster with the same name, or a monster that has the same name as a monster on the field.\n●You cannot activate this card if your Life Points are exactly 100 or less than 100.\n●You cannot activate this card if there are no “Six Samurai” monsters in your GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate this card if your Life Points are exactly 100 or less than 100.\\n2. You cannot activate this card if there are no 'Six Samurai' monsters in your GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

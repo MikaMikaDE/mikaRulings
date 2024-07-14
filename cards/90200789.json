@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. [FORUM] If 2 copies of \"Ninjitsu Art of Super-Transformation\" are activated in a Chain, both targeting the same monsters, the first copy of \"Ninjitsu Art of Super-Transformation\" will resolve correctly and Special Summon 1 Dragon, Dinosaur, or Sea Serpent-Type monster.  The second copy to resolve will resolve without effect since it cannot send monsters to the GY.\\n2. [FORUM] If 2 copies of \"Ninjitsu Art of Super-Transformation\" are activated in a Chain, and both target a monster (but the other target is different), the first copy of \"Ninjitsu Art of Super-Transformation\" will Special Summon 1 Dragon, Dinosaur, or Sea Serpent-Type monster whose Level is less than or equal to the combined Levels of both monsters. The second \"Ninjitsu Art of Super-Transformation\" will summon 1 Dragon, Dinosaur, or Sea Serpent-Type monster whose Level is less than or equal to the Level of the 1 monster sent by its effect."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Placing a Karakuri Counter does not start a Chain.\\n2. If the effect of \"Karakuri Anatomy\" is negated, all Karakuri Counters are removed from it.\\n3. If you Flip Summon a \"Karakuri\" monster, a Karakuri Counter will be placed on this card.\\n4. If you flip a \"Karakuri\" monster face-down with \"Book of Moon\", a Karakuri Counter will not be placed."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

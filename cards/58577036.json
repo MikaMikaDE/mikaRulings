@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● You can't activate this card if you have no monsters that can be Normal Summoned/Set in your Deck.\n● You can't activate this card while \"Vanity's Fiend\" is applying.\n● If you reveal a card that can't be Summoned because EG \"Power Filter\" is applying, send all cards to the GY.",
     "Tengu": "● You can't activate this card if you have no monsters that can be Normal Summoned/Set in your Deck.\n● You can't activate this card while \"Vanity's Fiend\" is applying.\n● If you reveal a card that can't be Summoned because EG \"Power Filter\" is applying, send all cards to the GY.",
     "Goat": "●Pick up cards until you pick up a monster that can be Normal Summoned.\n●You can Special Summon a high-level monster like Dark Magician with Reasoning, but not Special Summon-only monsters like Gate Guardian, Ritual Monsters, etc.\n●If you pick up a Spirit Monster, then all picked up cards are sent to the GY.\n●If no monster is picked up, shuffle your Deck and put it back in the Deck Zone; the effect of Reasoning disappears.\n●You cannot activate Reasoning if you already activated Scapegoat this turn.\n●If Banisher of the Light is Special Summoned with Reasoning, the other cards picked up for Reasoning are sent to the GY. The effect of Banisher of the Light is not applied until after Reasoning resolves.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Pick up cards until you pick up a monster that can be Normal Summoned.\\n2. You can Special Summon a high-level monster like \"Dark Magician\" with \"Reasoning\", but not Special Summon-only monsters like \"Gate Guardian\", Ritual Monsters, etc.\\n3. If you pick up a Spirit Monster, then all picked up cards are sent to the GY.\\n4. If no monster is picked up, shuffle your Deck and put it back in the Deck Zone; the effect of \"Reasoning\" disappears.\\n5. You cannot activate \"Reasoning\" if you already activated \"Scapegoat\" this turn.\\n6. If \"Banisher of the Light\" is Special Summoned with \"Reasoning\", the other cards picked up for \"Reasoning\" are sent to the GY. The effect of \"Banisher of the Light\" is not applied until after \"Reasoning\" resolves."
   },
   "PSCT": {
+    "Edison": "① Your opponent declares a number from 1 to 12, \nthen you reveal cards from the top of your Deck until you reveal a monster that can be Normal Summoned/Set, \nthen, if its Level isn't the declared number, send all revealed cards to the GY, \nelse Special Summon it, also send the remaining cards to the GY.",
     "Tengu": "① Your opponent declares a number from 1 to 12, \nthen you reveal cards from the top of your Deck until you reveal a monster that can be Normal Summoned/Set, \nthen, if its Level isn't the declared number, send all revealed cards to the GY, \nelse Special Summon it, also send the remaining cards to the GY.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

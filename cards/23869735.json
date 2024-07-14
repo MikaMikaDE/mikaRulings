@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●You can't activate Fossil Excavation if you don't have any Dinosaur-Type monsters in your GY, even if you would discard one to activate it.",
     "Tengu": "\n●You cannot activate Fossil Excavation if you do not have any Dinosaur-Type monsters in your GY, even if you would discard one to activate it.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate \"Fossil Excavation\" if you do not have any Dinosaur-Type monsters in your GY, even if you would discard one to activate it."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

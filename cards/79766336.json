@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If the target is removed from your GY before this resolves, you do not apply its effect.\n● You apply the target's effect, but do not pay its costs. \n● If applying an effect that targets, you choose targets when Trap of Darkness is activated.\n● If applying the effect of \"Scrap-Iron Scarecrow\", this card Sets itself when it resolves.\n● You cannot apply an effect that equips (if banishing \"Kunai with Chain\", you can apply its 1st effect, but not the equip effect).",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① If your LP is 3000 or less: Pay 1000 LP, then target 1 Normal Trap in your GY, except \"Trap of Darkness\"; this card's effect becomes that target's activated effect, then banish that target.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This is an Ignition effect.\\n2. This effect targets 1 face-up monster.\\n3. If you target a monster with the effect of \"Turbo Cannon\" and control of the monster shifts to you as a result of a Chained effect, you will take damage equal to half of the target monster's ATK.\\n4. If the monster targeted by \"Turbo Cannon\" is flipped face-down, the effect of \"Turbo Cannon\" will not be applied.\\n5. The damage dealt by this effect is half of the current ATK of the monster on the field.\\n6. Destroying the target monster and inflicting damage are considered to occur at the same time."
   },
   "PSCT": {
+    "Edison": "Turbo Rocket\" + 1 or more non-Tuners\n① Once per turn: You can target 1 face-up monster on the field; destroy that target, and if you do, its controller takes damage equal to half its ATK on the field.",
     "Tengu": "Turbo Rocket\" + 1 or more non-Tuners\n① Once per turn: You can target 1 face-up monster on the field;\ndestroy that target, and if you do, its controller takes damage equal to half its ATK on the field.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

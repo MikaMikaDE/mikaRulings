@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This effect targets 1 face-up Equip Spell Card you control.\n●All cards destroyed by “Release Restraint Wave” are destroyed at the same time.\n●You may target an Equip Spell you control that can't be destroyed such as “Fusion Sword Murasame Blade” or an Equip Spell Card with a counter from “Magic Reflector.” If you do, the Equip Spell Card is not destroyed but Set Spell or Trap Cards your opponent controls are destroyed.\n●If the Equip Spell Card targeted by this effect is not on the field when the effect resolves, your opponent’s Set Spell and Trap Cards won't be destroyed.\n●You can't activate this card if your opponent does not have any Set Spell or Trap Cards.",
     "Tengu": "\n●This effect targets 1 face-up Equip Spell Card you control.\n●All cards destroyed by “Release Restraint Wave” are destroyed at the same time.\n●You may target an Equip Spell you control that cannot be destroyed such as “Fusion Sword Murasame Blade” or an Equip Spell Card with a counter from “Magic Reflector.” If you do, the Equip Spell Card is not destroyed but Set Spell or Trap Cards your opponent controls are destroyed.\n●If the Equip Spell Card targeted by this effect is not on the field when the effect resolves, your opponent’s Set Spell and Trap Cards will not be destroyed.\n●You cannot activate this card if your opponent does not have any Set Spell or Trap Cards.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This effect targets 1 face-up Equip Spell Card you control.\\n2. All cards destroyed by \"Release Restraint Wave\" are destroyed at the same time.\\n3. You may target an Equip Spell you control that cannot be destroyed such as \"Fusion Sword Murasame Blade\" or an Equip Spell Card with a counter from \"Magic Reflector\". If you do, the Equip Spell Card is not destroyed but Set Spell or Trap Cards your opponent controls are destroyed.\\n4. If the Equip Spell Card targeted by this effect is not on the field when the effect resolves, your opponent's Set Spell and Trap Cards will not be destroyed.\\n5. You cannot activate this card if your opponent does not have any Set Spell or Trap Cards."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

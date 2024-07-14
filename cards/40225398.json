@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If the attacked monster was originally in Attack Position, but is changed to Defense Position before damage calculation, the effect of “Twin-Sword Marauder” will activate.",
     "Tengu": "\n●If the attacked monster was originally in Attack Position, but is changed to Defense Position before damage calculation, the effect of “Twin-Sword Marauder” will activate.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If the attacked monster was originally in Attack Position, but is changed to Defense Position before damage calculation, the effect of \"Twin-Sword Marauder\" will activate."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

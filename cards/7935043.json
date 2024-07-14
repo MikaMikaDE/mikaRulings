@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "Until the End Phase of this turn, face-up Level 3 or lower WATER monsters you control can't be destroyed by battle or by card effects.\n●You can still activate this card even if you control no face-up Level 3 or lower WATER monsters at the time.\n●This effect is applied until you choose to end it during the End Phase.\n●This effect applies to all Level 3 or lower WATER monsters you control, even ones that you Summon after this card’s resolution.",
     "Tengu": "Until the End Phase of this turn, face-up Level 3 or lower WATER monsters you control cannot be destroyed by battle or by card effects.\n●You can still activate this card even if you control no face-up Level 3 or lower WATER monsters at the time.\n●This effect is applied until you choose to end it during the End Phase.\n●This effect applies to all Level 3 or lower WATER monsters you control, even ones that you Summon after this card’s resolution.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can still activate this card even if you control no face-up Level 3 or lower WATER monsters at the time.\\n2. This effect is applied until you choose to end it during the End Phase.\\n3. This effect applies to all Level 3 or lower WATER monsters you control, even ones that you Summon after this card's resolution."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

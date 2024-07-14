@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●The effects of this card don't target.\n●If you equip this card to your opponent’s monster and then attack that monster, your monster will lose ATK.\n●You can send this card to the GY to prevent your monster from being destroyed for not paying its maintenance cost.\n●The effect to reduce a monster’s ATK does not start a Chain.",
     "Tengu": "\n●The effects of this card do not target.\n●If you equip this card to your opponent’s monster and then attack that monster, your monster will lose ATK.\n●You can send this card to the GY to prevent your monster from being destroyed for not paying its maintenance cost.\n●The effect to reduce a monster’s ATK does not start a Chain.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The effects of this card do not target.\\n2. If you equip this card to your opponent's monster and then attack that monster, your monster will lose ATK.\\n3. You can send this card to the GY to prevent your monster from being destroyed for not paying its maintenance cost.\\n4. The effect to reduce a monster's ATK does not start a Chain"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● Since this is a Quick Effect, you can use it during Damage Calculation.",
     "Tengu": "● Since this is a Quick Effect, you can use it during Damage Calculation.",
     "Goat": "●You can activate the effect of Charm of Shabti during the Damage Step.\n●Charm of Shabti is like a reverse-Kuriboh: you take damage from the attack as normal, but your monster is unharmed.\n●“Charm of Shabti” can be discarded from the hand in response to a face-down Gravekeeper monster being flipped up by an attack if that Gravekeeper monster would be destroyed by an attack.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can activate the effect of \"Charm of Shabti\" during the Damage Step.\\n2. \"Charm of Shabti\" is like a reverse-\"Kuriboh\": you take damage from the attack as normal, but your monster is unharmed."
   },
   "PSCT": {
+    "Edison": "① (Quick): You can discard this card; until the End Phase, \"Gravekeeper's\" monsters you control can't be destroyed by battle.",
     "Tengu": "① (Quick): You can discard this card; until the End Phase, \"Gravekeeper's\" monsters you control can't be destroyed by battle.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

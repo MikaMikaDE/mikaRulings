@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●The Quick Effect can activate in the Damage Step, as it negates the activation of cards/effects.\n●Sending this card and 1 Fairy-Type monster from hand to the GY is a cost.\n●This effect activates & resolves in the hand.\n●By negating the activation of the previous card in the Chain, that Link is removed when the Chain resolves. The last thing to happen is this effect resolving, negating and destroying the other card.\n●This effect can't activate while Macro Cosmos is active.\n●If this effect destroys a opponent's monster before the Damage Step, a replay occurs.\n●If this effect destroys a opponent's monster during the Damage Step, no replay occurs.",
     "Tengu": "(1) You can send this card and 1 other Fairy-Type monster from your hand to the GY to negate the activation of an effect of an Effect Monster your opponent controls, and destroy it. You can activate this effect during either player's turn.\n●The (1) Quick Effect can activate in the Damage Step, as it negates the activation of cards/effects.\n●Sending this card and 1 Fairy-Type monster from hand to the GY is a cost.\n●This effect activates & resolves in the hand.\n●By negating the activation of the previous card in the Chain, that Link is removed when the Chain resolves. The last thing to happen is this effect resolving, negating and destroying the other card.\n●This effect cannot activate while Macro Cosmos is active.\n●If this effect destroys a opponent's monster before the Damage Step, a replay occurs.\n●If this effect destroys a opponent's monster during the Damage Step, no replay occurs.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Herald of Orange Light\" is a Quick Effect. It can be activated during the Damage Step.\\n2. If \"Banisher of the Radiance\" or \"Macro Cosmos\" is face-up on the field, you cannot activate the effect of \"Herald of Orange Light\" because you cannot send it and another Fairy-Type monster to the GY for the cost.\\n3. The effect of \"Herald of Orange Light\" will not be negated by the effect of \"The End of Anubis\" because it doesn't activate in the GY.\\n4. If an attacking Effect Monster or an Effect Monster that is being attacked activates an effect during the Damage Step before damage calculation, when the effect of \"Herald of Orange Light\" is chained to negate the effect and destroy the monster, damage calculation is not performed. Also, a replay does not occur.\\n5. [FORUM] Flipping the Monster face-down is not going to save it from the effect of \"Herald of Orange Light\". \"Herald of Orange Light\" does not require for the Monster to be face-up or remain face-up for it to properly resolve."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

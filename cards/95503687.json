@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● You can only activate the ① effect if you already have a \"Lightsworn\" monster in your GY. However, when choosing a target, you can choose to target the card you discarded, instead. \n● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).",
     "Tengu": "● You can only activate the ① effect if you already have a \"Lightsworn\" monster in your GY. However, when choosing a target, you can choose to target the card you discarded, instead. \n● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Discarding 1 card is a cost to activate this effect.\\n2. If you discard a Level 4 or lower 'Lightsworn' monster to activate the effect of \"Lumina, Lightsworn Summoner\", you can Special Summon it.\\n3. You cannot activate the effect of \"Lumina, Lightsworn Summoner\" if you do not have any Level 4 or lower 'Lightsworn' monsters in your GY, even if you would discard one to activate the effect.\\n4. If an effect is chained that removes \"Lumina, Lightsworn Summoner\" from the field, the targeted 'Lightsworn' monster is still Special Summoned.\\n5. See \"Jain, Lightsworn Paladin\" for additional rulings."
   },
   "PSCT": {
+    "Edison": "① Once per turn: You can discard 1 card, then target 1 \"Lightsworn\" monster in your GY; Special Summon it.\n② During your End Phase: Send the top 3 cards of your Deck to the GY.\n(Activate & Resolve only if this card is face-up on the field).",
     "Tengu": "① Once per turn: You can discard 1 card, then target 1 \"Lightsworn\" monster in your GY;\nSpecial Summon it.\n② During your End Phase: Send the top 3 cards of your Deck to the GY.\n(Activate & Resolve only if this card is face-up on the field).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

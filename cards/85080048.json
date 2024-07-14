@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Judgment of Thunder can't be activated in the Damage Step.\n●Judgment of Thunder targets 1 card your opponent controls.",
     "Tengu": "\n●Judgment of Thunder cannot be activated in the Damage Step.\n●Judgment of Thunder targets 1 card your opponent controls.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Judgment of Thunder\" cannot be activated in the Damage Step.\\n2. \"Judgment of Thunder\" targets 1 card your opponent controls."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

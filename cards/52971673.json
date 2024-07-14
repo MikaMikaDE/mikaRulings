@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card does not target.\\n2. You must control at least 1 Token and there must be at least 1 other card on the field in order to activate this card.\\n3. Destroying the Tokens is not a cost.\\n4. You destroy the Tokens, then destroy cards. The effects are not simultaneous.\\n5. Tokens you control that are equipped to \"Relinquished\" also count for this effect.\\n6. If you control at least 2 Tokens or 1 Token and 1 other card that can be destroyed, you can Chain \"Starlight Road\" to your own \"Token Sundae\"."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

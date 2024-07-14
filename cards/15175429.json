@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●This effect chains to that card's activation. \n●This does not negate the effect of that Spell Card (but if a Continuous, Field, or Equip card is destroyed this way, its effects won't resolve).",
     "Tengu": "No rulings available for this card.",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
@@ -27,6 +28,7 @@
     "Base": "No rulings available for this card."
   },
   "PSCT": {
+    "Edison": "Once per turn, if your opponent activates a Spell Card (Quick): You can destroy that Spell Card, and if you do, inflict 800 damage to your opponent.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

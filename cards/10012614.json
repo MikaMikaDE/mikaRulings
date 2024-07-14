@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Multiple copies of this card are cumulative.",
     "Tengu": "\n●Multiple copies of this card are cumulative.",
     "Goat": "●Multiple copies of this card are cumulative.\n●Q: Does the effect of “Banner of Courage” permanently increase the ATK of all monsters during the Battle Phase or does the ATK return to its previous values at the end of the Battle Phase? \nA: The increase in ATK is 200 and only during your own Battle Phase. The increase would disappear after the Battle Phase. When your next Battle Phase comes around, the increase in ATK would still be only 200.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Multiple copies of this card are cumulative."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

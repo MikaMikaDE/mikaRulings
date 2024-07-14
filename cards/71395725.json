@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●If “Man Beast of Ares” gains ATK, but then “Skill Drain” is activated, the ATK increase is wiped out. Even if “Skill Drain” is later destroyed, the ATK increase is not restored. (Although new ATK can be gained.)",
     "Tengu": "\n●If “Man Beast of Ares” gains ATK, but then “Skill Drain” is activated, the ATK increase is wiped out. Even if “Skill Drain” is later destroyed, the ATK increase is not restored. (Although new ATK can be gained.)",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Man Beast of Ares\" gains ATK, but then \"Skill Drain\" is activated, the ATK increase is wiped out. Even if \"Skill Drain\" is later destroyed, the ATK increase is not restored. (Although new ATK can be gained.)"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

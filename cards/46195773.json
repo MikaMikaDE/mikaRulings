@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The first effect of \"Turbo Warrior\" activates when the attack is declared. If it attacks a face-down Synchro Monster, the effect of \"Turbo Warrior\" does not activate.\\n2. The effects of \"Turbo Warrior\" do not target.\\n3. If \"Turbo Warrior\" attacks a Level 6 or higher Synchro Monster and an effect is chained that changes the attack target to a different monster, the new attack target monster has its ATK halved instead."
   },
   "PSCT": {
+    "Edison": "Turbo Synchron\" + 1 or more non-Tuners\n① When this card attacks a Level 6 or higher Synchro Monster: \nHalve that monster's ATK until the end of the Damage Step.\n② can't be targeted by the effects of Level 6 or lower monsters.",
     "Tengu": "Turbo Synchron\" + 1 or more non-Tuners\n① When this card attacks a Level 6 or higher Synchro Monster: \nHalve that monster's ATK until the end of the Damage Step.\n② Cannot be targeted by the effects of Level 6 or lower monsters.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

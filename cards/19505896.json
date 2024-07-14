@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●Nettles' effect does not target.\n●If Nettles is attacked while face-down, its effect can't be applied when it is destroyed by battle.\n●If Nettles is attacked by Drillroid while in face-down Defense Position, Nettle's effect can't be applied.",
     "Tengu": "\n●Nettles' effect does not target.\n●If Nettles is attacked while face-down, its effect cannot be applied when it is destroyed by battle.\n●If Nettles is attacked by Drillroid while in face-down Defense Position, Nettle's effect cannot be applied.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Nettles\" does not target.\\n2. If \"Nettles\" is attacked while face-down, its effect cannot be applied when it is destroyed by battle.\\n3. If \"Nettles\" is attacked by \"Drillroid\" while in face-down Defense Position, the effect of \"Nettles\" cannot be applied."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

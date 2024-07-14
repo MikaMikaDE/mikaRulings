@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● The monster to destroy is chosen as this card resolves.",
     "Tengu": "● The monster to destroy is chosen as this card resolves.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
     "Tengu": "① Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

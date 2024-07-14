@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Discarding a card and negating the attack are considered to happen simultaneously.\n●Discarding 1 card is not a cost. It is part of the resolution of the effect. \n●If your opponent’s 3rd End Phase after the activation of “Depth Amulet” is skipped for whatever reason, “Depth Amulet” will remain face-up on the field. \n●You can only activate the effect of “Depth Amulet” once for each attack that is declared. \n●You can flip “Depth Amulet” at any time.\n●You can only activate its effect when your opponent’s monster declares an attack.\n●You can flip “Depth Amulet” and activate its effect in the same Chain Link.\n●“Depth Amulet” targets the attacking monster.",
     "Tengu": "\n●Discarding a card and negating the attack are considered to happen simultaneously.\n●Discarding 1 card is not a cost. It is part of the resolution of the effect. If your opponent’s 3rd End Phase after the activation of “Depth Amulet” is skipped for whatever reason, “Depth Amulet” will remain face-up on the field. You can only activate the effect of “Depth Amulet” once for each attack that is declared. You can flip “Depth Amulet” at any time.\n●You can only activate its effect when your opponent’s monster declares an attack.\n●You can flip “Depth Amulet” and activate its effect in the same Chain Link.\n●“Depth Amulet” targets the attacking monster.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Discarding a card and negating the attack are considered to happen simultaneously.\\n2. Discarding 1 card is not a cost. It is part of the resolution of the effect.\\n3. If your opponent's 3 End Phase after the activation of \"Depth Amulet\" is skipped for whatever reason, \"Depth Amulet\" will remain face-up on the field.\\n4. You can only activate the effect of \"Depth Amulet\" once for each attack that is declared.\\n5. You can flip \"Depth Amulet\" at any time. You can only activate its effect when your opponent's monster declares an attack. You can flip \"Depth Amulet\" and activate its effect in the same Chain Link.\\n6. \"Depth Amulet\" targets the attacking monster."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

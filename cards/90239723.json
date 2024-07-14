@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●Sending a “Morphtronic” monster to the GY is a cost to activate “Morphtronic Repair Unit.” The effect targets 1 “Morphtronic” monster in your GY.\n●There must be a “Morphtronic” monster in your GY in order to activate “Morphtronic Repair Unit.” However, as long as there is an eligible target in your GY, you can send a “Morphtronic” monster from your hand to the GY,and then target the monster you just sent. If there are no “Morphtronic” monsters in your GY, you can't do this.",
     "Tengu": "\n●Sending a “Morphtronic” monster to the GY is a cost to activate “Morphtronic Repair Unit.” The effect targets 1 “Morphtronic” monster in your GY.\n●There must be a “Morphtronic” monster in your GY in order to activate “Morphtronic Repair Unit.” However, as long as there is an eligible target in your GY, you can send a “Morphtronic” monster from your hand to the GY,and then target the monster you just sent. If there are no “Morphtronic” monsters in your GY, you cannot do this.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Sending a 'Morphtronic' monster to the GY is a cost to activate \"Morphtronic Repair Unit\". The effect targets 1 'Morphtronic' monster in your GY.\\n2. There must be a 'Morphtronic' monster in your GY in order to activate \"Morphtronic Repair Unit\". However, as long as there is an eligible target in your GY, you can send a 'Morphtronic' monster from your hand to the GY, and then target the monster you just sent. If there are no 'Morphtronic' monsters in your GY, you cannot do this."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Returning the hand and gaining DEF happen at the same time. If you can't return, you don't gain DEF.\\n2. The \"returned monster's Level\" is that monster's original Level when it is in the opponent's hand.\\n3. If \"Skill Drain\" becomes active after this card's effect resolves, it will lose any DEF gained and will not regain it, even if \"Skill Drain\" is later destroyed.\\n4. The DEF increase remains for as long as \"Jurrac Ptera\" is face-up on the field."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

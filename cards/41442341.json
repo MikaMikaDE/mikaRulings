@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The optional Trigger Effect activates & resolves on the field.\n●Paying 2000 Life Points is a cost.\n●This effect targets 2 Fiend-Type monsters in the GY at activation.\n●If a target leaves the GY, the other target is still Special Summoned.\n●If Skill Drain is activated later that turn, the Summoned targets still can't attack that turn.\n●You can't activate this effect if you don't have 2 or more Fiend-Type monsters in your GY that you can be Special Summoned.",
     "Tengu": "(1) When this card is Tribute Summoned you can pay 2000 Life Points to Special Summon 2 Fiend-Type monsters from your GY. They cannot attack this turn.\n●The (1) optional Trigger Effect activates & resolves on the field.\n●Paying 2000 Life Points is a cost.\n●This effect targets 2 Fiend-Type monsters in the GY at activation.\n●If a target leaves the GY, the other target is still Special Summoned.\n●If Skill Drain is activated later that turn, the Summoned targets still cannot attack that turn.\n●You cannot activate this effect if you don't have 2 or more Fiend-Type monsters in your GY that you can be Special Summoned.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

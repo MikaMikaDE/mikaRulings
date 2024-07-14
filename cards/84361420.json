@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This card targets 1 opponent's monster.\n●If you destroy a monster whose original ATK is undefined, like King of the Skull Servants, this card won't inflict any damage to the opponent.\n●If an effect like Enemy Controller is chained to Edge Hammer and control of the targeted monster switches, it won't be destroyed by Edge Hammer.",
     "Tengu": "\n●This card targets 1 opponent's monster.\n●If you destroy a monster whose original ATK is undefined, like King of the Skull Servants, this card will not inflict any damage to the opponent.\n●If an effect like Enemy Controller is chained to Edge Hammer and control of the targeted monster switches, it will not be destroyed by Edge Hammer.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card targets 1 opponent's monster.\\n2. If you destroy a monster whose original ATK is undefined, like \"King of the Skull Servants\", this card will not inflict any damage to the opponent.\\n3. If an effect like \"Enemy Controller\" is chained to \"Edge Hammer\" and control of the targeted monster switches, it will not be destroyed by \"Edge Hammer\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

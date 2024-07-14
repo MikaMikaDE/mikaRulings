@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● The ① is a continuous effect. It can be negated.\n● The ② is a mandatory effect. When this card is summoned, the ② must trigger, and you don't retain Ignition Priority (you must wait until it has resolved before you can activate the ③).",
     "Tengu": "● The ① is a continuous effect. It can be negated.\n● The ② is a mandatory effect. When this card is summoned, the ② must trigger, and you do not retain Ignition Priority (you must wait until it has resolved before you can activate the ③).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① While this card is face-up on the field, it can't be Tributed. \n② If this card is Normal/Flip Summoned: Change it to Defense Position. \n③ Once per turn: You can discard 1 Spell; Special Summon 1 Level 4 monster from your Deck (but that monster can't attack this turn).",
     "Tengu": "① While this card is face-up on the field, it cannot be Tributed. \n② If this card is Normal/Flip Summoned: Change it to Defense Position. \n③ Once per turn: You can discard 1 Spell; \nSpecial Summon 1 Level 4 monster from your Deck (but that monster can't attack this turn).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

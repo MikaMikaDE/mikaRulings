@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● This is an Ignition effect that targets 1 Field Spell Card in your GY.",
     "Tengu": "\n●This is an Ignition effect that targets 1 Field Spell Card in your GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This is an Ignition effect that targets 1 Field Spell Card in your GY."
   },
   "PSCT": {
+    "Edison": "Once per turn: You can target 1 Field Spell in your GY; shuffle that target into the Deck.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

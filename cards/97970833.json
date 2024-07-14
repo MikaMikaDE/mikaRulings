@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If your opponent has an active Field Spell Card when you activate this card they can draw 1 card when this card resolves, even if that Field Spell Card is destroyed by an effect Chained to this card’s activation.\n●This card is resolved as follows: First, select 1 “Ancient City – Rainbow Ruins” from your Deck and place it in your Field Spell Card Zone, then your opponent’s Field Spell Card is destroyed and they draw one card.\n●You can't activate “Last Resort” if “Field Barrier” is in play, because a new Field Spell Card can't be played.\n●You can activate “Last Resort” while you have a Field Spell Card in your Field Spell Card Zone. When “Last Resort” resolves, the Field Spell Card in your Field Spell Card Zone is destroyed and “Ancient City – Rainbow Ruins” is placed into your Field Spell Card Zone.",
     "Tengu": "\n●If your opponent has an active Field Spell Card when you activate this card they can draw 1 card when this card resolves, even if that Field Spell Card is destroyed by an effect Chained to this card’s activation.\n●This card is resolved as follows: First, select 1 “Ancient City – Rainbow Ruins” from your Deck and place it in your Field Spell Card Zone, then your opponent’s Field Spell Card is destroyed and they draw one card.\n●You cannot activate “Last Resort” if “Field Barrier” is in play, because a new Field Spell Card cannot be played.\n●You can activate “Last Resort” while you have a Field Spell Card in your Field Spell Card Zone. When “Last Resort” resolves, the Field Spell Card in your Field Spell Card Zone is destroyed and “Ancient City – Rainbow Ruins” is placed into your Field Spell Card Zone.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If your opponent has an active Field Spell Card when you activate this card they can draw 1 card when this card resolves, even if that Field Spell Card is destroyed by an effect Chained to this card's activation.\\n2. This card is resolved as follows: First, select 1 \"Ancient City - Rainbow Ruins\" from your Deck and place it in your Field Spell Card Zone, then your opponent's Field Spell Card is destroyed and they draw one card.\\n3. You cannot activate \"Last Resort\" if \"Field Barrier\" is in play, because a new Field Spell Card cannot be played.\\n4. You can activate \"Last Resort\" while you have a Field Spell Card in your Field Spell Card Zone. When \"Last Resort\" resolves, the Field Spell Card in your Field Spell Card Zone is destroyed and \"Ancient City - Rainbow Ruins\" is placed into your Field Spell Card Zone."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

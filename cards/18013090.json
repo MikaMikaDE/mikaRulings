@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "● Attack Declaration still happens for this card's second attack with its ② effect.",
     "Tengu": "● Attack Declaration still happens for this card's second attack with its ② effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If the Spell Card is activated before \"Nitro Warrior\" is Summoned, \"Nitro Warrior\" does not gain 1000 ATK during its next attack.\\n2. The second effect of \"Nitro Warrior\" targets 1 of your opponent's face-up Defense Position monsters.\\n3. The second effect of \"Nitro Warrior\" activates at the end of the Damage Step, when monsters destroyed by battle are sent to the GY. If you activate this effect you will return to the Battle Step and attack the selected monster with \"Nitro Warrior\".\\n4. If the second effect of \"Nitro Warrior\" is used to attack again, cards like \"Sakuretsu Armor\" can be activated when the additional attack is declared.\\n5. If \"Toll\" is active, the controller of \"Nitro Warrior\" pays 500 Life Points when they declare the additional attack."
   },
   "PSCT": {
+    "Edison": "\"Nitro Synchron\" + 1 or more non-Tuners\n① Once per turn, during your turn, if you activate a Spell Card, this card gains 1000 ATK during its next attack (during Damage Calculation only).\n② Once per turn, if this attacking card destroys an opponent's monster by battle:\nYou can target 1 face-up Defense Position monster they control; change that target to Attack Position, then this card can make a second attack in a row, on that monster.",
     "Tengu": "① Once per turn, during your turn, if you activate a Spell Card, this card gains 1000 ATK during its next attack (during Damage Calculation only).\n② Once per turn, if this attacking card destroys an opponent's monster by battle:\nYou can target 1 face-up Defense Position monster they control;\nchange that target to Attack Position, then this card can make a second attack in a row, on that monster.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

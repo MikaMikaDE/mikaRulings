@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings currently avaiable.",
     "Tengu": "No rulings currently avaiable.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① If this card is Normal/Flip Summoned: Change it to Defense position.\n ② Monsters with A-Counters can't declare attacks.",
     "Tengu": "① If this card is Normal/Flip Summoned: Change it to Defense position.\n ② Monsters with A-Counters can't declare attacks.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

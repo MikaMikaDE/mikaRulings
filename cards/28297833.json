@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● If either player has less than 5 cards in the Deck, all of them are banished.\n● The ③ effect can activate even if this card is in the Deck (for example, if it shuffled itself).",
     "Tengu": "● If either player has less than 5 cards in the Deck, all of them are banished.\n● The ③ effect can activate even if this card is in the Deck (for example, if it shuffled itself).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① If Normal Summoned: Shuffle all banished cards into the Deck. \n② Gains 100 ATK for each card shuffled into the Main Deck by this effect. \n③ If this card is banished: Each player banishes the top 5 cards from their Deck.",
     "Tengu": "① If Normal Summoned: Shuffle all banished cards into the Deck. \n② Gains 100 ATK for each card shuffled into the Main Deck by this effect. \n③ If this card is banished: Each player banishes the top 5 cards from their Deck.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

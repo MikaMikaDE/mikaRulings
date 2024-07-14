@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●If you activate the effect of “Emperor Sem,” you need to return a card from your GY to the top of your Deck.\n●Your opponent does not have to use its effect, but can do so if they wish.\n●Each player targets 1 card in their GY for “Emperor Sem’s” effect.\n●If you have at least 1 card in your GY, you can activate “Emperor Sem’s” effect even if your opponent has no cards in their GY.\n●“Emperor Sem’s” effect starts a Chain. If an effect is chained that shifts control of the Tribute Summoned monster to your opponent, “Emperor Sem’s” effect resolves as normal. However, if control of “Emperor Sem” shifts to the opponent as part of the Chain, the effect of “Emperor Sem” is not applied because it is no longer a case where ‘you Tribute Summoned a monster’, as “you” now refers to your opponent.",
     "Tengu": "\n●If you activate the effect of “Emperor Sem,” you need to return a card from your GY to the top of your Deck.\n●Your opponent does not have to use its effect, but can do so if they wish.\n●Each player targets 1 card in their GY for “Emperor Sem’s” effect.\n●If you have at least 1 card in your GY, you can activate “Emperor Sem’s” effect even if your opponent has no cards in their GY.\n●“Emperor Sem’s” effect starts a Chain. If an effect is chained that shifts control of the Tribute Summoned monster to your opponent, “Emperor Sem’s” effect resolves as normal. However, if control of “Emperor Sem” shifts to the opponent as part of the Chain, the effect of “Emperor Sem” is not applied because it is no longer a case where ‘you Tribute Summoned a monster’, as “you” now refers to your opponent.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you activate the effect of \"Emperor Sem\", you need to return a card from your GY to the top of your Deck. Your opponent does not have to use its effect, but can do so if they wish.\\n2. Each player targets 1 card in their GY for the effect of \"Emperor Sem\".\\n3. If you have at least 1 card in your GY, you can activate the effect of \"Emperor Sem\" even if your opponent has no cards in their GY.\\n4. The effect of \"Emperor Sem\" starts a Chain. If an effect is chained that shifts control of the Tribute Summoned monster to your opponent, the effect of \"Emperor Sem\" resolves as normal. However, if control of \"Emperor Sem\" shifts to the opponent as part of the Chain, the effect of \"Emperor Sem\" is not applied because it is no longer a case where 'you Tribute Summoned a monster', as 'you' now refers to your opponent."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

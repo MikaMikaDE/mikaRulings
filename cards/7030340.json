@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "●Factory of 100 Machines targets 1 Machine-Type monster you control.\n●Removing all Morphtronic monsters in your GY from play is not a cost. If an effect is chained that removes the targeted Machine-Type monster from the field, you must still remove all Morphtronic monsters in your GY from play when Factory of 100 Machines resolves.",
     "Tengu": "\n●Factory of 100 Machines targets 1 Machine-Type monster you control.\n●Removing all Morphtronic monsters in your GY from play is not a cost. If an effect is chained that removes the targeted Machine-Type monster from the field, you must still remove all Morphtronic monsters in your GY from play when Factory of 100 Machines resolves.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

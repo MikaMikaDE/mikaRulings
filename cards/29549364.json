@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "● This card stops Tribute Summoning, Tributing to activate a card or effect, Tributing to Ritual Summon a Ritual Monster, etc. \n● Sending Materials to the GY to Synchro/Fusion Summon is not \"tributing\", so this card does not prevent Synchro/Tribute Summons.",
     "Tengu": "● This card stops Tribute Summoning, Tributing to activate a card or effect, Tributing to Ritual Summon a Ritual Monster, etc. \n● Sending Materials to the GY to Synchro/Fusion Summon is not \"tributing\", so this card does not prevent Synchro/Tribute Summons.",
     "Goat": "●Fusion Material Monsters are not Tributes, so a Fusion Monster may be Special Summoned while this card is applying on the field.\n●If Mask of Restrict is chained to a Ritual Spell Card, the effect of the Spell Card cannot resolve and no monsters are Tributed from the hand or field.\n●If Mask of Restrict is applying, a Toon Monster that requires Tributes cannot be Special Summoned. The activation of Mask of Restrict cannot be chained to the Summoning of a Toon Monster, but it can be chained to the activation of Toon World.\n●If Mask of Restrict is chained to the effect of Cannon Soldier you will still take damage because Tributing a monster is a cost of Cannon Soldier and is performed when the effect of Cannon Soldier is activated. If Mask of Restrict is chained to your opponent’s Share the Pain you do not have to Tribute a monster, but your opponent still does because it is a cost.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Fusion Material Monsters are not Tributes, so a Fusion Monster may be Special Summoned while this card is active on the field.\\n2. If \"Mask of Restrict\" is chained to a Ritual Spell Card, the effect of the Spell Card cannot resolve and no monsters are Tributed from the hand or field.\\n3. If \"Mask of Restrict\" is active, a Toon Monster that requires Tributes cannot be Special Summoned. The activation of \"Mask of Restrict\" cannot be chained to the Summoning of a Toon Monster, but it can be chained to the activation of \"Toon World\".\\n4. If \"Mask of Restrict\" is chained to the effect of \"Cannon Soldier\" you will still take damage because Tributing a monster is a cost of \"Cannon Soldier\" and is performed when the effect of \"Cannon Soldier\" is activated. If \"Mask of Restrict\" is chained to your opponent's \"Share the Pain\" you do not have to Tribute a monster, but your opponent still does because it is a cost."
   },
   "PSCT": {
+    "Edison": "① Monsters can't be Tributed.",
     "Tengu": "① Monsters can't be Tributed.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●Multiple Piece Golem's effect is a Trigger Effect. It does not target.\n●Multiple Piece Golem is returned to the Extra Deck when its effect resolves. Returning it is not a cost.",
     "Tengu": "\n●Multiple Piece Golem's effect is a Trigger Effect. It does not target.\n●Multiple Piece Golem is returned to the Extra Deck when its effect resolves. Returning it is not a cost.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Multiple Piece Golem\" is a Trigger Effect. It does not target.\\n2. \"Multiple Piece Golem\" is returned to the Extra Deck when its effect resolves. Returning it is not a cost."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

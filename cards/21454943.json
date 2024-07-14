@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●The Quick Effect activates & resolves on the field.\n●This effect targets the opponent's monster.\n●This effect can activate in any Substep of the Damage Step before Substep 4 - Damage Calculation.\n●This effect can only be activated once during the Damage Step. (i.e., you can't pay 500 LP twice during a single Damage Step for a total of -1000 ATK). However, you can activate it multiple times if there are multiple battles involving Psychic-Type monsters.\n●Each copy of Psychic Commander can use its effect during a single Damage Step.\n●VS. Brain Research Lab: You can't place a Psychic Counter on Brain Research Lab for this effect.",
     "Tengu": "(1) When a Psychic-Type monster you control battles, during the Damage Step you can pay Life Points in multiples of 100 (max. 500) to have the monster it's battling lose that much ATK and DEF, until the End Phase.\n●The (1) Quick Effect activates & resolves on the field.\n●This effect targets the opponent's monster.\n●This effect can activate in any Substep of the Damage Step before Substep 4 - Damage Calculation.\n●This effect can only be activated once during the Damage Step. (i.e., you cannot pay 500 LP twice during a single Damage Step for a total of -1000 ATK). However, you can activate it multiple times if there are multiple battles involving Psychic-Type monsters.\n●Each copy of Psychic Commander can use its effect during a single Damage Step.\n●VS. Brain Research Lab: You cannot place a Psychic Counter on Brain Research Lab for this effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Psychic Commander\" targets the opponent's monster that is battling your Psychic-Type monster.\\n2. The effect of \"Psychic Commander\" can only be activated once during the Damage Step."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

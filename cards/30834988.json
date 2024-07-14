@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "● This card's effect can't be activated in the same Chain Link as the card itself being activated.",
     "Tengu": "● This card's effect can't be activated in the same Chain Link as the card itself being activated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"All-Out Attacks\" starts a Chain whenever a monster is Special Summoned, even if the monster is Special Summoned in Attack Position.\\n2. Monsters that are Special Summoned face-down are also changed to face-up Attack Position.\\n3. If \"All-Out Attacks\" is activated when a monster is Special Summoned, its effect is not applied because it must already be face-up on the field at the time the monster is Special Summoned."
   },
   "PSCT": {
+    "Edison": "① If a monster(s) is Special Summoned while this card is face-up on the field: Change it to Attack Position, also it must attack this turn, if able.",
     "Tengu": "① If a monster(s) is Special Summoned while this card is face-up on the field: Change it to face-up Attack Position, also it must attack this turn, if able.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

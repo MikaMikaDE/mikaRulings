@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● “Remove Brainwashing” will cause “Nightmare Archfiend Tokens” to switch to the control of the player who activated “Nightmare Archfiends”. If that player does not have enough available Monster Card Zone spaces, the extra “Nightmare Archfiend Tokens” are destroyed and the opponent takes damage accordingly. When a “Nightmare Archfiend Token” is destroyed, the effect to inflict damage does not start a chain, so cards like “Barrel Behind the Door” can't be activated. Tributing a monster is a cost to activate this card.",
     "Tengu": "\n● “Remove Brainwashing” will cause “Nightmare Archfiend Tokens” to switch to the control of the player who activated “Nightmare Archfiends”. If that player does not have enough available Monster Card Zone spaces, the extra “Nightmare Archfiend Tokens” are destroyed and the opponent takes damage accordingly. When a “Nightmare Archfiend Token” is destroyed, the effect to inflict damage does not start a chain, so cards like “Barrel Behind the Door” cannot be activated. Tributing a monster is a cost to activate this card.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Remove Brainwashing\" will cause 'Nightmare Archfiend Tokens' to switch to the control of the player who activated \"Nightmare Archfiends\". If that player does not have enough available Monster Card Zone spaces, the extra 'Nightmare Archfiend Tokens' are destroyed and the opponent takes damage accordingly.\\n2. When a 'Nightmare Archfiend Token' is destroyed, the effect to inflict damage does not start a chain, so cards like \"Barrel Behind the Door\" cannot be activated.\\n3. Tributing a monster is a cost to activate this card."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

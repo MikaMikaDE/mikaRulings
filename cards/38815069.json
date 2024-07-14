@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① FLIP: Target 1 \"Lightsworn\" monster in your GY; shuffle that target into your Deck, then draw 1 card.",
     "Tengu": "① FLIP: Target 1 \"Lightsworn\" monster in your GY; \nshuffle that target into your Deck, then draw 1 card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

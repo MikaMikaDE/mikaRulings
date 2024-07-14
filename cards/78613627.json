@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If Hyper Hammerhead attacks Des Kangaroo in Defense Position, their effects form a chain; Hyper Hammerhead is Step 1 because it is the turn player's effect, and Des Kangaroo is Step 2. Des Kangaroo resolves first and destroys Hyper Hammerhead, then Hyper Hammerhead resolves and Des Kangaroo is returned to the owner's hand.",
     "Tengu": "\n●If Hyper Hammerhead attacks Des Kangaroo in Defense Position, their effects form a chain; Hyper Hammerhead is Step 1 because it is the turn player's effect, and Des Kangaroo is Step 2. Des Kangaroo resolves first and destroys Hyper Hammerhead, then Hyper Hammerhead resolves and Des Kangaroo is returned to the owner's hand.",
     "Goat": "●If Hyper Hammerhead attacks Des Kangaroo in Defense Position, their effects form a chain; Hyper Hammerhead is Step 1 because it is the turn player's effect, and Des Kangaroo is Step 2. Des Kangaroo resolves first and destroys Hyper Hammerhead, then Hyper Hammerhead resolves and Des Kangaroo is returned to the owner's hand.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Hyper Hammerhead\" attacks \"Des Kangaroo\" in Defense Position, their effects form a chain; \"Hyper Hammerhead\" is Step 1 because it is the turn player's effect, and \"Des Kangaroo\" is Step 2. \"Des Kangaroo\" resolves first and destroys \"Hyper Hammerhead\", then \"Hyper Hammerhead\" resolves and \"Des Kangaroo\" is returned to the owner's hand."
   },
   "PSCT": {
+    "Edison": "① If the ATK of a monster that attacks this monster is lower than the DEF of this card, destroy the attacking monster.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

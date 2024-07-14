@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● You may activate the effects of multiple “Strike Ninja” in the same turn (but only one per copy).",
     "Tengu": "● You may activate the effects of multiple “Strike Ninja” in the same turn (but only one per copy).",
     "Goat": "●You cannot activate Strike Ninja's effect during the Damage Step.\n●Strike Ninja is a Multi-Trigger effect so you can chain it to another Spell Speed 1 or 2 effect and can activate it outside your Main Phases, even during your opponent's turn (but not during the Damage Step).\n●You can only activate Strike Ninja's effect when Strike Ninja is face-up on the field.\n●Removing 2 DARK monsters for Strike Ninja's effect is a cost. If “Strike Ninja” attempts to return to the field when all monster zones are occupied, “Strike Ninja” is destroyed.\n●“Strike Ninja’s” effect only applies while “Strike Ninja” is face up on the field.\n●The effect of “Strike Ninja” returning to the field after being removed by its own effect is not a Special Summon.",
     "HAT": "● You may activate the effects of multiple “Strike Ninja” in the same turn (but only one per copy).",
@@ -27,6 +28,7 @@
     "Base": "1. You cannot activate the effect of \"Strike Ninja\" during the Damage Step.\\n2. The effect of \"Strike Ninja\" is a Quick Effect so you can chain it to another Spell Speed 1 or 2 effect and can activate it outside your Main Phases, even during your opponent's turn (but not during the Damage Step).\\n3. You can only activate the effect of \"Strike Ninja\" when \"Strike Ninja\" is face-up on the field.\\n4. Removing 2 DARK monsters for the effect of \"Strike Ninja\" is a cost."
   },
   "PSCT": {
+    "Edison": "① Once per turn (Quick Effect): \nYou can banish 2 DARKs from your GY; banish this face-up card (until the End Phase).",
     "Tengu": "① Once per turn (Quick Effect): \nYou can banish 2 DARKs from your GY; \nbanish this face-up card (until the End Phase).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

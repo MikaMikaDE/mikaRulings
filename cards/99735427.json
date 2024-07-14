@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "● This doesn't stop monster effects from activating.\nIt just negates any effect which does activate (on the field/GY).\n● Even if the Physical card is no longer on the field/GY, the effect is still negated.",
     "Tengu": "● This doesn't stop monster effects from activating.\nIt just negates any effect which does activate (on the field/GY).\n● Even if the Physical card is no longer on the field/GY, the effect is still negated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. When determining if a monster's effect should be negated by \"Shadow-Imprisoning Mirror\", check the monster's Attribute at the time its effect is resolved.\\n2. When a Non-DARK monster's effect is activated while the monster and \"Shadow-Imprisoning Mirror\" are both face-up on the field, if you chain \"DNA Transplant\" and select \"DARK\", the monster's effect will be negated if the monster is still face-up on the field when its effect resolves because it is now a DARK monster.\\n3. \"Shadow-Imprisoning Mirror\" cannot negate the Continuous Effects of DARK monsters."
   },
   "PSCT": {
+    "Edison": "① If the effect of a DARK monster is activated on the field/GY, negate that effect.",
     "Tengu": "① If the effect of a DARK monster is activated on the field/GY, negate that effect.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

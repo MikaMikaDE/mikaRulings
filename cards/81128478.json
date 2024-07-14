@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Removing from play 1 Insect-Type monster is a cost.This effect targets your opponent’s monster. If you gain control of the targeted monster, it is still destroyed when this effect resolves. ",
     "Tengu": "\n●Removing from play 1 Insect-Type monster is a cost.This effect targets your opponent’s monster. If you gain control of the targeted monster, it is still destroyed when this effect resolves. ",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Removing from play 1 Insect-Type monster is a cost.\\n2. This effect targets your opponent's monster.\\n3. If you gain control of the targeted monster, it is still destroyed when this effect resolves."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "●Both players can chain to the Trap Card that is activated by the effect of “Jetroid” (the controller can activate several Trap Cards from his hand in a chain).\n●If “Ancient Gear Golem” attacks “Jetroid”, the controller of “Jetroid” can't use its effect.",
     "Tengu": "\n●Both players can chain to the Trap Card that is activated by the effect of “Jetroid” (the controller can activate several Trap Cards from his hand in a chain).\n●If “Ancient Gear Golem” attacks “Jetroid”, the controller of “Jetroid” cannot use its effect.",
     "Goat": "●Both players can chain to the Trap Card that is activated by the effect of “Jetroid” (the controller can activate several Trap Cards from his hand in a chain).\n●If “Ancient Gear Golem” attacks “Jetroid”, the controller of “Jetroid” cannot use its effect.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Both players can chain to the Trap Card that is activated by the effect of \"Jetroid\" (the controller can activate several Trap Cards from his hand in a chain).\\n2. If \"Ancient Gear Golem\" attacks \"Jetroid\", the controller of \"Jetroid\" cannot use its effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

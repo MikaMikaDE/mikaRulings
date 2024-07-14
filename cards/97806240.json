@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can activate the effect of a Continuous Trap Card that is already face-up on the field during the turn that “Forced Ceasefire” is active.\n●This effect applies to both players.",
     "Tengu": "\n●You can activate the effect of a Continuous Trap Card that is already face-up on the field during the turn that “Forced Ceasefire” is active.\n●This effect applies to both players.",
     "Goat": "●You can activate the effect of a Continuous Trap Card that is already face-up on the field during the turn that “Forced Ceasefire” is applying.\n●This effect applies to both players.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can activate the effect of a Continuous Trap Card that is already face-up on the field during the turn that \"Forced Ceasefire\" is active.\\n2. This effect applies to both players."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

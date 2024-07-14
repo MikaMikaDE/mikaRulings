@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "● If 1 of the targets leaves the field before this effect resolves, the other is still destroyed, and this card gains 1 additional attack.\n● If this card's effect is negated after it has already resolved, this card can still attack an additional number of times.",
     "Tengu": "● If 1 of the targets leaves the field before this effect resolves, the other is still destroyed, and this card gains 1 additional attack.\n● If this card's effect is negated after it has already resolved, this card can still attack an additional number of times.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The restriction against Special Summoning \"Trident Dragion\", except by Synchro Summon, is not an 'effect'.\\n2. The effect of \"Trident Dragion\" that destroys cards is a Trigger Effect that targets. The gain of additional attacks is resolved as part of this effect.\\n3. If 1 of the targeted cards is destroyed in a Chain before the effect of \"Trident Dragion\" resolves, you still destroy the remaining card, so \"Trident Dragion\" still gains 1 additional attack.\\n4. If \"Trident Dragion\" gains additional attacks, and then \"Skill Drain\" is activated later, it does not remove the additional attacks from \"Trident Dragion\".\\n5. \"Trident Dragion\" cannot be Special Summoned by \"Wicked Rebirth\" or similar cards, because they do not Synchro Summon a monster."
   },
   "PSCT": {
+    "Edison": "1 Dragon Tuner + 1 or more non-Tuner Dragons\nⓈ Must be Synchro Summoned.\n① If Synchro Summoned: You can target up to 2 other cards you control; destroy those targets, and if you do, this card gains 1 additional Attack for each destroyed card during each Battle Phase this turn.",
     "Tengu": "1 Dragon Tuner + 1 or more non-Tuner Dragons\nⓈ Must be Synchro Summoned.\n① If Synchro Summoned: You can target up to 2 other cards you control;\ndestroy those targets, and if you do, this card gains 1 additional Attack for each destroyed card during each Battle Phase this turn.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

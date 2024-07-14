@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect starts a Chain at the start of the Damage Step, before monsters are flipped face-up (like \"Ally of Justice Catastor\").\\n2. If this card is face-down at the start of the Damage Step its effect does not activate.\\n3. If this card battles \"Neo-Spacian Grand Mole\" and both card's effects are activated, both monsters will be returned to the hand and this card's effect will not apply.\\n4. You check this card's ATK and the opponent's monster's DEF when this effect resolves. If this card's ATK is not greater than the opponent's monster's DEF, this effect is not applied and damage is calculated normally."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

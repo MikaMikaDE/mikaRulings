@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The following rules apply to all Spirit Monsters:\\n2. Spirit is not a monster Type; you cannot declare \"Spirit\" for the effect of \"DNA Surgery\".\\n3. Spirit Monsters are still Effect Monsters.\\n4. A Spirit Monster must be face-up on the field during the End Phase for it to return to the owner's hand. If it was destroyed or removed from play, it will not return to the owner's hand.\\n5. A Spirit Monster will return to the owner's hand during the End Phase, even if the opponent played it from their hand (through the effect of \"Exchange\".)"
   },
   "PSCT": {
+    "Edison": "Ⓢ Cannot be Special Summoned. \n① During the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.\n② If this card inflicts Battle Damage to your opponent: Draw cards until you have 5 cards in hand.",
     "Tengu": "Ⓢ Can't be Special Summoned. \n① During the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.\n② If this card inflicts Battle Damage to your opponent: Draw cards until you have 5 cards in hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

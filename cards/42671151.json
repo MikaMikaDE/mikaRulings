@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Gaining Life Points and Special Summoning 1 \"Malus Token\" happen at the same time.\\n2. You can Chain multiple copies of \"The Golden Apples\" to each other and each will resolve successfully.\\n3. If a \"Malus Token\" is affected by \"Shrink\", its ATK will become 0 and remain 0 even after \"Shrink\" wears off.\\n4. If a \"Malus Token\" is affected by \"Megamorph\" its ATK will become 0 but will return to the values set when it was Summoned if \"Megamorph\" is no longer applied.\\n5. If you can't take any battle damage due to \"Rainbow Life\" or \"Waboku\", you cannot activate \"The Golden Apples\".\\n6. You cannot activate \"The Golden Apples\" while you are unable to Special Summon due to \"Jowgen the Spiritualist\".\\n7. You can activate both \"The Golden Apples\" and the effect of \"Tragoedia\" in the same Chain."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

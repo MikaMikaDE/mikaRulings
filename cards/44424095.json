@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Returning 1 Morphtronic monster from your hand to the Deck is not a cost.\n●Morphtronic Accelerator targets 1 card on the field.\n●When the Morphtronic monster is returned from your hand to the Deck, the Deck is shuffled before the targeted card is destroyed and before you draw 1 card.\n●Destroying the target and drawing 1 card are considered to happen at the same time.\n●If you don't have any cards remaining in your Deck, you can't activate Morphtronic Accelerator.\n●If you can't destroy the targeted card, you must still return 1 Morphtronic card from your hand to the Deck, but you don't draw 1 card.\n●If you don't have a “Morphtronic” monster in your hand when Morphtronic Accelerator resolves, Morphtronic Accelerator's effect disappears.",
     "Tengu": "\n●Returning 1 Morphtronic monster from your hand to the Deck is not a cost.\n●Morphtronic Accelerator targets 1 card on the field.\n●When the Morphtronic monster is returned from your hand to the Deck, the Deck is shuffled before the targeted card is destroyed and before you draw 1 card.\n●Destroying the target and drawing 1 card are considered to happen at the same time.\n●If you do not have any cards remaining in your Deck, you cannot activate Morphtronic Accelerator.\n●If you cannot destroy the targeted card, you must still return 1 Morphtronic card from your hand to the Deck, but you do not draw 1 card.\n●If you do not have a “Morphtronic” monster in your hand when Morphtronic Accelerator resolves, Morphtronic Accelerator's effect disappears.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Returning 1 'Morphtronic' monster from your hand to the Deck is not a cost.\\n2. \"Morphtronic Accelerator\" targets 1 card on the field.\\n3. When the 'Morphtronic' monster is returned from your hand to the Deck, the Deck is shuffled before the targeted card is destroyed and before you draw 1 card.\\n4. Destroying the target and drawing 1 card are considered to happen at the same time.\\n5. If you do not have any cards remaining in your Deck, you cannot activate \"Morphtronic Accelerator\".\\n6. If you cannot destroy the targeted card, you must still return 1 'Morphtronic' card from your hand to the Deck, but you do not draw 1 card.\\n7. If you do not have a 'Morphtronic' monster in your hand when \"Morphtronic Accelerator\" resolves, the effect of \"Morphtronic Accelerator\" disappears."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

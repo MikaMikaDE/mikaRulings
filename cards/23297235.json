@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "● This card’s effect specifies “and sends it to the GY”. It triggers at the end of the Damage Step, but not if the destroyed monster wasn’t sent to the GY, or if this card is no longer face-up on the field.",
     "Tengu": "● This card’s effect specifies “and sends it to the GY”. It triggers at the end of the Damage Step,    but not if the destroyed monster wasn’t sent to the GY, or if this card is no longer face-up on the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If this monster battles a monster with the same ATK and both are destroyed at the same time and sent to the GY, you cannot activate its effect.\\n2. If this monster destroys \"Embodiment of Apophis\" or \"Metal Reflect Slime\" by battle and sends it to the GY you cannot activate the effect to Summon a monster."
   },
   "PSCT": {
+    "Edison": "① If this card destroys an opponent's monster by battle and sends it to the GY:\nYou can Special Summon 1 FIRE with 200 or less DEF from your Deck (except \"Flamvell Firedog\").",
     "Tengu": "① If this card destroys an opponent's monster by battle and sends it to the GY:\nYou can Special Summon 1 FIRE with 200 or less DEF from your Deck (except \"Flamvell Firedog\").",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

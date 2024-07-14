@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●\"Each face-up card\" includes your opponent's cards.",
     "Tengu": "\n●Includes your opponent's cards that are capable of having Spell Counters placed on them.",
     "Goat": "●Includes your opponent's cards that are capable of having Spell Counters placed on them.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Includes your opponent's cards that are capable of having Spell Counters placed on them."
   },
   "PSCT": {
+    "Edison": "FLIP: Place 1 Spell Counter on each face-up card on the field that you can place a Spell Counter on.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

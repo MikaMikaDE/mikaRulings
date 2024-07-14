@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "1. If you control \"Machina Sniper\" and both players have 'Machina' monsters on their fields, neither player can attack 'Machina' monsters except \"Machina Sniper\".\n2. If a face-down 'Machina' monster is attacked while \"Machina Sniper\" is on the field, the attack will proceed as normal because the monster is not flipped face-up until the Damage Step.\n3. If a face-down 'Machina' monster is attacked while \"Machina Sniper\" is on the field, but the monster is flipped face-up by \"Ceasefire\" before the Damage Step, the attack is canceled because of the effect of \"Machina Sniper\".",
     "Tengu": "1. If you control \"Machina Sniper\" and both players have 'Machina' monsters on their fields, neither player can attack 'Machina' monsters except \"Machina Sniper\".\\n2. If a face-down 'Machina' monster is attacked while \"Machina Sniper\" is on the field, the attack will proceed as normal because the monster is not flipped face-up until the Damage Step.\\n3. If a face-down 'Machina' monster is attacked while \"Machina Sniper\" is on the field, but the monster is flipped face-up by \"Ceasefire\" before the Damage Step, the attack is canceled because of the effect of \"Machina Sniper\".",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you control \"Machina Sniper\" and both players have 'Machina' monsters on their fields, neither player can attack 'Machina' monsters except \"Machina Sniper\".\\n2. If a face-down 'Machina' monster is attacked while \"Machina Sniper\" is on the field, the attack will proceed as normal because the monster is not flipped face-up until the Damage Step.\\n3. If a face-down 'Machina' monster is attacked while \"Machina Sniper\" is on the field, but the monster is flipped face-up by \"Ceasefire\" before the Damage Step, the attack is canceled because of the effect of \"Machina Sniper\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

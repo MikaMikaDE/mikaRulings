@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● This effect activates in the Damage Step, so it can never be negated by \"Royal Oppression\". \nCards like \"Bottomless Trap Hole\" and \"Torrential Tribute\" can never be used in response to this Summon.",
     "Tengu": "● This effect activates in the Damage Step, so it can never be negated by \"Royal Oppression\". \nCards like \"Bottomless Trap Hole\" and \"Torrential Tribute\" can never be used in response to this Summon.",
     "Goat": "●You may Special Summon a high-level monster with Pyramid Turtle's effect (like Vampire Lord or Ryu Kokki), but not a Special-Summon only monster (like Spirit of the Pharaoh).\n●Q: If a player activates “Creature Swap”, gives their opponent “Pyramid Turtle”, and then destroys the “Pyramid Turtle” in battle, will the player be able to attack with the Special Summoned monster from “Pyramid Turtle’s” effect? \nA: Yes, in the situation presented the Zombie monster Special Summoned by the effect of Pyramid Turtle may attack during that same Battle Phase. ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You may Special Summon a high-level monster with the effect of \"Pyramid Turtle\" (like \"Vampire Lord\" or \"Ryu Kokki\"), but not a Special-Summon only monster (like \"Spirit of the Pharaoh\")."
   },
   "PSCT": {
+    "Edison": "① If destroyed by battle and sent to the GY:\nYou can Special Summon 1 Zombie with 2000 or less DEF from your Deck.",
     "Tengu": "① If destroyed by battle and sent to the GY:\nYou can Special Summon 1 Zombie with 2000 or less DEF from your Deck.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

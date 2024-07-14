@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● Regenerating Mummy's effect will activate when sent to the GY by the effect of Morphing Jar or Card Destruction.\n●Regenerating Mummy's effect will activate during the Damage Step because of Spirit Reaper or Don Zaloog.\n●Regenerating Mummy's effect will activate when destroyed and sent to the GY because of Chain Destruction.",
     "Tengu": "\n●Regenerating Mummy's effect will activate when sent to the GY by the effect of Morphing Jar or Card Destruction.\n●Regenerating Mummy's effect will activate during the Damage Step because of Spirit Reaper or Don Zaloog.\n●Regenerating Mummy's effect will activate when destroyed and sent to the GY because of Chain Destruction.\n●You can chain to Regenerating Mummy's effect.\n●You cannot use the same Regenerating Mummy for both parts of Delinquent Duo's effect.",
     "Goat": "●Regenerating Mummy's effect will activate when sent to the GY by the effect of Morphing Jar or Card Destruction.\n●Regenerating Mummy's effect will activate during the Damage Step because of Spirit Reaper or Don Zaloog.\n●Regenerating Mummy's effect will activate when destroyed and sent to the GY because of Chain Destruction.\n●You can chain to Regenerating Mummy's effect.\n●You cannot use the same Regenerating Mummy for both parts of Delinquent Duo's effect.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Regenerating Mummy\" will activate when sent to the GY by the effect of \"Morphing Jar\" or \"Card Destruction\".\\n2. The effect of \"Regenerating Mummy\" will activate during the Damage Step because of \"Spirit Reaper\" or \"Don Zaloog\".\\n3. The effect of \"Regenerating Mummy\" will activate when destroyed and sent to the GY because of \"Chain Destruction\".\\n4. You can chain to the effect of \"Regenerating Mummy\".\\n5. You cannot use the same \"Regenerating Mummy\" for both parts of the effect of \"Delinquent Duo\"."
   },
   "PSCT": {
+    "Edison": "① If this card is sent from your hand to your GY by an opponent's card effect: Return this card to the hand.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

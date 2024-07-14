@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● Green Gadget: This card gains 300 ATK. ● Red Gadget: If this card successfully attacks your opponent directly, inflict 500 damage to your opponent. ● Yellow Gadget: If this card destroys your opponent's monster by battle, inflict 700 damage to your opponent.\n●The Continous Effect of gaining effect●When you Tribute Summon this card by Tributing a Gadget monster, it does not start a chain. Gaining the appropriate effect is a Continuous Effect.\n●The Green Gadget Continuous Effect does not start a Chain.\n●This effect applies immediately, since it does not start a Chain.\n●The (Red Gadget) Trigger Effect is mandatory.\n●This effect activates & resolves on the field in Substep 5 - After Damage Calculation.\n●The (Yellow Gadget) Trigger Effect is mandaatory.\n●This effect activates & resolves on the field in Substep 7 - After Damage Calculation.\n●This effect activates even if this card is flipped face-down / leaves the field.",
     "Tengu": "(1) If you Tribute Summon this card by Tributing 1 of the following monsters, this card gets the appropriate effect: ● Green Gadget: This card gains 300 ATK. ● Red Gadget: If this card successfully attacks your opponent directly, inflict 500 damage to your opponent. ● Yellow Gadget: If this card destroys your opponent's monster by battle, inflict 700 damage to your opponent.\n●The (1) Continous Effect of gaining effect(s) by Tributing a Gadget does not activate.\n●When you Tribute Summon this card by Tributing a Gadget monster, it does not start a chain. Gaining the appropriate effect is a Continuous Effect.\n●The Green Gadget Continuous Effect does not start a Chain.\n●This effect applies immediately, since it does not start a Chain.\n●The (Red Gadget) Trigger Effect is mandatory.\n●This effect activates & resolves on the field in Substep 5 - After Damage Calculation.\n●The (Yellow Gadget) Trigger Effect is mandaatory.\n●This effect activates & resolves on the field in Substep 7 - After Damage Calculation.\n●This effect activates even if this card is flipped face-down / leaves the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. When you Tribute Summon this card by Tributing a \"Gadget\" monster, it does not start a chain. Gaining the appropriate effect is a Continuous Effect.\\n2. If you Tribute \"Green Gadget\" to Tribute Summon this card, it has +300 ATK from the time it is Summoned."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

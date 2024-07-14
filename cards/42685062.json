@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●You can't Set “Emissary from Pandemonium” by Tributing just 1 monster. The restriction against Special Summoning “Emissary from Pandemonium” is not an ‘effect’. The ability to Normal Summon “Emissary from Pandemonium” with 1 Tribute is not an effect. If Normal Summoned with 1 Tribute, the halved ATK/DEF are treated as the original ATK/DEF.",
     "Tengu": "\n●You cannot Set “Emissary from Pandemonium” by Tributing just 1 monster. The restriction against Special Summoning “Emissary from Pandemonium” is not an ‘effect’. The ability to Normal Summon “Emissary from Pandemonium” with 1 Tribute is not an effect. If Normal Summoned with 1 Tribute, the halved ATK/DEF are treated as the original ATK/DEF.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You cannot Set \"Emissary from Pandemonium\" by Tributing just 1 monster.\\n2. The restriction against Special Summoning \"Emissary from Pandemonium\" is not an 'effect'.\\n3. The ability to Normal Summon \"Emissary from Pandemonium\" with 1 Tribute is not an effect.\\n4. If Normal Summoned with 1 Tribute, the halved ATK/DEF are treated as the original ATK/DEF."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●You can select a face-down monster.\n●When a face-down Dark-Eyes Illusionist is attacked and destroyed, its effect does not activate.\n●If Royal Command is actived after Dark-Eyes Illusionist's effect resolves, Dark-Eyes Illusionist's effect is negated.",
     "Tengu": "\n●You can select a face-down monster.\n●When a face-down Dark-Eyes Illusionist is attacked and destroyed, its effect does not activate.\n●If Royal Command is actived after Dark-Eyes Illusionist's effect resolves, Dark-Eyes Illusionist's effect is negated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can select a face-down monster.\\n2. When a face-down \"Dark-Eyes Illusionist\" is attacked and destroyed, its effect does not activate.\\n3. If \"Royal Command\" is actived after the effect of \"Dark-Eyes Illusionist\" resolves, the effect of \"Dark-Eyes Illusionist\" is negated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. [FORUM] If \"Raigeki Break\" is activated, targeting \"T.G. Cyber Magician\" and \"TG1-EM1\" is chained, targeting \"T.G. Cyber Magician\" and \"Scrap Dragon\", \"T.G. Cyber Magician\" will still be destroyed when \"Raigeki Break\" resolves. When you target a card, you are targeting the card itself, not the zone it's in."
   },
   "PSCT": {
+    "Edison": "① Discard 1 card, then target 1 card on the field; destroy it.",
     "Tengu": "① Discard 1 card, then target 1 card on the field;\ndestroy it.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

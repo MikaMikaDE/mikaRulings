@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You place a Spellstone Counter when the monster's effect finishes resolving.\\n2. You place a Counter for each monster effect that resolves, even if more than one effect is activated in the same Chain.\\n3. If you control multiple copies of \"Powersink Stone\", each one gets a Spell Stone Counter.\\n4. Removing the Spellstone Counters at the End Phase starts a Chain.\\n5. The effect of \"Powersink Stone\" to remove its Spellstone Counters can activate multiple times during the End Phase if monster effects continue to place Counters on it.\\n6. If this card is negated by \"Royal Decree\", all Spellstone Counters on it immediately vanish.\\n7. If \"Light and Darkness Dragon\" is on the field and \"Powersink Stone\" gets its second Spellstone Counter, the effect of \"Light and Darkness Dragon\" will be negated and its ATK and DEF will return to the original values."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

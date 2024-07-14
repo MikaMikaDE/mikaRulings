@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●This card’s effect is a Continuous Effect that can't be chained to.\n●The 400 points of damage is inflicted after the effect of the Normal Spell Card is resolved. So if the opponent had 300 Life Points, and you activated “Rain of Mercy” while you had “Rapid-Fire Magician” face-up on the field, the opponent would gain 1000 Life Points, and then take the 400 points of damage, leaving them at 900 Life Points.",
     "Tengu": "\n●This card’s effect is a Continuous Effect that cannot be chained to.\n●The 400 points of damage is inflicted after the effect of the Normal Spell Card is resolved. So if the opponent had 300 Life Points, and you activated “Rain of Mercy” while you had “Rapid-Fire Magician” face-up on the field, the opponent would gain 1000 Life Points, and then take the 400 points of damage, leaving them at 900 Life Points.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This card's effect is a Continuous Effect that cannot be chained to.\\n2. The 400 points of damage is inflicted after the effect of the Normal Spell Card is resolved. So if the opponent had 300 Life Points, and you activated \"Rain of Mercy\" while you had \"Rapid-Fire Magician\" face-up on the field, the opponent would gain 1000 Life Points, and then take the 400 points of damage, leaving them at 900 Life Points."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

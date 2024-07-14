@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● This effect activates in the Damage Step, so it can never be negated by \"Royal Oppression\". \nCards like \"Bottomless Trap Hole\" and \"Torrential Tribute\" can never be used in response to this Summon.",
     "Tengu": "● This effect activates in the Damage Step, so it can never be negated by \"Royal Oppression\". \nCards like \"Bottomless Trap Hole\" and \"Torrential Tribute\" can never be used in response to this Summon.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① If destroyed by battle and sent to the GY:\nYou can Special Summon 1 Fairy with 1500 or less ATK from your Deck, \nor, if \"Sanctuary in the Sky\" is on the field, you can Special Summon 1 \"Airknight Parshath\", instead.",
     "Tengu": "① If destroyed by battle and sent to the GY:\nYou can Special Summon 1 Fairy with 1500 or less ATK from your Deck, \nor, if \"Sanctuary in the Sky\" is on the field, you can Special Summon 1 \"Airknight Parshath\", instead.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

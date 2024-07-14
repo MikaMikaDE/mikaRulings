@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "●The mandatory Trigger Effect activates & resolves in the GY.\n●This effect activates in Substep 5 - After Damage Calculation.\n●This effect activates even if you don't have another FIRE monster in your GY.\n●There is no cost. Volcanic Counter is banished when this effect inflicts Effect Damage.\n●The effect does not activate if your Life Points were reduced to 0 in Substep 4 - Damage Calculation.",
     "Tengu": "(1) When you take Battle Damage while this card is in your GY, remove it from play. Then, if there is a FIRE monster other than Volcanic Counter in your GY, inflict damage to your opponent equal to the amount of Battle Damage you took.\n●The (1) mandatory Trigger Effect activates & resolves in the GY.\n●This effect activates in Substep 5 - After Damage Calculation.\n●This effect activates even if you do not have another FIRE monster in your GY.\n●There is no cost. Volcanic Counter is banished when this effect inflicts Effect Damage.\n●The (1) effect does not activate if your Life Points were reduced to 0 in Substep 4 - Damage Calculation.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Volcanic Counter\" is not optional."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

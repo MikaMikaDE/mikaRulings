@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● You can't discard this card to the GY if \"Dimensional Fissure\" is applying.\n● If this card targets \"Necro Gardna\" during your turn, \"Necro Gardna\" can be chained to this effect.\n● The Summon of \"Machina Fortress\" does not use the Chain. This card can't be chained to it.",
     "Tengu": "● You can't discard this card to the GY if \"Dimensional Fissure\" is applying.\n● If this card targets \"Necro Gardna\" during your turn, \"Necro Gardna\" can be chained to this effect.\n● The Summon of \"Machina Fortress\" does not use the Chain. This card cannot be chained to it.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"D.D. Crow\" is a Quick Effect.\\n2. Discarding \"D.D. Crow\" to activate its effect is a cost.\\n3. You cannot activate this effect during the Damage Step."
   },
   "PSCT": {
+    "Edison": "① (Quick): You can discard this card to the GY, then target 1 card in your opponent's GY; banish that target.",
     "Tengu": "① (Quick): You can discard this card to the GY, then target 1 card in your opponent's GY; banish that target.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

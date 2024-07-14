@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●You can chain one of the 2 Spell or Trap Cards on the field to the activation of Xing Zhen Hu. However, the remaining one won't be able to be activated after Xing Zhen Hu resolves.\n●If neither of the targeted Spell or Trap Cards is on the field when Xing Zhen Hu resolves, then Xing Zhen Hu remains on the field meaninglessly.",
     "Tengu": "\n●You can chain one of the 2 Spell or Trap Cards on the field to the activation of Xing Zhen Hu. However, the remaining one will not be able to be activated after Xing Zhen Hu resolves.\n●If neither of the targeted Spell or Trap Cards is on the field when Xing Zhen Hu resolves, then Xing Zhen Hu remains on the field meaninglessly.",
     "Goat": "●You can chain one of the 2 Spell/Trap Cards on the field to the activation of Xing Zhen Hu. However, the remaining one will not be able to be activated after Xing Zhen Hu resolves.\n●If neither of the targeted Spell/Trap Cards is on the field when Xing Zhen Hu resolves, then Xing Zhen Hu remains on the field meaninglessly.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can chain one of the 2 Spell or Trap Cards on the field to the activation of \"Xing Zhen Hu\". However, the remaining one will not be able to be activated after \"Xing Zhen Hu\" resolves.\\n2. If neither of the targeted Spell or Trap Cards is on the field when \"Xing Zhen Hu\" resolves, then \"Xing Zhen Hu\" remains on the field meaninglessly."
   },
   "PSCT": {
+    "Edison": "① Activate by targeting 2 Set Spells/Traps on the field. ② Those targets can't be activated.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Rolling a die is not optional, you must roll one each of your Standby Phases. If you have two copies of Blind Destruction active on the field you roll two dice each of your Standby Phases.",
     "Tengu": "\n●Rolling a die is not optional, you must roll one each of your Standby Phases. If you have two copies of Blind Destruction active on the field you roll two dice each of your Standby Phases.",
     "Goat": "●Rolling a die is not optional, you must roll one each of your Standby Phases. If you have two copies of Blind Destruction applying on the field you roll two dice each of your Standby Phases.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Rolling a die is not optional, you must roll one each of your Standby Phases. If you have two copies of \"Blind Destruction\" active on the field you roll two dice each of your Standby Phases."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

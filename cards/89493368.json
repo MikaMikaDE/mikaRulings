@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● The ① and ② are Trigger Effects.\n● The ② targets the attacking monster.\n● If the activation of the ① is negated, the ② cannot be activated that turn.\n● If this card is Summoned at the same time as another monster, the ① cannot be activated.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect that inflicts damage can activate even during the Damage Step.\\n2. If \"Magical Dimension\" Summons a monster and destroys \"Summon Reactor * SK\", then 800 damage is not inflicted to the opponent. But if \"Magical Dimension\" destroys a different monster instead, then \"Summon Reactor * SK\" will inflict the 800 damage.\\n3. If your \"Summon Reactor * SK\" is Summoned at the same time as an opponent's monster (example: \"Dimension Fusion\"), then it will not inflict 800 damage to the opponent at that time.\\n4. The effect that negates attacks activates when the attack is declared, and targets the attacking monster.\\n5. If the effect of \"Summon Reactor * SK\" that inflicts 800 damage is negated by \"By Order of the Emperor\", you cannot later use its effect to negate an attack that turn."
   },
   "PSCT": {
+    "Edison": "① The first time a monster(s) is Summoned to your opponent's field each turn: Inflict 800 damage to them. \n② If an opponent's monster declares an attack, and this card's ① was activated this turn: You can target the attacking monster; negate the attack.\n③ You can sent 3 face-up monsters you control to the GY (This card, \"Trap Reactor Y FI\", and \"Spell Reactor RE\"); Special Summon 1 \"Flying Fortress SKY FIRE\" from your hand/Deck/GY.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

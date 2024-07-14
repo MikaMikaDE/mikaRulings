@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you have no Tuners in your Deck, you cannot activate the first effect.\\n2. If you do not have at least 5 cards in your Deck you cannot activate the first effect.\\n3. If you reveal no Tuner monsters with the first effect, \"Shooting Star Dragon\" cannot attack that turn.\\n4. This card's first effect sets its maximum number of attacks during EACH Battle Phase.\\n5. You still reveal the top 5 cards of your Deck even if \"Shooting Star Dragon\" isn't on the field when the first effect resolves. You also still reveal if you have less than 4 cards in your Deck when the effect resolves.\\n6. The third effect targets the attacking monster.\\n7. If your opponent's attack is not negated by the third effect, \"Shooting Star Dragon\" is still Special Summoned in the End Phase.\\n8. If your opponent controls your \"Shooting Star Dragon\" and activates its third effect, it is Special Summoned to your side of the field in the End Phase.\\n9. The effect to Special Summon \"Shooting Star Dragon\" in the End Phase activates only once per End Phase. If it is negated, it doesn't activate again during that same End Phase."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

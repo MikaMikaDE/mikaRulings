@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If the monster targeted by Destruction Ring is destroyed in a chain before Destruction Ring resolves, then the monster was not destroyed by Destruction Ring's effect and no damage is inflicted.",
     "Tengu": "\n●If the monster targeted by Destruction Ring is destroyed in a chain before Destruction Ring resolves, then the monster was not destroyed by Destruction Ring's effect and no damage is inflicted.",
     "Goat": "●If the monster targeted by Destruction Ring is destroyed in a chain before Destruction Ring resolves, then the monster was not destroyed by Destruction Ring's effect and no damage is inflicted.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If the monster targeted by \"Destruction Ring\" is destroyed in a chain before \"Destruction Ring\" resolves, then the monster was not destroyed by the effect of \"Destruction Ring\" and no damage is inflicted."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

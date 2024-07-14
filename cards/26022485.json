@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●If Enervating Mist and Infinite Cards are both active, whichever effect resolved last is dominant.",
     "Tengu": "\n●If Enervating Mist and Infinite Cards are both active, whichever effect resolved last is dominant.",
     "Goat": "●If Enervating Mist and Infinite Cards are both applying, whichever effect resolved last is dominant.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If \"Enervating Mist\" and \"Infinite Cards\" are both active, whichever effect resolved last is dominant."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

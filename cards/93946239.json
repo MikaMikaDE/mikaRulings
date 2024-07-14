@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You'll still apply the effect of \"Into the Void\" even if you have 2 or fewer cards in your hand when it resolves.\\n2. Discarding all cards in your hand during the End Phase does not start a Chain.\\n3. You can Chain \"Mystical Refpanel\" to \"Into the Void\". The drawing and discarding will be performed by the opponent of the player that activated \"Into the Void\".\\n4. You cannot Chain \"Null and Void\" to \"Into the Void\".\\n5. You can activate \"Into the Void\" when you have only 3 cards in your hand, including \"Into the Void\"."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

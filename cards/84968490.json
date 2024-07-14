@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Needlebug Nest can't be activated if you have less than 5 cards in your Deck.\n●If you activate Needlebug Nest and an effect is chained that reduces the number of cards in your Deck to 4 or less, when Needlebug Nest resolves you will send every card remaining in your Deck to the GY.",
     "Tengu": "\n●Needlebug Nest cannot be activated if you have less than 5 cards in your Deck.\n●If you activate Needlebug Nest and an effect is chained that reduces the number of cards in your Deck to 4 or less, when Needlebug Nest resolves you will send every card remaining in your Deck to the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Needlebug Nest\" cannot be activated if you have less than 5 cards in your Deck.\\n2. If you activate \"Needlebug Nest\" and an effect is chained that reduces the number of cards in your Deck to 4 or less, when \"Needlebug Nest\" resolves you will send every card remaining in your Deck to the GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

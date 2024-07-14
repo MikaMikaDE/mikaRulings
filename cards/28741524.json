@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "●“Telekinetic Power Well” targets 1 or more Psychic monsters in your GY. If an effect is chained that removes some of those monsters from play, the remaining monsters are still Summoned. You only take damage based on the monsters that are actually Summoned.",
     "Tengu": "\n●“Telekinetic Power Well” targets 1 or more Psychic monsters in your GY. If an effect is chained that removes some of those monsters from play, the remaining monsters are still Summoned. You only take damage based on the monsters that are actually Summoned.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Telekinetic Power Well\" targets 1 or more Psychic monsters in your GY. If an effect is chained that removes some of those monsters from play, the remaining monsters are still Summoned. You only take damage based on the monsters that are actually Summoned."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

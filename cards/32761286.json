@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect that destroys this card at the end of the Battle Phase starts a Chain.\\n2. If multiple copies of \"Scrap Worm\" have attacked, you can activate and resolve their effects separately in any order.\\n3. If \"Scrap Worm\" attacks while \"Ancient Forest\" is active, you resolve the turn player's effect first and then the opponent's. If both are controlled by the same player, they can be resolved in any order.\\n4. If \"Scrap Worm\" attacks but is flipped face-down by the end of the Battle Phase, its effect does not activate.\\n5. If \"Book of Moon\" is Chained to the effect that destroys \"Scrap Worm\", it is still destroyed.\\n6. The effect to add 1 'Scrap' monster to your hand targets and starts a Chain.\\n7. If \"Scrap Worm\" attacks and \"Skill Drain\" applied by the time the effect of \"Scrap Worm\" resolves at the end of the Battle Phase, it is not destroyed."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The first sentence of the text is a condition, not an effect.\\n2. The effect to prevent a Synchro Monster from being destroyed by battle and the ATK and DEF reduction are part of the same effect resolution. They do not start a Chain.\\n3. The effect of \"Trust Guardian\" is mandatory. It protects the Synchro Monster even if it can't lose 400 ATK and DEF. The ATK and DEF will remain reduced for as long as the Synchro Monster is face-up on the field.\\n4. If a Synchro Monster winds up being Synchro Summoned using multiple copies of \"Trust Guardian\", it only loses 400 ATK and DEF each time it would be destroyed by battle."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

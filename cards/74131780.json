@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●You can't activate the effect of Exiled Force if it is the only monster on the field.",
     "Tengu": "\n●You cannot activate the effect of Exiled Force if it is the only monster on the field.",
     "Goat": "●You cannot activate the effect of Exiled Force if it is the only monster on the field.\n●Q: If “Exiled Force” is Special Summoned to the field, will the controller still be able to activate its effect before their opponent can respond to the Special Summon? \nA: Still has priority, as long as it is during a MP 1 or 2 of the player who Special Summons it.   \n●Q: Can you use “Exiled Force’s” effect before “Trap Hole” can activate? \nA: “Trap Hole” will not be able to stop “Exiled Force” if the turn player activates the effect. If the turn played decides to decline on using the effect then you will be able to use “Trap Hole” on it. “Exiled Force” would not be able to use the effect at this time. Remember this would only happen if the turn player had decided to pass on using the “Exiled Force's” effect.   \n●Q: Since “Exiled Force” can be summoned and tributed before the opponent can respond with something other than negating “Exiled Force,” can you chain “Torrential Tribute” to the effect of “Exiled Force?” \nA: Yes you may.  12/15/03 \n●Q: Can you chain “Book of Moon” to the effect of “Exiled Force?” \nA: No, because when the effect of “Exiled Force” is activated, it is Tributed, therefore there is no monster on the field to use “Book of Moon” on.  12/07/03 \n●Q: Can “Exiled Force” be the target of its own effect? \nA: No. When you activate the effect of “Exiled Force” you offer it as a Tribute. It will no longer be on the field to target with its effect.  \n●Q: Does “Exiled Force” have to be placed on the field prior to using his effect, or can you use his effect and send him directly to the GY from your hand to activate his effect. \nA: It states right on the card, ‘Offer face-up this card on your side of the field ...’  01/22/04 \n●Q: If “Exiled Force” is summoned to the field while there is a face-up “King Tiger Wanghu”, will the controller be able to activate the effect of “Exiled Force” before it is destroyed by the effect of “King Tiger Wanghu”? \nA: This is similar to Exiled Force and Mysterious Puppeteer. The effect of King Tiger Wanghu will activate automatically when Exiled Force is summoned. Due to this, Exiled Force will not be able to activate its effect.  ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You cannot activate the effect of \"Exiled Force\" if it is the only monster on the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

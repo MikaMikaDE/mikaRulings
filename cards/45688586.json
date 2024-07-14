@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This card's effect is applied at the same time you apply Flip Effects.\\n2. You still destroy the DARK monster even if its ATK and DEF are higher than \"Karakuri Spider\".\\n3. If \"Karakuri Spider\" attacks \"Relinquished\", \"Relinquished\" is destroyed even if it has a monster equipped.\\n4. If \"Karakuri Spider\" attacks \"Dark Ruler Ha Des\", the effect of \"Karakuri Spider\" is negated."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

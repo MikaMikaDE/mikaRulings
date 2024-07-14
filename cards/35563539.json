@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● https://ygorganization.com/mysticalrefpanel/",
@@ -23,6 +24,7 @@
     "Base": "1. \"Mystical Refpanel\" can be Chained to cards that do the following:\\n1.1. Increase 1 player's Life Points.\\n1.2. Inflict Direct Damage to 1 player's Life Points.\\n1.3. Allow 1 player to draw a card(s) from the top of their Deck to their hand.\\n1.4. Cause 1 player to discard from their hand.\\n1.5. Modify the actions 1 player can take, such as \"Mesmeric Control\".\\n2. If you Chain \"Mystical Refpanel\" to your opponent's Spell, then it is still considered to be your opponent's effect regardless of which player it ends up applying to.\\n3. You cannot Chain \"Mystical Refpanel\" to cards like \"Card Destruction\" or \"Upstart Goblin\" that target multiple players. You cannot use it against Equip, Continuous, or Field Spells.\\n\\nIt CANNOT be Chained to cards like \"Share The Pain\", \"Raigeki\", or \"Harpie's Feather Duster\".\\n\\nIt CANNOT be Chained to Spells that would send cards from a player's Deck to the GY, even if that Spell would do one of the above things. (Examples, \"Foolish Burial\", \"Solar Recharge\")\\n\\nIt CANNOT be Chained to the effect of a Spell Card that was sent to the GY and then later activated by \"Destiny HERO - Diamond Dude\" if that Spell Card would do one of the above.\\n4. You CAN Chain \"Mystical Refpanel\" to \"Pot of Duality\". If you Chain \"Mystical Refpanel\" to your opponent's \"Pot of Duality\", you will reveal the top 3 cards of your Deck and add 1 to your hand, but your opponent will be the one who cannot Special Summon that turn.\\n5. [FORUM] \"Mystical Refpanel\" can be chained to \"Into the Void\". The player that draws will be the player that discards during the End Phase."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "“Mirror Force” is not a targeting effect, regardless of the number of monsters it destroys. \n●Monsters turned face down or removed from the field in a chain with “Mirror Force” are not destroyed.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. [FORUM] There can be multiple chains in the Battle Step before entering the Damage Step. Only the initial chain can directly respond to the attack, and only in this Chain can you activate cards such as \"Mirror Force\", \"Sakuretsu Armor\", and \"Magic Cylinder\" (Cards that can only be activated when your opponent's Monster declares an attack). Cards that do not have this restriction (\"Book of Moon\", \"Compulsory Evacuation Device\", \"Waboku\", etc) can still be activated in another Chain before entering the Damage Step.\\n2. [FORUM] If both players pass the opportunity to activate an effect after an attack declaration, then players may no longer activate cards that specifically respond to the attack declaration (\"Mirror Force\", \"Sakuretsu Armor\", \"Magic Cylinder\", etc). Players may still activate cards/effects and have as many chains as they wish to create prior to entering the damage step. For example, if Player A attacks and asks for a response to which Player B declares he does not have one, Player A may then play \"Mystical Space Typhoon\" and Player B would be unable to respond with \"Mirror Force\".\\n3. [FORUM] If \"Mirror Force\" is negated by \"Solemn Judgment\", you cannot use a 2nd copy of \"Mirror Force\" during the same attack. You can still activate cards such as \"Book of Moon\", as they do not have such a timing requirement."
   },
   "PSCT": {
+    "Edison": "① When an opponent's monster declares an attack: \nDestroy all of their Attack Position monsters.",
     "Tengu": "① When an opponent's monster declares an attack: \nDestroy all of their Attack Position monsters.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

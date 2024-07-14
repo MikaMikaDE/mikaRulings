@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● The only way you can Special Summon this card is via its own procedure.\nEven if it was initially summoned that way, you still can't summon it with card effects.",
     "Tengu": "● The only way you can Special Summon this card is via its own procedure.\nEven if it was initially summoned that way, you still can't summon it with card effects.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Sending all cards on the field and in both players' hands to the GY and drawing one card are resolved as part of the same Chain Link, and are considered to occur simultaneously (even though the card is drawn after sending cards to the GY). So a card like \"Peten the Dark Clown\" would not miss the timing even though a card is drawn."
   },
   "PSCT": {
+    "Edison": "© Cannot be Normal Summoned/Set. \n© Must be Special Summoned (from your hand) by banishing 1 LIGHT Fairy and 3 DARK Fiends from your GY.\n① You can pay 1000 LP; send all cards in each player's hand and field to the GY, and if you do, draw 1 card.",
     "Tengu": "© Can't be Normal Summoned/Set. \n© Must be Special Summoned (from your hand) by banishing 1 LIGHT Fairy and 3 DARK Fiends from your GY.\n① You can pay 1000 LP; send all cards in each player's hand and field to the GY, and if you do, draw 1 card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

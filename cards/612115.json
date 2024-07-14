@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "The ② effect:\n● It can't be activated unless there is a “Gladiator Beast” monster in your Deck.\n● It can activate and resolve while “Skill Drain” is applying (without being negated).\n● It can be negated by “Royal Oppression” (If it is, this card remains in the Deck (it is not destroyed)).\n● “Battling” requires this card to be involved in Damage Calculation\n(If this card's attack is negated, the ② effect can't activate).\n● If multiple “Gladiator Beast” effects are activated at the end of the Battle Phase, \nthey don’t go on the same Chain (they each activate, one after another, each on their own Chain).\n\nVs \"Rivalry of Warlords\"/\"Gozen Match\":\n● If you have a Gladiator Beast of the same Type/Attribute in your Deck, you can activate the ② effect.\nIf you do, you can Summon any Gladiator Beast of any Attribute.",
     "Tengu": "The ② effect:\n● It can't be activated unless there is a “Gladiator Beast” monster in your Deck.\n● It can activate and resolve while “Skill Drain” is applying (without being negated).\n● It can be negated by “Royal Oppression” (If it is, this card remains in the Deck (it is not destroyed)).\n● “Battling” requires this card to be involved in Damage Calculation\n(If this card's attack is negated, the ② effect can't activate).\n● If multiple “Gladiator Beast” effects are activated at the end of the Battle Phase, \nthey don’t go on the same Chain (they each activate, one after another, each on their own Chain).\n\nVs \"Rivalry of Warlords\"/\"Gozen Match\":\n● If you have a Gladiator Beast of the same Type/Attribute in your Deck, you can activate the ② effect.\nIf you do, you can Summon any Gladiator Beast of any Attribute.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① If this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: \nYou can target 1 card in your opponent's GY; banish it. \n② At the end of the Battle Phase, if this battled: \nYou can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck (except “Gladiator Beast Retiari”).",
     "Tengu": "① If this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: \nYou can target 1 card in your opponent's GY; \nbanish it. \n② At the end of the Battle Phase, if this battled: \nYou can shuffle it into the Deck; \nSpecial Summon 1 \"Gladiator Beast\" monster from your Deck (except “Gladiator Beast Retiari”).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

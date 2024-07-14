@@ -7,6 +7,7 @@
     "race": "Ritual"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● You can't banish \"Djinn Releaser of Rituals\" when resolving this card.\n● This card can Ritual Summon any Ritual Monster.\n● If \"Dimensional Fissure\" is applying, the sent monsters are banished, and you still Ritual Summon.\n● The monsters sent count towards the number of monsters \"used\" for that Ritual Summon.",
@@ -23,6 +24,7 @@
     "Base": "1. This effect does not target anything.\\n2. You choose the Ritual Monster you want to Ritual Summon when the effect resolves."
   },
   "PSCT": {
+    "Edison": "① Send any number of Normal Monsters from your Deck to the GY, and if you do, Ritual Summon 1 Ritual Monster from your hand, whose Level exactly equals their combined Levels.",
     "Tengu": "① Send any number of Normal Monsters from your Deck to the GY, and if you do, Ritual Summon 1 Ritual Monster from your hand, whose Level exactly equals their combined Levels.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

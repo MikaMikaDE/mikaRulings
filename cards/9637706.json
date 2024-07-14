@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●“Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.\n●“Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.\n●“Des Wombat” will protect you against the effect damage of “Graverobber”.\n●If your only “Des Wombat” is destroyed by “Judgment of Anubis” or “Ring of Destruction”, it is no longer on the field so it won't protect you against the damage from these card effects.",
     "Tengu": "\n●“Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.\n●“Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.\n●“Des Wombat” will protect you against the effect damage of “Graverobber”.\n●If your only “Des Wombat” is destroyed by “Judgment of Anubis” or “Ring of Destruction”, it is no longer on the field so it will not protect you against the damage from these card effects.",
     "Goat": "“Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.\n●“Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.\n●“Des Wombat” will protect you against the effect damage of “Graverobber”.\n●If your only “Des Wombat” is destroyed by “Judgment of Anubis” or “Ring of Destruction”, it is no longer on the field so it will not protect you against the damage from these card effects.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"Des Wombat\" even protects you against damage from your own card effects, like \"Dark Snake Syndrome\" or \"Ring of Destruction\".\\n2. \"Des Wombat\" even protects you against card effects where the damage is undecided at activation, like \"Dice Jar\".\\n3. \"Des Wombat\" will protect you against the effect damage of \"Graverobber\".\\n4. If your only \"Des Wombat\" is destroyed by \"Judgment of Anubis\" or \"Ring of Destruction\", it is no longer on the field so it will not protect you against the damage from these card effects."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

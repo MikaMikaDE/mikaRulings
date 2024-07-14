@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect targets the face-up monster you control.\\n2. You refer to the target's current Level on the field when this effect resolves.\\n3. If the target is no longer face-up on the field when this effect resolves, you don't Special Summon a monster.\\n4. If your opponent takes control of the target before this effect resolves, you still Special Summon a monster.\\n5. You refer to the current Level of the monster in your hand when you resolve this effect, including all modifications from cards like \"Cost Down\".\\n6. If there is no longer a monster in your hand that you can Special Summon when this effect resolves, your opponent may briefly verify that this is the case."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

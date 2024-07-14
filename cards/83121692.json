@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "●This card’s effect is an Ignition Effect that targets. Sending 1 card from your side of the field to the GY is a cost to active the effect.\n●You can't use a Monster Token for the cost because they are not sent to the GY.\n●You can use this effect multiple times, but the same monster can't be targeted with this effect twice.\n●“While this card is face-up on the field” means “while this Elemental Hero Tempest is face-up on the field”. Not while the selected monster is face-up on the field.",
     "Tengu": "\n●This card’s effect is an Ignition Effect that targets. Sending 1 card from your side of the field to the GY is a cost to active the effect.\n●You cannot use a Monster Token for the cost because they are not sent to the GY.\n●You can use this effect multiple times, but the same monster cannot be targeted with this effect twice.\n●“While this card is face-up on the field” means “while this Elemental Hero Tempest is face-up on the field”. Not while the selected monster is face-up on the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This card's effect is an Ignition Effect that targets. Sending 1 card from your side of the field to the GY is a cost to active the effect.\\n2. You cannot use a Monster Token for the cost because they are not sent to the GY.\\n3. You can use this effect multiple times, but the same monster cannot be targeted with this effect twice.\\n4. 'While this card is face-up on the field' means 'while this \"Elemental HERO Tempest\" is face-up on the field'. Not while the selected monster is face-up on the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

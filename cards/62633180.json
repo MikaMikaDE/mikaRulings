@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "Select 1 monster on your side of the field to activate this card. Destroy the selected card and send 2 cards from the top of your opponent's Deck to the GY.\n●This effect targets 1 monster you control.\n●This effect resolves sequentially: destroy the target, then mill 2 cards from your opponent's Deck.\n●If you destroy “Peten the Dark Clown”, you miss the timing on its activation because it was not the last effect to resolve, so you can't Special Summon another “Peten the Dark Clown”.\n●If the target can't be destroyed, you don't send cards from your opponent’s Deck to the GY.",
     "Tengu": "Select 1 monster on your side of the field to activate this card. Destroy the selected card and send 2 cards from the top of your opponent's Deck to the GY.\n●This effect targets 1 monster you control.\n●This effect resolves sequentially: destroy the target, then mill 2 cards from your opponent's Deck.\n●If you destroy “Peten the Dark Clown”, you miss the timing on its activation because it was not the last effect to resolve, so you cannot Special Summon another “Peten the Dark Clown”.\n●If the target can't be destroyed, you don't send cards from your opponent’s Deck to the GY.",
     "Goat": "●If you cannot destroy a monster with this effect, you cannot send cards from your opponent’s Deck to the GY.\n●If you destroy “Peten the Dark Clown”, you miss the timing on its activation because it was not the last effect to resolve, so you cannot Special Summon another “Peten the Dark Clown”.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If you cannot destroy a monster with this effect, you cannot send cards from your opponent's Deck to the GY.\\n2. If you destroy \"Peten the Dark Clown\", you miss the timing on its activation because it was not the last effect to resolve, so you cannot Special Summon another \"Peten the Dark Clown\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can't activate \"D. D. Designator\" if you have no cards in your hand, or if \"D. D. Designator\" is the only card in your hand.\\n2. If you have your opponent's card in your hand because of \"Exchange\", you can remove it from play if you name a card your opponent doesn't have in his hand.\\n3. You declare the card name when you activate \"D. D. Designator\".\\n4. If your opponent has no cards in his hand when \"D. D. Designator\" resolves, the effect of \"D. D. Designator\" is negated.\\n5. You can't activate \"D. D. Designator\" when your opponent has no cards in his hand.\\n6. If you activate \"D. D. Designator\" and your opponent has 2 copies of the same card in hand, you (the player who activated \"D. D. Designator\") select which of the 2 cards is removed from play (this can be important if your opponent holds your card because of \"Exchange\")."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

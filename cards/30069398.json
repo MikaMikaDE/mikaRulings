@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●“Ivy Token’s” effect to inflict damage does not start a Chain.\n●If the Ivy Token is destroyed by a card effect, inflict damage after the effect resolves. If the Ivy Token is destroyed by battle, inflict damage at the end of the Damage Step, when monsters destroyed by battle are sent to the GY.\n●If Remove Brainwashing or Owner's Seal is activated, control of the Ivy Token is shifted to the player that activated Wall of Ivy's effect.",
     "Tengu": "\n●“Ivy Token’s” effect to inflict damage does not start a Chain.\n●If the Ivy Token is destroyed by a card effect, inflict damage after the effect resolves. If the Ivy Token is destroyed by battle, inflict damage at the end of the Damage Step, when monsters destroyed by battle are sent to the GY.\n●If Remove Brainwashing or Owner's Seal is activated, control of the Ivy Token is shifted to the player that activated Wall of Ivy's effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of 'Ivy Token' to inflict damage does not start a Chain.\\n2. If the 'Ivy Token' is destroyed by a card effect, inflict damage after the effect resolves. If the 'Ivy Token' is destroyed by battle, inflict damage at the end of the Damage Step, when monsters destroyed by battle are sent to the GY.\\n3. If \"Remove Brainwashing\" or \"Owner's Seal\" is activated, control of the 'Ivy Token' is shifted to the player that activated the effect of \"Wall of Ivy\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

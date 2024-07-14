@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●If Morphtronic Boomboxen activates its Attack Position effect, and an effect is chained that changes it to Defense Position, its effect still resolves.\n●While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Boomboxen can't be activated, because the While in Attack Position and While in Defense Position effects are negated.",
     "Tengu": "\n●If Morphtronic Boomboxen activates its Attack Position effect, and an effect is chained that changes it to Defense Position, its effect still resolves.\n●While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Boomboxen cannot be activated, because the While in Attack Position and While in Defense Position effects are negated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Morphtronic Boomboxen\" activates its Attack Position effect, and an effect is chained that changes it to Defense Position, its effect still resolves.\\n2. While \"Skill Drain\" is active, the Attack Position and Defense Position effects of \"Morphtronic Boomboxen\" cannot be activated, because the \"While in Attack Position\" and \"While in Defense Position\" effects are negated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

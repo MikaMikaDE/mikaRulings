@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "● This card's ① effect can only be used once per turn.\n(It \"remembers\" if it used this effect even after being Set).\n● If this Set card is attacked, it's still on the field when its effect resolves, so it counts itself towards the number of monsters to return to the hand.\n● This effect doesn't target (PSCT from this bot will always state when an effect targets).",
     "Tengu": "● This card's ① effect can only be used once per turn.\n(It \"remembers\" if it used this effect even after being Set).\n● If this Set card is attacked, it's still on the field when its effect resolves, so it counts itself towards the number of monsters to return to the hand.\n● This effect doesn't target (PSCT from this bot will always state when an effect targets).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The cards that are returned are chosen when the effect resolves, so this effect does not target."
   },
   "PSCT": {
+    "Edison": "① Once per turn: You can Set this card.\n② When flipped face-up: You can return any number of monsters from the field to the hand, up to the number of \"Frog\" monsters you control..",
     "Tengu": "① Once per turn: You can Set this card.\n② When flipped face-up: You can return any number of monsters from the field to the hand, up to the number of \"Frog\" monsters you control..",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

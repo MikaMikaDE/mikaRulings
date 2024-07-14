@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can't activate this card if your opponent controls no monsters.\n●If your opponent controls a Attack Position monster at the end of their Main Phase 1, they must conduct their Battle Phase during the turn “Battle Mania” is activated.\n●Monsters unaffected by Trap Cards, like “Elemental Hero Wildheart”, don't have to attack during the turn “Battle Mania” is activated.\n●During the Battle Phase of a turn in which “Battle Mania” was activated, if your “Ultimate Tyranno” attacks, but the attack is negated, it must still attack again if there is another monster in play. (It can't attack the same target twice.)",
     "Tengu": "\n●You cannot activate this card if your opponent controls no monsters.\n●If your opponent controls a face-up Attack Position monster at the end of their Main Phase 1, they must conduct their Battle Phase during the turn “Battle Mania” is activated.\n●Monsters unaffected by Trap Cards, like “Elemental Hero Wildheart”, do not have to attack during the turn “Battle Mania” is activated.\n●During the Battle Phase of a turn in which “Battle Mania” was activated, if your “Ultimate Tyranno” attacks, but the attack is negated, it must still attack again if there is another monster in play. (It cannot attack the same target twice.)",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card does not target.\\n2. When \"Confusion Chaff\" resolves, the battle caused by \"Confusion Chaff\" proceeds directly to the Damage Step.\\n3. This card cannot be activated when a single monster like \"Hayabusa Knight\", etc., makes its second direct attack in the same Battle Phase.\\n4. If the first monster that attacked directly is face-down when \"Confusion Chaff\" resolves, it is flipped face-up and damage calculation is conducted normally.\\n5. If a monster's attack becomes a direct attack due to a replay, it is still considered to be the first monster that attacked directly for \"Confusion Chaff\".\\n6. If a monster declares a direct attack, but that attack is negated, it will not be considered the first monster that attacked directly that turn.\\n7. If your \"Amazoness Swords Woman\" declares the second direct attack during a Battle Phase, and \"Confusion Chaff\" is activated, your opponent will take any battle damage from that battle."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

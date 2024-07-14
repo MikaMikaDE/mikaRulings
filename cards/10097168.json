@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●Tiger Dragon's effect targets the Set Spell or Trap Card●If one of the targets is chained, it can't be destroyed because it is no longer face-down. If 2 face-down Spell or Trap Cards are targeted and only 1 is chained, the remaining face-down Spell or Trap Card is still destroyed.",
     "Tengu": "\n●Tiger Dragon's effect targets the Set Spell or Trap Card(s).\n●If one of the targets is chained, it cannot be destroyed because it is no longer face-down. If 2 face-down Spell or Trap Cards are targeted and only 1 is chained, the remaining face-down Spell or Trap Card is still destroyed.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Tiger Dragon\" targets the Set Spell or Trap Card(s).\\n2. If one of the targets is chained, it cannot be destroyed because it is no longer face-down. If 2 face-down Spell or Trap Cards are targeted and only 1 is chained, the remaining face-down Spell or Trap Card is still destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

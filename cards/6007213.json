@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "●The Condition can't be negated.\n●The Summon effect does not start a chain.\n●This card Cannot be Special Summoned from the hand / GY / removed from play.\n●You can send “Embodiment of Apophis” to the GY while it is a monster to Summon this card.\n●The ●If this effect is negated, this card's ATK becomes 0.\n●The Ignition Effect activates & applies on the field.\n●This effect targets 1 Set Spell / Trap Card your opponent controls.\n●The (2C) Condition applies when the effect activates, starting a chain.\n●Your opponent can't chain Divine Wrath to the effect.",
     "Tengu": "(C) This card cannot be Normal Summoned or Set. (S) This card cannot be Special Summoned except by sending 3 face-up Trap Cards you control to the GY. (1) This card gains 1000 ATK for each Continuous Trap Card in your GY. (2) Once per turn, you can destroy 1 Set Spell or Trap Card your opponent controls. (2C) Spell and Trap Cards cannot be activated in response to this effect's activation.\n●The (C) Condition cannot be negated.\n●The (S) Summon effect does not start a chain.\n●This card cannot be Special Summoned from the hand / GY / removed from play.\n●You can send “Embodiment of Apophis” to the GY while it is a monster to Summon this card.\n●The (1) Continuous Effect applies while this card is face-up on the field.\n●If this effect is negated, this card's ATK becomes 0.\n●The (2) Ignition Effect activates & applies on the field.\n●This effect targets 1 Set Spell / Trap Card your opponent controls.\n●The (2C) Condition applies when the (2) effect activates, starting a chain.\n●Your opponent cannot chain Divine Wrath to the (2) effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. When a player Special Summons \"Uria, Lord of Searing Flames\" and activates its effect to destroy a Set Spell or Trap Card, no Spell or Trap card can be chained, including \"Bottomless Trap Hole\", \"Torrential Tribute\", or \"Divine Wrath\".\\n2. You can send \"Embodiment of Apophis\" to the GY even while it is a monster, because it is still a Continuous Trap Card.\\n3. The effect of \"Uria, Lord of Searing Flames\" that increases his ATK is a Continuous Effect. His effect that destroys Spell & Trap Cards is an Ignition Effect.\\n4. If you control \"Rivalry of Warlords\" and 2 other face-up Trap Cards, and you control a non-Pyro monster, you cannot send the 3 face-up Trap Cards to the GY to Summon \"Uria, Lord of Searing Flames\" because \"Rivalry of Warlords\" prevents you from Summoning monsters of different Types."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●This card’s second effect activates in the GY, and starts a Chain.\n●This effect will activate if “Lucky Iron Axe” is destroyed by a card chained to its activation.",
     "Tengu": "\n●This card’s second effect activates in the GY, and starts a Chain.\n●This effect will activate if “Lucky Iron Axe” is destroyed by a card chained to its activation.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card's second effect activates in the GY, and starts a Chain.\\n2. This effect will activate if \"Lucky Iron Axe\" is destroyed by a card chained to its activation."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

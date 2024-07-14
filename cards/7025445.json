@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Decreasing this card's Level is part of its Special Summon effect.\\n2. You decrease the Level of \"Power Giant\" by the original Level of the monster you sent to the GY, even if you used a monster whose Level was reduced by \"Cost Down\".\\n3. As soon as you declare an attack with \"Power Giant\", its effect to protect you from effect damage becomes active. So if your opponent activates \"Magic Cylinder\", the attack is negated but you won't take any damage."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

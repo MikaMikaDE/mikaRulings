@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●The ATK boost of “Overdoom Line” starts a Chain, but does not target.\n●The text on “Overdoom Line” that destroys itself is not an effect, so “Royal Decree” etc. won't stop it from being destroyed.\n●Plants that were Special Summoned before the activation of “Overdoom Line” don't receive an ATK boost when “Overdoom Line” is activated.\n●Monsters that get an ATK boost from “Overdoom Line” keep the boost even if they become a Type other than Plant-Type.\n●If a monster receives the ATK boost from “Overdoom Line” but is flipped face-down, it loses the boost, even if flipped face-up again while “Overdoom Line” is still on the field.\n●You can't activate “Overdoom Line” during the Damage Step.\n●While “Imperial Custom” is active, “Overdoom Line” can't destroy itself, so it will remain on the field. Its effect will also remain.",
     "Tengu": "\n●The ATK boost of “Overdoom Line” starts a Chain, but does not target.\n●The text on “Overdoom Line” that destroys itself is not an effect, so “Royal Decree” etc. will not stop it from being destroyed.\n●Plants that were Special Summoned before the activation of “Overdoom Line” do not receive an ATK boost when “Overdoom Line” is activated.\n●Monsters that get an ATK boost from “Overdoom Line” keep the boost even if they become a Type other than Plant-Type.\n●If a monster receives the ATK boost from “Overdoom Line” but is flipped face-down, it loses the boost, even if flipped face-up again while “Overdoom Line” is still on the field.\n●You cannot activate “Overdoom Line” during the Damage Step.\n●While “Imperial Custom” is active, “Overdoom Line” cannot destroy itself, so it will remain on the field. Its effect will also remain.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The ATK boost of \"Overdoom Line\" starts a Chain, but does not target.\\n2. The text on \"Overdoom Line\" that destroys itself is not an effect, so \"Royal Decree\" etc. will not stop it from being destroyed.\\n3. Plants that were Special Summoned before the activation of \"Overdoom Line\" do not receive an ATK boost when \"Overdoom Line\" is activated.\\n4. Monsters that get an ATK boost from \"Overdoom Line\" keep the boost even if they become a Type other than Plant-Type.\\n5. If a monster receives the ATK boost from \"Overdoom Line\" but is flipped face-down, it loses the boost, even if flipped face-up again while \"Overdoom Line\" is still on the field.\\n6. You cannot activate \"Overdoom Line\" during the Damage Step.\\n7. While \"Imperial Custom\" is active, \"Overdoom Line\" cannot destroy itself, so it will remain on the field. Its effect will also remain."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

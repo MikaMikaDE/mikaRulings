@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate this card during the Damage Step.\\n2. This card targets your \"Aesir\" monster.\\n3. If your opponent controls the target monster when this card resolves, it still becomes unaffected by other Spells and Traps until the End Phase and will remain on your opponent's field until the effect that took control of it wears off.\\n4. If the target \"Aesir\" monster is flipped face-down by an effect Chained to this card's activation, the effect will not apply and it won't be re-applied even if the target is flipped face-up later again in the same turn.\\n5. You can still use an \"Aesir\" monster affected by this card to pay the cost of a Spell or Trap Card such as \"Nordic Relic Gungnir\".\\n6. If an \"Aesir\" monster is destroyed by the opponent while it's being affected by \"March Towards Ragnarok\", you can still Special Summon it during the End Phase."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

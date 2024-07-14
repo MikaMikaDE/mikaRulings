@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● If this Set card was destroyed by battle, you can't activate the ② effect. It must be face-up when targeted for the attack. This ruling also applies to “Cyber Phoenix”.",
     "Tengu": "● If this Set card was destroyed by battle, you cannot activate the ② effect. It must be face-up when targeted for the attack. This ruling also applies to “Cyber Phoenix”.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Jade Knight\" is attacked while face-down, its effect does not activate when it is destroyed by battle."
   },
   "PSCT": {
+    "Edison": "① While this card is in Attack Position, Machines you control with 1200 or less ATK can't be destroyed by Trap effects. \n② If this card is destroyed by battle and sent to the GY, and was face-up at attack declaration: \nYou can add 1 Level 4 LIGHT Machine from your Deck to your hand.",
     "Tengu": "① While this card is in Attack Position, Machines you control with 1200 or less ATK cannot be destroyed by Trap effects. \n② If this card is destroyed by battle and sent to the GY, and was face-up at attack declaration: \nYou can add 1 Level 4 LIGHT Machine from your Deck to your hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

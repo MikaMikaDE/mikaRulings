@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "● This effect is mandatory, and must target at least 1 card.",
     "Tengu": "● This effect is mandatory, and must target at least 1 card.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Mist Wurm\" targets 1, 2, or 3 cards your opponent controls.\\n2. If you use a monster with a mandatory Trigger Effect like \"Goblin Zombie\" as a Synchro Material Monster for \"Mist Wurm\" you will activate both the effect of \"Goblin Zombie\" and the effect of \"Mist Wurm\" after the Synchro Summon is successful."
   },
   "PSCT": {
+    "Edison": "1 Tuner + 2 or more non-Tuners\n① If Synchro Summoned: Target up to 3 cards your opponent controls (min. 1); return them to the hand.",
     "Tengu": "1 Tuner + 2 or more non-Tuners\n① If Synchro Summoned: Target up to 3 cards your opponent controls (min. 1);\nreturn them to the hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

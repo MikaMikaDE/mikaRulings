@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate this card during the Damage Step.\\n2. This card does not target.\\n3. Removing the monsters from play starts a Chain.\\n4. You activate the effect to remove the monsters during the Damage Step at the same time Flip Effects are activated and resolved.\\n5. This effect won't apply to any Psychic-Type monster that is not face-up on your side of the field when this card resolves.\\n6. If a Psychic-Type monster you controlled when this card resolved is flipped face-down and then attacked, the effect to remove the monsters from play won't activate."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

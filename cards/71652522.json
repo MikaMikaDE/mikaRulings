@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This effect targets your face-up Psychic-Type monster.\n●You can activate “Battle Teleportation” even if your opponent has no open Monster Card Zones. If you do, the Psychic-Type monster is unable to move to your opponent’s side of the field and is destroyed.\n●You can't activate “Battle Teleportation” if you can't enter your Battle Phase.\n●You can activate “Battle Teleportation” if your opponent has “Swords of Revealing Light” face-up on the field because “Swords of Revealing Light” only prevents you from declaring an attack.\n●This card can target a monster that has already attacked.\n●You can activate “Battle Teleportation” any time between your Draw Phase and the end of the Battle Phase.",
     "Tengu": "\n●This effect targets your face-up Psychic-Type monster.\n●You can activate “Battle Teleportation” even if your opponent has no open Monster Card Zones. If you do, the Psychic-Type monster is unable to move to your opponent’s side of the field and is destroyed.\n●You cannot activate “Battle Teleportation” if you cannot enter your Battle Phase.\n●You can activate “Battle Teleportation” if your opponent has “Swords of Revealing Light” face-up on the field because “Swords of Revealing Light” only prevents you from declaring an attack.\n●This card can target a monster that has already attacked.\n●You can activate “Battle Teleportation” any time between your Draw Phase and the end of the Battle Phase.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This effect targets your face-up Psychic-Type monster.\\n2. You can activate \"Battle Teleportation\" even if your opponent has no open Monster Card Zones. If you do, the Psychic-Type monster is unable to move to your opponent's side of the field and is destroyed.\\n3. You cannot activate \"Battle Teleportation\" if you cannot enter your Battle Phase.\\n4. You can activate \"Battle Teleportation\" if your opponent has \"Swords of Revealing Light\" face-up on the field because \"Swords of Revealing Light\" only prevents you from declaring an attack.\\n5. This card can target a monster that has already attacked.\\n6. You can activate \"Battle Teleportation\" any time between your Draw Phase and the end of the Battle Phase."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

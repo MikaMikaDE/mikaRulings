@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.",
     "Tengu": "● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.",
@@ -27,6 +28,7 @@
     "Base": "1. When \"Yamato-no-Kami\" destroys an opponent's monster by battle, its effect activates at the end of the Damage Step, when monsters that are destroyed in battle are sent to the GY.\\n2. This effect targets 1 Spell or Trap Card your opponent controls.\\n3. The following rules apply to all Spirit Monsters:\\n4. Spirit is not a monster Type; you cannot declare \"Spirit\" for the effect of \"DNA Surgery\".\\n5. Spirit Monsters are still Effect Monsters.\\n6. A Spirit Monster must be face-up on the field during the End Phase for it to return to the owner's hand. If it was destroyed or removed from play, it will not return to the owner's hand.\\n7. A Spirit Monster will return to the owner's hand during the End Phase, even if the opponent played it from their hand (through the effect of \"Exchange\".)"
   },
   "PSCT": {
+    "Edison": "Ⓢ Cannot be Normal Summoned/Set.\nⓈ Must be Special Summoned by banishing 1 Spirit from your GY.\n① During the End Phase, if this card was Special Summoned this turn: Return it to the hand.\n② If this card destroys an opponent's monster by battle: You can target 1 Spell/Trap they control; destroy it.",
     "Tengu": "Ⓢ Cannot be Normal Summoned/Set.\nⓈ Must be Special Summoned by banishing 1 Spirit from your GY.\n① During the End Phase, if this card was Special Summoned this turn: Return it to the hand.\n② If this card destroys an opponent's monster by battle: You can target 1 Spell/Trap they control;\ndestroy it.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

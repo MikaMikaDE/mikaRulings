@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to change this card to Defense Position starts a Chain.\\n2. The effect to remove 1 Psychic-Type monster in your GY from play is used during your Main Phase, starts a Chain, and targets the Psychic-Type monster in your GY.\\n3. Sending 1 card from your hand to the GY is a cost.\\n4. If there are no Psychic-Type monsters in the GY, you can't activate the effect to remove from play a Psychic-Type monster.\\n5. If you send a Psychic-Type monster to the GY for the cost for the effect to remove from play a monster, you can target that monster with the effect.\\n6. The effect to Summon 1 removed from play monster starts a Chain, targets the Psychic-Type monster, and can activate during the Damage Step.\\n7. [FORUM] The effect of \"Hushed Psychic Cleric\" that switches itself to Defense position is a Trigger Effect and starts a chain."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

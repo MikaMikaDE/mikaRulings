@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●You have to show your opponent the card that you return to the bottom of your Deck.",
     "Tengu": "\n●You have to show your opponent the card that you return to the bottom of your Deck.",
     "Goat": "●You have to show your opponent the card that you return to the bottom of your Deck.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You have to show your opponent the card that you return to the bottom of your Deck."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

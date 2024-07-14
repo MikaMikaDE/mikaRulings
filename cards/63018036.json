@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● You can't activate this card unless there is an \"Iron Core of Koa’ki Meiru\" in your Deck.",
     "Tengu": "\n●You cannot activate “Iron Core Immediate Disposal” unless there is an “Iron Core of Koa’ki Meiru” in your Deck.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate \"Iron Core Immediate Disposal\" unless there is an \"Iron Core of Koa'ki Meiru\" in your Deck."
   },
   "PSCT": {
+    "Edison": "Send 1 \"Iron Core of Koa'ki Meiru\" from your Deck to the GY.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

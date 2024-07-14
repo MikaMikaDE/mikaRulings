@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●If your opponent uses Monster Reborn to Special Summon a monster from your GY, you get to draw a card.\n●If the Special Summon is negated with Horn of Heaven or Solemn Judgment you don't get to draw a card.\n●Drawing a card for this card’s effect is optional, so if you use Call of the Haunted when you have no cards left in your Deck you don't lose the Duel.",
     "Tengu": "\n●If your opponent uses Monster Reborn to Special Summon a monster from your GY, you get to draw a card.\n●If the Special Summon is negated with Horn of Heaven or Solemn Judgment you do not get to draw a card.\n●Drawing a card for this card’s effect is optional, so if you use Call of the Haunted when you have no cards left in your Deck you do not lose the Duel.",
     "Goat": "●If your opponent uses Monster Reborn to Special Summon a monster from your GY, you get to draw a card.\n●If the Special Summon is negated with Horn of Heaven or Solemn Judgment you do not get to draw a card.\n●Drawing a card for this card’s effect is optional, so if you use Call of the Haunted when you have no cards left in your Deck you do not lose the Duel.\nA player with multiple “Card of Safe Returns” applying on the field may draw 1 card for each “Card of Safe Return” when a monster is Special Summoned from that player’s GY.\n●If a monster is Special Summoned from the GY of a player with a “Card of Safe Return” by the opponent, the player with the “Card of Safe Return” may draw 1 card.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If your opponent uses \"Monster Reborn\" to Special Summon a monster from your GY, you get to draw a card.\\n2. If the Special Summon is negated with \"Horn of Heaven\" or \"Solemn Judgment\" you do not get to draw a card.\\n3. Drawing a card for this card's effect is optional, so if you use \"Call of the Haunted\" when you have no cards left in your Deck you do not lose the Duel."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

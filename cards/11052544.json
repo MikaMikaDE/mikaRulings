@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● This card does not target. The cards to be destroyed are chosen at resolution.\n● \"Stardust Dragon\" can always be chained to this card.\n● \"Starlight Road\" can never be chained to this card (unless your opponent controls no face-up cards and you control at least 2 \"X-Saber\" monsters).",
     "Tengu": "● This card does not target. The cards to be destroyed are chosen at resolution of this effect.\n● \"Starlight Road\" can never be chained to this card. \n● \"Stardust Dragon\" can always be chained to this card.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Saber Slash\" does not target.\\n2. The number of face-up \"X-Saber\" monsters you control is counted when \"Saber Slash\" resolves.\\n3. If the only face-up cards on the field when \"Saber Slash\" resolves are your own face-up Attack Position \"X-Saber\" monsters, you must destroy them.\\n4. \"Saber Slash\" cannot destroy itself."
   },
   "PSCT": {
+    "Edison": "① Destroy a number of face-up cards on the field equal to the number of Attack Position \"X-Saber\" monsters you control.",
     "Tengu": "① Destroy a number of face-up cards on the field equal to the number of Attack Position \"X-Saber\" monsters you control.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

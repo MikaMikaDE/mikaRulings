@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●The,, and Continuous Effects don't start a Chain.\n●If you activate Sanguine Swamp while you control face-down Spell or Trap Card(s), it is destroyed after it resolves.",
     "Tengu": "(1) If you control any other Spell or Trap Cards, destroy this card. (2) Face-down Spell and Trap Cards cannot be activated. (3) Destroy this card during your 2nd Standby Phase after activation.\n●The (1), (2), and (3) Continuous-like Effects do not start a Chain.\n●If you activate Sanguine Swamp while you control face-down Spell or Trap Card(s), it is destroyed after it resolves.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The effect of \"Sanguine Swamp\" that destroys itself during the Standby Phase does not start a Chain.\\n2. If you activate \"Sanguine Swamp\" while you control face-down Spell or Trap Card(s), it is destroyed after it resolves."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

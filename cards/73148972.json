@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You must select 1 monster you control when you activate this card.\n●Sending the targeted monster to the GY is part of this card's effect. If that monster is removed from the field by an effect chained to Ruthless Denial, the effect to discard 1 card from your opponent's hand won't be applied.\n●If an effect chained to Ruthless Denial reduces the cards in your opponent's hand to 0, Ruthless Denial's effect can't be applied, so you don't send the targeted monster to the GY.\n●Both cards are considered to be sent to the GY simulataneously.",
     "Tengu": "\n●You must select 1 monster you control when you activate this card.\n●Sending the targeted monster to the GY is part of this card's effect. If that monster is removed from the field by an effect chained to Ruthless Denial, the effect to discard 1 card from your opponent's hand will not be applied.\n●If an effect chained to Ruthless Denial reduces the cards in your opponent's hand to 0, Ruthless Denial's effect cannot be applied, so you do not send the targeted monster to the GY.\n●Both cards are considered to be sent to the GY simulataneously.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You must select 1 monster you control when you activate this card.\\n2. Sending the targeted monster to the GY is part of this card's effect. If that monster is removed from the field by an effect chained to \"Ruthless Denial\", the effect to discard 1 card from your opponent's hand will not be applied.\\n3. If an effect chained to \"Ruthless Denial\" reduces the cards in your opponent's hand to 0, the effect of \"Ruthless Denial\" cannot be applied, so you do not send the targeted monster to the GY.\\n4. Both cards are considered to be sent to the GY simulataneously."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

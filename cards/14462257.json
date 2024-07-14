@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "●“This card Cannot be Special Summoned from the GY” is not an effect.\n●This effect targets 1 Spell Card in your GY.If you have 3 or more Spellcaster-Type monsters in your GY, including “Ice Queen” after it is sent to the GY, you can activate the effect.\n●If “Ice Queen” is equipped to “Relinquished” while face-up and is destroyed and sent to the GY, you can activate the effect.",
     "Tengu": "\n●“This card cannot be Special Summoned from the GY” is not an effect.\n●This effect targets 1 Spell Card in your GY.If you have 3 or more Spellcaster-Type monsters in your GY, including “Ice Queen” after it is sent to the GY, you can activate the effect.\n●If “Ice Queen” is equipped to “Relinquished” while face-up and is destroyed and sent to the GY, you can activate the effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"This card cannot be Special Summoned from the GY\" is not an effect.\\n2. This effect targets 1 Spell Card in your GY.\\n3. If you have 3 or more Spellcaster-Type monsters in your GY, including \"Ice Queen\" after it is sent to the GY, you can activate the effect.\\n4. If \"Ice Queen\" is equipped to \"Relinquished\" while face-up and is destroyed and sent to the GY, you can activate the effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

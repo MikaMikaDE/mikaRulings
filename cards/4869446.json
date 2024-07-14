@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●You can still change the Battle Positions of monsters with card effects; Judgment of the Desert only prevents manual changes.",
     "Tengu": "\n●You can still change the Battle Positions of monsters with card effects; Judgment of the Desert only prevents manual changes.",
     "Goat": "●You can still change the Battle Positions of monsters with card effects; Judgment of the Desert only prevents manual changes.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can still change the Battle Positions of monsters with card effects; \"Judgment of the Desert\" only prevents \"manual\" changes."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

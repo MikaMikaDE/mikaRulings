@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● You can activate this effect during the Damage Step.\n●  This effect can activate if it is returned to the hand, but not if it is returned to the Deck.\n● If a face-down “Minefieldriller” is flipped face-up by battle and then removed from the field, its effect does not activate.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect targets 1 Field Spell Card in your GY.\\n2. You can activate this effect during the Damage Step.\\n3. If this card is returned to your hand, you can reveal it and activate its effect.\\n4. If this card is returned to the Deck you cannot activate its effect.\\n5. If a face-down \"Minefieldriller\" is flipped face-up by battle and then removed from the field, its effect does not activate."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

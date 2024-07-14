@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●You select which Spell & Trap Card Zone to make unusable when you activate Mystical Cards of Light.\n●You can't activate Mystical Cards of Light if you don't have a Spell & Trap Card Zone to make unusable.\n●Drawing 2 cards with Mystical Cards of Light does not start a Chain.\n●You can choose to draw only 1 card.\n●You can't choose to draw 2 cards if you have 1 card remaining in your Deck.\n●If Mystical Cards of Light's effect is negated, you can activate or Set Spell and Trap Cards into the unusable Spell & Trap Card Zone. If the effect of Mystical Cards of Light is reapplied while a Spell or Trap Card is in the unusable Spell & Trap Card Zone, the Spell & Trap Card Zone become unusable when the Spell or Trap Card is removed from the field.",
     "Tengu": "\n●You select which Spell & Trap Card Zone to make unusable when you activate Mystical Cards of Light.\n●You cannot activate Mystical Cards of Light if you do not have a Spell & Trap Card Zone to make unusable.\n●Drawing 2 cards with Mystical Cards of Light does not start a Chain.\n●You can choose to draw only 1 card.\n●You cannot choose to draw 2 cards if you have 1 card remaining in your Deck.\n●If Mystical Cards of Light's effect is negated, you can activate or Set Spell and Trap Cards into the unusable Spell & Trap Card Zone. If the effect of Mystical Cards of Light is reapplied while a Spell or Trap Card is in the unusable Spell & Trap Card Zone, the Spell & Trap Card Zone become unusable when the Spell or Trap Card is removed from the field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You select which Spell & Trap Card Zone to make unusable when you activate \"Mystical Cards of Light\".\\n2. You cannot activate \"Mystical Cards of Light\" if you do not have a Spell & Trap Card Zone to make unusable.\\n3. Drawing 2 cards with \"Mystical Cards of Light\" does not start a Chain.\\n4. You can choose to draw only 1 card.\\n5. You cannot choose to draw 2 cards if you have 1 card remaining in your Deck.\\n6. If the effect of \"Mystical Cards of Light\" is negated, you can activate or Set Spell and Trap Cards into the unusable Spell & Trap Card Zone. If the effect of \"Mystical Cards of Light\" is reapplied while a Spell or Trap Card is in the unusable Spell & Trap Card Zone, the Spell & Trap Card Zone become unusable when the Spell or Trap Card is removed from the field."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

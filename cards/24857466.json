@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● You can only activate 1 Trigger Effect in your hand per chain.\n(You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand).\n● The ① effect does not trigger when a Spell/Trap Effect is negated; it only triggers when the Spell/Trap itself is negated.\n(Activating a Spell/Trap Card from your hand is a Card Activation. Activating the effect of a Spell/Trap which is already face-up on the field is an Effect Activation).",
     "Tengu": "● You can only activate 1 Trigger Effect in your hand per chain.\n(You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand).\n● The ① effect does not trigger when a Spell/Trap Effect is negated; it only triggers when the Spell/Trap itself is negated.\n(Activating a Spell/Trap Card from your hand is a Card Activation. Activating the effect of a Spell/Trap which is already face-up on the field is an Effect Activation).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① If this card is in your hand, if the Activation of your opponent's Spell/Trap Card, or Monster Effect, \nis negated by your Counter Trap (except during the Damage Step): \nYou can Special Summon this card.\n② If you do, activate the appropriate effect(s) in sequence, depending on what was negated:\n● Spell Card: Your opponent takes 1500 damage.\n● Trap Card: Target 1 card your opponent controls; destroy that target.\n● Monster Effect: Target 1 monster in your GY; Special Summon it.",
     "Tengu": "① If this card is in your hand, if the Activation of your opponent's Spell/Trap Card, or Monster Effect, \nis negated by your Counter Trap (except during the Damage Step): \nYou can Special Summon this card.\n② If you do, activate the appropriate effect(s) in sequence, depending on what was negated:\n● Spell Card: Your opponent takes 1500 damage.\n● Trap Card: Target 1 card your opponent controls; \ndestroy that target.\n● Monster Effect: Target 1 monster in your GY;\nSpecial Summon it.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

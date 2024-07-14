@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect does not start a Chain. You draw as soon as \"Jar of Greed\" resolves.\\n2. You do not draw if the effect of \"Jar of Greed\" is copied by \"Trap of Darkness\".\\n3. If both players control a \"Jar Turtle\", the turn player draws for his \"Jar Turtle\" first. They do not form a Chain.\\n4. \"Jar Turtle\" must be face-up on the field when \"Jar of Greed\" is activated and when it resolves.\\n5. If the control of \"Jar Turtle\" is switched by an effect chained to \"Jar of Greed\", the new controller after \"Jar of Greed\" resolves gets to use this effect."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

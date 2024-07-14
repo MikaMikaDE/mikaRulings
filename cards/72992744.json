@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If you activate “Shrink” targeting “Jester Lord,” its original ATK of 0 will be halved then its Continuous Effect will be reapplied. (The end result is no change in ATK.)",
     "Tengu": "\n●If you activate “Shrink” targeting “Jester Lord,” its original ATK of 0 will be halved then its Continuous Effect will be reapplied. (The end result is no change in ATK.)",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you activate \"Shrink\" targeting \"Jester Lord\", its original ATK of 0 will be halved then its Continuous Effect will be reapplied. (The end result is no change in ATK.)"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

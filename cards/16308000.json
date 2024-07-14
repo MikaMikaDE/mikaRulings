@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card targets the \"Aesir\" monster.\\n2. This card cannot be activated during the Damage Step.\\n3. If this card is being negated by \"Jinzo\" during your 2nd Standby Phase after activation, it is still sent to the GY.\\n4. If control of the targeted monster shifts to the opponent, \"Solemn Authority\" will still affect it.\\n5. If the targeted monster is flipped face-down by \"Book of Eclipse\", it will no longer be affected by this card when it's flipped face-up in the End Phase."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

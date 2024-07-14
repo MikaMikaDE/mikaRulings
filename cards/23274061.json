@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Neither of this card's effects targets.\\n2. The effect that lets this card attack twice is Continuous. The effect to negate is a Trigger effect.\\n3. If a monster \"Wattsquirrel\" battles is removed from play or returned to the hand, that monster's effect is not negated.\\n4. If the monster that battles \"Wattsquirrel\" is not on the field when the effect of \"Wattsquirrel\" resolves, that monster's effect will NOT be negated.\\n5. If a monster whose effect is being negated by \"Wattsquirrel\" is flipped face-down or returned to the hand, its effect is no longer negated.\\n6. If \"Wattsquirrel\" battles a \"Treeborn Frog\" or \"Sangan\", their effects will be negated even in the GY."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

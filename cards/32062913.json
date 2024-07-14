@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Removing Spell Counters is a cost. If you don't have 10 Spell Counters you can't activate Mega-Ton Magical Cannon.",
     "Tengu": "\n●Removing Spell Counters is a cost. If you do not have 10 Spell Counters you cannot activate Mega-Ton Magical Cannon.",
     "Goat": "●Removing Spell Counters is a cost. If you do not have 10 Spell Counters you cannot activate Mega-Ton Magical Cannon.\n●Q: Could a player play the “Mega Ton Magical Cannon,” add a Spell Counter to their “Royal Magical Library” and to their “Magical Marionette” (to make a total 10 Spell Counters) and then resolve “Mega Ton Magical Cannon's” effect (Remove 10 Spell Counters on your side of the field. Destroy all cards on your opponent's side of the field.)? \nA: No, you may not activate “Mega Ton Magical Cannon” if you do not have 10 Spell Counters on the field. ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Removing Spell Counters is a cost. If you do not have 10 Spell Counters you cannot activate \"Mega-Ton Magical Cannon\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

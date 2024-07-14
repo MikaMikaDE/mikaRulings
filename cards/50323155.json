@@ -7,6 +7,7 @@
     "race": "Counter"
   },
   "Rulings": {
+    "Edison": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" or \"Machina Fortress\" by its own procedure.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Call of the Haunted”.\n● \"Immediately after you do\" effects, even if that effect was CL1.",
     "Tengu": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n● \"Immediately after you do\" effects, like that of \"Formula Synchron\", as long as Formula was CL1.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “XX-Saber Boggart Knight”.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "This card can only negate the Summon of a monster while there is no ongoing chain.\nIt can negate: \n● A Synchro/Xyz Summon\n● The Special Summon of \"Cyber Dragon\" by its own procedure.\n● \"Immediately after you do\" effects, like that of \"Formula Synchron\", as long as Formula was CL1.\n\nIt can't negate: \n● The Summon of a monster being Summoned during an effect's resolution, eg by “Tin Goldfish”.",
@@ -23,6 +24,7 @@
     "Base": "1. Like \"Horn of Heaven\", this card cannot be used against \"Premature Burial\", etc. It can be used against inherent Special Summon effects like \"Cyber Dragon\" or \"Dark Necrofear\".\\n2. You cannot activate \"Black Horn of Heaven\" when you Special Summon \"Lava Golem\" onto your opponent's side of the field."
   },
   "PSCT": {
+    "Edison": "①When your opponent would Special Summon exactly 1 monster: Negate the Special Summon, and if you do, destroy it.",
     "Tengu": "①When your opponent would Special Summon exactly 1 monster: Negate the Special Summon, and if you do, destroy it.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

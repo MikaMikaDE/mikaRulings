@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●You can't select any Desertapir with Desertapir's effect.\n●If you have Destruction Punch and Desertapir is attacked by a monster with ATK lower than Desertapir's effect, and Desertapir's effect flips the attacking monster face-down, the effect of Destruction Punch is applied and the attacking monster is destroyed.\n●If Mystical Knight of Jackal or Ghost Knight of Jackal attacks, and is flipped face-down by Desertapir, the attacking monster is no longer face-up when Desertapir is sent to the GY (which is when their effects activate), so their effects don't apply to Desertapir.",
     "Tengu": "\n●You cannot select any Desertapir with Desertapir's effect.\n●If you have Destruction Punch and Desertapir is attacked by a monster with ATK lower than Desertapir's effect, and Desertapir's effect flips the attacking monster face-down, the effect of Destruction Punch is applied and the attacking monster is destroyed.\n●If Mystical Knight of Jackal or Ghost Knight of Jackal attacks, and is flipped face-down by Desertapir, the attacking monster is no longer face-up when Desertapir is sent to the GY (which is when their effects activate), so their effects do not apply to Desertapir.",
     "Goat": "●You cannot select any Desertapir with Desertapir's effect.\n●If you have Destruction Punch and Desertapir is attacked by a monster with ATK lower than Desertapir's effect, and Desertapir's effect flips the attacking monster face-down, the effect of Destruction Punch is applied and the attacking monster is destroyed.\n●If Mystical Knight of Jackal or Ghost Knight of Jackal attacks, and is Set by Desertapir, the attacking monster is no longer face-up when Desertapir is sent to the GY (which is when their effects activate), so their effects do not apply to Desertapir.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You cannot select any \"Desertapir\" with the effect of \"Desertapir\".\\n2. If you have \"Destruction Punch\" and \"Desertapir\" is attacked by a monster with ATK lower than the effect of \"Desertapir\", and the effect of \"Desertapir\" flips the attacking monster face-down, the effect of \"Destruction Punch\" is applied and the attacking monster is destroyed.\\n3. If \"Mystical Knight of Jackal\" or \"Ghost Knight of Jackal\" attacks, and is flipped face-down by \"Desertapir\", the attacking monster is no longer face-up when \"Desertapir\" is sent to the GY (which is when their effects activate), so their effects do not apply to \"Desertapir\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

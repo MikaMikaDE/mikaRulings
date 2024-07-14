@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●The effect of “Summon Cloud” does not target.\n●When you activate “Summon Cloud”, you can't yet Special Summon a “Cloudian” monster. After “Summon Cloud” resolves, you can activate its effect to Special Summon a “Cloudian” monster in a separate Chain.\n●The effect of destroying “Summon Cloud” is applied after Special Summoning the “Cloudian” monster and does not begin another Chain.",
     "Tengu": "\n●The effect of “Summon Cloud” does not target.\n●When you activate “Summon Cloud”, you cannot yet Special Summon a “Cloudian” monster. After “Summon Cloud” resolves, you can activate its effect to Special Summon a “Cloudian” monster in a separate Chain.\n●The effect of destroying “Summon Cloud” is applied after Special Summoning the “Cloudian” monster and does not begin another Chain.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The effect of \"Summon Cloud\" does not target.\\n2. When you activate \"Summon Cloud\", you cannot yet Special Summon a \"Cloudian\" monster. After \"Summon Cloud\" resolves, you can activate its effect to Special Summon a \"Cloudian\" monster in a separate Chain.\\n3. The effect of destroying \"Summon Cloud\" is applied after Special Summoning the \"Cloudian\" monster and does not begin another Chain."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●Sending Gadget Driver from your hand to the GY is a cost.\n●Gadget Driver's effect targets face-up Morphtronic monster●Gadget Driver's effect can't be activated during the Damage Step.",
     "Tengu": "\n●Sending Gadget Driver from your hand to the GY is a cost.\n●Gadget Driver's effect targets face-up Morphtronic monster(s) you control.\n●Gadget Driver's effect cannot be activated during the Damage Step.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Sending \"Gadget Driver\" from your hand to the GY is a cost.\\n2. The effect of \"Gadget Driver\" targets face-up 'Morphtronic' monster(s) you control.\\n3. The effect of \"Gadget Driver\" cannot be activated during the Damage Step."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

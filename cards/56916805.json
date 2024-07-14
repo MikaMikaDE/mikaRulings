@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●When Hayabusa Knight, boosted by Energy Drain, attacks, and the opponent's hand is reduced during the battle, the ATK of Hayabusa Knight for the second attack is not changed because the effect of Energy Drain is determined when Energy Drain resolves.",
     "Tengu": "\n●When Hayabusa Knight, boosted by Energy Drain, attacks, and the opponent's hand is reduced during the battle, the ATK of Hayabusa Knight for the second attack is not changed because the effect of Energy Drain is determined when Energy Drain resolves.",
     "Goat": "●When Hayabusa Knight, boosted by Energy Drain, attacks, and the opponent's hand is reduced during the battle, the ATK of Hayabusa Knight for the second attack is not changed because the effect of Energy Drain is determined when Energy Drain resolves.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. When \"Hayabusa Knight\", boosted by \"Energy Drain\", attacks, and the opponent's hand is reduced during the battle, the ATK of \"Hayabusa Knight\" for the second attack is not changed because the effect of \"Energy Drain\" is determined when \"Energy Drain\" resolves."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

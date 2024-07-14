@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "●Goka, the Pyre of Malice's first effect targets 1 FIRE monster you control.\n●Tributing 1 FIRE monster is a cost to activate Goka, the Pyre of Malice's third effect.\n●If you don't have an open Monster Card Zone during your Standby Phase, Goka, the Pyre of Malice's second effect still activates, but its effect disappears when it resolves.",
     "Tengu": "\n●Goka, the Pyre of Malice's first effect targets 1 FIRE monster you control.\n●Tributing 1 FIRE monster is a cost to activate Goka, the Pyre of Malice's third effect.\n●If you do not have an open Monster Card Zone during your Standby Phase, Goka, the Pyre of Malice's second effect still activates, but its effect disappears when it resolves.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

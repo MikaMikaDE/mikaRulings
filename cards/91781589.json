@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "You can only activate this card during your opponent's Standby Phase. Your opponent can't conduct his/her Battle Phase this turn.\n●When you activate Thunder of Ruler, since your opponent can't enter the Battle Phase, your opponent proceeds from Main Phase 1 to the End Phase.\n●VS. Frozen Soul: The effect of Frozen Soul can't be removed if your opponent can't conduct their Battle Phase (by Thunder of Ruler). If Thunder of Ruler and Frozen Soul both resolved before your opponent attempted to enter their Battle Phase, then this first Battle Phase can't be conducted (because of Thunder of Ruler), and the lingering effect of Frozen Soul will persist until a later turn  where your opponent attempts to conduct their Battle Phase.",
     "Tengu": "You can only activate this card during your opponent's Standby Phase. Your opponent cannot conduct his/her Battle Phase this turn.\n●When you activate Thunder of Ruler, since your opponent cannot enter the Battle Phase, your opponent proceeds from Main Phase 1 to the End Phase.\n●VS. Frozen Soul: The effect of Frozen Soul cannot be removed if your opponent cannot conduct their Battle Phase (by Thunder of Ruler). If Thunder of Ruler and Frozen Soul both resolved before your opponent attempted to enter their Battle Phase, then this first Battle Phase cannot be conducted (because of Thunder of Ruler), and the lingering effect of Frozen Soul will persist until a later turn  where your opponent attempts to conduct their Battle Phase.",
     "Goat": "●When you activate Thunder of Ruler, since your opponent cannot enter the Battle Phase, your opponent proceeds from MP 1 to the End Phase.If MP 1 is also skipped after the effect of “Thunder of Ruler,” the affected player will not receive a MP 2.\n●Q: If “Timeater’s” effect causes a player to skip their MP 1 and then during their SP their opponent activates “Thunder of Ruler”, will the player get a MP 2? \nA: Since Thunder of Ruler will prevent you from entering your Battle Phase you will not get a MP 2. Timeater prevented your from having a MP 1. The end result will be you having only a DP, SP, and End Phase during that turn. ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. When you activate \"Thunder of Ruler\", since your opponent cannot enter the Battle Phase, your opponent proceeds from Main Phase 1 to the End Phase."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

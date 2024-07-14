@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The damage dealt by this card’s effect is Effect Damage, not Battle Damage.\n●This card’s effect is a Trigger Effect. It activates in the GY.\n●If the opponent takes control of your “Chthonian Soldier” with “Snatch Steal” and you attack it next turn, its effect won't activate because when it is sent to your GY, it was not your opponent’s monster that attacked it.",
     "Tengu": "\n●The damage dealt by this card’s effect is Effect Damage, not Battle Damage.\n●This card’s effect is a Trigger Effect. It activates in the GY.\n●If the opponent takes control of your “Chthonian Soldier” with “Snatch Steal” and you attack it next turn, its effect will not activate because when it is sent to your GY, it was not your opponent’s monster that attacked it.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The damage dealt by this card's effect is Effect Damage, not Battle Damage.\\n2. This card's effect is a Trigger Effect. It activates in the GY.\\n3. If the opponent takes control of your \"Chthonian Soldier\" with \"Snatch Steal\" and you attack it next turn, its effect will not activate because when it is sent to your GY, it was not your opponent's monster that attacked it."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

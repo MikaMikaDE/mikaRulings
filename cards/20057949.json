@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can't activate this card during the Damage Step.\n●You can activate “Inherited Fortune” even if you can't Special Summon at the time, such as if you activated “Scapegoat” this turn or “Archlord Kristya” is on the field.\n●You can't Chain “Royal Oppression” to “Inherited Fortune.” The effect to Special Summon monsters starts a Chain during y our Standby Phase. You can Chain “Royal Oppression” to the effect to Special Summon monsters.\n●If “Royal Decree” is activated in a Chain to the effect to Special Summon monsters, the effect will still Special Summon the monsters because it is not an effect that activates on the field.\n●You can activate “Inherited Fortune” even if you have no “Fortune Lady” monsters in your hand.",
     "Tengu": "\n●You cannot activate this card during the Damage Step.\n●You can activate “Inherited Fortune” even if you cannot Special Summon at the time, such as if you activated “Scapegoat” this turn or “Archlord Kristya” is on the field.\n●You cannot Chain “Royal Oppression” to “Inherited Fortune.” The effect to Special Summon monsters starts a Chain during y our Standby Phase. You can Chain “Royal Oppression” to the effect to Special Summon monsters.\n●If “Royal Decree” is activated in a Chain to the effect to Special Summon monsters, the effect will still Special Summon the monsters because it is not an effect that activates on the field.\n●You can activate “Inherited Fortune” even if you have no “Fortune Lady” monsters in your hand.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate this card during the Damage Step.\\n2. You can activate \"Inherited Fortune\" even if you cannot Special Summon at the time, such as if you activated \"Scapegoat\" this turn or \"Archlord Kristya\" is on the field.\\n3. You cannot Chain \"Royal Oppression\" to \"Inherited Fortune\".\\n4. The effect to Special Summon monsters starts a Chain during your Standby Phase.\\n5. You can Chain \"Royal Oppression\" to the effect to Special Summon monsters.\\n6. If \"Royal Decree\" is activated in a Chain to the effect to Special Summon monsters, the effect will still Special Summon the monsters because it is not an effect that activates on the field.\\n7. You can activate \"Inherited Fortune\" even if you have no \"Fortune Lady\" monsters in your hand."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

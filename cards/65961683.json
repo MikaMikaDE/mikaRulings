@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Jurrac Velphito\" is flipped face-down, its ATK and DEF become 0 and will remain 0 even when it is flipped face-up again.\\n2. You use the values printed on the Synchro Material Monsters when determining this card's ATK and DEF. If you use \"Tyranno Infinity\", its ATK is considered 0.\\n3. If \"Shrink\" is used on \"Jurrac Velphito\", its ATK will be 0 and will remain 0 even after the effect \"Shrink\" ends.\\n4. If the effect of \"Sea Koala\" is used on \"Jurrac Velphito\", its ATK will be 0 and will remain 0 even after the effect ends."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

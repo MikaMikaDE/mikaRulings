@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This effect targets the Beast or Beast-Warrior-Type monster that will gain the ATK.\\n2. \"Beast Rising\" does not continue to target monsters that gained ATK from its effect.\\n3. You can remove from play a Token to activate the effect of \"Beast Rising\". The original ATK will be the value written on the card that Special Summoned it.\\n4. The target of this effect must be a Beast or Beast-Warrior when the effect is activated and when it is resolved in order to receive the boost.\\n5. You can activate the effect of \"Beast Rising\" during the Damage Step, up until the start of damage calculation. You cannot activate it during damage calculation.\\n6. The ATK increase is permanent, even if \"Beast Rising\" leaves the field."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

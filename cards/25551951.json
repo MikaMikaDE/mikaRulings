@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●Blowback Dragon's effect does target. The target is the selected card.\n●If your opponent uses Blowback Dragon on a Trap Card, you can use Fake Trap to save it.\n●You select the target of Blowback Dragon's effect when you activate the effect, BEFORE flipping the coins.",
     "Tengu": "\n●Blowback Dragon's effect does target. The target is the selected card.\n●If your opponent uses Blowback Dragon on a Trap Card, you can use Fake Trap to save it.\n●You select the target of Blowback Dragon's effect when you activate the effect, BEFORE flipping the coins.",
     "Goat": "●Blowback Dragon's effect does target. The target is the selected card.\n●If your opponent uses Blowback Dragon on a Trap Card, you can use Fake Trap to save it.\n●You select the target of Blowback Dragon's effect when you activate the effect, BEFORE flipping the coins.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Blowback Dragon\" does target. The target is the selected card.\\n2. If your opponent uses \"Blowback Dragon\" on a Trap Card, you can use \"Fake Trap\" to save it.\\n3. You select the target of the effect of \"Blowback Dragon\" when you activate the effect, BEFORE flipping the coins."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

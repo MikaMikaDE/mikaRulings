@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●If this card is face-up on the field and a face-down Level 3 or lower monster is attacked, after it is flipped face-up it will be changed to Attack Position before damage calculation.",
     "Tengu": "\n●If this card is face-up on the field and a face-down Level 3 or lower monster is attacked, after it is flipped face-up it will be changed to Attack Position before damage calculation.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If this card is face-up on the field and a face-down Level 3 or lower monster is attacked, after it is flipped face-up it will be changed to Attack Position before damage calculation."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

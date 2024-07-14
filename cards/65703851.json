@@ -7,6 +7,7 @@
     "race": "Counter"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● If that monster left the hand or GY before this resolves, it is not banished.\nEG: This is chained to \"Effect Veiler\". Effect Veiler is not banished.",
@@ -23,6 +24,7 @@
     "Base": "1. You can activate this card during the Damage Step, including during damage calculation.\\n2. This card does not target.\\n3. If the monster whose effect was negated by \"Debunk\" is not in the same place where the effect was activated when \"Debunk\" resolves, you do not remove it from play.\\n4. If you aren't allowed to remove monsters from play because of \"Imperial Iron Wall\", you cannot activate \"Debunk\".\\n5. If you cannot remove monsters in the GY from play because of \"Necrovalley\", you cannot activate \"Debunk\" when a monster's effect activates in the GY."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

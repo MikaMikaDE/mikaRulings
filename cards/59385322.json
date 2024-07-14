@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●Both effects of this card start a Chain.\n●If the equipped monster is removed from the field in the middle of a resolving Chain, you will miss the timing to activate the effect to return this card to your hand.",
     "Tengu": "\n●Both effects of this card start a Chain.\n●If the equipped monster is removed from the field in the middle of a resolving Chain, you will miss the timing to activate the effect to return this card to your hand.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Both effects of this card start a Chain.\\n2. If the equipped monster is removed from the field in the middle of a resolving Chain, you will miss the timing to activate the effect to return this card to your hand."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Special Summoning \"D.D. Sprite\" does not start a Chain.\\n2. Removing 1 of your face-up monsters from play is part of the procedure to Special Summon \"D.D. Sprite\". It's not an effect that targets.\\n3. Returning the removed monster from play starts a Chain.\\n4. It happens in the very next Standby Phase, not necessarily your next Standby Phase.\\n5. If the Special Summon of \"D.D. Sprite\" is negated, the effect to return the removed monster to the field never activates.\\n6. If \"D.D. Sprite\" is not face-up on the field during the next Standby Phase, the effect to return the removed monster does not activate.\\n7. If \"D.D. Sprite\" is flipped face-down and then face-up again, the effect to return the removed monster will not activate.\\n8. If you have no open Monster Card Zones when the effect to return the removed monster resolves, the removed monster is sent to the GY instead.\\n9. If the effect of \"D.D. Sprite\" is being negated by \"Forbidden Chalice\" or \"Skill Drain\", it still activates though it will be negated when it resolves.\\n10. If you remove from play an opponent's monster that you control with \"Mind Control\", it is returned to your field during the next Standby Phase and then control of it immediately shifts back to your opponent.\\n11. If you remove from play an opponent's monster that you control due to \"Creature Swap\", it is returned to your side of the field during the next Standby Phase and you retain control of it.\\n12. If you Special Summon \"Plaguespreader Zombie\" using its effect and then remove it to Special Summon \"D.D.Sprite\", your \"Plaguespreader Zombie\" will not return during the next Standby Phase since it is considered removed from play by its own effect."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

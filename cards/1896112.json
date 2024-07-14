@@ -7,6 +7,7 @@
     "race": "Quick-Play"
   },
   "Rulings": {
+    "Edison": "Return 1 face-up Fusion Monster you control to the Fusion Deck. ●Returning 1 face-up Fusion Monster you control to the Extra Deck is a cost.\n●This card targets removed from play monsters for both players.\n●This card can't be activated unless both players have at least 1 removed from play monster.\n●This card can't be activated unless both players have at least 1 open Monster Card Zone.",
     "Tengu": "Return 1 face-up Fusion Monster you control to the Fusion Deck. (1) Both players select up to 2 of their monsters that are removed from play, and Special Summon them.\n●Returning 1 face-up Fusion Monster you control to the Extra Deck is a cost.\n●This card targets removed from play monsters for both players.\n●This card CANNOT be activated unless both players have at least 1 removed from play monster.\n●This card CANNOT be activated unless both players have at least 1 open Monster Card Zone.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Dimension Explosion\" targets the selected removed from play monsters.\\n2. \"Dimension Explosion\" cannot be activated if either player has no monsters in their Removed Zone they can Special Summon.\\n3. \"Dimension Explosion\" cannot be activated if either player has no open Monster Card Zones.\\n4. If either player has only 1 open Monster Card Zone, they can only select 1 monster in their Removed Zone."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

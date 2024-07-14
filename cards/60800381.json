@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. [FORUM] If \"Doppelwarrior\" is used as a Synchro Material Monster for \"Junk Warrior\", both the effects of \"Junk Warrior\" and \"Doppelwarrior\" will activate at the same time. \"Junk Warrior\" is mandatory and will be placed on the Chain first. \"Doppelwarrior\" is optional, and will be Chain link 2.  \"Doppelwarrior\" resolves first, Special Summoning the two \"Doppel Tokens\" in face-up Attack Position. \"Junk Warrior\" then resolves, and gains ATK equal to the total ATK of all face-up Level 2 and lower Monsters you control."
   },
   "PSCT": {
+    "Edison": "Junk Synchron\" + 1 or more non-Tuners\n① If Synchro Summoned: It gains ATK equal to the total ATK of all Level 2 and lower monsters you currently control.",
     "Tengu": "Junk Synchron\" + 1 or more non-Tuners\n① If Synchro Summoned: It gains ATK equal to the total ATK of all Level 2 and lower monsters you currently control.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can't activate Dragged Down into the Grave if either you, or your opponent, has no cards in hand other than Dragged Down into the Grave.\n●You can activate this card if a player has no cards left in the Deck.\n●The turn player selects a card first for Dragged Down into the Grave.\n●Appropriate can be activated after Dragged Down into the Grave resolves, because drawing a card(s) was the last thing to happen.",
     "Tengu": "\n●You can't activate Dragged Down into the Grave if either you, or your opponent, has no cards in hand other than Dragged Down into the Grave.\n●You can activate this card if a player has no cards left in the Deck.\n●The turn player selects a card first for Dragged Down into the Grave.\n●Appropriate can be activated after Dragged Down into the Grave resolves, because drawing a card(s) was the last thing to happen.",
     "Goat": "●You can't activate Dragged Down into the Grave if either you, or your opponent, has no cards in hard other than Dragged Down into the Grave. But you can activate it if a player has no cards left in the Deck.\n●The turn player selects a card first for Dragged Down into the Grave.\n●You can activate Appropriate in response to Dragged Down into the Grave because drawing was the last thing performed.",
     "HAT": "● You can't activate this card, nor resolve this effect, if either player has 0 cards in hand.\nIf this is the only card in your hand, you can't activate it.\n● You can activate this card even if a player has no cards in Deck.\n● The turn player picks first. The cards are discarded at the same time.",
@@ -23,6 +24,7 @@
     "Base": "1. You can't activate \"Dragged Down into the Grave\" if either you, or your opponent, has no cards in hard other than \"Dragged Down into the Grave\". But you can activate it if a player has no cards left in the Deck.\\n2. The turn player selects a card first for \"Dragged Down into the Grave\".\\n3. You can activate \"Appropriate\" in response to \"Dragged Down into the Grave\" because drawing was the last thing performed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

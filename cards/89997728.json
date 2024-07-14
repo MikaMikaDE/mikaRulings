@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can't activate Toon Table of Contents if you don't have any Toon Cards, or Manga Ryu-Ran, in your Deck.",
     "Tengu": "\n●You cannot activate Toon Table of Contents if you do not have any Toon Cards, or Manga Ryu-Ran, in your Deck.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate \"Toon Table of Contents\" if you do not have any 'Toon' Cards  in your Deck."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

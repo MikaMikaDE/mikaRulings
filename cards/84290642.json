@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● \"Stardust Dragon\" can't be chained to this effect.",
     "Tengu": "● \"Stardust Dragon\" cannot be chained to this effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. [FORUM] You cannot activate the effect of \"Stardust Dragon\" to negate the effect of \"Snipe Hunter\" as \"Snipe Hunter\" is not guaranteed to destroy a card at activation."
   },
   "PSCT": {
+    "Edison": "① You can discard 1 card, then target 1 card on the field; roll a six-sided die, and destroy that target unless you roll a 1 or 6.",
     "Tengu": "① You can discard 1 card, then target 1 card on the field; roll a six-sided die, and destroy that target unless you roll a 1 or 6.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● This card can only be Special Summoned by Fusion Summon. It can't be summoned by card effects.\n● This card's effect applies until the End Phase (and not for the entire turn).",
     "Tengu": "● This card can only be Special Summoned by Fusion Summon. It can't be summoned by card effects.\n● This card's effect applies until the End Phase (and not for the entire turn).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect targets 1 face-up monster your opponent controls.\\n2. If either \"Elemental HERO Gaia\" or the targeted monster is not on the field when this effect resolves, the effect is not applied."
   },
   "PSCT": {
+    "Edison": "Ⓢ Must be Fusion Summoned. \n① If Fusion Summoned: Target 1 face-up monster your opponent controls; until the End Phase, its ATK is halved and this card gains ATK equal to the ATK it lost this way.",
     "Tengu": "Ⓢ Must be Fusion Summoned. \n① If Fusion Summoned: Target 1 face-up monster your opponent controls; \nuntil the End Phase, its ATK is halved and this card gains ATK equal to the ATK it lost this way.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

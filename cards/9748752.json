@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● If your opponent has no cards on the field after taking 1000 damage from this effect, they can activate the effect of \"Gorz the Emissary of Darkness\".\n● No damage is inflicted if the banished monster was a Token, Trap Monster, or was not originally DARK.",
     "Tengu": "● If your opponent has no cards on the field after taking 1000 damage from this effect, they can activate the effect of \"Gorz the Emissary of Darkness\".",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. No damage is inflicted when the effect of \"Caius the Shadow Monarch\" removes \"Zoma the Spirit\" from play or removes a DARK Monster Token."
   },
   "PSCT": {
+    "Edison": "① If this card is Tribute Summoned: Target 1 card on the field; Banish that target, and if you do, your opponent takes 1000 damage if it was a DARK monster.",
     "Tengu": "① If this card is Tribute Summoned: Target 1 card on the field; \nBanish that target, and if you do, your opponent takes 1000 damage if it was a DARK monster.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

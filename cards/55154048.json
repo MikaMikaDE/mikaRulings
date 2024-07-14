@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The effect to add a 'Nordic Relic' to your hand starts a Chain.\\n2. It activates even if \"Nordic Relic Draupnir\" is destroyed during the Damage Step.\\n3. If multiple copies of \"Nordic Relic Draupnir\" are destroyed at the same time, you can activate all of their effects in a Chain.\\n4. If the activation of \"Nordic Relic Draupnir\" is negated and the card is destroyed by \"Magic Jammer\", you cannot add a 'Nordic Relic' to your hand.\\n5. If \"Nordic Relic Draupnir\" is destroyed because the monster it was equipped to is no longer face-up on the field, you cannot add a 'Nordic Relic' to your hand."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

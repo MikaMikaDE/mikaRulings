@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to Special Summon \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" targets all three of those cards."
   },
   "PSCT": {
+    "Edison": "Ⓢ Cannot be Normal Summoned/Set.\nⓈ Must be Special Summoned by \"Commander Covington\".\n① You must pay 1000 LP to declare an attack with this card.\n② You can send this card you control to the GY, then target 1 \"Machina Soldier\", 1 \"Machina Sniper\", and 1 \"Machina Defender\" in your GY; Special Summon those targets.",
     "Tengu": "Ⓢ Cannot be Normal Summoned/Set.\nⓈ Must be Special Summoned by \"Commander Covington\".\n① You must pay 1000 LP to declare an attack with this card.\n② You can send this card you control to the GY, then target 1 \"Machina Soldier\", 1 \"Machina Sniper\", and 1 \"Machina Defender\" in your GY; \nSpecial Summon those targets.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

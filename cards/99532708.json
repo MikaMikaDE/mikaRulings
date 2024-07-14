@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "No rulings currently avaiable.",
     "Tengu": "No rulings currently avaiable.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"Alien Mars\" will not negate the effect of \"Mystic Tomato\" that was destroyed by battle but had an A-Counter, since \"Mystic Tomato\" does not have an A-Counter in the GY, where its effect activates."
   },
   "PSCT": {
+    "Edison": "① Negate the effects of monsters with A-Coutners on them (except 'Alien Mars').",
     "Tengu": "① Negate the effects of monsters with A-Coutners on them (except 'Alien Mars').",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

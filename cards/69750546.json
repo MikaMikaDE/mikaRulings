@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "● If this card is sent from your hand to the GY by \"Blaze Accelerator\"'s effect, its effect to inflict 500 damage doesn't activate (Yes, this is really weird).",
     "Tengu": "● If this card is sent to the GY to pay the cost of \"Blaze Accelerator\"'s effect, its effect to inflict 500 damage doesn't activate (Yes, this is really weird).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If this card is sent to the GY for the effect of a \"Blaze Accelerator\" card, its effect to inflict 500 damage to your opponent does not activate.\\n2. The effect 'inflict 500 damage to your opponent' of other \"Volcanic Scattershot\" cards sent to the GY as a cost to activate the effect of this card will activate. Their effects will go on a new Chain after the resolution of \"Blaze Accelerator\" or \"Tri-Blaze Accelerator\".\\n3. You can send 1 \"Volcanic Scattershot\" from your hand and 1 from your Deck, or 2 from either your hand or Deck to the GY to pay the cost of this card's effect."
   },
   "PSCT": {
+    "Edison": "① If this card is sent to the GY: Inflict 500 damage to your opponent. \n② If this card is sent to the GY by the effect of a \"Blaze Accelerator\" card: \nYou can send 2 \"Volcanic Scattershot\" from your hand and/or Deck to the GY; destroy all monsters your opponent controls.",
     "Tengu": "① If this card is sent to the GY: Inflict 500 damage to your opponent. \n② If this card is sent to the GY by the effect of a \"Blaze Accelerator\" card: \nYou can send 2 \"Volcanic Scattershot\" from your hand and/or Deck to the GY; \ndestroy all monsters your opponent controls.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

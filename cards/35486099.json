@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can't target more “Crystal Beast” monsters in your GY than you have empty Spell & Trap Card Zones when you activate this card.\n●If you have no empty Spell & Trap Card Zones when this card resolves due to an effect chained to this card, you can't place any “Crystal Beast” monsters in your Spell & Trap Card Zones.\n●If you target 2 “Crystal Beast” monsters in your GY, but the number of your empty Spell & Trap Card Zones is reduced to 1 by an effect chained to this card, you can choose which of those 2 cards to place in your Spell & Trap Card Zones when this card resolves.\n●If an effect like D.D. Crow is chained to Crystal Blessing to remove one of the targeted Crystal Beast monsters from your GY, the remaining target is still placed in your Spell & Trap Card Zone.",
     "Tengu": "\n●You cannot target more “Crystal Beast” monsters in your GY than you have empty Spell & Trap Card Zones when you activate this card.\n●If you have no empty Spell & Trap Card Zones when this card resolves due to an effect chained to this card, you cannot place any “Crystal Beast” monsters in your Spell & Trap Card Zones.\n●If you target 2 “Crystal Beast” monsters in your GY, but the number of your empty Spell & Trap Card Zones is reduced to 1 by an effect chained to this card, you can choose which of those 2 cards to place in your Spell & Trap Card Zones when this card resolves.\n●If an effect like D.D. Crow is chained to Crystal Blessing to remove one of the targeted Crystal Beast monsters from your GY, the remaining target is still placed in your Spell & Trap Card Zone.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot target more 'Crystal Beast' monsters in your GY than you have empty Spell & Trap Card Zones when you activate this card.\\n2. If you have no empty Spell & Trap Card Zones when this card resolves due to an effect chained to this card, you cannot place any 'Crystal Beast' monsters in your Spell & Trap Card Zones.\\n3. If you target 2 'Crystal Beast' monsters in your GY, but the number of your empty Spell & Trap Card Zones is reduced to 1 by an effect chained to this card, you can choose which of those 2 cards to place in your Spell & Trap Card Zones when this card resolves.\\n4. If an effect like \"D.D. Crow\" is chained to \"Crystal Blessing\" to remove one of the targeted 'Crystal Beast' monsters from your GY, the remaining target is still placed in your Spell & Trap Card Zone."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

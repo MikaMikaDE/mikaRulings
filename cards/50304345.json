@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● This card's Summon does not start a chain, so \"Thunder King Rai-Oh\" can negate it.\n\nThe ② won't activate if:\n● The Tribute Summon was negated (eg by Solemn Judgment).\n● Prodigy was Tributed to Tribute Set a HERO monster.\n● Prodigy is not in the GY or Banished during the End Phase.\n● Prodigy was Tributed this turn, and is banished, but was then returned to the GY.\n\nThe ② will activate even if:\n● Prodigy was Tributed and sent to the GY, and was then banished from the GY.\n● Prodigy was Tributed while \"Macro Cosmos\" was applying.\n● The Tribute Summoned monster left the field before the EP.",
     "Tengu": "● This card's Summon does not start a chain, so \"Thunder King Rai-Oh\" can negate it.\n● The ② will activate even if Prodigy was tributed while \"Macro Cosmos\" was applying.\n\nThe ② will not activate if:\n● This card changed location after being tributed (eg, if \"D.D. Crow\" removes it from the GY\n● This card was Set to Tribute Set a HERO monster.\n● The Tribute Summon was negated (eg by Solemn Judgment).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Evil HERO Infernal Prodigy\" to draw 1 card during the End Phase starts a Chain.\\n2. If \"Evil HERO Infernal Prodigy\" is removed from play when Tributed (by \"Macro Cosmos\", etc.) or after it is Tributed (by \"Soul Release\", etc.), its effect will still activate in the End Phase. If it is returned to the GY with \"Burial from a Different Dimension\", its effect will not activate during the End Phase.\\n3. If \"Evil HERO Infernal Prodigy\" is Special Summoned, or returned to the hand or Deck, after it is Tributed, its effect will not activate during the End Phase.\\n4. If you Tribute \"Evil HERO Infernal Prodigy\" to Set an 'Elemental HERO', 'Destiny HERO', or 'Evil HERO', its effect does not activate during the End Phase.\\n5. If the Tribute Summon is negated (with \"Solemn Judgment\", etc.), the effect of \"Evil HERO Infernal Prodigy\" does not activate during the End Phase."
   },
   "PSCT": {
+    "Edison": "① If you control no monsters, you can Special Summon this card (from your hand) in Attack Position.\n② Once per turn, during the End Phase, if this card is in your GY or banishment because it was tributed to Tribute Summon a \"HERO\" monster face-up this turn (even if it was banished after being sent to the GY but not vice-versa): Draw 1 card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

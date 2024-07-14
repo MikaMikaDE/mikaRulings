@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.",
     "Tengu": "● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Blue Thunder T-45\" activates at the end of the Damage Step, when monsters that are destroyed by battle are sent to the GY. If the monster destroyed in battle by \"Blue Thunder T-45\" is removed from play by \"Dimensional Fissure\", etc., the effect of \"Blue Thunder T-45\" still activates.\\n2. If \"Blue Thunder T-45\" is destroyed by a card effect after damage calculation, its effect still activates.\\n3. Even while \"Skill Drain\" is active, the 'Thunder Option Token' cannot be Tributed for a Tribute Summon."
   },
   "PSCT": {
+    "Edison": "① If this destroys an opponent's monster by battle: \nSpecial Summon 1 \"Thunder Option Token\" \n(Machine / LIGHT / LV4 / ATK 1500 / DEF 1500)\n(It can’t be Tributed for a Tribute Summon).",
     "Tengu": "① If this destroys an opponent's monster by battle: \nSpecial Summon 1 \"Thunder Option Token\" \n(Machine / LIGHT / LV4 / ATK 1500 / DEF 1500)\n(It can’t be Tributed for a Tribute Summon).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

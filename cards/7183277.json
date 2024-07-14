@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● This effect prevents monsters \"everywhere\" from being targeted, including monsters in the GY.\n● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).",
     "Tengu": "● This effect monsters \"everywhere\" from being targeted. This includes monsters in the GY.\n● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"Lightsworn\" monsters face-up on the field, in the GY, or Removed Zone cannot be targeted by effects.\\n2. \"Aurkus, Lightsworn Druid\" cannot negate effects; it only prevents \"Lightsworn\" monsters from being selected as the targets of effects. Once a target has been selected, the effect of \"Aurkus, Lightsworn Druid\" is irrelevant.\\n3. If your opponent activates \"Ring of Destruction\" targeting a \"Lightsworn\" monster you control and you chain \"Glorious Illusion\" to Special Summon \"Aurkus, Lightsworn Druid\" from your GY, your \"Lightsworn\" monster is still destroyed.\\n4. If you Special Summon a \"Lightsworn\" monster with \"Glorious Illusion\", and afterwards you Summon \"Aurkus, Lightsworn Druid\", if your opponent later destroys \"Glorious Illusion\" your \"Lightsworn\" monster is also destroyed because \"Glorious Illusion\" is NOT selecting your \"Lightsworn\" monster as a target.\\n5. While you have \"Aurkus, Lightsworn Druid\" on the field you cannot equip your \"Lightsworn\" monsters with Equip Cards, but if you already have a \"Lightsworn\" monster equipped with an Equip Card when you Summon \"Aurkus, Lightsworn Druid\", the Equip Card is not destroyed or negated, because \"Aurkus, Lightsworn Druid\" only prevents \"Lightsworn\" monsters from being selected as a target.\\n6. \"Aurkus, Lightsworn Druid\" will NOT stop \"Torrential Tribute\", \"Mirror Force\", \"Lightning Vortex\", \"Fissure\", \"Smashing Ground\", or \"Hammer Shot\", because these effects do not target."
   },
   "PSCT": {
+    "Edison": "① Neither player can target \"Lightsworn\" monsters (anywhere) with card effects. \n② During your End Phase: Send the top 2 cards of your Deck to the GY.\n(Activate & Resolve only if this card is face-up on the field).",
     "Tengu": "① Neither player can target \"Lightsworn\" monsters (anywhere) with card effects. \n② During your End Phase: Send the top 2 cards of your Deck to the GY.\n(Activate & Resolve only if this card is face-up on the field).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

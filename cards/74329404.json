@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Placing 1 D Counter onto D - Formation does not start a Chain.\n●The second effect of D - Formation starts a Chain. It does not target.\n●You can't activate D-Formation's second effect when you Special Summon a monster face-down.\n●If an effect is chained that flips the Normal or Special Summoned monster face-down, D-Formation's effect disappears.\n●If you have 2 or more D-Formations with 2 D Counters when you Normal or Special Summon a monster, you can activate the second effect of each D-Formation.\n●If a card’s effect Special Summons multiple monsters during your Main Phase, you can activate the second effect of D-Formation. In this case you will select which monster you will apply towards the effect when D-Formation's effect resolves.",
     "Tengu": "\n●Placing 1 D Counter onto D - Formation does not start a Chain.\n●The second effect of D - Formation starts a Chain. It does not target.\n●You cannot activate D-Formation's second effect when you Special Summon a monster face-down.\n●If an effect is chained that flips the Normal or Special Summoned monster face-down, D-Formation's effect disappears.\n●If you have 2 or more D-Formations with 2 D Counters when you Normal or Special Summon a monster, you can activate the second effect of each D-Formation.\n●If a card’s effect Special Summons multiple monsters during your Main Phase, you can activate the second effect of D-Formation. In this case you will select which monster you will apply towards the effect when D-Formation's effect resolves.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Placing 1 D Counter onto \"D - Formation\" does not start a Chain.\\n2. The second effect of \"D - Formation\" starts a Chain. It does not target.\\n3. You cannot activate the second effect of \"D - Formation\" when you Special Summon a monster face-down.\\n4. If an effect is chained that flips the Normal or Special Summoned monster face-down, the effect of  \"D - Formation\" disappears.\\n5. If you have 2 or more copies of \"D - Formation\" with 2 D Counters when you Normal or Special Summon a monster, you can activate the second effect of each \"D - Formation\".\\n6. If a card's effect Special Summons multiple monsters during your Main Phase, you can activate the second effect of \"D - Formation\". In this case you will select which monster you will apply towards the effect when the effect of \"D - Formation\" resolves."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

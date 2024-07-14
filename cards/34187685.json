@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Discarding a monster for “Double Attack” is a cost. This effect targets.\n●If you use “Cost Down” so that your “Blue-Eyes White Dragon” in your hand is Level 6, then you can't discard it to activate “Double Attack” and target your Level 7 “Dark Magician” on the field.\n●If you use “Double Attack” on a monster such as “Twinheaded Beast” it still only gets two attacks, not three.\n●You can't discard a Level 1 monster for “Double Attack”.",
     "Tengu": "\n●Discarding a monster for “Double Attack” is a cost. This effect targets.\n●If you use “Cost Down” so that your “Blue-Eyes White Dragon” in your hand is Level 6, then you cannot discard it to activate “Double Attack” and target your Level 7 “Dark Magician” on the field.\n●If you use “Double Attack” on a monster such as “Twinheaded Beast” it still only gets two attacks, not three.\n●You cannot discard a Level 1 monster for “Double Attack”.",
     "Goat": "●Discarding a monster for “Double Attack” is a cost. This effect targets.\n●If you use “Cost Down” so that your “Blue-Eyes White Dragon” in your hand is Lv 6, then you cannot discard it to activate “Double Attack” and target your Lv 7 “Dark Magician” on the field.\n●If you use “Double Attack” on a monster such as “Twinheaded Beast” it still only gets two attacks, not three.\n●You cannot discard a Lv 1 monster for “Double Attack”.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Discarding a monster for \"Double Attack\" is a cost. This effect targets.\\n2. If you use \"Cost Down\" so that your \"Blue-Eyes White Dragon\" in your hand is Level 6, then you cannot discard it to activate \"Double Attack\" and target your Level 7 \"Dark Magician\" on the field.\\n3. If you use \"Double Attack\" on a monster such as \"Twinheaded Beast\" it still only gets two attacks, not three.\\n4. You cannot discard a Level 1 monster for \"Double Attack\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

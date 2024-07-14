@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"Exploder Dragonwing\" has a Trigger Effect that activates at the start of Damage Step. (Before a face-down monster is flipped face-up, at the same time as \"Sasuke Samurai\" or \"Ninja Grandmaster Sasuke\", etc.)\\n2. You can choose whether or not to activate the effect of \"Exploder Dragonwing\". However, you must activate the full effect (destroy without damage calculation + inflict effect damage) or none of it.\\n3. \"Exploder Dragonwing\" inflicts damage equal to the destroyed monster's ATK while it was on the field, including any adjustments from continuous effects.\\n4. The effects of \"Exploder Dragonwing\" to destroy a monster and inflict damage are considered to be simultaneous, although as a practical matter the monster is destroyed first. The effect is considered to have resolved after both parts are completed.\\n5. If, while the effect is being resolved, the other monster's ATK becomes higher than that of \"Exploder Dragonwing\", the effect of \"Exploder Dragonwing\" is not applied."
   },
   "PSCT": {
+    "Edison": "1 Tuner + 1 or more non-Tuner Dragons\n① At the start of the Damage Step, if this card battles a monster: You can destroy that monster, and if you do, your opponent takes damage equal to that destroyed monster's ATK on the field \n(This card's ATK must be greater than or equal to that monster's ATK to activate and to resolve this effect).",
     "Tengu": "1 Tuner + 1 or more non-Tuner Dragons\n① At the start of the Damage Step, if this card battles a monster: You can destroy that monster, and if you do, your opponent takes damage equal to that destroyed monster's ATK on the field \n(This card's ATK must be greater than or equal to that monster's ATK to activate and to resolve this effect).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

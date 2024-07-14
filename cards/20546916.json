@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● While this card's ② effect is applying, it can't be equipped to an opponent's \"Relinquished\", as that involves changing control of it.",
     "Tengu": "● While this card's ② effect is applying, it cannot be equipped to an opponent's \"Relinquished\", as that involves changing control of it.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① Gains 300 ATK for each Plant you control.\n② Control of this card can't Switch.",
     "Tengu": "① Gains 300 ATK for each Plant you control.\n② Control of this card cannot Switch.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

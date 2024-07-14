@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "The Ⓒ: \n● Banishing a card from the GY is a cost to activate this card.\n\nThe ② and ③:\n● These effects are activated Trigger Effects.\n● While Cold Wave is applying, control is not changed.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Removing 1 Plant-Type monster in your GY from play is a cost.\\n2. If you use \"Tailor of the Fickle\" to equip \"Mark of the Rose\" to another monster your opponent controls during their turn, you will take control of that monster after \"Tailor of the Fickle\" resolves.\\n3. The effects of \"Mark of the Rose\" that activates during your Standby Phase and End Phase start a Chain."
   },
   "PSCT": {
+    "Edison": "Ⓒ Activate by banishing 1 Plant from your GY, then target 1 monster your opponent controls; equip this card to that target.\n① Gain control of the equipped monster.\n② During your End Phase: Your opponent gains control of the equipped monster.\n③ During your Standby Phase: Gain control of the equipped monster.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If the Fiend-Type monster that received the ATK and DEF increase from this card’s effect is flipped face-down, the effect is reset and the ATK and DEF return to the original amounts.\n●You may Tribute two Winged Minions to increase the ATK and DEF of a Fiend-Type monster by 1400 points.\n●If the Fiend-Type monster that was selected for this card’s effect is changed into a different Type, by the effect of DNA Surgery for example, it retains the 700 point ATK and DEF increase.",
     "Tengu": "\n●If the Fiend-Type monster that received the ATK and DEF increase from this card’s effect is flipped face-down, the effect is reset and the ATK and DEF return to the original amounts.\n●You may Tribute two Winged Minions to increase the ATK and DEF of a Fiend-Type monster by 1400 points.\n●If the Fiend-Type monster that was selected for this card’s effect is changed into a different Type, by the effect of DNA Surgery for example, it retains the 700 point ATK and DEF increase.",
     "Goat": "●If the Fiend monster that received the ATK/DEF increase from this card’s effect is Set, the effect is reset and the ATK/DEF return to the original amounts.\n●You may Tribute two Winged Minions to increase the ATK/DEF of a Fiend monster by 1400 points.\n●If the Fiend monster that was selected for this card’s effect is changed into a different Type, by the effect of DNA Surgery for example, it retains the 700 point ATK/DEF increase.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If the Fiend-Type monster that received the ATK and DEF increase from this card's effect is flipped face-down, the effect is reset and the ATK and DEF return to the original amounts.\\n2. You may Tribute two copies of \"Winged Minion\" to increase the ATK and DEF of a Fiend-Type monster by 1400 points.\\n3. If the Fiend-Type monster that was selected for this card's effect is changed into a different Type, by the effect of \"DNA Surgery\" for example, it retains the 700 point ATK and DEF increase."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

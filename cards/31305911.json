@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"Barrel Behind the Door\" can be chained to the effect of \"Marshmallon\" that inflicts damage.\\n2. The effect of \"Marshmallon\" that inflicts damage activates after damage calculation.\\n3. When your opponent's \"Airknight Parshath\" attacks your face-down \"Marshmallon\", after damage calculation the effect of \"Airknight Parshath\" will be Chain Link 1 and the effect of your \"Marshmallon\" will be Chain Link 2.\\n4. If a face-down \"Marshmallon\" is attacked by \"Sasuke Samurai\" or \"Mystic Swordsman LV2\", the \"Marshmallon\" will be destroyed without being flipped face-up. \"Marshmallon\" will not inflict any damage with its effect in this case.\\n5. If a face-down, Defense Position \"Marshmallon\" is attacked by \"Drillroid\", the effect of \"Drillroid\" will destroy \"Marshmallon\". The effect of \"Marshmallon\" that inflicts damage will not be inflicted in this case.\\n6. If a face-up, Defense Position \"Marshmallon\" is attacked by \"Ninja Grandmaster Sasuke\", the \"Marshmallon\" will be destroyed by the effect of \"Ninja Grandmaster Sasuke\".\\n7. If a face-down, Defense Position \"Marshmallon\" is attacked while the effect of \"Gorgon's Eye\" is being applied, the effects of \"Marshmallon\" will be negated. \"Marshmallon\" will be destroyed if the attacking monster's ATK is higher than the DEF of \"Marshmallon\" and its effect that inflicts damage will be negated.\\n8. \"Divine Wrath\" can be chained to the damage inflicting effect of \"Marshmallon\".\\n9. When a monster equipped with \"Ballista of Rampart Smashing\" attacks a face-down, Defense Position \"Marshmallon\", the effect of \"Ballista of Rampart Smashing\" that increases the ATK of the equipped monster is applied during damage calculation. After damage calculation, the effect of \"Marshmallon\" that inflicts damage is activated."
   },
   "PSCT": {
+    "Edison": "① Can't be destroyed by battle. \n② After Damage Calculation, if this card was attacked, and was face-down at the start of the Damage Step: \nThe attacking player takes 1000 damage.",
     "Tengu": "① Can't be destroyed by battle. \n② After Damage Calculation, if this card was attacked, and was face-down at the start of the Damage Step: \nThe attacking player takes 1000 damage.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

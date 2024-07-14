@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate this card during the Damage Step.\\n2. This card targets 3 \"T.G.\" monsters in your GY.\\n3. You can target \"T.G.\" Synchro Monsters. They return to your Extra Deck.\\n4. If any of the targets is not in the GY when this card resolves, you do not shuffle the rest into your Deck or draw 2 cards.\\n5. You return the targeted monsters to your Deck, then draw. They do not happen at the same time."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

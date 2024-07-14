@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "●You may choose to return 0, 1, or 2 monsters to their owners’ hands.\n●You may target Monster Tokens, and they will be taken off the field, instead of returning to the hand.\n●Spirit Monsters can still be returned to their owners’ hands by the effect of Penguin Soldier even if Spiritual Energy Settle Machine is in play.",
     "Tengu": "\n●You may choose to return 0, 1, or 2 monsters to their owners’ hands.\n●You may target Monster Tokens, and they will be taken off the field, instead of returning to the hand.\n●Spirit Monsters can still be returned to their owners’ hands by the effect of Penguin Soldier even if Spiritual Energy Settle Machine is in play.",
     "Goat": "●You may choose to return 0, 1, or 2 monsters to their owners’ hands.\n●You may target Monster Tokens, and they will be taken off the field, instead of returning to the hand.\n●Spirit Monsters can still be returned to their owners’ hands by the effect of Penguin Soldier even if Spiritual Energy Settle Machine is in play.Steve Okegawa, 02/22/04Penguin Soldier's effect DOES specifically designate a target for purposes of Lord of D., etc. \n●Penguin Soldier SOMETIMES specifically designates 1 monster as a target so for Chaos Command Magician or Metasilver Armor, if Penguin Soldier is targeting ONE monster then it's specifically designating 1 monster as a target. If Penguin Soldier targets TWO monsters then it does specifically designate a target but it does NOT specifically designate 1 target. So specifically designate 1 target (Chaos Command Magician, Metasilver Armor, Curse of Royal) is different from specifically designate a target (Lord of D., Freed the Matchless General, Tyrant Dragon, etc.). \n●Q: If “Exchange” is used to get an opponent's card (and vice versa) from their hand, and it is played on the field, when a “Penguin Soldier” is flipped and targets the Exchanged card... where would it go? To the ORIGINAL owner, or the one who played it after Exchange? \nA: The card will return to the hand of the Owner of the card. ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You may choose to return 0, 1, or 2 monsters to their owners' hands.\\n2. You may target Monster Tokens, and they will be taken off the field, instead of returning to the hand.\\n3. Spirit Monsters can still be returned to their owners' hands by the effect of \"Penguin Soldier\" even if \"Spiritual Energy Settle Machine\" is in play."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

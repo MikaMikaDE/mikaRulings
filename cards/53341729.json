@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "● This doesn't stop monster effects from activating.\nIt just negates any effect which does activate (on the field/GY).\n● Even if the Physical card is no longer on the field/GY, the effect is still negated.",
     "Tengu": "● This doesn't stop monster effects from activating.\nIt just negates any effect which does activate (on the field/GY).\n● Even if the Physical card is no longer on the field/GY, the effect is still negated.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. When determining if a monster's effect should be negated by \"Light-Imprisoning Mirror\", check the monster's Attribute at the time its effect is resolved.\\n2. When a Non-LIGHT monster's effect is activated while the monster and \"Light-Imprisoning Mirror\" are both face-up on the field, if you chain \"DNA Transplant\" and select \"LIGHT\", the monster's effect will be negated if the monster is still face-up on the field when its effect resolves because it is now a LIGHT monster.\\n3. \"Light-Imprisoning Mirror\" cannot negate the Continuous Effects of LIGHT monsters.\\n4. [FORUM] \"Light-Imprisoning Mirror\" can only negate the effect of LIGHT monsters that activate in the field or GY. The effect of \"Honest\" activates in the hand, so will not be negated by \"Light-Imprisoning Mirror\"."
   },
   "PSCT": {
+    "Edison": "① If the effect of a LIGHT monster is activated on the field/GY, negate that effect.",
     "Tengu": "① If the effect of a LIGHT monster is activated on the field/GY, negate that effect.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

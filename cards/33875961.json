@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "●The effect that places a counter on “Dark Catapulter” is a Trigger Effect that starts a chain.\n●“Dark Catapulter’s” effect that destroys S/T Cards is an Ignition Effect that targets.\n●Removing cards from your GY is a cost to activate the effect of “Dark Catapulter”. If you do not have enough cards in your GY to match the number of counters on “Dark Catapulter”, you cannot activate the effect.\n●If the number of counters on “Dark Catapulter” is more than the number of S/T Cards on the field, you cannot activate the effect.\n●If you activate the effect of “Dark Catapulter”, and then chain “Emergency Provisions” to reduce the number of S/T Cards on the field so that the number is fewer than the number of counters on “Dark Catapulter”, the effect of “Dark Catapulter” still resolves. Destroy as many S/T cards as possible in this case.\n●If “Dark Catapulter” is Set or removed from the field, all counters on it are removed for no effect.\n●If “Skill Drain” is activated, all counters on “Dark Catapulter” are removed for no effect.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect that places a counter on \"Dark Catapulter\" is a Trigger Effect that starts a chain.\\n2. The effect of \"Dark Catapulter\" that destroys Spell & Trap Cards is an Ignition Effect that targets.\\n3. Removing cards from your GY is a cost to activate the effect of \"Dark Catapulter\". If you do not have enough cards in your GY to match the number of counters on \"Dark Catapulter\", you cannot activate the effect.\\n4. If the number of counters on \"Dark Catapulter\" is more than the number of Spell & Trap Cards on the field, you cannot activate the effect.\\n5. If you activate the effect of \"Dark Catapulter\", and then chain \"Emergency Provisions\" to reduce the number of Spell & Trap Cards on the field so that the number is fewer than the number of counters on \"Dark Catapulter\", the effect of \"Dark Catapulter\" still resolves. Destroy as many Spell & Trap cards as possible in this case.\\n6. If \"Dark Catapulter\" is flipped face-down or removed from the field, all counters on it are removed for no effect.\\n7. If \"Skill Drain\" is activated, all counters on \"Dark Catapulter\" are removed for no effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

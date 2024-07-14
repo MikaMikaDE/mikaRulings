@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●The effect of Flint Lock that moves Flint from Flint Lock to another monster can be activated multiple times in the same turn.\n●You can't target activate Flint from you hand targeting a Flint Lock that is already equipped with Flint.\n●This card's effect to equip Flint to itself targets the Flint card.\n●This card's effect to to equip Flint to another monster targets that monster and Flint.",
     "Tengu": "\n●The effect of Flint Lock that moves Flint from Flint Lock to another monster can be activated multiple times in the same turn.\n●You cannot target activate Flint from you hand targeting a Flint Lock that is already equipped with Flint.\n●This card's effect to equip Flint to itself targets the Flint card.\n●This card's effect to to equip Flint to another monster targets that monster and Flint.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Flint Lock\" that moves \"Flint\" from \"Flint Lock\" to another monster can be activated multiple times in the same turn.\\n2. You cannot target activate \"Flint\" from you hand targeting a \"Flint Lock\" that is already equipped with \"Flint.\"\\n3. This card's effect to equip \"Flint\" to itself targets the \"Flint\" card.\\n4. This card's effect to to equip \"Flint\" to another monster targets that monster and \"Flint\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

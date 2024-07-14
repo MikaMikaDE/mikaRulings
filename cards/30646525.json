@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If “Garlandolf, King of Destruction” is not face-up on the field when its effect resolves, no monsters will be destroyed.\n●All other face-up monsters with DEF less than or equal to this card’s ATK are destroyed, including your own.\n●If “Skill Drain” is later activated, “Garlandolf, King of Destruction” will lose any ATK gained from its own effect and won't regain it if “Skill Drain” is destroyed.\n●Destroying the monsters and increasing the ATK of “Garlandolf, King of Destruction” occur simultaneously.\n●If “Apocatequil” is destroyed by this effect, you can activate its effect.",
     "Tengu": "\n●If “Garlandolf, King of Destruction” is not face-up on the field when its effect resolves, no monsters will be destroyed.\n●All other face-up monsters with DEF less than or equal to this card’s ATK are destroyed, including your own.\n●If “Skill Drain” is later activated, “Garlandolf, King of Destruction” will lose any ATK gained from its own effect and will not regain it if “Skill Drain” is destroyed.\n●Destroying the monsters and increasing the ATK of “Garlandolf, King of Destruction” occur simultaneously.\n●If “Apocatequil” is destroyed by this effect, you can activate its effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Garlandolf, King of Destruction\" is not face-up on the field when its effect resolves, no monsters will be destroyed.\\n2. All other face-up monsters with DEF less than or equal to this card's ATK are destroyed, including your own.\\n3. If \"Skill Drain\" is later activated, \"Garlandolf, King of Destruction\" will lose any ATK gained from its own effect and will not regain it if \"Skill Drain\" is destroyed.\\n4. Destroying the monsters and increasing the ATK of \"Garlandolf, King of Destruction\" occur simultaneously. If \"Apocatequil\" is destroyed by this effect, you can activate its effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

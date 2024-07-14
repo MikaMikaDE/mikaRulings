@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●You may Tribute one The Unfriendly Amazon to satisfy the maintenance cost of another The Unfriendly Amazon.\n●The Unfriendly Amazon is NOT an Amazoness.",
     "Tengu": "\n●You may Tribute one The Unfriendly Amazon to satisfy the maintenance cost of another The Unfriendly Amazon.\n●The Unfriendly Amazon is NOT an Amazoness.",
     "Goat": "●You may Tribute one The Unfriendly Amazon to satisfy the maintenance cost of another The Unfriendly Amazon.\n●The Unfriendly Amazon is NOT an Amazoness.Monsters with payments or effects that trigger in the SP may be Tributed for “The Unfriendly Amazon’s” effect before the resolution of the payment or effect. \n●Q: If “The Unfriendly Amazon” is equipped with “Kiseitai” from an earlier attack, can a player choose not to pay for “The Unfriendly Amazon” during their SP and send her to the GY before their opponent gains LP from the effect of “Kiseitai”? \nA: You can activate the effect of your The Unfriendly Amazon first and choose not to pay to keep it. The Unfriendly Amazon and the Kiseitai would each then return to their respective owner's GYs. Kiseitai's effect would not activate as a result of no longer being on the field.   \n●Q: Can you Tribute “Lava Golem” to keep “The Unfriendly Amazon” on the field? \nA: Yes, they could Tribute the Lava Golem for the effect of The Unfriendly Amazon. The Lava Golem would no longer be on the field as a result of being Tributed, so its effect would not activate. ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You may Tribute one \"The Unfriendly Amazon\" to satisfy the maintenance cost of another \"The Unfriendly Amazon\".\\n2. \"The Unfriendly Amazon\" is NOT an Amazoness."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

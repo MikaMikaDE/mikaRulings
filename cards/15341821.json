@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● You cannot use Fluff Tokens for a Tribute Set.\n● You can't declare the name of a token with “Prohibition”.\n● Summoning 2 Tokens means that you must Summon 2 Tokens. You cannot choose to Summon 1 nor 3. Summoning 4 would be right out.\n●In this format, If this card is discarded for “Monster Reincarnation”, and then added back to the hand by the same “Monster Reincarnation”, its effect activates in the hand.",
     "Tengu": "● You cannot use Fluff Tokens for a Tribute Set.\n● You cannot declare the name of a token with “Prohibition”.\n● In Edison, trigger effects can activate anywhere. If this card is discarded for, and then added to the hand by,  “Monster Reincarnation”, its effect activates in the hand.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① If this card is sent to the GY: Special Summon 2 \"Fluff Tokens\" in Defense Position.\n(Plant/ WIND/ LV1/ ATK 0/ DEF 0) (They can’t be Tributed for a Tribute Summon during the turn they are Summoned).",
     "Tengu": "① If this card is sent to the GY: \nSpecial Summon 2 \"Fluff Tokens\" in Defense.\n(Plant / WIND / LV1 / ATK 0 / DEF 0)\n(They can’t be Tributed for a Tribute Summon during the turn they are Summoned).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

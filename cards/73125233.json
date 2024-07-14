@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "● This effect is mandatory.",
     "Tengu": "● This effect is mandatory.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If you chain a Quick-Play Spell or a Normal or Counter Trap Card targeted by the effect of \"Raiza the Storm Monarch\", it will not be returned to the top of its owner's Deck."
   },
   "PSCT": {
+    "Edison": "① If Tribute Summoned: Target 1 card on the field; return it to the top of the Deck.",
     "Tengu": "① If Tribute Summoned: Target 1 card on the field; return it to the top of the Deck.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

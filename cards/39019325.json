@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You Tribute when you resolve Order to Smash's effect.\n●You select the Spell/Trap Card when you resolve Order to Smash's effect.",
     "Tengu": "\n●You Tribute when you resolve Order to Smash's effect.\n●You select the Spell/Trap Card when you resolve Order to Smash's effect.",
     "Goat": "●You Tribute when you resolve Order to Smash's effect.\n●You select the Spell/Trap Card when you resolve Order to Smash's effect.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You Tribute when you resolve the effect of \"Order to Smash\".\\n2. You select the Spell/Trap Card when you resolve the effect of \"Order to Smash\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

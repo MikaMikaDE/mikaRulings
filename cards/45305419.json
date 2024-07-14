@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●“Symbol of Heritage” targets 1 monster in the GY. If your opponent chains “Disappear” to remove from play the targeted monster, the effect of “Symbol of Heritage” does not resolve. But if they chain “Disappear” to remove a different monster with the same name, then the targeted monster is still Special Summoned even though there are now only 2 of it in the GY.",
     "Tengu": "\n●“Symbol of Heritage” targets 1 monster in the GY. If your opponent chains “Disappear” to remove from play the targeted monster, the effect of “Symbol of Heritage” does not resolve. But if they chain “Disappear” to remove a different monster with the same name, then the targeted monster is still Special Summoned even though there are now only 2 of it in the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Symbol of Heritage\" targets 1 monster in the GY. If your opponent chains \"Disappear\" to remove from play the targeted monster, the effect of \"Symbol of Heritage\" does not resolve. But if they chain \"Disappear\" to remove a different monster with the same name, then the targeted monster is still Special Summoned even though there are now only 2 of it in the GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

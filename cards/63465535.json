@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect to equip your opponent's monster to this card targets that monster.\\n2. If the targeted monster is face-down when the effect of \"Underground Arachnid\" effect resolves, the monster is not equipped."
   },
   "PSCT": {
+    "Edison": "① While this card is attacking, your opponent can't activate Spell/Trap Cards.\n② Once per turn: You can target 1 opponent's face-up monster; equip that target to this card (Max. 1).\n③ If this card would be destroyed be battle, you can destroy that equipped monster, instead.",
     "Tengu": "① While this card is attacking, your opponent can't activate Spell/Trap Cards.\n② Once per turn: You can target 1 opponent's face-up monster; equip that target to this card (Max. 1).\n③ If this card would be destroyed be battle, you can destroy that equipped monster, instead.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

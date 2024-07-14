@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "●If you equip your opponent's monster with Ribbon of Rebirth and destroy the monster in battle, you will Special Summon it onto your side of the field during the End Phase.\n●If Ribbon of Rebirth is not in the GY or Removed Zone during the End Phase, its effect does not activate.\n●Ribbon of Rebirth does not target the monster it will Special Summon.\n●If the monster that was equipped with Ribbon of Rebirth is removed from play, it won't be Special Summoned. Even if the monster is returned to the GY during the same turn, it won't be Special Summoned.\n●If you don't have any open Monster Card Zones during the End Phase, the effect of your Ribbon of Rebirth still activates but its effect disappears when it resolves.",
     "Tengu": "\n●If you equip your opponent's monster with Ribbon of Rebirth and destroy the monster in battle, you will Special Summon it onto your side of the field during the End Phase.\n●If Ribbon of Rebirth is not in the GY or Removed Zone during the End Phase, its effect does not activate.\n●Ribbon of Rebirth does not target the monster it will Special Summon.\n●If the monster that was equipped with Ribbon of Rebirth is removed from play, it will not be Special Summoned. Even if the monster is returned to the GY during the same turn, it will not be Special Summoned.\n●If you do not have any open Monster Card Zones during the End Phase, the effect of your Ribbon of Rebirth still activates but its effect disappears when it resolves.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If you equip your opponent's monster with \"Ribbon of Rebirth\" and destroy the monster in battle, you will Special Summon it onto your side of the field during the End Phase.\\n2. If \"Ribbon of Rebirth\" is not in the GY or Removed Zone during the End Phase, its effect does not activate.\\n3. \"Ribbon of Rebirth\" does not target the monster it will Special Summon.\\n4. If the monster that was equipped with \"Ribbon of Rebirth\" is removed from play, it will not be Special Summoned. Even if the monster is returned to the GY during the same turn, it will not be Special Summoned.\\n5. If you do not have any open Monster Card Zones during the End Phase, the effect of your \"Ribbon of Rebirth\" still activates but its effect disappears when it resolves."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

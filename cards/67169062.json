@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● Unless all are shuffled, none are shuffled, in which case no cards are drawn.\n● If there are less than 2 cards in your Deck, you cannot activate this card (even if resolving it would return cards to your Maindeck).",
     "Tengu": "● Unless all are shuffled, none are shuffled, in which case no cards are drawn.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Pot of Avarice\" targets 5 monsters in your GY. You cannot activate it you do not have 5 or more monsters in your GY.\\n2. If any of the 5 monsters targeted by \"Pot of Avarice\" are removed from the GY before its effect resolves, for example by \"Disappear\" or \"Call of the Haunted\", then the entire effect of \"Pot of Avarice\" disappears. You do not shuffle the other monsters into your Deck and you do not draw 2 cards.\\n3. You can target Fusion Monsters and/or Synchro Monsters in your GY for \"Pot of Avarice\" and they will be returned to your Extra Deck.\\n4. You can chain \"Serial Spell\" to \"Pot of Avarice\". You select 5 targets for \"Pot of Avarice\", and then when you chain \"Serial Spell\" you must select 5 targets. You can select the same monsters, but if you do this then \"Serial Spell\" will resolve first and shuffle some monsters back into the Deck, and then when the original \"Pot of Avarice\" tries to resolves, there aren't enough monsters left so it will not resolve. Monster Cards you discard from your hand for the cost of \"Serial Spell\" can be selected as targets for the \"Serial Spell\" copy of \"Pot of Avarice\"."
   },
   "PSCT": {
+    "Edison": "① Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.",
     "Tengu": "① Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

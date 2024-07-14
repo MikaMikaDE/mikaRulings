@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "● If the equipped monster is destroyed by battle, this effect does not activate.\n● If the equipped monster is destroyed at the same time as this card, this effect does activate.",
     "Tengu": "● If the equipped monster is destroyed by battle, this effect does not activate.\n● If the equipped monster is destroyed at the same time as this card, this effect does activate.",
     "Goat": "●This card must be destroyed directly for its effect to activate, such as with the effects of Mystical Space Typhoon, Heavy Storm, or Gearfried the Iron Knight. Its effect does NOT activate if the monster it is equipped to is destroyed, Tributed, Set, or removed from the field.\n●If your opponent chains Magic Jammer, Magic Drain, etc., to negate and destroy this card, its effect does not activate.\n●If the opponent chains Dust Tornado or Mystical Space Typhoon to the activation of Smoke Grenade of the Thief, it is destroyed and its effect is NOT activated. This is because it is an Equip Spell Card, and must be on the field when it resolves for its effect to activate.\n●If Imperial Order is applying on the field, the effect of Smoke Grenade of the Thief is not activated, even if it is destroyed by a card effect.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. This card must be destroyed directly for its effect to activate, such as with the effects of \"Mystical Space Typhoon\", \"Heavy Storm\", or \"Gearfried the Iron Knight\". Its effect does NOT activate if the monster it is equipped to is destroyed, Tributed, flipped face-down, or removed from the field.\\n2. If your opponent chains \"Magic Jammer\", \"Magic Drain\", etc., to negate and destroy this card, its effect does not activate.\\n3. If the opponent chains \"Dust Tornado\" or \"Mystical Space Typhoon\" to the activation of \"Smoke Grenade of the Thief\", it is destroyed and its effect is NOT activated. This is because it is an Equip Spell Card, and must be on the field when it resolves for its effect to activate.\\n4. If \"Imperial Order\" is active on the field, the effect of \"Smoke Grenade of the Thief\" is not activated, even if it is destroyed by a card effect."
   },
   "PSCT": {
+    "Edison": "① If this Equip Card is destroyed by an effect: Look at your opponent's hand and discard 1 card from it.",
     "Tengu": "① If this Equip Card is destroyed by an effect: Look at your opponent's hand and discard 1 card from it.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

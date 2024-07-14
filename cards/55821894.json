@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●The ●This effect is applied in Substep 4 - Damage Calculation.\n●The ATK of this card should be 1500 ATK (this card had 1300 ATK when first printed).\n●If Dark Ruler Ha Des attacks Amazoness Fighter, the effect of Amazoness Fighter is still applied.\n●When Amazoness Fighter battles Amazoness Swordswoman, the damage to Life Points is zero.\n●When a monster quipped with Wicked-Breaking Flamberge - Baou attacks Amazoness Fighter or Amazoness Swordswoman, the effects of the Amazonesses are applied.",
     "Tengu": "(1) All Battle Damage to this card's controller that he/she takes from a battle involving this monster becomes 0.\n●The (1) Continuous Effect applies while this card is face-up on the field.\n●This effect is applied in Substep 4 - Damage Calculation.\n●The ATK of this card should be 1500 ATK (this card had 1300 ATK when first printed).\n●If Dark Ruler Ha Des attacks Amazoness Fighter, the effect of Amazoness Fighter is still applied.\n●When Amazoness Fighter battles Amazoness Swordswoman, the damage to Life Points is zero.\n●When a monster quipped with Wicked-Breaking Flamberge - Baou attacks Amazoness Fighter or Amazoness Swordswoman, the effects of the Amazonesses are applied.",
     "Goat": "●The ATK of this card should be 1500 ATK.\n●When Dark Ruler Ha Des attacks Amazoness Fighter, the effect of Amazoness Fighter is still resolved.\n●When Amazoness Fighter battles Amazoness Swordswoman, the damage to LP is zero.\n●When a monster equipped with Wicked-Breaking Flamberge - Baou attacks Amazoness Fighter or Amazoness Swordswoman, the effects of the Amazonesses are applied.\n●Q: Recently some players have had a dispute over the meaning of “Amazoness Fighter” and whether or not it’s a creature with an in-built “Kuriboh” or a creature which prevents all battle damage during a battle like a “Waboku.” \nA: “Amazoness Fighter” only protects you from the LP loss that would result from a battle she was involved in. That's where her protection stops. She does not protect herself.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of this card is applied even when it is attacked by \"Dark Ruler Ha Des\" or a monster equipped with \"Wicked-Breaking Flamberge - Baou\".\\n2. If you take control of your opponent's \"Amazoness Fighter\" you will not take Battle Damage from battles involving it.\\n3. \"Amazoness Fighter\" and \"Amazoness Swords Woman\" are still destroyed if they battle a stronger monster.\\n4. If \"Amazoness Fighter\" or \"Amazoness Swords Woman\" is attacked by a monster that is affected by \"Diffusion Wave-Motion\", their effects are still applied.\\n5. If \"Amazoness Swords Woman\" attacks \"Amazoness Fighter\", the Battle Damage will be 0."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

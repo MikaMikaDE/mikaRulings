@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Calculate the maximum Level of monster you can Special Summon based on the Level of the Tributed monster when it was on the field.\n●“Super Solar Nutrient” does not target a monster in your hand/Deck.\n●However, it does target the Special Summoned monster after it is Special Summoned.\n●Tributing a Plant for this card’s activation is a cost.",
     "Tengu": "\n●Calculate the maximum Level of monster you can Special Summon based on the Level of the Tributed monster when it was on the field.\n●“Super Solar Nutrient” does not target a monster in your hand or Deck.\n●However, it does target the Special Summoned monster after it is Special Summoned.\n●Tributing a Plant for this card’s activation is a cost.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Calculate the maximum Level of monster you can Special Summon based on the Level of the Tributed monster when it was on the field.\\n2. \"Super Solar Nutrient\" does not target a monster in your hand or Deck. However, it does target the Special Summoned monster after it is Special Summoned.\\n3. Tributing a Plant for this card's activation is a cost."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●Vengeful Shinobi's effect is a Trigger Effect.\n●If an effect is Chained to Vengeful Shinobi's effect, and changes it to Defense Position or removes it from the field, you still draw a card.",
     "Tengu": "\n●Vengeful Shinobi's effect is a Trigger Effect.\n●If an effect is Chained to Vengeful Shinobi's effect, and changes it to Defense Position or removes it from the field, you still draw a card.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Vengeful Shinobi\" is a Trigger Effect.\\n2. If an effect is Chained to the effect of \"Vengeful Shinobi\", and changes it to Defense Position or removes it from the field, you still draw a card."
   },
   "PSCT": {
+    "Edison": "If this Attack Position card is targeted for an attack: Draw 1 card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

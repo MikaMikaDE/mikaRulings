@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① if destroyed by battle and sent to the GY: Destroy the face-up monster on the field that destroyed this card.\n② While this card is attacking, any Battle Damage from that attack becomes 0.",
     "Tengu": "① if destroyed by battle and sent to the GY: Destroy the face-up monster on the field that destroyed this card.\n② While this card is attacking, any Battle Damage from that attack becomes 0.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

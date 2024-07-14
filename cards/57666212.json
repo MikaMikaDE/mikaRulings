@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● Destroying and drawing are simultaneous. \nThis does not cause anything to miss its timing.\n● If 1 target is no longer on the field when this resolves, the other is still destroyed.",
     "Tengu": "● Destroying and drawing are simultaneous. \nThis does not cause anything to miss its timing.\n● If 1 target is no longer on the field when this resolves, the other is still destroyed.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① can't attack the turn it was Normal/Special Summoned.\n② When Normal/Special Summoned: \nYou can target up to 2 cards on the field; destroy those targets, and if you do, each player can draw 1 card for each of their cards destroyed this way.",
     "Tengu": "① Cannot attack the turn it was Normal/Special Summoned.\n② When Normal/Special Summoned: \nYou can target up to 2 cards on the field;\ndestroy those targets, and if you do, each player can draw 1 card for each of their cards destroyed this way.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

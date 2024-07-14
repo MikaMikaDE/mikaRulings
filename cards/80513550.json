@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● As long as this card was initially Special Summoned by its own procedure (and the summon wasn't negated),\nyou can Summon it from the GY with card effects.",
     "Tengu": "● As long as this card was initially Special Summoned by its own procedure (and the summon wasn't negated),\nyou can Summon it from the GY with card effects.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"Dragon Queen of Tragic Endings\" can be Special Summoned from the GY by cards like \"Call of the Haunted\" if it had been properly Special Summoned prior.\\n2. The effect to Special Summon \"Dragon Queen of Tragic Endings\" from the GY is a Trigger Effect that activates in the GY.\\n3. Sending a Continuous Spell Card to the GY is a cost.\\n4. If your opponent has no cards in their hand to send to the GY with this effect, you cannot draw a card. If your opponent sends a card to the GY but you have no cards in your Deck to draw, you lose the Duel.\\n5. Your opponent sends a card to the GY, then you draw a card. They don't happen at the same time.\\n6. If \"Dragon Queen of Tragic Endings\" goes from the field to the GY, then is removed from play and later returned to the GY, it cannot be Special Summoned by its own effect.\\n7. You don't have to Special Summon \"Dragon Queen of Tragic Endings\" the turn after it is sent from the field to the GY. You can wait several turns and then Special Summon it during a later Standby Phase."
   },
   "PSCT": {
+    "Edison": "© Cannot be Normal Summoned/Set. \n© Must first be Special Summoned (from your hand) by controlling 3 or more face-up Continuous Spells. \n① If this attacking card inflicts Battle Damage to your opponent:\nYour opponent sends 1 card from their hand to the GY, then you draw 1 card.\n② During your Standby Phase, if this card is in your GY, and was sent there from the field: \nYou can send 1 face-up Continuous Spell you control to the GY; Special Summon this card.",
     "Tengu": "© Can't be Normal Summoned/Set. \n© Must first be Special Summoned (from your hand) by controlling 3 or more face-up Continuous Spells. \n① If this attacking card inflicts Battle Damage to your opponent:\nYour opponent sends 1 card from their hand to the GY, then you draw 1 card.\n② During your Standby Phase, if this card is in your GY, and was sent there from the field: \nYou can send 1 face-up Continuous Spell you control to the GY; \nSpecial Summon this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

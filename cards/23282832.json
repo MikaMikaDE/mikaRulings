@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●“Over Limit” can't be activated if there are no Normal Monsters with 1000 or less ATK in the GY that were destroyed in battle during the turn.\n●If a Normal Monster with 1000 or less ATK that was destroyed in battle is removed from the GY and later in the same turn it is returned to the GY by other means (Tributed, etc.), it Cannot be Special Summoned with “Over Limit”.",
     "Tengu": "\n●“Over Limit” cannot be activated if there are no Normal Monsters with 1000 or less ATK in the GY that were destroyed in battle during the turn.\n●If a Normal Monster with 1000 or less ATK that was destroyed in battle is removed from the GY and later in the same turn it is returned to the GY by other means (Tributed, etc.), it cannot be Special Summoned with “Over Limit”.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Over Limit\" cannot be activated if there are no Normal Monsters with 1000 or less ATK in the GY that were destroyed in battle during the turn.\\n2. If a Normal Monster with 1000 or less ATK that was destroyed in battle is removed from the GY and later in the same turn it is returned to the GY by other means (Tributed, etc.), it cannot be Special Summoned with \"Over Limit\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

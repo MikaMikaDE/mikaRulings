@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Token Thanksgiving will destroy a Monster Token equipped to Relinquished.",
     "Tengu": "\n●Token Thanksgiving will destroy a Monster Token equipped to Relinquished.",
     "Goat": "●Token Thanksgiving will destroy a Monster Token equipped to Relinquished.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Token Thanksgiving\" will destroy a Monster Token equipped to \"Relinquished\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

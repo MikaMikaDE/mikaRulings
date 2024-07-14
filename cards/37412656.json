@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "● You can activate this card even if your opponent controls no monsters.\n● If no card is returned to the hand, no monster is destroyed.\n● \"Stardust Dragon\"'s effect can be chained to this, but only if there is a monster on the field that would be destroyed.",
     "Tengu": "● You can activate this card even if your opponent controls no monsters.\n● If no card is returned to the hand, no monster is destroyed.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Hero Blast\" targets 1 \"Elemental Hero\" Normal Monster in your GY.\\n2. You can activate \"Hero Blast\" when you opponent doesn't have any face-up monsters.\\n3. If the selected \"Elemental Hero\" Normal Monster is not returned to your hand, you cannot destroy 1 of your opponent's cards.\""
   },
   "PSCT": {
+    "Edison": "① Target 1 \"Elemental HERO\" Normal Monster in your GY; add that target to your hand, then if your opponent controls any monsters with ATK less than or equal to that target's ATK, destroy 1 of them.",
     "Tengu": "① Target 1 \"Elemental HERO\" Normal Monster in your GY; \nadd that target to your hand, then if your opponent controls any monsters with ATK less than or equal to that target's ATK, destroy 1 of them.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

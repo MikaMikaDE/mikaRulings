@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●“Gift of the Martyr” increases the monster’s ATK by the original ATK of the monster sent to the GY.\n●Sending a monster to the GY is a cost for “Gift of the Martyr”. This is an effect that targets.\n●You can send a face-down monster to the GY as the cost of “Gift of the Martyr”. Refer to the original ATK of the monster.",
     "Tengu": "\n●“Gift of the Martyr” increases the monster’s ATK by the original ATK of the monster sent to the GY.\n●Sending a monster to the GY is a cost for “Gift of the Martyr”. This is an effect that targets.\n●You can send a face-down monster to the GY as the cost of “Gift of the Martyr”. Refer to the original ATK of the monster.",
     "Goat": "“Gift of the Martyr” increases the monster’s ATK by the original ATK of the monster sent to the GY.\n●Sending a monster to the GY is a cost for “Gift of the Martyr”. This is an effect that targets.\n●You can send a face-down monster to the GY as the cost of “Gift of the Martyr”. Refer to the original ATK of the monster.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Gift of the Martyr\" increases the monster's ATK by the original ATK of the monster sent to the GY.\\n2. Sending a monster to the GY is a cost for \"Gift of the Martyr\". This is an effect that targets.\\n3. You can send a face-down monster to the GY as the cost of \"Gift of the Martyr\". Refer to the original ATK of the monster."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

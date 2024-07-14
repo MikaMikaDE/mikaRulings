@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters\n●If Dawnbreak Gardna gains DEF from The Reliable Guardian, etc. and then is Normal Summoned again, the DEF increase is recalculated after applying its new original DEF.",
     "Tengu": "\n●If Dawnbreak Gardna gains DEF from The Reliable Guardian, etc. and then is Normal Summoned again, the DEF increase is recalculated after applying its new original DEF.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Dawnbreak Gardna\" gains DEF from \"The Reliable Guardian\", etc. and then is Normal Summoned again, the DEF increase is recalculated after applying its new original DEF."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

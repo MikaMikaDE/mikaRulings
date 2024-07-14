@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If there are no “Crystal Beast” cards in Spell & Trap Card Zone when this card resolves, you can't draw 2 cards.\n●If there is only 1 “Crystal Beast” card in your Spell & Trap Card Zone when this card resolves, that card is sent to the GY and you draw 2 cards.\n●If Macro Cosmos or Banisher of the Raidance is on the field, you can still activate Rare Value, but since the Crystal Beast card is not sent to the GY you don't draw 2 cards.",
     "Tengu": "\n●If there are no “Crystal Beast” cards in Spell & Trap Card Zone when this card resolves, you cannot draw 2 cards.\n●If there is only 1 “Crystal Beast” card in your Spell & Trap Card Zone when this card resolves, that card is sent to the GY and you draw 2 cards.\n●If Macro Cosmos or Banisher of the Raidance is on the field, you can still activate Rare Value, but since the Crystal Beast card is not sent to the GY you do NOT draw 2 cards.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If there are no 'Crystal Beast' cards in Spell & Trap Card Zone when this card resolves, you cannot draw 2 cards.\\n2. If there is only 1 'Crystal Beast' card in your Spell & Trap Card Zone when this card resolves, that card is sent to the GY and you draw 2 cards.\\n3. If \"Macro Cosmos\" or \"Banisher of the Radiance\" is on the field, you can still activate \"Rare Value\", but since the 'Crystal Beast' card is not sent to the GY you do NOT draw 2 cards."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

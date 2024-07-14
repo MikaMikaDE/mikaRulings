@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●Sakuretsu Armor targets 1 monster.\n●If the turn player chains Book of Moon to Sakuretsu Armor to flip the attacking monster face-down, then the attacking monster is not destroyed by Sakuretsu Armor.",
     "Tengu": "\n●Sakuretsu Armor targets 1 monster.\n●If the turn player chains Book of Moon to Sakuretsu Armor to flip the attacking monster face-down, then the attacking monster is not destroyed by Sakuretsu Armor.",
     "Goat": "●If both players have activated a “Royal Decree”, which “Royal Decree” would be in effect on the field? \nA: The most recent Royal Decree would be in effect. \n●Q: If “Royal Decree” is activated while both “Jinzo” and “Skill Drain” are on the field, what happens? A: As soon as Jinzo was able to do so he negated both face-up traps simultaneously. (right after Royal Decree resolved)",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Sakuretsu Armor\" targets 1 monster.\\n2. If the turn player chains \"Book of Moon\" to \"Sakuretsu Armor\" to flip the attacking monster face-down, then the attacking monster is not destroyed by \"Sakuretsu Armor\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

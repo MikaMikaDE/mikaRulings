@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●If you activate “Meteor of Destruction”, and an effect is chained that causes your opponent’s Life Points to fall below 3000, “Meteor of Destruction” was already activated properly, so it resolves as normal.",
     "Tengu": "\n●If you activate “Meteor of Destruction”, and an effect is chained that causes your opponent’s Life Points to fall below 3000, “Meteor of Destruction” was already activated properly, so it resolves as normal.",
     "Goat": "●If you activate “Meteor of Destruction”, and an effect is chained that causes your opponent’s LP to fall below 3000, “Meteor of Destruction” was already activated properly, so it resolves as normal.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If you activate \"Meteor of Destruction\", and an effect is chained that causes your opponent's Life Points to fall below 3000, \"Meteor of Destruction\" was already activated properly, so it resolves as normal."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

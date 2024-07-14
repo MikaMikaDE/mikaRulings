@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●You can Summon Moisture Creature by Tributing 2 monsters, but the effect won't be activated.\n●You can't Summon Moisture Creature by Tributing 3 monsters if there are no Spell or Trap Cards on your opponent’s side of the field.\n●If you activate the effect of Moisture Creature and your opponent chains Book of Moon to the effect, the effect still resolves and all Spell and Trap Cards on your opponent’s side of the field are destroyed.",
     "Tengu": "\n●You can Summon Moisture Creature by Tributing 2 monsters, but the effect will not be activated.\n●You cannot Summon Moisture Creature by Tributing 3 monsters if there are no Spell or Trap Cards on your opponent’s side of the field.\n●If you activate the effect of Moisture Creature and your opponent chains Book of Moon to the effect, the effect still resolves and all Spell and Trap Cards on your opponent’s side of the field are destroyed.",
     "Goat": "●You can Summon Moisture Creature by Tributing 2 monsters, but the effect will not be activated.\n●You cannot Summon Moisture Creature by Tributing 3 monsters if there are no Spell/Trap Cards on your opponent’s side of the field.\n●If you activate the effect of Moisture Creature and your opponent chains Book of Moon to the effect, the effect still resolves and all Spell/Trap Cards on your opponent’s side of the field are destroyed.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can Summon \"Moisture Creature\" by Tributing 2 monsters, but the effect will not be activated.\\n2. You cannot Summon \"Moisture Creature\" by Tributing 3 monsters if there are no Spell or Trap Cards on your opponent's side of the field.\\n3. If you activate the effect of \"Moisture Creature\" and your opponent chains \"Book of Moon\" to the effect, the effect still resolves and all Spell and Trap Cards on your opponent's side of the field are destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

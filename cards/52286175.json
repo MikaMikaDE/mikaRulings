@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●This effect chains to that card's activation. \n●This does not negate the effect of that Trap Card (but if a Continuous or Equip card is destroyed this way, its effects won't resolve).",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect does not negate the Trap Card's effect; it merely destroys the Trap Card.\\n2. This is a Trigger Effect that activates by chaining it to the activation of the Trap Card. It does not target.\\n3. This effect can be activated during the Damage Step.\\n4. If the Trap Card cannot be destroyed when this effect resolves (example: it was destroyed by another card effect already), then you do not inflict 800 damage to your opponent."
   },
   "PSCT": {
+    "Edison": "Once per turn, if your opponent activates a Trap Card (Quick): You can destroy that Trap Card, and if you do, inflict 800 damage to your opponent.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

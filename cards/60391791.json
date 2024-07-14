@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●You can't use Senri Eye's effect more than once during the same Standby Phase.\n●You can use the effect of Senri Eye if the top card on the Deck is face-up (due to Convulsion of Nature or Parasite Paracide), and in that case you don't hide the card from your opponent.",
     "Tengu": "\n●You cannot use Senri Eye's effect more than once during the same Standby Phase.\n●You can use the effect of Senri Eye if the top card on the Deck is face-up (due to Convulsion of Nature or Parasite Paracide), and in that case you don't hide the card from your opponent.",
     "Goat": "●You cannot use Senri Eye's effect more than once during the same SP.\n●You can use the effect of Senri Eye if the top card on the Deck is face-up (due to Convulsion of Nature or Parasite Paracide), and in that case you don't hide the card from your opponent.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot use the effect of \"Senri Eye\" more than once during the same Standby Phase.\\n2. You can use the effect of \"Senri Eye\" if the top card on the Deck is face-up (due to \"Convulsion of Nature\" or \"Parasite Paracide\"), and in that case you don't hide the card from your opponent."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

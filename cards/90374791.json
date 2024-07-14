@@ -7,6 +7,7 @@
     "race": "Equip"
   },
   "Rulings": {
+    "Edison": "Send 1 Equip Spell Card from your hand to the GY to activate this card. ●Sending 1 Equip Spell Card from your hand to the GY is a cost. You can't activate this card while Macro Cosmos is active, since you can't pay the cost.\n●The Trigger Effect is optional, it activates & resolves on the field.\n●This effect activates in Substep 7 - End of the Damage Step.\n●If the monster equipped with this card destroys a monster like “Sangan” or “Mystic Tomato”, its effect will form a chain with them according to the rules of simultaneous effects.\n●If the monster equipped with this card destroys a monster with equal ATK, then its effect won't activate, since “Armed Changer” is sent to the GY at the same time as the opponent’s monster.",
     "Tengu": "Send 1 Equip Spell Card from your hand to the GY to activate this card. (1) If the equipped monster destroys a monster by battle, the controller of this Equip Card can add 1 monster with ATK equal to or less than the equipped monster from their GY to their hand.\n●Sending 1 Equip Spell Card from your hand to the GY is a cost. You can't activate this card while Macro Cosmos is active, since you can't pay the cost.\n●The (1) Trigger-like Effect is optional, it activates & resolves on the field.\n●This effect activates in Substep 7 - End of the Damage Step.\n●If the monster equipped with this card destroys a monster like “Sangan” or “Mystic Tomato”, its effect will form a chain with them according to the rules of simultaneous effects.\n●If the monster equipped with this card destroys a monster with equal ATK, then its effect will not activate, since “Armed Changer” is sent to the GY at the same time as the opponent’s monster.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. The effect of \"Armed Changer\" activates when the destroyed monster is sent to the GY in the Damage Step. This effect can be chained to.\\n2. If the monster equipped with this card destroys a monster like \"Sangan\" or \"Mystic Tomato\", its effect will form a chain with them according to the rules of simultaneous effects (see Advanced Gameplay FAQ).\\n3. If the monster equipped with this card destroys a monster with equal ATK, then its effect will not activate, since \"Armed Changer\" is sent to the GY at the same time as the opponent's monster."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●This card does not target.\n●When Confusion Chaff resolves, the battle caused by Confusion Chaff proceeds directly to the Damage Step.\n●This card can't be activated when a single monster like “Hayabusa Knight”, etc., makes its second direct attack in the same Battle Phase.\n●If the first monster that attacked directly is face-down when “Confusion Chaff” resolves, it is flipped face-up and damage calculation is conducted normally.\n●If a monster’s attack becomes a direct attack due to a replay, it is still considered to be the first monster that attacked directly for “Confusion Chaff”.\n●If a monster declares a direct attack, but that attack is negated, it won't be considered the first monster that attacked directly that turn.\n●If your “Amazoness Swords Woman” declares the second direct attack during a Battle Phase, and “Confusion Chaff” is activated, your opponent will take any battle damage from that battle.",
     "Tengu": "\n●This card does not target.\n●When Confusion Chaff resolves, the battle caused by Confusion Chaff proceeds directly to the Damage Step.\n●This card cannot be activated when a single monster like “Hayabusa Knight”, etc., makes its second direct attack in the same Battle Phase.\n●If the first monster that attacked directly is face-down when “Confusion Chaff” resolves, it is flipped face-up and damage calculation is conducted normally.\n●If a monster’s attack becomes a direct attack due to a replay, it is still considered to be the first monster that attacked directly for “Confusion Chaff”.\n●If a monster declares a direct attack, but that attack is negated, it will not be considered the first monster that attacked directly that turn.\n●If your “Amazoness Swords Woman” declares the second direct attack during a Battle Phase, and “Confusion Chaff” is activated, your opponent will take any battle damage from that battle.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

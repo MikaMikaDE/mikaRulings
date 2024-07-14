@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can choose \"Blaze Accelerator\" or \"Tri-Blaze Accelerator\".\\n2. The effect of \"Volcanic Rocket\" does not target. You choose the card to add to your hand when it resolves."
   },
   "PSCT": {
+    "Edison": "① When Summoned: You can add 1 \"Blaze Accelerator\" card from your Deck/GY to your hand.",
     "Tengu": "① When Summoned: You can add 1 \"Blaze Accelerator\" card from your Deck/GY to your hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

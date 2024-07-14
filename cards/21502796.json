@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● You always send the top 3 cards of your Deck (or all, if less than 3) to the GY, even if you don't destroy a card on the field.\n● This effect targets.",
     "Tengu": "● You always send the top 3 cards of your Deck (or all, if less than 3) to the GY, even if you do not destroy a card on the field.\n● This effect targets.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● You always send the top 3 cards of your Deck (or all, if less than 3) to the GY, even if you do not destroy a card on the field.\n● This effect targets.",
@@ -27,6 +28,7 @@
     "Base": "1. You choose if you will destroy a card when the effect of \"Ryko, Lightsworn Hunter\" activates. If you choose to destroy a card, this effect targets the card to be destroyed.\\n2. You must send 3 cards from the top of your Deck to your GY even if you do not destroy a card with the effect of \"Ryko, Lightsworn Hunter\".\\n3. If you have 2 or fewer cards remaining in your Deck, they are sent to the GY.\\n4. If \"Peten the Dark Clown\" is destroyed by \"Ryko, Lightsworn Hunter\", its effect cannot be activated. If \"Peten the Dark Clown\" is sent from the top of the Deck to the GY by the effect of \"Ryko, Lightsworn Hunter\", its effect can be activated if there are no other effects remaining on the Chain."
   },
   "PSCT": {
+    "Edison": "① FLIP: You can target 1 card on the field; destroy that target (if any), then (regardless), send the top 3 cards of your Deck to the GY.",
     "Tengu": "① FLIP: You can target 1 card on the field;\ndestroy that target (if any), then (regardless), send the top 3 cards of your Deck to the GY.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

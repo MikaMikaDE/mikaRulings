@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●The Agent of Force - Mars is unaffected by Spell Cards just like Guardian Kay'est and The Legendary Fisherman.\n●Vs. Reverse Trap, The Agent of Force - Mars' ATK & DEF become zero but can't go below zero.\n●If The Agent of Force - Mars attacks Reflect Bounder, Reflect Bounder deals damage based on The Agent of Force - Mars' current ATK, so if it has 2000 ATK, then Reflect Bounder inflicts 2000 damage; then recalculate The Agent of Force - Mars' ATK before performing damage calculation.\n●When your face-down Defense Position The Agent of Force - Mars is attacked, its DEF is increased BEFORE damage calculation.",
     "Tengu": "\n●The Agent of Force - Mars is unaffected by Spell Cards just like Guardian Kay'est and The Legendary Fisherman.\n●Vs. Reverse Trap, The Agent of Force - Mars' ATK & DEF become zero but cannot go below zero.\n●If The Agent of Force - Mars attacks Reflect Bounder, Reflect Bounder deals damage based on The Agent of Force - Mars' current ATK, so if it has 2000 ATK, then Reflect Bounder inflicts 2000 damage; then recalculate The Agent of Force - Mars' ATK before performing damage calculation.\n●When your face-down Defense Position The Agent of Force - Mars is attacked, its DEF is increased BEFORE damage calculation.",
     "Goat": "●The Agent of Force - Mars is unaffected by Spell Cards just like Guardian Kay'est and The Legendary Fisherman.\n●Vs. Reverse Trap, The Agent of Force - Mars' ATK/DEF become zero but cannot go below zero.\n●If The Agent of Force - Mars attacks Reflect Bounder, Reflect Bounder deals damage based on The Agent of Force - Mars' current ATK, so if it has 2000 ATK, then Reflect Bounder inflicts 2000 damage; then recalculate The Agent of Force - Mars' ATK before performing damage calculation.\n●When your face-down Defense Position The Agent of Force - Mars is attacked, its DEF is increased BEFORE damage calculation.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"The Agent of Force - Mars\" is unaffected by Spell Cards just like \"Guardian Kay'est\" and \"The Legendary Fisherman\".\\n2. Vs. \"Reverse Trap\", the ATK & DEF of \"The Agent of Force - Mars\" become zero but cannot go below zero.\\n3. If \"The Agent of Force - Mars\" attacks \"Reflect Bounder\", \"Reflect Bounder\" deals damage based on the current ATK of \"The Agent of Force - Mars\", so if it has 2000 ATK, then \"Reflect Bounder\" inflicts 2000 damage; then recalculate the ATK of \"The Agent of Force - Mars\" before performing damage calculation.\\n4. When your face-down Defense Position \"The Agent of Force - Mars\" is attacked, its DEF is increased BEFORE damage calculation."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

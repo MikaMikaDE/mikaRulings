@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can't activate Ray of Hope if you don't have 2 LIGHT monsters in your GY.",
     "Tengu": "\n●You can't activate Ray of Hope if you don't have 2 LIGHT monsters in your GY.",
     "Goat": "●You can't activate Ray of Hope if you don't have 2 LIGHT monsters in your GY.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can't activate \"Ray of Hope\" if you don't have 2 LIGHT monsters in your GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

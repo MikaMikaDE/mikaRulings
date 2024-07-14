@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●The Ignition Effect activates & resolves on the field.\n●Paying 500 Life Points is a cost. Declare 1 card name at activation.\n●You can activate Archfiend's Oath while Convulsion of Nature is active.\n●If you have multiple copies of Archfiend's Oath, you can use all of them.",
     "Tengu": "(1) Once per turn you can pay 500 Life Points to declare 1 card name. Pick up the top card from your Deck and if the card name is the one you declared, add it to your hand. If not, send the card you picked up to the GY.\n●The (1) Ignition-like Effect activates & resolves on the field.\n●Paying 500 Life Points is a cost. Declare 1 card name at activation.\n●You can activate Archfiend's Oath while Convulsion of Nature is active.\n●If you have multiple copies of Archfiend's Oath, you can use all of them.",
     "Goat": "●You can activate Archfiend's Oath while Convulsion of Nature is applying.\n●If you have multiple copies of Archfiend's Oath, you can use all of them.\n●Archfiend’s Oath” is considered an Archfiend, but not an Archfiend monster, for the purpose of “Falling Down.”",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You can activate \"Archfiend's Oath\" while \"Convulsion of Nature\" is active.\\n2. If you have multiple copies of \"Archfiend's Oath\", you can use all of them."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● If you Tribute Summon using this card as tribute, you must still pay 1000 LP.\n● When resolving a card effect which summons from the hand, pay 1000 LP as it resolves.",
     "Tengu": "● If you Tribute Summon using this card as tribute, you must still pay 1000 LP.\n● When resolving a card effect which summons from the hand, pay 1000 LP as it resolves.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Queen of Thorns\" is a Continuous Effect.\\n2. If you Tribute a face-up \"Queen of Thorns\" to Tribute Summon a monster, you must pay 1000 Life Points.\\n3. If you Normal Summon a monster from your hand, or Special Summon a monster with an 'inherent' Special Summon effect (\"Cyber Dragon\", etc.), first you pay 1000 Life Points and then Normal Summon/Special Summon the monster. If you Special Summon a monster from your hand by using a card effect (\"Green Baboon, Defender of the Forest\", etc.), you pay 1000 Life Points when the effect resolves.\\n4. If you Special Summon \"Grinder Golem\", you only pay 1000 Life Points, because the 'Grinder Tokens' are not Special Summoned from your hand.\\n5. If there are 2 face-up \"Queen of Thorns\", players must pay 2000 Life Points to Normal or Special Summon a non-Plant-Type monster from their hand.\\n6. If \"Celestial Transformation\", etc., is activated by a player with less than 1000 Life Points and an effect is chained that Special Summons \"Queen of Thorns\", the effect of \"Celestial Transformation\" disappears because the player does not have enough Life Points to pay for the Special Summon."
   },
   "PSCT": {
+    "Edison": "1 Tuner + 1 or more non-Tuner Plants\n① Each player must pay 1000 LP to Normal/Special Summon monsters from the hand, except Plants.",
     "Tengu": "1 Tuner + 1 or more non-Tuner Plants\n① Each player must pay 1000 LP to Normal/Special Summon monsters from the hand, except Plants.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

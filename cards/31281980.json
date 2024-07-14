@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●Healing Wave Generator's effect targets 1 other monster you control.\n●If an effect is chained that removes the targeted monster from the field or flips it face-down, Healing Wave Generator's effect disappears.\n●If an effect is chained that shifts control of the targeted monster to your opponent, you will still gain Life Points.",
     "Tengu": "\n●Healing Wave Generator's effect targets 1 other monster you control.\n●If an effect is chained that removes the targeted monster from the field or flips it face-down, Healing Wave Generator's effect disappears.\n●If an effect is chained that shifts control of the targeted monster to your opponent, you will still gain Life Points.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Healing Wave Generator\" targets 1 other monster you control.\\n2. If an effect is chained that removes the targeted monster from the field or flips it face-down, the effect of \"Healing Wave Generator\" disappears.\\n3. If an effect is chained that shifts control of the targeted monster to your opponent, you will still gain Life Points."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

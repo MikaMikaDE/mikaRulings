@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The Continuous Effect applies while this card is face-upon the field.\n●Your opponent can't activate (play face-up) Quick-Play Spells.\n●The effects of Quick-Play Spell Cards that were activated earlier in the Chain are not negated.",
     "Tengu": "(1) While this card is face-up on the field, your opponent cannot activate Quick-Play Spell Cards.\n●The (1) Continuous Effect applies while this card is face-upon the field.\n●Your opponent cannot activate (play face-up) Quick-Play Spells.\n●The effects of Quick-Play Spell Cards that were activated earlier in the Chain are not negated.",
     "Goat": "●Invader of Darkness prevents the activation of Quick-Play Spell Cards, but doesn't negate their effects. So if your opponent activates a Quick-Play Spell Card and you chain Call of the Haunted to Special Summon Invader of Darkness, he does not negate the activation or effect of the Quick-Play Spell Card.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"Invader of Darkness\" prevents the activation of Quick-Play Spell Cards, but doesn't negate their effects. So if your opponent activates a Quick-Play Spell Card and you chain \"Call of the Haunted\" to Special Summon \"Invader of Darkness\", he does not negate the activation or effect of the Quick-Play Spell Card."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

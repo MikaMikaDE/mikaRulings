@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "● If you Normal Summon this card and want to activate its effect, you should clarify whether or not you are using the effect with Ignition Priority.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The top card of your Deck is removed from play when the effect of \"Dimensional Alchemist\" resolves."
   },
   "PSCT": {
+    "Edison": "① Once per turn: You can banish the top card of your Deck (face-up), and if you do, until the End Phase, this card gains 500 ATK.\n② When this card you control is destroyed and sent to your GY: \nYou can target 1 of your banished monsters; return it to your hand.",
     "Tengu": "① Once per turn: You can banish the top card of your Deck (face-up), and if you do, until the End Phase, this card gains 500 ATK.\n② When this card you control is destroyed and sent to your GY: \nYou can target 1 of your banished monsters; \nreturn it to your hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

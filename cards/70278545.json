@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You return cards to the Deck when you resolve the effect (it’s not a cost).\n●You can't activate “Pot of Generosity” if you have only 1 card in your hand besides “Pot of Generosity”.\n●If an effect is chained to “Pot of Generosity” so that you only have 1 or 0 cards in your hand, the effect of “Pot of Generosity” disappears. don't return cards to the Deck and don't shuffle.\n●You can chain “Serial Spell” to “Pot of Generosity”, but you will have no hand so both effects will disappear.",
     "Tengu": "\n●You return cards to the Deck when you resolve the effect (it’s not a cost).\n●You cannot activate “Pot of Generosity” if you have only 1 card in your hand besides “Pot of Generosity”.\n●If an effect is chained to “Pot of Generosity” so that you only have 1 or 0 cards in your hand, the effect of “Pot of Generosity” disappears. Do not return cards to the Deck and do not shuffle.\n●You can chain “Serial Spell” to “Pot of Generosity”, but you will have no hand so both effects will disappear.",
     "Goat": "●You return cards to the Deck when you resolve the effect (it’s not a cost).\n●You cannot activate “Pot of Generosity” if you have only 1 card in your hand besides “Pot of Generosity”.\n●If an effect is chained to “Pot of Generosity” so that you only have 1 or 0 cards in your hand, the effect of “Pot of Generosity” disappears. Do not return cards to the Deck and do not shuffle.\n●You can chain “Serial Spell” to “Pot of Generosity”, but you will have no hand so both effects will disappear.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You return cards to the Deck when you resolve the effect (it's not a cost).\\n2. You cannot activate \"Pot of Generosity\" if you have only 1 card in your hand besides \"Pot of Generosity\".\\n3. If an effect is chained to \"Pot of Generosity\" so that you only have 1 or 0 cards in your hand, the effect of \"Pot of Generosity\" disappears. Do not return cards to the Deck and do not shuffle.\\n4. You can chain \"Serial Spell\" to \"Pot of Generosity\", but you will have no hand so both effects will disappear."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

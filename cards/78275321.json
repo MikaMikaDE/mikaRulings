@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "●Sending the Special Summoned monster to the GY does not start a Chain.\n●The effect to Special Summon targets the monster you want to Special Summon.",
     "Tengu": "\n●Sending the Special Summoned monster to the GY does not start a Chain.\n●The effect to Special Summon targets the monster you want to Special Summon.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Sending the Special Summoned monster to the GY does not start a Chain.\\n2. The effect to Special Summon targets the monster you want to Special Summon."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

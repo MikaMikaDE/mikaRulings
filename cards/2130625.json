@@ -7,6 +7,7 @@
     "race": "Normal"
   },
   "Rulings": {
+    "Edison": "●You can't activate Numinous Healer when you pay a cost. You can only activate it when you receive Battle Damage or damage from an effect.",
     "Tengu": "\n●You cannot activate Numinous Healer when you pay a cost. You can only activate it when you receive Battle Damage or damage from an effect.",
     "Goat": "●Numinous Healer” may be activated in the Damage Step.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. You cannot activate \"Numinous Healer\" when you pay a cost. You can only activate it when you receive Battle Damage or damage from an effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

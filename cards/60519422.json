@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster won't be destroyed even if its DEF was lower than the attacking monster's ATK.\n●When Spear Dragon attacks a Defense Position monster with equal ATK to Spear Dragon, perform damage calculation normally even though the Defense Position monster is not destroyed.",
     "Tengu": "\n●If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\n●When Spear Dragon attacks a Defense Position monster with equal ATK to Spear Dragon, perform damage calculation normally even though the Defense Position monster is not destroyed.",
     "Goat": "●If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\n●When Spear Dragon attacks a Defense Position monster with equal ATK to Spear Dragon, perform damage calculation normally even though the Defense Position monster is not destroyed.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. If your monster in Defense Position is attacked by a monster with equal ATK to your monster's ATK, your Defense Position monster will not be destroyed even if its DEF was lower than the attacking monster's ATK.\\n2. When \"Spear Dragon\" attacks a Defense Position monster with equal ATK to \"Spear Dragon\", perform damage calculation normally even though the Defense Position monster is not destroyed."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

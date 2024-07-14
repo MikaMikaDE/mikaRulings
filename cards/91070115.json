@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "●While you control 2 copies of this card, a battling monster with 1 A-Counter will lose 600 ATK/DEF.",
     "Tengu": "●While you control 2 copies of this card, a battling monster with 1 A-Counter will lose 600 ATK/DEF.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "① Once per turn: You can remove 1 A-Counter from 1 monster your opponent controls, then target 1 Spell/Trap on the field; destroy it. \n② Monsters with A-Counters lose 300 ATK/DEF for each A-Counter on them, while battling an 'Alien' monster, during Damage Calculation only.",
     "Tengu": "① Once per turn: You can remove 1 A-Counter from 1 monster your opponent controls, then target 1 Spell/Trap on the field; destroy it. \n② Monsters with A-Counters lose 300 ATK/DEF for each A-Counter on them, while battling an 'Alien' monster, during Damage Calculation only.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

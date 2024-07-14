@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● If another card you control is targeted by \"Mystical Space Typhoon\":\nOn a new chain after MST has resolved, this card's ② effect activates.\nWhen that ② effect resolves, this card is destroyed.",
@@ -23,6 +24,7 @@
     "Base": "1. The self-destroying effect of this card activates when the card hits your GY. It starts a Chain.\\n2. While \"Imperial Custom\" is active, this card will not be destroyed by its own effect.\\n3. If your \"Mystic Tomato\" is attacked and destroyed while \"Vanity's Emptiness\" is active, you cannot activate the effect of \"Mystic Tomato\"."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

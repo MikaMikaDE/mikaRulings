@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "No rulings currently available.",
     "Tengu": "No rulings currently available.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This effect targets 1 \"X-Saber monster in your GY.\\n2. You can select \"XX-Saber\" monsters with this effect because they are also \"X-Saber\" monsters."
   },
   "PSCT": {
+    "Edison": "① When Normal/Special Summoned: You can target 1 \"X-Saber\" monster in your GY; add it to your hand.",
     "Tengu": "① When Normal/Special Summoned: You can target 1 \"X-Saber\" monster in your GY;\nadd it to your hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

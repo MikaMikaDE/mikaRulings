@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If Mist Archfiend is not in play in the End Phase, or when its effect resolves, its controller won't take 1000 damage.\n●If this card is turned face-down by Book of Moon, etc. Chained to its effect, it will still be destroyed and its controller will take 1000 damage.\n●The effect of Pandemonium can be activated when Mist Archfiend is destroyed by its own effect.\n●If Mist Archfiend is Normal Summoned without Tribute, and control of it shifts to the opponent, its current controller will take the damage when its effect resolves during the End Phase.",
     "Tengu": "\n●If Mist Archfiend is not in play in the End Phase, or when its effect resolves, its controller will not take 1000 damage.\n●If this card is turned face-down by Book of Moon, etc. Chained to its effect, it will still be destroyed and its controller will take 1000 damage.\n●The effect of Pandemonium can be activated when Mist Archfiend is destroyed by its own effect.\n●If Mist Archfiend is Normal Summoned without Tribute, and control of it shifts to the opponent, its current controller will take the damage when its effect resolves during the End Phase.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Mist Archfiend\" is not in play in the End Phase, or when its effect resolves, its controller will not take 1000 damage.\\n2. If this card is turned face-down by \"Book of Moon\", etc. Chained to its effect, it will still be destroyed and its controller will take 1000 damage.\\n3. The effect of \"Pandemonium\" can be activated when \"Mist Archfiend\" is destroyed by its own effect.\\n4. If \"Mist Archfiend\" is Normal Summoned without Tribute, and control of it shifts to the opponent, its current controller will take the damage when its effect resolves during the End Phase."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

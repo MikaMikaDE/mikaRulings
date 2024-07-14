@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. This is a Trigger Effect. It does not target.\\n2. If you Summon a monster like \"Exiled Force\" that has an effect that activates on the field and then activate its effect, it will still be negated. If you Summon a monster like \"Sangan\" with an effect that activates in the GY, it will not be negated.\\n3. This card looks at the ATK of the destroyed monster during damage calculation. If a monster with an original ATK of 0 is destroyed by battle with \"Reptilianne Scylla\" while its ATK is increased by another effect, you cannot Special Summon it. If a monster whose ATK is being reduced to 0 by an effect like \"Twin Swords of Flashing Light - Tryce\" is destroyed by battle with \"Reptilianne Scylla\" you can Special Summon it."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●The Level of “Greed Quasar” increases at the same timing that monsters destroyed by battle are sent to the GY.\n●This card can't be searched from the Deck by cards like “Sangan” that search based on ATK/DEF. If “Greed Quasar” is flipped face-down, its effect is reset and any increased Levels are lost. If “Skill Drain” is activated, “Greed Quasar” loses any extra Levels it has. Even if “Skill Drain” is destroyed, the extra Levels remain lost.",
     "Tengu": "\n●The Level of “Greed Quasar” increases at the same timing that monsters destroyed by battle are sent to the GY.\n●This card cannot be searched from the Deck by cards like “Sangan” that search based on ATK/DEF. If “Greed Quasar” is flipped face-down, its effect is reset and any increased Levels are lost. If “Skill Drain” is activated, “Greed Quasar” loses any extra Levels it has. Even if “Skill Drain” is destroyed, the extra Levels remain lost.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The Level of \"Greed Quasar\" increases at the same timing that monsters destroyed by battle are sent to the GY.\\n2. This card cannot be searched from the Deck by cards like \"Sangan\" that search based on ATK/DEF.\\n3. If \"Greed Quasar\" is flipped face-down, its effect is reset and any increased Levels are lost.\\n4. If \"Skill Drain\" is activated, \"Greed Quasar\" loses any extra Levels it has. Even if \"Skill Drain\" is destroyed, the extra Levels remain lost."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

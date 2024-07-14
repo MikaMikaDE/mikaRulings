@@ -7,6 +7,7 @@
     "race": "Field"
   },
   "Rulings": {
+    "Edison": "●The Continuous Effect does not activate.\n●This effect applies if you have a face-up Spellcaster-Type monster and your opponent does not.\n●Your opponent can still Set Spell Cards face-down, but they can't be activated (played face-up).\n●Your opponent can stil activate the effects of Spell Cards (ex: Magical Blast, Call of the Mummy).\n●The Continuous Effect does not activate.\n●This effect applies if you don't control a face-up Spellcaster-Type monster.\n●You can still Set Spell Cards face-down, but they can't be activated (played face-up).\n●You can still activate the effects of Spell Cards (ex: Magical Blast, Call of the Mummy).",
     "Tengu": "(1) If you control a Spellcaster-Type monster and your opponent does not, your opponent cannot activate Spell Cards. (2) If you control no Spellcaster-Type monsters, you cannot activate Spell Cards.\n●The (1) Continuous-like Effect does not activate.\n●This effect applies if you have a face-up Spellcaster-Type monster and your opponent does not.\n●Your opponent can still Set Spell Cards face-down, but they cannot be activated (played face-up).\n●Your opponent can stil activate the effects of Spell Cards (ex: Magical Blast, Call of the Mummy).\n●The (2) Continuous-like Effect does not activate.\n●This effect applies if you do not control a face-up Spellcaster-Type monster.\n●You can still Set Spell Cards face-down, but they cannot be activated (played face-up).\n●You can still activate the effects of Spell Cards (ex: Magical Blast, Call of the Mummy).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Spell Cards can still be Set while \"Secret Village of the Spellcasters\" is face-up on the field.\\n2. The effects of Continuous Spell Cards that were face-up on the field before \"Secret Village of the Spellcasters\" resolved can still be activated."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

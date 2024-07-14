@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●Zero damage is not damage, so Mucus Yolk must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\n●Mucus Yolk can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\n●If Mucus Yolk inflicts damage multiple times in the same turn, such as with Twin Swords of Flashing Light – Tryce, it only increases by 1000 points during your next Standby Phase.",
     "Tengu": "\n●Zero damage is not damage, so Mucus Yolk must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\n●Mucus Yolk can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\n●If Mucus Yolk inflicts damage multiple times in the same turn, such as with Twin Swords of Flashing Light – Tryce, it only increases by 1000 points during your next Standby Phase.",
     "Goat": "●Zero damage is not damage, so Mucus Yolk must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\n●Mucus Yolk can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\n●If Mucus Yolk inflicts damage multiple times in the same turn, such as with Twin Swords of Flashing Light – Tryce, it only increases by 1000 points during your next SP.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Zero damage is not damage, so \"Mucus Yolk\" must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.\\n2. \"Mucus Yolk\" can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.\\n3. If \"Mucus Yolk\" inflicts damage multiple times in the same turn, such as with \"Twin Swords of Flashing Light - Tryce\", it only increases by 1000 points during your next Standby Phase."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

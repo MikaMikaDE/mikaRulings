@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●You can activate this effect even if “Bad Reaction to Simochi” is face-up on the field.\n●You can activate this effect even if “Kuribon” was attacked while face-down.\n●When you use this effect, damage calculation is still conducted and “Kuribon” is considered to be destroyed by battle, so you can activate cards like “Byroad Sacrifice.”\n●You can activate this effect when “Kuribon” is attacked by “Dark Ruler Ha Des.” “Dark Ruler Ha Des” won't negate the effect because it is activated before “Kuribon” would be destroyed.\n●If you can't take Battle Damage because of the effect of “Waboku” or “Tornado Wall” you can't activate the effect of “Kuribon.”",
     "Tengu": "\n●You can activate this effect even if “Bad Reaction to Simochi” is face-up on the field.\n●You can activate this effect even if “Kuribon” was attacked while face-down.\n●When you use this effect, damage calculation is still conducted and “Kuribon” is considered to be destroyed by battle, so you can activate cards like “Byroad Sacrifice.”\n●You can activate this effect when “Kuribon” is attacked by “Dark Ruler Ha Des.” “Dark Ruler Ha Des” will not negate the effect because it is activated before “Kuribon” would be destroyed.\n●If you cannot take Battle Damage because of the effect of “Waboku” or “Tornado Wall” you cannot activate the effect of “Kuribon.”",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You can activate this effect even if \"Bad Reaction to Simochi\" is face-up on the field.\\n2. You can activate this effect even if \"Kuribon\" was attacked while face-down.\\n3. When you use this effect, damage calculation is still conducted and \"Kuribon\" is considered to be destroyed by battle, so you can activate cards like \"Byroad Sacrifice\".\\n4. You can activate this effect when \"Kuribon\" is attacked by \"Dark Ruler Ha Des\" will not negate the effect because it is activated before \"Kuribon\" would be destroyed.\\n5. If you cannot take Battle Damage because of the effect of \"Waboku\" or \"Tornado Wall\" you cannot activate the effect of \"Kuribon\"."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

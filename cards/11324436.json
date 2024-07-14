@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●If the summoning of Electric Snake is negated by Solemn Judgment, etc. its effect is not activated, as it is not considered to have gone directly from your hand to the GY.",
     "Tengu": "\n●If the summoning of Electric Snake is negated by Solemn Judgment, etc. its effect is not activated, as it is not considered to have gone directly from your hand to the GY.",
     "Goat": "●If the summoning of Electric Snake is negated by Solemn Judgment, etc. its effect is not activated, as it is not considered to have gone directly from your hand to the GY.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If the summoning of \"Electric Snake\" is negated by \"Solemn Judgment\", etc. its effect is not activated, as it is not considered to have gone directly from your hand to the GY."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

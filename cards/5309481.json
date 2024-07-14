@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● This negation is permanent, until the destroyed monster leaves the GY.",
     "Tengu": "● This negation is permanent, until the destroyed monster leaves the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Revived King Ha Des\" or another Zombie-Type monster you control destroys \"Sangan\", \"Cockroach Knight\", \"Peten the Dark Clown\", \"Mezuki\", or \"Vennominaga the Deity of Poisonous Snakes\" by battle, when their effects are activated they will be negated.\\n2. If \"Zoma the Spirit\" is destroyed by battle with a Zombie-Type monster you control, its effect that inflicts damage is negated.\\n3. If a Zombie-Type monster you control destroys a Flip Effect monster by battle, the Flip Effect monster's Flip Effect is negated.\\n4. If a Zombie-Type monster you control destroys \"Treeborn Frog\" or \"Sinister Serpent\", the effect of \"Treeborn Frog\" or \"Sinister Serpent\" is negated even if \"Revived King Ha Des\" is later removed from the field."
   },
   "PSCT": {
+    "Edison": "Plaguespreader Zombie\" + \n1 or more non-Tuner Zombies \n① Negate the effects of Effect Monsters destroyed by battle with Zombies you control (including Flips and in the GY).",
     "Tengu": "Plaguespreader Zombie\" + \n1 or more non-Tuner Zombies \n① Negate the effects of Effect Monsters destroyed by battle with Zombies you control (including Flips and in the GY).",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

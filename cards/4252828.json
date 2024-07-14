@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "● If both this card and its equipped monster would be destroyed at the same time, you can't use the ③ effect to prevent its destruction.",
     "Tengu": "● If both this card and its equipped monster would be destroyed at the same time, you can't use the ③ effect to prevent its destruction.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. The effect of \"Mermaid Archer\" to equip itself targets the Level 3 or lower monster you control.\\n2. If \"Imperial Order\" or \"Spell Canceller\" are active, \"Mermaid Archer\" still gains the 800 ATK from a monster equipped to it.\\n3. If \"Mermaid Archer\" and the monster equipped to it would be destroyed at the same time (by \"Judgment Dragon\", for example), you cannot destroy the equipped monster to save \"Mermaid Archer\".\\n4. Only monsters equipped to \"Mermaid Archer\" by the effect of \"Mermaid Archer\" can be destroyed instead of \"Mermaid Archer\".\\n5. If \"Mermaid Archer\" is equipped with a monster by its own effect, and also equipped with \"Metallizing Parasite - Lunatite\" at the same time, and it would be destroyed, \"Metallizing Parasite - Lunatite\" automatically destroys itself with its effect, so you cannot choose to destroy the other monster equipped to \"Mermaid Archer\"."
   },
   "PSCT": {
+    "Edison": "① Once per turn: You can target 1 face-up Level 3 or lower monster you control; equip that target to this card (Max.1). \n② Gains 800 ATK while equipped by this effect.\n③ If this card would be destroyed, you can destroy the monster equipped to it with this effect, instead.",
     "Tengu": "① Once per turn: You can target 1 face-up Level 3 or lower monster you control; \nequip that target to this card (Max.1). \n② Gains 800 ATK while equipped by this effect.\n③ If this card would be destroyed, you can destroy the monster equipped to it with this effect, instead.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

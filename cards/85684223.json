@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "● Your opponent can chain \"Gorz the Emissary of Darkness\" or \"Tragoedia\" to the ④ effect. \nThis effect resolves (and the random card is chosen) after the Gorz/Tragoedia is Summoned.\n● This must be face-up after the targeting card resolves in order to be destroyed.\n(If the targeting card’s activation is negated, this card is not destroyed).\n(If the targeting card’s effect is negated, this card is still destroyed).\n● This card will be destroyed by its ② effect even if targeted by a continuous effect.\n(Such as an Equip Spell Card, or by “Call of the Haunted”).",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
+    "Edison": "\"Spirit Reaper\" + \"Nightmare Horse\"\n① Cannot be destroyed by battle. \n② After resolving an effect that targets this face-up card on the field, destroy this card. \n③ Can attack directly.\n④ If this card inflicts Direct Battle Damage: Your opponent discards 1 random card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

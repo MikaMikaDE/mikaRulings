@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters",
     "Tengu": "When equipping to a monster:\n● If the target is not a Machine, or is flipped face-down or leaves the field, \nthis card is destroyed.\n\nWhile equipped to a monster:\n● If the equipped monster is flipped face-down or leaves the field, this card is destroyed at the exact same time (by game mechanics).\n● This card is treated as an Equip Spell (and not a monster).\n\nWhen Summoning this equipped card:\n● If there is no empty Monster Zone when this effect resolves,\nthis card is sent to the GY.\n● If the equipped monster is flipped face-down or leaves the field, this card is destroyed at the exact same time (by game mechanics).",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Equipping this card is an Ignition Effect of a monster. Special Summoning this Equipped Card is considered the effect of a Spell Card.\\n2. You can add a Union Monster to your hand with the effect of \"Machina Peacekeeper\" even during the Damage Step."
   },
   "PSCT": {
+    "Edison": "① When this card on the field is destroyed and sent to the GY: You can add 1 Union monster from your Deck to your hand. \n② Once per turn, you can either: \n● Target 1 Machine you control; equip this card to that target, OR: \n● Unequip and Special Summon this card in Attack Position. \n③ If the equipped monster would be destroyed, destroy this card instead.\n④ A monster can only be equipped with 1 Union Monster at a time.",
     "Tengu": "① When this card on the field is destroyed and sent to the GY: You can add 1 Union monster from your Deck to your hand. \n② Once per turn, you can either: \n● Target 1 Machine you control; equip this card to that target, OR: \n● Unequip and Special Summon this card. \n③ If the equipped monster would be destroyed, destroy this card instead.\n④ A monster can only be equipped with 1 Union Monster at a time.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

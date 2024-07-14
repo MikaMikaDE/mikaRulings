@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●When Destiny Hero - Departed is sent to the GY to pay a cost, it is not removed from play.\n●Destiny Hero - Departed's first effect is a Trigger Effect. It is not optional.\n●Destiny Hero - Departed's effect is not activated while King Tiger Wanghu is face-up on the field because an infinite loop would result. If Destiny Hero - Departed's ATK would become greater than 1400 when Special Summoned, because of another card's effect, it is Special Summoned.",
     "Tengu": "\n●When Destiny Hero - Departed is sent to the GY to pay a cost, it is not removed from play.\n●Destiny Hero - Departed's first effect is a Trigger Effect. It is not optional.\n●Destiny Hero - Departed's effect is not activated while King Tiger Wanghu is face-up on the field because an infinite loop would result. If Destiny Hero - Departed's ATK would become greater than 1400 when Special Summoned, because of another card's effect, it is Special Summoned.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. When \"Destiny HERO - Departed\" is sent to the GY to pay a cost, it is not removed from play.\\n2. The first effect of \"Destiny HERO - Departed\" is a Trigger Effect. It is not optional.\\n3. The effect of \"Destiny HERO - Departed\" is not activated while \"King Tiger Wanghu\" is face-up on the field because an infinite loop would result. If the ATK of \"Destiny HERO - Departed\" would become greater than 1400 when Special Summoned, because of another card's effect, it is Special Summoned."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

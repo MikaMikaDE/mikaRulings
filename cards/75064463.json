@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "●If Skill Drain is active on the field, while Harpie Queen is on the field its name won't be treated as Harpie Lady.\n●If “Prohibition” is activated choosing “Harpie Lady”, “Harpie Queen” won't have its name treated as “Harpie Lady” and can still attack and change its battle position.",
     "Tengu": "\n●If Skill Drain is active on the field, while Harpie Queen is on the field its name will not be treated as Harpie Lady.\n●If “Prohibition” is activated choosing “Harpie Lady”, “Harpie Queen” will not have its name treated as “Harpie Lady” and can still attack and change its battle position.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. If \"Skill Drain\" is active on the field, while \"Harpie Queen\" is on the field its name will not be treated as \"Harpie Lady\".\\n2. If \"Prohibition\" is activated choosing \"Harpie Lady\", \"Harpie Queen\" will not have its name treated as \"Harpie Lady\" and can still attack and change its battle position."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

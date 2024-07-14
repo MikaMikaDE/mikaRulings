@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●You select the Spell Card at activation of The Kick Man's effect, so your opponent can chain Disappear or Graverobber and remove the card you want to equip to him.",
     "Tengu": "\n●You select the Spell Card at activation of The Kick Man's effect, so your opponent can chain Disappear or Graverobber and remove the card you want to equip to him.",
     "Goat": "●You select the Spell Card at activation of The Kick Man's effect, so your opponent can chain Disappear or Graverobber and remove the card you want to equip to him.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You select the Spell Card at activation of the effect of \"The Kick Man\", so your opponent can chain \"Disappear\" or \"Graverobber\" and remove the card you want to equip to him."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
+    "Edison": "● The only way you can Special Summon this card is via its own procedure.\nEven if it was initially summoned that way, you still can't summon it with card effects.\n● If this card's effects become negated, or if it is flipped face-down, its ATK becomes 0.",
     "Tengu": "● The only way you can Special Summon this card is via its own procedure.\nEven if it was initially summoned that way, you still can't summon it with card effects.\n● If this card's effects become negated, or if it is flipped face-down, its ATK becomes 0.",
     "Goat": "●You must remove from play at least 1 Rock monster in your GY in order to Special Summon “Megarock Dragon”.\n●The original ATK of “Megarock Dragon” is determined by its effect. This is further doubled/halved by “Megamorph” and other effects that are based off of original ATK. So if you Special Summon “Megarock Dragon” with an original ATK ofAlso need to delete the netrep ruling of Twin-Headed Behemoth, as this was outdated by goat format and has been deleted from goatformat.com to reflect this. 2100 points, then equip it with “Megamorph”, its ATK will be 4200 or 1050 depending on your LP.\n●If “Skill Drain” is applying while “Megarock Dragon” is in play, the effect of “Megarock Dragon” is negated and its original ATK/DEF are treated as zero. Even if “Skill Drain” is destroyed later, the original ATK/DEF of “Megarock Dragon” will remain zero.\n●If “Megarock Dragon” is Set, or removed from play, or sent to the GY, its effect is wiped and its original ATK/DEF are zero.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. You must remove from play at least 1 Rock-Type monster in your GY in order to Special Summon \"Megarock Dragon\".\\n2. If you Special Summon \"Mega-Rock Dragon\" with an original ATK of 2100 points, and you equip it with \"Megamorph\", its current ATK will become 4200 or 1050 depending on your Life Points.\\n3. If \"Skill Drain\" is active while \"Megarock Dragon\" is in play, the effect of \"Megarock Dragon\" is negated and its original ATK and DEF are treated as zero. Even if \"Skill Drain\" is destroyed later, the original ATK and DEF of \"Megarock Dragon\" will remain zero.\\n4. If \"Megarock Dragon\" is flipped face-down, or removed from play, or sent to the GY, its effect is wiped and its original ATK and DEF are zero."
   },
   "PSCT": {
+    "Edison": "© Cannot be Normal Summoned/Set. \n© Must be Special Summoned (from your hand) by banishing any number of Rocks from your GY (min.1).\n① The original ATK/DEF of this card is the number of Rocks banished for its Summon x700.",
     "Tengu": "© Can't be Normal Summoned/Set. \n© Must be Special Summoned (from your hand) by banishing any number of Rocks from your GY (min.1).\n① The original ATK/DEF of this card is the number of Rocks banished for its Summon x700.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

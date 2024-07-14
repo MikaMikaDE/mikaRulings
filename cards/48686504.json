@@ -11,6 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
+    "Edison": "● If this card tributes itself, it won't be negated by \"Skill Drain\".\n● When this card is Summoned during its controller's turn, its effect can be activated with ignition priority.",
     "Tengu": "● If this card tributes itself, it won't be negated by \"Skill Drain\".\n● When this card is Summoned during its controller's turn, its effect can be activated with ignition priority.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"Lonefire Blossom\" can be Tributed to activate its own effect."
   },
   "PSCT": {
+    "Edison": "① Once per turn: You can Tribute 1 face-up Plant; Special Summon 1 Plant from your Deck.",
     "Tengu": "① Once per turn: You can Tribute 1 face-up Plant; Special Summon 1 Plant from your Deck.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

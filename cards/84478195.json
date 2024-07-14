@@ -11,6 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
+    "Edison": "●If this card is destroyed by battle, the ② stops applying in Substep 6.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. These rulings apply for all 6 \"Barrier Statue\" monsters.\\n2. Barrier Statues will even prevent monsters from being Special Summoned face-down if they have the \"barred\" Attribute (an Attribute that the Barrier Statue is preventing from being Special Summoned).\\n3. Effects like \"Giant Rat\" and \"Mystic Tomato\" cannot be used while a Barrier Statue is in play if they would Special Summon a monster with a barred Attribute.\\n4. You can activate \"Reasoning\" while a Barrier Statue is in play. But you cannot Special Summon the barred monster Attribute. If you pick up a monster with that Attribute, it cannot be Special Summoned and is sent to the GY. (And the effect of \"Reasoning\" ends.)\\n5. You cannot activate \"The Shallow Grave\" while a Barrier Statue is in play if the only monsters in the opponent's GY are barred monsters.\\n6. You cannot activate \"Future Fusion\" or the effect of \"Cyber-Stein\" while a Barrier Statue is in play if the only Fusion Monsters in your Extra Deck have barred Attributes.\\n7. Effects that Special Summon, like \"Jam Breeding Machine\", will activate while a Barrier Statue is in play, but if they would Special Summon a monster with a barred Attribute, no monster will be Special Summoned.\\n8. You cannot activate \"Magical Hats\" while a Barrier Statue is in play.\\n9. You cannot activate \"Overload Fusion\" while a Barrier Statue is in play (unless it is \"Barrier Statue of the Abyss\").\\n10. Note that effects like \"DNA Transplant\" change monster Attributes only after they are on the field. So it has no impact on what monsters can be Special Summoned while a Barrier Statue is in play."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. All of this card's effects happen as part of 1 Chain Link.\\n2. Drawing the first card and drawing the second card, if applicable, do not happen at the same time.\\n3. If you draw a Level 1 monster and draw a second card as a result, you cannot draw any more even if the second card you drew was also a Level 1 monster.\\n4. You can never activate the effect of \"Mystic Piper\" more than once per turn, even if you Summon a new \"Mystic Piper\" and change its name using \"Hero Mask\".\\n5. You cannot use \"Drastic Drop Off\" after the effect of \"Mystic Piper\" resolves.\\n6. You can draw a second card with the effect of \"Mystic Piper\" even if the Level 1 monster you draw will be destroyed by \"Deck Devastation Virus\" after the effect of \"Mystic Piper\" resolves.\\n7. Drawing 2 cards with \"Mystic Piper\" is considered drawing cards twice, so if you control \"Solemn Wishes\" you will gain 1000 Life Points, not 500.\\n8. You can activate the effect of \"Mystic Piper\" if you have only 1 card left in your Deck. If it is a Level 1 monster, you are forced to draw again and will lose the Duel.\\n9. If \"Cost Down\" is being applied and you draw a Level 3 or lower monster with the effect of \"Mystic Piper\", that monster is considered Level 1 so you can draw 1 more card.\\n10. You cannot use \"Null and Void\" against the effect of \"Mystic Piper\"."
   },
   "PSCT": {
+    "Edison": "No rulings available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

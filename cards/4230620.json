@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Psi-Station targets the Normal Summoned Psychic-Type monster.\n●After resolving Psi-Station's effect, if Psi-Station is removed from the field any monster it had affected keeps the 300 ATK increase and increased Level.",
     "Tengu": "\n●Psi-Station targets the Normal Summoned Psychic-Type monster.\n●After resolving Psi-Station's effect, if Psi-Station is removed from the field any monster it had affected keeps the 300 ATK increase and increased Level.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. \"Psi-Station\" targets the Normal Summoned Psychic-Type monster.\\n2. After resolving the effect of \"Psi-Station\", if \"Psi-Station\" is removed from the field any monster it had affected keeps the 300 ATK increase and increased Level."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

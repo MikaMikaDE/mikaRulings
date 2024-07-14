@@ -11,6 +11,7 @@
     "attribute": "WATER"
   },
   "Rulings": {
+    "Edison": "●Paying 800 Life Points is a cost. If you have no open Monster Card Zones when this effect resolves, you can't Special Summon a monster from your Deck and your opponent can't check your Deck.",
     "Tengu": "\n●Paying 800 Life Points is a cost. If you have no open Monster Card Zones when this effect resolves, you cannot Special Summon a monster from your Deck and your opponent cannot check your Deck.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Paying 800 Life Points is a cost.\\n2. If you have no open Monster Card Zones when this effect resolves, you cannot Special Summon a monster from your Deck and your opponent cannot check your Deck."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

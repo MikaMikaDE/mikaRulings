@@ -7,6 +7,7 @@
     "race": "Continuous"
   },
   "Rulings": {
+    "Edison": "●Sending every card in your hand to the GY is a cost to activate Spell Chronicle. The 5 Spell or Trap Cards are removed from play when Spell Chronicle resolves.\n●Spell Chronicle can't be activated when you have a combined total of 4 or less Spell and Trap Cards remaining in your Deck.\n●The Spell and Trap Cards are removed from play face-up.\n●Placing 1 Chronicle Counter onto Spell Chronicle does not start a Chain.\n●The damage inflicted by Spell Chronicle does not start a Chain.\n●Adding 1 of the removed from play Spell or Trap Cards to your hand does not target the card to be added to your hand.\n●When you activate Spell Chronicle, it does not gain a Chronicle Counter if a Quick-Play Spell Card is chained to its activation.",
     "Tengu": "\n●Sending every card in your hand to the GY is a cost to activate Spell Chronicle. The 5 Spell or Trap Cards are removed from play when Spell Chronicle resolves.\n●Spell Chronicle cannot be activated when you have a combined total of 4 or less Spell and Trap Cards remaining in your Deck.\n●The Spell and Trap Cards are removed from play face-up.\n●Placing 1 Chronicle Counter onto Spell Chronicle does not start a Chain.\n●The damage inflicted by Spell Chronicle does not start a Chain.\n●Adding 1 of the removed from play Spell or Trap Cards to your hand does not target the card to be added to your hand.\n●When you activate Spell Chronicle, it does not gain a Chronicle Counter if a Quick-Play Spell Card is chained to its activation.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -23,6 +24,7 @@
     "Base": "1. Sending every card in your hand to the GY is a cost to activate \"Spell Chronicle\". The 5 Spell or Trap Cards are removed from play when \"Spell Chronicle\" resolves.\\n2. \"Spell Chronicle\" cannot be activated when you have a combined total of 4 or less Spell and Trap Cards remaining in your Deck.\\n3. The Spell and Trap Cards are removed from play face-up.\\n4. Placing 1 Chronicle Counter onto \"Spell Chronicle\" does not start a Chain.\\n5. The damage inflicted by \"Spell Chronicle\" does not start a Chain.\\n6. Adding 1 of the removed from play Spell or Trap Cards to your hand does not target the card to be added to your hand.\\n7. When you activate \"Spell Chronicle\", it does not gain a Chronicle Counter if a Quick-Play Spell Card is chained to its activation."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

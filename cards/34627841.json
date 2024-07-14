@@ -11,6 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
+    "Edison": "●Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect.",
     "Tengu": "\n●Ignition Effects on monsters cannot be activated while the Effect Monster is face-down. So this face-down monster cannot be Tributed for its own effect.",
     "Goat": "●Ignition Effects on monsters cannot be activated while the Effect Monster is face-down. So this face-down monster cannot be Tributed for its own effect.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. Ignition Effects on monsters cannot be activated while the Effect Monster is face-down. So this face-down monster cannot be Tributed for its own effect."
   },
   "PSCT": {
+    "Edison": "No Edison-Accurate PSCT available for this card.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",

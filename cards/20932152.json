@@ -11,6 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
+    "Edison": "● The ① effect is an ignition effect. It activates, and can be chained to.\n● Sending a card to the GY is part of the ① effect. It happens when this effect resolves. \nIf you can't send, you can't Summon. If you can't Summon, you don't send.\n(If the effect is negated, you don't send a card from your hand to the GY)",
     "Tengu": "● Summoning this card with its Ⓢ is not an activated effect.\n● Even if this card's effects are negated, its Ⓒ restrictions still apply.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -27,6 +28,7 @@
     "Base": "1. \"You can substitute this card for any 1 \"Synchron\" Tuner for a Synchro Summon\" is not an effect. It will not be negated by \"Skill Drain\".\\n2. \"This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a monster that lists a \"Synchron\" monster as a Tuner\" is not an effect. It will not be negated by \"Skill Drain\"."
   },
   "PSCT": {
+    "Edison": "① During your Main Phase: You can send 1 other monster from your hand to the GY, and Special Summon this card from your hand.\nⒸ For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. \nⒸ can't be used as a Synchro Material, except for a monster that lists a \"Synchron\" Tuner as material.",
     "Tengu": "Ⓢ You can Special Summon this card (from you hand) by sending 1 other monster from your hand to the GY.\nⒸ For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. \nⒸ Cannot be used as a Synchro Material, except for a monster that lists a \"Synchron\" Tuner as material.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
