@@ -11,7 +11,7 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "● This effect has no cost (This is an erratum).",
+    "Edison": "● This effect has no cost (This is an erratum).\n● It will resolve without effect if \"Elemental HERO Prisma\" is not face-up on the field when it resolves. No monster will not be sent from the deck to the GY.\n● It can be activated while the effects of \"Macro Cosmos\" or \"Dimensional Fissure\" are applying. The sent monster will be banished.\n● If after resolving this effect, the effects of \"Elemental HERO Prisma\" are negated (e.g. by \"Skill Drain\" or \"Forbidden Chalice\"), it keeps the name of the sent monster.",
     "Tengu": "● Sending is a cost to activate this effect.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
