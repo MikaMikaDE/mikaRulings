@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "● When you activate this effect, you must declare which effect you are using.\n● You can't choose the destroy effect if you control no other HERO monsters.\n\nIf you choose the destroy effect: \n● Starlight Road can't be chained. \n● Stardust Dragon's effect can't be chained.\n● You can choose to destroy 0 cards when resolving this effect (yes this is weird).",
-    "Tengu": "● When you activate this effect, you must declare which effect you are using.\n● You can't choose the destroy effect if you control no other HERO monsters.\n\nIf you choose the destroy effect: \n● Starlight Road can't be chained. \n● Stardust Dragon's effect can't be chained.\n● You can choose to destroy 0 cards when resolving this effect (yes this is weird).",
+    "Edison": "● When you activate this effect, you must declare which effect you are using.\n● You can't choose the destroy effect if you control no other HERO monsters.\n\nIf you choose the destroy effect: \n● You can choose to destroy 0 cards when resolving this effect (yes this is weird).\n● Starlight Road can't be chained. \n● Stardust Dragon's effect can't be chained.",
+    "Tengu": "● When you activate this effect, you must declare which effect you are using.\n● You can't choose the destroy effect if you control no other HERO monsters.\n\nIf you choose the destroy effect:\n● You can choose to destroy 0 cards when resolving this effect (yes this is weird). \n● Starlight Road can't be chained. \n● Stardust Dragon's effect can't be chained.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -28,8 +28,8 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
-    "Edison": "① When this card is Normal or Special Summoned: You can choose 1; ● Destroy Spell/Traps on the field, up to the number of other face-up \"HERO\" monsters you control. \n● Add 1 \"HERO\" monster from your Deck to your hand.",
-    "Tengu": "① When this card is Normal or Special Summoned: You can choose 1; \n● Destroy Spell/Traps on the field, up to the number of \"HERO\" monsters you control. \n● Add 1 \"HERO\" monster from your Deck to your hand.",
+    "Edison": "① When this card is Normal or Special Summoned: You can choose 1 effect;\n ● You can Destroy Spell/Traps on the field, up to the number of other face-up \"HERO\" monsters you control. \n● Add 1 \"HERO\" monster from your Deck to your hand.",
+    "Tengu": "① When this card is Normal or Special Summoned: You can choose 1 effect; \n● You can Destroy Spell/Traps on the field, up to the number of other face-up \"HERO\" monsters you control. \n● Add 1 \"HERO\" monster from your Deck to your hand.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
     "Vegas": "No updated text available for this card.",
