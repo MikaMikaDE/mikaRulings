@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "● The ③ effect is not \"once per turn\", so if it is negated by \"Royal Oppression\", it can be activated again in the same End Phase. \n(Banishing a plant is a cost, so even if it is negated this way, the plant remains banished).●\nThe ① is not an activated effect. It happens at the start of Substep 5, before chains are built.",
-    "Tengu": "● The ③ effect is not \"once per turn\", so if it is negated by \"Royal Oppression\", it can be activated again in the same End Phase. \n(Banishing a plant is a cost, so even if it is negated this way, the plant remains banished).",
+    "Edison": "● The ③ effect is not \"once per turn\", so if it is negated by \"Royal Oppression\", it can be activated again in the same End Phase. \n(Banishing a plant is a cost, so even if it is negated this way, the plant remains banished).\n● The ① is not an activated effect. It happens at the start of Substep 5, before chains are built.",
+    "Tengu": "● The ③ effect is not \"once per turn\", so if it is negated by \"Royal Oppression\", it can be activated again in the same End Phase. \n(Banishing a plant is a cost, so even if it is negated this way, the plant remains banished).\n● The ① is not an activated effect. It happens at the start of Substep 5, before chains are built.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -28,7 +28,7 @@
     "Base": "1. You can Normal Summon \"Phoenixian Cluster Amaryllis\" like any other Level 8 monster.\\n2. The restrictions on Special Summoning \"Phoenixian Cluster Amaryllis\" are not 'effects'.\\n3. Removing a Plant from your GY to Special Summon \"Phoenixian Cluster Amaryllis\" is a cost to activate the Ignition Effect.\\n4. \"Phoenixian Cluster Amaryllis\" destroys itself immediately after calculating damage, at the same time that damage is applied. This is the same timing as \"Airknight Parshath\", for example. However, the effect of \"Phoenixian Cluster Amaryllis\" is a Continuous Effect and does not go on a Chain, so this effect will be applied earlier than that of \"Airknight Parshath\", although the activation/timing is considered to be the same.\\n5. If \"Phoenixian Cluster Amaryllis\" attacks a monster with higher ATK, it is destroyed by battle and will not destroy itself with its own effect. Note that even if destroyed by battle and sent to the GY, the effect to inflict 800 damage still activates, because it doesn't matter how \"Phoenixian Cluster Amaryllis\" is sent from the field to the GY."
   },
   "PSCT": {
-    "Edison": "© Cannot be Special Summoned, except by its own effect of by \"Phoenixian Seed\".\n① After Damage Calculation, if this card attacked, \nDestroy this card.\n② If this card you control is destroyed and sent to the GY:\nYour opponent takes 800 damage.\n③ During your End Phase, if this card is in your GY: \nYou can banish 1 Plant from your GY; Special Summon this card in Defense Position.",
+    "Edison": "© Cannot be Special Summoned, except by its own effect or by \"Phoenixian Seed\".\n① After Damage Calculation, if this card attacked, Destroy this card.\n② If this card you control is destroyed and sent to the GY: Your opponent takes 800 damage.\n③ During your End Phase, if this card is in your GY: You can banish 1 Plant from your GY; Special Summon this card in Defense Position.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
