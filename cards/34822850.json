@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During your Standby Phase: You can Special Summon 1 \"Infernoid Token\" (Fiend-Type/FIRE/Level 1/ATK 0/DEF 0). To Special Summon an \"Infernoid\" monster using its own procedure, you can banish \"Infernoid\" monster(s) you control instead of those in the Graveyard (or any combination of both). Your opponent cannot target \"Infernoid\" monsters you control for attacks or with card effects, except the \"Infernoid\" monster you control with the highest Level (either, if tied)."
   }
 }

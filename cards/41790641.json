@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Your opponent cannot activate the effects of a monster that activate when it is Normal or Special Summoned, while in the same column as this card or a \"Watt\" monster you control. You can target 1 \"Watt\" monster you control; Special Summon 1 \"Watt\" monster with a different name from your Deck, then you lose LP equal to the Special Summoned monster's ATK, also you cannot Special Summon for the rest of this turn, except Thunder monsters. You can only use this effect of \"Wattkingdom\" once per turn."
   }
 }

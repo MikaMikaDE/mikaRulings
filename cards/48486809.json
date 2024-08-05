@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "(This card is always treated as an \"Elemental HERO\" and \"Favorite\" card.)\r\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 1 \"Elemental HERO\" Fusion Monster or 1 \"Winged Kuriboh\" from your hand, face-up Monster Zone, or GY. You can only Special Summon \"Winged Kuriboh LV6\" once per turn this way. When an opponent's monster declares an attack, or when your opponent activates a monster effect on the field (Quick Effect): You can Tribute this card; destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK."
   }
 }

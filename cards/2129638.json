@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\r\nMust be either Fusion Summoned, or Special Summoned by sending the above monsters you control to the GY (in which case you do not use \"Polymerization\"). Cannot be destroyed by battle. This card can make up to 2 attacks on monsters during each Battle Phase. At the end of the Damage Step, when this card attacks an opponent's monster, but the opponent's monster was not destroyed by the battle: You can banish that opponent's monster."
   }
 }

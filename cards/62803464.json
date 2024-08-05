@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "(This card is always treated as a \"Charmer\" card.)\r\nYou can discard this card and 1 EARTH monster; add 1 EARTH monster from your Deck to your hand with 1850 or less ATK, whose original Type is the same as one of the discarded monsters, also you cannot activate non-EARTH monster effects for the rest of this turn. When your EARTH monster is destroyed by battle: You can Special Summon this card from your hand. You can only use each effect of \"Aussa the Earth Channeler\" once per turn."
   }
 }

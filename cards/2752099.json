@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can Tribute this card; draw 1 card. You can banish this card from your GY, then target 1 Plant monster in your GY; add it to your hand, then, if you added a Plant monster whose original Level is 7 or higher, you can send 1 Plant monster from your Deck to the GY. You can only use 1 \"Rose Shaman\" effect per turn, and only once that turn."
   }
 }

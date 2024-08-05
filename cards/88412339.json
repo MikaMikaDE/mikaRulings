@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nIf your opponent controls a monster: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Abyss Actor - Extras\" once per turn.\n[ Monster Effect ] \nYou can Tribute this card; place 1 \"Abyss Actor\" Pendulum Monster from your Deck in your Pendulum Zone, also for the rest of this turn, you cannot Special Summon monsters, except \"Abyss Actor\" monsters, nor activate the Pendulum Effect of \"Abyss Actor - Extras\". You can only use this effect of \"Abyss Actor - Extras\" once per turn."
   }
 }

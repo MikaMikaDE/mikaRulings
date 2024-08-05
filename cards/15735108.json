@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Immediately after this effect resolves, Tribute Summon 1 monster (and you can Tribute monsters your opponent controls even though you do not control them), but it cannot be Tributed this turn. If this card is sent from the field to the GY: Your opponent can apply this card's preceding effect. You can only activate 1 \"Spell Card \"Soul Exchange\"\" per turn."
   }
 }

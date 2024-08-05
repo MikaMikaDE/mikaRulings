@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 DARK Fusion Monster + 1 Fusion Monster\r\n(This card is always treated as a \"Predaplant\" card.)\r\nOnce per turn, when a card or effect is activated (Quick Effect): You can Tribute 1 monster on either field with a Predator Counter, and if you do, negate the activation. If this Fusion Summoned card you control is sent to your GY by an opponent's card: You can target 1 DARK monster in your GY; Special Summon it. You can only use this effect of \"Starving Venom Predapower Fusion Dragon\" once per turn."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● If this face-up card is returned to the Extra Deck, its ② effect can activate.",
     "Vegas": "● If this face-up card is returned to the Extra Deck, its ② effect can activate.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Level 4 LIGHT monsters\r\nOnce per turn: You can detach 1 material from this card; send your entire hand to the GY (min. 1), and if you do, draw 2 cards. When this card you controlled while face-up leaves the field because of an opponent's card effect: You can target Level 4 Beast-Warrior \"Bujin\" monsters in your GY, up to the number of Xyz Materials this card had on the field; Special Summon those targets. You can only control 1 \"Bujintei Tsukuyomi\"."
   }
 }

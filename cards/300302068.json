@@ -7,8 +7,8 @@
     "race": "Don Zaloog"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Once per Duel, during your Main Phase, if you control \"Don Zaloog\", you can discard 1 card to Special Summon 2 \"Dark Scorpion\" monsters with different names from your hand and Deck (1 from each). \"Don Zaloog\" and \"Dark Scorpion\" monsters you control can attack directly, but when they do so using this Skill, the battle damage inflicted to your opponent becomes 400. You cannot Summon or Set any monsters except \"Don Zaloog\" and/or \"Dark Scorpion\" monsters."
   }
 }

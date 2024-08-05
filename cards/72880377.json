@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cannot be destroyed by card effects. You can only use each of the following effects of \"Dark Hole Dragon\" once per turn. If a monster(s) on the field is destroyed by a card effect that does not target it (except during the Damage Step): You can Special Summon this card from the GY (if it was there when the monster was destroyed) or hand (even if not). If this card is Special Summoned: You can activate this effect; during the End Phase of this turn, add 1 \"Dark Hole\" from your Deck to your hand."
   }
 }

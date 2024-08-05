@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can banish 1 Level 8 Dragon monster from your Extra Deck; Special Summon this card from your hand, also you cannot Special Summon for the rest of this turn, except Dragon monsters. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field. When an opponent's monster declares an attack: You can make this card lose exactly 500 ATK/DEF, and if you do, that opponent's monster loses 1500 ATK. You can only use each effect of \"Light End Sublimation Dragon\" once per turn."
   }
 }

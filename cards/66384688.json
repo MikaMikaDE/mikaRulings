@@ -9,8 +9,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Pendulum Monsters, including a \"Majespecter\" monster\r\nIf this card is Link Summoned: You can add up to 2 face-up \"Majespecter\" Pendulum Monsters from your Extra Deck to your hand, then you can add up to 2 \"Majespecter\" Pendulum Monsters with different names from your Deck to your face-up Extra Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"Majespecter\" or \"Dracoslayer\" monsters. You can only use this effect of \"Majespecter Orthrus - Nue\" once per turn."
   }
 }

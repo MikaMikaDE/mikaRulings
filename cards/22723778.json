@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "\"Reign-Beaux, Overlord of Dark World\" + 2+ Fiend monsters\r\nIf this card is Fusion Summoned: You can destroy all cards your opponent controls. This card's original ATK/DEF each become the number of materials used for its Summon x 1000. Once per turn (Quick Effect): You can target 1 face-up card you control; discard 1 card, also your opponent cannot target that face-up card with card effects for the rest of this turn."
   }
 }

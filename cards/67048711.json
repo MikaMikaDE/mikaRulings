@@ -8,7 +8,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●If you have 3 7's and destroy them all, you get 2100 LP.\n●If your opponent also has 7's, they are also destroyed.\n●If you have 3 7's and activate their effect, your opponent can chain Imperial Order to negate the effect.\n●Each effect of 7 that gives you 700 LP goes on a chain, so if multiple 7's are sent to the GY simultaneously, each effect is 1 step in the chain.\n●If other cards are also sent to the GY at the same time, like Sangan or Black Pendant, the card controlled by the turn player is Step 1.\n●If your 3rd 7 is activated, but destroyed by Mystical Space Typhoon in a chain, you can't activate its effect, but you still gain 700 LP for its GY effect.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When there are 3 face-up \"7\" cards on your side of the field, draw 3 cards from your Deck. Then destroy all \"7\" cards. When this card is sent directly from the field to your Graveyard, increase your Life Points by 700 points."
   }
 }

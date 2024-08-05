@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "While this card is equipped to \"Flame Swordsman\" or a monster that mentions it, the equipped monster gains 700 ATK. You can only use each of the following effects of \"Salamandra, the Flying Flame Dragon\" once per turn. If this card is in your hand or GY: You can target 1 Warrior monster you control; equip this card to that monster you control as an Equip Spell. If this card is sent to the GY: You can add 1 \"Salamandra\" Spell/Trap from your Deck to your hand."
   }
 }

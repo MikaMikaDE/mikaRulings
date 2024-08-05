@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During your Main Phase, you can Normal Summon 1 \"Traptrix\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) The first time each Insect or Plant monster you control would be destroyed by battle each turn, it is not destroyed. You can banish 1 monster you control; Special Summon 1 \"Traptrix\" monster from your hand or GY. You can only use this effect of \"Traptrip Garden\" once per turn."
   }
 }

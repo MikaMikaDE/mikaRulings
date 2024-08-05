@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If 10 or more cards and/or effects have been activated during this turn: Special Summon this card as an Effect Monster (Cyberse/DARK/Level 10/ATK 3000/DEF 3000) (this card is also still a Trap), but Set it in your Spell & Trap Zone during your End Phase. Once per turn, when your opponent activates a card or effect, while this card is in your Monster Zone (Quick Effect): You can destroy as many cards your opponent controls as possible, then Set this card in your Spell & Trap Zone."
   }
 }

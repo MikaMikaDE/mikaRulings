@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Toss a coin and apply this effect. If \"Light Barrier\" is in your Field Zone, you can choose the effect instead.\r\n● Heads: Add 1 card from your Deck to your hand that has a coin tossing effect, except \"Arcana Reading\".\r\n● Tails: Your opponent adds 1 card from their Deck to their hand.\r\nYou can banish this card from your GY; immediately after this effect resolves, Normal Summon 1 \"Arcana Force\" monster.\r\nYou can only use each effect of \"Arcana Reading\" once per turn."
   }
 }

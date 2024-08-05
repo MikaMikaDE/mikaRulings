@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nOnce per turn, when a monster declares an attack: You can negate that attack, then destroy this card.\n[ Monster Effect ] \n2 Level 4 monsters\r\nIf you can Pendulum Summon Level 4, you can Pendulum Summon this face-up card in your Extra Deck. You can detach 1 material from this card; Special Summon 1 Level 7 or lower Pendulum Monster from your hand in Defense Position, but negate its effects, then you can place this face-up card in your Pendulum Zone. You can only use this effect of \"Magician of Hope\" once per turn. If this card is Pendulum Summoned: You can target 1 Pendulum Monster in your GY; attach it to this card as material."
   }
 }

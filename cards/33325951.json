@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can Ritual Summon this card with \"Shinobird's Calling\". This card's name becomes \"Shinobaroness Peacock\" while in the hand or on the field. If this card is Ritual Summoned: You can add 1 Spell/Trap from your Deck to your hand that mentions \"Spirit monster\" in its text. You can only use this effect of \"Shinobaroness Shade Peacock\" once per turn. Once per turn, during the Standby Phase of the next turn after this card was banished: Special Summon this banished card. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return this card to the hand."
   }
 }

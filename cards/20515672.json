@@ -9,8 +9,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 non-Link \"S-Force\" monster\r\nEach of your opponent's monsters in the same column as one of your \"S-Force\" monsters cannot target the monsters in its same column for attacks. During the Main Phase (Quick Effect): You can target 1 \"S-Force\" monster you control; shuffle it into the Deck, then you can Special Summon 1 of your banished \"S-Force\" monsters. You can only use this effect of \"S-Force Nightchaser\" once per turn."
   }
 }

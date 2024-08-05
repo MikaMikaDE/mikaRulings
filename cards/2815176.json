@@ -9,8 +9,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 Effect Monster\r\nCannot be Link Summoned unless you have 3 or more Resonance Counters on Fiend Monster Card(s) in your Pendulum Zone. You can only Special Summon \"Zebufera, Vaalmonican Hallow Heathen\" once per turn. If a card(s) you control would be destroyed by battle or card effect, you can remove 3 Resonance Counters from your Pendulum Zone instead. Once per opponent's turn (Quick Effect): You can target 1 of your \"Vaalmonica\" Normal Spells/Traps that is banished or in your GY; apply that card's activation effect."
   }
 }

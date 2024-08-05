@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Pay half your LP; Special Summon 1 \"Supreme King Z-ARC\" from your Extra Deck, ignoring its Summoning conditions, but negate its effects. It is returned to the Extra Deck during the End Phase of the next turn. When your opponent activates a Spell Card or effect: You can banish this card from your GY and 1 \"Supreme King Z-ARC\" from your face-up Monster Zone; Special Summon up to 1 each \"Pendulum Dragon\", \"Xyz Dragon\", \"Synchro Dragon\", and \"Fusion Dragon\" monsters from your hand, Deck, Extra Deck, and/or GY."
   }
 }

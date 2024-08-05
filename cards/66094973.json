@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Once per turn: You can target 1 face-up Defense Position monster your opponent controls; discard 1 card and equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains the ATK of the equipped monster. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. During the End Phase: The monster equipped to this card by this card's effect is Special Summoned to your opponent's side of the field in face-up Defense Position."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 Tuner + 1+ non-Tuner monsters\r\nFor each banished card, this card gains 100 ATK/DEF and monsters your opponent controls lose 100 ATK/DEF. If this card would be destroyed by card effect, you can banish 1 card from your GY instead. If a card(s) is banished (except during the Damage Step): You can banish 1 card each from both your opponent's field and GY. You can only use this effect of \"Swordsoul Supreme Sovereign - Chengying\" once per turn."
   }
 }

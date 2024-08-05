@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 Synchro Monster + 1 Xyz Monster + 1 Link Monster\r\nOnce while this Fusion Summoned card is face-up on the field: You can pay LP in multiples of 2000 and choose 1 effect for every 2000 LP paid (you can only apply each effect once, and you resolve them in the listed order, skipping any that were not chosen); ● Add 1 Spell/Trap from your GY to your hand. ● Destroy 3 cards your opponent controls. ● This turn, this card gains ATK equal to half of the difference between your LP and your opponent's, also your other monsters cannot attack.\r\nYou can only use this effect of \"Coordius the Triphasic Dealmon\" once per turn."
   }
 }

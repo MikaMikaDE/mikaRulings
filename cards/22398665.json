@@ -7,8 +7,8 @@
     "race": "Ritual"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card can be used to Ritual Summon any Ritual Monster from your hand or GY. You must also Tribute Machine monsters from your hand or field whose total ATK equal or exceed the ATK of the Ritual Monster you Ritual Summon. If this card is in your GY: You can target 1 \"Drytron\" monster you control; it loses exactly 1000 ATK until the end of your opponent's turn, and if it does, add this card to your hand. You can only use this effect of \"Meteonis Drytron\" once per turn."
   }
 }

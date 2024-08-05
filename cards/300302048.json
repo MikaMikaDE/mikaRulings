@@ -7,8 +7,8 @@
     "race": "Paradox Broth"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Activate this Skill while your LP are 1000 or less. You can Normal Summon \"Suijin\", \"Kazejin\", or \"Sanga of the Thunder\" without Tributing this turn, OR, if you control \"Suijin\", \"Kazejin\", and \"Sanga of the Thunder\", you can apply this Skill instead.\r\n● Send as many cards on the field as possible to the GY, then Special Summon 1 \"Gate Guardian\" from your Deck, ignoring its Summoning conditions."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card is activated: You can add 1 \"Vaalmonica\" monster from your Deck to your hand. If a card in your Pendulum Zone has a 3rd Resonance Counter placed on it: You can target 1 monster your opponent controls; take control of it until the End Phase, but it cannot declare an attack. You can only use this effect of \"Vaalmonica, the Agathokakological Voice\" once per turn. You can only activate 1 \"Vaalmonica, the Agathokakological Voice\" per turn."
   }
 }

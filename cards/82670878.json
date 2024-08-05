@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During your opponent's turn, when your opponent declares a second direct attack during the same Battle Phase, you can Special Summon this card from your hand. When you do, this card's ATK and DEF becomes equal to the ATK and DEF of the first monster that attacked directly this turn, if it is still face-up on the field. The turn this card is Special Summoned with this effect, your opponent cannot select monsters other than this card as an attack target while this card is face-up on the field."
   }
 }

@@ -8,7 +8,7 @@
   },
   "Rulings": {
     "Edison": "● You toss the coin when this card resolves.\n● If you call it wrong, cards are sent from the top of the deck to the GY. \n● You can't activate this card if you have fewer cards in your Deck than the number of cards in your opponent's GY. However, when resolving the effect which requires sending cards to the GY, if you have fewer cards in your Deck than your opponent has cards in their GY, your entire Deck is sent to the GY.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Toss a coin and call it. If you call it right, all your opponent's cards in the Graveyard are removed from play immediately. If you call it wrong, send a number of cards equal to the cards in your opponent's Graveyard from your Deck to your Graveyard."
   }
 }

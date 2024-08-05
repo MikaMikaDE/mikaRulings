@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card gains the following effect(s), based on the number of Equip Cards equipped to it.\r\n● 1+: Gains 1000 ATK for each Equip Card equipped to it.\r\n● 2+: Your opponent cannot activate monster effects during the Battle Phase.\r\n● 3+: When your opponent's card or effect is activated that targets this card (Quick Effect): You can send 1 Equip Card you control to the GY; negate that effect.\r\n● 4+: Your opponent cannot activate cards or effects during the Battle Phase.\r\n● 5+: Any battle damage this card inflicts to your opponent is doubled."
   }
 }

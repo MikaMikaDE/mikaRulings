@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nWhen a monster declares an attack: You can discard 1 card; Special Summon this card to your opponent's field. You can only use this effect of \"Abyss Actor - Liberty Dramatist\" once per turn.\n[ Monster Effect ] \nIf this card is Special Summoned from the Pendulum Zone: The owner of this card reveals 3 \"Abyss Script\" Spells from their Deck, their opponent randomly picks 1 for this card's owner to Set on their field (but the owner destroys it during the End Phase), also shuffle the rest into the Deck. If this card is destroyed: You can shuffle 1 \"Abyss Script\" Spell from your GY into the Deck. You can only use each effect of \"Abyss Actor - Liberty Dramatist\" once per turn."
   }
 }

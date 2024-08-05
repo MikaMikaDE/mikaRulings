@@ -9,8 +9,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 \"Appliancer\" monsters\r\nThis linked card cannot be targeted by your opponent's card effects, or their monsters' attacks. During damage calculation, if an \"Appliancer\" Link Monster you control co-linked to this card battles an opponent's monster: Your battling monster gains ATK equal to the number of monsters co-linked to this card x 1000, during that damage calculation only. Once per turn, if an \"Appliancer\" Link Monster(s) you control that is not co-linked to this card is destroyed by battle or card effect: You can draw 1 card."
   }
 }

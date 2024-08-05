@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During the Main Phase (Quick Effect): You can Tribute this card and discard 1 Spell; Special Summon 1 \"Witchcrafter\" monster from your Deck, except \"Witchcrafter Genni\". You can banish this card and 1 \"Witchcrafter\" Spell from your GY; this effect becomes that Spell's effect when that card is activated. You can only use each effect of \"Witchcrafter Genni\" once per turn."
   }
 }

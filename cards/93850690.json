@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 \"Swordsoul\" monster in your GY, or if you control a Synchro Monster, you can target 1 Wyrm monster instead; Special Summon it. If this card is banished: You can target 1 \"Swordsoul\" monster, or Wyrm monster, you control; increase or decrease its Level by 1 until the end of this turn. You can only use each effect of \"Swordsoul Sacred Summit\" once per turn."
   }
 }

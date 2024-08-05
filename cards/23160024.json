@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "All \"Amorphage\" monsters on the field gain 300 ATK and DEF. Up to twice per turn, if an \"Amorphage\" monster(s) you control is Tributed, draw 1 card. You can banish this card from your Graveyard; Tribute Pendulum Monsters from your hand or field whose total Levels exactly equal 8, then Ritual Summon 1 \"Amorphactor Pain, the Imagination Dracoverlord\" from your hand."
   }
 }

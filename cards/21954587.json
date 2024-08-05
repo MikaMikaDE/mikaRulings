@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● If \"Dimensional Fissure\" is applying, this card's ① cannot be activated.\n● You can't activate this card's ② during the first turn of the Duel or in your Main Phase 2.\n● If you discard an \"Atlantean\" monster to Summon this card, that \"Atlantean\" monster's effect must be Chain Link 1, as it was sent to the GY before this card was Summoned. \nAfterwards, this card's effect to search will be Chain Link 2.",
     "Vegas": "● If \"Dimensional Fissure\" is applying, this card's ① cannot be activated.\n● You can't activate this card's ② during the first turn of the Duel or in your Main Phase 2.\n● If you discard an \"Atlantean\" monster to Summon this card, that \"Atlantean\" monster's effect must be Chain Link 1, as it was sent to the GY before this card was Summoned. \nAfterwards, this card's effect to search will be Chain Link 2.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can discard 2 other WATER monsters to the GY; Special Summon this card from your hand. When Summoned this way: You can add 1 \"Abyss-\" Spell/Trap from your Deck to your hand. You can Tribute 1 other Attack Position WATER monster; this card can make a second attack during each Battle Phase this turn."
   }
 }

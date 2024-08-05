@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During the Main Phase, if this card is in your hand (Quick Effect): You can target 1 \"Mannadium\" monster you control or 1 monster you control with 1500 ATK/2100 DEF; destroy it, and if you do, Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Mannadium\" card from your Deck to your hand, except \"Mannadium Riumheart\". You can only use each effect of \"Mannadium Riumheart\" once per turn."
   }
 }

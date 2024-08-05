@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If an \"Abyss Script\" Spell Card or effect is activated this turn: Add face-up \"Abyss Actor\" Pendulum Monsters from your Extra Deck to your hand, up to the number of \"Abyss Script\" Spells in your GY. Then, you can Special Summon \"Abyss Actor\" Pendulum Monsters from your hand with different names, up to the number of monsters added to the hand by this effect. You cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" Pendulum Monsters. You can only activate 1 \"Abyss Actors' Curtain Call\" per turn."
   }
 }

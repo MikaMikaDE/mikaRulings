@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During the Main Phase (Quick Effect): You can target 1 non-Dragon \"Vanquish Soul\" monster you control; return it to the hand, and if you do, Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\r\n● EARTH: This face-up card is unaffected by your opponent's activated effects this turn.\r\n● EARTH, FIRE, & DARK: Destroy 1 other card on the field.\r\nYou can only use each effect of \"Vanquish Soul Caesar Valius\" once per turn, and cannot activate more than 1 in the same Chain."
   }
 }

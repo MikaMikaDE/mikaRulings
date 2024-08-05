@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Level 4 monsters\r\nYou can detach 1 material from this card; if you have more cards in your Extra Deck than your opponent's, apply these effects in sequence, depending on the difference.\r\n● 1+: This card gains 1000 ATK until the end of your opponent's turn. ● 5+: Neither player can target this card with card effects until the end of your opponent's turn. ● 10+: Banish 1 card your opponent controls. ● 15+: Make your opponent's LP 3000.\r\nYou can only use this effect of \"Pendransaction\" once per turn."
   }
 }

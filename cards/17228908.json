@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "All monsters on the field lose 500 ATK and DEF, except Dinosaur-Type monsters. Once per turn, if a Dinosaur-Type monster is Normal or Special Summoned (except during the Damage Step): You can Special Summon 1 \"Jurraegg Token\" (Dinosaur-Type/EARTH/Level 1/ATK 0/DEF 0) to your opponent's field in Defense Position. While your opponent controls a Token, they cannot target monsters on the field with card effects, except Tokens. Once per turn, if a Normal Monster(s) on the field would be destroyed by battle or card effect, you can destroy that many Dinosaur-Type monsters in your hand and/or Deck instead."
   }
 }

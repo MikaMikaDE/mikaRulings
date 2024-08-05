@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "3 Level 5 monsters\r\n(This card is always treated as \"Number C39: Utopia Ray\".)\r\nOnce per turn: You can detach 1 material from this card; equip 1 \"ZW -\" monster from your Deck or Extra Deck to this card as if it were equipped by that monster's effect. This effect's activation and effect cannot be negated. Once per turn, while this card is equipped with a \"ZW -\" Monster Card (Quick Effect): You can target 1 Effect Monster your opponent controls; negate its effects, and if you do, halve its ATK."
   }
 }

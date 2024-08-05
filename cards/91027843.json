@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "All \"Marincess\" monsters you control gain 200 ATK, also each one gains 600 ATK for each \"Marincess\" card equipped to it. Monsters you control in the Extra Monster Zone that were Link Summoned using \"Marincess Crystal Heart\" as material are unaffected by your opponent's card effects. When you Link Summon a \"Marincess\" monster to the Extra Monster Zone (except during the Damage Step): You can equip up to 3 \"Marincess\" Link Monsters with different names from your GY to that Link Summoned monster."
   }
 }

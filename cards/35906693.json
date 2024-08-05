@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "To activate this card, you must draw it for your normal draw in your Draw Phase, reveal it, and keep it revealed until the Main Phase 1. During your Main Phase 1 that same turn: You can target 1 \"Utopia\" Xyz Monster you control, then activate 1 of these effects;\r\n● Equip any number of \"ZW -\" monsters with different names from your Deck/Extra Deck to it.\r\n● Special Summon from your Extra Deck, 1 \"Utopia\" Xyz Monster with a different name from that target, by using that target as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.)"
   }
 }

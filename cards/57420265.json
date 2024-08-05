@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can reveal this card and 1 WATER monster in your hand; Special Summon 1 of them and discard the other. You can only use this effect of \"Fishborg Harpooner\" once per turn. If this card is sent to the GY as material for a WATER Synchro Monster: You can negate the effects of 1 Effect Monster your opponent controls, until the end of this turn."
   }
 }

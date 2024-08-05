@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings currently available.",
     "Vegas": "No rulings currently available.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Once per turn, during your opponent's turn: You can send 1 \"Hieratic\" monster from your Deck to your Graveyard. Once per turn, during your turn: You can target 1 of your banished \"Hieratic\" monsters; return that target to the Graveyard. When this face-up card on the field is sent to the Graveyard: Target 1 \"Hieratic\" monster in your Graveyard; Special Summon that target."
   }
 }

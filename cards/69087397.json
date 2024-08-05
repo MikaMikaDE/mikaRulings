@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Banish 1 Winged Beast monster from your hand or face-up field; add 1 \"Floowandereeze\" monster or \"Floowandereeze\" Field Spell from your Deck to your hand, then gain 500 LP. You can only activate 1 \"Floowandereeze and the Advent of Adventure\" per turn."
   }
 }

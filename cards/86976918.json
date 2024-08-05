@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card is Normal Summoned: You can send 1 \"Speedroid\" card from your Deck to the GY. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"Speedroid\" monster in your GY; shuffle it into the Deck, and if you do, Special Summon 1 \"Speedroid\" Synchro Monster from your Extra Deck with the same Level but a different name, but negate its effects. You can only use this effect of \"Speedroid Ultra Hound\" once per turn."
   }
 }

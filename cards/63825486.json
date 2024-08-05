@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card is in your hand: You can reveal 1 \"Gimmick Puppet\" Xyz Monster in your Extra Deck; Special Summon both this card, and 1 \"Gimmick Puppet\" monster with the same Level as the revealed monster's Rank from your Deck. If this card is sent to the GY, except from the hand: You can add it to your hand. You can only use each effect of \"Gimmick Puppet Rouge Doll\" once per turn, also you cannot Special Summon from the Extra Deck the turn you activate either of this card's effects, except \"Gimmick Puppet\" monsters."
   }
 }

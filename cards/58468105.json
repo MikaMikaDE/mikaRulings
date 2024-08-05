@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 \"Edge Imp\" monster + 2 \"Fluffal\" monsters\r\nGains 300 ATK for each Fairy and Fiend monster in your GY, during your turn only. When this Fusion Summoned card destroys a monster by battle: You can send \"Frightfur\", \"Fluffal\", and/or \"Edge Imp\" monsters from your Deck to the GY, equal to the original Level of that destroyed monster. When your opponent activates a card or effect that targets this card on the field (Quick Effect): You can banish 1 \"Frightfur\" monster from your Extra Deck; negate that effect."
   }
 }

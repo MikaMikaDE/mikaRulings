@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Special Summon 2 \"Trickstar Tokens\" (Fairy/LIGHT/Level 1/ATK 0/DEF 0). If a \"Trickstar\" monster(s) you control that was Special Summoned from the Extra Deck would be destroyed by battle or card effect, you can banish this card from your GY instead. You cannot Normal or Special Summon monsters the turn you activate this card, except \"Trickstar\" monsters. You can only activate 1 \"Trickstar Festival\" per turn."
   }
 }

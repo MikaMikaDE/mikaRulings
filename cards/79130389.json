@@ -9,8 +9,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 WATER monsters\r\nYou can target 1 WATER monster with 1500 or less ATK in your GY; Special Summon it to your zone this card points to, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. If this card is sent from the field to the GY: You can target 1 \"Marincess\" card in your GY, except \"Marincess Coral Anemone\"; add it to your hand. You can only use each effect of \"Marincess Coral Anemone\" once per turn."
   }
 }

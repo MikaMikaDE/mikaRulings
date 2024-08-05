@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can Normal Summon Level 7 monsters without Tributing. During your Main Phase: You can Special Summon 1 of your non-Xyz \"Kashtira\" monsters that is banished or in your GY. If your opponent activates a Spell Card or effect, and you control a \"Kashtira\" monster: You can target 3 cards in your opponent's GY; banish them, face-down. You can only use each effect of \"Kashtira Birth\" once per turn."
   }
 }

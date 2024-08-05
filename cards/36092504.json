@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Apply these effects, in sequence, depending on the type(s) of \"Borrel\" monsters you control and in your GY. If you control a monster with 3000 or more ATK, your opponent cannot activate cards or effects in response to this card's activation.\r\n● Fusion: Banish 1 monster your opponent controls.\r\n● Synchro: Banish 3 random face-down cards from your opponent's Extra Deck, face-up.\r\n● Xyz: Banish 1 Spell/Trap your opponent controls.\r\n● Link: Banish up to 3 cards from your opponent's GY.\r\nYou can only activate 1 \"Bayonet Punisher\" per turn."
   }
 }

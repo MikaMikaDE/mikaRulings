@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 Psychic Tuner + 1+ non-Tuner monsters\r\nIf this card is Special Summoned by the effect of a \"P.U.N.K.\" card, or Synchro Summoned: You can pay 600 LP; take 1 Level 3 Psychic monster from your Deck and either add it to your hand or send it to the GY. If your opponent activates a card or effect in response to your \"P.U.N.K.\" card or effect activation, while this card is in your GY: You can Special Summon this card. You can only use each effect of \"P.U.N.K. JAM Dragon Drive\" once per turn."
   }
 }

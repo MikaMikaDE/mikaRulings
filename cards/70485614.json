@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card's name becomes \"Great Sand Sea - Gold Golgonda\" while on the field or in the GY. Once per turn, if a card(s) you control would be destroyed by battle or card effect, you can send 1 Fusion Monster that mentions \"Fallen of Albaz\" as material from your Extra Deck to the GY, instead. During the End Phase, if you have \"Fallen of Albaz\" on your field or in your GY: You can Special Summon 1 \"Springans\" monster from your hand or Deck. You can only use this effect of \"Decisive Battle of Golgonda\" once per turn."
   }
 }

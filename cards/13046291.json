@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can Tribute 1 Reptile monster, then discard 1 card; Special Summon 1 Level 6 or lower FIRE Dinosaur monster from your Deck. You can banish this card from your GY, then target 1 Dragon Xyz Monster you control with no material; attach up to 2 Reptile and/or Dinosaur monsters with different names from your hand and/or GY to that monster as material. You can only use each effect of \"Evoltile Megachirella\" once per turn."
   }
 }

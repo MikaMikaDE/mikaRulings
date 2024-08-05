@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●Your Vampire Lord will only be Special Summoned by his own effect when destroyed and sent to the GY by a card effect that your opponent controls, not by your own card effects or as a result of battle.\n●Vampire Lord will only return to play with his effect when the owner controls it, because Vampire Lord must be destroyed and sent to YOUR GY. When your opponent takes control of your Vampire Lord, and it inflicts Battle Damage to your LP, then the first effect of Vampire Lord is activated. But the second effect will not be activated if Vampire Lord is destroyed and sent to the GY while your opponent controls him.\n●If you Summon Vampire Lord and he is destroyed by your opponent's Horn of Heaven or Solemn Judgment, Vampire Lord will be Special Summoned in your next SP.\n●When Vampire Lord is destroyed (by a card effect such as Chain Destruction) while in your hand, in your Deck, or on the field, he will be Special Summoned in your next SP. If Vampire Lord is discarded from your hand it will NOT be Special Summoned.\n●When Vampire Lord is Tributed (including by your opponent with Soul Exchange), or when he is sent to the GY, he will not be Special Summoned by his own effect because he was not destroyed.\n●If Vampire Lord is supposed to be Special Summoned, but your SP is skipped with Solomon's Lawbook or Gamble, Vampire Lord won't be Special Summoned, not even on the following SP.\n●If Vampire Lord is supposed to be Special Summoned, but gets returned to your hand or Deck instead, he won't be Special Summoned.\n●If Vampire Lord is destroyed and sent to the GY by your opponent's card effect, but returns to the field that same turn and is then destroyed in a manner that would not allow him to be Special Summoned, then he is not Special Summoned.\n● (Search for Vampire Lord 2 to continue reading)",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card inflicts battle damage to your opponent: Declare 1 type of card (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the GY. Once per turn, during your next Standby Phase after this card in your possession was destroyed and sent to your GY by an opponent's card effect: Special Summon this card from the GY."
   }
 }

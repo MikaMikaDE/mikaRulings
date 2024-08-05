@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "While this card is in your hand or Graveyard: You can banish 3 other monsters from your Graveyard; Special Summon this card, also you cannot Special Summon other monsters for the rest of this turn. During your Main Phase 1: You can send all other monsters you control to the Graveyard; inflict 500 damage to your opponent for each monster sent to the Graveyard. You can only use each effect of \"The Blazing Mars\" once per turn."
   }
 }

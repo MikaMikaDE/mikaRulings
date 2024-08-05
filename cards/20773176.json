@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"Nekroz\" and \"Zefra\" monsters. This effect cannot be negated.\n[ Monster Effect ] \nWhile this card is in your hand or Graveyard, if a face-up \"Nekroz\" or \"Zefra\" card(s), except \"Zefraxa, Flame Beast of the Nekroz\", is destroyed by battle or card effect while in your Monster Zone or Pendulum Zone: You can Special Summon this card. You can only use this effect of \"Zefraxa, Flame Beast of the Nekroz\" once per turn."
   }
 }

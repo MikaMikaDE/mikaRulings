@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card is Normal Summoned: You can add 1 \"Silent Swordsman LV3\" or \"Silent Magician LV4\" from your Deck to your hand. During either player's turn, when a Spell Card is activated that targets exactly 1 monster you control (and no other cards): You can negate the activation. This effect can only be used once while this card is face-up on the field. If this card is destroyed by battle, or if this card in its owner's control is destroyed by an opponent's card effect: You can target 1 LIGHT \"LV\" monster in your Graveyard; add it to your hand."
   }
 }

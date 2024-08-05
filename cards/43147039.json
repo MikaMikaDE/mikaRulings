@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control a \"Photon\" or \"Galaxy\" monster. Cannot attack the turn it is Special Summoned. You can only Special Summon \"Photon Vanisher(s)\" once per turn. If this card is Special Summoned: You can add 1 \"Galaxy-Eyes Photon Dragon\" from your Deck to your hand. An Xyz Monster that was Summoned using this card on the field as material gains this effect.\r\n● Banish any monster destroyed by battle with this card."
   }
 }

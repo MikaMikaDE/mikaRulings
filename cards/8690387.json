@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 DARK Tuner + 1+ non-Tuner monsters\r\nDuring the Main Phase (Quick Effect): You can target 1 face-up monster your opponent controls; your opponent chooses 1 of these effects for you to apply.\r\n● Destroy that monster. ● Gain LP equal to that monster's ATK.\r\nDuring the Battle Phase (Quick Effect): You can Fusion Summon 1 \"Earthbound\" Fusion Monster from your Extra Deck, by banishing its materials from your hand, field, and/or GY. You can only use each effect of \"Earthbound Servant Geo Gremlin\" once per turn."
   }
 }

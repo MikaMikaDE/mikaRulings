@@ -8,7 +8,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●You place Spell Counters on Tower of Babel after the Spell Card resolves.\n●Tower of Babel must be applying and face-up on the field before the Spell Card was activated, and when the Spell Card resolves, in order to get a Spell Counter. If you chain Tower of Babel to a Spell Card, you do not get a Spell Counter for that Spell Card. If a Quick-Play Spell Card is chained to the activation of Tower of Babel, you do not get a Spell Counter for that Quick-Play Spell Card.\n●You can move Spell Counters to Tower of Babel with Pitch Black Power Stone, but if the 4th Spell Counter is placed on Tower of Babel with Pitch Black Power Stone or Apprentice Magician, Tower of Babel is destroyed but no damage is inflicted.\n●Tower of Babel cannot blow up in the middle of a chain. If you wind up with 5 Spell Counters on Tower of Babel after a chain resolves, the player who caused the 4th Spell Counter to be placed takes the damage. So if you have Tower of Babel with 3 Spell Counters, and you activate Pot of Greed, and your opponent chains Reload, Reload resolves first and places the 4th Spell Counter, and your opponent takes the 3000 damage after the current chain resolves.\n●If Mystical Space Typhoon targets Tower of Babel with 3 Spell Counters, Tower of Babel is destroyed when Mystical Space Typhoon resolves, and never gets the 4th Spell Counter, so neither player takes damage.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If the 4th Spell Counter is placed on this card: Destroy this card, and if you do, the player who activated the Spell Card at that time takes 3000 damage."
   }
 }

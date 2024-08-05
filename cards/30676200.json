@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Hero of the Ashened City\" once per turn this way. During the Main Phase (Quick Effect): You can target 1 Pyro monster on the field; destroy it, then if you destroyed \"Veidos the Eruption Dragon of Extinction\" by this effect, you can place 1 \"Obsidim, the Ashened City\" from your Deck face-up in your Field Zone. You can only use this effect of \"Hero of the Ashened City\" once per turn."
   }
 }

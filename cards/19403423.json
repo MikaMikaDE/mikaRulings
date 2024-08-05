@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "For the rest of this Duel, apply the following effects.\r\n● You cannot activate monster effects in the hand.\r\n● Draw 2 cards instead of 1 for your normal draw during your Draw Phase.\r\n● You can conduct 2 Normal Summons/Sets per turn, not just 1.\r\nYou can banish this card from your GY, then discard 1 \"Time-Tearing Morganite\"; your opponent cannot activate monster effects when you Normal Summon this turn."
   }
 }

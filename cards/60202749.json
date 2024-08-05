@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● If the effect of \"Royal Decree\" is being applied, this card *will* destroy itself.\n\n● After activation, this card continuously targets the monster that was Special Summoned.\n● \"You can't activate Spell Effects\" includes the effects of Spells already face-up on the field.",
     "Vegas": "● If the effect of \"Royal Decree\" is being applied, this card *will* destroy itself.\n\n● After activation, this card continuously targets the monster that was Special Summoned.\n● \"You can't activate Spell Effects\" includes the effects of Spells already face-up on the field.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Special Summon 1 \"Mermail\" monster from your Deck. Its effects are negated. You cannot activate any Spell Cards. When this card leaves the field, destroy that monster. Destroy this card during your opponent's next End Phase after activation."
   }
 }

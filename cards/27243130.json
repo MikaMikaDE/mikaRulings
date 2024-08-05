@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● Any Lingering Effects already applied to that target (EG \"Shrink\") are not removed from it.\nIf this card applies to a monster already affected by Shrink, its ATK is half its original, minus 800.\n● If that target has less than 800 ATK, its ATK becomes 0, and it's still unaffected by S/Ts.",
     "Vegas": "● Any Lingering Effects already applied to that target (EG \"Shrink\") are not removed from it.\nIf this card applies to a monster already affected by Shrink, its ATK is half its original, minus 800.\n● If that target has less than 800 ATK, its ATK becomes 0, and it's still unaffected by S/Ts.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 face-up monster on the field; until the end of this turn, that target loses 800 ATK, but is unaffected by the effects of other Spells/Traps."
   }
 }

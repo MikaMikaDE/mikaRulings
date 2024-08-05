@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings currently available.",
-    "Tengu": "No rulings currently available.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "“Call of the Haunted” constitutes a targeting effect.\n●The player using “Call of the Haunted” must declare the monster to be Special Summoned at the time of activation.\n●If the monster Special Summoned by “Call of the Haunted” is sent to the GY, but not destroyed, “Call of the Haunted” remains on the field meaninglessly. \n●If the monster Special Summoned by “Call of the Haunted” is returned to the hand, “Call of the Haunted remains on the field meaninglessly.\n●If the monster Special Summoned by “Call of the Haunted” is Tributed, “Call of the Haunted” remains on the field meaninglessly.\n●If that monster is not in the GY at the time of resolution, “Call of the Haunted” resolves without effect and remains on the field meaninglessly. \n●“Call of the Haunted” may be used to Special Summon a monster from the GY during either player’s Battle Phase. If “Call of the Haunted” is successfully resolved during the opponent’s Battle Phase as a response to an attack declaration, a Replay is triggered. \n●“Call of the Haunted” may not be activated during the Damage Step.”\n●If “Call of the Haunted” is destroyed in a chain to the activation of “Call of the Haunted,” the monster that would be Special Summoned by “Call of the Haunted” is not Special Summoned.\n●“Call of the Haunted” does not equip itself to “Gearfried the Iron Knight.” “Gearfried the Iron Knight” can be successfully summoned by “Call of the Haunted.”\n●“Call of the Haunted” can Special Summon “Jinzo.” If “Call of the Haunted” is destroyed while “Jinzo” is face-up on the field, the monster targeted by “Call of the Haunted” will not be destroyed. If “Jinzo” is Special Summoned by “Call of the Haunted” and “Jinzo” is destroyed, “Call of the Haunted” is destroyed (Continues).",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card."
   }
 }

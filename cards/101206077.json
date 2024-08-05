@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Special Summon this card as a Normal Monster (Plant/DARK/Level 4/ATK 1600/DEF 0) (this card is also still a Trap), then, if you control a \"Ragnaraika\" Link Monster, you can banish up to 2 cards from your opponent's GY. During the End Phase, if this card is in your GY: You can shuffle 2 Insect, Plant, and/or Reptile monsters from your GY and/or banishment into the Deck, and if you do, Set this card. You can only use this effect of \"Ragnaraika Bleached Wisteria\" once per turn."
   }
 }

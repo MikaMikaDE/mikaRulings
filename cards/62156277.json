@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Spearhead of the Ashened City\" once per turn this way. If your opponent controls a monster with 2800 or more ATK: You can Tribute this card, then target 1 card your opponent controls; return it to the hand. You can only use this effect of \"Spearhead of the Ashened City\" once per turn."
   }
 }

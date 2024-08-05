@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "3+ Level 3 monsters\r\nWhile this card has material, it can attack a number of times each Battle Phase, up to the number of materials attached to it. At the start of the Damage Step, if this card battles: It gains 200 ATK. When another monster's effect is activated (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card. You can only use this effect of \"Ashura King\" once per turn."
   }
 }

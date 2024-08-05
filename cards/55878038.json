@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 LIGHT and/or DARK monsters from your GY. When Summoned this way: You can activate this effect; apply the following effect, based on the Attribute(s) of the monsters banished for the Special Summon, also this card cannot attack for the rest of this turn.\r\n● Only LIGHT: Special Summon 1 monster from your GY in Defense Position.\r\n● Only DARK: Shuffle 1 random card from your opponent's hand into the Deck.\r\n● Both LIGHT and DARK: Destroy up to 2 cards on the field.\r\nYou can only use this effect of \"Chaos Dragon Levianeer\" once per turn."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nIf you would take effect damage, you take no damage. If you Normal Summon 1 Level 5 or higher \"D/D\" monster, you can do it without Tributing. You can only use each Pendulum Effect of \"Go! - D/D/D Divine Zero King Rage\" once per turn.\n[ Monster Effect ] \nWhen this card declares an attack, if your opponent's LP is 4000 or less: You can make this card gain ATK equal to your opponent's LP, until the end of this turn. Cannot be destroyed by battle, also you take no damage from battles involving this card.\r\nYou can Tribute 1 other monster; apply 1 of these effects until the end of this turn.\r\n● This card can attack directly.\r\n● Your opponent cannot activate cards or effects in the Spell & Trap Zones.\r\n● Your opponent cannot activate card effects in their hand or GY."
   }
 }

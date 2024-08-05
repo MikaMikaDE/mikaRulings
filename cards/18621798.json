@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When a monster effect is activated while this monster is on the field (Quick Effect): You can negate the activation, and if you do, destroy 1 other FIRE monster in your hand or field. If this card is destroyed and sent to the GY: You can target 1 FIRE Beast, Beast-Warrior, or Winged Beast monster in your GY, except \"Fire King Avatar Arvata\"; Special Summon it, but it has its effects negated, also it is destroyed during the End Phase. You can only use each effect of \"Fire King Avatar Arvata\" once per turn."
   }
 }

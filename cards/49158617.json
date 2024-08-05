@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 \"Dual Avatar\" monster you control and 1 card your opponent controls; destroy them, then if you destroyed a \"Dual Avatar\" Fusion Monster you control by this effect, you can apply 1 of these effects.\r\n● Draw 1 card.\r\n● Banish 1 card from your opponent's GY.\r\nYou can only activate 1 \"Dual Avatar Defeating Evil\" per turn."
   }
 }

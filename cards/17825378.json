@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nWhile this card is in your Pendulum Zone, if you Fusion Summon a DARK Fusion Monster, you can also use cards in your Pendulum Zones as monsters on the field, as material for its Fusion Summon.\n[ Monster Effect ] \nIf this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can choose monsters on the field, up to the number of monsters you control, and place 1 Predator Counter on each one, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter."
   }
 }

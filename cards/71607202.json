@@ -9,8 +9,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Effect Monsters\r\nCannot be used as Link Material the turn it is Link Summoned. If a monster(s) you control would be destroyed by battle or card effect, you can Tribute 1 Fiend monster instead. You can target 1 Fiend monster in your GY, except \"Muckraker From the Underworld\"; discard 1 card, and if you do, Special Summon that monster, also you cannot Special Summon monsters for the rest of this turn, except Fiend monsters. You can only use this effect of \"Muckraker From the Underworld\" once per turn."
   }
 }

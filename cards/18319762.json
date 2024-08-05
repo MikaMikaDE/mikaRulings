@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "While you control another \"Ice Barrier\" monster, your opponent cannot Tribute Summon. You can only use each of the following effects of \"Revealer of the Ice Barrier\" once per turn. You can discard 1 card; Special Summon 1 \"Ice Barrier\" Tuner from your Deck, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. If you would discard, or send a card(s) from your hand to the GY, to activate an \"Ice Barrier\" monster's effect, you can banish this card from your GY instead of 1 of those cards."
   }
 }

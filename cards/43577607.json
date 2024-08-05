@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card gains these effects, based on the number of different Attributes the \"Yang Zing\" monsters in your Graveyard have.\n● 2 or more: All \"Yang Zing\" monsters you control gain 500 ATK.\n● 3 or more: If a \"Yang Zing\" monster(s) you control would be destroyed by battle or card effect, you can send this card to the Graveyard instead.\n● 4 or more: Your opponent cannot Set monsters. Change all face-up monsters your opponent controls to Attack Position.\n● 5 or more: You can send this card to the Graveyard; destroy all cards on the field."
   }
 }

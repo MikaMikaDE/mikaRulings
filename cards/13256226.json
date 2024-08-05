@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When an opponent's monster declares an attack: You can Special Summon this card from your hand in Defense Position, and if you do, it cannot be destroyed by battle. If this card is Special Summoned: You can add from your Deck to your hand 1 \"Polymerization\" or 1 Spell/Trap that mentions an \"Elemental HERO\" monster's card name. During your Main Phase: You can shuffle this card into the Deck, and if you do, Special Summon 1 \"Elemental HERO\" Normal Monster from your Deck. You can only use each effect of \"Elemental HERO Spirit of Neos\" once per turn."
   }
 }

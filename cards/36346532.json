@@ -9,8 +9,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 \"Paleozoic\" monsters\r\nUnaffected by other monsters' effects. You can only use each of the following effects of \"Paleozoic Cambroraster\" once per turn. You can target 1 Set card in the Spell & Trap Zone; send it to the GY, and if you do, Set 1 \"Paleozoic\" Trap directly from your Deck. It can be activated this turn. If a Set card(s) you control would be destroyed by card effect, you can banish this card from your field or GY instead."
   }
 }

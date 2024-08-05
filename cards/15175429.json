@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "●This effect chains to that card's activation. \n●This does not negate the effect of that Spell Card (but if a Continuous, Field, or Equip card is destroyed this way, its effects won't resolve).",
-    "Tengu": "No rulings available for this card.",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Once per turn, when your opponent activates a Spell Card, you can destroy the Spell Card and inflict 800 damage to your opponent."
   }
 }

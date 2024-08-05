@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can Tribute 1 other Effect Monster; Special Summon up to 3 \"Ice Barrier Tokens\" (Aqua/WATER/Level 1/ATK 0/DEF 0), and if you do, increase this card's Level by that number, also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER Synchro Monsters. If this card is sent to the GY: You can add 1 of your \"Ice Barrier\" cards that is banished or in your Deck to your hand, except \"Mirror Mage of the Ice Barrier\". You can only use each effect of \"Mirror Mage of the Ice Barrier\" once per turn."
   }
 }

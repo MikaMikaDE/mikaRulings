@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● This is a Quick Effect.\nQuick Effects are Fast Effects.\n● When this card is successfully summoned, if nothing is triggered, \nyou can activate this card's fast effect before your opponent can activate any fast effect.\nEG: When this is summoned, you can activate its effect before your opponent can use \"Bottomless Trap Hole\". Then, as Chain Link 2, Bottomless can be chained.",
     "Vegas": "● This is a Quick Effect.\nQuick Effects are Fast Effects.\n● When this card is successfully summoned, if nothing is triggered, \nyou can activate this card's fast effect before your opponent can activate any fast effect.\nEG: When this is summoned, you can activate its effect before your opponent can use \"Bottomless Trap Hole\". Then, as Chain Link 2, Bottomless can be chained.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Level 4 monsters\r\nOnce per chain, during your Main Phase or your opponent's Battle Phase, if your opponent has more total cards in their hand and field than you do (Quick Effect): You can detach 1 material from this card; destroy all other cards on the field, also your opponent takes no further damage this turn."
   }
 }

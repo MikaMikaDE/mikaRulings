@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 Tuner Synchro Monster + 1+ non-Tuner Synchro Monsters\r\nWhen a monster effect is activated that targets a monster(s) you control (Quick Effect): You can banish 1 Tuner from your GY; negate the activation, and if you do, destroy that card. You can only use each of the following effects of \"Shooting Star Dragon T.G. EX\" once per turn.\r\n● When an opponent's monster declares an attack: You can negate the attack.\r\n● During your opponent's turn, if this card is in your GY (Quick Effect): You can Tribute 2 Synchro Monsters; Special Summon this card."
   }
 }

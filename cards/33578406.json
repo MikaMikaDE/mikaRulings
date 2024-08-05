@@ -7,8 +7,8 @@
     "race": "Equip"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "The equipped monster gains 0 ATK. When the equipped monster inflicts battle damage by a direct attack: You can destroy all monsters your opponent controls. You can send this equipped card to the GY; equip 1 \"Bamboo Sword\" Equip Spell from your Deck to 1 face-up monster on the field, except \"Original Bamboo Sword\"."
   }
 }

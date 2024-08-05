@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Reveal 2 \"Nouvelles\" monsters with different names from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the other into your Deck, then you can add 1 of these cards from your Deck or GY to your hand based on the Monster Type added to your hand by this effect.\r\n● Beast-Warrior: \"Recette de Poisson (Fish Recipe)\"\r\n● Warrior: \"Recette de Viande (Meat Recipe)\"\r\nYou can only activate 1 \"Voici la Carte (Today's Menu)\" per turn."
   }
 }

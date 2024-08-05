@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 Tuner + 1+ non-Tuner LIGHT or DARK monsters\r\nFor this card's Synchro Summon, you can treat 1 LIGHT or DARK monster you control as a Tuner. If this card is Special Summoned: You can target 1 card on the field; banish it. This card gains these effects based on the original Attributes of materials used for its Synchro Summon.\r\n● LIGHT: Synchro Monsters you control are unaffected by monster effects activated by your opponent.\r\n● DARK: Monsters you control cannot be destroyed by battle."
   }
 }

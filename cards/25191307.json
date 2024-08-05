@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If you do not control any face-up monsters, other than Winged Beast monsters: You can Special Summon both this card and 1 \"Raidraptor\" monster from your hand. If you control no monsters: You can target 2 Level 4 or lower \"Raidraptor\" monsters in your GY, including this card; Special Summon them in Defense Position. You can only use 1 \"Raidraptor - Bloom Vulture\" effect per turn, and only once that turn, also you cannot Special Summon monsters the turn you activate either of these effects, except DARK monsters."
   }
 }

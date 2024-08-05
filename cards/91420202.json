@@ -9,8 +9,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Zombie monsters\r\nThis card's name becomes \"Revendread Slayer\" while on the field. You can only use each of the following effects of \"Avendread Savior\" once per turn.\r\n● You can target 1 \"Vendread\" card in your GY; add it to your hand.\r\n● During damage calculation, if this card battles an opponent's monster (Quick Effect): You can send 1 Zombie monster from your Deck to the GY; that opponent's monster loses ATK equal to the Level of the monster sent to the GY x 200, until the end of this turn."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 \"Magikey\" Effect Monster + 1 Normal Monster, except a Token\r\nWhen this card is Fusion Summoned, your opponent cannot activate cards or effects. Once per turn: You can target 1 Normal Monster or \"Magikey\" monster in your GY; destroy all monsters your opponent controls with that monster's Attribute. Once per turn, if an opponent's monster with the same Attribute as a monster in your GY is destroyed by battle or card effect, if this card was Fusion Summoned using 2 different Attributes as material: You can draw 1 card."
   }
 }

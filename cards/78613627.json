@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If the ATK of a monster that attacks this monster in Defense Position is lower than the DEF of this card, destroy the attacking monster. (Damage calculation is applied normally.)"
   }
 }

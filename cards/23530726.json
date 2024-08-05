@@ -9,8 +9,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ monsters, including a Link Monster\r\n(This card is always treated as a \"Sky Striker Ace\" card.)\r\nMust first be Link Summoned. Loses 3000 ATK while you have no Spells in your GY. When your opponent activates a card or effect as Chain Link 2 or higher (Quick Effect): You can banish 2 Spells from your hand and/or GY; negate that effect, then you can destroy 1 card your opponent controls. You can only use this effect of \"Surgical Striker - S.P.E.C.T.R.A.\" once per turn."
   }
 }

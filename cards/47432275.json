@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During damage calculation, if this card is attacked by your opponent's monster: You can activate this effect; you take no battle damage from that battle, your opponent gains LP equal to the attacking monster's ATK, also you return this card to your hand."
   }
 }

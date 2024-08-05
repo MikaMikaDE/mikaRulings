@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 \"Visas Starfrost\" in your Monster Zone and 1 Effect Monster your opponent controls; negate that opponent's monster's effects, and if you do, your targeted monster gains ATK equal to half the original ATK or DEF of that monster (whichever is higher). You can banish this card from your GY; add 1 Spell/Trap that mentions \"Visas Starfrost\" from your Deck to your hand, except \"Trivikarma\". You can only use 1 \"Trivikarma\" effect per turn, and only once that turn."
   }
 }

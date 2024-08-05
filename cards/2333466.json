@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Gains 300 ATK for each banished card. You can only use each of the following effects of \"Gandora-G the Dragon of Destruction\" once per turn. If you control \"Shining Sarcophagus\": You can Special Summon this card from your hand. You can pay half your LP; destroy as many other cards on the field as possible, and if you do, banish them, then Special Summon 1 Level 7 or lower monster that mentions \"Shining Sarcophagus\" from your Deck, and increase its Level by the number of cards destroyed by this effect."
   }
 }

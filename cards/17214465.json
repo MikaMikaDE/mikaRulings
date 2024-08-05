@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "As long as this card remains face-up on the field, the field is treated as \"Umi\" (however there is no increasing or decreasing of ATK/DEF due to \"Umi\"'s effect). If there is an active Field Spell Card on the field, this effect is not applied."
   }
 }

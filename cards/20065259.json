@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card is Normal Summoned, Special Summoned, or flipped face-up: You can Special Summon 1 \"Ninja\" monster from your hand or GY in face-down Defense Position, except \"Kagero the Cannon Ninja\". When your opponent activates a card or effect that targets exactly 1 \"Ninja\" card or exactly 1 face-down Defense Position monster you control, while this card is in your GY (Quick Effect): You can Special Summon this card in face-down Defense Position, and if you do, return that targeted card to the hand. You can only use each effect of \"Kagero the Cannon Ninja\" once per turn."
   }
 }

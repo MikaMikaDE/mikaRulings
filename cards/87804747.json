@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 Level 8 Insect monster + 1 Level 7 Insect monster\r\nYou can only Special Summon \"Ultimate Great Insect\" once per turn. Must first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing 1 Insect monster with 2000 or more DEF equipped with an Equip Card. Cannot be destroyed by battle. Once per turn, during the Battle Phase, if a face-up card is in a Field Zone (Quick Effect): You can destroy all monsters your opponent controls."
   }
 }

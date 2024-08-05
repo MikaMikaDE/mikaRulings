@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If you control a \"Gunkan Suship Shari\", or an Xyz Monster that has \"Gunkan Suship Shari\" as material: You can Special Summon this card from your hand. During your Main Phase: You can Special Summon 1 \"Gunkan\" monster from your hand, except \"Gunkan Suship Shirauo\", then you can take any number of \"Gunkan Suship Shari\" from your Deck or GY and place them on top of your Deck in any order. You can only use each effect of \"Gunkan Suship Shirauo\" once per turn."
   }
 }

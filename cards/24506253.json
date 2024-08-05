@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If a \"Chronomaly\" monster(s) you control would be destroyed by battle or your opponent's card effect, you can discard this card instead. If this card is in your GY: You can pay 1000 LP; Special Summon this card, but return it to the hand during the End Phase. You cannot Special Summon monsters the turn you activate this effect, except \"Chronomaly\" monsters. You can only use this effect of \"Chronomaly Acambaro Figures\" once per turn."
   }
 }

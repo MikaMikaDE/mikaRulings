@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ Level 2 monsters\r\nCannot be destroyed by battle, also you take no damage from battles involving this card. All monsters your opponent controls must attack, if able. When an attack is declared: You can activate 1 of these effects;\r\n● Detach 1 material from this card, and if you do, place 1 Hallucination Counter on 1 face-up monster your opponent controls. (The effects, if any, of monsters with Hallucination Counters are negated.)\r\n● Inflict damage to your opponent equal to the ATK of 1 monster with a Hallucination Counter."
   }
 }

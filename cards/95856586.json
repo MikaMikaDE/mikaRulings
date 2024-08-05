@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Your opponent cannot activate cards or effects in response to the activation of your cards and effects that target an Xyz Monster you control. During your Draw Phase, before you draw: You can place 1 \"Shining Draw\" from your Deck on top of your Deck. If an Xyz Monster(s) is Special Summoned to your field (except during the Damage Step): You can target 1 of those monsters; attach 1 Xyz Monster from your Extra Deck or GY to that monster as material. You can only use this effect of \"Zexal Field\" once per turn."
   }
 }

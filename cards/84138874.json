@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When your opponent activates a monster effect on the field: You can banish 1 Pyro monster from your GY; inflict 500 damage to your opponent, then, if you banished a \"Volcanic\" monster to activate this effect, you can negate that effect. During your opponent's End Phase: You can target up to 2 of your \"Volcanic\" monsters that are banished and/or in your GY; place them on the bottom of your Deck in any order. You can only use each effect of \"Volcanic Inferno\" once per turn."
   }
 }

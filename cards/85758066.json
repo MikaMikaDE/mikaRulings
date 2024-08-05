@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When an opponent's monster declares an attack: Target 1 Spell in your opponent's GY; Set it to your field. You can banish this card from your GY and send 1 \"Monster Reborn\" from your hand or face-down field to the GY; Special Summon 1 \"Obelisk the Tormentor\" from your GY in Defense Position, and if you activated this effect during your opponent's turn, all monsters your opponent controls that can attack must attack that face-up monster, this turn, while you control it."
   }
 }

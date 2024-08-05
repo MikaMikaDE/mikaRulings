@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "\"Sanga of the Thunder\" + \"Kazejin\" + \"Suijin\"\r\nMust be Special Summoned (from your Extra Deck) by banishing the above cards from your hand, field, and/or GY. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can negate that effect, and if you do, destroy that card. You can only use this effect of \"Gate Guardians Combined\" thrice per turn. If this face-up Special Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 Level 11 or lower \"Gate Guardian\" monster from your Deck or Extra Deck, ignoring its Summoning conditions."
   }
 }

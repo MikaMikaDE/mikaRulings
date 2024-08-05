@@ -7,8 +7,8 @@
     "race": "Ritual"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card can be used to Ritual Summon any \"Dogmatika\" Ritual Monster from your hand or GY. You must also Tribute monsters from your hand or field, and/or banish Fusion or Synchro Monsters from your GY, whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon, then, if both \"White Knight of Dogmatika\" and \"White Relic of Dogmatika\" are on the field, you can look at either your Extra Deck or your opponent's, and send 1 monster from it to the GY. You can only activate 1 \"Dogmatikamacabre\" per turn."
   }
 }

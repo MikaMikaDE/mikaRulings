@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "All Dragon monsters on the field gain 300 DEF. If any Link Monsters are on the field, neither player can Link Summon a Link Monster with a lower Link Rating than the highest Link Rating on the field. Monsters cannot attack, except Link Monsters. Apply the following effects while 2 or more Cyberse Link Monsters are on the field.\r\n● Negate the activated effects of Cyberse monsters.\r\n● Cyberse monsters cannot attack, cannot be targeted for attacks, and cannot be targeted by card effects."
   }
 }

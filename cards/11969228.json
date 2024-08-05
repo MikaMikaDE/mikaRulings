@@ -9,8 +9,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Dragon and/or Winged Beast monsters, except Tokens\r\nIf this card is Link Summoned: You can add 1 \"Dragunity\" Spell/Trap or 1 \"Dragon Ravine\" from your Deck to your hand. If a Dragon monster(s) is Special Summoned from the Extra Deck to a zone this card points to (except during the Damage Step): You can Special Summon 1 Dragon or Winged Beast monster from your hand in Defense Position, but for the rest of this turn, its effects (if any) are negated and it cannot be used as Link Material. You can only use each effect of \"Dragunity Knight - Romulus\" once per turn."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can banish this card you control; Special Summon 1 Fish monster from your hand, except \"Paces, Light of the Ghoti\". During the Standby Phase of the next turn after this card was banished: You can Special Summon this banished card. During your opponent's Main Phase, if this card was Special Summoned this turn, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Fish Synchro Monster using this card you control. You can only use each effect of \"Paces, Light of the Ghoti\" once per turn."
   }
 }

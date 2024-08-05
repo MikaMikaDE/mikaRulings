@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During the Battle Phase (Quick Effect): You can discard this card, then target 1 \"Black Luster Soldier\" monster or \"Gaia The Fierce Knight\" monster you control; it gains 1500 ATK until the end of this turn, and if it does, every opponent's monster that battles it this turn has its ATK become that monster's original ATK during damage calculation only. Once per turn, during the End Phase, if this card is in your GY: You can banish 1 LIGHT and 1 DARK monster from your GY, except this card; add this card to your hand."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card is sent to the GY: You can activate 1 of these effects (but you can only use each effect of \"Volcanic Rimfire\" once per turn);\r\n● Banish this card from your GY, and if you do, send 1 \"Volcanic\" monster from your Deck to the GY, except \"Volcanic Rimfire\".\r\n● Banish 1 \"Blaze Accelerator\" card from your face-up field or GY, and if you do, place 1 \"Blaze Accelerator\" Continuous Spell/Trap from your hand or Deck face-up on your field."
   }
 }

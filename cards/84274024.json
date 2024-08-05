@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If you Special Summon any of these monsters using a Pendulum Monster(s) as material, while this card is already face-up in your Spell & Trap Zone: You can activate the appropriate effect. You cannot apply that same effect of \"Pendulum Dimension\" for the rest of this turn (even if this card leaves the field).\r\n● Fusion: Special Summon 1 monster from your Deck with the same original Level as that Fusion Monster, in Defense Position, but negate its effects.\r\n● Synchro: Add 1 \"Polymerization\" from your Deck to your hand.\r\n● Xyz: Take 1 Tuner from your Deck with an equal or lower Level than that Xyz Monster's Rank, and add it to your hand or Special Summon it."
   }
 }

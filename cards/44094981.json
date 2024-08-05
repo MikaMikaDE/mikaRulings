@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 DARK Tuner + 1+ non-Tuner monsters\r\n(Quick Effect): You can Special Summon 1 \"Earthbound\" monster from your GY in Defense Position, except \"Earthbound Servant Geo Gryphon\", also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion or Synchro Monsters. If this card in its owner's possession is destroyed by an opponent's card: You can destroy 1 card on the field, then inflict 300 damage to your opponent for each \"Earthbound\" monster with a different name in your field and GY. You can only use each effect of \"Earthbound Servant Geo Gryphon\" once per turn."
   }
 }

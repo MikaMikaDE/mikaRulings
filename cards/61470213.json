@@ -9,8 +9,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ \"Altergeist\" monsters\r\nIf this card is Link Summoned: You can Set 1 \"Altergeist\" Trap directly from your Deck. Once while this card is face-up on the field, during the Main Phase (Quick Effect): You can send 1 card you control to the GY, then target 1 Effect Monster your opponent controls; take control of that target, and if you do, it is also treated as an \"Altergeist\" monster. You can only use each effect of \"Altergeist Adminia\" once per turn."
   }
 }

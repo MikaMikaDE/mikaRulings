@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Reveal 1 monster in your hand and send 1 Level 8 Fusion Monster from your Extra Deck to the GY with the same Type that has 2500 ATK or DEF, then you can apply this effect.\r\n● Discard the revealed monster, and if you do, add 1 \"Fallen of Albaz\", or 1 monster that mentions it, from your Deck to your hand.\r\nDuring the End Phase, if a Fusion Monster was sent to your GY this turn: You can add this card from the GY to your hand. You can only use 1 \"Branded in High Spirits\" effect per turn, and only once that turn."
   }
 }

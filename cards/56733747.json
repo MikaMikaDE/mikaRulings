@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "\"Elemental HERO Neos\" + 1 \"Wingman\" Fusion Monster\r\nMust be Fusion Summoned. Gains 300 ATK for each monster in your GY, also cannot be destroyed by card effects. If this card is Special Summoned: You can destroy cards your opponent controls up to the number of different Attributes among the monsters on the field. You can only use this effect of \"Elemental HERO Shining Neos Wingman\" once per turn. If this card destroys a monster by battle: Inflict damage to your opponent equal to that monster's original ATK."
   }
 }

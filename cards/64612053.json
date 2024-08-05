@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If a \"Rescue-ACE\" monster(s) is Normal or Special Summoned to your field, except \"Rescue-ACE Fire Attacker\" (except during the Damage Step): You can Special Summon this card from your hand. If a card(s) is added to your opponent's hand, except by drawing it (except during the Damage Step): You can draw 2 cards, then discard 1 card. You can only use each effect of \"Rescue-ACE Fire Attacker\" once per turn."
   }
 }

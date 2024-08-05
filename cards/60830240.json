@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Reveal 1 \"Infernoid\" monster or 1 \"Void\" Spell/Trap in your hand; discard your entire hand, then draw the same number of cards you discarded. If you control no monsters, or all monsters you control are Fiend monsters, except the turn this card was sent to the GY: You can banish this card from your GY, then target up to 11 of your banished \"Infernoid\" monsters with different names; return them to the GY. You can only use this effect of \"Void Reignition\" once per Duel."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If your opponent draws a card(s): Increase this card's Level by the number drawn. While this card's Level is higher than its original Level, it gains ATK equal to the difference x 500. When your opponent activates a Spell Card or effect, while you control \"Shining Sarcophagus\" (Quick Effect): You can negate the activation, and if you do, increase this card's Level by 1. You can only use this effect of \"Silent Magician Zero\" once per turn."
   }
 }

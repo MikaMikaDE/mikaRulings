@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If a \"Raidraptor\" monster(s) is Special Summoned from the Extra Deck to your field (except during the Damage Step): You can add 1 \"Raidraptor\" Spell/Trap from your Deck to your hand, except \"Raidraptor - Roost\". You can target 3 of your \"Raidraptor\" monsters that are banished and/or in your GY; place them on the bottom of your Deck in any order, then draw 1 card. You can only use each effect of \"Raidraptor - Roost\" once per turn."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can Tribute this card; Special Summon 2 \"Dark Beast Tokens\" (Fiend/DARK/Level 2/ATK 1000/DEF 500). If this card is banished from the hand or GY: You can Special Summon 2 \"Light Beast Tokens\" (Fairy/Tuner/LIGHT/Level 2/ATK 500/DEF 1000). You can only use 1 \"Chaos Witch\" effect per turn, and only once that turn, also you cannot Special Summon monsters from the Extra Deck, except LIGHT or DARK Synchro Monsters, the turn you activate either effect."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If you control no \"Adventurer Token\": Special Summon 1 \"Adventurer Token\" (Fairy/EARTH/Level 4/ATK 2000/DEF 2000), then if you do not control \"Fateful Adventure\", you can place 1 \"Fateful Adventure\" from your Deck face-up in your Spell & Trap Zone. You cannot activate the effects of monsters on the field the turn you activate this card, except Special Summoned monsters'. You can only activate 1 \"Rite of Aramesir\" per turn."
   }
 }

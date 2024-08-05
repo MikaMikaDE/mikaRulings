@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "4 Level 5 LIGHT monsters\nIf this face-up card would be destroyed, you can detach 2 Xyz Materials from this card instead. If the last Xyz Material(s) is detached from this card: Inflict 1500 damage to your opponent. If this card has \"Number 102: Star Seraph Sentry\" as an Xyz Material, it gains this effect.\n● Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; change that target's ATK to 0, and if you do, negate its effects."
   }
 }

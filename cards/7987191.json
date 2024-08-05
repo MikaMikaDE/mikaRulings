@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can Ritual Summon this card with \"Heavy Interlock\". When your opponent Special Summons a monster(s) (Quick Effect): You can negate the Special Summon, and if you do, destroy that monster(s), then destroy this card or 1 \"Rokket\" monster you control. If this card is in your GY: You can target 1 \"Borrel\" or \"Rokket\" monster in your GY; destroy 1 card you control or in your hand, and if you do, add that target to your hand. You can only use each effect of \"Borreload Riot Dragon\" once per turn."
   }
 }

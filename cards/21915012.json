@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: Increase or decrease this card's Level by the Level the Tuner used as material had on the field. This card gains ATK equal to its Level x 400. If this Synchro Summoned card is sent to the GY as Synchro Material: Inflict damage to your opponent equal to the new Synchro Summoned monster's Level x 100, and if you do, you can add 1 Level 8 or lower monster with 600 DEF from your Deck to your hand. You can only use this effect of \"Cupid Pitch\" once per turn."
   }
 }

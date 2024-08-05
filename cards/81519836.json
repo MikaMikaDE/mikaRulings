@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "All monsters on the field lose 600 ATK, except \"Vernusylph\" monsters. You can discard this card, and 1 monster or 1 \"Vernusylph\" card; you cannot activate non-EARTH monster effects for the rest of this turn, also add 1 EARTH Fairy monster from your Deck to your hand, except \"Vernusylph of the Misting Seedlings\", then you can Special Summon 1 EARTH monster from your GY. You can only use this effect of \"Vernusylph of the Misting Seedlings\" once per turn."
   }
 }

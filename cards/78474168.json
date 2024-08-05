@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "This effect applies for the entire turn (it does not stop applying during the End Phase).\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\nOnly effects which activate/apply on the field are negated.\n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.\n\nThe ② is a card effect, but not a card's activation. \n● You can activate it as a Spell Speed 2 effect.\n● It can't be negated by \"Dark Bribe\" or \"Naturia Barkion\".",
     "Vegas": "This effect applies for the entire turn (it does not stop applying during the End Phase).\nIf this effect has resolved: \n● That monster's effects on the field are negated even if it leaves the field (EG, it can negate \"Lonefire Blossom\").\n● If that monster is later flipped face-down, its effects are no longer negated.\nOnly effects which activate/apply on the field are negated.\n● EG, \"Cardcard D\" and \"Exiled Force\" will be negated. \n● EG, \"Mystic Tomato\" or \"Reborn Tengu\" will not be negated.\n\nThe ② is a card effect, but not a card's activation. \n● You can activate it as a Spell Speed 2 effect.\n● It can't be negated by \"Dark Bribe\" or \"Naturia Barkion\".",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 face-up Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; that target has its effects negated until the end of this turn."
   }
 }

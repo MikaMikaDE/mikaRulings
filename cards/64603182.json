@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card's name becomes \"Ancient Gear Golem\" while on the field or in the GY. If this card is Normal or Special Summoned: You can add up to 2 cards (\"Ancient Gear\" cards and/or \"Geartown\") from your Deck to your hand, except \"Ancient Gear Dark Golem\", then discard 1 card, also you cannot Set cards for the rest of this turn. You can only use this effect of \"Ancient Gear Dark Golem\" once per turn. If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step."
   }
 }

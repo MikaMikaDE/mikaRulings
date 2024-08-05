@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If a face-up Spell/Trap is on the field: You can Special Summon this card from your hand. You can Tribute 1 Winged Beast monster, then target 1 face-up Spell/Trap on the field; return that face-up card to the hand, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name that card had once it returned to the hand. This is a Quick Effect if all monsters you control are Winged Beast monsters (min. 1). You can only use each effect of \"Laughing Puffin\" once per turn."
   }
 }

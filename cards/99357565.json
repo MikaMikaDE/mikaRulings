@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card is Normal Summoned: It is also treated as a \"Destiny HERO\" monster while face-up on the field. You can only use each of the following effects of \"D Cubed\" once per turn.\n● You can discard up to 2 cards; Special Summon \"D Cubed\" from your hand, Deck, and/or GY, equal to the number discarded, also for the rest of this turn, you cannot Normal or Special Summon other monsters, except \"Destiny HERO\" monsters.\n● If this card is destroyed by battle or card effect: You can send 1 \"Destiny HERO\" monster from your Deck to the GY."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 Tuner + 1+ non-Tuner monsters\r\n\"Lightsworn\" monsters you control cannot be banished by card effects. You can only use each of the following effects of \"Minerva, the Athenian Lightsworn\" once per turn. If this card is Synchro Summoned: You can send \"Lightsworn\" monsters with different Types from your Deck to the GY, up to the number of \"Lightsworn\" monsters used as this card's material. You can banish up to 4 \"Lightsworn\" monsters from your GY; send that many cards from the top of your Deck to the GY."
   }
 }

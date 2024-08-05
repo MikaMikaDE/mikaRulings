@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nYou can target any number of \"Dark Contract\" cards you control; destroy them, and if you do, Special Summon this card from your Pendulum Zone, then you can increase or decrease its Level by the number destroyed. You can only use this effect of \"D/D/D Vice King Requiem\" once per turn.\n[ Monster Effect ] \nYou cannot Special Summon monsters, except \"D/D/D\" monsters. A \"D/D/D\" monster that was Fusion, Synchro, Xyz, or Link Summoned using this card on the field as material gains this effect.\r\n● Once per turn: You can target 1 card on the field; shuffle 1 \"Dark Contract\" card from your field or GY into the Deck, and if you do, destroy that target, then gain 1000 LP.\r\nYou can only use this effect of \"D/D/D Vice King Requiem\" once per turn."
   }
 }

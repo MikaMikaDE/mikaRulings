@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nWhen an opponent's monster declares an attack: You can Special Summon this card, then if you have no Spells/Traps in your GY, change that opponent's monster's ATK to 0, also negate its effects. You can only use this effect of \"Superheavy Samurai Commander Shanawo\" once per turn.\n[ Monster Effect ] \n1 Tuner + 1+ non-Tuner monsters\r\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during the Battle Phase, if you control this Synchro Summoned card (Quick Effect): You can Special Summon 1 \"Superheavy Samurai\" Monster Card from your GY or face-up Spell & Trap Zone, then you can place this card in your Pendulum Zone."
   }
 }

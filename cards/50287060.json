@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●Missing the Timing: “Archfiend of Gilfer” is a “when… you can” optional Trigger Effect. This means that “Archfiend of Gilfer” being sent to the GY has to be the very last thing that happened in order to activate its effect.\n●This card's effect will activate when it is sent to the GY from the field, hand, or Deck. This card's effect will activate when it is sent to the GY while it is a Monster Card or an Equip Card.\n●If multiple Archfiend of Gilfer cards are sent to the GY at the same time, all their effects will activate and form a chain.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card is sent to the Graveyard: You can target 1 face-up monster on the field; equip that target with this card. That monster loses 500 ATK while equipped with this card."
   }
 }

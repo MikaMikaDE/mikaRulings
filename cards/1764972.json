@@ -11,7 +11,7 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "\n●You can, for example, Summon 1 Zombie from your opponent’s GY, and 2 from yours, etc.\n●This effect targets 1 or more monsters in the GY(s).\n●After the Zombie(s) are Summoned, they are no longer targeted by “Doomkaiser Dragon/Assault Mode”.\n●Even if “Doomkaiser Dragon/Assault Mode” is removed from the field, those Zombies’ effects are still negated, and they are still destroyed during the End Phase.\n●Destroying the Special Summoned monsters in the End Phase does not start a chain.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". When this card is Special Summoned, Special Summon any number of Zombie-Type monsters from either player's Graveyard(s) to your side of the field. Those monsters' effects are negated, and they are destroyed during the End Phase this turn. When this card on the field is destroyed, you can Special Summon 1 \"Doomkaiser Dragon\" from your Graveyard."
   }
 }

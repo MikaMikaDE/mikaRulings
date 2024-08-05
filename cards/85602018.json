@@ -8,7 +8,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "● After this card resolves, the next time during that turn when a monster you control is sent from your field to your GY, you may Special Summon 1 monster from your Deck. This starts a chain.\n● This card must be activated before the monster is sent to the GY. \n● You can use this effect in any step and any phase, including the End Phase and Damage Step (eg if a monster is destroyed by battle).\n   If \"Giant Rat\" is destroyed by battle, This effect activates at the same time (they can be activated in any order, since Rat is an optional effect).\n● If you use 2 copies of this card, you Summon 2 monsters, not 1. You can only summon 1 monster for each 1 copy of this card.\n● There are no restrictions on what you can Summon, except from that monster's own restrictions. \n   You can Summon a level 5 monster, but not a \"Special-Summon-Only\" monster. You can Summon \"Toon Mermaid\" if you control \"Toon World\".\n● A token being destroyed does not count as a monster being sent to the GY for this card.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If a monster on your side of the field was sent to your Graveyard this turn, you can Special Summon 1 monster with an ATK of 1500 points or less from your Deck once during this turn. Then shuffle your Deck."
   }
 }

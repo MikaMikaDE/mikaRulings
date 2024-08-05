@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can Tribute 1 monster; Special Summon from your Deck, 1 monster with the same original Type, Attribute, Level, and ATK/DEF as the Tributed monster, but with a different original name. If you Tributed a monster Special Summoned from the Extra Deck, you can Special Summon a monster from your Extra Deck instead that meets those same criteria. You can only use this effect of \"Nightmell the Dark Bonder\" once per turn."
   }
 }

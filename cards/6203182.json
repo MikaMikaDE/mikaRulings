@@ -7,8 +7,8 @@
     "race": "Equip"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Activate this card by targeting 1 monster in your opponent's GY; Special Summon it to your opponent's field, but negate its effects, also equip it with this card. When this card leaves the field, destroy that monster. The equipped monster cannot attack or be targeted for an attack. If this card is sent to the GY because the equipped monster was used as material for a Fusion, Synchro, Xyz, or Link Summon: You can take control of that Summoned monster. You can only activate 1 \"Two Toads with One Sting\" per turn."
   }
 }

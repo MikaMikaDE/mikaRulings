@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card is in your hand: You can destroy 2 other monsters in your hand and/or face-up on your field, including a WATER monster, and if you do, Special Summon this card, and if you do that, you can banish up to 2 Spell/Trap Cards from your opponent's field and/or Graveyard, if both the destroyed monsters were WATER. If this card is destroyed by card effect: You can Special Summon 1 non-WATER Wyrm-Type monster from your Deck in Defense Position. You can only use each effect of \"True King Bahrastos, the Fathomer\" once per turn."
   }
 }

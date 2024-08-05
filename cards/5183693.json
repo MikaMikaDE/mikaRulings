@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels, during that damage calculation only. When this card is sent to the GY: You can place it on top of your Deck."
   }
 }

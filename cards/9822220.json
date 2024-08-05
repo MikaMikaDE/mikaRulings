@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During your Main Phase: You can activate this effect; this card in your hand becomes revealed until the end of your opponent's turn. While this card is revealed by this effect, Set cards on the field cannot be destroyed by card effects. If a Set Spell/Trap Card is activated (except during the Damage Step): You can Special Summon this card from your hand, then, if you activated this effect while this card was revealed, you can reveal and Set 1 Spell/Trap directly from your Deck, but banish it during the End Phase of the next turn. You can only use 1 \"Lord of the Heavenly Prison\" effect per turn, and only once that turn."
   }
 }

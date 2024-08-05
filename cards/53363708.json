@@ -7,8 +7,8 @@
     "race": "Equip"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "At the start of the Battle Phase: You can change the equipped monster's battle position, and if you do, immediately after this effect resolves, Normal Summon 1 monster. You can only use this effect of \"Supermagic Sword of Raptinus\" once per turn. Apply this effect depending on the equipped monster's battle position.\r\n● Attack Position: Your opponent cannot target the equipped monster with card effects.\r\n● Defense Position: The equipped monster cannot be destroyed by battle."
   }
 }

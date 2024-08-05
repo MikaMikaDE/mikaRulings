@@ -9,8 +9,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ Effect Monsters, including a \"Madolche\" monster\r\nIf this card is Link Summoned: You can add 1 \"Madolche\" card from your Deck to your hand. You can target 1 monster in your GY; Special Summon 1 \"Madolche\" monster from your hand, and if you do, shuffle that target into the Deck, also you cannot activate monster effects for the rest of this turn, except \"Madolche\" monsters. You can only use each effect of \"Madolche Mini Meowcaroons\" once per turn."
   }
 }

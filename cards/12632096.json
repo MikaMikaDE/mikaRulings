@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "3 Level 9 monsters\nIf this card has a \"Cipher\" card as Xyz Material, it gains this effect.\n● Once per turn: You can detach up to 3 Xyz Materials from this card; monsters you control cannot attack your opponent directly for the rest of this turn, except this card, also for each Material detached, take control of 1 opponent's face-up monster until the End Phase, but while this effect is applied, they have their effects negated, their ATK's become 4500, also their names become \"Neo Galaxy-Eyes Cipher Dragon\"."
   }
 }

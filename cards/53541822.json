@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "\"Ancient Gear Golem\", and monsters that mention it, in your Monster Zone are unaffected by your opponent's activated monster effects. If your opponent controls a monster: You can Fusion Summon 1 Fusion Monster that mentions \"Ancient Gear Golem\" from your Extra Deck, by banishing monsters from your field or GY as material, including \"Ancient Gear Golem\" you control, and if you do, it can make up to 3 attacks during each Battle Phase. You can only use this effect of \"Ancient Gear Duel\" once per turn."
   }
 }

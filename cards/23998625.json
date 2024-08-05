@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "3 Level 5 monsters\nOnce per turn, when this card is targeted for an attack: It gains ATK equal to that attacking monster's original ATK, until the End Phase. If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. When this card on the field is destroyed by a card effect while it has no Xyz Materials: You can Special Summon 1 \"Number 92: Heart-eartH Dragon\" from your Extra Deck and attach this card from the Graveyard to it as an Xyz Material. (This Special Summon is treated as an Xyz Summon.)"
   }
 }

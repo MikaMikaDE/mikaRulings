@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "\"Gold Pride - Roller Baller\" + 1+ \"Gold Pride\" monsters\r\nIf this card is Fusion Summoned: You can equip face-up monsters your opponent controls to it, up to the number of Fusion Materials used. You can only use the previous effect of \"Gold Pride - Pin Baller\" once per turn, also, if your LP are lower than your opponent's, the effect's activation and effect cannot be negated. Once per turn, during the End Phase, if the previous effect was activated this turn: Return this card to the Extra Deck, and if you do, Special Summon 1 \"Gold Pride - Roller Baller\" from your Deck or GY."
   }
 }

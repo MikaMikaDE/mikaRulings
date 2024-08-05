@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Mirror Swordknight\" once per turn. (Quick Effect): You can Tribute this card; Special Summon 1 monster from your Deck that mentions \"Chimera Fusion\", except \"Mirror Swordknight\". When a monster your opponent controls activates its effect, while you control \"Chimera the Flying Mythical Beast\" (Quick Effect): You can banish this card from your field or GY; negate that effect."
   }
 }

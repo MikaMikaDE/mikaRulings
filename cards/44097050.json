@@ -9,8 +9,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ Machine monsters\r\nIf this card is Link Summoned: You can activate this effect; Special Summon 3 \"Mecha Phantom Beast Tokens\" (Machine/WIND/Level 3/ATK 0/DEF 0), also you cannot Link Summon for the rest of this turn. Once per turn: You can Tribute up to 3 monsters, then apply 1 of these effects, based on the number Tributed;\r\n● 1: Destroy 1 card on the field.\r\n● 2: Special Summon 1 \"Mecha Phantom Beast\" monster from your Deck.\r\n● 3: Add 1 Trap from your GY to your hand."
   }
 }

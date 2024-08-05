@@ -8,7 +8,7 @@
   },
   "Rulings": {
     "Edison": "● Effects of cards like “Red-Eyes Darkness Metal Dragon”, “Goyo Guardian”, and “Treeborn Frog” are not negated by this card’s ③ effect, as they don't target.\n● \"Question\", \"Fiber Jar\", \"Penguin Knight\", and \"Agido\" are negated by this card’s ③ effect, even though they don't target (yes, this is weird).",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●Necrovalley negates any effect that targets a card or cards in the GY. So Necrovalley WILL negate the effect of: Monster Reborn, Premature Burial, Call of the Haunted, Question, Backup Soldier, Spear Cretin, The Shallow Grave, Magician of Faith, Fiber Jar, Penguin Knight, and Agido.\n●Necrovalley negates costs and effects that require removing cards from the GY. So Necrovalley WILL prevent a player from removing cards in the GY from play to activate the effect of Bazoo the Soul-Eater or Chaosrider Gustaph. Necrovalley WILL prevent a player from removing cards in the GY from play to Special Summon Dark Necrofear or Black Luster Soldier – Envoy of the Beginning. Necrovalley WILL negate card effects like Big Burn, Gravedigger Ghoul, Disappear, and Soul Release.\n●Necrovalley will NOT negate effects that are activated when a card is sent TO the GY or that activate IN the GY or that count cards in the GY. So it will NOT negate the effects of Sangan, Witch of the Black Forest, Black Pendant, Giant Rat, Mystic Tomato, Kuriboh, Graceful Charity, Sinister Serpent, Marie the Fallen One, Buster Blader, Shadow Ghoul, Helpoemer, Sword of Deep-Seated, Vampire Lord, Coffin Seller, and Magical Thorn.\n●Necrovalley will NOT negate effects that do not target a card or cards in the GY. So Necrovalley will NOT negate the effects of Dark Necrofear (when destroyed and sent to the GY), Revival Jam, Winged Sage Falcos, Twin-Headed Behemoth, Mystical Knight of Jackal, and Red-Moon Baby.\n●If Necrovalley is on the field, you can Special Summon Gilasaurus using its effect, but the effect that lets your opponent Special Summon is negated.\n●If the effect of Necrovalley is negated by Imperial Order, then cards that require Necrovalley on the field, such as Gravekeeper’s Assailant, etc., can still apply their effects because Necrovalley is still on the field.\n● (Search for Necrovalley 2 to continue reading)",
     "HAT": "No rulings currently available.",
     "Vegas": "No rulings currently available.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "All \"Gravekeeper's\" monsters gain 500 ATK and DEF. Cards in the Graveyard cannot be banished. Negate any card effect that would move a card in the Graveyard to a different place. Negate any card effect that changes Types or Attributes in the Graveyard."
   }
 }

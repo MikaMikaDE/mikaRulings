@@ -9,8 +9,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "3 monsters with the same Attribute but different Types\r\nIf this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can target 1 card in your GY; add it to your hand. You can only use each of the following effects of \"Curious, the Lightsworn Dominion\" once per turn.\r\n● If this card is Link Summoned: You can send 1 card from your Deck to the GY.\r\n● If a card(s) is sent from your Deck to the GY by an effect: Send the top 3 cards of your Deck to the GY."
   }
 }

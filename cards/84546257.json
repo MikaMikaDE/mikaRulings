@@ -9,8 +9,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ \"Marincess\" monsters\r\nYou can send 1 WATER monster from your hand to your GY; add 1 \"Marincess\" Trap from your Deck to your hand. If only your opponent controls a monster: You can banish this card from your GY; Special Summon WATER Link Monsters from your GY whose combined Link Ratings equal exactly 3. You can only use each effect of \"Marincess Coral Triangle\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except WATER monsters."
   }
 }

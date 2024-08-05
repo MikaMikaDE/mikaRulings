@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Take 1 card from your Deck (either a \"Barian's\" Spell/Trap, a \"Rank-Up-Magic\" Quick-Play Spell, or a \"Seventh\" Spell/Trap except \"Seventh Ascension\"), and either add it to your hand or place it on top of your Deck. If your opponent controls a monster Special Summoned from the Extra Deck: You can banish this card from your GY and send 1 \"Rank-Up-Magic\" Spell from your hand to the GY; this effect becomes that Spell's effect when that card is activated. You can only use each effect of \"Seventh Ascension\" once per turn."
   }
 }

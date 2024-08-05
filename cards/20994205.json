@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If your opponent controls a monster(s) Special Summoned from the Extra Deck and you do not: Choose 4 \"Number\" Xyz Monsters from your Extra Deck with different Ranks, plus a 5th \"Number\" Xyz Monster whose \"Number\" value in its name equals the combined \"Number\" values of the 4 other monsters, Special Summon that 5th \"Number\" monster (this is treated as an Xyz Summon), and attach the 4 chosen monsters to it as material, but you cannot Special Summon monsters, except \"Number\" Xyz Monsters, while you control that face-up monster."
   }
 }

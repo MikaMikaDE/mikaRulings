@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card's name becomes \"Umi\" while on the field or in the GY. Your opponent cannot target WATER monsters you control with non-WATER monster effects. At the start of the Battle Phase: You can Special Summon from your hand or GY, 1 monster that mentions \"Umi\", or 1 WATER Normal Monster, in Defense Position, but destroy it at the end of the Battle Phase. You can only use this effect of \"Sea Stealth II\" once per turn."
   }
 }

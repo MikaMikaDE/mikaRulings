@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can target 1 face-up card your opponent controls; destroy 1 \"Icejade\" monster you control, and if you do, negate the targeted card's effects until the end of this turn. If a face-up WATER monster you control leaves the field by an opponent's card, except by being destroyed (and except during the Damage Step): You can add to your hand or Special Summon, 1 \"Icejade\" monster from your Deck. You can only use each effect of \"Icejade Erosion\" once per turn."
   }
 }

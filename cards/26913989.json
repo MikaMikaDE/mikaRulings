@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can only Special Summon \"Geistgrinder Golem\" once per turn. You can reveal 1 \"Yubel\" monster in your hand; Special Summon this card from your hand to your opponent's field, then you can Special Summon the revealed monster to your field. Once per turn, during damage calculation, if this card battles a \"Yubel\" monster: Your opponent gains 3000 LP. If you Special Summon \"Yubel\" while this card is in your GY (except during the Damage Step): You can Special Summon this card to your opponent's field."
   }
 }

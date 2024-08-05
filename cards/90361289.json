@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Each time your opponent Normal or Special Summons a monster(s): Inflict 300 damage to them. You can only use each of the following effects of \"Gizmek Uka, the Festive Fox of Fecundity\" once per turn.\r\n● If a monster(s) is Special Summoned from the Main Deck (except during the Damage Step): You can Special Summon this card from your hand.\r\n● If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; Special Summon 1 monster from your hand or Deck whose ATK equals its own DEF, with a same Attribute as that monster."
   }
 }

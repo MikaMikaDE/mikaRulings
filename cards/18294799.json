@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If you control no monsters, or your opponent controls a monster with 2000 or more ATK: You can Special Summon this card from your hand, and if you do, Special Summon 1 Level 8 LIGHT or DARK Dragon monster from your Deck in Defense Position, except \"Schwarzschild Infinity Dragon\", but negate its effects. You cannot Special Summon from the Extra Deck the turn you activate this effect, except Dragon Xyz Monsters. You can only use this effect of \"Schwarzschild Infinity Dragon\" once per turn."
   }
 }

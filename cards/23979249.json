@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings currently available.",
     "Vegas": "No rulings currently available.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If a \"Bujin\" monster in your Graveyard or face-up on your side of the field is banished (except during the Damage Step): You can Special Summon this card from your hand in face-up Defense Position. Once per turn, during the End Phase, if a \"Bujin\" card was added from your Deck to your hand this turn, except by drawing it, while you controlled this face-up card: You can draw 1 card, then discard 1 card. You can only control 1 \"Bujin Arasuda\"."
   }
 }

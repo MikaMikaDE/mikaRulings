@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card is Normal or Special Summoned: You can add 1 \"Neiroy, the Dream Mirror Disciple\" from your Deck to your hand, then you can make this card become LIGHT. You can Tribute 1 other \"Dream Mirror\" monster; choose 1 \"Dream Mirror\" monster from your Deck with a different Level than the Tributed monster, add 1 \"Dream Mirror of Joy\" or 1 \"Dream Mirror of Terror\" from your Deck to your hand that is mentioned on that chosen monster, and Special Summon that chosen monster in Defense Position. You can only use each effect of \"Neiroy, the Dream Mirror Traitor\" once per turn."
   }
 }

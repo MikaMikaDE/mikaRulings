@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Apply any of the following effect(s) in sequence, depending on the Type(s) of Effect Monster you control.\r\n● Fairy: You can draw 3 cards, then place 2 cards from your hand on the bottom of your Deck in any order.\r\n● Fiend: You can make your opponent draw 1 card, then discard 1 random card, then if they still have a card in their hand, they discard 1 card.\r\nYou can only activate 1 \"Stained Glass of Light & Dark\" per turn."
   }
 }

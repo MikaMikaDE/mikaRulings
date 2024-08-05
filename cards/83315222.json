@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If your opponent controls a monster: You can Special Summon this card from your hand. You can Tribute this card; Special Summon up to 2 \"Battlin' Boxer\" monsters with different names from your Deck, except \"Battlin' Boxer Promoter\". You can banish this card from your GY; increase or decrease the Levels of all \"Battlin' Boxer\" monsters you currently control by 1. You can only use each effect of \"Battlin' Boxer Promoter\" once per turn, also you cannot Special Summon monsters during the turn you activate any of this card's effects, except \"Battlin' Boxer\" monsters."
   }
 }

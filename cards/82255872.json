@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If an \"Ancient Warriors\" monster(s) would be destroyed by battle, you can send this card to the GY instead. You can only use each of the following effects of \"Ancient Warriors Saga - Chivalrous Path\" once per turn. If your opponent Special Summons a monster(s) (except during the Damage Step): You can Special Summon 1 \"Ancient Warriors Token\" (Beast-Warrior/WIND/Level 1/ATK 500/DEF 500). When a card or effect is activated that targets an \"Ancient Warriors\" monster(s) on the field: You can banish this card from your GY; negate the activation."
   }
 }

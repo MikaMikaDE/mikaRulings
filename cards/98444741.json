@@ -8,7 +8,7 @@
   },
   "Rulings": {
     "Edison": "● You can activate 2 \"Accumulated Fortune\" in the same Chain, but not 3.\nThe first time, there is no \"Accumulated Fortune\" in that Chain. \nThe second time, there is only 1 \"Accumulated Fortune\" in that Chain.\nThe third time, there are multiple cards with the same name in the Chain.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Activate only as Chain Link 4 or higher. Draw 2 cards. You cannot activate this card if multiple cards/effects with the same name are in that Chain."
   }
 }

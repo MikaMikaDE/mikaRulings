@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 Xyz Monster you control; Special Summon 1 \"Goblin\" Xyz Monster from your Extra Deck, by using that target as material, and if you do, attach this card to it as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can banish this card from your GY, then target 1 \"Goblin\" Xyz Monster you control and 1 card in either GY; attach the targeted card from the GY to that monster on the field as material. You can only use each effect of \"Goblin Biker Grand Pileup\" once per turn."
   }
 }

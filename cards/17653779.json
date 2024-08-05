@@ -8,7 +8,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "● Can “Fairy’s Hand Mirror” be chained to cards that target monsters in the GY such as “Monster Reborn”? \nA: Fairy's Hand Mirror only works against Spell cards that target a monster card that exists on the field.   \n●Q: Does “Fairy's Hand Mirror” deflect both targeting aspects of “Riryoku”, or only one of them? \nA: You could not activate the effect of Fairy's Hand Mirror in response to Riryoku because the effect of the Riryoku targets more then 1 specific monster.  ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When your opponent activates a Spell Card that targets exactly 1 monster (and no other cards) on the field: Target another card that would be an appropriate target; that Spell now targets the new target."
   }
 }

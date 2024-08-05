@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can conduct Tribute Summons that require 2 Tributes by sending 1 monster you control and 1 card your opponent controls to the GY instead of Tributing (it is still treated as a Tribute Summon). During your Main Phase: You can reveal up to 2 Winged Beast monsters in your hand and place them on the bottom of your Deck in any order, then draw the same number of cards. You can only use this effect of \"Floowandereeze and the Unexplored Winds\" once per turn."
   }
 }

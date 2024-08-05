@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nDuring your Main Phase: You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, then add 1 non-Pendulum \"Dracoslayer\" or \"Igknight\" monster from your Deck to your hand. You can only use this effect of \"Ignis Phoenix, the Dracoslayer\" once per turn.\n[ Monster Effect ] \n(This card is always treated as an \"Igknight\" card.)\r\nIf this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Dracoslayer\" or \"Igknight\" monster from your Deck, except \"Ignis Phoenix, the Dracoslayer\", and if you do, it is treated as a Tuner. You can only use this effect of \"Ignis Phoenix, the Dracoslayer\" once per turn."
   }
 }

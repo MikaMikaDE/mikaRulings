@@ -7,8 +7,8 @@
     "race": "Equip"
   },
   "Rulings": {
-    "Edison": "No rulings currently available.",
-    "Tengu": "No rulings currently available.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Equip only to a \"Lightsworn\" monster. It gains 700 ATK. When this card is sent from your Deck to the Graveyard: You can target 1 \"Lightsworn\" monster you control; equip this card to that target."
   }
 }

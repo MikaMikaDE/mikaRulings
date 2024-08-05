@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● If the target for this card's ① leaves the field, this card remains in the hand.\n● If this card is destroyed at the same time as the monster it's equipped to, this card's ③ will trigger.\n● If the monster it's equipped to leaves the field, and this card leaves the field as a result, this card's ③ will not trigger.",
     "Vegas": "● If the target for this card's ① leaves the field, this card remains in the hand.\n● If this card is destroyed at the same time as the monster it's equipped to, this card's ③ will trigger.\n● If the monster it's equipped to leaves the field, and this card leaves the field as a result, this card's ③ will not trigger.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can target 1 face-up \"Inzektor\" monster you control; equip this card from your hand to that target. While this card is equipped to a monster, that monster's original ATK becomes 2400. If this card is sent to the Graveyard while equipped to a monster: You can target 1 \"Inzektor\" monster in your Graveyard except \"Inzektor Giga-Mantis\"; Special Summon that target. This effect of \"Inzektor Giga-Mantis\" can only be used once per turn."
   }
 }

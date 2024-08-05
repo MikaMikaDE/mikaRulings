@@ -9,8 +9,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ monsters, including a Pendulum Monster\r\nGains 100 ATK for each face-up Pendulum Monster in your Extra Deck. The activated effects of Pendulum Monsters this card points to cannot be negated. Once per turn, when your opponent activates a card or effect (Quick Effect): You can Special Summon 1 \"Solfachord\" card with an odd Pendulum Scale from your Pendulum Zone to your zone this card points to, and if you do, negate the activation, then you can add 1 \"Solfachord\" Pendulum Monster with an even Pendulum Scale from your Deck to your face-up Extra Deck."
   }
 }

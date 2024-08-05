@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During the Main Phase (Quick Effect): You can target 1 Insect monster in your GY and 1 monster in your opponent's GY; Special Summon this card from your hand, and if you do, place the targeted monsters on the bottoms of the Decks. If this card is Normal or Special Summoned: You can add 1 \"Beetrooper\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Beetrooper Sting Lancer\" once per turn."
   }
 }

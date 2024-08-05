@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If a \"Code Talker\" monster(s) is Special Summoned from the Extra Deck to your field (except during the Damage Step): You can target 1 of those monsters; add 1 Cyberse monster with the same Attribute from your Deck to your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Cyberse monsters (even if this card leaves the field). You cannot add other monsters with that same Attribute to your hand by the effect of \"Cynet Codec\" this turn, and you can only activate the effect of \"Cynet Codec\" once per Chain."
   }
 }

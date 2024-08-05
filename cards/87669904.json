@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Discard 1 card, and if you do, Special Summon as many \"Dual Avatar Spirit Tokens\" as possible (Warrior/LIGHT/Level 2/ATK 0/DEF 0), also for the rest of this turn you cannot Special Summon monsters from the Extra Deck, except Fusion Monsters, and all Tokens you control cannot be Tributed and are destroyed during the End Phase. After Summoning these Token(s), you can apply this effect up to twice.\r\n● Fusion Summon 1 \"Dual Avatar\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.\r\nYou can only activate 1 \"Dual Avatar Invitation\" per turn."
   }
 }

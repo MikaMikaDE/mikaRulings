@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Special Summon 1 \"Salamangreat\" monster from your hand, but negate its effects, then, immediately after this effect resolves, Link Summon 1 \"Salamangreat\" Link Monster using materials you control, including the Summoned monster. This turn, that Link Summoned monster cannot attack or activate its effects. During your Main Phase: You can banish this card from your GY, then target 1 \"Salamangreat\" Link Monster in your GY; return it to the Extra Deck. You can only activate 1 \"Salamangreat Burning Shell\" per turn."
   }
 }

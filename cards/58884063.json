@@ -9,8 +9,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 \"Gold Pride\" monsters with different Levels\r\nYou can target 1 monster your opponent controls; destroy it, then, if your LP are lower than your opponent's, you can destroy all cards in its adjacent Monster Zones and Spell & Trap Zones. You can only use this effect of \"Gold Pride - Nytro Blaster\" once per turn. Once per turn, during the End Phase, if this effect was activated this turn: Return this card to the Extra Deck, and if you do, Special Summon 1 \"Gold Pride - Nytro Head\" from your Deck or GY."
   }
 }

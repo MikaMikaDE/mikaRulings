@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nOnce per turn: You can target 1 \"Performapal\" or \"Odd-Eyes\" monster you control; this turn, that face-up monster is treated as a Tuner, also its Level becomes 1 (even if this card leaves the field).\n[ Monster Effect ] \nIf this card, Special Summoned from the Extra Deck, is used as Synchro Material, banish it. When this card is Normal Summoned: You can target 1 Level 3 or lower \"Performapal\" or \"Odd-Eyes\" monster in your GY; Special Summon it, but it has its effects negated. Once per turn: You can target 1 card in your Pendulum Zone; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only that monster and this card."
   }
 }

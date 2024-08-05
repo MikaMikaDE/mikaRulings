@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 Rank 9 or lower \"Utopia\" Xyz Monster you control; Special Summon 1 Rank 10 or higher \"Utopia\" or \"Utopic\" Xyz Monster from your Extra Deck, by using that Xyz Monster you control as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) If an Xyz Monster(s) is Special Summoned by the effect of a Rank 10 or higher \"Utopia\" or \"Utopic\" Xyz Monster, while this card is in your GY (except during the Damage Step): You can target 1 of those Special Summoned monsters; attach this card to it as material. You can only use each effect of \"Hyper Rank-Up-Magic Utopiforce\" once per turn."
   }
 }

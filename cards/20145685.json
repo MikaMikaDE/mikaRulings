@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Level 5 monsters\r\nOnce per turn, you can also Xyz Summon \"Xyz Armor Fortress\" by using 1 Rank 3 or 4 Xyz Monster you control. (Transfer its materials to this card.) Cannot be used as material for an Xyz Summon while it has material. Once per turn: You can detach up to 2 materials from this card; add \"Armored Xyz\" cards with different names from your Deck to your hand, equal to the number detached. If a monster equipped with this card battles a monster, any battle damage it inflicts to your opponent is doubled."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Special Summon this card as an Effect Monster (Beast/EARTH/Level 2/ATK 0/DEF 2000). (This card is also still a Trap.) If this card is in the Monster Zone (Quick Effect): You can declare 1 Type and 1 Attribute, then target 1 face-up monster on the field; it becomes that Type and Attribute, until the end of this turn. You can only use this effect of \"Mimesis Elephant\" once per turn."
   }
 }

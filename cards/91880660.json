@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During the Main Phase: The turn player can activate this effect; excavate cards from the top of your Deck, up to the number of cards your opponent controls, and if you do, add 1 of them to your hand, also, after that, place any remaining cards and 1 card from your hand on the bottom of the Deck in any order. You can only use this effect of \"Way Where There's a Will\" once per turn. During the End Phase of any turn a player excavated 9 or more cards at once by this card's effect: That player can activate this effect; shuffle all cards your opponent controls and in their GY into the Deck."
   }
 }

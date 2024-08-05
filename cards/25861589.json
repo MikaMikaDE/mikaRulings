@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Discard 1 card; place 1 \"Humid Winds\", \"Dried Winds\", or \"Blessed Winds\" from your hand or Deck, face-up in your Spell & Trap Zone. You can banish this card from your GY; Fusion Summon 1 Plant Fusion Monster from your Extra Deck, by banishing its materials from your hand or field. If your LP are higher than your opponent's, you can also banish Plant monsters from your GY as material. You can only use each effect of \"Aroma Blend\" once per turn."
   }
 }

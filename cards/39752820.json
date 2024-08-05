@@ -9,8 +9,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 monsters\r\nCan only be Link Summoned while you have a \"World Legacy\" card in your GY. You can only use each of the following effects of \"Lib the World Key Blademaster\" once per turn.\r\n● During your Main Phase: You can Set 1 \"World Legacy\" Spell/Trap directly from your Deck, but it cannot be activated this turn while you have no \"World Legacy\" monster in your GY.\r\n● If this Link Summoned card is sent to the GY as Link Material: You can shuffle 1 card on the field into the Deck."
   }
 }

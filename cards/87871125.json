@@ -9,8 +9,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 FIRE Effect Monsters\r\nIf a monster(s) is Normal or Special Summoned to the zone(s) this card points to (except during the Damage Step): You can add 1 FIRE monster from your GY to your hand, but for the rest of this turn, you cannot Normal Summon/Set or Special Summon monsters with the added monster's name. During your Main Phase, if you control this card that was Link Summoned using \"Salamangreat Sunlight Wolf\" as material: You can add 1 \"Salamangreat\" Spell/Trap from your GY to your hand. You can only use each effect of \"Salamangreat Sunlight Wolf\" once per turn."
   }
 }

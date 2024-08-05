@@ -9,8 +9,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 WIND monsters\r\nThis card's name becomes \"Harpie Lady\" while on the field or in the GY. You can only use each of the following effects of \"Harpie Conductor\" once per turn.\r\n● If a \"Harpie\" monster(s) you control would be destroyed by battle or card effect, you can destroy 1 Spell/Trap you control instead.\r\n● If another face-up \"Harpie\" monster you control returns to your hand (except during the Damage Step): You can target 1 Special Summoned monster your opponent controls; return it to the hand."
   }
 }

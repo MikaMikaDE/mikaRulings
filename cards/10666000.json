@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ Level 8 monsters\r\nOnce per turn, during your Standby Phase: You can attach 1 card from your opponent's GY to this card as material. You can only use each of the following effects of \"Number 1: Infection Buzzking\" once per turn. If this card is Xyz Summoned: You can look at your opponent's Extra Deck and send 1 card from it to the GY. You can detach 1 material from this card, then target 1 card your opponent controls; destroy it, then if you destroyed a face-up monster, inflict damage to your opponent equal to half the ATK it had on the field."
   }
 }

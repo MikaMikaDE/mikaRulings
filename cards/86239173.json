@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "\"Kaitoptera\" + 1 Dinosaur or Dragon monster\r\nThis card can attack directly the turn it is Special Summoned. You can only use each of the following effects of \"Horned Saurus\" once per turn. If this card is Fusion Summoned: You can place 1 Field Spell from your Deck or GY face-up in your Field Zone. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 Dinosaur or Dragon monster."
   }
 }

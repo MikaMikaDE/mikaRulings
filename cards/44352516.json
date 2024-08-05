@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "\"Cyberdark\" Effect Monsters you control that are equipped with an Equip Card cannot be destroyed by your opponent's card effects, also your opponent cannot target them with card effects. You can target 1 \"Cyberdark\" monster you control; return it to the hand, then, immediately after this effect resolves, you can Normal Summon 1 \"Cyberdark\" monster. You can only use this effect of \"Cyberdark Inferno\" once per turn. If this card in its owner's control is destroyed by an opponent's card effect: You can add 1 \"Polymerization\" Spell or \"Fusion\" Spell from your Deck to your hand."
   }
 }

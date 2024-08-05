@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Requires 1 Normal Monster Tribute to Normal Summon face-up. During your opponent's Main Phase (Quick Effect): You can reveal this card in your hand; immediately after this effect resolves, Normal Summon 1 \"Primoredial\" monster. You can only use this effect of \"Imperial Dragon the Primoredial Dragon\" once per turn. If this card is Tribute Summoned: You can apply these effects, in sequence.\r\n● Negate the effects of all face-up monsters your opponent currently controls.\r\n● Banish all monsters your opponent controls with the same Type and/or Attribute as any of the Normal Monsters in your GY."
   }
 }

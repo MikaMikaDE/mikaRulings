@@ -9,8 +9,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Wyrm monsters\r\nYou can discard 1 card, then target 1 Wyrm monster in your GY; Special Summon it, also, for the rest of this turn, you cannot activate the effects of monsters Special Summoned from the Extra Deck, except \"Tenyi\" monsters. When an attack is declared involving your face-up non-Effect Monster: You can target 1 card your opponent controls; destroy it. You can only use each effect of \"Shaman of the Tenyi\" once per turn."
   }
 }

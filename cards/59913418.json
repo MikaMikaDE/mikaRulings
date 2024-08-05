@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can Ritual Summon this card with \"Cycle of the World\". This card's name becomes \"Demise, King of Armageddon\" while in the hand or on the field. While this Ritual Summoned card is on the field, your Ritual Monsters cannot be destroyed by battle. If all monsters used to Ritual Summon this card were Ritual Monsters, you do not pay LP to activate its effects. Once per turn: You can pay 2000 LP; destroy as many other cards on the field as possible, and if you do, inflict 200 damage to your opponent for each destroyed card they controlled."
   }
 }

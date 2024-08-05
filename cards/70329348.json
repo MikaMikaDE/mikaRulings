@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● If this card resolve successfully, that target remains unaffected by other card effects even if this card leaves the field or becomes negated.",
     "Vegas": "● If this card resolve successfully, that target remains unaffected by other card effects even if this card leaves the field or becomes negated.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Activate only during Main Phase 1. When this card is activated: Target 1 Beast-Warrior-Type monster you control; during this phase, its effects are negated, also it is unaffected by the effects of cards other than this card. (This applies even if this card leaves the field.) All Beast-Warrior-Type monsters you control gain 300 ATK."
   }
 }

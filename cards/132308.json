@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During your Main Phase: You can Special Summon this card from your hand, but while it is face-up in the Monster Zone, you cannot Special Summon monsters, except Plant monsters. When your opponent activates a monster effect, while you control a \"Rikka\" monster (Quick Effect): You can shuffle this card from your hand or GY into the Deck and Tribute 1 Plant monster; negate that effect. You can only use each effect of \"Rikka Princess\" once per turn."
   }
 }

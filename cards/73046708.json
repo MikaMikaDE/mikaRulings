@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 face-up monster you control and 1 Xyz Monster in your GY; equip that monster from your GY to that monster on the field as an Equip Spell with these effects.\r\n● Change the equipped monster's ATK to this card's ATK.\r\n● The equipped monster gains this card's Attribute.\r\n● At the end of the Damage Step, if the equipped monster attacked: You can send this card to the GY; that attacking monster can make a second attack in a row."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "While you control another \"Ancient Warriors\" monster, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. You can only use each of the following effects of \"Ancient Warriors - Ambitious Cao De\" once per turn.\r\n● If a card(s) your opponent controls is destroyed by battle or card effect: You can send 1 other card from your hand or field to the GY; Special Summon this card from your hand.\r\n● When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon that monster to your field in Defense Position."
   }
 }

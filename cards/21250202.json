@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nOnce per turn, during the End Phase, if your opponent activated a card or effect this turn that targeted 1 \"Odd-Eyes\" Pendulum Monster you controlled (and no other cards) while this card was in your Pendulum Zone: Special Summon this card, and if you do, place 1 face-up \"Odd-Eyes\" Pendulum Monster from your Extra Deck in your Pendulum Zone, except \"Odd-Eyes Persona Dragon\".\n[ Monster Effect ] \nOnce per turn (Quick Effect): You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; it has its effects negated, until the end of this turn."
   }
 }

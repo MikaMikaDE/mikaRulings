@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● Continuous Spell/Trap cards must remain face-up for their effects to be applied. \nIf this card is destroyed, before you use the additional normal summon, you don't get to use it.",
     "Vegas": "● Continuous Spell/Trap cards must remain face-up for their effects to be applied. \nIf this card is destroyed, before you use the additional normal summon, you don't get to use it.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During your Main Phase, you can Normal Summon 1 Beast-Warrior monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) All Beast-Warrior monsters you control gain 100 ATK."
   }
 }

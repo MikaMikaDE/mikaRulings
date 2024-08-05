@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During the Battle Phase: Declare a whole number from 1 to 6; choose 1 Effect Monster your opponent controls. Multiply the Effect Monster's Level x the declared number, then add the number of cards your opponent controls, and check if the result equals the number of cards in your GY.\r\n● If yes: Send cards from the top of your Deck to the GY, up to the declared number, and if you do, shuffle cards your opponent controls into the Deck, up to the number sent to the GY.\r\n● If no: You lose LP equal to the declared number x 500.\r\nYou can only activate 1 \"Linear Equation Cannon\" per turn."
   }
 }

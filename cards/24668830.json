@@ -8,7 +8,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "● Does “Germ Infection’s” decrease continue to accumulate even after the ATK has reached 0? \nA: The decrease in ATK will continue to accumulate. So, if I have a White Magicial Hat equipped with Germ Infection for 4 Standby Phases, it would be receiving -1200 to its ATK. (I would treat its ATK as 0, since 1000 - 1200 = -200) If I were to equip an Axe of Despair to that same White Magicial Hat, its ATK would be 1000 + 1000 [Axe] - 1200 [Germ Infection] = 800 ATK.  ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "The ATK of a non Machine-Type monster equipped with this card is decreased by 300 points at each of its Standby Phases."
   }
 }

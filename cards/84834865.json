@@ -11,7 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "● This effect activates in the Damage Step, so it can never be negated by \"Royal Oppression\". \nCards like \"Bottomless Trap Hole\" and \"Torrential Tribute\" can never be used in response to this Summon.",
     "Goat": "●If you attack with your Flying Kamakiri #1 and it is destroyed by battle, you may attack with the monster Special Summoned by Flying Kamakiri #1 before entering MP 2.\n●If your opponent controls your Flying Kamakiri #1 and it is destroyed by battle, you get the effect of Flying Kamakiri #1 NOT your opponent.\n●Since the Special Summoning occurs during the Damage Step, Torrential Tribute, etc. cannot be used.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WIND monster with 1500 or less ATK from your Deck, in face-up Attack Position."
   }
 }

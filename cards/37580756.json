@@ -8,7 +8,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "“Michizure” applies to monsters owned by the controller of “Michizure.” \n● “Michizure” may not be activated as a response to a Tribute. \n●“Michizure” may not be activated in the Damage Step. \n●“Michizure” may not be activated in response to a monster being sent to the GY as a result of Battle.\n●“Michizure” may not be activated if the monster sent to the GY was not a monster, such as “Dark Necrofear” or a monster equipped to “Thousand Eyes Restrict.”\n●Q: Can you activate “Michizure” in the Damage Step after an attack has destroyed your monster? \nA: You cannot activate Michizure during the Damage Step. bishop 02/23/04Michizure may be activated during any phase of your turn or your opponent's turn (if it had been set in your prior turn or before). However, it can only be activated if the very last event is a chainable one that sent the controller's monster to the GY.\n●It cannot be used in response to a tribute for effects such as Cannon Soldier, Hysteric Fairy, Tribe Infecting Virus, and the like since the last thing to happen is the effect of such cards, not the sending of the monster to the GY.\n●The effect of Michizure targets a monster.\n●The effect of Michizure cannot be used if the monster is used as tribute for a Ritual Summon, as Fusion Summon material, or for the effect of Metamorphosis since the last thing to happen is the summon, not the monster being sent to the GY.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When a monster is sent from the field to your GY, even during the Damage Step: Target 1 monster on the field; destroy it."
   }
 }

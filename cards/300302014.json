@@ -7,8 +7,8 @@
     "race": "Yami Yugi"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Apply the following Skill(s):\r\n● When a Level 4 or lower \"Magnet Warrior\" monster is Normal Summoned, you can add 1 Level 4 or lower \"Magnet Warrior\" monster with a different name from your Deck to your hand.\r\n● You can reveal 2 Level 4 or lower \"Magnet Warrior\" monsters with different names from your hand, and if you do, add 1 \"Valkyrion the Magna Warrior\" from your Deck to your hand.\r\nEach of these Skills can only be used once per Duel."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Level 4 monsters\r\nWhen your opponent activates a card or effect: You can detach up to 3 different types of materials from this card (Monster, Spell, and Trap), then apply the following effect(s) depending on what was detached, in sequence. ● Monster: This card gains 400 ATK. ● Spell: Take control of 1 face-up monster your opponent controls until the End Phase, but it cannot declare an attack nor activate its effects this turn. ● Trap: Negate the effects of 1 Effect Monster on the field until the end of this turn.\r\nYou can only use this effect of \"Time Thief Double Barrel\" once per turn."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card is Normal or Special Summoned: You can activate this effect; apply as many effects as possible, based on the number of \"Spellbook\" Spell Cards with different names in your Graveyard. You can only use the effect of \"Reaper of Prophecy\" once per turn.\n● 3 or more: This card gains 600 ATK.\n● 4 or more: Add 1 \"Spellbook\" Spell Card from your Deck to your hand.\n● 5 or more: Special Summon 1 Level 5 or higher DARK Spellcaster-Type monster from your Deck."
   }
 }

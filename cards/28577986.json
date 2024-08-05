@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● If you Summon \"Mermail Abysspike\", \"Mermail Abyssturge\", or \"Mermail Abyssdine\" with this effect, that card's \"When this card is Summoned\" effect will miss its timing.\n● If you only have 1 unoccupied monster zone when you activate this effect, you can only Summon 1 monster.",
     "Vegas": "● If you Summon \"Mermail Abysspike\", \"Mermail Abyssturge\", or \"Mermail Abyssdine\" with this effect, that card's \"When this card is Summoned\" effect will miss its timing.\n● If you only have 1 unoccupied monster zone when you activate this effect, you can only Summon 1 monster.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can target 1 \"Mermail\" monster you control; Special Summon any number of Level 4 or lower \"Mermail\" monsters from your Deck whose combined Levels are less than or equal to the Level of that monster, then send that monster to the Graveyard. You can only use the effect of \"Mermail Abyssocea\" once per turn."
   }
 }

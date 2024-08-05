@@ -9,8 +9,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ Wyrm monsters\r\nWhile you control a face-up non-Effect Monster, monsters your opponent controls cannot target Effect Monsters for attacks, also your opponent cannot target Effect Monsters on the field with card effects. (Quick Effect): You can target 1 Effect Monster your opponent controls; Special Summon 1 \"Tenyi Spirit Token\" (Wyrm/LIGHT/Level 4/ATK ?/DEF 0). This Token's ATK becomes that targeted monster's original ATK. You can only use this effect of \"Tenyi Spirit - Sahasrara\" once per turn."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Your opponent cannot target \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\", or \"Armityle the Chaos Phantom\" in your Monster Zones with card effects, also those monsters cannot be destroyed by your opponent's card effects while you control them. If you control \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\" or \"Armityle the Chaos Phantom\" in your Monster Zone: You can draw 2 cards. You can only use this effect of \"Fallen Paradise\" once per turn."
   }
 }

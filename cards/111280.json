@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Apply these effects in sequence, based on the number of \"Dark Magician\" and/or \"Dark Magician Girl\" on the field and in the GYs.\r\n● 1+: 1 DARK Spellcaster monster on the field gains 1000 ATK until the end of this turn.\r\n● 2+: This turn, your opponent cannot activate cards and effects in response to your Spell/Trap Card or effect activation, also Spells/Traps you control cannot be destroyed by your opponent's card effects.\r\n● 3+: DARK Spellcaster monsters you currently control are unaffected by your opponent's card effects, until the end of this turn."
   }
 }

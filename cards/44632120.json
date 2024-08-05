@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "(This card is always treated as a \"Kuriboh\" card.)\r\nWhen this card, or another \"Kuriboh\" monster, you control is destroyed by battle: You can Special Summon 1 monster with 300 ATK/200 DEF from your Deck, except \"Kuribah\". You can only use this effect of \"Kuribah\" once per turn. You can Tribute this card you control and 1 each of \"Kuribee\", \"Kuriboo\", \"Kuribeh\" and \"Kuriboh\" from your hand and/or field; Special Summon 1 \"Kuribabylon\" from your hand, Deck, or GY."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If you have a \"SPYRAL\" card on your field or in your GY: You can Special Summon this card from your hand to your opponent's field in Defense Position (but it cannot be Tributed, nor be used as material for a Fusion, Synchro, Xyz, or Link Summon), then both players reveal the top card of their Deck. You can only use this effect of \"SPYRAL Double Agent\" once per turn. All \"SPYRAL\" monsters on the field gain 500 ATK, also \"SPYRAL Super Agent\" on the field can attack directly."
   }
 }

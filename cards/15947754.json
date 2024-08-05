@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card is Normal or Special Summoned: Equip the top card of your Deck to this card as a face-down Equip Spell that gives it 500 ATK. During the End Phase: Your opponent calls the original type (Monster, Spell, or Trap) of that Equip Card equipped by this card's effect. If they called it right, send this card to the GY. If they called it wrong, discard 1 random card from your opponent's hand, and if you do, return this card to the hand. You can only use this effect of \"Silent Wolf Calupo\" once per turn."
   }
 }

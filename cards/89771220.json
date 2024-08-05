@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Special Summon 1 \"Ultimate Flagship Ursatron\" from your Extra Deck by banishing 1 \"Ursarctic Big Dipper\" and 1 \"Drytron Fafnir\" from your hand and/or field, although you can banish 1 of them from your Deck instead if \"Ursarctic Polari\" or \"Drytron Alpha Thuban\" is on the field. If you would Tribute a monster(s) to activate an \"Ursarctic\" or \"Drytron\" monster's effect, you can banish this card from your GY instead. You can only use this effect of \"Ursarctic Drytron\" once per turn."
   }
 }

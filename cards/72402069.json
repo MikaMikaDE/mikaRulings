@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nOnce per turn, when an opponent's monster declares an attack: You can target 1 \"D/D/D\" Synchro Monster you control; destroy as many monsters your opponent controls as possible with DEF less than or equal to the targeted monster's ATK, and if you do, inflict 1000 damage to your opponent for each monster destroyed.\n[ Monster Effect ] \n1 \"D/D\" Tuner + 1+ non-Tuner \"D/D/D\" monsters\r\nYour opponent cannot target monsters you control with card effects. If another monster is Normal or Special Summoned while this monster is on the field (except during the Damage Step): You can make your opponent choose 1 Pendulum Monster they control, and all other monsters they currently control have their effects negated. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone."
   }
 }

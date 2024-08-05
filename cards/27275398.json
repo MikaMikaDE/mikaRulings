@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 \"Gold Pride\" monster you control; until the end of this turn, it gains 500 ATK, it cannot be destroyed by battle or card effects, and it cannot activate its effects. During the End Phase, if a face-up \"Gold Pride\" monster(s) you control was destroyed by battle or card effect this turn: You can Set this card from your GY. You can only use this effect of \"Gold Pride - Pedal to the Metal!\" once per turn."
   }
 }

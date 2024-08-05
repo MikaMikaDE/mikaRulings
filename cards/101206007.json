@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If your opponent controls a monster, you can Normal Summon this card without Tributing. You can only use each of the following effects of \"Fiend Beast Zoa\" once per turn. If this card is in your hand: You can Special Summon it in Defense Position, then, if you do not have \"Enhanced Metalmorph\" in your GY, your opponent can Special Summon 1 monster from their hand. During your Main Phase: You can Set 1 \"Metalmorph\" Trap from your Deck."
   }
 }

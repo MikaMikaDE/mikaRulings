@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card is activated: You can Set 1 \"Libromancer\" Spell/Trap directly from your Deck, except \"Libromancer Origin Story\". \"Libromancer\" Ritual Monsters you control gain ATK equal to their own Level x 100. If a Ritual Monster is Ritual Summoned to your field (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it. You can only use this effect of \"Libromancer Origin Story\" once per turn. You can only activate 1 \"Libromancer Origin Story\" per turn."
   }
 }

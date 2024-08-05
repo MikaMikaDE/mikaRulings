@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Level 3 monsters\r\nCannot attack unless it has material. You can detach 2 materials from this card; draw 1 card. You can only use this effect of \"Xyz Armor Torpedo\" once per turn. Apply these effects while this card is equipped to a monster.\r\n● If the equipped monster battles, until the end of the Damage Step, your opponent cannot activate cards or effects, also negate the effects of all face-up monsters they control.\r\n● If the equipped monster is an Xyz Monster, your opponent cannot target it with card effects."
   }
 }

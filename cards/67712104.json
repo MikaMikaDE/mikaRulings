@@ -9,8 +9,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 WATER monsters\r\nUnaffected by your opponent's monster effects while this card is in the Extra Monster Zone. During the Damage Step, if this card battles an opponent's monster, that opponent's monster is unaffected by card effects, except its own. When this card, or your \"Marincess\" Link Monster this card points to, is targeted for an attack: You can send 1 \"Marincess\" monster from your hand to the GY; for that battle, your monster cannot be destroyed by battle and you take no battle damage."
   }
 }

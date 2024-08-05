@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nDuring your Main Phase: You can Special Summon this card, then you can attach 1 DARK monster from your GY to this card as material. You can only use this effect of \"Odd-Eyes Rebellion Xyz Dragon\" once per turn.\n[ Monster Effect ] \n2 Level 7 Pendulum Monsters\r\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card from your Extra Deck. This card cannot be used as material for an Xyz Summon the turn it was Xyz Summoned. You can detach 1 material from this card, then target up to 2 monsters your opponent controls with 3000 or less ATK; destroy them. You can only use this effect of \"Odd-Eyes Rebellion Xyz Dragon\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone."
   }
 }

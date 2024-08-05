@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card is activated: You can add 1 \"Allure Queen\" monster or 1 \"Allure Palace\" from your Deck to your hand. Each \"Allure Queen\" monster you control gains ATK equal to the ATK of the monsters equipped to it by its own effect. You can send 1 other Spell/Trap you control to the GY; Special Summon as many \"Allure Queen\" monsters with different names as possible from your GY. You can only use this effect of \"Allure Dance\" once per turn. You can only activate 1 \"Allure Dance\" per turn."
   }
 }

@@ -9,8 +9,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ monsters with the same Type\r\nOnce per turn, during the Standby Phase: You can target 1 face-up monster this card points to; Special Summon 1 Level 4 or lower monster with the same Type as that monster from your hand to your zone this card points to. At the start of the Battle Phase: You can target 1 card your opponent controls; destroy it. You can only use this effect of \"Ra'ten, the Heavenly General\" once per turn."
   }
 }

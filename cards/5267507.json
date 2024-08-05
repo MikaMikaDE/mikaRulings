@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "There can only be 1 \"Earthbound Immortal\" monster on the field. During the Main Phase (Quick Effect): You can banish this card from your hand or GY; send 1 \"Earthbound Immortal\" monster or \"Red Dragon Archfiend\" from your hand or face-up Monster Zone to the GY, then you can apply 1 of these effects.\r\n● Special Summon 1 \"Earthbound\" monster from your Deck or Extra Deck.\r\n● Special Summon 1 \"Red Nova Dragon\" from your Extra Deck. (This is treated as a Synchro Summon.)\r\nYou can only use this effect of \"Earthbound Immortal Red Nova\" once per turn."
   }
 }

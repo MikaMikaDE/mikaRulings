@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During the Main Phase, if you control a Fiend Tuner, or your opponent controls a Special Summoned monster (Quick Effect): You can Special Summon this card from your hand. If this card is Special Summoned: You can inflict 400 damage to your opponent for each FIRE monster you control with different names. If this card is sent to the GY as Synchro Material: You can send 1 Normal Trap from your Deck to the GY. You can only use each effect of \"Red Lotus King, Flame Crime\" once per turn."
   }
 }

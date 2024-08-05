@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "4 Level 3 DARK monsters\nThis card cannot be destroyed by battle, also all battle damage you take from battles involving this card is also inflicted to your opponent. If this card has \"Number 96: Dark Mist\" as an Xyz Material, it gains this effect.\n● Once per battle, during either player's turn, when an attack is declared involving this card and an opponent's monster: You can detach 1 Xyz Material from this card; the ATK of the opponent's monster becomes 0, and if it does, this card gains ATK equal to the original ATK of the opponent's monster."
   }
 }

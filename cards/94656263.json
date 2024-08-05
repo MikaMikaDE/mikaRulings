@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● This card can always be Summoned by card effects, even if it wasn't summoned properly (this is an erratum).\n● When you Normal Summon a Level 4, you must declare all your triggers at once.\nEG: You Normal Summon \"Tin Goldfish\". You must declare whether you want to use both effects (Kagetokage and Goldfish in either order), one of those effects, or neither effect. \nAfterwards, your opponent can activate a Fast Effect, like a Trap Card.\nAfterwards (even if they don't use anything) you can no longer activate kage's effect.\n● You can read about this card's summoning procedure here: [link being updated]post/kagetokage",
     "Vegas": "● This card can always be Summoned by card effects, even if it wasn't summoned properly (this is an erratum).\n● When you Normal Summon a Level 4, you must declare all your triggers at once.\nEG: You Normal Summon \"Tin Goldfish\". You must declare whether you want to use both effects (Kagetokage and Goldfish in either order), one of those effects, or neither effect. \nAfterwards, your opponent can activate a Fast Effect, like a Trap Card.\nAfterwards (even if they don't use anything) you can no longer activate kage's effect.\n● You can read about this card's summoning procedure here: [link being updated]post/kagetokage",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. When you Normal Summon a Level 4 monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material."
   }
 }

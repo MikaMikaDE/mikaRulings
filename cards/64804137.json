@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 \"Trickstar\" monsters\r\nYour \"Trickstar\" Link Monsters that point to this card gain 1000 ATK. You can only use each of the following effects of \"Trickstar Band Drummatis\" once per turn. If this card is Fusion Summoned: You can add 1 \"Trickstar\" card from your Deck to your hand, with a different name from the cards you control and in your GY. If effect damage is inflicted (except during the Damage Step): You can target 1 face-up monster on the field; change its ATK to 0."
   }
 }

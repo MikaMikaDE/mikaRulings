@@ -11,7 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "\n●The effect that destroys all other monsters will activate even if “Red Dragon Archfiend/Assault Mode” is destroyed by battle.\n●You cannot Special Summon a Synchro Monster that was sent directly to the GY and was never properly Summoned.\n●The last effect targets the “Red Dragon Archfiend” in the GY.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". If this card attacks, destroy all other monsters after damage calculation. When this card on the field is destroyed, you can Special Summon 1 \"Red Dragon Archfiend\" from your Graveyard."
   }
 }

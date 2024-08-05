@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 \"Magikey\" monster + 1 Normal Monster, except a Token\r\nIf this card is Fusion Summoned: You can add 1 \"Magikey Maftea\" from your GY to your hand. You can only use this effect of \"Magikey Beast - Ansyalabolas\" once per turn. Once per turn: You can target 1 Attack Position monster your opponent controls with the same Attribute as a Normal Monster or \"Magikey\" monster in your GY; change it to Defense Position, and if you do, it loses 1000 DEF. Banish any monster destroyed by battle with this card."
   }
 }

@@ -9,8 +9,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "3+ Beast, Beast-Warrior, and/or Winged Beast monsters\r\nCannot be Special Summoned from the Extra Deck unless you have 3 or more \"Tri-Brigade\" Spells/Traps in your GY. Your opponent cannot activate cards or effects when you Special Summon a monster(s). When a monster declares an attack: You can banish this card, also banish all cards your opponent controls. If this card is sent to the GY: You can send 1 Beast, Beast-Warrior, or Winged Beast monster from your Extra Deck to the GY. You can only use this effect of \"Tri-Brigade Arms Bucephalus II\" once per turn."
   }
 }

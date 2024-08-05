@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Remove Spell Counters from your field to activate 1 of these effects.\r\n● 2: Return 1 \"Mythical Beast\" Pendulum Monster you control to the hand.\r\n● 4: Special Summon 1 face-up \"Mythical Beast\" Pendulum Monster from your Extra Deck, then you can place 2 Spell Counters on it.\r\n● 6: Special Summon 1 face-up Pendulum Monster from your Extra Deck.\r\nYou can only activate 1 \"Beast Magic Attack\" per turn."
   }
 }

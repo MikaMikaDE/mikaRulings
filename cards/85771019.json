@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cannot be Special Summoned from the Deck or Graveyard. Once per turn: You can send 1 Fairy-Type monster from your Deck to the Graveyard. If this card you control is destroyed and sent to your Graveyard: Special Summon 1 \"Asmo Token\" (Fairy-Type/DARK/Level 5/ATK 1800/DEF 1300) and 1 \"Deus Token\" (Fairy-Type/DARK/Level 3/ATK 1200/DEF 1200). \"Asmo Token\" cannot be destroyed by card effects. \"Deus Token\" cannot be destroyed by battle."
   }
 }

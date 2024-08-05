@@ -9,8 +9,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "3+ Effect Monsters\r\nNeither player can Tribute cards to activate a card or effect. You can only use each of the following effects of \"Ritual Beast Ulti-Reirautari\" once per turn. You can target 1 of your banished \"Ritual Beast\" cards; return it to the hand or Extra Deck, then, immediately after this effect resolves, you can Normal Summon 1 \"Ritual Beast\" monster from your hand. During your opponent's turn (Quick Effect): You can target 1 \"Ritual Beast\" card you control and 1 card your opponent controls; banish them."
   }
 }

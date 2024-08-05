@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Show 5 \"Forbidden One\" Monster Cards from your hand, Deck, and/or face-up field, then Special Summon 1 \"The Unstoppable Exodia Incarnate\" from your Extra Deck, then shuffle the face-up Monster Cards you control into the Deck, except \"Exodia\" Monster Cards whose original Levels are 10 or higher, and \"Millennium\" Monster Cards, also you cannot Summon for the rest of this turn. After activation, shuffle this card into the Deck instead of sending it to the GY."
   }
 }

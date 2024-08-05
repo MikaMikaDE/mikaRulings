@@ -9,8 +9,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ monsters, including an \"Infernoid\" monster\r\nWhen your opponent would Special Summon a monster(s) (Quick Effect): You can Tribute 1 monster; negate the Summon, and if you do, banish that monster(s). If a card(s) is banished from your GY (except during the Damage Step): You can banish 1 card on the field. If this Link Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 1 \"Infernoid\" monster from your Deck, ignoring its Summoning conditions. You can only use each effect of \"Infernoid Flood\" once per turn."
   }
 }

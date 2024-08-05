@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings currently available.",
     "Vegas": "No rulings currently available.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If you control no other cards and have at least 1 other card in your hand: Shuffle all Beast-Warrior-Type \"Bujin\" monsters from your Graveyard into the Deck (min. 1), and if you do, send your entire hand to the Graveyard (min. 1), then you can add up to 3 Beast-Warrior-Type \"Bujin\" monsters with different names from your Deck to your hand. You can only activate 1 \"Bujinunity\" per turn."
   }
 }

@@ -9,8 +9,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 monsters with the same Level\r\nCannot be used as Link Material. You can only use each of the following effects of \"Bujinki Ahashima\" once per turn.\r\n● If this card is Link Summoned: You can Special Summon 2 monsters with the same Level, 1 from your hand and 1 from your GY, but negate their effects, and immediately after this effect resolves, Xyz Summon 1 Xyz Monster using those 2 monsters only.\r\n● If an Xyz Monster this card points to activates an effect by detaching material(s) (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it."
   }
 }

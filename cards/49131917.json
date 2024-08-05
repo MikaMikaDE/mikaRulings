@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nDuring your Main Phase: You can Special Summon this card to your Main Monster Zone in its same column, also you cannot Special Summon non-\"Vaylantz\" monsters for the rest of this turn, except from the Extra Deck. You can only use this effect of \"Shinonome the Vaylantz Priestess\" once per turn.\n[ Monster Effect ] \nDuring your Main Phase, if you control this Special Summoned card: You can add 1 \"Vaylantz\" Spell from your Deck to your hand. If this card in the Monster Zone moves to another Monster Zone: You can add 1 \"Vaylantz\" monster from your Deck to your hand, except \"Shinonome the Vaylantz Priestess\". You can only use each effect of \"Shinonome the Vaylantz Priestess\" once per turn."
   }
 }

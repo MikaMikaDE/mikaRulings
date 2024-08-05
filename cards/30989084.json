@@ -9,8 +9,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ Plant monsters\r\nIf this card is Special Summoned: You can add 1 \"Aroma\" card from your Deck to your hand. If you gain LP, even during the Damage Step: You can Special Summon up to 3 \"Aroma\" monsters from your hand to your zones this card points to. You can Tribute 1 monster this card points to, then target 1 card on the field; banish it, and if you do, gain 1000 LP. You can only use each effect of \"Aromalilith Rosemary\" once per turn."
   }
 }

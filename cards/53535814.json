@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "While you control another \"Ice Barrier\" monster, each time your opponent activates a card or effect by paying LP, they lose 500 LP. You can only use each of the following effects of \"Judge of the Ice Barrier\" once per turn. You can target 1 or 2 \"Ice Barrier\" monsters in your GY and 1 or 2 cards in your opponent's GY; shuffle them into the Deck. If you control an \"Ice Barrier\" monster: You can banish this card from your GY, then target 1 Attack Position monster on the field; change it to Defense Position."
   }
 }

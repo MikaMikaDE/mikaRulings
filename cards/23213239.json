@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When your \"Danger!\" monster is destroyed by battle with an opponent's monster: You can destroy that opponent's monster. You can banish 3 \"Danger!\" Spells/Traps with different names from your GY; destroy all cards on the field, also you cannot Special Summon monsters for the rest of this turn, except \"Danger!\" monsters. You can only use this effect of \"Danger! Disturbance! Disorder!\" once per turn."
   }
 }

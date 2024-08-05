@@ -7,8 +7,8 @@
     "race": "Counter"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When your opponent activates a Spell/Trap Card, while you control a \"Dinomorphia\" monster: Pay half your LP; negate the activation, and if you do, destroy that card, then, destroy 1 \"Dinomorphia\" monster you control. During damage calculation, while your LP are 2000 or less, if you would take battle damage: You can banish this card from your GY; you take no battle damage from that battle. You can only activate 1 \"Dinomorphia Sonic\" per turn."
   }
 }

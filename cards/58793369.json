@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card is activated: You can add 1 \"Drytron\" Spell/Trap from your Deck to your hand, except \"Drytron Fafnir\". The activation and the activated effects of Ritual Spell Cards cannot be negated. Once per turn, if a monster is Normal or Special Summoned face-up while you control a \"Drytron\" monster (except during the Damage Step): You can reduce that monster's Level by 1 per 1000 of its current ATK (min. Level 1) for the rest of this turn. You can only activate 1 \"Drytron Fafnir\" per turn."
   }
 }

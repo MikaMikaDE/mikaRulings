@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Level 5 monsters\r\nA \"Raidraptor\" Xyz Monster that has this card as material gains this effect.\r\n● This card gains ATK equal to its Rank x 100.\r\nYou can only use 1 of the following effects of \"Raidraptor - Brave Strix\" per turn, and only once that turn. You can detach 1 material from this card; Set 1 \"Raidraptor\" Spell/Trap from your Deck. If this card has a Winged Beast monster as material: You can detach 1 material from this card; add 1 \"Rank-Up-Magic\" Spell from your Deck to your hand."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card is discarded to the GY by card effect: You can target 1 \"Dark World\" monster in your GY, except \"Parl, Hermit of Dark World\"; Special Summon it to either field, then, if this card was discarded from your hand to your GY by an opponent's card effect, you can Special Summon, to either field, 1 of your Fiend monsters that is banished, or in your hand or GY. You can only use this effect of \"Parl, Hermit of Dark World\" once per turn."
   }
 }

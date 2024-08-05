@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "● If one target leaves is no longer correct (eg it was flipped face-down) before this effect resolves, the other is still sent to the GY.",
-    "Tengu": "No rulings currently available.",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can send 1 face-up \"Umi\" you control to the Graveyard to target up to 2 cards your opponent controls; send those targets to the Graveyard."
   }
 }

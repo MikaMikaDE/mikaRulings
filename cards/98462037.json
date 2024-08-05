@@ -9,8 +9,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 LIGHT and/or DARK monsters\r\nMust be Link Summoned. You can only Special Summon \"Sky Striker Ace - Azalea(s)\" once per turn. If this card is Special Summoned: You can target 1 card on the field; destroy it, then, if you have 3 or less Spells in your GY, send this card to the GY. Once per turn, at the start of the Damage Step, if this card battles an opponent's monster: You can banish 1 Spell from your GY; destroy that opponent's monster."
   }
 }

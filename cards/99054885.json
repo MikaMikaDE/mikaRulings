@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can banish 1 \"The Agent of Creation - Venus\" from your GY; Special Summon this card from your hand. You can pay LP in multiples of 500, then for every 500 LP paid, target 1 of your \"Mystical Shine Ball\" that is banished or in your GY; Special Summon them, but place them on the bottom of the Deck when they leave the field. You can only use 1 \"The Agent of Destruction - Venus\" effect per turn, and only once that turn."
   }
 }

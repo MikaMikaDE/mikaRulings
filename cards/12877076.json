@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Reveal 1 \"Ultimate Crystal\" monster in your hand, then activate 1 of these effects. If you control an \"Ultimate Crystal\" monster, you can activate 1 or 2 of these effects in sequence, instead (and do not have to reveal a monster).\r\n● Take 1 \"Rainbow Bridge\" card or 1 \"Rainbow Refraction\" from your Deck, and either add it to your hand or send it to the GY.\r\n● Special Summon 1 \"Crystal Beast\" Monster Card from your hand, Deck, GY, or Spell & Trap Zone.\r\nYou can only activate 1 \"Awakening of the Crystal Ultimates\" per turn."
   }
 }

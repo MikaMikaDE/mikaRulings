@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During damage calculation, if a monster battles while a monster with 1000 or more ATK is on the field: The ATK of all monsters currently on the field becomes reduced by 1000 for every 1000 ATK they have, also their DEF becomes reduced by 1000 for every 1000 DEF they have. If this card is destroyed: Apply the above ATK/DEF adjustments to all monsters currently on the field, until the end of this turn."
   }
 }

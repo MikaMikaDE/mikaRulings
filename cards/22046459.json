@@ -7,8 +7,8 @@
     "race": "Equip"
   },
   "Rulings": {
-    "Edison": "No rulings currently available.",
-    "Tengu": "No rulings currently available.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●Megamorph changes the original ATK of the monster it is equipped to. Having multiple Megamorphs equipped to a monster is the same as having one.\n●Megamorph is always recalculating with every change in LP. For example, your Jirai Gumo is equipped with Megamorph and you have 8000 LP compared to your 7000. You declare an attack with Jirai Gumo and lose the coin toss, losing 4000 LP. Now Jirai Gumo’s ATK is doubled before Damage Calculation.\n●When LP are equal the equipped monster’s ATK is unchanged.\n●You may equip Megamorph to your opponent’s monster, but ‘your LP’ refers to the controller of Megamorph. So if you have more LP than your opponent, your opponent’s monster equipped with Megamorph has its ATK halved. 01/08/04\n●Q: Would “Maju Garzett's” original attack be considered 0 or twice the ATK of the monster that was tributed for it? I'm wondering if a player equipped “Megamorph” to it if would increase it's attack by doubling or if it would just be doubling 0? \nA: “Thousand-Eyes Restrict's” attack would become 0 due to “Megamorph” and reamin that way even if another monster were to be equipped to it. Any monster that has an effect where its attack becomes a value is overwritten by “Megamorph.” Monsters with attacks that state to increase or decrease are not overwritten. Monsters with attacks that become a value: “Thousand-Eyes Restrict,” “Arsenal Bug,” “Twin-Headed Behemoth,” “8-Claws Scorpion,” “Maju Garzett,” and “Great Maju Garzett.” Monsters with attacks that increase or decrease: “Injection Fairy Lily,” “Maha Vailo,” “Royal Keeper,” “Muka Muka,” “Nuvia the Wicked,” “Gyaku-Gire Panda,” and “Bazoo the Soul Eater.” \n● \n●Q: If “Megamorph” is equipped to “Thousand-Eyes Restrict” and the LP of both players are equal, will the ATK of “Thousand-Eyes Restrict” still become 0? \nA: In that case the ATK of “Thousand-Eyes Restrict” would not be changed by “Megamorph.” ",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "While your LP is lower than your opponent's, the equipped monster's ATK becomes double its original ATK. While your LP is higher, the equipped monster's ATK becomes half its original ATK."
   }
 }

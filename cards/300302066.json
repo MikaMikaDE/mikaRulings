@@ -7,8 +7,8 @@
     "race": "Nightshroud"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Once per Duel, during your Main Phase, you can change the name of 1 \"Red-Eyes\" monster or 1 Dragon Normal Monster you control to \"Red-Eyes Black Dragon\" while it's face-up on the field. Each \"Red-Eyes Darkness Dragon\" you control gains the following effect.\r\n● Once per turn, during your Main Phase: You can Special Summon 1 Dragon monster from your GY that can be Normal Summoned/Set."
   }
 }

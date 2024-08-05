@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 \"Vernusylph\" monster in your GY; add it to your hand or Special Summon it. During your opponent's turn, except the turn this card was sent to the GY, if you have no cards in your hand: You can banish this card from your GY; Special Summon as many \"Vernusylph\" monsters as possible with different names from your GY, but return them to the hand during your End Phase. You can only use each effect of \"Vernusylph and the Changing Season\" once per turn."
   }
 }

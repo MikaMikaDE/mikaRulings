@@ -9,8 +9,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ Insect monsters\r\nWhile this Link Summoned card has 3000 or less ATK, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. You cannot Special Summon monsters, except Insect monsters. You can Tribute 1 Insect monster, then activate 1 of these effects;\r\n● Special Summon 1 \"Beetrooper\" monster from your Deck.\r\n● This card gains 2000 ATK until the end of this turn.\r\nYou can only use this effect of \"Giant Beetrooper Invincible Atlas\" once per turn."
   }
 }

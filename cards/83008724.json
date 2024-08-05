@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Once per turn: You can reveal 1 \"Gunkan Suship Shari\" in your hand; place 1 counter on this card, and if you do, reveal 1 \"Gunkan\" Xyz Monster from your Extra Deck, and your opponent declares 1 \"Gunkan\" monster's card name, except \"Gunkan Suship Shari\", that is mentioned on any \"Gunkan\" Xyz Monster, then, you add that declared card from your Deck to your hand. If you cannot add, shuffle this card into the Deck. If this card in its owner's possession is destroyed by an opponent's card: Your opponent pays exactly 500 LP for each counter on this card."
   }
 }

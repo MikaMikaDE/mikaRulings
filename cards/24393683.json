@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "(When you activate this card, you can also reveal 1 \"Gunkan Suship Shari\" in your hand.) Reveal 3 \"Gunkan\" monsters from your Deck, your opponent chooses 1 of them for you to add to your hand, also shuffle the rest into your Deck. If you revealed \"Gunkan Suship Shari\" in your hand at activation, you can choose the card to add to your hand, instead of your opponent choosing. If this card is in your GY, except the turn it was sent there: You can banish this card, then target 3 \"Gunkan\" monsters in your GY; shuffle them into the Deck, then draw 1 card."
   }
 }

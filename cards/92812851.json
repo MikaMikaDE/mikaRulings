@@ -9,8 +9,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ Effect Monsters, including a Pendulum Monster\r\nGains 100 ATK for each Pendulum Monster Card you control. You can only use each of the following effects of \"Exceed the Pendulum\" once per turn. If this card is Link Summoned: You can add 1 face-up Pendulum Monster from your Extra Deck to your hand. During the Main Phase (Quick Effect): You can Special Summon 1 Pendulum Monster from your hand or GY in Defense Position, with a Level between the Pendulum Scales of the 2 cards in your Pendulum Zones."
   }
 }

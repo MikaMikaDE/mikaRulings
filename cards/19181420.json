@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 \"Memento\" monsters\r\nAny monster destroyed by battle with your \"Memento\" monster is banished. You can only use each of the following effects of \"Mementotlan Twin Dragon\" once per turn. If this card is Fusion Summoned: You can destroy 1 \"Memento\" monster in your hand or face-up field, and if you do, add up to 2 \"Memento\" monsters with different names from your Deck to your hand. If this Fusion Summoned card is destroyed: You can Special Summon 1 Level 6 or lower \"Memento\" monster from your GY."
   }
 }

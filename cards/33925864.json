@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If a \"Kashtira\" Xyz Monster is on the field and a player controls 2 or more monsters: They must banish monsters they control, face-down, so they only control 1 monster. If this card is banished: You can target 1 \"Kashtira\" Xyz Monster you control; add 1 of your \"Kashtira\" monsters attached to it to your hand, then you can Special Summon that monster from your hand. You can only use each effect of \"Kashtira Big Bang\" once per turn."
   }
 }

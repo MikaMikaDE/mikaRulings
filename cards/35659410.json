@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When you activate this card: You can reveal 1 \"Blue-Eyes White Dragon\" in your hand; Special Summon 1 monster from your hand. Once per turn: You can target 1 face-up monster you control; return that face-up monster to the hand, then you can apply the following effect, based on the original name of the card returned to the hand.\r\n● \"Blue-Eyes White Dragon\": Special Summon 1 monster from your hand.\r\n● Other: Special Summon 1 \"Blue-Eyes\" monster from your hand.\r\nYou can only activate 1 \"Vision with Eyes of Blue\" per turn."
   }
 }

@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● The ① effect can miss its timing, for example if drawn by \"Upstart Goblin\".\n● The ② effect can miss its timing, for example if Summoned at Chain Link 2 or higher.\n● If 2 \"Infernity Archfiend\" are summoned at the same time, they will form a chain.\nThe first will resolve and search, and then the second cannot resolve, as you now have a card in hand.",
     "Vegas": "● The ① effect can miss its timing, for example if drawn by \"Upstart Goblin\".\n● The ② effect can miss its timing, for example if Summoned at Chain Link 2 or higher.\n● If 2 \"Infernity Archfiend\" are summoned at the same time, they will form a chain.\nThe first will resolve and search, and then the second cannot resolve, as you now have a card in hand.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When you draw this card, if you have no other cards in your hand: You can reveal this card; Special Summon this card from your hand. When this card is Special Summoned: You can add 1 \"Infernity\" card from your Deck to your hand. You must have no cards in your hand to activate and to resolve this effect."
   }
 }

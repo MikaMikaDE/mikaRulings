@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If you control a \"Plunder Patroll\" monster: Draw cards equal to the number of Equip Cards you control +1, then shuffle cards from your hand into the Deck equal to the number of Equip Cards you control. You can only use this effect of \"Plunder Patroll Parrrty\" once per turn. If you Special Summon a \"Plunder Patroll\" monster(s) from the Extra Deck, while this card is in your GY: You can equip this card to that Special Summoned monster as an Equip Card with this effect.\r\n● The equipped monster gains 500 ATK.\r\nYou can only use this effect of \"Plunder Patroll Parrrty\" once per Duel."
   }
 }

@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●Castle of Dark Illusions’s” effect will increase the ATK of Zombie monsters on the field by 200 per turn for each turn that “Castle of Dark Illusions” is face-up, for the duration of 4 turns on the SP. \n●If “Castle of Dark Illusions” leaves the field before the fourth SP, the ATK increase will stop increasing. Any ATK increase that occurred as a result of “Castle of Dark Illusions” will remain on the respective Zombie monsters as long as those Zombie remain face up on the field.\n●Q: How are increases to ATK/DEF applied through the effect of “Castle of Dark Illusions” and are those increases removed when “Castle of Dark Illusions” is removed from the field? \nA: Castle of Dark Illusions: When it is flipped, any face-up Zombie-type monsters increase their ATK/DEF by 200 points. Then as long as the Castle of Dark Illusions remains face-up on the field, during your SP the ATK/DEF of any face-up Zombie monsters increaes by 200 points. The effect will continue until your 4th SP following the activation of the flip-effect or the Castle of Dark Illusions is destroyed: whichever comes first. The increase to the ATK/DEF of the Zombie monsters remains as long as the affected Zombie is still face-up on the field. Castle of Dark Illusions does not need to remain face-up on the field for the increase(s) to remain. \n●Q: Would my face-up “Spirit Reaper” be destroyed if my “Castle of Dark Illusions” was flipped face-up and do Zombie monsters place on the field face-up after “Castle of Dark Illusions” is face-up receive the increase? \nA: “Castle of Dark Illusion's” effect is not a targetting effect. “Spirit Reaper” will not be destroyed by its effect. Any Zombies brought face-up on the field while “Castle of Dark Illusion's” effect is applying will get the increase. It does not matter if the Zombies were face-up on the field when “Castle of Dark Illusions” was flipped.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "FLIP: All Zombie-Type monsters gain 200 ATK and DEF. During each of your next 4 Standby Phases, each of those Zombie-Type monsters gains 200 more ATK and DEF. These effects last as long as this card is face-up on the field."
   }
 }

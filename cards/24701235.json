@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● The effect to gain an additional Normal Summon is an \"Unclassified Effect\". \nIt applies immediately after this card is Successfully Summoned, and won't be negated by \"Effect Veiler\".\nHowever, if \"Skill Drain\" is already applying when this card is Summoned, it will be negated.\n● If you control multiple Spirit monsters, their End Phase effects don’t chain to each other (they each activate, one after another).\n● The End Phase effect is not \"Once Per turn\". Unless its effect was negated, it will keep trying to activate.",
     "Vegas": "● The effect to gain an additional Normal Summon is an \"Unclassified Effect\". \nIt applies immediately after this card is Successfully Summoned, and won't be negated by \"Effect Veiler\".\nHowever, if \"Skill Drain\" is already applying when this card is Summoned, it will be negated.\n● If you control multiple Spirit monsters, their End Phase effects don’t chain to each other (they each activate, one after another).\n● The End Phase effect is not \"Once Per turn\". Unless its effect was negated, it will keep trying to activate.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. During the turn this card was Normal Summoned or flipped face-up, you can Normal Summon 1 Spirit monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When this card is sent to the Graveyard: Draw 1 card. You must control a Spirit monster to activate and to resolve this effect."
   }
 }

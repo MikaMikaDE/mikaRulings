@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Activate 1 of these effects, also, after that, Set this card face-down instead of sending it to the GY.\r\n● Change 1 Set \"Subterror\" monster on the field to face-up Attack or Defense Position.\r\n● Change 1 face-up \"Subterror\" monster on the field to face-down Defense Position.\r\n● ATK/DEF of 1 \"Subterror\" monster on the field become equal to its combined original ATK/DEF until the end of this turn.\r\n● This turn, activated effects of \"Subterror\" cards cannot be negated."
   }
 }

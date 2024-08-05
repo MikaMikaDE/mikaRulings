@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 \"Magikey\" Tuner + 1+ non-Tuner Normal Monsters\r\nThis card can make up to 2 attacks on monsters during each Battle Phase. You can only use each of the following effects of \"Magikey Fiend - Transfurlmine\" once per turn. If you control this card that was Synchro Summoned using at least 2 Attributes of monsters: You can Set 1 \"Magikey\" Spell/Trap directly from your Deck to your Spell & Trap Zone. If your opponent Normal or Special Summons a monster(s) with the same Attribute as a monster in your GY (except during the Damage Step): You can destroy that monster(s)."
   }
 }

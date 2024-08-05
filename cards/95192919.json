@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Your opponent cannot target this Tribute Summoned card with Spell/Trap Cards or effects. You can only use each of the following effects of \"Simorgh, Lord of the Storm\" once per turn.\r\n● When a Spell/Trap Card or effect is activated (Quick Effect): You can Tribute 1 WIND Winged Beast monster, then target 1 card your opponent controls; shuffle it into the Deck.\r\n● When a Winged Beast monster you control is destroyed by battle while this card is in your GY: You can add this card to your hand."
   }
 }

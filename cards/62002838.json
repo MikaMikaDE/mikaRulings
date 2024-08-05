@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can banish 1 Level 8 Dragon monster from your Extra Deck; Special Summon this card from your hand, also you cannot Special Summon for the rest of this turn, except Dragon monsters. You can activate 1 of these effects;\r\n● Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field.\r\n● Target 1 other Attack Position monster on the field; make this card lose exactly 500 ATK/DEF, and if you do, destroy that monster.\r\nYou can only use each effect of \"Dark End Evaporation Dragon\" once per turn."
   }
 }

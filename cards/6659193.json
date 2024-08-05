@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Level 5 Spellcaster monsters\r\nCannot be destroyed by battle or card effects while it has material. Your opponent takes any effect damage you would have taken instead. This effect can be applied a number of times per turn up to the number of materials attached to this card. If this card has \"Performage Trapeze Magician\" as material, it gains this effect.\r\n● You can detach 1 material from this card; this card can make up to 3 attacks during each Battle Phase this turn."
   }
 }

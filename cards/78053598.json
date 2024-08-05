@@ -8,7 +8,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●If you activate Dark Designator and your opponent says he/she has no cards in their Deck of that name, you may check the Deck to verify.\n●You cannot declare a nonexistent card for Dark Designator.\n●Your opponent must show you the card added to his hand.\n●If the player required to search for the Monster Card designated by “Dark Designator’s” effect does not have the specified card in his/her Deck, the controller of “Dark Designator” may search the opponent’s Deck to verify this.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Declare 1 Monster Card name. If the declared card is in your opponent's Deck, add 1 of that card to your opponent's hand."
   }
 }

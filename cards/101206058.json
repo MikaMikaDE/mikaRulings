@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Normal Monsters and \"Primoredial\" monsters you control gain 300 ATK for each Normal Monster in your GY with different names. You can only use each of the following effects of \"Primoredial Imperialode\" once per turn. When this card is activated: Add 1 \"Primoredial\" card from your Deck to your hand, except \"Primoredial Imperialode\". You can declare 1 Normal Monster's name; Special Summon 1 Normal Monster with that name from your hand, Deck, or GY, also you cannot activate Special Summoned monsters' effects for the rest of this turn."
   }
 }

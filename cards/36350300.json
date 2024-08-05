@@ -7,8 +7,8 @@
     "race": "Ritual"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card can be used to Ritual Summon any Ritual Monster from your Deck. You must also Tribute Normal Monsters from your hand whose total Levels equal the Level of the Ritual Monster you Ritual Summon. Shuffle that Ritual Monster into the Deck during your opponent's End Phase. You can only activate 1 \"High Ritual Art\" per turn."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn, during your Main Phase: You can change this card to face-down Defense Position. If this card is Normal Summoned or flipped face-up: Send the top 2 cards of your Deck to the GY, then if either card was a \"Ghostrick\" card, you can apply 1 of these effects.\r\n● Add 1 \"Ghostrick\" Spell/Trap from your Deck to your hand.\r\n● Change 1 Effect Monster your opponent controls to face-down Defense Position."
   }
 }

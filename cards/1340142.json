@@ -9,8 +9,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 monsters, including a \"Vaalmonica\" Link Monster\r\nUnaffected by card effects, except \"Vaalmonica\" cards, while you have 6 or more Resonance Counters on your field. Gains 1 additional attack during each Battle Phase, for each Level 4 \"Vaalmonica\" monster you control. Once per turn, when your opponent would Special Summon a monster(s), if you have 3+ Resonance Counters on your field (Quick Effect): You can negate the Special Summon, and if you do, destroy that monster(s), then remove 3 Resonance Counters from your field."
   }
 }

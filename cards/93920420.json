@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This Normal Summoned/Set card cannot be destroyed by battle with a monster Special Summoned from the Extra Deck. You can only use each of the following effects of \"World Legacy - \"World Wand\"\" once per turn.\r\n● If this card is sent to the GY: You can Special Summon 1 \"World Legacy\" monster from your hand.\r\n● You can banish this card from your GY, then target 1 of your banished \"Orcust\" monsters; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except DARK monsters."
   }
 }

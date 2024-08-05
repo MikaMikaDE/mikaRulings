@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● The ② effect can miss its timing.",
     "Vegas": "● The ② effect can miss its timing.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "3 Level 3 monsters\nDuring either player's turn, when your opponent targets exactly 1 face-up \"Mermail\" monster you control for an attack, or with a Spell/Trap effect that could have targeted this card (except during the Damage Step): You can detach 1 Xyz Material from this card; that attack/effect now targets this card. When this card is destroyed and sent to the Graveyard: You can target 1 \"Mermail\" monster in your Graveyard, except \"Mermail Abysstrite\"; Special Summon that target."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Once per turn, if a card(s) is added from the Main Deck to your opponent's hand (except during the Damage Step): You can Special Summon 1 \"Generaider\" monster from your Deck in Defense Position. If you Special Summon a \"Generaider\" monster(s) during your opponent's turn (except during the Damage Step): You can Special Summon as many \"Generaider Tokens\" (Fairy/LIGHT/Level 4/ATK 1500/DEF 1500) as possible in Attack Position, but destroy them during the End Phase (even if this card leaves the field). You can only use this effect of \"Generaider Boss Stage\" once per turn."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 Tuner + 1+ non-Tuner \"Gusto\" monsters\r\nYou can only Special Summon \"Daigusto Laplampilica\" once per turn. If this card is Synchro Summoned: You can Special Summon 1 \"Gusto\" monster from your hand and 1 \"Gusto\" monster from your Deck, but negate their effects, then immediately after this effect resolves, Synchro Summon 1 \"Gusto\" Synchro Monster using only those 2 monsters, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. Your opponent cannot target other \"Gusto\" Synchro Monsters you control with card effects."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During your Main Phase, if this card was activated this turn: You can Special Summon 1 Level 6 or lower Insect monster from your GY. You can reveal 1 Insect monster in your hand, then target 1 face-up monster your opponent controls, and 1 Insect monster you control with less ATK than the revealed monster; switch control of those monsters, and if you do, the monster you took control of becomes an Insect monster. You can only use 1 \"Giant Ballgame\" effect per turn, and only once that turn."
   }
 }

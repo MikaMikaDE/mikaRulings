@@ -7,8 +7,8 @@
     "race": "Counter"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Activate 1 of these effects.\r\n● When your opponent activates a Spell/Trap Card while a \"Dream Mirror of Joy\" is in a Field Zone: Negate the activation, and if you do, destroy that card.\r\n● When your opponent would Special Summon monster(s) while a \"Dream Mirror of Terror\" is in a Field Zone: Negate the Summon, and if you do, destroy that monster.\r\nYou can only activate 1 \"Dream Mirror Oneiromancy\" per turn."
   }
 }

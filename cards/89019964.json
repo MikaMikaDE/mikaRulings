@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Gains 300 ATK for each \"Unchained\" card in your GY. You can only use each of the following effects of \"Unchained Soul of Disaster\" once per turn.\r\n● You can target 1 face-up monster your opponent controls; immediately after this effect resolves, Link Summon 1 DARK Link Monster using only this card you control and that opponent's monster as material.\r\n● If this card on the field is destroyed by battle or card effect: You can target 1 \"Unchained\" monster in your GY, except \"Unchained Soul of Disaster\"; Special Summon it."
   }
 }

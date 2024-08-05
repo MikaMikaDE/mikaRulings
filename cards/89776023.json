@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If a monster(s) you control would be destroyed by battle or card effect, you can Tribute 1 Reptile or Dinosaur monster you control instead. You can only use each of the following effects of \"Evoltile Pholis\" once per turn. If this card is Normal or Special Summoned: You can Special Summon 1 \"Evoltile\" monster from your hand or GY in face-down Defense Position. During your Main Phase: You can Set 1 \"Evo-Force\" or \"Evo-Instant\" directly from your Deck."
   }
 }

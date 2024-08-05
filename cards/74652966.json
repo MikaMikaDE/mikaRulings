@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If you control a Link Monster: You can Special Summon this card from your hand. During your Main Phase: You can activate this effect; once this turn, if you Link Summon a \"Salamangreat\" Link Monster, you can use 1 \"Salamangreat\" Link Monster you control with its same name as the entire material. During your opponent's Main Phase (Quick Effect): You can banish this card from your GY; immediately after this effect resolves, Link Summon 1 Link-3 or higher Cyberse Link Monster. You can only use each effect of \"Code of Soul\" once per turn."
   }
 }

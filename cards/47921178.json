@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During your Main Phase, you can Normal Summon 1 \"Battlin' Boxer\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When an opponent's monster declares an attack, while you control a Warrior or FIRE monster: You can Special Summon this card from your hand, and if you do, negate that attack, then banish 1 monster on the field until the End Phase. You can only use this effect of \"Battlin' Boxer Chief Second\" once per turn."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Once per turn: You can target 2 \"Monarch\" Spell/Trap Cards in your Graveyard; shuffle them into the Deck, then draw 1 card. If this card is in your Graveyard: You can banish 1 other \"Monarch\" Spell/Trap Card from your Graveyard; Special Summon this card in Defense Position as a Normal Monster (Fairy-Type/LIGHT/Level 5/ATK 1000/DEF 2400). (This card is NOT treated as a Trap Card.) You can only use this effect of \"The Prime Monarch\" once per turn."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Equip"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Equip only to a Dragon Synchro Monster you control. A \"Red Dragon Archfiend\" equipped with this card is unaffected by your opponent's activated card effects. Once per turn: You can change the ATK of all monsters your opponent currently controls to the equipped monster's. Once per turn, when an attack is declared involving the equipped monster: You can target 1 monster in your opponent's GY; banish it, and if you do, the equipped monster gains ATK equal to the banished monster's, until the end of this turn."
   }
 }

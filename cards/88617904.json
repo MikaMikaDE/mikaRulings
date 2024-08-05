@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 Level 3 or lower EARTH Warrior monster you control; send it to the GY, and if you do, Special Summon 1 Level 4 or higher EARTH Warrior monster from your Deck, then, if you control a \"Puppet\" monster that was originally an EARTH Warrior, that Special Summoned monster gains ATK/DEF equal to the number of cards currently in your opponent's GY x 100. You can only activate 1 \"Promotion\" per turn."
   }
 }

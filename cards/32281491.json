@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card is Normal Summoned: You can Special Summon 1 non-LIGHT \"Number\" monster from your GY, but negate its effects, and if you do, equip both this card and 1 \"Utopia\" monster you control to it, each as an Equip Spell that gives it 1700 ATK, also you can only declare one attack for the rest of this turn. When the monster equipped with this card by this card's effect declares an attack on your opponent's monster: You can double the attacking monster's ATK, but destroy it during the End Phase."
   }
 }

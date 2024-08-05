@@ -7,8 +7,8 @@
     "race": "Counter"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "At the start of your opponent's Battle Phase: Pay half your LP; Special Summon 1 \"Dinomorphia Token\" (Dinosaur/DARK/Level 10/ATK 0/DEF 3000), and if you do, for the rest of this turn, while you control that Token in your Monster Zone, your opponent cannot target other monsters for attacks, except that one. During damage calculation, while your LP are 2000 or less, if you would take battle damage: You can banish this card from your GY; you take no battle damage from that battle. You can only activate 1 \"Dinomorphia Shell\" per turn."
   }
 }

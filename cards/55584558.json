@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Choose 1 monster on the field, and until the end of the next turn, it cannot be destroyed by battle. After choosing a card, then you can apply the following effect.\r\n● Discard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.\r\nA \"Purrely\" Xyz Monster that has this card as material gains the following effect.\r\n● Gains 300 ATK/DEF for each material attached to it."
   }
 }

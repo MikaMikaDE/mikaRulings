@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If the turn player Summons exactly 1 monster: Destroy it, and if you do, the controller of that monster Special Summons 1 \"Mask Token\" (Spellcaster/DARK/Level 1/ATK ?/DEF ?) to their field, which cannot attack directly, with ATK/DEF equal to what the destroyed monster had on the field. You can only use this effect of \"Ecole de Zone\" once per turn. If this face-up card leaves the field, destroy all \"Mask Tokens\" on the field."
   }
 }

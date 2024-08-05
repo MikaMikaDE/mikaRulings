@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Monsters your opponent controls cannot attack \"World Legacy\" monsters you control, except this one. You can only use each of the following effects of \"World Legacy - \"World Lance\"\" once per turn.\r\n● During damage calculation, if a Link Monster battles a monster (Quick Effect): You can discard this card; the opponent's battling monster loses 3000 ATK.\r\n● If a monster(s) is Special Summoned from the Extra Deck: Special Summon 1 \"World Legacy Token\" (Machine/DARK/Level 1/ATK 0/DEF 0) to both players' fields in Defense Position."
   }
 }

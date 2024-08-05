@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "For the rest of this Duel, apply the following effects.\r\n● You cannot activate monster effects in the hand.\r\n● Your monsters can make up to 2 attacks on monsters during each Battle Phase.\r\n● If your monster battles an opponent's monster, any battle damage it inflicts to your opponent is doubled.\r\nYou can banish this card from your GY; add 1 \"Morganite\" card from your Deck to your hand, then place 1 card from your hand on the bottom of the Deck."
   }
 }

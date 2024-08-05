@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Special Summon this card as an Effect Monster (Machine/EARTH/Level 4/ATK 0/DEF 2000) with the following effects (this card is also still a Trap).\r\n● Gains 1000 ATK for each \"Shining Sarcophagus\", and monster that mentions it, that you control.\r\n● Once per turn, when an opponent's monster declares an attack, while you control \"Shining Sarcophagus\": You can destroy that monster."
   }
 }

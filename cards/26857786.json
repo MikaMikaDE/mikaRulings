@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card is destroyed by battle or card effect and sent to the GY: You can target 1 face-up monster your opponent controls; it loses 400 ATK until the end of this turn. You can only use each of the following effects of \"Cursed Fire King Doom Burst\" once per turn. If you control a Fiend Tuner: You can Special Summon this card from your hand. If this card is Special Summoned: You can target 1 face-up monster your opponent controls; it loses 600 ATK until the end of this turn."
   }
 }

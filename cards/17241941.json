@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nOnce per turn: You can target 1 Pendulum Monster you control and 1 monster your opponent controls; change their battle positions.\n[ Monster Effect ] \nIf this card, Special Summoned from the Extra Deck, is used as Synchro Material, banish it. If this card is Normal Summoned: You can change its battle position. You can only use each of the following effects of \"Gigathunder Giclops\" once per turn. If the battle position of this card is changed: You can target 1 face-up Spell/Trap on the field; destroy it. If this card is destroyed in the Pendulum Zone: You can return 1 card from your Pendulum Zone to the hand."
   }
 }

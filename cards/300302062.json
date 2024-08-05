@@ -7,8 +7,8 @@
     "race": "The Supreme K"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can use \"Super Polymerization\" to Fusion Summon monsters that can normally only be Summoned with \"Dark Fusion\". Each of the following Skills can only be used once per Duel.\r\n● Lose 2000 LP, then change the Type of 1 Special Summoned monster your opponent controls to Rock.\r\n● Discard 1 card, then add 1 \"Dark Fusion\" from your Deck to your hand."
   }
 }

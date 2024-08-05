@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. If a monster(s) you control is destroyed by an opponent's attack or card effect: You can pay half your LP; Special Summon this card from your hand. Cannot be targeted by card effects. If this card attacks an opponent's monster, during the Damage Step only, negate the effects of that monster while it is face-up on the field (but its effects can still be activated), also its ATK becomes half its original ATK. Once per battle, if this card battles, during damage calculation (Quick Effect): You can make this card's ATK become equal to the highest original ATK on the field (your choice, if tied)."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can discard 1 Spell/Trap; add 1 \"Power Bond\" from your Deck to your hand, you can only use Dragon or Machine \"Cyber\" monsters as Fusion Material this turn, also once when you Fusion Summon this turn, you can also banish monster(s) from your GY as material. If this card is sent to the GY: You can send 1 \"Cyberdark\" monster from your Deck to the GY, with a different name from the cards in your GY. You can only use each effect of \"Cyberdark Chimera\" once per turn."
   }
 }

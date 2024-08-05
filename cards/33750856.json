@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cyberse Link Monsters you control cannot be destroyed by your opponent's card effects. Once per turn, during the Battle Step, if your monster battles an opponent's monster: You can activate this effect; that opponent's monster's ATK becomes 0 until the end of this turn, also for that battle, monsters cannot be destroyed by battle and neither player takes battle damage. That opponent's monster must be face-up on the field to activate and to resolve this effect. When your opponent activates a card or effect during a Damage Step that your \"Code Talker\" monster is attacking in: You can banish this card from your GY; negate the activation, and if you do, your attacking monster gains 700 ATK."
   }
 }

@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "● While this effect is applying, \"Future Fusion\" cannot be activated, nor can it Summon a Monster during the 2nd Standby Phase.\n●If this card is destroyed by battle, the ② stops applying in Substep 6 (\"Tragoedia\"'s effect can't be activated).",
-    "Tengu": "No rulings currently available.",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cannot be Special Summoned. Neither player can Special Summon monsters."
   }
 }

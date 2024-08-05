@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card attacks or is attacked: Your opponent draws 1 card and shows it, then, based on its type apply this effect.\r\n● Monster: End the Battle Phase of this turn.\r\n● Spell: If this card is attacking, you can change it to a direct attack instead.\r\n● Trap: Change this card to Defense Position."
   }
 }

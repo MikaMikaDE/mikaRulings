@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "While 6 or more of your cards are banished, you can Normal Summon this card without Tributing. You can only use each of the following effects of \"Gizmek Makami, the Ferocious Fanged Fortress\" once per turn. If this card is Normal or Special Summoned: You can discard 1 monster; add 1 monster whose ATK equals its own DEF from your Deck to your hand, except \"Gizmek Makami, the Ferocious Fanged Fortress\". If this card in the Monster Zone is destroyed: You can shuffle 6 of your banished cards into the Deck."
   }
 }

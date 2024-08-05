@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Neither player can target \"Exosister\" monsters you control with effects of monsters that were Special Summoned from the GY. You can only use each of the following effects of \"Exosister Carpedivem\" once per turn. If you Xyz Summon an \"Exosister\" monster: You can declare 1 card name; negate the activated effects and effects on the field of cards with that original name, until the end of this turn. When an attack is declared involving your \"Exosister\" monster: You can target 1 Spell/Trap your opponent controls; destroy it."
   }
 }

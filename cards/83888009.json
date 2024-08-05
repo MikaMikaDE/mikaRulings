@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Tribute all Xyz Monsters you control, then target 1 of your banished Xyz Monsters; Special Summon it, then you can attach your \"Number\" Xyz Monsters that are banished and/or in your GY to it as material, that have a number between \"101\" and \"107\" in their name, up to the number of monsters Tributed to activate this effect +1. During the End Phase of the turn you activated this card, each player takes 300 damage for each card in their hand."
   }
 }

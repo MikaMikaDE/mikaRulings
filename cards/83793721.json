@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 \"Melodious Maestra\" monster + 2 \"Melodious\" monsters\r\n(Quick Effect): You can banish (until the End Phase) any number of \"Melodious\" monsters you control, then you can return up to that many face-up cards your opponent controls to the hand. You can only use this effect of \"Flowering Etoile the Melodious Magnificat\" once per turn. If this face-up Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 \"Melodious\" monster from your Deck or Extra Deck, except \"Flowering Etoile the Melodious Magnificat\"."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "3 Level 10 Winged Beast-Type monsters\nUnaffected by other cards' effects. You can detach 1 Xyz Material from this card; for the rest of this turn, all monsters your opponent controls will lose 1000 ATK, also your opponent's cards and effects cannot be activated. If this card has a \"Raidraptor\" monster as Xyz Material, it gains this effect.\n● Once per turn, during the End Phase: You can make all monsters your opponent controls lose 1000 ATK. If your opponent controls no face-up monsters, inflict 1000 damage to your opponent."
   }
 }

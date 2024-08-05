@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "While face-up on the field, this card is also WIND-Attribute. You can only use each of the following effects of \"Simorgh of Darkness\" once per turn.\r\n● If you Tribute Summon a DARK or WIND monster: You can Special Summon this card from the GY (if it was there when the monster was Tribute Summoned) or hand (even if not).\r\n● When a Spell/Trap Card or effect is activated (Quick Effect): You can Tribute 1 WIND Winged Beast monster; negate the activation, and if you do, destroy that card."
   }
 }

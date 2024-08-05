@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Send 1 LIGHT Machine Normal or Union monster from your hand or Deck to the GY, and if you do, add 1 LIGHT Machine monster with the same ATK, but a different original name, from your Deck to your hand. If you Special Summon 3 LIGHT Machine monsters at the same time while this card is in your GY: You can banish this card; add 1 monster with 3000 or more ATK from your Deck to your hand, then, immediately after this effect resolves, Normal Summon it. You can only use each effect of \"Union Activation\" once per turn."
   }
 }

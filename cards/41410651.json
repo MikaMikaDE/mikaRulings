@@ -7,8 +7,8 @@
     "race": "Equip"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Equip only to a Cyberse monster. If the equipped monster battles an opponent's monster, during damage calculation: You can send 1 \"Mathmech\" monster from your Deck to the GY; the equipped monster gains ATK equal to the sent monster's ATK, until the end of this turn (even if this card leaves the field). If this card is sent from the Spell & Trap Zone to the GY: You can target 1 \"Mathmech\" card in your GY, except \"Mathmech Billionblade Nayuta\"; add it to your hand. You can only use each effect of \"Mathmech Billionblade Nayuta\" once per turn."
   }
 }

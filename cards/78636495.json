@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●If Blade Knight destroys a Flip Effect Monster like Slate Warrior, even that monster’s non-Flip effects are negated. So in this case, Slate Warrior does not reduce the ATK/DEF of the Blade Knight that destroyed it, because Blade Knight negates its effect.\n●Gorgon’s Eye cannot negate the effect of Sangan, Witch of the Black Forest, or Sinister Serpent because they activate in the GY. If a Defense Position Slate Warrior is attacked and destroyed, the effect of Slate Warrior that lowers ATK/DEF is applied because it activates in the GY.\n●If Grave Protector is on the field, the effect of Slate Warrior that reduces the ATK/DEF of the monster that destroys Slate Warrior is still applied, even though Slate Warrior is shuffled back into the Deck instead of being sent to the GY. The timing of Slate Warrior’s effect is still at the end of the Damage Step (when monsters are normally sent to the GY after battle).\n●When a monster's ATK/DEF are changed by its own effect, like Slate Warrior or Berserk Dragon, and Skill Drain is activated, that monster's effect is negated and the ATK/DEF are returned to normal. Even if Skill Drain is then destroyed, the old adjustment to ATK/DEF does not come back. Any bonuses or penalties are lost when Skill Drain effect is applied, and you have to start over from the beginning.  If “Slate Warrior” is flipped as a result of battle, “Slate Warrior’s” ATK/DEF bonus will resolve after Damage Calculation. \n●“Slate Warrior’s” ‘destroyed in battle’ effect is not dependent upon “Slate Warrior” being flipped.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "FLIP: This card gains 500 ATK and DEF.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF."
   }
 }

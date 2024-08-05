@@ -11,7 +11,7 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Tengu": "(1) You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s).\n●The (1) effect does not have any classification. It is not an Ignition, Trigger, Quick, or Continuous Effect.\n●This effect does not target.\n●Using Mystical Sheep #1 as a Fusion Material does not start a Chain Link.\n●This effect You can substitute this card for any 1 Fusion Material monster of a monster like King of the Swamp is not applied while the monster is banished. If you activate Parallel World Fusion, then you cannot use it as a substitute for a Fusion Material.\n●The effect You can substitute this card for any 1 Fusion Material Monster of a monster like King of the Swamp or Goddess with the Third Eye is not applied while the monster is in the Deck.\n●When Special Summoning Chimeratech Fortress Dragon or XYZ-Dragon Cannon, you cannot send to the GY a monster like The Dark - Hex-Sealed Fusion as a substitute for a Fusion Material.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s)."
   }
 }

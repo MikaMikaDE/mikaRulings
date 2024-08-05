@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 \"Cubic\" monster you control to the Graveyard. If Summoned this way, this card gains 800 ATK. If this card is Special Summoned from the hand: Inflict 800 damage to your opponent. At the end of the Damage Step, if this card battled: You can target up to 2 \"Vijam the Cubic Seed\" in your Graveyard; send this card to the Graveyard, and if you do, Special Summon them, then you can add 1 \"Vulcan Dragni the Cubic King\" from your Deck to your hand."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "\"Fallen of Albaz\" + 1 Beast, Beast-Warrior, or Winged Beast monster\r\nWhen a Fusion, Synchro, Xyz, or Link Monster's effect is activated (Quick Effect): You can negate that effect, then you can return 1 monster from the field to the hand. During your opponent's turn, while this card is in your GY (Quick Effect): You can target 1 \"Fallen of Albaz\" in your GY; Special Summon either that monster or this card, and banish the other. You can only use each effect of \"Rindbrumm the Striking Dragon\" once per turn."
   }
 }

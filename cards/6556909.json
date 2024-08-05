@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card's name becomes \"Red-Eyes Black Dragon\" while on the field or in the GY. If your opponent Special Summons a monster(s) (except during the Damage Step): You can send this card from your hand or field to the GY; Special Summon 1 \"Red-Eyes\" monster from your hand or Deck, except \"Red-Eyes Soul\". You can only use this effect of \"Red-Eyes Soul\" once per turn. (Quick Effect): You can target 1 \"Red-Eyes Black Dragon\" you control; inflict damage to your opponent equal to that monster's original ATK. You can only use this effect of \"Red-Eyes Soul\" once per Duel."
   }
 }

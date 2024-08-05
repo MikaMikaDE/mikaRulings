@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● Continuous Spell/Trap cards must remain face-up for their effects to be applied. If \"Mystical Space Typhoon\" is chained to this card, you do not discard or destroy that target.",
     "Vegas": "● Continuous Spell/Trap cards must remain face-up for their effects to be applied. If \"Mystical Space Typhoon\" is chained to this card, you do not discard or destroy that target.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card is activated: You can target 1 face-up card your opponent controls; discard 1 Beast-Warrior monster, and if you do, destroy that card. All Beast-Warrior monsters you control gain 100 ATK."
   }
 }

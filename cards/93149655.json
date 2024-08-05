@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nOnce per turn, when an attack is declared involving your face-up monster and an opponent's monster, if you have an \"Odd-Eyes\" card in your other Pendulum Zone: You can make that monster you control gain 1200 ATK until the end of the Battle Phase (even if this card leaves the field).\n[ Monster Effect ] \nWhen this Pendulum Summoned card inflicts battle damage to your opponent by attacking: You can inflict damage to your opponent equal to the number of \"Odd-Eyes\" cards in your Pendulum Zones x 1200. You can only use this effect of \"Odd-Eyes Phantom Dragon\" once per turn."
   }
 }

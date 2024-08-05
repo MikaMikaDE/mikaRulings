@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nIf a face-up \"Metalfoes\" card(s) you control is destroyed by card effect (except during the Damage Step): You can target 1 face-up card on the field; destroy it. You can only use this effect of \"Parametalfoes Azortless\" once per turn.\n[ Monster Effect ] \n1 \"Metalfoes\" monster + 1 Fusion Monster\r\nIf this card is Special Summoned from the Extra Deck: You can target 1 card your opponent controls; shuffle 2 face-up Pendulum Monsters from your Extra Deck into the Deck, and if you do, destroy that card. You can only use this effect of \"Parametalfoes Azortless\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone."
   }
 }

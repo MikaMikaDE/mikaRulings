@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings currently available.",
-    "Tengu": "No rulings currently available.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●Night Assailant doesn't have to be sent to the GY by an effect, or by an effect controlled by your opponent; it just has to be sent to the GY. Night Assailant's effect activates when sent to the GY as a cost for Magic Jammer or Tribe-Infecting Virus; Night Assailant's effect activates after the current chain resolves.\n●Night Assailant's effect activates when sent to the GY by Morphing Jar or Card Destruction.\n●Night Assailant's effect activates when sent to the GY for a Ritual Summon.\n●When Night Assailant is sent to the GY by the effect of Last Turn, FIRST resolve Last Turn's effect of sending all cards on the field and in the hands to the GY, SECOND activate and resolve the effect of Night Assailant, and THIRD Special Summon a monster by the effect of Last Turn.\n●You cannot select the Night Assailant that was itself sent to the GY, so there is no infinite loop.\n●When multiple Night Assailants are sent to the GY at the same time because of Graceful Charity, etc., both can be returned to your hand because Night Assailant cannot select itself but CAN select a different Night Assailant, even one that was sent to the GY at the same time.\n●Both of Night Assailant's effects target.\n●You cannot use Night Assailant's second effect while Necrovalley is applying.\n●If your opponent has your Night Assailant in his hand (because of Exchange) and it's sent to the GY, you (the owner) get the effect.\n●If you have Forced Requisition applying (face-up) and 7 cards in your hand during the End Phase (and one of them is a Night Assailant), and there is another Night Assailant in your GY, and you discard your Night Assailant because you have 7 cards, your opponent must discard because of Forced Requisition. Then you can activate the effect of Night Assailant to retrieve the other Night Assailant. Now you have 7 cards in your hand again so you can discard Night Assailant, and your opponent must discard again for Forced Requisition. You can continue doing this until your opponent loses all cards in their hand.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "FLIP: Target 1 monster your opponent controls; destroy that target.\nWhen this card is sent from the hand to the Graveyard: Target 1 Flip Effect Monster in your Graveyard, except this card; return that target to the hand."
   }
 }

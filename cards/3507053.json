@@ -9,8 +9,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 \"Appliancer\" monster\r\nCannot be used as Link Material the turn it is Link Summoned. This linked card gains 1000 ATK. Once per turn, during your Battle Phase, if this card is co-linked (except during the Damage Step): You can switch the locations of 2 \"Appliancer\" monsters in your Main Monster Zones, including this card, and if you do, the other monster can make a second attack during each Battle Phase this turn. Once per turn, when this card that is not co-linked is targeted for an attack: You can negate that attack."
   }
 }

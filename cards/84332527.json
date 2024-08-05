@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can only use each of the following effects of \"Therion \"Bull\" Ain\" once per turn.\r\n● You can target 1 \"Therion\" monster or 1 Warrior monster in your GY; Special Summon this card from your hand, and if you do, equip that monster to this card.\r\n● You can target 1 \"Therion\" card you control and 1 card your opponent controls; destroy them.\r\nA \"Therion\" monster equipped with this card gains 700 ATK, also it can activate the 2nd effect listed above as if it were \"Therion \"Bull\" Ain\"."
   }
 }

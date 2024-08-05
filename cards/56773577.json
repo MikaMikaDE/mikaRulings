@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "While a \"Gravekeeper's\" monster(s) and \"Necrovalley\" are both on the field, monsters your opponent controls lose 500 ATK/DEF. Once per turn, during the Main Phase, if you control no card in your Field Zone: You can activate 1 \"Necrovalley\" directly from your hand or GY. If this card in your possession is destroyed by an opponent's effect and sent to your GY: You can Set 1 \"Necrovalley\" Spell/Trap directly from your Deck, except \"Necrovalley Temple\"."
   }
 }

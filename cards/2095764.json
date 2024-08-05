@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 \"Yang Zing\" monster from your Deck in Attack Position, except \"Bixi, Water of the Yang Zing\". You can only use this effect of \"Bixi, Water of the Yang Zing\" once per turn. Once per turn, during your opponent's Main Phase or Battle Phase, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using only \"Yang Zing\" monsters you control (this is a Quick Effect). A Synchro Monster that used this card as a Synchro Material is unaffected by Trap effects."
   }
 }

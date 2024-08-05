@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card's Level is increased by 4 during your opponent's turn only. You can only use each of the following effects of \"Metal Copycat\" once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Metalmorph\" Trap directly from your Deck, then, if you have \"Enhanced Metalmorph\" in your GY, you can draw 1 card. You can declare 1 Monster Type; this card becomes that Type until the end of your opponent's turn."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If your opponent controls a card: You can Set up to 1 \"Ninja\" monster, and up to 1 \"Ninjitsu Art\" Spell/Trap, except \"Ninjitsu Art Notebook of Mystery\". These cards come from your Deck and/or GY, but only 1 can come from each. If this Set card on the field is sent to the GY: You can target 1 face-up monster on the field; change it to face-down Defense Position. You can only use each effect of \"Ninjitsu Art Notebook of Mystery\" once per turn."
   }
 }

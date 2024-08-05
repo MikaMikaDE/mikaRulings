@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card is Normal or Special Summoned: You can Set 1 \"Evolutionary Bridge\" or \"Evo-Singularity\" directly from your Deck. During your Main Phase, if you control this card that was Normal Summoned, or Special Summoned by the effect of a FIRE monster: You can send 1 FIRE Reptile or Dinosaur monster from your Deck to the GY, then you can make 2 monsters on the field become the same Type and Level as that monster sent to the GY. You can only use each effect of \"Evolsaur Lios\" once per turn."
   }
 }

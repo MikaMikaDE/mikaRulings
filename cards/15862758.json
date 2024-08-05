@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "5 Level 13 monsters\r\nIf this card is Special Summoned by the effect of \"Number C1000: Numerounius\", it gains 100,000 ATK/DEF during your opponent's turn only, also apply the following effects from the start of the next turn after this card was Special Summoned.\r\n● Monsters your opponent controls must attack this card, if able.\r\n● At the end of your opponent's turn, if this card did not battle, you win the Duel.\r\nWhen an opponent's monster declares an attack: You can detach 1 material from this card; negate the attack, and if you do, gain LP equal to that monster's ATK."
   }
 }

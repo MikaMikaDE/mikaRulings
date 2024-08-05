@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings currently available.",
-    "Tengu": "No rulings currently available.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●Paying LP for Wall of Revealing Light is a cost.\n●If Wall of Revealing Light's effect is negated by Royal Decree or Jinzo, and then that card is destroyed, the effect of Wall of Revealing Light is re-applied.\n●The monsters prevented from attacking by Wall of Revealing Light's effect cannot even declare an attack.\n●You can chain Last Turn to your activation of Wall of Revealing Light as long as Last Turn's conditions are then correct (1000 or less LP).\n●You can activate Wall of Revealing Light during the Battle Step after an attack has been declared. If the monster's ATK is lower than the LP you paid, the attack stops (does not enter the Damage Step).",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Activate by paying any multiple of 1000 Life Points. Monsters your opponent controls cannot attack if their ATK is less than or equal to the amount you paid."
   }
 }

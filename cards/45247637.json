@@ -8,7 +8,7 @@
   },
   "Rulings": {
     "Edison": "The Ⓒ: \n● Banishing a card from the GY is a cost to activate this card.\n\nThe ② and ③:\n● These effects are activated Trigger Effects.\n● While Cold Wave is applying, control is not changed.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Activate this card by banishing 1 Plant monster from your GY, then target 1 face-up monster your opponent controls; equip this card to it. Take control of the equipped monster. Once per turn, during your End Phase: Negate this card's effect until your next Standby Phase."
   }
 }

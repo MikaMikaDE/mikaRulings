@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If this card is Normal or Special Summoned: You can send 1 \"Naturia\" card from your Deck to the GY. If you would Tribute a monster(s) to activate a \"Naturia\" monster's effect, you can send the top 2 cards of your Deck to the GY instead. If your opponent Normal or Special Summons a monster (except during the Damage Step): You can Special Summon 1 \"Naturia\" monster from your GY. You can only use each effect of \"Naturia Camellia\" once per turn."
   }
 }

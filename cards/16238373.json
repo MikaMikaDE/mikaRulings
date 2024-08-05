@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 Psychic monster you control and pay LP equal to its Level x 200; add 1 Machine monster with the same Attribute, but a higher Level, from your Deck to your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 each of your banished Psychic and Machine monsters; place 1 of them on the bottom of the Deck, and if you do, add the other to your hand. You can only use each effect of \"Psychic Arsenal\" once per turn."
   }
 }

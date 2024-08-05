@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "While your opponent controls a Special Summoned monster and you control a Level 7 or higher \"War Rock\" monster, during Main Phase 1, neither player can activate the effects of monsters on the field. During your Main Phase: You can Set 1 \"War Rock\" Spell/Trap directly from your Deck, except \"War Rock Medium\", also you cannot Special Summon monsters for the rest of this turn, except Warrior monsters. You can only use this effect of \"War Rock Medium\" once per turn."
   }
 }

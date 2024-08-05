@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●Two monsters must be Tributed to Special Summon “Blue-Eyes Toon Dragon” while “Toon World” is face-up on the summoning player’s field.\n●If “Blue-Eyes Toon Dragon” is turned face-down by an effect, it may not be Flip Summoned unless “Toon World” is face-up on the summoning player’s field.\n●If either player’s “Toon World” is destroyed while “Blue-Eyes Toon Dragon” is face-up on the field, “Blue-Eyes Toon Dragon” is destroyed.\n●“Blue-Eyes Toon Dragon” may be Special Summoned from the GY if it has been Special Summoned properly once and the summoning player has “Toon World” on their field.\n●“Blue-Eyes Toon Dragon” may not attack the same turn it is Special Summoned, regardless of how it was Special Summoned.\n●“Blue-Eyes Toon Dragon” may not be Special Summoned by the effect of “The Flute of Summoning Dragon” regardless of the presence of “Toon World.”",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 2 monsters, while you control \"Toon World\". Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks."
   }
 }

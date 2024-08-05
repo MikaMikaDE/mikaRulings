@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● Like all \"when...you can\" effects, this effect can have incorrect activation timing.\n\n● Summoning a monster is optional. You can activate this effect even if you can't Special Summon.\n● Since this is a \"then\" effect, Summoning a monster happens after the card is destroyed (and can only happen if the card is destroyed). \nYou can read more about conjunctions here: [link being updated]post/conjunctions\n● You can Solemn Warning this effect.",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 monster they control; destroy that target, then you can Special Summon 1 \"Ice Hand\" from your Deck."
   }
 }

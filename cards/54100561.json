@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nPendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.\n[ Monster Effect ] \nWhile you have an odd Pendulum Scale in your Pendulum Zone, if your \"Solfachord\" Pendulum Monster would be destroyed by battle, you can destroy this card instead. During your Main Phase: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your Extra Deck face-up, except \"FaSolfachord Fancia\". You can only use this effect of \"FaSolfachord Fancia\" once per turn."
   }
 }

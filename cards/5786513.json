@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 face-up monster you control; increase its Level by 3, also if you activated this card in response to your opponent's monster effect activation, while you control \"Shining Sarcophagus\" and a monster that mentions it, negate that opponent's effect. During damage calculation, if your monster that mentions \"Shining Sarcophagus\" battles: You can banish this card from your GY; end the Battle Phase. You can only activate 1 \"Turn Silence\" per turn."
   }
 }

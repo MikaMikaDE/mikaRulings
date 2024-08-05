@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 \"Purrely\" Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Purrely\" Xyz Monster with a different Rank, by using that target as material, but return it to the Extra Deck during the End Phase of the next turn. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can banish this card from your GY, then target up to 3 \"Purrely\" monsters in your GY; shuffle them into the Deck. You can only activate 1 \"Purrelyeap!?\" per turn."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If there are 2 or more different Monster Types among the Level 10 or higher monsters on the field: Shuffle all cards except this one from both players' hands, fields, and GYs into the Deck, then each player draws 5 cards. You can banish this card from your GY; add 1 \"Crystal Beast\" monster and 1 Field Spell from your Deck to your hand. You can only apply each effect of \"Rainbow Bridge of Salvation\" once per Duel."
   }
 }

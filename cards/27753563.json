@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Pay 1000 LP, then target 1 face-up monster you control; it gains 1000 ATK until the end of your opponent's turn, and if it does, apply this effect until the end of your opponent's turn.\r\n● Each time it destroys an opponent's monster by battle: You can reveal the bottom card of your Deck and place it on the top or bottom of the Deck. If the revealed card was a Dragon, Dinosaur, Sea Serpent, or Wyrm monster, draw 1 card for every 1000 ATK of that monster, then gain 1000 LP for each card drawn."
   }
 }

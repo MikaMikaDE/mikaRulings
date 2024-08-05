@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● If that target is changed to Defense Position, it is still attached as a Material.",
     "Vegas": "● If that target is changed to Defense Position, it is still attached as a Material.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Level 4 monsters\nYou can detach 2 materials from this card, then target 1 Special Summoned monster your opponent controls in face-up Attack Position; attach it to this card as material. You can only use this effect of \"Number 101: Silent Honor ARK\" once per turn. If this face-up card on the field would be destroyed by battle or card effect, you can detach 1 material from this card instead."
   }
 }

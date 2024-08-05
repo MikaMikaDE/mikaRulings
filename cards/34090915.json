@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If a LIGHT or DARK monster(s) is banished (except during the Damage Step): You can target 1 of those monsters; place that monster on the bottom of the Deck, and if you do, draw 1 card. You can only use this effect of \"Branded Regained\" once per turn. Once per turn, if your opponent Normal or Special Summons a monster (except during the Damage Step): You can target 1 \"Bystial\" monster in your GY; Special Summon it. You can only activate this effect of \"Branded Regained\" once per Chain."
   }
 }

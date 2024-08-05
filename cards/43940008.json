@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "At the start of each Battle Phase: Each player can reveal 1 monster from their Deck that does not have ? ATK, you banish them face-down, then the player who revealed the monster with the highest ATK (each player, if tied) can Special Summon 1 monster from their hand, and it can attack directly while on the field. Once per turn, during the End Phase: You can activate this effect; if you control this card during the End Phase of your next turn, destroy all cards on the field."
   }
 }

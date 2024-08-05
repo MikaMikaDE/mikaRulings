@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 \"Dinomorphia\" monsters with different names\r\nLoses ATK equal to your LP. You can only use each of the following effects of \"Dinomorphia Kentregina\" once per turn. During the Main Phase (Quick Effect): You can pay half your LP and banish 1 \"Dinomorphia\" Normal Trap from your GY; this effect becomes that Trap's effect when that card is activated. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower \"Dinomorphia\" monster from your GY."
   }
 }

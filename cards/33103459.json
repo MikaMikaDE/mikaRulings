@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Once per turn, during your Main Phase, if this card was Normal or Special Summoned this turn: You can target 1 other \"Performapal\" monster you control with 1000 or less ATK; change both it and this card, that you control, from face-up Attack Position to Defense Position, and if you do, add 1 \"Odd-Eyes\" monster from your Deck to your hand. During your opponent's turn: You can banish 1 \"Performapal\" monster, except \"Performapal Corn\", and this card from your Graveyard; gain 500 LP (this is a Quick Effect)."
   }
 }

@@ -8,7 +8,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "● If “DNA Surgery” was applying on the field and Warrior was declared, can a monster be equipped with “Dragonic Attack” and would its effect be allowed to resolve? \nA: The most recent change of the monster's Type will remain in effect. The Warrior would become a Dragon monster by the effect of Dragonic Attack and would remain a Dragon monster because Dragonic Attack was the most recent change to the monster's Type. \n●Q: If “Dragonic Attack” is equipped to a Warrior monster changing it to Dragon, would “Lord of D.” negate the effect of “Dragonic Attack” and destroy it? \nA: The effect of Dragonic Attack would still be applied. Lord of D. has no affect on effects that targeted a Dragon monster before Lord of D. was on the field. This would include the Warrior that becomes a Dragon because of Dragonic Attack.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "This card can only be used to equip Warrior-Type monsters. The equipped monster is treated as Dragon-Type and increases the ATK and DEF of the equipped monster by 500 points."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Apply 1 of these effects.\r\n● Special Summon 1 \"Vaalmonica\" monster from your Deck, also for the rest of this turn after this card resolves, you cannot activate the effects of monsters on the field, except \"Vaalmonica\" monsters.\r\n● If you control a non-Pendulum \"Vaalmonica\" monster, take 2 \"Vaalmonica\" Pendulum Monsters with different names from your Deck, add 1 of them to your hand, and add the other to your face-up Extra Deck.\r\nYou can only activate 1 \"Vaalmonica Invitare\" per turn."
   }
 }

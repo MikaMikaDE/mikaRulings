@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Once per turn, while you control this Tribute Summoned card: You can conduct up to 3 Normal Summons/Sets this turn, not just 1. While this Tribute Summoned card is in the Monster Zone, if your monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per opponent's turn (Quick Effect): You can banish 1 card from your hand; change all Special Summoned monsters your opponent controls to face-down Defense Position."
   }
 }

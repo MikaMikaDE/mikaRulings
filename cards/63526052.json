@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can target 1 face-up monster you control; Special Summon this card from your hand, and if you do, change the targeted monster to face-down Defense Position, also it cannot change its battle position for the rest of this turn. During your Main Phase: You can reduce this card's Level by 2 or 4, and if you do, Special Summon \"Krawler\" monster(s) with different names from your hand, Deck, or GY whose total Levels equal the amount reduced, in face-up and/or face-down Defense Position. You can only use each effect of \"Krawler Soma\" once per turn."
   }
 }

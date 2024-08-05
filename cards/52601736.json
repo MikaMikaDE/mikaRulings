@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● The ① does not target.\n● You can't activate the ③ on the first turn of the Duel, nor in your Main Phase 2.\n● If \"Dimensional Fissure\" is applying, you can use this card's ③, as this card is an Equip Spell Card, not a monster.\nHowever, if \"Macro Cosmos\" is applying, you can't send this card to the GY to activate its ③.\n● Activating this card's ③ is activating an effect, not activating a card. It can't be negated by \"Magic Jammer\" or \"Naturia Beast\".",
     "Vegas": "● The ① does not target.\n● You can't activate the ③ on the first turn of the Duel, nor in your Main Phase 2.\n● If \"Dimensional Fissure\" is applying, you can use this card's ③, as this card is an Equip Spell Card, not a monster.\nHowever, if \"Macro Cosmos\" is applying, you can't send this card to the GY to activate its ③.\n● Activating this card's ③ is activating an effect, not activating a card. It can't be negated by \"Magic Jammer\" or \"Naturia Beast\".",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster's Level is increased by 4. While this card is equipped to a monster: You can send this Equip Card to the Graveyard; the monster it was equipped to can attack your opponent directly this turn. Other monsters cannot attack the turn you activate this effect."
   }
 }

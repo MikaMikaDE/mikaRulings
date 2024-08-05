@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Level 10 monsters\r\nIf this card is Special Summoned: You can send all face-down cards your opponent controls to the GY. You can only use this effect of \"Tistina, the Divinity that Defies Darkness\" once per turn. Once per turn, if this card has \"Crystal God Tistina\" as material: You can detach 1 material from this card; it gains 2000 ATK until the end of your opponent's turn. If this card you control is destroyed by an opponent's card while it has material: You can Special Summon 1 \"Tistina\" monster from your GY."
   }
 }

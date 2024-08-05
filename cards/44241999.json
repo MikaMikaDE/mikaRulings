@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ Level 3 monsters\r\nWhile 3 or more Xyz Materials are attached to monsters on the field, \"Goblin\" monsters you control can attack directly. Once per turn, if a monster(s) is Normal or Special Summoned, while this card is in the Monster Zone (except during the Damage Step): You can target 1 of those monsters; detach 1 material from a monster on either field, and if you do, change the targeted monster's battle position. Once per turn, when an opponent's monster declares an attack: You can detach 1 material from a monster on either field, and if you do, negate that attack."
   }
 }

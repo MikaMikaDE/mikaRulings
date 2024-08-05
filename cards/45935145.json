@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ Level 6 monsters\r\nMonsters you control gain 100 ATK/DEF for each card in your opponent's GY. (Quick Effect): You can target 1 card in your opponent's GY and detach 1 or 2 materials from this card, then activate the appropriate effect;\r\n● 1: Return it to the Deck.\r\n● 2: If the target is a monster, Special Summon it face-up, or in face-down Defense Position, to your field. If it is not, Set it on your field.\r\nYou can only use this effect of \"Wollow, Founder of the Drudge Dragons\" once per turn."
   }
 }

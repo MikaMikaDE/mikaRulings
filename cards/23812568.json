@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If a Level 7 monster(s) is Special Summoned to your field: Send 2 \"Additional Mirror Level 7\" from your hand and/or Deck to the GY, then target 1 of those monsters; Special Summon 2 monsters with the same name as that target from your Deck, then take damage equal to their combined original ATK, also, for the rest of this turn after this card resolves, you can only Special Summon from the Extra Deck once."
   }
 }

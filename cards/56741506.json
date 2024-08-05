@@ -9,8 +9,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2+ monsters, including a Link Monster\r\nMust first be Link Summoned. If this card is Special Summoned: You can banish 1 Spell from your hand or GY, then target 1 monster your opponent controls with 2500 or less ATK; equip that face-up monster to this card as an Equip Spell. You can only use this effect of \"Sky Striker Ace - Azalea Temperance\" once per turn. When this card is destroyed by battle: You can Special Summon 1 other \"Sky Striker\" monster from your hand or GY."
   }
 }

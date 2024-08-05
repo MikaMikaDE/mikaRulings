@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If you control another \"Exosister\" monster: You can draw 1 card, then if you control \"Exosister Irene\", you gain 800 LP. If your opponent moves a card(s) out of either GY (except during the Damage Step): You can Special Summon from your Extra Deck, 1 \"Exosister\" Xyz Monster using this face-up card you control as material. (This is treated as an Xyz Summon.) You can only use each effect of \"Exosister Sophia\" once per turn."
   }
 }

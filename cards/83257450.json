@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "5 \"Forbidden One\" monsters\r\nCannot be destroyed by an opponent's card effects. Once per turn, if this card battles, during damage calculation: You can make this card gain ATK equal to your LP. Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can negate that activation. Once per turn, during the End Phase: You can Set 1 \"Exodd\" or \"Obliterate!!!\" Spell/Trap from your Deck. Once per turn, during your Standby Phase: Lose 1000 LP."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Zane Truesdal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Activate this Skill once per Duel, if your LP are 1500 or less and you control no monsters. Reduce your LP to 50, then Special Summon up to 3 Machine \"Cyber\" monsters from your hand, Deck, and/or GY. They each become \"Cyber Dragon\" (Machine/LIGHT/Level 5/ATK 2100/DEF 1600), and cannot be Tributed. For the rest of this turn, you cannot Summon/Set except by Fusion Summoning, nor attack except with Fusion Monsters. Destroy any monsters Summoned by this Skill during your End Phase."
   }
 }

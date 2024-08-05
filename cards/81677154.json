@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If you do not control any face-up monsters, other than \"Memento\" monsters: You can Special Summon this card from your hand. During your Main Phase: You can destroy 1 \"Memento\" monster you control, and send any number of \"Memento\" monster(s) (with different names) from your Deck to the GY whose total Levels are less than or equal to the destroyed monster's original Level. You can only use each effect of \"Mementotlan Tatsunootoshigo\" once per turn."
   }
 }

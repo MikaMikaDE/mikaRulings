@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "\"Gaia Blaze, the Force of the Sun\" + 1 face-up monster you control\r\nWhen your opponent activates a monster effect in their hand or GY (Quick Effect): You can discard 1 monster; negate that effect, and if you do, destroy that card. When this attacking card destroys an opponent's monster by battle: You can target 1 FIRE monster in your GY; Special Summon it. You can only use each effect of \"Gaia Prominence, the Fierce Force\" once per turn."
   }
 }

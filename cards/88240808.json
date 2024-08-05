@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings currently available.",
-    "Tengu": "No rulings currently available.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "●Q: Can my opponent play cards like “Bottomless Trap Hole” or “Nobleman of Crossout” while “Kycoo the Ghost Destroyer” is face-up on my side of the field? \nA: Yes, “Bottomless Trap Hole” and “Nobleman of Crossout” do not remove cards from the GY and put them out of play. \n  \n●Q: If “Kycoo the Ghost Destroyer” destroys “Vampire Lord” and inflicts Battle Damage to his/her opponent, would the controller be able to remove “Vampire Lord” from play? \nA: “Kycoo the Ghost Destroyer's” effect is activated at the time it does battle damage to a player's LP. The attacked “Vampire Lord” would not be in the GY yet, so it could not be selected by “Kycoo the Ghost Destroyer’s” controller.",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card inflicts battle damage to your opponent: You can target up to 2 monsters in their Graveyard; banish those targets. Your opponent cannot banish cards from either player's Graveyard."
   }
 }

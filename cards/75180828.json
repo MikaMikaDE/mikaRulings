@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● If \"Dimensional Fissure\" is applying, this card's ① cannot be activated.",
     "Vegas": "● If \"Dimensional Fissure\" is applying, this card's ① cannot be activated.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can discard 4 other \"Mermail\" monsters to the Graveyard; Special Summon this card from your hand. When you do: Target cards your opponent controls, up to the number of \"Mermail\" monsters in your Graveyard (if possible); this card gains 500 ATK, and if it does, destroy those targets (if any). You can Tribute 1 other face-up Attack Position \"Mermail\" monster; this card gains the following effect this turn.\n● At the start of the Damage Step, if this card battles a Defense Position monster: Destroy that monster."
   }
 }

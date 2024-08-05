@@ -7,8 +7,8 @@
     "race": "Quick-Play"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When you activate this card, you can also detach up to 3 materials from monsters you control; add 1 \"Springans\" monster from your Deck to your hand, then, if you detached any material at activation, you can Special Summon that many \"Springans\" monsters from your hand or GY. During your Main Phase, if this card is in your GY: You can target 1 Xyz Monster on the field; detach 1 material from it, and if you do, add this card to your hand. You can only use 1 \"Tally-ho! Springans\" effect per turn, and only once that turn."
   }
 }

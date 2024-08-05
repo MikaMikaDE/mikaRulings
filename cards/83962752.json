@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Activate only if a face-up Synchro Monster(s) you control is destroyed by battle or an opponent's card effect, by targeting 1 of them; Special Summon 1 Tuner and 1 or more non-Tuners from your GY, whose total Levels equal the targeted monster's, and if you do, they cannot be destroyed by battle or card effects this turn. Neither player can Synchro Summon. Destroy this card during your 3rd Standby Phase after activation."
   }
 }

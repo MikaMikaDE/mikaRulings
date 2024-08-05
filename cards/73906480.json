@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "● If you can't summon 1 of the targets, you summon neither.",
     "Vegas": "● If you can't summon 1 of the targets, you summon neither.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If your opponent controls a monster and you control no monsters: Target 1 \"Bujin\" monster in your Graveyard and 1 of your banished \"Bujin\" monsters; Special Summon both targets. They cannot be used as Xyz Material for an Xyz Summon, except for the Xyz Summon of a Beast, Beast-Warrior, or Winged Beast-Type monster."
   }
 }

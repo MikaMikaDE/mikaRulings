@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Activate 1 of these effects;\r\n● Place 1 \"Solfachord\" Pendulum Monster from your Deck in your Pendulum Zone.\r\n● Add 1 \"Solfachord\" Pendulum Monster from your hand to your Extra Deck face-up, then, place 2 \"Solfachord\" Pendulum Monsters, 1 odd and 1 even Pendulum Scale, from your Deck in your Pendulum Zones.\r\n● Add 2 cards, 1 odd and 1 even Pendulum Scale, from your Pendulum Zones to the Extra Deck face-up, and if you do, draw 2 cards.\r\nYou can only activate 1 \"Solfachord Elegance\" per turn."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Target 1 Fusion, Synchro, Xyz, or Link Monster on the field; return that face-up monster to the Extra Deck, then, based on its card type, you can Special Summon 1 appropriate monster from either GY to your field.\r\n● Fusion: Monster with the same Attribute.\r\n● Synchro: Monster with a lower Level.\r\n● Xyz: Monster with the same Level as its Rank.\r\n● Link: Monster with the same Type.\r\nYou can only activate 1 \"Starry Dragon's Cycle\" per turn."
   }
 }

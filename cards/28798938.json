@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 \"Dual Avatar\" monsters\r\nThis card gains the following effect(s), based on the original names of the materials used for its Fusion Summon. ● \"Dual Avatar - Empowered Kon-Gyo\": The ATK of your battling \"Dual Avatar\" monsters become 3000 during damage calculation only. ● \"Dual Avatar - Empowered Mitsu-Jaku\": Once per opponent's turn (Quick Effect): You can target 1 card on the field; banish it.\r\nIf this Fusion Summoned card is destroyed: You can Special Summon 1 \"Dual Avatar Fists - Yuhi\" and 1 \"Dual Avatar Feet - Kokoku\" from your Deck, and if you do, they cannot be destroyed by battle or card effects this turn."
   }
 }

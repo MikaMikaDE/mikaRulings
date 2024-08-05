@@ -11,8 +11,8 @@
     "attribute": "WATER"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "3 Level 4 monsters\r\nOnce per turn, you can also Xyz Summon \"Full Armored Utopic Ray Lancer\" by discarding 1 Spell/Trap and using 1 Rank 4 or lower Xyz Monster you control. (Transfer its materials to this card.) Monsters your opponent controls lose 500 ATK. At the start of the Battle Phase: You can negate the effects of all Attack Position monsters your opponent currently controls. When this attacking card destroys an opponent's monster by battle: You can detach 1 material from this card; it can make a second attack in a row."
   }
 }

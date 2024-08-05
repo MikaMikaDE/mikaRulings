@@ -7,8 +7,8 @@
     "race": "Equip"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Equip only to an \"Evil Eye\" monster. It cannot be destroyed by battle or your opponent's card effects, also your opponent cannot target it with card effects. Each time you activate the equipped monster's effect, or you activate another \"Evil Eye\" Spell/Trap Card: The equipped monster gains 500 ATK, and if it does, you lose 500 LP. (This ATK gain remains even if this card leaves the field.) If this card is in your GY: You can pay 1000 LP, then banish 1 \"Evil Eye\" Spell/Trap from your GY, except \"Evil Eye of Selene\"; Set this card. You can only use this effect of \"Evil Eye of Selene\" once per turn."
   }
 }

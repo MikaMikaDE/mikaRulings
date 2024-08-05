@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is sent to the GY as Synchro Material: You can Special Summon 2 \"Lamp Tokens\" (Fish/FIRE/Level 2/ATK 0/DEF 0), also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fish monsters. If you control a Fish Synchro Monster: You can banish this card from your GY, then target 1 card on the field; destroy it. You can only use each effect of \"Fish Lamp\" once per turn."
   }
 }

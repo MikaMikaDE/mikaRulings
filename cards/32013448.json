@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "A \"Black Luster Soldier\" monster Ritual Summoned using this card gains these effects. You can only use this effect of \"Evening Twilight Knight\" once per turn.\r\n● Once per turn: You can target 1 monster your opponent controls; banish it.\r\n● Once per turn: You can banish 1 random card from your opponent's hand face-down, until your opponent's next End Phase.\r\nIf this card is banished from your Graveyard: You can add 1 Ritual Monster from your Deck to your hand. You can only use this effect of \"Evening Twilight Knight\" once per turn."
   }
 }

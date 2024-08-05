@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nOnce per turn, if a face-up \"Odd-Eyes\" Pendulum Monster(s) you control is destroyed by battle or card effect: You can destroy 1 card in your Pendulum Zone, and if you do, place 1 face-up \"Odd-Eyes\" Pendulum Monster in your Extra Deck in your Pendulum Zone, except \"Odd-Eyes Mirage Dragon\".\n[ Monster Effect ] \nWhile an \"Odd-Eyes\" card is in your Pendulum Zone (Quick Effect): You can target 1 \"Odd-Eyes\" monster you control; the first time it would be destroyed by battle or card effect this turn, it is not destroyed. You can only use this effect of \"Odd-Eyes Mirage Dragon\" once per turn."
   }
 }

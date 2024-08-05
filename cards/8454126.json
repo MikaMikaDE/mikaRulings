@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can Ritual Summon this card with \"Rebirth of Nephthys\". If this card is Ritual Summoned: You can Special Summon 1 \"Nephthys\" Ritual Monster from your hand or Deck, except \"Conductor of Nephthys\" (this is treated as a Ritual Summon). If this card is Tributed or destroyed by a \"Nephthys\" card effect: You can activate this effect; during the next Standby Phase, destroy up to 3 \"Nephthys\" cards, except Ritual Monsters, 1 each from your hand, Deck, and field. You can only use each effect of \"Conductor of Nephthys\" once per turn."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Naturia\" monster from your Deck, or you can Special Summon 2 \"Naturia\" monsters if your opponent controls a monster with the highest ATK on the field (even if it's tied). If your opponent Special Summons a monster(s) from the Extra Deck or you Special Summon a \"Naturia\" monster(s) from the Extra Deck, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Naturia Mole Cricket\" once per turn."
   }
 }

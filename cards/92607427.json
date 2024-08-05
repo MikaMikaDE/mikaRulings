@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "(This card is always treated as a \"Frightfur\" card.)\r\nTarget 1 DARK monster you control Special Summoned from the Extra Deck; for the rest of this turn, you cannot declare attacks except with that monster, also each time that monster destroys a monster by battle and sends it to the GY, it can attack again in a row. If you control a Fairy monster, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 Level 4 or lower DARK monster from your GY to your hand. You can only use 1 \"Toy Parade\" effect per turn, and only once that turn."
   }
 }

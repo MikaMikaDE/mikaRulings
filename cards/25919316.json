@@ -9,8 +9,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Effect Monsters\r\nIf this card is Special Summoned to a zone a Link Monster points to: You can target 1 monster you control with 1500 or less ATK; this turn, it can make a second attack during each Battle Phase, also if it battles an opponent's monster, any battle damage it inflicts to your opponent is doubled. During the Standby Phase of the next turn after this card was destroyed by battle or card effect and sent to the GY: You can Special Summon this card. You can only use each effect of \"Pitknight Filly\" once per turn."
   }
 }

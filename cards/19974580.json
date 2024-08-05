@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "● Banishing monsters is part of the effect, not a cost. It happens when the ① resolves.\n● If there are no \"Iron Chain\" monsters in your GY, you cannot activate the ①.\n●The ② is mandatory.",
-    "Tengu": "No rulings currently available.",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 Tuner + 1 or more non-Tuner monsters\nYou can remove from play all \"Iron Chain\" monsters from your Graveyard to have this card gain 200 ATK for each card removed, until the End Phase. When this card inflicts Battle Damage to your opponent, send the top 3 cards of your opponent's Deck to the Graveyard."
   }
 }

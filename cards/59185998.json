@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If an \"Altergeist\" monster you control would be used as Link Material for an \"Altergeist\" monster, this card in your hand can also be used as material. You can only use this effect of \"Altergeist Pookuery\" once per turn. If an \"Altergeist\" Link Monster is Link Summoned to your field, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use this effect of \"Altergeist Pookuery\" once per Duel."
   }
 }

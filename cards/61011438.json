@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "(This card is always treated as a \"Gem-Knight\" card.)\r\nYou can discard 1 \"Gem-Knight\" or \"Melodious\" card; Special Summon this card from your hand. You can only use this effect of \"Brilliant Rose\" once per turn. Once per turn: You can send 1 \"Gem-Knight\" or \"Melodious\" monster from your Extra Deck to the GY; until the End Phase, this card's name/Type/Attribute become the same as the original name/Type/Attribute of the monster sent to the GY to activate this effect."
   }
 }

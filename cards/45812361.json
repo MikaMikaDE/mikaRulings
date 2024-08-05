@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "VS \"Effect Veiler\", \"Breakthrough Skill\", \"Divine Dragon Lord Felgrand\":\n● If you activate its effect, you don't draw any cards, and cannot Special Summon that turn.\nVS \"Fiendish Chain\" or \"Skill Drain\":\n● If you activate its effect, it resolves as normal (you draw 2 cards and it becomes the End Phase).\nVS \"Divine Wrath\" or \"Xyz Block\":\n● Since the activation was negated, you can still Special Summon that turn.\n\nIf you activated some effect to Special Summon previously that turn (EG Fiendish Chain):\n● If that card's effects were negated, you cannot activate this card's effect.\n● If that card's activation was negated, you can still Special Summon that turn.",
     "Vegas": "VS \"Effect Veiler\", \"Breakthrough Skill\", \"Divine Dragon Lord Felgrand\":\n● If you activate its effect, you don't draw any cards, and cannot Special Summon that turn.\nVS \"Fiendish Chain\" or \"Skill Drain\":\n● If you activate its effect, it resolves as normal (you draw 2 cards and it becomes the End Phase).\nVS \"Divine Wrath\" or \"Xyz Block\":\n● Since the activation was negated, you can still Special Summon that turn.\n\nIf you activated some effect to Special Summon previously that turn (EG Fiendish Chain):\n● If that card's effects were negated, you cannot activate this card's effect.\n● If that card's activation was negated, you can still Special Summon that turn.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Cannot be Special Summoned. During your Main Phase 1, if this card was Normal Summoned this turn: You can Tribute this card; draw 2 cards, then it becomes the End Phase. You cannot Special Summon during the turn you activate this effect."
   }
 }

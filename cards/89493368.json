@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "● The ① and ② are Trigger Effects.\n● The ② targets the attacking monster.\n● If the activation of the ① is negated, the ② cannot be activated that turn.\n● If this card is Summoned at the same time as another monster, the ① cannot be activated.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "The first time a monster(s) is Summoned to your opponent's side of the field each turn, inflict 800 damage to your opponent. During the Battle Phase of the turn this effect is activated, you can negate the attack of 1 monster your opponent controls. You can send 1 face-up \"Trap Reactor・Y FI\", 1 face-up \"Spell Reactor・RE\" and this face-up card you control to the Graveyard to Special Summon 1 \"Flying Fortress SKY FIRE\" from your hand, Deck, or Graveyard."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nIf a monster(s) you control is destroyed by card effect (except during the Damage Step): You can add 1 \"Metalfoes\" card from your GY to your hand, except \"Metalfoes Vanisher\". You can only use this effect of \"Metalfoes Vanisher\" once per turn.\n[ Monster Effect ] \nWhile this card is in your hand: You can target 2 face-up cards you control, including a \"Metalfoes\" card; destroy them, and if you do, Special Summon this card from your hand. If this card is Special Summoned by the effect of a \"Metalfoes\" card: You can target 1 monster your opponent controls or in their GY; banish it. You can only use each monster effect of \"Metalfoes Vanisher\" once per turn."
   }
 }

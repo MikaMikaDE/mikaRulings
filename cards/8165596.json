@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Level 8 monsters\nIf this card has a \"Photon\" card as material, it cannot be destroyed by card effects. You can only use each of the following effects of \"Number 90: Galaxy-Eyes Photon Lord\" once per turn.\n● When an opponent's monster activates its effect (Quick Effect): You can detach 1 material from this card; negate that monster's effect, and if the detached material was a \"Galaxy\" card, destroy that card.\n● During your opponent's turn (Quick Effect): You can take 1 \"Photon\" or \"Galaxy\" card from your Deck, and either add it to your hand or attach it to this card as material."
   }
 }

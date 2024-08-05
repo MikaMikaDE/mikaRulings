@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "When this card is activated: Add 1 \"Ancient Gear\" Spell/Trap from your Deck to your hand, except \"Ancient Gear Advance\". Once per turn: You can Tribute 1 monster; draw 1 card and apply this effect for the rest of this turn (even if this card leaves the field).\r\n● You can Normal Summon \"Ancient Gear Golem\", or Level 5 or higher monsters that mention it, without Tributing.\r\nYou cannot Set cards the turn you activate this card. You can only activate 1 \"Ancient Gear Advance\" per turn."
   }
 }

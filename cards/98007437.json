@@ -11,8 +11,8 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If you Special Summon a Level 5 or higher Dragon monster(s): You can Special Summon this card from your hand. If this card is Special Summoned: You can make this card's Attribute and Level become the same as 1 of your banished Dragon monsters'. If this card is sent to the GY: You can target 1 Dragon monster you control; it gains 1000 ATK. Neither player can activate cards or effects in response to this effect's activation. You can only use each effect of \"Knight Armed Dragon, the Armored Knight Dragon\" once per turn."
   }
 }

@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Special Summon this card as a Normal Monster (Psychic/DARK/Level 4/ATK 1900/DEF 2500) (this card is also still a Trap), then you can Special Summon 1 Machine \"Time Thief\" monster from your hand, Deck, or GY. If you control an Xyz Monster(s) that has both a Spell and a Trap as material: You can banish this card from your GY; banish 1 card on the field. You can only use each effect of \"Time Thief Power Reserve\" once per turn."
   }
 }

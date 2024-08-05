@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "\"Veidos the Eruption Dragon of Extinction\" + 2+ Level 9 or lower Pyro monsters\r\nCannot be destroyed by card effects, also your opponent cannot target it with monster effects. If this card is Fusion Summoned: You can destroy all Spells and Traps your opponent controls. When your opponent activates a card or effect on the field (Quick Effect): You can send 1 face-up \"Ashened\" card you control to the GY; destroy that card. You can only use this effect of \"Veidos the Dragon of Endless Darkness\" once per turn."
   }
 }

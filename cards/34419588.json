@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "(This card is always treated as a \"Kuriboh\" card.)\r\n(Quick Effect): You can discard this card, then target 1 \"Kuriboh\" monster you control; it gains 1500 ATK. You can Tribute this card you control and 1 each of \"Kuribah\", \"Kuribee\", \"Kuriboo\" and \"Kuriboh\" from your hand and/or field; add 1 \"Kuribandit\" from your Deck or GY to your hand, then, immediately after this effect resolves, you can Normal Summon 1 Fiend monster from your hand."
   }
 }

@@ -11,8 +11,8 @@
     "attribute": "FIRE"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Level 6 monsters\r\nAt the start of your opponent's Battle Phase: If this card is in the Main Monster Zone, roll a six-sided die and move this card directly to that many (1 to 6) Main Monster Zones clockwise, and if a monster is already in that zone it moves to, attach that monster to this card as material. (Transfer its materials to this card.) If this effect causes this monster's number of materials to exceed 6, you win the Duel. If this card cannot be moved, or the monster in the zone it moves to cannot be attached, send this card to the GY."
   }
 }

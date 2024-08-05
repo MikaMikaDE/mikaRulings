@@ -9,8 +9,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 Machine monsters\r\nGains ATK equal to the total Levels of the \"F.A.\" monsters this card points to x 300. Neither player takes any battle damage from attacks involving this card. Each time a \"F.A.\" Spell/Trap Card or effect is activated: Place 1 Athlete Counter on this card. When your opponent activates a monster effect (Quick Effect): You can remove 1 Athlete Counter from this card; negate the activation, and if you do, destroy it. You can only use this effect of \"F.A. Shining Star GT\" once per turn."
   }
 }

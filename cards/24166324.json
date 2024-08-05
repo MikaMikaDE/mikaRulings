@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If a \"Drytron\" card(s) is banished (except during the Damage Step): You can Tribute 1 \"Drytron\" monster, then target up to 2 of your banished \"Drytron\" cards; add them to your hand. You can reveal 1 \"Meteonis Drytron\" in your hand; Ritual Summon 1 Machine Ritual Monster from your hand or GY, by Tributing Machine monsters from your hand or field whose total ATK equals or exceeds its ATK. You can only use each effect of \"Meteoroa Drytron\" once per turn."
   }
 }

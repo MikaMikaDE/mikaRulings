@@ -7,8 +7,8 @@
     "race": "Equip"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "Equip only to a \"Plunder Patroll\" monster. It gains 500 ATK, also your opponent cannot target it with card effects. You can send this equipped card to the GY; Special Summon 1 \"Plunder Patroll\" monster from your Extra Deck with the same Attribute as a monster on the field or in the GY, then take the monster that was equipped with this card, and equip it to that Special Summoned monster as an Equip Spell with this effect.\r\n● The equipped monster gains 500 ATK.\r\nYou can only use this effect of \"Emblem of the Plunder Patroll\" once per turn."
   }
 }

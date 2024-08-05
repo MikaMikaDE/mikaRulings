@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "1 \"Evil HERO\" monster + 1 Level 5 or higher monster\r\nMust be Special Summoned with \"Dark Fusion\". Cannot be destroyed by battle or card effects. During your Main Phase: You can destroy all monsters your opponent controls with ATK less than or equal to this card's, also this card gains 200 ATK for each monster destroyed this way, also you cannot declare an attack for the rest of this turn, except with \"HERO\" monsters. You can only use this effect of \"Evil HERO Malicious Bane\" once per turn."
   }
 }

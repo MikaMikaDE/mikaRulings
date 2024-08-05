@@ -9,8 +9,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -39,6 +39,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "2 monsters, including a Fiend monster\r\nDuring the Main Phase (Quick Effect): You can target 1 face-up card you control; destroy it, then you can apply 1 of these effects.\r\n● Place 1 \"Abyss Playhouse - Fantastic Theater\" from your Deck, face-up in your Field Zone.\r\n● Place 1 \"Abyss Actor\" Pendulum Monster from your Deck in your Pendulum Zone.\r\nYou can only use this effect of \"Abyss Actor - Super Producer\" once per turn."
   }
 }

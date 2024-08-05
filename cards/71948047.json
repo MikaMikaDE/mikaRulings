@@ -7,8 +7,8 @@
     "race": "Normal"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "(This card is always treated as a \"Rescue-ACE\" card.)\r\nTarget 1 \"Rescue-ACE\" monster you control; for the rest of this turn, that monster you control gains 1500 ATK/DEF, is unaffected by your opponent's monster effects, and the next time it would be destroyed by battle, it is not destroyed. You can banish this card from your GY, then target 1 \"Rescue-ACE\" Spell in your GY; Set that card. You can only use this effect of \"REINFORCE!\" once per turn."
   }
 }

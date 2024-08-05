@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can Special Summon this card (from your hand) by discarding 1 card. You can only Special Summon \"Nightmare Apprentice\" once per turn this way. If this card battles a monster, neither can be destroyed by that battle. If this card is Normal or Special Summoned: You can add 1 Illusion monster from your Deck to your hand, except \"Nightmare Apprentice\". You can only use this effect of \"Nightmare Apprentice\" once per turn."
   }
 }

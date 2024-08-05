@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "If an \"Armed Dragon\" monster(s) you control would be destroyed by card effect, you can send this card to the GY instead. You can target 1 \"Armed Dragon\" monster you control, then activate 1 of these effects;\r\n● It gains ATK equal to its Level x 100 (even if this card leaves the field).\r\n● Add 1 \"Armed Dragon\" monster with an equal or lower Level than it from your GY to your hand.\r\nYou can only use this effect of \"Armed Dragon Lightning\" once per turn."
   }
 }

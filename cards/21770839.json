@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "[ Pendulum Effect ] \nYou can discard 1 card; add 1 face-up Dragon Pendulum Monster from your Extra Deck to your hand. You can only use this effect of \"Odd-Eyes Phantasma Dragon\" once per turn.\n[ Monster Effect ] \nIf you have 2 cards in your Pendulum Zones and a face-up \"Odd-Eyes\" Pendulum Monster in your Extra Deck: You can Special Summon this card from your hand. You cannot Pendulum Summon the turn you activate this effect. During damage calculation, if this card attacks an opponent's monster: You can make that opponent's monster lose 1000 ATK for each face-up Pendulum Monster in your Extra Deck, during damage calculation only. You can only use each effect of \"Odd-Eyes Phantasma Dragon\" once per turn."
   }
 }

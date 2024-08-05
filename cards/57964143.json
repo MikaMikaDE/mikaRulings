@@ -7,8 +7,8 @@
     "race": "Continuous"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "You can target 1 Fish monster you control; it is treated as a Tuner this turn. When an opponent's monster declares an attack: You can discard 1 Fish monster; change all monsters your opponent controls to Defense Position. If your Fish monster is destroyed by battle or sent to your GY: You can send this face-up card from your Spell & Trap Zone to the GY; Special Summon 1 Fish monster from your GY. You can only use each effect of \"Arbitration of White\" once per turn."
   }
 }

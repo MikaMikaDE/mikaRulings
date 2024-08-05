@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -41,6 +41,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "While you control \"Shining Sarcophagus\", you can Normal Summon this card without Tributing. Other monsters you control gain 500 ATK, during your turn only. If this card is Normal or Special Summoned: You can target 1 monster your opponent controls; take control of it until the End Phase, but that monster cannot attack unless you controlled \"Shining Sarcophagus\" when this effect was activated. You can only use this effect of \"Archfiend's Advent\" once per turn."
   }
 }

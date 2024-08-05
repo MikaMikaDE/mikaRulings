@@ -7,8 +7,8 @@
     "race": "Field"
   },
   "Rulings": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No rulings available for this card.",
+    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
     "Goat": "No rulings available for this card.",
     "HAT": "No rulings available for this card.",
     "Vegas": "No rulings available for this card.",
@@ -37,6 +37,7 @@
     "ReturnDAD": "No updated text available for this card.",
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card."
+    "Stein": "No updated text available for this card.",
+    "Base": "(This card is always treated as a \"Barian's\" card.)\r\n\"Number\" monsters you control with a number between \"101\" and \"107\" in their name, as well as \"CXyz\" monsters and \"Number C\" monsters you control, cannot be destroyed by your opponent's card effects, and your opponent cannot target them with card effects. Once per turn, if you Special Summon an Xyz Monster with a \"Rank-Up-Magic\" Spell's effect: You can target that Xyz Monster and 1 monster your opponent controls; attach that opponent's monster to that Xyz Monster as material."
   }
 }
