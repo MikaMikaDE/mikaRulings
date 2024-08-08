@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
+    "Edison": "● This Quick Effect activates in your GY, banishes this card for cost and targets the Special Summoned Synchro Monster.\n\n● It cannot be activated during the Damage Step (e.g. vs \"Colossal Fighter\").\n\n● If the summoned Synchro Monster is face-down when this effect resolves, it is not destroyed (e.g. vs \"Book of Moon\")\n\n● You cannot activate this effect if two or more Synchro Monsters are special summoned simultaneously.\n\n● When a Synchro Monster is Special Summoned to your opponent's field while this card is in your hand, it you discard this card for cost (e.g. for \"Raigeki Break\"), you can then chain the effect of this card.",
+    "Tengu": "● This Quick Effect activates in your GY, banishes this card for cost and targets the Special Summoned Synchro Monster.\n\n● It cannot be activated during the Damage Step (e.g. vs \"Colossal Fighter\").\n\n● If the summoned Synchro Monster is face-down when this effect resolves, it is not destroyed (e.g. vs \"Book of Moon\")\n\n● You cannot activate this effect if two or more Synchro Monsters are special summoned simultaneously.\n\n● When a Synchro Monster is Special Summoned to your opponent's field while this card is in your hand, it you discard this card for cost (e.g. for \"Raigeki Break\"), you can then chain the effect of this card.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -28,8 +28,8 @@
     "Base": "1. This effect is a Quick Effect that activates in the GY.\\n2. Removing \"Shiny Black 'C'\" from play is a cost to activate its effect.\\n3. This effect targets the Synchro Monster that was Special Summoned.\\n4. You cannot activate this effect during the Damage Step.\\n5. If \"Remove Brainwashing\" is active and you Special Summon your opponent's Synchro Monster with \"Monster Reborn\", control of the monster is immediately shifted back to your opponent and the monster is treated as being Special Summoned on your opponent's side of the field, so you can activate the effect of \"Shiny Black 'C'\".\\n6. If \"Book of Moon\" is Chained to the effect of \"Shiny Black 'C'\" to flip the targeted monster face-down, the monster is not destroyed because it cannot be identified as a Synchro Monster.\\n8. You can only activate the effect of \"Shiny Black 'C'\" when 1 monster is Special Summoned and it is a Synchro Monster."
   },
   "PSCT": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No updated text available for this card.",
+    "Edison": "① When exactly 1 Synchro Monster is Special Summoned to your opponent's field (Quick Effect): You can banish this card from your GY, then target that face-up Synchro Monster; destroy that target.",
+    "Tengu": "① When exactly 1 Synchro Monster is Special Summoned to your opponent's field (Quick Effect): You can banish this card from your GY, then target that face-up Synchro Monster; destroy that target.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
     "Vegas": "No updated text available for this card.",
