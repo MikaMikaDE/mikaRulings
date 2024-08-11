@@ -28,8 +28,8 @@
     "Base": "1. \"Dupe Frog\" counts for activation of \"Des Croaking\"."
   },
   "PSCT": {
-    "Edison": "① This card's name becomes \"Des Frog\" while face-up on the field.\n② Your opponent's Monsters can't target any monsters for attacks, except this one. \n③ When sent from the field to the GY: You can add 1 \"Frog\" monster from your Deck/GY to your hand.",
-    "Tengu": "① This card's name becomes \"Des Frog\" while face-up on the field.\n② Your opponent's Monsters can't target any monsters for attacks, except this one. \n③ When sent from the field to the GY: You can add 1 \"Frog\" monster from your Deck/GY to your hand.",
+    "Edison": "① This card's name becomes \"Des Frog\" while face-up on the field.\n② Your opponent's Monsters can't target any monsters for attacks, except this one. \n③ When sent from the field to the GY: You can add 1 \"Frog\" monster from your Deck/GY to your hand, except \"Dupe Frog\".",
+    "Tengu": "① This card's name becomes \"Des Frog\" while face-up on the field.\n② Your opponent's Monsters can't target any monsters for attacks, except this one. \n③ When sent from the field to the GY: You can add 1 \"Frog\" monster from your Deck/GY to your hand, except \"Dupe Frog\".",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
     "Vegas": "No updated text available for this card.",
