@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
+    "Tengu": "● This mandatory effect cannot miss the timing.\n\n● If this face-down card leaves the field (e.g. by \"Compulsory Evacuation Device\", \"Raigeki Break\", \"Caius the Shadow Monarch\" or if Tributed/used as Fusion material while set), this effect will not activate.\n\n● If this face-down card is attacked, it is flipped face-up before being sent to the GY so the effect will activate.\n\n● If this card is returned to the deck (e.g. by \"Phoenix Wind Wing Blast\", \"Raiza the Storm Monarch\"), this effect will not activate even if it was face-up.\n\n● When using this card to summon a Tribute/Fusion/Synchro monster, this effect will activate in the summon response window. You cannot activate the ignition effect of the summoned monster in this chain.\n\n● If used for a Tribute/Fusion/Synchro summon, this card's effect must be placed on the chain before the on-summon trigger effect of the Tribute/Fusion/Synchro monster.\nRefer to https://tengutools.com/rulings/?faq=SEGOC for more details.\n\n● This effect will activate even if \"Reborn Tengu\" is not in it's trigger location.\nRefer to https://tengutools.com/rulings/?faq=Trigger+locations for more details.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -29,7 +29,7 @@
   },
   "PSCT": {
     "Edison": "No rulings available for this card.",
-    "Tengu": "No updated text available for this card.",
+    "Tengu": "① If this face-up card leaves the field: Special Summon 1 \"Reborn Tengu\" from your Deck.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
     "Vegas": "No updated text available for this card.",
