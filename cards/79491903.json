@@ -11,7 +11,7 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "●This effect activates even if “Reptilianne Naga” is destroyed during the Damage Step. If “Reptilianne Naga” is in Attack Position, the effect to change it to Attack Position does not activate. The effect to change a monster’s ATK to 0 applies as long as that monster is face-up on the field. ",
+    "Edison": "● The ① effect is a Continuous Effect.\n\nAbout the ② effect:\n● It is a mandatory Trigger Effect.\n● it will activate (in the GY/Banishment) even if this card is destroyed by battle, due to TCG ruling differences (e.g. vs \"Skill Drain\").\n● In Edison format, if two 0 ATK monsters battle, they will be destroyed.\n● If the ATK of \"Tragoedia\" is set to 0 by this effect, it will remain 0 even if the number of cards in hand changes.\n● If the activation of this effect is negated (e.g. by \"Light and Darkness Dragon\"), it will not activate again during that End Step.\n\nAbout the ③ effect:\n● It is a mandatory Trigger Effect.\n● It will not activate if this card is not in face-up Defense Position.\n● If the activation of this effect is negated (e.g. by \"Light and Darkness Dragon\"), it will continue to activate until it can resolve.",
     "Tengu": "\n●This effect activates even if “Reptilianne Naga” is destroyed during the Damage Step. If “Reptilianne Naga” is in face-up Attack Position, the effect to change it to Attack Position does not activate. The effect to change a monster’s ATK to 0 applies as long as that monster is face-up on the field. ",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -28,7 +28,7 @@
     "Base": "1. This effect activates even if \"Reptilianne Naga\" is destroyed during the Damage Step.\\n\\n(For ruling #1, Naga’s effect to change a monster’s ATK to 0 activates in the End Step, so it must be face-up at that time. Source: j-wiki.)\\n2. If \"Reptilianne Naga\" is in face-up Attack Position, the effect to change it to Attack Position does not activate.\\n3. The effect to change a monster's ATK to 0 applies as long as that monster is face-up on the field."
   },
   "PSCT": {
-    "Edison": "No Edison-Accurate PSCT available for this card.",
+    "Edison": "① This card cannot be destroyed by battle.\n② At the end of the Battle Phase, if this card battled: the ATK of the monster(s) this card battled becomes 0.\n③ During your End Phase, if you control this Attack Position card: change this card to face-up Defense Position.",
     "Tengu": "No updated text available for this card.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
