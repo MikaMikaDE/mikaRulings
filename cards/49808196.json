@@ -11,8 +11,8 @@
     "attribute": "DARK"
   },
   "Rulings": {
-    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
+    "Edison": "● This mandatory effect activates only when this card is used for a Tribute Summon. Not when tributed in other ways (e.g. for a Ritual Summon or for \"Destiny HERO - Plasma\").\n\n● If this card is face-down when tributed, this effect will not activate (this was reversed May 2011).\n\n● If you tribute this card for the Tribute Set of a DARK monster, this effect will not activate.\n\n● If this card is banished upon being tributed, this effect will still activate (e.g. while \"Macro Cosmos\" is applying).\n\n● If your opponent takes control of this card you own and tributes it for a DARK monster, this effect will activate in your GY and you will summon the tokens to your field.",
+    "Tengu": "● This mandatory effect activates only when this card is used for a Tribute Summon. Not when tributed in other ways (e.g. for a Ritual Summon or for \"Destiny HERO - Plasma\").\n\n● If this card is face-down when tributed, this effect will activate.\n\n● If you tribute this card for the Tribute Set of a DARK monster, this effect will not activate.\n\n● If this card is banished upon being tributed, this effect will still activate (e.g. while \"Macro Cosmos\" is applying).\n\n● If your opponent takes control of this card you own and tributes it for a DARK monster, this effect will activate in your GY and you will summon the tokens to your field.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -28,8 +28,8 @@
     "Base": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg"
   },
   "PSCT": {
-    "Edison": "No Edison-Accurate PSCT available for this card.",
-    "Tengu": "No updated text available for this card.",
+    "Edison": "① If you tribute this face-up card for the Tribute Summon of a DARK monster: Special Summon 3 \"Metabo Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position.\nThese tokens cannot be Tributed for a Tribute Summon.",
+    "Tengu": "① If you tribute this card for the Tribute Summon of a DARK monster: Special Summon 3 \"Metabo Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position.\nThese tokens cannot be Tributed for a Tribute Summon.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
     "Vegas": "No updated text available for this card.",
