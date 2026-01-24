@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "● You cannot use Fluff Tokens for a Tribute Set.\n● You can't declare the name of a token with “Prohibition”.\n● Summoning 2 Tokens means that you must Summon 2 Tokens. You cannot choose to Summon 1 nor 3. Summoning 4 would be right out.\n●In this format, If this card is discarded for “Monster Reincarnation”, and then added back to the hand by the same “Monster Reincarnation”, its effect activates in the hand.",
-    "Tengu": "● You cannot use Fluff Tokens for a Tribute Set.\n● You cannot declare the name of a token with “Prohibition”.\n● In Edison, trigger effects can activate anywhere. If this card is discarded for, and then added to the hand by,  “Monster Reincarnation”, its effect activates in the hand.",
+    "Edison": "● You cannot use Fluff Tokens for a Tribute Set the turn they are summoned.\n● You can't declare the name of a token with “Prohibition”.\n● Summoning 2 Tokens means that you must Summon 2 Tokens. You cannot choose to Summon 1 nor 3. Summoning 4 would be right out.\n●In this format, If this card is discarded for “Monster Reincarnation”, and then added back to the hand by the same “Monster Reincarnation”, its effect activates in the hand.",
+    "Tengu" : "● You cannot use Fluff Tokens for a Tribute Set the turn they are summoned.\n\n● You cannot declare the name of a token with \"Prohibition\".\n\n● Trigger effects can activate anywhere. If this card is sent to the GY as cost and in the same chain targeted by \"Monster Reincarnation\", \"D.D Crow\", or \"The Transmigration Prophecy\", its effect will still resolve, activating in the hand, banishment or deck, respectively.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
