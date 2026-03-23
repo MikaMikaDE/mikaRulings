@@ -24,8 +24,8 @@
     "Base": "1. Count the number of 'Elemental HERO' cards on your side of the field when the effect of \"R - Righteous Justice\" resolves.\\n2. There must be enough Spell & Trap Cards on the field in order to activate \"R - Righteous Justice\". If there are fewer Spell & Trap Cards than the number of your 'Elemental HERO' cards then you cannot activate it.\\n3. If an effect is chained that reduces the number of Spell & Trap Cards on the field so that you have more 'Elemental HERO' cards than cards to destroy, the entire effect disappears.\\n4. You cannot pick \"R - Righteous Justice\" as 1 of the Spell & Trap Cards to destroy for its own effect.\\n5. \"R - Righteous Justice\" does not target."
   },
   "PSCT": {
-    "Edison": "No Edison-Accurate PSCT available for this card.",
-    "Tengu": "No updated text available for this card.",
+    "Edison": "Destroy Spells/Traps on the field equal to the number of \"Elemental HERO\" cards you control.",
+    "Tengu": "Destroy Spells/Traps on the field equal to the number of \"Elemental HERO\" cards you control.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
     "Vegas": "No updated text available for this card.",
