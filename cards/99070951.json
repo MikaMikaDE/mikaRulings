@@ -12,7 +12,7 @@
   },
   "Rulings": {
     "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
+    "Tengu": "● Neither effect of this card targets.\n● Both effects are mandatory, start a Chain, and can activate during the Damage Step.\n● The owner of the banished card is allowed to look at the banished card.\n● If \"Esper Girl\" is flipped face-down, equipped to a monster (such as by the effect of \"Relinquished\") or banished temporarily (such as by the effect of \"Interdimensional Matter Transporter\") and then later sent to the GY, the effect to add the card it banished to your hand still activates.\n● If the same \"Esper Girl\" is banished and then Special Summoned multiple times in a single turn, you banish the top card of your Deck from play, face-down, each time it is Special Summoned. When it is sent to the GY, you only add the most recently removed card to your hand.\n● The player Special Summoning \"Esper Girl\" is the player who adds the card to their hand, regardless of which GY \"Esper Girl\" was sent to.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -42,6 +42,6 @@
     "Trooper": "No updated text available for this card.",
     "Circle": "No updated text available for this card.",
     "Stein": "No updated text available for this card.",
-    "Base": "When this removed from play card is Special Summoned, remove from play the top card of your Deck, face-down. When this card is sent from the field to the Graveyard, add that removed card to your hand."
+	"Base": "When this removed from play card is Special Summoned, remove from play the top card of your Deck, face-down. When this card is sent from the field to the Graveyard, add that removed card to your hand."
   }
 }
