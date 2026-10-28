@@ -11,7 +11,7 @@
     "attribute": "WIND"
   },
   "Rulings": {
-    "Edison": "● The ① effect is an ignition effect. It activates, and can be chained to.\n● Sending a card to the GY is part of the ① effect. It happens when this effect resolves. \nIf you can't send, you can't Summon. If you can't Summon, you don't send.\n(If the effect is negated, you don't send a card from your hand to the GY)",
+    "Edison": "● The ① effect is an ignition effect. It activates, and can be chained to.\n● Sending a card to the GY is part of the ① effect. It happens when this effect resolves. \nIf you can't send, you can't Summon. If you can't Summon, you don't send.\n(e.g. if \"Mind Crush\" is chained, removing the last monster from your hand or if \"Call of the Haunted is chained\", summoning \"Vanity's Fiend\".\nBut not if \"Macro Cosmos\" is chained, in which case you may banish the sent monster instead, still summoning this card).\n● If the effect is negated, you don't send a card from your hand to the GY.",
     "Tengu": "● Summoning this card with its Ⓢ is not an activated effect.\n● Even if this card's effects are negated, its Ⓒ restrictions still apply.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
