@@ -11,8 +11,8 @@
     "attribute": "EARTH"
   },
   "Rulings": {
-    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
+    "Edison": "● If this card is destroyed by battle, this effect will not activate.\n\n● This effect will activate if your opponent's \"Saber\" monster is destroy by battle and sent to the GY.\n\n● If this card is not face-up when this effect would resolve (e.g. if \"Raigeki Break\" is chained), you do not draw a card.\n\n● If two \"Saber\" monsters destroy eachother by battle, this effect will trigger twice within the same chain on different chain links.",
+    "Tengu": "● If this card is destroyed by battle, this effect will not activate.\n\n● This effect will activate if your opponent's \"Saber\" monster is destroy by battle and sent to the GY.\n\n● If this card is not face-up when this effect would resolve (e.g. if \"Raigeki Break\" is chained), you do not draw a card.\n\n● If two \"Saber\" monsters destroy eachother by battle, this effect will trigger twice within the same chain on different chain links.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -28,8 +28,8 @@
     "Base": "1. \"X-Saber Axel\" must be face-up on the field when its effect resolves for you to draw 1 card."
   },
   "PSCT": {
-    "Edison": "No Edison-Accurate PSCT available for this card.",
-    "Tengu": "No updated text available for this card.",
+    "Edison": "① If an \"Saber\" monster is destroyed by battle and sent to the GY: Draw 1 card.\n(This card must remain face-up on the field to activate and to resolve this effect.)",
+    "Tengu": "① If an \"Saber\" monster is destroyed by battle and sent to the GY: Draw 1 card.\n(This card must remain face-up on the field to activate and to resolve this effect.)",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
     "Vegas": "No updated text available for this card.",
