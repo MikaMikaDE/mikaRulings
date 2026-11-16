@@ -11,8 +11,8 @@
     "attribute": "LIGHT"
   },
   "Rulings": {
-    "Edison": "●You can use Ojama Tokens as Fusion Material Monsters when you Summon this card.\n●If Ojama Knight is destroyed while Centrifugal Field is in play, you can't Special Summon any monsters.",
-    "Tengu": "\n●You can use Ojama Tokens as Fusion Material Monsters when you Summon this card.\n●If Ojama Knight is destroyed while Centrifugal Field is in play, you cannot Special Summon any monsters.",
+    "Edison": "●This is a continuous effect, it applies while this card is face-up on the field.\n●If you take control of your opponent’s face-up \"Ojama Knight\", you can't choose new Monster Card Zones because the zones are selected when \"Ojama Knight becomes\" face-up on the field.\n●If you choose up to 3 Monster Card Zones and your \"Ojama Knight\" is flipped face-down, the Monster Card Zones are usable again. When \"Ojama Knight\" is flipped face-up again, you can choose up to 3 Monster Card Zones again.\n●You can use \"Ojama Tokens\" as Fusion Material Monsters when you Summon this card.\n●If \"Ojama Knight\" is destroyed while \"Centrifugal Field\" is in play, you can't Special Summon any monsters.",
+    "Tengu": "\n●This is a continuous effect, it applies while this card is face-up on the field.\n●If you take control of your opponent’s face-up \"Ojama Knight\", you can't choose new Monster Card Zones because the zones are selected when \"Ojama Knight becomes\" face-up on the field.\n●If you choose up to 3 Monster Card Zones and your \"Ojama Knight\" is flipped face-down, the Monster Card Zones are usable again. When \"Ojama Knight\" is flipped face-up again, you can choose up to 3 Monster Card Zones again.\n●You can use \"Ojama Tokens\" as Fusion Material Monsters when you Summon this card.\n●If \"Ojama Knight\" is destroyed while \"Centrifugal Field\" is in play, you can't Special Summon any monsters.",
     "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
     "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
@@ -28,8 +28,8 @@
     "Base": "1. You can use Ojama Tokens as Fusion Material Monsters when you Summon this card.\\n2. If \"Ojama Knight\" is destroyed while \"Centrifugal Field\" is in play, you cannot Special Summon any monsters."
   },
   "PSCT": {
-    "Edison": "No Edison-Accurate PSCT available for this card.",
-    "Tengu": "No updated text available for this card.",
+    "Edison": "2 \"Ojama\" monsters\n①Choose up to 2 of your opponent's unused Monster Zones. Those zones cannot be used.",
+    "Tengu": "2 \"Ojama\" monsters\n①Choose up to 2 of your opponent's unused Monster Zones. Those zones cannot be used.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
     "Vegas": "No updated text available for this card.",
