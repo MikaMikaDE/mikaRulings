@@ -28,8 +28,8 @@
     "Base": "1. This effect activates even if \"Reptilianne Naga\" is destroyed during the Damage Step.\\n\\n(For ruling #1, Naga’s effect to change a monster’s ATK to 0 activates in the End Step, so it must be face-up at that time. Source: j-wiki.)\\n2. If \"Reptilianne Naga\" is in face-up Attack Position, the effect to change it to Attack Position does not activate.\\n3. The effect to change a monster's ATK to 0 applies as long as that monster is face-up on the field."
   },
   "PSCT": {
-    "Edison": "① This card cannot be destroyed by battle.\n② At the end of the Battle Phase, if this card battled: the ATK of the monster(s) this card battled becomes 0.\n③ During your End Phase, if you control this Attack Position card: change this card to face-up Defense Position.",
-    "Tengu": "① This card cannot be destroyed by battle.\n② At the end of the Battle Phase, if this card battled: the ATK of the monster(s) this card battled becomes 0.\n③ During your End Phase, if you control this Attack Position card: change this card to face-up Defense Position.",
+    "Edison": "① This card cannot be destroyed by battle.\n② At the end of the Battle Phase, if this card battled: the ATK of the monster(s) this card battled becomes 0.\n③ During your End Phase, if you control this Defense Position card: change this card to face-up Attack Position.",
+    "Tengu": "① This card cannot be destroyed by battle.\n② At the end of the Battle Phase, if this card battled: the ATK of the monster(s) this card battled becomes 0.\n③ During your End Phase, if you control this Defense Position card: change this card to face-up Attack Position.",
     "Goat": "No updated text available for this card.",
     "HAT": "No updated text available for this card.",
     "Vegas": "No updated text available for this card.",
